@@ -1,0 +1,4 @@
+3
+data.zasq.txt 1
+data.zbmt.txt 1
+data.zdji.txt 2

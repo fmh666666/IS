@@ -1,0 +1,8 @@
+7
+data.vi.txt 1
+data.zabe.txt 1
+data.zafk.txt 1
+data.zawz.txt 2
+data.zazo.txt 1
+data.zeeq.txt 1
+data.zene.txt 1

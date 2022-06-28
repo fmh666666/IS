@@ -1,0 +1,12 @@
+11
+data.zafu.txt 3
+data.zaim.txt 1
+data.zapr.txt 1
+data.zasw.txt 3
+data.zbwq.txt 1
+data.zcft.txt 1
+data.zcmv.txt 1
+data.zctn.txt 1
+data.zcvi.txt 1
+data.zdlm.txt 1
+data.zexm.txt 1

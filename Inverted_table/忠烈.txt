@@ -1,0 +1,10 @@
+9
+data.zate.txt 2
+data.zbla.txt 4
+data.zbye.txt 2
+data.zdle.txt 1
+data.zeag.txt 2
+data.zeai.txt 2
+data.zeaj.txt 14
+data.zegz.txt 1
+data.zeqv.txt 2

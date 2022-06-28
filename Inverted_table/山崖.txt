@@ -1,0 +1,12 @@
+11
+data.gk.txt 1
+data.mx.txt 1
+data.pn.txt 1
+data.zabe.txt 1
+data.zacd.txt 1
+data.zazn.txt 1
+data.zbua.txt 1
+data.zcej.txt 3
+data.zcuh.txt 1
+data.zcve.txt 1
+data.zexm.txt 2

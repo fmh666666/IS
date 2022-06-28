@@ -1,0 +1,13 @@
+12
+data.xe.txt 1
+data.zadv.txt 1
+data.zajh.txt 8
+data.zasw.txt 1
+data.zawu.txt 1
+data.zaxj.txt 1
+data.zbor.txt 1
+data.zbwq.txt 1
+data.zcln.txt 1
+data.zeec.txt 4
+data.zenn.txt 1
+data.zevt.txt 1

@@ -1,0 +1,9 @@
+8
+data.zaxj.txt 2
+data.zbux.txt 1
+data.zcih.txt 1
+data.zcmy.txt 1
+data.zdby.txt 1
+data.zdzm.txt 4
+data.zeqh.txt 1
+data.zfcp.txt 1

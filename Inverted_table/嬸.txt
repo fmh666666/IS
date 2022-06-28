@@ -1,0 +1,6 @@
+5
+data.ew.txt 2
+data.zbsu.txt 1
+data.zdlo.txt 2
+data.zedk.txt 2
+data.zenn.txt 2

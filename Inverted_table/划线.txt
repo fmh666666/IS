@@ -1,0 +1,5 @@
+4
+data.ok.txt 2
+data.zcdv.txt 1
+data.zegz.txt 1
+data.zevl.txt 1

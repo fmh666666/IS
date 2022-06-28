@@ -1,0 +1,9 @@
+8
+data.cz.txt 1
+data.zadv.txt 1
+data.zawu.txt 2
+data.zbel.txt 2
+data.zbfz.txt 2
+data.zdud.txt 1
+data.zduo.txt 1
+data.zeoh.txt 4

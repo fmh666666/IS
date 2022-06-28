@@ -1,0 +1,8 @@
+7
+data.mo.txt 1
+data.ng.txt 1
+data.nh.txt 19
+data.zall.txt 2
+data.zaqw.txt 1
+data.zawc.txt 2
+data.zcvt.txt 3

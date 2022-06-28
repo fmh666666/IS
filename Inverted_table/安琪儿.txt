@@ -1,0 +1,4 @@
+3
+data.tj.txt 4
+data.zawo.txt 1
+data.zdcy.txt 1

@@ -1,0 +1,20 @@
+19
+data.by.txt 1
+data.gw.txt 2
+data.yx.txt 1
+data.zasq.txt 1
+data.zawb.txt 1
+data.zcdy.txt 4
+data.zcdz.txt 1
+data.zcef.txt 1
+data.zcic.txt 1
+data.zcjy.txt 1
+data.zcon.txt 1
+data.zcse.txt 1
+data.zdeb.txt 1
+data.zdou.txt 1
+data.zefs.txt 2
+data.zelt.txt 1
+data.zesq.txt 1
+data.zevq.txt 1
+data.zfaj.txt 2

@@ -1,0 +1,5 @@
+4
+data.bs.txt 1
+data.zawb.txt 1
+data.zdzm.txt 1
+data.zene.txt 1

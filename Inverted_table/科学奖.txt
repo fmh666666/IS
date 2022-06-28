@@ -1,0 +1,5 @@
+4
+data.cz.txt 2
+data.gw.txt 2
+data.zcon.txt 3
+data.zfaj.txt 1

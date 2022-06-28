@@ -1,0 +1,15 @@
+14
+data.cq.txt 4
+data.gw.txt 2
+data.jd.txt 1
+data.mt.txt 1
+data.mx.txt 1
+data.zawc.txt 1
+data.zbhv.txt 1
+data.zbts.txt 1
+data.zclm.txt 1
+data.zcsu.txt 1
+data.zduc.txt 1
+data.zefs.txt 2
+data.zevt.txt 1
+data.zfaj.txt 1

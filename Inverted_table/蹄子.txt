@@ -1,0 +1,14 @@
+13
+data.fp.txt 1
+data.mt.txt 2
+data.zaim.txt 1
+data.zasq.txt 1
+data.zbrd.txt 1
+data.zcel.txt 1
+data.zcvi.txt 8
+data.zddl.txt 1
+data.zdmw.txt 1
+data.zesi.txt 1
+data.zeva.txt 1
+data.zfae.txt 1
+data.zfai.txt 1

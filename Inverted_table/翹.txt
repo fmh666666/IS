@@ -1,0 +1,13 @@
+12
+data.hc.txt 1
+data.tv.txt 2
+data.tz.txt 1
+data.zagr.txt 2
+data.zalt.txt 3
+data.zawz.txt 2
+data.zbfp.txt 1
+data.zbla.txt 2
+data.zdwv.txt 1
+data.zeag.txt 1
+data.zeam.txt 1
+data.zfdk.txt 1

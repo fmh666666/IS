@@ -1,0 +1,7 @@
+6
+data.ft.txt 2
+data.mi.txt 2
+data.pq.txt 6
+data.zbwa.txt 1
+data.zdqk.txt 2
+data.zeik.txt 2

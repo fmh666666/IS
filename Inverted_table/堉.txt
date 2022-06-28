@@ -1,0 +1,6 @@
+5
+data.fe.txt 15
+data.ff.txt 26
+data.gz.txt 1
+data.zazo.txt 1
+data.zcpb.txt 1

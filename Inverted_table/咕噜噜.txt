@@ -1,0 +1,11 @@
+10
+data.be.txt 25
+data.cq.txt 1
+data.ng.txt 1
+data.tv.txt 1
+data.zajo.txt 1
+data.zalm.txt 1
+data.zcel.txt 1
+data.zclh.txt 1
+data.zcpb.txt 1
+data.zeaf.txt 1

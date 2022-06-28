@@ -1,0 +1,9 @@
+8
+data.pq.txt 1
+data.zafq.txt 1
+data.zajh.txt 1
+data.zasq.txt 2
+data.zbjk.txt 1
+data.zdby.txt 1
+data.zdfl.txt 1
+data.zdlw.txt 1

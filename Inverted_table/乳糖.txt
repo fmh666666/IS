@@ -1,0 +1,13 @@
+12
+data.ee.txt 1
+data.wg.txt 1
+data.zazn.txt 1
+data.zbpc.txt 1
+data.zbyv.txt 1
+data.zcnn.txt 1
+data.zctp.txt 4
+data.zczp.txt 1
+data.zdeb.txt 1
+data.zedd.txt 1
+data.zedk.txt 1
+data.zfai.txt 1

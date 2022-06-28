@@ -1,0 +1,15 @@
+14
+data.zaim.txt 2
+data.zalc.txt 1
+data.zawb.txt 1
+data.zaxj.txt 1
+data.zaxk.txt 1
+data.zbel.txt 2
+data.zbnx.txt 1
+data.zbsf.txt 1
+data.zdtr.txt 3
+data.zdwl.txt 1
+data.zeag.txt 2
+data.zess.txt 2
+data.zewd.txt 1
+data.zewn.txt 3

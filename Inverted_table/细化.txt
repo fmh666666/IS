@@ -1,0 +1,19 @@
+18
+data.ft.txt 1
+data.gw.txt 1
+data.tv.txt 1
+data.tz.txt 1
+data.zapl.txt 1
+data.zawo.txt 1
+data.zbdb.txt 1
+data.zbgd.txt 1
+data.zbha.txt 2
+data.zbsu.txt 1
+data.zcdv.txt 1
+data.zcdz.txt 1
+data.zcfn.txt 2
+data.zdcy.txt 1
+data.zddb.txt 1
+data.zdtv.txt 1
+data.zdwz.txt 1
+data.zebn.txt 1

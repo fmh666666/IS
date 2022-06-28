@@ -1,0 +1,21 @@
+20
+data.bs.txt 1
+data.co.txt 4
+data.gw.txt 3
+data.hz.txt 1
+data.wc.txt 1
+data.zaim.txt 3
+data.zbcj.txt 1
+data.zbtj.txt 1
+data.zcdy.txt 1
+data.zcdz.txt 1
+data.zcql.txt 1
+data.zdaq.txt 2
+data.zdhw.txt 1
+data.zefu.txt 1
+data.zefv.txt 1
+data.zehj.txt 1
+data.zejn.txt 1
+data.zenn.txt 1
+data.zeoh.txt 1
+data.zevq.txt 1

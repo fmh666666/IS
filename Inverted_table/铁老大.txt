@@ -1,0 +1,7 @@
+6
+data.ga.txt 1
+data.ok.txt 1
+data.zahd.txt 1
+data.zawb.txt 1
+data.zazg.txt 1
+data.zeoh.txt 2

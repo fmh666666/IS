@@ -1,0 +1,14 @@
+13
+data.gk.txt 7
+data.hg.txt 1
+data.zabe.txt 1
+data.zafy.txt 1
+data.zair.txt 1
+data.zawo.txt 6
+data.zaxj.txt 2
+data.zbre.txt 1
+data.zcsu.txt 1
+data.zczj.txt 2
+data.zdep.txt 1
+data.zduo.txt 1
+data.zeaj.txt 1

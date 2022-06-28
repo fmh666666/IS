@@ -1,0 +1,10 @@
+9
+data.bs.txt 3
+data.dg.txt 1
+data.mx.txt 2
+data.tv.txt 1
+data.zadv.txt 2
+data.zafq.txt 1
+data.zaxk.txt 2
+data.zbsd.txt 1
+data.zbzo.txt 1

@@ -1,0 +1,16 @@
+15
+data.kt.txt 1
+data.ry.txt 1
+data.zbnp.txt 1
+data.zbpm.txt 3
+data.zbvm.txt 2
+data.zcdz.txt 1
+data.zdby.txt 1
+data.zdkv.txt 1
+data.zdmw.txt 1
+data.zdod.txt 1
+data.zdpf.txt 4
+data.zdzg.txt 1
+data.zedo.txt 1
+data.zess.txt 2
+data.zeva.txt 1

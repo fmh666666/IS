@@ -1,0 +1,7 @@
+6
+data.ek.txt 2
+data.gk.txt 2
+data.jj.txt 1
+data.op.txt 2
+data.zbqu.txt 5
+data.zcmy.txt 1

@@ -1,0 +1,7 @@
+6
+data.bs.txt 1
+data.zasq.txt 2
+data.zdju.txt 1
+data.zeeh.txt 1
+data.zerh.txt 1
+data.zfai.txt 2

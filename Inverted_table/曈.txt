@@ -1,0 +1,17 @@
+16
+data.zafu.txt 1
+data.zair.txt 2
+data.zakb.txt 1
+data.zanm.txt 2
+data.zarc.txt 1
+data.zazo.txt 10
+data.zbre.txt 2
+data.zbsf.txt 1
+data.zbwa.txt 3
+data.zchd.txt 2
+data.zcww.txt 2
+data.zdar.txt 1
+data.zdbf.txt 2
+data.zemb.txt 2
+data.zezy.txt 1
+data.zfaw.txt 9

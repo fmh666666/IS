@@ -1,0 +1,9 @@
+8
+data.cf.txt 1
+data.to.txt 6
+data.ye.txt 6
+data.zakb.txt 1
+data.zbha.txt 4
+data.zczl.txt 2
+data.zduk.txt 1
+data.zejn.txt 1

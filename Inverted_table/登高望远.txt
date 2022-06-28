@@ -1,0 +1,11 @@
+10
+data.be.txt 2
+data.ha.txt 1
+data.zaoy.txt 1
+data.zbor.txt 1
+data.zcdy.txt 1
+data.zcon.txt 3
+data.zcpx.txt 1
+data.zdme.txt 1
+data.zexx.txt 1
+data.zezh.txt 1

@@ -1,0 +1,7 @@
+6
+data.uz.txt 1
+data.zdep.txt 1
+data.zdud.txt 1
+data.zduk.txt 2
+data.zduo.txt 1
+data.zelt.txt 1

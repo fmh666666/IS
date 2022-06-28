@@ -1,0 +1,6 @@
+5
+data.ng.txt 1
+data.zawc.txt 2
+data.zcqs.txt 1
+data.zcrn.txt 1
+data.zeac.txt 1

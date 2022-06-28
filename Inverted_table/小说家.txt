@@ -1,0 +1,22 @@
+21
+data.fe.txt 1
+data.kt.txt 1
+data.vi.txt 1
+data.zabe.txt 2
+data.zadv.txt 1
+data.zail.txt 1
+data.zanm.txt 1
+data.zaqf.txt 1
+data.zbbt.txt 1
+data.zbkv.txt 1
+data.zbsd.txt 1
+data.zbsu.txt 2
+data.zbzg.txt 1
+data.zcmy.txt 1
+data.zcrv.txt 1
+data.zcts.txt 1
+data.zczl.txt 1
+data.zefu.txt 1
+data.zefw.txt 1
+data.zelt.txt 1
+data.zevq.txt 2

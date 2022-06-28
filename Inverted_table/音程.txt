@@ -1,0 +1,4 @@
+3
+data.zajr.txt 1
+data.zduk.txt 1
+data.zegn.txt 1

@@ -1,0 +1,22 @@
+21
+data.jf.txt 15
+data.nh.txt 1
+data.to.txt 2
+data.ud.txt 1
+data.zabe.txt 6
+data.zafy.txt 1
+data.zajo.txt 1
+data.zaxp.txt 1
+data.zbgu.txt 1
+data.zbjh.txt 21
+data.zcdv.txt 2
+data.zcdy.txt 1
+data.zclm.txt 1
+data.zdcy.txt 2
+data.zdga.txt 2
+data.zdgp.txt 2
+data.zdwz.txt 1
+data.zefd.txt 1
+data.zeqn.txt 1
+data.zeyg.txt 4
+data.zezn.txt 1

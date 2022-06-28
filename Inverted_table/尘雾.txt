@@ -1,0 +1,7 @@
+6
+data.hp.txt 4
+data.zaim.txt 2
+data.zaqf.txt 1
+data.zenw.txt 1
+data.zfae.txt 1
+data.zfai.txt 1

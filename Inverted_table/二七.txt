@@ -1,0 +1,15 @@
+14
+data.fp.txt 1
+data.zagr.txt 1
+data.zajh.txt 8
+data.zaxj.txt 3
+data.zbhv.txt 2
+data.zbvf.txt 2
+data.zcfn.txt 1
+data.zdlw.txt 1
+data.zdst.txt 2
+data.zdzg.txt 1
+data.zefu.txt 8
+data.zefv.txt 9
+data.zeve.txt 1
+data.zfaw.txt 1

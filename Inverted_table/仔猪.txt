@@ -1,0 +1,6 @@
+5
+data.zaet.txt 5
+data.zbjk.txt 1
+data.zbkv.txt 1
+data.zcse.txt 2
+data.zedk.txt 1

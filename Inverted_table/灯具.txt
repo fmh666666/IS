@@ -1,0 +1,26 @@
+25
+data.co.txt 2
+data.cz.txt 1
+data.dg.txt 1
+data.gw.txt 1
+data.ha.txt 1
+data.hz.txt 2
+data.kt.txt 1
+data.pn.txt 1
+data.zall.txt 1
+data.zbjh.txt 1
+data.zbkf.txt 1
+data.zbrj.txt 1
+data.zbzo.txt 1
+data.zchd.txt 1
+data.zcku.txt 1
+data.zcni.txt 1
+data.zcoy.txt 1
+data.zcrg.txt 1
+data.zdlw.txt 1
+data.zdpf.txt 1
+data.zduc.txt 1
+data.zdux.txt 1
+data.zerh.txt 4
+data.zevt.txt 1
+data.zfaw.txt 1

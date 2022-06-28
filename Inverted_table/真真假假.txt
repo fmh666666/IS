@@ -1,0 +1,19 @@
+18
+data.co.txt 3
+data.hg.txt 1
+data.op.txt 1
+data.zajo.txt 1
+data.zapl.txt 1
+data.zapr.txt 1
+data.zbil.txt 1
+data.zbqu.txt 1
+data.zddl.txt 1
+data.zdey.txt 2
+data.zdlm.txt 1
+data.zdpf.txt 1
+data.zdud.txt 1
+data.zduo.txt 1
+data.zeel.txt 1
+data.zefw.txt 1
+data.zevt.txt 1
+data.zeyy.txt 1

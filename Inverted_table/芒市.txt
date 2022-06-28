@@ -1,0 +1,4 @@
+3
+data.zajn.txt 1
+data.zdwd.txt 1
+data.zedy.txt 2

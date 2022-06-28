@@ -1,0 +1,18 @@
+17
+data.bs.txt 2
+data.fp.txt 1
+data.ft.txt 1
+data.gw.txt 1
+data.op.txt 4
+data.zawb.txt 2
+data.zawo.txt 1
+data.zbeb.txt 1
+data.zcdz.txt 1
+data.zcon.txt 1
+data.zcse.txt 1
+data.zctp.txt 1
+data.zcue.txt 1
+data.zdyv.txt 1
+data.zeel.txt 1
+data.zelj.txt 2
+data.zfai.txt 1

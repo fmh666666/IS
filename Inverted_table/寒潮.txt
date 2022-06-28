@@ -1,0 +1,22 @@
+21
+data.co.txt 1
+data.ha.txt 2
+data.jj.txt 1
+data.kt.txt 1
+data.mk.txt 1
+data.zaet.txt 1
+data.zafq.txt 1
+data.zasr.txt 1
+data.zbel.txt 1
+data.zbru.txt 1
+data.zccx.txt 1
+data.zciy.txt 1
+data.zcwn.txt 2
+data.zcxq.txt 2
+data.zdcj.txt 3
+data.zddp.txt 1
+data.zdep.txt 1
+data.zdju.txt 1
+data.zdoq.txt 1
+data.zdzi.txt 3
+data.zeyu.txt 2

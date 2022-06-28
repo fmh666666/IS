@@ -1,0 +1,16 @@
+15
+data.aj.txt 5
+data.kq.txt 1
+data.yx.txt 6
+data.zarr.txt 1
+data.zasy.txt 1
+data.zaxj.txt 3
+data.zblq.txt 1
+data.zccx.txt 4
+data.zcef.txt 1
+data.zctn.txt 1
+data.zdlw.txt 1
+data.zdzn.txt 1
+data.zevt.txt 1
+data.zexu.txt 1
+data.zezm.txt 1

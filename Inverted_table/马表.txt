@@ -1,0 +1,11 @@
+10
+data.fe.txt 1
+data.zapl.txt 1
+data.zazw.txt 1
+data.zbut.txt 1
+data.zcvi.txt 1
+data.zdkc.txt 1
+data.zduo.txt 2
+data.zeoh.txt 1
+data.zeoo.txt 1
+data.zevq.txt 1

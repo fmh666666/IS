@@ -1,0 +1,7 @@
+6
+data.zcpa.txt 1
+data.zdqq.txt 1
+data.zeag.txt 3
+data.zejn.txt 1
+data.zeob.txt 2
+data.zesq.txt 1

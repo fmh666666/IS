@@ -1,0 +1,19 @@
+18
+data.aj.txt 1
+data.ga.txt 3
+data.ng.txt 1
+data.zahd.txt 1
+data.zail.txt 1
+data.zayv.txt 3
+data.zblr.txt 1
+data.zbru.txt 2
+data.zcdy.txt 1
+data.zcee.txt 1
+data.zchw.txt 1
+data.zcni.txt 1
+data.zcts.txt 1
+data.zdnh.txt 1
+data.zebv.txt 1
+data.zeeh.txt 1
+data.zeqv.txt 1
+data.zfai.txt 1

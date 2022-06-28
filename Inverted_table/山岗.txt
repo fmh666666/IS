@@ -1,0 +1,7 @@
+6
+data.ew.txt 1
+data.jj.txt 1
+data.op.txt 1
+data.zavx.txt 1
+data.zcmx.txt 1
+data.zedo.txt 1

@@ -1,0 +1,11 @@
+10
+data.gw.txt 9
+data.hp.txt 4
+data.pa.txt 1
+data.zajo.txt 1
+data.zcdg.txt 2
+data.zcdy.txt 1
+data.zcqp.txt 2
+data.zdlw.txt 2
+data.zelt.txt 1
+data.zfae.txt 3

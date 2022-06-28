@@ -1,0 +1,5 @@
+4
+data.ff.txt 1
+data.zall.txt 1
+data.zawo.txt 1
+data.zdqk.txt 1

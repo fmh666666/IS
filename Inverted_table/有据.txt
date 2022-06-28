@@ -1,0 +1,10 @@
+9
+data.cq.txt 2
+data.pa.txt 1
+data.zbgu.txt 1
+data.zbpx.txt 2
+data.zbzf.txt 1
+data.zcon.txt 1
+data.zcve.txt 1
+data.zduk.txt 1
+data.zefu.txt 1

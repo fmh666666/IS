@@ -1,0 +1,9 @@
+8
+data.kt.txt 1
+data.ry.txt 1
+data.zalm.txt 1
+data.zamp.txt 1
+data.zasw.txt 1
+data.zctp.txt 1
+data.zdzg.txt 1
+data.zeaf.txt 1

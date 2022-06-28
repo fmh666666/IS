@@ -1,0 +1,18 @@
+17
+data.ga.txt 1
+data.zaim.txt 4
+data.zawo.txt 1
+data.zbeb.txt 2
+data.zbkv.txt 2
+data.zbnp.txt 2
+data.zbpx.txt 1
+data.zbzf.txt 3
+data.zcdy.txt 5
+data.zcdz.txt 3
+data.zcef.txt 1
+data.zcmx.txt 1
+data.zcse.txt 2
+data.zczl.txt 1
+data.zeec.txt 1
+data.zelt.txt 1
+data.zewn.txt 2

@@ -1,0 +1,7 @@
+6
+data.bs.txt 2
+data.pq.txt 1
+data.zasy.txt 1
+data.zazn.txt 1
+data.zbup.txt 1
+data.zcdg.txt 1

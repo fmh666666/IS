@@ -1,0 +1,6 @@
+5
+data.mu.txt 1
+data.zafu.txt 1
+data.zbqu.txt 10
+data.zcaq.txt 1
+data.zdkk.txt 1

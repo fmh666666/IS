@@ -1,0 +1,7 @@
+6
+data.ft.txt 1
+data.zane.txt 2
+data.zbzg.txt 1
+data.zcpx.txt 1
+data.zdfl.txt 1
+data.zenw.txt 1

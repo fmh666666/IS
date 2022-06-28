@@ -1,0 +1,7 @@
+6
+data.zane.txt 2
+data.zasd.txt 2
+data.zbes.txt 1
+data.zeeh.txt 1
+data.zezn.txt 1
+data.zfaj.txt 1

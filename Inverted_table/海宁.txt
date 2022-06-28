@@ -1,0 +1,22 @@
+21
+data.co.txt 2
+data.fp.txt 1
+data.gw.txt 9
+data.kq.txt 1
+data.kt.txt 3
+data.zajo.txt 1
+data.zbpp.txt 1
+data.zbua.txt 2
+data.zcbe.txt 1
+data.zcft.txt 1
+data.zcue.txt 135
+data.zdnc.txt 1
+data.zdtv.txt 1
+data.zdwz.txt 1
+data.zdzi.txt 1
+data.zeac.txt 1
+data.zehj.txt 2
+data.zelt.txt 1
+data.zene.txt 4
+data.zeva.txt 1
+data.zevq.txt 1

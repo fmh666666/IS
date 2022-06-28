@@ -1,0 +1,11 @@
+10
+data.pq.txt 1
+data.tv.txt 3
+data.tz.txt 2
+data.zadv.txt 1
+data.zaim.txt 1
+data.zasj.txt 1
+data.zawu.txt 1
+data.zcaq.txt 1
+data.zclm.txt 1
+data.zdoq.txt 1

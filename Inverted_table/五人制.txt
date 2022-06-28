@@ -1,0 +1,7 @@
+6
+data.zarc.txt 1
+data.zbaq.txt 4
+data.zctn.txt 20
+data.zeqn.txt 1
+data.zevy.txt 2
+data.zexm.txt 2

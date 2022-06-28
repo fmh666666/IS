@@ -1,0 +1,7 @@
+6
+data.yx.txt 1
+data.zabe.txt 1
+data.zail.txt 1
+data.zavg.txt 1
+data.zawb.txt 1
+data.zdgp.txt 1

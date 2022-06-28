@@ -1,0 +1,10 @@
+9
+data.ga.txt 1
+data.op.txt 1
+data.zamr.txt 5
+data.zauy.txt 1
+data.zbnp.txt 4
+data.zcbe.txt 28
+data.zcuh.txt 1
+data.zdsh.txt 1
+data.zeay.txt 1

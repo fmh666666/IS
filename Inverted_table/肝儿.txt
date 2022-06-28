@@ -1,0 +1,15 @@
+14
+data.fp.txt 1
+data.mo.txt 1
+data.tv.txt 1
+data.zajh.txt 3
+data.zalm.txt 1
+data.zawc.txt 2
+data.zbkv.txt 2
+data.zcts.txt 1
+data.zcvi.txt 1
+data.zdey.txt 1
+data.zdsh.txt 1
+data.zdzn.txt 1
+data.zegl.txt 4
+data.zezy.txt 1

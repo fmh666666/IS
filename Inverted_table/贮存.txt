@@ -1,0 +1,9 @@
+8
+data.co.txt 2
+data.pa.txt 1
+data.zbcj.txt 1
+data.zbnp.txt 3
+data.zbzg.txt 1
+data.zdgv.txt 1
+data.zebn.txt 4
+data.zelt.txt 1

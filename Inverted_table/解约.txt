@@ -1,0 +1,20 @@
+19
+data.ev.txt 2
+data.ng.txt 4
+data.tj.txt 2
+data.tz.txt 1
+data.zanm.txt 8
+data.zawo.txt 1
+data.zbkr.txt 1
+data.zbnp.txt 1
+data.zbxw.txt 3
+data.zcdv.txt 2
+data.zdep.txt 1
+data.zdhv.txt 3
+data.zdkp.txt 1
+data.zdyv.txt 1
+data.zebv.txt 1
+data.zedo.txt 2
+data.zess.txt 1
+data.zexk.txt 2
+data.zfbr.txt 1

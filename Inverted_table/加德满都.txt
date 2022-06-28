@@ -1,0 +1,7 @@
+6
+data.jf.txt 1
+data.mx.txt 1
+data.zabx.txt 2
+data.zazw.txt 2
+data.zcpx.txt 4
+data.zcts.txt 1

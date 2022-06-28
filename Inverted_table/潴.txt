@@ -1,0 +1,25 @@
+24
+data.aj.txt 2
+data.zaej.txt 3
+data.zafe.txt 6
+data.zanh.txt 30
+data.zasq.txt 1
+data.zaub.txt 2
+data.zazg.txt 1
+data.zazw.txt 1
+data.zazx.txt 2
+data.zbdx.txt 1
+data.zbla.txt 1
+data.zblr.txt 1
+data.zbua.txt 2
+data.zbuj.txt 2
+data.zcoy.txt 1
+data.zcpa.txt 1
+data.zcpc.txt 2
+data.zcqe.txt 1
+data.zcse.txt 6
+data.zdlw.txt 1
+data.zeaf.txt 1
+data.zejk.txt 1
+data.zevy.txt 2
+data.zexk.txt 2

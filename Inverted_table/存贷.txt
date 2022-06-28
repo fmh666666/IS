@@ -1,0 +1,4 @@
+3
+data.zbdx.txt 1
+data.zcdy.txt 2
+data.zcdz.txt 1

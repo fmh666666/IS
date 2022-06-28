@@ -1,0 +1,7 @@
+6
+data.tj.txt 1
+data.zabe.txt 4
+data.zbht.txt 1
+data.zbpc.txt 1
+data.zcak.txt 1
+data.zeaf.txt 1

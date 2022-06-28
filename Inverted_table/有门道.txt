@@ -1,0 +1,5 @@
+4
+data.ga.txt 1
+data.zbor.txt 1
+data.zeam.txt 1
+data.zeqn.txt 1

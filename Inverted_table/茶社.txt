@@ -1,0 +1,9 @@
+8
+data.bs.txt 1
+data.fj.txt 1
+data.nh.txt 1
+data.zavg.txt 1
+data.zaxp.txt 1
+data.zcxr.txt 1
+data.zdga.txt 2
+data.zeqn.txt 1

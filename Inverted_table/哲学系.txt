@@ -1,0 +1,7 @@
+6
+data.ew.txt 1
+data.mu.txt 1
+data.zcgo.txt 2
+data.zdgp.txt 1
+data.zebc.txt 1
+data.zeoo.txt 1

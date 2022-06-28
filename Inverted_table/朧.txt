@@ -1,0 +1,6 @@
+5
+data.zalc.txt 2
+data.zate.txt 1
+data.zcfn.txt 1
+data.zeaj.txt 1
+data.zeoo.txt 1

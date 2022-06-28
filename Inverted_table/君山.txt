@@ -1,0 +1,8 @@
+7
+data.zahp.txt 1
+data.zbga.txt 3
+data.zblq.txt 4
+data.zbux.txt 3
+data.zdoq.txt 5
+data.zeaf.txt 2
+data.zeeq.txt 1

@@ -1,0 +1,13 @@
+12
+data.co.txt 1
+data.hz.txt 1
+data.zadv.txt 2
+data.zaop.txt 1
+data.zaql.txt 1
+data.zbnp.txt 1
+data.zcrn.txt 1
+data.zcvq.txt 1
+data.zebv.txt 3
+data.zeik.txt 1
+data.zeqv.txt 1
+data.zesq.txt 1

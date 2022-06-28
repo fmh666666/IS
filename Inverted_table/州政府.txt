@@ -1,0 +1,4 @@
+3
+data.zcmy.txt 2
+data.zdkk.txt 1
+data.zfai.txt 1

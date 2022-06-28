@@ -1,0 +1,7 @@
+6
+data.zbor.txt 1
+data.zcee.txt 1
+data.zcih.txt 1
+data.zdgv.txt 1
+data.zefs.txt 1
+data.zeos.txt 1

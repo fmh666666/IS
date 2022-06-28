@@ -1,0 +1,26 @@
+25
+data.ee.txt 3
+data.ka.txt 1
+data.mt.txt 2
+data.zagr.txt 1
+data.zanh.txt 3
+data.zaub.txt 1
+data.zbds.txt 1
+data.zbht.txt 1
+data.zbjh.txt 1
+data.zbjk.txt 2
+data.zbkr.txt 1
+data.zbkv.txt 1
+data.zcaq.txt 1
+data.zcln.txt 1
+data.zcls.txt 3
+data.zdlw.txt 1
+data.zdme.txt 2
+data.zdtr.txt 1
+data.zdwl.txt 2
+data.zdzm.txt 1
+data.zeqn.txt 2
+data.zeun.txt 1
+data.zeva.txt 3
+data.zewg.txt 4
+data.zeyg.txt 5

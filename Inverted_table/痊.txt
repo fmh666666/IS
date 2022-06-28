@@ -1,0 +1,8 @@
+7
+data.jf.txt 1
+data.zajn.txt 1
+data.zalc.txt 1
+data.zduc.txt 1
+data.zedk.txt 1
+data.zexm.txt 1
+data.zfcg.txt 1

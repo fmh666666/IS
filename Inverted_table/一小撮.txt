@@ -1,0 +1,18 @@
+17
+data.zafy.txt 1
+data.zaim.txt 1
+data.zank.txt 1
+data.zawc.txt 5
+data.zbdb.txt 1
+data.zbil.txt 1
+data.zbre.txt 1
+data.zbvm.txt 2
+data.zcdy.txt 2
+data.zcel.txt 1
+data.zciq.txt 1
+data.zdil.txt 1
+data.zduo.txt 1
+data.zedd.txt 1
+data.zess.txt 1
+data.zewn.txt 1
+data.zfaj.txt 1

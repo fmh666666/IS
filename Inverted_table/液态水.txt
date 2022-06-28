@@ -1,0 +1,3 @@
+2
+data.gw.txt 3
+data.zejk.txt 1

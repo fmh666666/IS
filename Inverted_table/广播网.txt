@@ -1,0 +1,21 @@
+20
+data.wc.txt 1
+data.zabe.txt 2
+data.zabx.txt 2
+data.zank.txt 1
+data.zawz.txt 1
+data.zbdb.txt 1
+data.zbkv.txt 1
+data.zbre.txt 1
+data.zccu.txt 1
+data.zcda.txt 1
+data.zcft.txt 1
+data.zcgi.txt 1
+data.zcku.txt 29
+data.zcmx.txt 1
+data.zcpc.txt 1
+data.zctp.txt 1
+data.zczl.txt 2
+data.zdnh.txt 1
+data.zdst.txt 1
+data.zelt.txt 2

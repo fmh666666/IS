@@ -1,0 +1,9 @@
+8
+data.jf.txt 1
+data.mt.txt 1
+data.zawo.txt 2
+data.zbdx.txt 1
+data.zcfx.txt 1
+data.zene.txt 1
+data.zezy.txt 2
+data.zfcg.txt 4

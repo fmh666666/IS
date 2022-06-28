@@ -1,0 +1,9 @@
+8
+data.fp.txt 1
+data.ft.txt 1
+data.kt.txt 1
+data.zaoy.txt 1
+data.zcpa.txt 2
+data.zcqs.txt 2
+data.zeos.txt 1
+data.zfaj.txt 1

@@ -1,0 +1,4 @@
+3
+data.gw.txt 2
+data.zaqf.txt 2
+data.zcfx.txt 1

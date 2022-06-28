@@ -1,0 +1,4 @@
+3
+data.ok.txt 1
+data.zasd.txt 1
+data.zasw.txt 2

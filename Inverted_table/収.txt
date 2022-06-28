@@ -1,0 +1,10 @@
+9
+data.zanh.txt 1
+data.zasw.txt 1
+data.zbsu.txt 1
+data.zcih.txt 78
+data.zdrq.txt 1
+data.zeam.txt 1
+data.zegl.txt 2
+data.zegn.txt 2
+data.zeik.txt 1

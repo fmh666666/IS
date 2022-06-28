@@ -1,0 +1,15 @@
+14
+data.be.txt 1
+data.ek.txt 1
+data.ka.txt 1
+data.to.txt 1
+data.tv.txt 1
+data.zabj.txt 1
+data.zafy.txt 1
+data.zaoo.txt 1
+data.zbem.txt 1
+data.zcmn.txt 1
+data.zcnn.txt 1
+data.zdeb.txt 1
+data.zeun.txt 1
+data.zfai.txt 2

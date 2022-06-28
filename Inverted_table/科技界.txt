@@ -1,0 +1,5 @@
+4
+data.gw.txt 2
+data.zbor.txt 1
+data.zbpx.txt 1
+data.zcmy.txt 1

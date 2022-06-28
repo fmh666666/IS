@@ -1,0 +1,20 @@
+19
+data.cf.txt 1
+data.ga.txt 2
+data.ok.txt 1
+data.pa.txt 1
+data.zahp.txt 1
+data.zakb.txt 1
+data.zalj.txt 3
+data.zaxk.txt 1
+data.zbpc.txt 1
+data.zbpm.txt 1
+data.zbta.txt 1
+data.zcrv.txt 1
+data.zcts.txt 1
+data.zdqz.txt 2
+data.zehp.txt 1
+data.zewp.txt 1
+data.zfae.txt 1
+data.zfaw.txt 1
+data.zfaz.txt 1

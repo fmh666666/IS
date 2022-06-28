@@ -1,0 +1,10 @@
+9
+data.zane.txt 1
+data.zawc.txt 1
+data.zbhd.txt 6
+data.zcvt.txt 1
+data.zdar.txt 2
+data.zeds.txt 1
+data.zeun.txt 1
+data.zexm.txt 1
+data.zfdk.txt 1

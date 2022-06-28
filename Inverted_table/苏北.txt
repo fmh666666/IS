@@ -1,0 +1,9 @@
+8
+data.bs.txt 1
+data.kq.txt 1
+data.zajo.txt 3
+data.zalj.txt 1
+data.zawu.txt 2
+data.zbga.txt 3
+data.zbla.txt 14
+data.zccx.txt 1

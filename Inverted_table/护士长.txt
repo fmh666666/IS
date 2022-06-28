@@ -1,0 +1,10 @@
+9
+data.ga.txt 1
+data.ha.txt 2
+data.xe.txt 1
+data.zadv.txt 2
+data.zaoy.txt 2
+data.zbds.txt 1
+data.zblq.txt 1
+data.zccu.txt 2
+data.zduc.txt 1

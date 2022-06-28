@@ -1,0 +1,4 @@
+3
+data.ga.txt 1
+data.kq.txt 1
+data.zfai.txt 2

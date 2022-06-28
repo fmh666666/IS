@@ -1,0 +1,4 @@
+3
+data.zdaq.txt 1
+data.zdep.txt 1
+data.zdme.txt 1

@@ -1,0 +1,5 @@
+4
+data.zaeh.txt 8
+data.zegl.txt 1
+data.zerw.txt 2
+data.zfby.txt 1

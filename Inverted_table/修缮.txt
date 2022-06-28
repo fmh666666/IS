@@ -1,0 +1,14 @@
+13
+data.jd.txt 1
+data.jf.txt 1
+data.wc.txt 2
+data.zako.txt 1
+data.zasq.txt 4
+data.zazg.txt 1
+data.zbdb.txt 2
+data.zbor.txt 2
+data.zcfn.txt 2
+data.zcic.txt 1
+data.zdkk.txt 1
+data.zeag.txt 1
+data.zeeh.txt 1

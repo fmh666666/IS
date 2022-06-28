@@ -1,0 +1,21 @@
+20
+data.ga.txt 3
+data.hp.txt 1
+data.kq.txt 3
+data.zaej.txt 1
+data.zass.txt 1
+data.zawo.txt 1
+data.zbcj.txt 2
+data.zbeb.txt 1
+data.zbhe.txt 2
+data.zbkv.txt 2
+data.zbpx.txt 5
+data.zbvm.txt 3
+data.zbzf.txt 1
+data.zcdy.txt 2
+data.zciq.txt 3
+data.zcmx.txt 1
+data.zdcy.txt 2
+data.zeam.txt 1
+data.zeeq.txt 1
+data.zeos.txt 1

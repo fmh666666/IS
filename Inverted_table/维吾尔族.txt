@@ -1,0 +1,12 @@
+11
+data.by.txt 3
+data.op.txt 1
+data.pa.txt 1
+data.tz.txt 1
+data.zbcc.txt 2
+data.zcbm.txt 1
+data.zcgo.txt 1
+data.zcnn.txt 1
+data.zdzm.txt 1
+data.zelt.txt 2
+data.zfaj.txt 3

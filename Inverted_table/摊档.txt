@@ -1,0 +1,4 @@
+3
+data.zarr.txt 2
+data.zdoq.txt 2
+data.zezy.txt 1

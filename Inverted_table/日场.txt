@@ -1,0 +1,4 @@
+3
+data.zegn.txt 2
+data.zeqv.txt 1
+data.zfbr.txt 1

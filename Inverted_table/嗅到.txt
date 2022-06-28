@@ -1,0 +1,15 @@
+14
+data.hu.txt 1
+data.mk.txt 1
+data.ry.txt 1
+data.uz.txt 1
+data.zaim.txt 1
+data.zajr.txt 1
+data.zcdv.txt 1
+data.zcic.txt 1
+data.zdby.txt 1
+data.zdga.txt 1
+data.zdro.txt 1
+data.zduo.txt 1
+data.zeai.txt 2
+data.zewg.txt 1

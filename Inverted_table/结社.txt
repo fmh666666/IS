@@ -1,0 +1,6 @@
+5
+data.kt.txt 1
+data.op.txt 1
+data.tz.txt 1
+data.zeaf.txt 2
+data.zfaj.txt 1

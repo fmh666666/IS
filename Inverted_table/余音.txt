@@ -1,0 +1,13 @@
+12
+data.bf.txt 2
+data.co.txt 2
+data.qb.txt 1
+data.tv.txt 1
+data.zasr.txt 1
+data.zccl.txt 2
+data.zcdv.txt 1
+data.zcrn.txt 1
+data.zddx.txt 1
+data.zdgt.txt 1
+data.zenw.txt 1
+data.zezh.txt 1

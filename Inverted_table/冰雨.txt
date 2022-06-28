@@ -1,0 +1,8 @@
+7
+data.zasq.txt 1
+data.zayc.txt 1
+data.zbcc.txt 1
+data.zbye.txt 1
+data.zcjy.txt 1
+data.zdod.txt 1
+data.zeik.txt 3

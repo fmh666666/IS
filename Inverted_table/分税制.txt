@@ -1,0 +1,4 @@
+3
+data.zdaq.txt 1
+data.zeay.txt 1
+data.zexv.txt 1

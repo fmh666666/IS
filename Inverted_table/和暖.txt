@@ -1,0 +1,13 @@
+12
+data.zaoc.txt 1
+data.zawo.txt 1
+data.zazn.txt 1
+data.zbrd.txt 1
+data.zcaq.txt 1
+data.zccu.txt 1
+data.zcnn.txt 1
+data.zdfl.txt 1
+data.zdhv.txt 1
+data.zeik.txt 1
+data.zezm.txt 1
+data.zfas.txt 1

@@ -1,0 +1,11 @@
+10
+data.fj.txt 1
+data.fp.txt 1
+data.mx.txt 2
+data.tv.txt 2
+data.wc.txt 1
+data.zajr.txt 1
+data.zamp.txt 2
+data.zbkv.txt 4
+data.zcel.txt 1
+data.zcvt.txt 1

@@ -1,0 +1,13 @@
+12
+data.dg.txt 2
+data.mt.txt 1
+data.pn.txt 1
+data.zafy.txt 1
+data.zamr.txt 1
+data.zarc.txt 1
+data.zbqu.txt 1
+data.zckd.txt 1
+data.zcls.txt 1
+data.zcqp.txt 1
+data.zczp.txt 2
+data.zdux.txt 1

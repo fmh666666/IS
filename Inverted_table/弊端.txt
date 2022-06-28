@@ -1,0 +1,19 @@
+18
+data.fj.txt 1
+data.ga.txt 1
+data.op.txt 1
+data.zabx.txt 1
+data.zafu.txt 1
+data.zajo.txt 1
+data.zard.txt 1
+data.zawu.txt 1
+data.zbdb.txt 1
+data.zcbe.txt 5
+data.zcdg.txt 1
+data.zcdz.txt 1
+data.zcsu.txt 1
+data.zcts.txt 1
+data.zdrq.txt 1
+data.zdtr.txt 1
+data.zebf.txt 1
+data.zexx.txt 1

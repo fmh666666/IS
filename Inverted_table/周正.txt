@@ -1,0 +1,7 @@
+6
+data.zajn.txt 1
+data.zbcc.txt 1
+data.zbkv.txt 1
+data.zddb.txt 1
+data.zdgt.txt 4
+data.zdme.txt 1

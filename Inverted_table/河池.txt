@@ -1,0 +1,11 @@
+10
+data.zafy.txt 14
+data.zagr.txt 1
+data.zbpm.txt 2
+data.zbvm.txt 1
+data.zcfx.txt 1
+data.zcmv.txt 2
+data.zdoq.txt 1
+data.zeoo.txt 1
+data.zeos.txt 1
+data.zess.txt 2

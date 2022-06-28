@@ -1,0 +1,14 @@
+13
+data.ga.txt 2
+data.ye.txt 1
+data.zaxk.txt 1
+data.zbsu.txt 1
+data.zbts.txt 2
+data.zbyb.txt 1
+data.zcmn.txt 1
+data.zcsu.txt 1
+data.zdds.txt 1
+data.zdgp.txt 1
+data.zefp.txt 5
+data.zeoo.txt 2
+data.zexx.txt 2

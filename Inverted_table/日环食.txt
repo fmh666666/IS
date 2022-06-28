@@ -1,0 +1,17 @@
+16
+data.gw.txt 2
+data.mx.txt 2
+data.zabe.txt 1
+data.zafi.txt 2
+data.zafl.txt 3
+data.zalm.txt 2
+data.zapl.txt 2
+data.zawu.txt 1
+data.zaxp.txt 1
+data.zbmw.txt 5
+data.zbph.txt 2
+data.zbua.txt 2
+data.zcon.txt 3
+data.zctp.txt 1
+data.zcxp.txt 2
+data.zdpg.txt 2

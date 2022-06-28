@@ -1,0 +1,13 @@
+12
+data.bf.txt 2
+data.hz.txt 23
+data.zawb.txt 2
+data.zbpx.txt 1
+data.zbsl.txt 3
+data.zbvm.txt 1
+data.zbye.txt 1
+data.zcko.txt 1
+data.zdgt.txt 3
+data.zdlo.txt 1
+data.zdme.txt 1
+data.zeqn.txt 3

@@ -1,0 +1,20 @@
+19
+data.ek.txt 1
+data.ep.txt 1
+data.ry.txt 5
+data.vi.txt 1
+data.ye.txt 1
+data.zabe.txt 1
+data.zafv.txt 1
+data.zane.txt 2
+data.zavx.txt 1
+data.zawz.txt 2
+data.zbaf.txt 1
+data.zbfx.txt 1
+data.zbta.txt 2
+data.zbvm.txt 1
+data.zccu.txt 1
+data.zcvq.txt 1
+data.zdqx.txt 1
+data.zdwz.txt 1
+data.zewg.txt 1

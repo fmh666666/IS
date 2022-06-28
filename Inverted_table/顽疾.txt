@@ -1,0 +1,9 @@
+8
+data.zawc.txt 1
+data.zbhe.txt 1
+data.zbot.txt 1
+data.zbyv.txt 1
+data.zczl.txt 2
+data.zelt.txt 2
+data.zenn.txt 1
+data.zeta.txt 1

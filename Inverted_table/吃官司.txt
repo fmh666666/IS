@@ -1,0 +1,4 @@
+3
+data.zawc.txt 1
+data.zbil.txt 1
+data.zeay.txt 1

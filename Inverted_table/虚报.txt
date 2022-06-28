@@ -1,0 +1,7 @@
+6
+data.ha.txt 1
+data.zako.txt 1
+data.zaxx.txt 2
+data.zbpx.txt 1
+data.zehj.txt 1
+data.zelt.txt 2

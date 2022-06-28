@@ -1,0 +1,18 @@
+17
+data.ft.txt 1
+data.ga.txt 1
+data.gw.txt 1
+data.op.txt 2
+data.zawo.txt 1
+data.zbes.txt 1
+data.zbjk.txt 1
+data.zblq.txt 1
+data.zbmw.txt 1
+data.zbor.txt 1
+data.zbye.txt 1
+data.zcbm.txt 1
+data.zczp.txt 2
+data.zdar.txt 1
+data.zdeq.txt 1
+data.zesi.txt 1
+data.zeva.txt 1

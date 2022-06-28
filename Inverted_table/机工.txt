@@ -1,0 +1,7 @@
+6
+data.mx.txt 3
+data.ud.txt 1
+data.zazg.txt 2
+data.zcts.txt 1
+data.zdcy.txt 2
+data.zeob.txt 1

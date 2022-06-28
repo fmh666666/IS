@@ -1,0 +1,5 @@
+4
+data.wc.txt 4
+data.zdeb.txt 2
+data.zewd.txt 2
+data.zfcj.txt 1

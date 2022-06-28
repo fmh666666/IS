@@ -1,0 +1,15 @@
+14
+data.jj.txt 1
+data.mx.txt 7
+data.uz.txt 1
+data.zabe.txt 1
+data.zafq.txt 1
+data.zamr.txt 1
+data.zasr.txt 1
+data.zasy.txt 4
+data.zcqe.txt 1
+data.zdeb.txt 12
+data.zdil.txt 1
+data.zdlw.txt 1
+data.zeqn.txt 1
+data.zexk.txt 2

@@ -1,0 +1,6 @@
+5
+data.en.txt 1
+data.kt.txt 1
+data.zdlo.txt 1
+data.zdpw.txt 1
+data.zelj.txt 2

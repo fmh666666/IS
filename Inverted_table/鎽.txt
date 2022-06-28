@@ -1,0 +1,6 @@
+5
+data.zamp.txt 1
+data.zbua.txt 2
+data.zcgi.txt 1
+data.zdeq.txt 1
+data.zdst.txt 1

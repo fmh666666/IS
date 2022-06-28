@@ -1,0 +1,23 @@
+22
+data.gk.txt 1
+data.gw.txt 1
+data.sq.txt 1
+data.ud.txt 3
+data.zapl.txt 1
+data.zaxp.txt 1
+data.zbkf.txt 2
+data.zbkv.txt 1
+data.zbpm.txt 1
+data.zbqu.txt 1
+data.zbre.txt 1
+data.zcmx.txt 2
+data.zcon.txt 1
+data.zcpa.txt 1
+data.zczp.txt 1
+data.zdkc.txt 1
+data.zdof.txt 2
+data.zdou.txt 1
+data.zdux.txt 1
+data.zeam.txt 1
+data.zedx.txt 1
+data.zfcp.txt 1

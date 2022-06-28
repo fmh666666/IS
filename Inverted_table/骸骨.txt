@@ -1,0 +1,6 @@
+5
+data.ka.txt 1
+data.zajo.txt 3
+data.zcts.txt 1
+data.zdic.txt 1
+data.zduc.txt 1

@@ -1,0 +1,7 @@
+6
+data.ek.txt 1
+data.zajr.txt 1
+data.zbga.txt 1
+data.zdhv.txt 1
+data.zegl.txt 2
+data.zeil.txt 1

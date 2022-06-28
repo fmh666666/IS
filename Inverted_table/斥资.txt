@@ -1,0 +1,19 @@
+18
+data.cf.txt 1
+data.gw.txt 1
+data.zaim.txt 2
+data.zamp.txt 1
+data.zamr.txt 1
+data.zapl.txt 2
+data.zazn.txt 1
+data.zbot.txt 1
+data.zcdy.txt 1
+data.zclh.txt 1
+data.zctp.txt 1
+data.zcxp.txt 1
+data.zdme.txt 1
+data.zdwl.txt 2
+data.zefp.txt 1
+data.zeqv.txt 1
+data.zerw.txt 1
+data.zfae.txt 1

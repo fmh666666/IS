@@ -1,0 +1,7 @@
+6
+data.jj.txt 1
+data.op.txt 1
+data.zabe.txt 1
+data.zauy.txt 1
+data.zawz.txt 1
+data.zegl.txt 1

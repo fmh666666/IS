@@ -1,0 +1,18 @@
+17
+data.ha.txt 4
+data.nh.txt 1
+data.yx.txt 2
+data.zaoc.txt 1
+data.zawb.txt 2
+data.zaxp.txt 1
+data.zbeb.txt 3
+data.zbsu.txt 1
+data.zcel.txt 1
+data.zcnn.txt 1
+data.zctm.txt 1
+data.zdds.txt 1
+data.zdzi.txt 1
+data.zeac.txt 1
+data.zegn.txt 1
+data.zelt.txt 1
+data.zesi.txt 1

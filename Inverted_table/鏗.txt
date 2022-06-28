@@ -1,0 +1,8 @@
+7
+data.hu.txt 1
+data.zbse.txt 2
+data.zcfx.txt 1
+data.zcrv.txt 2
+data.zcxh.txt 1
+data.zdkk.txt 1
+data.zeag.txt 1

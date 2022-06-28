@@ -1,0 +1,7 @@
+6
+data.mo.txt 1
+data.zate.txt 2
+data.zcfn.txt 1
+data.zduk.txt 3
+data.zdwk.txt 1
+data.zerw.txt 1

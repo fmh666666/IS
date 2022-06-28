@@ -1,0 +1,5 @@
+4
+data.zbel.txt 2
+data.zdzn.txt 1
+data.zfaj.txt 1
+data.zfcp.txt 1

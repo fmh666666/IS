@@ -1,0 +1,9 @@
+8
+data.kt.txt 3
+data.ng.txt 2
+data.zacp.txt 1
+data.zamp.txt 1
+data.zbmw.txt 2
+data.zcdv.txt 1
+data.zcxr.txt 1
+data.zdnc.txt 1

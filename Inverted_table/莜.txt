@@ -1,0 +1,15 @@
+14
+data.ew.txt 2
+data.mo.txt 1
+data.zapr.txt 1
+data.zbht.txt 2
+data.zbmt.txt 1
+data.zbre.txt 18
+data.zbzf.txt 2
+data.zcjo.txt 1
+data.zdle.txt 1
+data.zdpz.txt 1
+data.zdwl.txt 1
+data.zefs.txt 1
+data.zene.txt 2
+data.zexk.txt 4

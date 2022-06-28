@@ -1,0 +1,7 @@
+6
+data.ft.txt 1
+data.zaim.txt 1
+data.zane.txt 4
+data.zccx.txt 1
+data.zcvi.txt 1
+data.zeeq.txt 1

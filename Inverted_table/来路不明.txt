@@ -1,0 +1,7 @@
+6
+data.co.txt 1
+data.zapl.txt 1
+data.zbmt.txt 1
+data.zcon.txt 4
+data.zcxh.txt 1
+data.zdgt.txt 1

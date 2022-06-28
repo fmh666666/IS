@@ -1,0 +1,4 @@
+3
+data.gz.txt 3
+data.zaet.txt 2
+data.zfas.txt 1

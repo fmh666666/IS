@@ -1,0 +1,11 @@
+10
+data.be.txt 2
+data.cq.txt 2
+data.zaip.txt 1
+data.zank.txt 3
+data.zapl.txt 1
+data.zbqu.txt 2
+data.zbux.txt 2
+data.zcdl.txt 2
+data.zctm.txt 4
+data.zedd.txt 3

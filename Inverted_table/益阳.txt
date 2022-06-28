@@ -1,0 +1,17 @@
+16
+data.co.txt 1
+data.zabx.txt 1
+data.zahd.txt 2
+data.zaop.txt 1
+data.zasr.txt 4
+data.zbhv.txt 6
+data.zbnx.txt 2
+data.zbts.txt 2
+data.zbzo.txt 2
+data.zckd.txt 8
+data.zcll.txt 4
+data.zcmn.txt 4
+data.zczl.txt 2
+data.zdro.txt 1
+data.zelt.txt 2
+data.zewv.txt 8

@@ -1,0 +1,14 @@
+13
+data.cz.txt 2
+data.ee.txt 1
+data.zapl.txt 1
+data.zazn.txt 1
+data.zbaf.txt 1
+data.zbor.txt 1
+data.zcpb.txt 1
+data.zctp.txt 1
+data.zdnh.txt 1
+data.zdqz.txt 1
+data.zeeq.txt 2
+data.zeez.txt 1
+data.zevq.txt 1

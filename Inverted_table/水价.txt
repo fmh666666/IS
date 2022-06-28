@@ -1,0 +1,16 @@
+15
+data.gw.txt 2
+data.pa.txt 2
+data.vi.txt 1
+data.zahd.txt 1
+data.zaoy.txt 1
+data.zbdx.txt 7
+data.zbhd.txt 4
+data.zbkv.txt 1
+data.zbls.txt 2
+data.zbpx.txt 4
+data.zcdy.txt 4
+data.zcdz.txt 1
+data.zdic.txt 1
+data.zdpz.txt 1
+data.zelt.txt 4

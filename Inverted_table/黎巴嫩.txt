@@ -1,0 +1,14 @@
+13
+data.bf.txt 1
+data.ek.txt 3
+data.wg.txt 1
+data.zadv.txt 1
+data.zavg.txt 1
+data.zawb.txt 1
+data.zblq.txt 1
+data.zbpm.txt 8
+data.zcak.txt 1
+data.zdhw.txt 1
+data.zdst.txt 1
+data.zegz.txt 1
+data.zeoo.txt 1

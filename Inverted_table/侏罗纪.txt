@@ -1,0 +1,17 @@
+16
+data.kt.txt 1
+data.mt.txt 3
+data.nh.txt 1
+data.zacd.txt 1
+data.zafu.txt 2
+data.zbeb.txt 1
+data.zbyb.txt 1
+data.zbye.txt 3
+data.zcao.txt 2
+data.zciq.txt 1
+data.zclm.txt 1
+data.zcls.txt 2
+data.zdwv.txt 3
+data.zefp.txt 1
+data.zeik.txt 1
+data.zeyg.txt 1

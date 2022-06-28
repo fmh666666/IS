@@ -1,0 +1,7 @@
+6
+data.op.txt 1
+data.zawo.txt 1
+data.zcni.txt 1
+data.zctp.txt 2
+data.zedd.txt 1
+data.zfae.txt 1

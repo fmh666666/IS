@@ -1,0 +1,10 @@
+9
+data.bf.txt 2
+data.nh.txt 1
+data.zaej.txt 2
+data.zbcj.txt 2
+data.zbjh.txt 2
+data.zcko.txt 14
+data.zcpc.txt 1
+data.zdga.txt 10
+data.zeoo.txt 1

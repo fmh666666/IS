@@ -1,0 +1,14 @@
+13
+data.ha.txt 1
+data.op.txt 4
+data.zaql.txt 1
+data.zaxj.txt 2
+data.zblq.txt 1
+data.zbye.txt 1
+data.zcdg.txt 1
+data.zcmx.txt 1
+data.zcmy.txt 1
+data.zcqp.txt 2
+data.zcue.txt 2
+data.zdgt.txt 1
+data.zeoh.txt 2

@@ -1,0 +1,11 @@
+10
+data.fz.txt 6
+data.to.txt 1
+data.vi.txt 1
+data.zarc.txt 1
+data.zaxk.txt 2
+data.zbds.txt 1
+data.zbht.txt 2
+data.zdkc.txt 1
+data.zdnh.txt 1
+data.zeqv.txt 2

@@ -1,0 +1,15 @@
+14
+data.bb.txt 2
+data.gw.txt 1
+data.to.txt 1
+data.zajh.txt 1
+data.zako.txt 2
+data.zaxj.txt 5
+data.zazo.txt 1
+data.zbhv.txt 2
+data.zcll.txt 1
+data.zcve.txt 1
+data.zczb.txt 1
+data.zdji.txt 3
+data.zejn.txt 4
+data.zess.txt 2

@@ -1,0 +1,11 @@
+10
+data.mo.txt 1
+data.zajo.txt 2
+data.zalc.txt 1
+data.zbem.txt 2
+data.zbfx.txt 1
+data.zbwa.txt 3
+data.zcfn.txt 1
+data.zctm.txt 1
+data.zdud.txt 1
+data.zfcg.txt 2

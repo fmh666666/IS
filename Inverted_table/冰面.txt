@@ -1,0 +1,9 @@
+8
+data.ee.txt 1
+data.vi.txt 1
+data.zaej.txt 1
+data.zcis.txt 1
+data.zdtr.txt 1
+data.zegn.txt 1
+data.zevt.txt 1
+data.zexk.txt 2

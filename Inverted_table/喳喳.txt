@@ -1,0 +1,15 @@
+14
+data.by.txt 1
+data.ew.txt 5
+data.hg.txt 1
+data.to.txt 1
+data.zagr.txt 1
+data.zanh.txt 1
+data.zaqf.txt 1
+data.zawu.txt 1
+data.zbvp.txt 1
+data.zdcw.txt 1
+data.zdds.txt 1
+data.zdoc.txt 4
+data.zecf.txt 1
+data.zezn.txt 1

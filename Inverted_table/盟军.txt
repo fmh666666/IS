@@ -1,0 +1,16 @@
+15
+data.ka.txt 1
+data.mt.txt 3
+data.zagb.txt 1
+data.zamp.txt 1
+data.zank.txt 1
+data.zaxp.txt 1
+data.zbpm.txt 1
+data.zbup.txt 1
+data.zcmy.txt 1
+data.zcpx.txt 1
+data.zddp.txt 1
+data.zdmw.txt 1
+data.zene.txt 1
+data.zeqh.txt 1
+data.zfai.txt 1

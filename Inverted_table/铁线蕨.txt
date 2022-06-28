@@ -1,0 +1,5 @@
+4
+data.zajn.txt 6
+data.zbpp.txt 2
+data.zejn.txt 2
+data.zezf.txt 1

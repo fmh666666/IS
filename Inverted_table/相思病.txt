@@ -1,0 +1,7 @@
+6
+data.wc.txt 1
+data.zadv.txt 1
+data.zafu.txt 2
+data.zdlo.txt 1
+data.zduo.txt 1
+data.zeoh.txt 1

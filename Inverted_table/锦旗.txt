@@ -1,0 +1,15 @@
+14
+data.ft.txt 1
+data.zabx.txt 2
+data.zail.txt 1
+data.zawb.txt 3
+data.zawo.txt 4
+data.zbla.txt 1
+data.zcdv.txt 1
+data.zcni.txt 1
+data.zcnn.txt 1
+data.zcse.txt 2
+data.zctn.txt 2
+data.zdaw.txt 2
+data.zduc.txt 1
+data.zedx.txt 1

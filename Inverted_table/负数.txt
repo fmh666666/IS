@@ -1,0 +1,19 @@
+18
+data.cn.txt 1
+data.fe.txt 1
+data.kq.txt 1
+data.mx.txt 1
+data.zail.txt 1
+data.zaoc.txt 1
+data.zbye.txt 1
+data.zcql.txt 1
+data.zdcw.txt 1
+data.zdep.txt 1
+data.zdpg.txt 2
+data.zdwk.txt 1
+data.zdyv.txt 2
+data.zdzn.txt 1
+data.zeds.txt 1
+data.zeil.txt 4
+data.zeqn.txt 1
+data.zfaw.txt 1

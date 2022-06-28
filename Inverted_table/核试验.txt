@@ -1,0 +1,15 @@
+14
+data.bf.txt 1
+data.gw.txt 1
+data.hu.txt 2
+data.zafy.txt 1
+data.zaqf.txt 1
+data.zbil.txt 3
+data.zbot.txt 1
+data.zcih.txt 1
+data.zctn.txt 1
+data.zdaw.txt 1
+data.zdst.txt 1
+data.zexv.txt 1
+data.zfai.txt 6
+data.zfaj.txt 3

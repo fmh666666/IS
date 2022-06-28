@@ -1,0 +1,5 @@
+4
+data.zabe.txt 1
+data.zdeb.txt 1
+data.zegn.txt 1
+data.zeqv.txt 1

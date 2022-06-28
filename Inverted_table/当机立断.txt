@@ -1,0 +1,14 @@
+13
+data.op.txt 1
+data.tv.txt 1
+data.zako.txt 1
+data.zbia.txt 1
+data.zccu.txt 1
+data.zcel.txt 1
+data.zcft.txt 1
+data.zcmv.txt 2
+data.zdaw.txt 1
+data.zddp.txt 1
+data.zdeb.txt 1
+data.zdwl.txt 1
+data.zenn.txt 1

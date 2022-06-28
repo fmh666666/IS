@@ -1,0 +1,11 @@
+10
+data.mk.txt 2
+data.tz.txt 1
+data.uz.txt 1
+data.zadv.txt 2
+data.zawu.txt 4
+data.zaxj.txt 2
+data.zbkj.txt 1
+data.zblr.txt 1
+data.zbyb.txt 1
+data.zdof.txt 1

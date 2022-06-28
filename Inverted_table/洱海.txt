@@ -1,0 +1,21 @@
+20
+data.be.txt 1
+data.fz.txt 1
+data.wc.txt 3
+data.zalj.txt 9
+data.zaxp.txt 1
+data.zbem.txt 1
+data.zblq.txt 2
+data.zbpm.txt 1
+data.zcbe.txt 2
+data.zcpx.txt 2
+data.zcrv.txt 1
+data.zcve.txt 1
+data.zdcj.txt 1
+data.zddv.txt 4
+data.zdgt.txt 1
+data.zdmw.txt 2
+data.zdpw.txt 2
+data.zduc.txt 2
+data.zdvl.txt 1
+data.zfaz.txt 1

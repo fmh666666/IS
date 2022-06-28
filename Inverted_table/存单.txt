@@ -1,0 +1,9 @@
+8
+data.bf.txt 1
+data.hg.txt 1
+data.hp.txt 1
+data.zawo.txt 2
+data.zbmt.txt 1
+data.zbyv.txt 2
+data.zene.txt 9
+data.zeqv.txt 1

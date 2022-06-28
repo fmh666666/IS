@@ -1,0 +1,7 @@
+6
+data.ew.txt 1
+data.ud.txt 1
+data.zajh.txt 1
+data.zaxp.txt 36
+data.zbcc.txt 1
+data.zcbe.txt 1

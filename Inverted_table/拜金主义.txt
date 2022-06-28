@@ -1,0 +1,10 @@
+9
+data.bf.txt 1
+data.ng.txt 1
+data.vi.txt 1
+data.zabe.txt 1
+data.zawb.txt 1
+data.zcnn.txt 2
+data.zczp.txt 1
+data.zdeb.txt 1
+data.zeec.txt 1

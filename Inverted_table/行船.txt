@@ -1,0 +1,4 @@
+3
+data.zalc.txt 1
+data.zaqf.txt 1
+data.zeqv.txt 1

@@ -1,0 +1,13 @@
+12
+data.bs.txt 2
+data.hp.txt 1
+data.mo.txt 1
+data.to.txt 1
+data.tv.txt 1
+data.zadv.txt 1
+data.zalj.txt 1
+data.zapf.txt 1
+data.zazx.txt 2
+data.zbua.txt 6
+data.zeaf.txt 1
+data.zeos.txt 1

@@ -1,0 +1,12 @@
+11
+data.zajo.txt 1
+data.zalm.txt 1
+data.zawb.txt 5
+data.zawu.txt 1
+data.zbhd.txt 1
+data.zbht.txt 1
+data.zcon.txt 3
+data.zczp.txt 1
+data.zdpz.txt 6
+data.zelt.txt 5
+data.zety.txt 1

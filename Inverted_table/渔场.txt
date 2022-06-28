@@ -1,0 +1,6 @@
+5
+data.zate.txt 3
+data.zawz.txt 2
+data.zcsr.txt 3
+data.zdcw.txt 6
+data.zfaj.txt 1

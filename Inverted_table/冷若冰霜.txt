@@ -1,0 +1,13 @@
+12
+data.gk.txt 1
+data.mt.txt 1
+data.nh.txt 1
+data.sq.txt 2
+data.zasy.txt 2
+data.zbem.txt 1
+data.zcgi.txt 1
+data.zcon.txt 2
+data.zcrk.txt 1
+data.zdou.txt 1
+data.zeac.txt 1
+data.zevy.txt 1

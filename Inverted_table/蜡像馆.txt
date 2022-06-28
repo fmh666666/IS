@@ -1,0 +1,10 @@
+9
+data.wc.txt 2
+data.zbia.txt 2
+data.zbta.txt 1
+data.zcts.txt 1
+data.zdcw.txt 1
+data.zdsh.txt 1
+data.zeeh.txt 1
+data.zeqv.txt 6
+data.zevq.txt 1

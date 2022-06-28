@@ -1,0 +1,18 @@
+17
+data.bs.txt 2
+data.ga.txt 1
+data.gw.txt 1
+data.op.txt 2
+data.pq.txt 2
+data.zakb.txt 1
+data.zbaf.txt 1
+data.zbjh.txt 1
+data.zbjq.txt 5
+data.zblq.txt 2
+data.zbtj.txt 1
+data.zcdy.txt 1
+data.zcic.txt 1
+data.zcsu.txt 1
+data.zddl.txt 1
+data.zdrq.txt 1
+data.zfaj.txt 1

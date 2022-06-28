@@ -1,0 +1,18 @@
+17
+data.bb.txt 4
+data.be.txt 2
+data.fp.txt 1
+data.fz.txt 1
+data.zawc.txt 2
+data.zawm.txt 1
+data.zbds.txt 7
+data.zbfr.txt 7
+data.zbvn.txt 1
+data.zcxr.txt 1
+data.zdar.txt 1
+data.zdcj.txt 1
+data.zdpw.txt 1
+data.zdsh.txt 4
+data.zdyv.txt 2
+data.zedx.txt 1
+data.zene.txt 1

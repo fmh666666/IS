@@ -1,0 +1,13 @@
+12
+data.cz.txt 1
+data.fp.txt 1
+data.ga.txt 1
+data.zaim.txt 1
+data.zasw.txt 4
+data.zawc.txt 1
+data.zawu.txt 1
+data.zcmy.txt 2
+data.zcql.txt 1
+data.zdmw.txt 1
+data.zerv.txt 1
+data.zfaj.txt 1

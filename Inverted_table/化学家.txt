@@ -1,0 +1,4 @@
+3
+data.kt.txt 2
+data.zajo.txt 1
+data.zdwl.txt 1

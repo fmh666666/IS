@@ -1,0 +1,9 @@
+8
+data.jj.txt 1
+data.op.txt 1
+data.zadv.txt 1
+data.zaoc.txt 1
+data.zasj.txt 1
+data.zcxp.txt 1
+data.zdoq.txt 1
+data.zexx.txt 4

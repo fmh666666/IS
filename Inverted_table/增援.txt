@@ -1,0 +1,8 @@
+7
+data.hg.txt 2
+data.hp.txt 1
+data.zadv.txt 1
+data.zbdb.txt 1
+data.zcdv.txt 1
+data.zdtv.txt 1
+data.zfaw.txt 1

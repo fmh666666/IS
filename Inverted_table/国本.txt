@@ -1,0 +1,4 @@
+3
+data.zdlw.txt 1
+data.zduk.txt 2
+data.zelt.txt 1

@@ -1,0 +1,13 @@
+12
+data.ep.txt 6
+data.fj.txt 1
+data.gw.txt 1
+data.zawc.txt 1
+data.zbfr.txt 2
+data.zbvm.txt 1
+data.zbvn.txt 1
+data.zcfx.txt 1
+data.zcko.txt 1
+data.zdcy.txt 1
+data.zeam.txt 1
+data.zeyg.txt 1

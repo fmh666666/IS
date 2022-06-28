@@ -1,0 +1,9 @@
+8
+data.fj.txt 1
+data.zail.txt 5
+data.zasr.txt 1
+data.zawu.txt 2
+data.zbnx.txt 1
+data.zbvg.txt 1
+data.zbvn.txt 1
+data.zeay.txt 18

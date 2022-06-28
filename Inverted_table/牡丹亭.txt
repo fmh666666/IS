@@ -1,0 +1,17 @@
+16
+data.ek.txt 2
+data.ga.txt 1
+data.tv.txt 1
+data.zair.txt 2
+data.zass.txt 1
+data.zaxj.txt 4
+data.zaxk.txt 2
+data.zblq.txt 8
+data.zblr.txt 3
+data.zbzf.txt 1
+data.zcdg.txt 1
+data.zcjo.txt 2
+data.zdzm.txt 1
+data.zeez.txt 1
+data.zeoh.txt 2
+data.zfas.txt 1

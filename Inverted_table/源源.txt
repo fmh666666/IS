@@ -1,0 +1,19 @@
+18
+data.fz.txt 1
+data.mu.txt 8
+data.zaej.txt 2
+data.zajh.txt 178
+data.zasw.txt 1
+data.zawm.txt 2
+data.zcdz.txt 1
+data.zcgi.txt 2
+data.zddp.txt 1
+data.zdlg.txt 1
+data.zdof.txt 1
+data.zdsh.txt 2
+data.zeeh.txt 1
+data.zekw.txt 2
+data.zeoh.txt 1
+data.zess.txt 1
+data.zexk.txt 1
+data.zezm.txt 1

@@ -1,0 +1,4 @@
+3
+data.zdgv.txt 1
+data.zdic.txt 1
+data.zfai.txt 1

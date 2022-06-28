@@ -1,0 +1,5 @@
+4
+data.jf.txt 2
+data.ok.txt 1
+data.zdic.txt 1
+data.zfaj.txt 1

@@ -1,0 +1,12 @@
+11
+data.bb.txt 2
+data.ek.txt 1
+data.fe.txt 10
+data.ff.txt 6
+data.tv.txt 1
+data.uz.txt 1
+data.zaxk.txt 2
+data.zbla.txt 1
+data.zdaa.txt 1
+data.zdby.txt 1
+data.zdkv.txt 1

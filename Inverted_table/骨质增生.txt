@@ -1,0 +1,4 @@
+3
+data.zbts.txt 1
+data.zdji.txt 2
+data.zfcp.txt 1

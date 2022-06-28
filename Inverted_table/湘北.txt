@@ -1,0 +1,13 @@
+12
+data.by.txt 1
+data.gk.txt 1
+data.mt.txt 1
+data.vm.txt 2
+data.zbga.txt 1
+data.zbla.txt 1
+data.zbuj.txt 1
+data.zcdl.txt 1
+data.zcfx.txt 1
+data.zcni.txt 3
+data.zdds.txt 2
+data.zdkk.txt 2

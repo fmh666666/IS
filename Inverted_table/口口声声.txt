@@ -1,0 +1,25 @@
+24
+data.qb.txt 2
+data.sq.txt 1
+data.zajh.txt 1
+data.zajn.txt 1
+data.zako.txt 1
+data.zamp.txt 1
+data.zasd.txt 1
+data.zawb.txt 1
+data.zbnx.txt 1
+data.zbqu.txt 3
+data.zbre.txt 1
+data.zbye.txt 1
+data.zcaq.txt 1
+data.zcdl.txt 1
+data.zcic.txt 1
+data.zdgt.txt 2
+data.zdzm.txt 1
+data.zebf.txt 1
+data.zeec.txt 1
+data.zefd.txt 1
+data.zefu.txt 1
+data.zevt.txt 1
+data.zevy.txt 1
+data.zezh.txt 1

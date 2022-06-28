@@ -1,0 +1,12 @@
+11
+data.xe.txt 1
+data.zapf.txt 1
+data.zass.txt 1
+data.zavg.txt 2
+data.zaxj.txt 5
+data.zaxk.txt 1
+data.zbrj.txt 2
+data.zcda.txt 1
+data.zcdv.txt 1
+data.zczl.txt 1
+data.zeve.txt 1

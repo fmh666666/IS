@@ -1,0 +1,9 @@
+8
+data.kq.txt 2
+data.zahp.txt 1
+data.zawc.txt 1
+data.zaxk.txt 1
+data.zcon.txt 2
+data.zdgp.txt 1
+data.zdgv.txt 1
+data.zfcg.txt 2

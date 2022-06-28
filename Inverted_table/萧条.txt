@@ -1,0 +1,26 @@
+25
+data.bb.txt 2
+data.kq.txt 1
+data.op.txt 1
+data.tv.txt 1
+data.zabe.txt 1
+data.zagr.txt 1
+data.zakb.txt 1
+data.zaoc.txt 2
+data.zazn.txt 2
+data.zbds.txt 1
+data.zbil.txt 1
+data.zbvp.txt 1
+data.zcee.txt 2
+data.zcef.txt 1
+data.zcmy.txt 2
+data.zcue.txt 1
+data.zczp.txt 1
+data.zdgt.txt 4
+data.zdxw.txt 1
+data.zecf.txt 1
+data.zeoh.txt 1
+data.zeoo.txt 1
+data.zexu.txt 1
+data.zezh.txt 1
+data.zfai.txt 3

@@ -1,0 +1,18 @@
+17
+data.en.txt 2
+data.qn.txt 1
+data.zahd.txt 1
+data.zalj.txt 1
+data.zank.txt 1
+data.zbia.txt 1
+data.zbrj.txt 1
+data.zbyb.txt 1
+data.zcve.txt 2
+data.zdey.txt 1
+data.zdkk.txt 1
+data.zebc.txt 1
+data.zeew.txt 1
+data.zeva.txt 1
+data.zexm.txt 1
+data.zexx.txt 1
+data.zezh.txt 1

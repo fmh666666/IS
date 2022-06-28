@@ -1,0 +1,12 @@
+11
+data.ee.txt 12
+data.mo.txt 2
+data.pn.txt 2
+data.zblr.txt 1
+data.zbqu.txt 1
+data.zcfn.txt 2
+data.zcts.txt 1
+data.zdcw.txt 1
+data.zdrq.txt 1
+data.zegl.txt 1
+data.zenw.txt 1

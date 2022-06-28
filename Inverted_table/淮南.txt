@@ -1,0 +1,16 @@
+15
+data.to.txt 2
+data.zapl.txt 2
+data.zawb.txt 1
+data.zaxk.txt 2
+data.zazo.txt 1
+data.zbtj.txt 1
+data.zbzg.txt 2
+data.zcgi.txt 2
+data.zcln.txt 1
+data.zcni.txt 2
+data.zdod.txt 1
+data.zdzi.txt 1
+data.zedk.txt 1
+data.zeoh.txt 2
+data.zfaj.txt 1

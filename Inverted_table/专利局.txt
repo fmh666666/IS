@@ -1,0 +1,4 @@
+3
+data.gw.txt 1
+data.zamp.txt 1
+data.zezy.txt 1

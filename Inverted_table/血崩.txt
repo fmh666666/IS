@@ -1,0 +1,5 @@
+4
+data.zasw.txt 2
+data.zbsu.txt 1
+data.zcbe.txt 2
+data.zdme.txt 2

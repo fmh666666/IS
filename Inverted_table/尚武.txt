@@ -1,0 +1,7 @@
+6
+data.vm.txt 1
+data.zalm.txt 3
+data.zdaw.txt 20
+data.zdgt.txt 2
+data.zenw.txt 1
+data.zfaj.txt 1

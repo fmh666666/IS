@@ -1,0 +1,18 @@
+17
+data.ee.txt 1
+data.op.txt 1
+data.zabj.txt 1
+data.zank.txt 1
+data.zawo.txt 1
+data.zbpm.txt 1
+data.zbuj.txt 1
+data.zbvm.txt 1
+data.zcdl.txt 1
+data.zcon.txt 2
+data.zcrv.txt 1
+data.zcse.txt 1
+data.zcue.txt 2
+data.zdhv.txt 2
+data.zeac.txt 1
+data.zegk.txt 1
+data.zezy.txt 1

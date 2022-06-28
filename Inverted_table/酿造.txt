@@ -1,0 +1,14 @@
+13
+data.gw.txt 2
+data.jd.txt 1
+data.ok.txt 2
+data.zahd.txt 1
+data.zapf.txt 1
+data.zbht.txt 1
+data.zbkf.txt 1
+data.zbts.txt 2
+data.zclh.txt 1
+data.zcse.txt 2
+data.zdwl.txt 1
+data.zelt.txt 2
+data.zeqn.txt 1

@@ -1,0 +1,3 @@
+2
+data.uz.txt 3
+data.zdlg.txt 1

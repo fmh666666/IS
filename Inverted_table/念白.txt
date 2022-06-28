@@ -1,0 +1,14 @@
+13
+data.ew.txt 1
+data.tv.txt 1
+data.tz.txt 1
+data.zalt.txt 1
+data.zaxj.txt 22
+data.zaxk.txt 25
+data.zbcc.txt 2
+data.zbia.txt 1
+data.zbwa.txt 1
+data.zcjo.txt 1
+data.zcln.txt 1
+data.zcrg.txt 1
+data.zdby.txt 6

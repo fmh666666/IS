@@ -1,0 +1,7 @@
+6
+data.ff.txt 1
+data.qn.txt 1
+data.zanm.txt 1
+data.zavx.txt 2
+data.zbmw.txt 1
+data.zevq.txt 1

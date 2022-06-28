@@ -1,0 +1,6 @@
+5
+data.bs.txt 2
+data.zadv.txt 1
+data.zawo.txt 1
+data.zawz.txt 1
+data.zdme.txt 1

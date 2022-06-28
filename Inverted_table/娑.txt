@@ -1,0 +1,19 @@
+18
+data.ep.txt 1
+data.jf.txt 6
+data.mo.txt 1
+data.ry.txt 1
+data.ud.txt 1
+data.zabe.txt 2
+data.zaqf.txt 2
+data.zbdb.txt 1
+data.zbfp.txt 1
+data.zbjh.txt 4
+data.zbts.txt 1
+data.zdpf.txt 1
+data.zdpw.txt 1
+data.zdwn.txt 2
+data.zecf.txt 1
+data.zelj.txt 2
+data.zene.txt 2
+data.zess.txt 1

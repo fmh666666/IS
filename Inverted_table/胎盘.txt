@@ -1,0 +1,19 @@
+18
+data.fp.txt 1
+data.ft.txt 1
+data.pa.txt 1
+data.zabx.txt 1
+data.zair.txt 6
+data.zank.txt 1
+data.zbnp.txt 1
+data.zcjy.txt 1
+data.zctp.txt 3
+data.zdaw.txt 1
+data.zddx.txt 1
+data.zdle.txt 1
+data.zdme.txt 2
+data.zdmw.txt 1
+data.zdst.txt 1
+data.zeid.txt 1
+data.zeqv.txt 1
+data.zfae.txt 1

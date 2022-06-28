@@ -1,0 +1,11 @@
+10
+data.cq.txt 1
+data.ga.txt 1
+data.zaim.txt 1
+data.zajn.txt 1
+data.zbre.txt 1
+data.zcgi.txt 1
+data.zddb.txt 2
+data.zdeb.txt 1
+data.zeew.txt 1
+data.zexx.txt 1

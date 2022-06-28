@@ -1,0 +1,4 @@
+3
+data.zasd.txt 3
+data.zdoq.txt 1
+data.zene.txt 1

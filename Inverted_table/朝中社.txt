@@ -1,0 +1,12 @@
+11
+data.co.txt 1
+data.zajo.txt 1
+data.zako.txt 2
+data.zauy.txt 1
+data.zawc.txt 1
+data.zbil.txt 1
+data.zbkj.txt 1
+data.zcll.txt 1
+data.zctm.txt 1
+data.zdgt.txt 1
+data.zeoh.txt 1

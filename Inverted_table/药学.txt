@@ -1,0 +1,7 @@
+6
+data.gw.txt 2
+data.tv.txt 1
+data.zcdv.txt 1
+data.zddb.txt 9
+data.zdeq.txt 1
+data.zdgp.txt 1

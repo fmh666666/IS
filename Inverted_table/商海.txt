@@ -1,0 +1,16 @@
+15
+data.co.txt 2
+data.ff.txt 1
+data.jf.txt 1
+data.mx.txt 1
+data.nh.txt 1
+data.qn.txt 1
+data.zail.txt 1
+data.zaoc.txt 2
+data.zapl.txt 1
+data.zasq.txt 1
+data.zcjo.txt 1
+data.zcjy.txt 1
+data.zctm.txt 1
+data.zedo.txt 1
+data.zeoh.txt 1

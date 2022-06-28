@@ -1,0 +1,8 @@
+7
+data.ew.txt 1
+data.fe.txt 1
+data.op.txt 1
+data.zasq.txt 1
+data.zazw.txt 1
+data.zcpc.txt 2
+data.zdll.txt 2

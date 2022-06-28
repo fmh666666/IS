@@ -1,0 +1,13 @@
+12
+data.jf.txt 2
+data.mo.txt 1
+data.zabe.txt 1
+data.zail.txt 3
+data.zard.txt 2
+data.zbht.txt 1
+data.zbpc.txt 3
+data.zcdv.txt 1
+data.zcll.txt 1
+data.zddp.txt 1
+data.zdlg.txt 2
+data.zfaw.txt 1

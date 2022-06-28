@@ -1,0 +1,7 @@
+6
+data.zaoc.txt 1
+data.zblq.txt 1
+data.zcdy.txt 1
+data.zcmx.txt 1
+data.zdcy.txt 1
+data.zelt.txt 1

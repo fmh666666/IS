@@ -1,0 +1,21 @@
+20
+data.aj.txt 1
+data.ek.txt 1
+data.fp.txt 1
+data.op.txt 5
+data.pa.txt 1
+data.zabx.txt 1
+data.zaim.txt 2
+data.zajn.txt 1
+data.zaoo.txt 1
+data.zawb.txt 2
+data.zawc.txt 2
+data.zaxp.txt 1
+data.zcgo.txt 1
+data.zdaw.txt 1
+data.zdji.txt 2
+data.zene.txt 1
+data.zexx.txt 2
+data.zezn.txt 1
+data.zezy.txt 3
+data.zfai.txt 3

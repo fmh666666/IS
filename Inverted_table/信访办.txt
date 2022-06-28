@@ -1,0 +1,14 @@
+13
+data.hp.txt 2
+data.zaim.txt 1
+data.zako.txt 1
+data.zawb.txt 2
+data.zawu.txt 1
+data.zdaw.txt 1
+data.zdsh.txt 1
+data.zelt.txt 1
+data.zeoh.txt 1
+data.zeoo.txt 1
+data.zevt.txt 2
+data.zfae.txt 1
+data.zfdk.txt 1

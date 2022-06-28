@@ -1,0 +1,7 @@
+6
+data.ud.txt 1
+data.zafe.txt 1
+data.zaub.txt 1
+data.zegz.txt 1
+data.zenw.txt 3
+data.zeyy.txt 1

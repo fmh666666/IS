@@ -1,0 +1,14 @@
+13
+data.bb.txt 1
+data.cz.txt 2
+data.gw.txt 1
+data.jj.txt 1
+data.mk.txt 1
+data.op.txt 1
+data.vi.txt 1
+data.zafu.txt 1
+data.zaqr.txt 1
+data.zbot.txt 1
+data.zczj.txt 1
+data.zdby.txt 1
+data.zeyg.txt 2

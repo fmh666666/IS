@@ -1,0 +1,9 @@
+8
+data.ga.txt 1
+data.hc.txt 2
+data.zawu.txt 1
+data.zblr.txt 1
+data.zbsm.txt 2
+data.zdkk.txt 2
+data.zerh.txt 1
+data.zfaj.txt 6

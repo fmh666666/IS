@@ -1,0 +1,22 @@
+21
+data.fp.txt 2
+data.mx.txt 1
+data.pq.txt 1
+data.tv.txt 1
+data.ud.txt 1
+data.zafk.txt 1
+data.zakb.txt 1
+data.zaoy.txt 1
+data.zawu.txt 2
+data.zbil.txt 14
+data.zbkr.txt 2
+data.zbsu.txt 3
+data.zbvm.txt 1
+data.zbvn.txt 1
+data.zbzg.txt 1
+data.zcbe.txt 1
+data.zdlo.txt 1
+data.zedo.txt 1
+data.zeun.txt 1
+data.zfai.txt 1
+data.zfdk.txt 1

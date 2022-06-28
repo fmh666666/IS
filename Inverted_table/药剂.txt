@@ -1,0 +1,8 @@
+7
+data.zawc.txt 2
+data.zbcc.txt 1
+data.zbqu.txt 1
+data.zccu.txt 1
+data.zcda.txt 1
+data.zctp.txt 1
+data.zczp.txt 1

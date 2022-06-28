@@ -1,0 +1,10 @@
+9
+data.hu.txt 1
+data.zalm.txt 3
+data.zbcc.txt 1
+data.zchd.txt 1
+data.zcjd.txt 1
+data.zdkp.txt 1
+data.zefv.txt 1
+data.zefw.txt 1
+data.zesq.txt 1

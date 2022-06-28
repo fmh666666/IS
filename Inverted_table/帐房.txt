@@ -1,0 +1,4 @@
+3
+data.zduk.txt 1
+data.zedk.txt 1
+data.zezn.txt 1

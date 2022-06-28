@@ -1,0 +1,5 @@
+4
+data.wc.txt 1
+data.zatz.txt 1
+data.zene.txt 1
+data.zeqv.txt 1

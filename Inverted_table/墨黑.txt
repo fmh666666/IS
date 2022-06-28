@@ -1,0 +1,7 @@
+6
+data.aj.txt 1
+data.zadv.txt 3
+data.zcmn.txt 1
+data.zcpx.txt 2
+data.zdro.txt 1
+data.zdzn.txt 1

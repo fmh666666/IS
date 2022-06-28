@@ -1,0 +1,2 @@
+1
+data.zako.txt 2

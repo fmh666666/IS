@@ -1,0 +1,7 @@
+6
+data.be.txt 2
+data.ha.txt 1
+data.zaoy.txt 1
+data.zcdy.txt 1
+data.zdlg.txt 1
+data.zezh.txt 1

@@ -1,0 +1,17 @@
+16
+data.ek.txt 1
+data.ga.txt 1
+data.zapl.txt 1
+data.zarr.txt 2
+data.zbsu.txt 1
+data.zbtx.txt 1
+data.zcic.txt 4
+data.zcmn.txt 1
+data.zcni.txt 1
+data.zdju.txt 1
+data.zduc.txt 1
+data.zebf.txt 1
+data.zegk.txt 3
+data.zegl.txt 3
+data.zegn.txt 10
+data.zeos.txt 1

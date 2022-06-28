@@ -1,0 +1,13 @@
+12
+data.cf.txt 1
+data.gw.txt 2
+data.nh.txt 1
+data.yx.txt 2
+data.zaej.txt 3
+data.zaoy.txt 2
+data.zavx.txt 1
+data.zawo.txt 1
+data.zbhd.txt 3
+data.zccl.txt 1
+data.zcsu.txt 1
+data.zctp.txt 2

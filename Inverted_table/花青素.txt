@@ -1,0 +1,9 @@
+8
+data.fe.txt 1
+data.kt.txt 2
+data.zalt.txt 1
+data.zcts.txt 1
+data.zcue.txt 1
+data.zdar.txt 1
+data.zeyg.txt 1
+data.zfai.txt 1

@@ -1,0 +1,11 @@
+10
+data.zank.txt 1
+data.zawo.txt 1
+data.zbil.txt 1
+data.zbor.txt 2
+data.zcdz.txt 1
+data.zcql.txt 1
+data.zczp.txt 1
+data.zdsh.txt 1
+data.zeec.txt 1
+data.zezm.txt 1

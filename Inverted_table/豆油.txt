@@ -1,0 +1,7 @@
+6
+data.zamr.txt 1
+data.zavg.txt 2
+data.zawc.txt 1
+data.zbdx.txt 1
+data.zdar.txt 1
+data.zeam.txt 2

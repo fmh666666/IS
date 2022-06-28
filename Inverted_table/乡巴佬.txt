@@ -1,0 +1,7 @@
+6
+data.cz.txt 1
+data.hc.txt 1
+data.zcnn.txt 1
+data.zdgp.txt 2
+data.zdkp.txt 2
+data.zene.txt 1

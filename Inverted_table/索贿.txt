@@ -1,0 +1,8 @@
+7
+data.ft.txt 2
+data.op.txt 1
+data.zawc.txt 2
+data.zcvq.txt 1
+data.zeay.txt 1
+data.zexv.txt 1
+data.zfai.txt 1

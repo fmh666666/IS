@@ -1,0 +1,7 @@
+6
+data.pq.txt 1
+data.zadv.txt 2
+data.zarc.txt 1
+data.zdju.txt 1
+data.zeam.txt 1
+data.zehp.txt 2

@@ -1,0 +1,9 @@
+8
+data.zapl.txt 1
+data.zbse.txt 1
+data.zcdz.txt 3
+data.zcfx.txt 3
+data.zcse.txt 1
+data.zddx.txt 1
+data.zelt.txt 1
+data.zexv.txt 3

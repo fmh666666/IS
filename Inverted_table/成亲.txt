@@ -1,0 +1,12 @@
+11
+data.bb.txt 1
+data.tv.txt 3
+data.uz.txt 1
+data.zabe.txt 1
+data.zafq.txt 1
+data.zaoy.txt 1
+data.zayc.txt 2
+data.zbph.txt 1
+data.zchw.txt 1
+data.zcis.txt 1
+data.zedy.txt 1

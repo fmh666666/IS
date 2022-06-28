@@ -1,0 +1,14 @@
+13
+data.uz.txt 1
+data.zaxx.txt 1
+data.zayd.txt 1
+data.zbds.txt 1
+data.zbht.txt 1
+data.zbpm.txt 1
+data.zcts.txt 1
+data.zdgo.txt 1
+data.zdil.txt 1
+data.zedo.txt 1
+data.zelt.txt 1
+data.zene.txt 1
+data.zfai.txt 1

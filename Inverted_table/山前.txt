@@ -1,0 +1,13 @@
+12
+data.be.txt 2
+data.fp.txt 2
+data.jd.txt 1
+data.zabe.txt 1
+data.zbpp.txt 1
+data.zcef.txt 1
+data.zcnn.txt 1
+data.zcon.txt 1
+data.zdoq.txt 4
+data.zefv.txt 1
+data.zegk.txt 1
+data.zfaw.txt 2

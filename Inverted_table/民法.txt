@@ -1,0 +1,10 @@
+9
+data.zaet.txt 10
+data.zafy.txt 2
+data.zagr.txt 1
+data.zcda.txt 1
+data.zcdl.txt 1
+data.zcku.txt 2
+data.zcts.txt 1
+data.zesi.txt 1
+data.zevy.txt 1

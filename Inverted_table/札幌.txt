@@ -1,0 +1,13 @@
+12
+data.zafk.txt 1
+data.zazw.txt 1
+data.zazx.txt 4
+data.zbhd.txt 1
+data.zbsu.txt 4
+data.zbvm.txt 1
+data.zdqk.txt 1
+data.zdwd.txt 5
+data.zegl.txt 2
+data.zegn.txt 1
+data.zewd.txt 1
+data.zeyg.txt 1

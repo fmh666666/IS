@@ -1,0 +1,24 @@
+23
+data.jf.txt 4
+data.ng.txt 1
+data.op.txt 4
+data.ry.txt 2
+data.tv.txt 2
+data.yx.txt 2
+data.zahd.txt 2
+data.zawo.txt 1
+data.zbeb.txt 1
+data.zbpx.txt 2
+data.zbqu.txt 1
+data.zbvf.txt 1
+data.zbzf.txt 1
+data.zcqs.txt 2
+data.zdgt.txt 2
+data.zdst.txt 1
+data.zeam.txt 1
+data.zeel.txt 1
+data.zerw.txt 1
+data.zeyy.txt 1
+data.zezm.txt 2
+data.zezn.txt 1
+data.zfai.txt 1

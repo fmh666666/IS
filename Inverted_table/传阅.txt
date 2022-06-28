@@ -1,0 +1,14 @@
+13
+data.fp.txt 2
+data.mu.txt 1
+data.pa.txt 1
+data.pn.txt 1
+data.zasw.txt 102
+data.zcao.txt 1
+data.zcbe.txt 1
+data.zcdz.txt 1
+data.zcls.txt 1
+data.zdyv.txt 1
+data.zebv.txt 1
+data.zedk.txt 1
+data.zeos.txt 1

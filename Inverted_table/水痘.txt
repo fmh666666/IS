@@ -1,0 +1,16 @@
+15
+data.pa.txt 1
+data.zaeh.txt 1
+data.zasr.txt 2
+data.zazg.txt 1
+data.zcqs.txt 1
+data.zctp.txt 2
+data.zcts.txt 17
+data.zcvq.txt 1
+data.zdep.txt 1
+data.zdle.txt 1
+data.zduc.txt 2
+data.zdzm.txt 1
+data.zeam.txt 1
+data.zene.txt 5
+data.zfaw.txt 1

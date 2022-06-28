@@ -1,0 +1,7 @@
+6
+data.gw.txt 1
+data.zbsl.txt 1
+data.zbzo.txt 1
+data.zdga.txt 3
+data.zelt.txt 1
+data.zeyu.txt 1

@@ -1,0 +1,19 @@
+18
+data.cq.txt 2
+data.yx.txt 1
+data.zalj.txt 1
+data.zaub.txt 1
+data.zawc.txt 1
+data.zazn.txt 1
+data.zbcj.txt 1
+data.zbeb.txt 1
+data.zbhv.txt 1
+data.zbkr.txt 1
+data.zbmt.txt 2
+data.zcjy.txt 1
+data.zcse.txt 1
+data.zcts.txt 1
+data.zedd.txt 1
+data.zeec.txt 1
+data.zehp.txt 2
+data.zfae.txt 1

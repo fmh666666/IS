@@ -1,0 +1,14 @@
+13
+data.be.txt 2
+data.tv.txt 2
+data.zafl.txt 1
+data.zbaq.txt 1
+data.zbxw.txt 1
+data.zbzf.txt 1
+data.zcby.txt 1
+data.zcql.txt 1
+data.zdod.txt 1
+data.zedo.txt 1
+data.zess.txt 1
+data.zexx.txt 5
+data.zeyu.txt 1

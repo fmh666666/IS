@@ -1,0 +1,7 @@
+6
+data.ek.txt 1
+data.zawc.txt 2
+data.zbdx.txt 1
+data.zbsu.txt 2
+data.zdmw.txt 2
+data.zdrq.txt 7

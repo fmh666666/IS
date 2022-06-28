@@ -1,0 +1,14 @@
+13
+data.gw.txt 1
+data.mt.txt 1
+data.ok.txt 1
+data.zaop.txt 1
+data.zapr.txt 1
+data.zawc.txt 1
+data.zbfx.txt 1
+data.zbia.txt 1
+data.zcdv.txt 1
+data.zcql.txt 1
+data.zduk.txt 1
+data.zdzn.txt 1
+data.zeqv.txt 1

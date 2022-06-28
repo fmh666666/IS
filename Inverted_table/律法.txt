@@ -1,0 +1,6 @@
+5
+data.bb.txt 2
+data.hp.txt 1
+data.zaoo.txt 1
+data.zdga.txt 1
+data.zfcg.txt 1

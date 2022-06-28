@@ -1,0 +1,8 @@
+7
+data.mx.txt 2
+data.zabx.txt 1
+data.zapl.txt 1
+data.zcse.txt 1
+data.zdeb.txt 1
+data.zdwl.txt 2
+data.zdzg.txt 1

@@ -1,0 +1,8 @@
+7
+data.kq.txt 1
+data.zacp.txt 1
+data.zapl.txt 1
+data.zblr.txt 2
+data.zdod.txt 1
+data.zerv.txt 1
+data.zfaw.txt 1

@@ -1,0 +1,11 @@
+10
+data.aj.txt 1
+data.zadv.txt 6
+data.zaoc.txt 1
+data.zawu.txt 1
+data.zdod.txt 2
+data.zdof.txt 3
+data.zdzm.txt 1
+data.zene.txt 3
+data.zeqh.txt 12
+data.zewn.txt 3

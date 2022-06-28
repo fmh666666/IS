@@ -1,0 +1,11 @@
+10
+data.ka.txt 1
+data.qn.txt 4
+data.zagb.txt 27
+data.zaoy.txt 1
+data.zbyv.txt 1
+data.zctp.txt 2
+data.zczp.txt 2
+data.zdep.txt 2
+data.zdlw.txt 1
+data.zdpw.txt 1

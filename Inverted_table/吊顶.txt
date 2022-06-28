@@ -1,0 +1,17 @@
+16
+data.pn.txt 8
+data.zajn.txt 1
+data.zaop.txt 1
+data.zbhv.txt 6
+data.zbkf.txt 5
+data.zbrj.txt 1
+data.zbxw.txt 1
+data.zbyb.txt 5
+data.zbzo.txt 4
+data.zcll.txt 4
+data.zcls.txt 6
+data.zctm.txt 1
+data.zdtv.txt 1
+data.zedk.txt 2
+data.zevl.txt 2
+data.zewv.txt 5

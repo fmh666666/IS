@@ -1,0 +1,9 @@
+8
+data.jf.txt 1
+data.mi.txt 1
+data.zasw.txt 25
+data.zbpx.txt 1
+data.zcmy.txt 1
+data.zcwn.txt 1
+data.zduc.txt 5
+data.zesi.txt 1

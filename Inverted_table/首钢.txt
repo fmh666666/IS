@@ -1,0 +1,10 @@
+9
+data.zawm.txt 1
+data.zbbt.txt 1
+data.zbkv.txt 3
+data.zcko.txt 1
+data.zcrn.txt 1
+data.zdoc.txt 1
+data.zedo.txt 3
+data.zeew.txt 1
+data.zefw.txt 1

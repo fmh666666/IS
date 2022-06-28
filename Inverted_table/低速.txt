@@ -1,0 +1,10 @@
+9
+data.ga.txt 1
+data.gw.txt 4
+data.hz.txt 2
+data.zapl.txt 1
+data.zbel.txt 3
+data.zbrj.txt 1
+data.zbzf.txt 1
+data.zcqp.txt 1
+data.zduk.txt 1

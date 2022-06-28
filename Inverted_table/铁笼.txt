@@ -1,0 +1,9 @@
+8
+data.ok.txt 2
+data.zagr.txt 1
+data.zako.txt 2
+data.zalm.txt 2
+data.zawu.txt 1
+data.zbcv.txt 2
+data.zczp.txt 1
+data.zdeb.txt 1

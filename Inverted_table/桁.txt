@@ -1,0 +1,4 @@
+3
+data.zaxk.txt 2
+data.zcon.txt 4
+data.zdgo.txt 1

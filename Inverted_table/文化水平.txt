@@ -1,0 +1,17 @@
+16
+data.cn.txt 1
+data.mt.txt 2
+data.nh.txt 1
+data.zaet.txt 1
+data.zaic.txt 1
+data.zazg.txt 1
+data.zazn.txt 1
+data.zazx.txt 1
+data.zbfz.txt 1
+data.zbua.txt 1
+data.zbzf.txt 1
+data.zdhw.txt 1
+data.zdle.txt 2
+data.zefw.txt 1
+data.zeik.txt 2
+data.zfaz.txt 1

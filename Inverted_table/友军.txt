@@ -1,0 +1,7 @@
+6
+data.gz.txt 1
+data.vi.txt 1
+data.zctp.txt 1
+data.zcvq.txt 1
+data.zcvt.txt 1
+data.zfaj.txt 2

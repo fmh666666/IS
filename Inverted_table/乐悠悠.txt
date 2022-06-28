@@ -1,0 +1,18 @@
+17
+data.dg.txt 1
+data.ha.txt 2
+data.sq.txt 1
+data.zail.txt 1
+data.zall.txt 1
+data.zalm.txt 1
+data.zbel.txt 2
+data.zbmw.txt 7
+data.zbqu.txt 6
+data.zcvt.txt 1
+data.zdds.txt 1
+data.zdkv.txt 1
+data.zedx.txt 1
+data.zedy.txt 2
+data.zeez.txt 3
+data.zejk.txt 1
+data.zevy.txt 1

@@ -1,0 +1,6 @@
+5
+data.ok.txt 3
+data.zbel.txt 2
+data.zbkj.txt 2
+data.zbua.txt 1
+data.zeyg.txt 1

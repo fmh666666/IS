@@ -1,0 +1,4 @@
+3
+data.zanm.txt 1
+data.zaqw.txt 1
+data.zaub.txt 1

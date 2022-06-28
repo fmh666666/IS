@@ -1,0 +1,11 @@
+10
+data.bb.txt 1
+data.fj.txt 1
+data.mu.txt 1
+data.zail.txt 1
+data.zawu.txt 1
+data.zaxk.txt 2
+data.zbnp.txt 1
+data.zbsu.txt 1
+data.zcft.txt 1
+data.zdfl.txt 1

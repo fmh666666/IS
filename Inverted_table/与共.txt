@@ -1,0 +1,14 @@
+13
+data.qn.txt 1
+data.zank.txt 1
+data.zasr.txt 1
+data.zawu.txt 1
+data.zaxj.txt 26
+data.zcef.txt 1
+data.zcis.txt 1
+data.zctp.txt 1
+data.zcue.txt 1
+data.zdhw.txt 1
+data.zeai.txt 2
+data.zefv.txt 1
+data.zewn.txt 1

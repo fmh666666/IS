@@ -1,0 +1,13 @@
+12
+data.ka.txt 1
+data.zagr.txt 1
+data.zawb.txt 2
+data.zbcj.txt 5
+data.zbkv.txt 1
+data.zbpx.txt 1
+data.zbsm.txt 2
+data.zdhw.txt 1
+data.zdmw.txt 2
+data.zeac.txt 1
+data.zedk.txt 2
+data.zfaj.txt 3

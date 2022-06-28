@@ -1,0 +1,7 @@
+6
+data.zamp.txt 4
+data.zavx.txt 1
+data.zawo.txt 10
+data.zbrj.txt 1
+data.zdgv.txt 1
+data.zdnh.txt 1

@@ -1,0 +1,24 @@
+23
+data.fp.txt 2
+data.ye.txt 1
+data.zamp.txt 1
+data.zaqw.txt 1
+data.zawu.txt 1
+data.zbdb.txt 1
+data.zbgd.txt 3
+data.zbnp.txt 1
+data.zbpc.txt 1
+data.zbru.txt 2
+data.zbvm.txt 1
+data.zcaq.txt 1
+data.zcdl.txt 2
+data.zctm.txt 1
+data.zcxh.txt 1
+data.zdlg.txt 2
+data.zdlw.txt 1
+data.zduc.txt 64
+data.zdxw.txt 1
+data.zenn.txt 1
+data.zerw.txt 1
+data.zexm.txt 2
+data.zfaz.txt 1

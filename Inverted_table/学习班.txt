@@ -1,0 +1,9 @@
+8
+data.zamr.txt 2
+data.zapf.txt 1
+data.zawo.txt 1
+data.zbts.txt 1
+data.zcao.txt 2
+data.zdeb.txt 1
+data.zdwn.txt 1
+data.zeos.txt 1

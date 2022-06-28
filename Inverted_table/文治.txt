@@ -1,0 +1,22 @@
+21
+data.pn.txt 2
+data.sq.txt 1
+data.vi.txt 1
+data.zabe.txt 1
+data.zafk.txt 1
+data.zahd.txt 1
+data.zaim.txt 1
+data.zajo.txt 2
+data.zawb.txt 1
+data.zbaq.txt 1
+data.zbdx.txt 1
+data.zbeb.txt 4
+data.zbjq.txt 1
+data.zblq.txt 1
+data.zcxh.txt 1
+data.zcxq.txt 3
+data.zdhw.txt 1
+data.zdil.txt 1
+data.zdnh.txt 1
+data.zeec.txt 2
+data.zeoh.txt 1

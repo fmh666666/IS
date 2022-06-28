@@ -1,0 +1,8 @@
+7
+data.co.txt 5
+data.ng.txt 2
+data.zbjk.txt 4
+data.zcee.txt 1
+data.zczl.txt 2
+data.zedo.txt 2
+data.zfaj.txt 1

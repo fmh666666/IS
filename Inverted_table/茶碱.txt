@@ -1,0 +1,4 @@
+3
+data.zank.txt 1
+data.zbut.txt 1
+data.zedd.txt 1

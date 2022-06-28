@@ -1,0 +1,13 @@
+12
+data.ew.txt 1
+data.zadv.txt 1
+data.zalt.txt 1
+data.zaxk.txt 2
+data.zcpx.txt 1
+data.zcsu.txt 1
+data.zcts.txt 1
+data.zdby.txt 1
+data.zdgt.txt 1
+data.zdof.txt 1
+data.zedy.txt 2
+data.zezn.txt 2

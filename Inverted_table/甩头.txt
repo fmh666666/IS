@@ -1,0 +1,20 @@
+19
+data.aj.txt 1
+data.dg.txt 1
+data.xe.txt 3
+data.zafe.txt 2
+data.zafk.txt 2
+data.zaic.txt 1
+data.zalt.txt 1
+data.zate.txt 2
+data.zbnx.txt 2
+data.zbsd.txt 1
+data.zbwa.txt 2
+data.zcdv.txt 1
+data.zcft.txt 1
+data.zcve.txt 1
+data.zdqk.txt 1
+data.zdwl.txt 1
+data.zdzi.txt 1
+data.zeoh.txt 1
+data.zerw.txt 2

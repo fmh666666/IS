@@ -1,0 +1,8 @@
+7
+data.zaxk.txt 1
+data.zcku.txt 1
+data.zcni.txt 4
+data.zcpa.txt 4
+data.zcwn.txt 1
+data.zdbf.txt 4
+data.zeyg.txt 4

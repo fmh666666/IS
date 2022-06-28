@@ -1,0 +1,12 @@
+11
+data.co.txt 9
+data.mx.txt 14
+data.op.txt 1
+data.ye.txt 9
+data.zaim.txt 2
+data.zaqw.txt 1
+data.zayv.txt 5
+data.zblq.txt 2
+data.zctn.txt 5
+data.zety.txt 4
+data.zewv.txt 5

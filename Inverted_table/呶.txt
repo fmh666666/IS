@@ -1,0 +1,7 @@
+6
+data.zard.txt 2
+data.zbsm.txt 2
+data.zcfn.txt 1
+data.zdzi.txt 1
+data.zeai.txt 2
+data.zeaj.txt 5

@@ -1,0 +1,21 @@
+20
+data.aj.txt 1
+data.ff.txt 2
+data.hc.txt 1
+data.zafl.txt 2
+data.zalc.txt 2
+data.zapl.txt 1
+data.zawc.txt 1
+data.zbmt.txt 1
+data.zcis.txt 2
+data.zctm.txt 1
+data.zcts.txt 1
+data.zcuh.txt 1
+data.zcve.txt 1
+data.zdqx.txt 1
+data.zdqz.txt 1
+data.zeeq.txt 2
+data.zefs.txt 2
+data.zelt.txt 2
+data.zesi.txt 2
+data.zewv.txt 2

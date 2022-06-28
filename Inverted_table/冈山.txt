@@ -1,0 +1,11 @@
+10
+data.dg.txt 5
+data.zake.txt 1
+data.zayv.txt 6
+data.zbzg.txt 2
+data.zcic.txt 1
+data.zctm.txt 1
+data.zduk.txt 1
+data.zety.txt 5
+data.zevl.txt 7
+data.zewv.txt 1

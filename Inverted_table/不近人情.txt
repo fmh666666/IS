@@ -1,0 +1,11 @@
+10
+data.jf.txt 2
+data.ok.txt 2
+data.zagr.txt 1
+data.zasq.txt 2
+data.zazg.txt 1
+data.zdju.txt 2
+data.zeai.txt 1
+data.zeam.txt 1
+data.zeoh.txt 1
+data.zesi.txt 1

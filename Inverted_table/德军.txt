@@ -1,0 +1,16 @@
+15
+data.be.txt 1
+data.fp.txt 1
+data.ha.txt 1
+data.mt.txt 2
+data.zaim.txt 2
+data.zajo.txt 7
+data.zbga.txt 4
+data.zbpp.txt 1
+data.zbpx.txt 2
+data.zbqu.txt 1
+data.zbrj.txt 2
+data.zcbm.txt 1
+data.zcrv.txt 1
+data.zdcw.txt 1
+data.zeqh.txt 1

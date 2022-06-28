@@ -1,0 +1,7 @@
+6
+data.hg.txt 1
+data.zajo.txt 1
+data.zalm.txt 1
+data.zaqw.txt 1
+data.zaxj.txt 1
+data.zbkj.txt 1

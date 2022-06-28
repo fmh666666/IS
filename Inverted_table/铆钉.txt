@@ -1,0 +1,25 @@
+24
+data.cf.txt 1
+data.en.txt 1
+data.fj.txt 1
+data.zafi.txt 1
+data.zair.txt 8
+data.zalj.txt 1
+data.zapf.txt 1
+data.zasr.txt 1
+data.zawm.txt 2
+data.zazn.txt 1
+data.zazw.txt 1
+data.zbbt.txt 1
+data.zbvf.txt 1
+data.zbvg.txt 2
+data.zcaq.txt 2
+data.zcem.txt 6
+data.zcic.txt 1
+data.zcql.txt 1
+data.zcsu.txt 11
+data.zdga.txt 1
+data.zedy.txt 1
+data.zefp.txt 1
+data.zehp.txt 1
+data.zeqn.txt 1

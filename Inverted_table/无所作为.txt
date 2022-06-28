@@ -1,0 +1,12 @@
+11
+data.jd.txt 1
+data.mk.txt 1
+data.zadv.txt 1
+data.zapl.txt 2
+data.zarr.txt 1
+data.zawc.txt 1
+data.zawu.txt 2
+data.zcdg.txt 1
+data.zcdl.txt 1
+data.zczp.txt 1
+data.zdeb.txt 2

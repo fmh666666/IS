@@ -1,0 +1,7 @@
+6
+data.zazn.txt 1
+data.zbhe.txt 1
+data.zcmv.txt 1
+data.zdji.txt 5
+data.zeai.txt 1
+data.zeam.txt 1

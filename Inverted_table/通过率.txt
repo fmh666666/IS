@@ -1,0 +1,9 @@
+8
+data.ha.txt 1
+data.zaet.txt 4
+data.zafe.txt 1
+data.zajr.txt 1
+data.zcgi.txt 2
+data.zdoq.txt 1
+data.zdux.txt 1
+data.zeqv.txt 2

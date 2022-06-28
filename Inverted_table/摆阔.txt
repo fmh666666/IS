@@ -1,0 +1,10 @@
+9
+data.hc.txt 2
+data.qb.txt 2
+data.zalc.txt 1
+data.zbyb.txt 2
+data.zcak.txt 2
+data.zcmx.txt 2
+data.zdnc.txt 2
+data.zewn.txt 1
+data.zfaw.txt 2

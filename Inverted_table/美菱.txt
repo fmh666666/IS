@@ -1,0 +1,13 @@
+12
+data.vz.txt 1
+data.zamr.txt 3
+data.zbmt.txt 3
+data.zbzo.txt 3
+data.zcao.txt 3
+data.zcls.txt 3
+data.zcrg.txt 4
+data.zctn.txt 5
+data.zcvi.txt 1
+data.zdji.txt 2
+data.zesi.txt 1
+data.zewv.txt 5

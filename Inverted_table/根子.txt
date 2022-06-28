@@ -1,0 +1,9 @@
+8
+data.hp.txt 1
+data.ng.txt 1
+data.zawc.txt 1
+data.zcrn.txt 1
+data.zeay.txt 2
+data.zeqv.txt 1
+data.zeun.txt 1
+data.zfai.txt 1

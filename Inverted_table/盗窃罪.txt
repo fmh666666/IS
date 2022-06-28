@@ -1,0 +1,7 @@
+6
+data.zbua.txt 1
+data.zcfn.txt 1
+data.zcgo.txt 1
+data.zcue.txt 2
+data.zdwl.txt 1
+data.zfaj.txt 1

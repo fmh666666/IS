@@ -1,0 +1,5 @@
+4
+data.bb.txt 1
+data.pa.txt 1
+data.zanm.txt 3
+data.zebc.txt 1

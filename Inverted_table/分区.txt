@@ -1,0 +1,14 @@
+13
+data.ep.txt 1
+data.ok.txt 1
+data.zafk.txt 4
+data.zayd.txt 1
+data.zblh.txt 1
+data.zcem.txt 1
+data.zcrv.txt 1
+data.zcts.txt 1
+data.zdoc.txt 1
+data.zdwn.txt 1
+data.zedd.txt 1
+data.zehb.txt 1
+data.zfai.txt 1

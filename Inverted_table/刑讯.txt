@@ -1,0 +1,11 @@
+10
+data.fp.txt 4
+data.ok.txt 1
+data.op.txt 5
+data.zawb.txt 1
+data.zawc.txt 4
+data.zbcj.txt 2
+data.zbtj.txt 1
+data.zcse.txt 2
+data.zdaw.txt 1
+data.zewp.txt 1

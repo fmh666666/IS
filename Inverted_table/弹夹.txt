@@ -1,0 +1,22 @@
+21
+data.aj.txt 5
+data.ft.txt 5
+data.ng.txt 5
+data.wg.txt 5
+data.zafi.txt 5
+data.zagb.txt 5
+data.zajn.txt 5
+data.zaxx.txt 5
+data.zbrj.txt 5
+data.zbvm.txt 5
+data.zcaq.txt 5
+data.zcbm.txt 5
+data.zcqg.txt 5
+data.zcqs.txt 1
+data.zddb.txt 5
+data.zdsh.txt 5
+data.zeai.txt 5
+data.zefd.txt 5
+data.zeob.txt 5
+data.zfcp.txt 1
+data.zfdk.txt 5

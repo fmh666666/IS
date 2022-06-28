@@ -1,0 +1,11 @@
+10
+data.dg.txt 1
+data.kq.txt 2
+data.zake.txt 1
+data.zbfg.txt 1
+data.zbpc.txt 1
+data.zbts.txt 1
+data.zcls.txt 1
+data.zcvt.txt 1
+data.zdkp.txt 1
+data.zenn.txt 1

@@ -1,0 +1,9 @@
+8
+data.zabe.txt 1
+data.zadv.txt 3
+data.zagb.txt 3
+data.zajn.txt 3
+data.zaub.txt 4
+data.zbhe.txt 1
+data.zdkv.txt 4
+data.zfaz.txt 6

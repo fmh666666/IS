@@ -1,0 +1,10 @@
+9
+data.en.txt 1
+data.ga.txt 1
+data.pn.txt 4
+data.zbdx.txt 1
+data.zbls.txt 2
+data.zbqu.txt 2
+data.zbts.txt 3
+data.zcsu.txt 1
+data.zdgt.txt 1

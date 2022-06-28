@@ -1,0 +1,7 @@
+6
+data.zbaq.txt 1
+data.zclm.txt 1
+data.zcue.txt 1
+data.zcvq.txt 1
+data.zduc.txt 1
+data.zebn.txt 8

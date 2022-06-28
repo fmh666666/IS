@@ -1,0 +1,25 @@
+24
+data.sq.txt 1
+data.tv.txt 1
+data.vi.txt 3
+data.zail.txt 1
+data.zajo.txt 1
+data.zaoy.txt 1
+data.zbds.txt 1
+data.zbfz.txt 2
+data.zbia.txt 1
+data.zbot.txt 1
+data.zbut.txt 1
+data.zbux.txt 1
+data.zcdl.txt 1
+data.zcel.txt 2
+data.zcic.txt 1
+data.zciq.txt 1
+data.zcis.txt 1
+data.zciy.txt 1
+data.zctp.txt 1
+data.zdmw.txt 1
+data.zdnh.txt 1
+data.zdof.txt 1
+data.zexx.txt 1
+data.zfdk.txt 1

@@ -1,0 +1,7 @@
+6
+data.fj.txt 1
+data.zass.txt 2
+data.zbia.txt 1
+data.zdaw.txt 1
+data.zebn.txt 4
+data.zexm.txt 1

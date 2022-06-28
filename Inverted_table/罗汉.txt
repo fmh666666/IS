@@ -1,0 +1,19 @@
+18
+data.jf.txt 2
+data.zabe.txt 1
+data.zajo.txt 1
+data.zasj.txt 1
+data.zasw.txt 1
+data.zasy.txt 1
+data.zatz.txt 1
+data.zawb.txt 3
+data.zbel.txt 1
+data.zbjh.txt 2
+data.zbkj.txt 1
+data.zbuj.txt 3
+data.zbwa.txt 1
+data.zcee.txt 1
+data.zcsu.txt 1
+data.zcyv.txt 1
+data.zdkp.txt 1
+data.zdtv.txt 1

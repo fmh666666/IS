@@ -1,0 +1,8 @@
+7
+data.dg.txt 1
+data.fp.txt 1
+data.zasw.txt 1
+data.zcpx.txt 1
+data.zdlm.txt 1
+data.zdwl.txt 3
+data.zefs.txt 1

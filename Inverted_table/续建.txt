@@ -1,0 +1,6 @@
+5
+data.fp.txt 3
+data.kt.txt 1
+data.zazn.txt 1
+data.zcdz.txt 2
+data.zelt.txt 3

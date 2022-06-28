@@ -1,0 +1,16 @@
+15
+data.co.txt 2
+data.ee.txt 12
+data.zapr.txt 1
+data.zbfr.txt 1
+data.zbjq.txt 1
+data.zbyb.txt 1
+data.zcjy.txt 1
+data.zcrk.txt 1
+data.zdcj.txt 1
+data.zdju.txt 1
+data.zefd.txt 1
+data.zene.txt 1
+data.zewn.txt 1
+data.zewv.txt 1
+data.zexu.txt 1

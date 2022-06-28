@@ -1,0 +1,12 @@
+11
+data.mu.txt 1
+data.zalc.txt 1
+data.zbha.txt 1
+data.zbsm.txt 4
+data.zcel.txt 1
+data.zcem.txt 2
+data.zcqp.txt 1
+data.zdlm.txt 1
+data.zdof.txt 2
+data.zesq.txt 2
+data.zexx.txt 1

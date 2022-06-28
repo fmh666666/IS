@@ -1,0 +1,8 @@
+7
+data.ee.txt 2
+data.zaim.txt 2
+data.zajo.txt 1
+data.zbkr.txt 1
+data.zbmw.txt 3
+data.zelt.txt 1
+data.zess.txt 2

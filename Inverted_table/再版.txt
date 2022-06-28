@@ -1,0 +1,11 @@
+10
+data.gw.txt 1
+data.tv.txt 1
+data.zard.txt 1
+data.zbds.txt 2
+data.zbkv.txt 1
+data.zblq.txt 1
+data.zbpp.txt 1
+data.zbse.txt 1
+data.zeqh.txt 1
+data.zess.txt 1

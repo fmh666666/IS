@@ -1,0 +1,7 @@
+6
+data.pn.txt 1
+data.zamr.txt 4
+data.zbqu.txt 1
+data.zdux.txt 3
+data.zety.txt 2
+data.zfai.txt 1

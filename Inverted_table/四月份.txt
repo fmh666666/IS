@@ -1,0 +1,24 @@
+23
+data.cq.txt 1
+data.mu.txt 1
+data.pn.txt 2
+data.pq.txt 2
+data.wc.txt 1
+data.zbia.txt 1
+data.zbjh.txt 1
+data.zbkv.txt 2
+data.zblq.txt 1
+data.zbts.txt 1
+data.zcbe.txt 1
+data.zcfn.txt 1
+data.zcsu.txt 1
+data.zcue.txt 1
+data.zczb.txt 1
+data.zdhv.txt 2
+data.zdpz.txt 1
+data.zdzg.txt 1
+data.zedx.txt 1
+data.zeeh.txt 1
+data.zelj.txt 1
+data.zeqh.txt 1
+data.zerv.txt 1

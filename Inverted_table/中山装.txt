@@ -1,0 +1,11 @@
+10
+data.zabe.txt 1
+data.zajo.txt 2
+data.zawz.txt 2
+data.zbcc.txt 1
+data.zbjk.txt 1
+data.zbrj.txt 2
+data.zbsm.txt 1
+data.zcjo.txt 1
+data.zcts.txt 1
+data.zeoh.txt 1

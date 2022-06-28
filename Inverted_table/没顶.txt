@@ -1,0 +1,4 @@
+3
+data.gz.txt 1
+data.zajo.txt 4
+data.zfai.txt 1

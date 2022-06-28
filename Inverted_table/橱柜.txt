@@ -1,0 +1,24 @@
+23
+data.dg.txt 2
+data.ga.txt 2
+data.ok.txt 1
+data.zajh.txt 1
+data.zavx.txt 1
+data.zbcj.txt 1
+data.zbph.txt 1
+data.zcdl.txt 1
+data.zcdv.txt 1
+data.zcem.txt 3
+data.zcmx.txt 1
+data.zcxh.txt 1
+data.zdaw.txt 1
+data.zdtv.txt 2
+data.zduk.txt 1
+data.zdux.txt 2
+data.zeai.txt 1
+data.zebc.txt 1
+data.zedx.txt 2
+data.zeez.txt 2
+data.zegk.txt 1
+data.zevl.txt 3
+data.zeyg.txt 2

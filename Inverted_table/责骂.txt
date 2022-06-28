@@ -1,0 +1,20 @@
+19
+data.zabe.txt 2
+data.zagr.txt 1
+data.zajn.txt 1
+data.zawb.txt 1
+data.zaxk.txt 1
+data.zaxx.txt 1
+data.zazx.txt 1
+data.zbbt.txt 2
+data.zbfz.txt 1
+data.zcjy.txt 1
+data.zcni.txt 1
+data.zcpb.txt 1
+data.zcts.txt 3
+data.zdkc.txt 1
+data.zdoc.txt 1
+data.zdzm.txt 1
+data.zebc.txt 1
+data.zecf.txt 1
+data.zeyg.txt 1

@@ -1,0 +1,15 @@
+14
+data.ep.txt 2
+data.pa.txt 1
+data.ye.txt 1
+data.zabe.txt 1
+data.zabx.txt 1
+data.zbsl.txt 2
+data.zdep.txt 1
+data.zdtv.txt 1
+data.zebf.txt 1
+data.zebv.txt 2
+data.zenw.txt 1
+data.zess.txt 1
+data.zfai.txt 1
+data.zfaj.txt 1

@@ -1,0 +1,6 @@
+5
+data.ep.txt 1
+data.wc.txt 1
+data.zdof.txt 1
+data.zekw.txt 2
+data.zfai.txt 1

@@ -1,0 +1,8 @@
+7
+data.zbcv.txt 1
+data.zdtr.txt 1
+data.zdud.txt 1
+data.zdvl.txt 1
+data.zene.txt 2
+data.zenn.txt 1
+data.zeqv.txt 2

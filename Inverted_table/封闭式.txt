@@ -1,0 +1,5 @@
+4
+data.zasw.txt 2
+data.zcej.txt 1
+data.zdaw.txt 1
+data.zfaj.txt 1

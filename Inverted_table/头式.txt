@@ -1,0 +1,4 @@
+3
+data.vi.txt 2
+data.zajo.txt 1
+data.zake.txt 1

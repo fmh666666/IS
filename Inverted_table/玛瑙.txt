@@ -1,0 +1,11 @@
+10
+data.op.txt 7
+data.zafl.txt 1
+data.zbcc.txt 1
+data.zbxw.txt 4
+data.zclm.txt 1
+data.zddx.txt 2
+data.zdrq.txt 1
+data.zdsh.txt 1
+data.zerh.txt 1
+data.zfaz.txt 2

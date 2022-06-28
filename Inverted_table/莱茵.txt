@@ -1,0 +1,13 @@
+12
+data.mi.txt 1
+data.vz.txt 1
+data.zajo.txt 1
+data.zazo.txt 1
+data.zbla.txt 1
+data.zbrj.txt 2
+data.zddv.txt 1
+data.zdmw.txt 1
+data.zdpz.txt 1
+data.zekw.txt 1
+data.zevl.txt 1
+data.zezm.txt 1

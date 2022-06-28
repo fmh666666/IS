@@ -1,0 +1,12 @@
+11
+data.en.txt 1
+data.tv.txt 1
+data.zabe.txt 1
+data.zafi.txt 2
+data.zalt.txt 1
+data.zate.txt 1
+data.zayd.txt 1
+data.zcda.txt 1
+data.zcse.txt 1
+data.zdle.txt 1
+data.zexv.txt 1

@@ -1,0 +1,9 @@
+8
+data.co.txt 6
+data.fp.txt 1
+data.ng.txt 1
+data.zasq.txt 2
+data.zbfd.txt 1
+data.zbgw.txt 3
+data.zcsu.txt 1
+data.zdeb.txt 1

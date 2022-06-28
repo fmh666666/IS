@@ -1,0 +1,13 @@
+12
+data.co.txt 2
+data.jf.txt 1
+data.pn.txt 1
+data.zagb.txt 1
+data.zaim.txt 2
+data.zbhe.txt 1
+data.zbpx.txt 1
+data.zcqg.txt 1
+data.zctm.txt 1
+data.zddp.txt 1
+data.zduo.txt 2
+data.zfaj.txt 1

@@ -1,0 +1,8 @@
+7
+data.jf.txt 5
+data.ry.txt 1
+data.zalm.txt 1
+data.zbds.txt 2
+data.zbfr.txt 2
+data.zcaq.txt 1
+data.zene.txt 1

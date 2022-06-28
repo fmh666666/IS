@@ -1,0 +1,13 @@
+12
+data.bf.txt 2
+data.mk.txt 2
+data.ry.txt 1
+data.zajo.txt 1
+data.zasr.txt 1
+data.zazn.txt 2
+data.zcpx.txt 1
+data.zcrk.txt 1
+data.zcsu.txt 3
+data.zdlo.txt 1
+data.zdpw.txt 1
+data.zeam.txt 1

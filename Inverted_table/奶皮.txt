@@ -1,0 +1,23 @@
+22
+data.ew.txt 4
+data.hu.txt 4
+data.qb.txt 4
+data.zafq.txt 8
+data.zane.txt 1
+data.zaoy.txt 4
+data.zasw.txt 4
+data.zbcj.txt 4
+data.zbha.txt 4
+data.zbsf.txt 4
+data.zcko.txt 4
+data.zcoy.txt 4
+data.zctn.txt 4
+data.zcvi.txt 2
+data.zczj.txt 6
+data.zdgv.txt 4
+data.zdib.txt 4
+data.zdnc.txt 6
+data.zdtr.txt 5
+data.zdwk.txt 5
+data.zecf.txt 4
+data.zedk.txt 1

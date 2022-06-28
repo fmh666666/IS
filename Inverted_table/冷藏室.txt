@@ -1,0 +1,11 @@
+10
+data.co.txt 2
+data.ka.txt 1
+data.zazg.txt 1
+data.zbgu.txt 1
+data.zbtx.txt 1
+data.zcem.txt 1
+data.zcku.txt 1
+data.zcmn.txt 1
+data.zdzn.txt 1
+data.zedk.txt 1

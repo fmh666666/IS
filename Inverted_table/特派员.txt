@@ -1,0 +1,14 @@
+13
+data.zafl.txt 3
+data.zaip.txt 1
+data.zall.txt 1
+data.zaqw.txt 1
+data.zasq.txt 2
+data.zbcc.txt 1
+data.zbkf.txt 1
+data.zbmt.txt 2
+data.zdji.txt 1
+data.zdvl.txt 2
+data.zedd.txt 4
+data.zess.txt 1
+data.zfdk.txt 1

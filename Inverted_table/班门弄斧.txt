@@ -1,0 +1,4 @@
+3
+data.zazn.txt 1
+data.zbia.txt 1
+data.zczj.txt 1

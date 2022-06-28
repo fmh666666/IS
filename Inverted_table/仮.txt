@@ -1,0 +1,14 @@
+13
+data.hg.txt 1
+data.kt.txt 5
+data.zall.txt 1
+data.zbdx.txt 1
+data.zbnp.txt 2
+data.zbsu.txt 29
+data.zcfn.txt 1
+data.zcve.txt 1
+data.zdrq.txt 1
+data.zdwv.txt 2
+data.zegl.txt 14
+data.zegn.txt 20
+data.zesi.txt 1

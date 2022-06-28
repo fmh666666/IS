@@ -1,0 +1,8 @@
+7
+data.zamp.txt 1
+data.zapr.txt 1
+data.zawc.txt 4
+data.zbpx.txt 1
+data.zctp.txt 1
+data.zcts.txt 1
+data.zfaj.txt 2

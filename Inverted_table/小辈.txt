@@ -1,0 +1,6 @@
+5
+data.ft.txt 1
+data.zdic.txt 1
+data.zeam.txt 1
+data.zenn.txt 1
+data.zerw.txt 2

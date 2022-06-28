@@ -1,0 +1,7 @@
+6
+data.tv.txt 16
+data.tz.txt 19
+data.zadv.txt 3
+data.zaxj.txt 2
+data.zaxk.txt 2
+data.zehj.txt 26

@@ -1,0 +1,4 @@
+3
+data.zawc.txt 1
+data.zbpc.txt 1
+data.zdeq.txt 1

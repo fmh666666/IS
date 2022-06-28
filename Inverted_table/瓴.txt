@@ -1,0 +1,5 @@
+4
+data.zafi.txt 2
+data.zajo.txt 1
+data.zbkf.txt 5
+data.zcfn.txt 1

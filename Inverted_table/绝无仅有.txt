@@ -1,0 +1,19 @@
+18
+data.gk.txt 1
+data.mt.txt 1
+data.nh.txt 1
+data.zafy.txt 2
+data.zalm.txt 2
+data.zapf.txt 1
+data.zate.txt 1
+data.zawc.txt 1
+data.zbaq.txt 1
+data.zbvm.txt 1
+data.zcdv.txt 1
+data.zcmy.txt 1
+data.zcrg.txt 1
+data.zczl.txt 2
+data.zdwl.txt 1
+data.zebc.txt 1
+data.zelt.txt 1
+data.zfaj.txt 1

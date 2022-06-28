@@ -1,0 +1,6 @@
+5
+data.zalj.txt 1
+data.zawo.txt 2
+data.zdaq.txt 36
+data.zdar.txt 43
+data.zenn.txt 1

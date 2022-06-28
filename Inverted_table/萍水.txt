@@ -1,0 +1,5 @@
+4
+data.hu.txt 1
+data.zafy.txt 1
+data.zdgv.txt 7
+data.zdlo.txt 2

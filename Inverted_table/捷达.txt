@@ -1,0 +1,16 @@
+15
+data.co.txt 8
+data.fp.txt 2
+data.zarc.txt 1
+data.zawb.txt 2
+data.zbfz.txt 1
+data.zcej.txt 3
+data.zcih.txt 2
+data.zcmx.txt 1
+data.zdaw.txt 1
+data.zdod.txt 2
+data.zduk.txt 2
+data.zedo.txt 2
+data.zejk.txt 1
+data.zeun.txt 1
+data.zevy.txt 1

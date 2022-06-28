@@ -1,0 +1,13 @@
+12
+data.ek.txt 1
+data.zbdb.txt 1
+data.zbfr.txt 2
+data.zbga.txt 2
+data.zcnn.txt 1
+data.zcpb.txt 1
+data.zcts.txt 1
+data.zczp.txt 1
+data.zdeb.txt 1
+data.zdoc.txt 1
+data.zduc.txt 10
+data.zerv.txt 1

@@ -1,0 +1,4 @@
+3
+data.zamr.txt 1
+data.zapr.txt 1
+data.zdux.txt 1

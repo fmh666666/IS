@@ -1,0 +1,13 @@
+12
+data.op.txt 2
+data.zajo.txt 1
+data.zako.txt 1
+data.zbjk.txt 1
+data.zbru.txt 5
+data.zchd.txt 1
+data.zcql.txt 1
+data.zctp.txt 1
+data.zdaa.txt 1
+data.zdgt.txt 1
+data.zdsh.txt 1
+data.zeve.txt 1

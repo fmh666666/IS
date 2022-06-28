@@ -1,0 +1,10 @@
+9
+data.bb.txt 1
+data.gk.txt 1
+data.ng.txt 1
+data.zadv.txt 1
+data.zaxj.txt 1
+data.zddb.txt 3
+data.zdod.txt 2
+data.zeaj.txt 1
+data.zefv.txt 26

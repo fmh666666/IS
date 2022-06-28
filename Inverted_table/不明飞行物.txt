@@ -1,0 +1,20 @@
+19
+data.cz.txt 2
+data.gw.txt 2
+data.ha.txt 1
+data.mx.txt 1
+data.pn.txt 1
+data.zair.txt 2
+data.zaoy.txt 3
+data.zarr.txt 2
+data.zbfz.txt 2
+data.zcue.txt 1
+data.zdkk.txt 1
+data.zdlm.txt 2
+data.zdqz.txt 2
+data.zdwl.txt 1
+data.zeoo.txt 1
+data.zesi.txt 1
+data.zeve.txt 1
+data.zfai.txt 1
+data.zfaj.txt 6

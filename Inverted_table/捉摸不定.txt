@@ -1,0 +1,12 @@
+11
+data.hu.txt 1
+data.yx.txt 1
+data.zajn.txt 1
+data.zauy.txt 1
+data.zcon.txt 1
+data.zcpc.txt 1
+data.zdcy.txt 1
+data.zdlg.txt 1
+data.zdnh.txt 1
+data.zerh.txt 1
+data.zexu.txt 1

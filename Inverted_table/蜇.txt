@@ -1,0 +1,18 @@
+17
+data.fj.txt 2
+data.zazw.txt 1
+data.zbfg.txt 6
+data.zbfx.txt 2
+data.zbhe.txt 2
+data.zbla.txt 1
+data.zcon.txt 2
+data.zcpc.txt 2
+data.zcsu.txt 2
+data.zdgv.txt 1
+data.zdju.txt 2
+data.zdkv.txt 2
+data.zdlw.txt 3
+data.zebf.txt 1
+data.zeoh.txt 1
+data.zess.txt 1
+data.zexu.txt 2

@@ -1,0 +1,15 @@
+14
+data.be.txt 7
+data.fz.txt 1
+data.op.txt 1
+data.zagr.txt 1
+data.zalm.txt 1
+data.zazn.txt 1
+data.zbaq.txt 1
+data.zbfz.txt 1
+data.zbgu.txt 1
+data.zcpb.txt 1
+data.zdgo.txt 3
+data.zdju.txt 1
+data.zdou.txt 2
+data.zeds.txt 1

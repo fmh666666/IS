@@ -1,0 +1,11 @@
+10
+data.ng.txt 1
+data.tv.txt 1
+data.zacd.txt 1
+data.zavg.txt 1
+data.zaxj.txt 3
+data.zaxk.txt 1
+data.zbkj.txt 1
+data.zbut.txt 1
+data.zeaf.txt 1
+data.zfaz.txt 1

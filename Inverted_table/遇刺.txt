@@ -1,0 +1,9 @@
+8
+data.zabe.txt 1
+data.zail.txt 1
+data.zaoo.txt 1
+data.zbga.txt 1
+data.zbhd.txt 2
+data.zdgt.txt 1
+data.zeqn.txt 1
+data.zeta.txt 1

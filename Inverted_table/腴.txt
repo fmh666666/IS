@@ -1,0 +1,5 @@
+4
+data.ok.txt 1
+data.zall.txt 2
+data.zalm.txt 6
+data.zdic.txt 1

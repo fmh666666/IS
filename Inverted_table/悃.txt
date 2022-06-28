@@ -1,0 +1,7 @@
+6
+data.zafu.txt 1
+data.zbdb.txt 1
+data.zccu.txt 4
+data.zdpf.txt 1
+data.zebf.txt 1
+data.zeyy.txt 1

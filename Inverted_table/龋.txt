@@ -1,0 +1,5 @@
+4
+data.zcts.txt 4
+data.zdaq.txt 27
+data.zdar.txt 19
+data.zefw.txt 4

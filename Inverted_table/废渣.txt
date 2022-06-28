@@ -1,0 +1,7 @@
+6
+data.fj.txt 1
+data.zavg.txt 1
+data.zbls.txt 3
+data.zcon.txt 3
+data.zene.txt 1
+data.zesq.txt 1

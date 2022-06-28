@@ -1,0 +1,4 @@
+3
+data.cz.txt 1
+data.zabe.txt 1
+data.zdod.txt 1

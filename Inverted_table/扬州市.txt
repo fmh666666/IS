@@ -1,0 +1,9 @@
+8
+data.hz.txt 2
+data.ka.txt 1
+data.zawu.txt 1
+data.zcln.txt 1
+data.zcon.txt 2
+data.zcse.txt 2
+data.zdar.txt 1
+data.zerh.txt 1

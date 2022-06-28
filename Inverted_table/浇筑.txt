@@ -1,0 +1,7 @@
+6
+data.kt.txt 1
+data.zacd.txt 1
+data.zajh.txt 1
+data.zapl.txt 1
+data.zcdg.txt 1
+data.zdzm.txt 2

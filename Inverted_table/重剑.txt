@@ -1,0 +1,6 @@
+5
+data.cf.txt 2
+data.zagr.txt 1
+data.zaim.txt 1
+data.zdcj.txt 1
+data.zduk.txt 11

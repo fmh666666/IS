@@ -1,0 +1,3 @@
+2
+data.zako.txt 2
+data.zbfg.txt 1

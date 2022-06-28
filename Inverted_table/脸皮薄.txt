@@ -1,0 +1,9 @@
+8
+data.en.txt 2
+data.ga.txt 1
+data.nh.txt 3
+data.zbia.txt 2
+data.zbuj.txt 1
+data.zcpc.txt 1
+data.zeos.txt 1
+data.zevt.txt 1

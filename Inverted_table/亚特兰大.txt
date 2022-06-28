@@ -1,0 +1,10 @@
+9
+data.qn.txt 1
+data.zajo.txt 1
+data.zavg.txt 5
+data.zbsf.txt 1
+data.zbuj.txt 1
+data.zcgo.txt 1
+data.zcnn.txt 7
+data.zeez.txt 1
+data.zeve.txt 1

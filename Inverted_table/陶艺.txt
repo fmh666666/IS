@@ -1,0 +1,14 @@
+13
+data.ng.txt 1
+data.zacd.txt 1
+data.zasr.txt 2
+data.zavx.txt 2
+data.zazn.txt 1
+data.zbgu.txt 1
+data.zblq.txt 2
+data.zblr.txt 2
+data.zcda.txt 1
+data.zcsu.txt 3
+data.zczj.txt 1
+data.zczl.txt 1
+data.zdga.txt 1

@@ -1,0 +1,15 @@
+14
+data.vi.txt 6
+data.wc.txt 1
+data.zaoo.txt 1
+data.zaop.txt 2
+data.zard.txt 1
+data.zawc.txt 1
+data.zcmv.txt 1
+data.zcrv.txt 1
+data.zdaw.txt 1
+data.zdcj.txt 1
+data.zdod.txt 1
+data.zekw.txt 1
+data.zeoo.txt 1
+data.zexk.txt 2

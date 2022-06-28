@@ -1,0 +1,27 @@
+26
+data.ek.txt 1
+data.ga.txt 1
+data.gw.txt 2
+data.zahd.txt 1
+data.zako.txt 1
+data.zaoo.txt 1
+data.zbdx.txt 1
+data.zbeb.txt 5
+data.zbhd.txt 1
+data.zbkv.txt 1
+data.zbot.txt 2
+data.zccl.txt 1
+data.zcdy.txt 4
+data.zcej.txt 1
+data.zcnn.txt 2
+data.zcpb.txt 1
+data.zdgt.txt 1
+data.zdwz.txt 2
+data.zeac.txt 1
+data.zeag.txt 3
+data.zeam.txt 1
+data.zelt.txt 3
+data.zerh.txt 1
+data.zevt.txt 2
+data.zexv.txt 1
+data.zfaz.txt 1

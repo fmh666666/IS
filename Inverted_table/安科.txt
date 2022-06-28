@@ -1,0 +1,7 @@
+6
+data.gw.txt 2
+data.zacp.txt 1
+data.zakb.txt 2
+data.zbcv.txt 1
+data.zbeb.txt 1
+data.zdds.txt 1

@@ -1,0 +1,16 @@
+15
+data.cq.txt 2
+data.vm.txt 2
+data.zauy.txt 2
+data.zawo.txt 1
+data.zawz.txt 1
+data.zbhd.txt 1
+data.zbkr.txt 2
+data.zblq.txt 2
+data.zbph.txt 2
+data.zbsl.txt 1
+data.zcis.txt 2
+data.zcni.txt 1
+data.zcon.txt 2
+data.zecf.txt 2
+data.zeil.txt 2

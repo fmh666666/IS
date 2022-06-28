@@ -1,0 +1,6 @@
+5
+data.ng.txt 7
+data.zajo.txt 4
+data.zamp.txt 2
+data.zeew.txt 2
+data.zezn.txt 1

@@ -1,0 +1,16 @@
+15
+data.jf.txt 2
+data.yx.txt 1
+data.zabe.txt 1
+data.zaxj.txt 1
+data.zazo.txt 2
+data.zblr.txt 3
+data.zcbm.txt 1
+data.zclm.txt 1
+data.zctp.txt 8
+data.zcts.txt 5
+data.zdoc.txt 1
+data.zduo.txt 1
+data.zeam.txt 1
+data.zenn.txt 2
+data.zeoo.txt 1

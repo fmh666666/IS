@@ -1,0 +1,15 @@
+14
+data.hp.txt 1
+data.ok.txt 1
+data.zank.txt 2
+data.zasr.txt 1
+data.zawc.txt 1
+data.zazo.txt 1
+data.zbgw.txt 1
+data.zbhd.txt 1
+data.zbht.txt 1
+data.zcgo.txt 1
+data.zcnn.txt 1
+data.zdaq.txt 27
+data.zdar.txt 38
+data.zdwk.txt 1

@@ -1,0 +1,11 @@
+10
+data.mt.txt 1
+data.zafq.txt 1
+data.zajo.txt 8
+data.zapl.txt 1
+data.zbfz.txt 1
+data.zcve.txt 1
+data.zedo.txt 1
+data.zene.txt 1
+data.zexk.txt 2
+data.zezy.txt 1

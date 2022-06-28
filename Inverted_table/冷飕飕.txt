@@ -1,0 +1,7 @@
+6
+data.co.txt 4
+data.zcee.txt 1
+data.zcic.txt 1
+data.zdhw.txt 1
+data.zeag.txt 1
+data.zeay.txt 1

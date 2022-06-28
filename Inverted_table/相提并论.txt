@@ -1,0 +1,21 @@
+20
+data.ng.txt 1
+data.op.txt 1
+data.zadv.txt 1
+data.zagr.txt 1
+data.zaip.txt 1
+data.zapl.txt 2
+data.zard.txt 1
+data.zaxj.txt 1
+data.zbel.txt 1
+data.zbor.txt 2
+data.zcbe.txt 1
+data.zcih.txt 1
+data.zcko.txt 1
+data.zctp.txt 1
+data.zczj.txt 1
+data.zddb.txt 1
+data.zdpf.txt 2
+data.zeel.txt 1
+data.zfaj.txt 1
+data.zfas.txt 1

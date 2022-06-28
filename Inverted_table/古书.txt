@@ -1,0 +1,15 @@
+14
+data.ee.txt 1
+data.fp.txt 1
+data.kq.txt 3
+data.zadv.txt 1
+data.zall.txt 3
+data.zawo.txt 1
+data.zaxk.txt 1
+data.zbpc.txt 1
+data.zcaq.txt 1
+data.zdgt.txt 1
+data.zdkp.txt 3
+data.zdll.txt 1
+data.zefs.txt 1
+data.zegl.txt 1

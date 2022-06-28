@@ -1,0 +1,4 @@
+3
+data.zawo.txt 1
+data.zcnn.txt 1
+data.zfai.txt 1

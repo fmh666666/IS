@@ -1,0 +1,5 @@
+4
+data.jf.txt 3
+data.zamr.txt 2
+data.zcda.txt 1
+data.zcko.txt 2

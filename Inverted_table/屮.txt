@@ -1,0 +1,12 @@
+11
+data.kt.txt 1
+data.mt.txt 5
+data.tz.txt 2
+data.zazx.txt 2
+data.zbcc.txt 2
+data.zbga.txt 1
+data.zbkj.txt 1
+data.zcel.txt 1
+data.zdby.txt 2
+data.zdod.txt 2
+data.zeos.txt 2

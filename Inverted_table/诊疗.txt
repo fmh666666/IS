@@ -1,0 +1,9 @@
+8
+data.bs.txt 1
+data.zawo.txt 1
+data.zayv.txt 2
+data.zbzo.txt 4
+data.zdqk.txt 1
+data.zduc.txt 1
+data.zeam.txt 2
+data.zfdk.txt 1

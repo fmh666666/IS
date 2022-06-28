@@ -1,0 +1,19 @@
+18
+data.jd.txt 1
+data.ka.txt 1
+data.kt.txt 1
+data.zabe.txt 1
+data.zako.txt 1
+data.zaqr.txt 1
+data.zaub.txt 1
+data.zbds.txt 1
+data.zbjk.txt 2
+data.zblq.txt 1
+data.zciy.txt 1
+data.zclm.txt 1
+data.zcts.txt 1
+data.zdll.txt 1
+data.zedy.txt 1
+data.zeid.txt 1
+data.zelt.txt 1
+data.zexk.txt 1

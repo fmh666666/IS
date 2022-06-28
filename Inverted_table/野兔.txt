@@ -1,0 +1,18 @@
+17
+data.kt.txt 1
+data.mt.txt 1
+data.tv.txt 7
+data.tz.txt 7
+data.zafq.txt 1
+data.zaqr.txt 1
+data.zard.txt 2
+data.zauy.txt 1
+data.zavg.txt 1
+data.zbcc.txt 1
+data.zbil.txt 2
+data.zbzg.txt 1
+data.zciq.txt 1
+data.zcql.txt 1
+data.zczb.txt 1
+data.zdud.txt 1
+data.zefp.txt 1

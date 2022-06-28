@@ -1,0 +1,6 @@
+5
+data.zafi.txt 1
+data.zbot.txt 1
+data.zclh.txt 1
+data.zdmw.txt 1
+data.zfcg.txt 1

@@ -1,0 +1,27 @@
+26
+data.hu.txt 2
+data.jf.txt 6
+data.ka.txt 2
+data.nh.txt 3
+data.zabe.txt 5
+data.zake.txt 2
+data.zasy.txt 1
+data.zawb.txt 1
+data.zawc.txt 1
+data.zazo.txt 1
+data.zbjh.txt 1
+data.zblq.txt 2
+data.zbnx.txt 2
+data.zcdv.txt 1
+data.zcpx.txt 1
+data.zcqp.txt 2
+data.zcsu.txt 3
+data.zddp.txt 2
+data.zdkk.txt 4
+data.zdou.txt 1
+data.zdtv.txt 1
+data.zebc.txt 2
+data.zedy.txt 2
+data.zeoh.txt 2
+data.zfcg.txt 1
+data.zfdk.txt 2

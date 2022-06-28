@@ -1,0 +1,7 @@
+6
+data.to.txt 1
+data.zbor.txt 1
+data.zbpm.txt 1
+data.zcgi.txt 1
+data.zcll.txt 6
+data.zdwl.txt 2

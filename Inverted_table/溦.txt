@@ -1,0 +1,7 @@
+6
+data.pa.txt 1
+data.uz.txt 5
+data.zddx.txt 1
+data.zdlm.txt 1
+data.zdwl.txt 1
+data.zewn.txt 1

@@ -1,0 +1,11 @@
+10
+data.hg.txt 1
+data.vm.txt 2
+data.zasy.txt 1
+data.zawc.txt 1
+data.zbeb.txt 2
+data.zbel.txt 2
+data.zcgi.txt 1
+data.zdic.txt 1
+data.zeaf.txt 1
+data.zewn.txt 1

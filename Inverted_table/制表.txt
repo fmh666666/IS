@@ -1,0 +1,6 @@
+5
+data.uz.txt 1
+data.zalt.txt 1
+data.zamr.txt 1
+data.zauy.txt 1
+data.zbkr.txt 1

@@ -1,0 +1,6 @@
+5
+data.zass.txt 1
+data.zbkv.txt 1
+data.zcmv.txt 1
+data.zdlo.txt 1
+data.zeva.txt 1

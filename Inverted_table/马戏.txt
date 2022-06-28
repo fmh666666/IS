@@ -1,0 +1,19 @@
+18
+data.aj.txt 6
+data.bs.txt 2
+data.fj.txt 2
+data.mx.txt 1
+data.zazo.txt 1
+data.zbhv.txt 2
+data.zbph.txt 1
+data.zbup.txt 1
+data.zbux.txt 5
+data.zbvp.txt 1
+data.zbzo.txt 2
+data.zcem.txt 1
+data.zckd.txt 2
+data.zcmy.txt 1
+data.zdpz.txt 1
+data.zdwl.txt 1
+data.zeam.txt 1
+data.zebv.txt 1

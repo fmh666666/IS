@@ -1,0 +1,11 @@
+10
+data.hu.txt 2
+data.vi.txt 1
+data.zadv.txt 1
+data.zaic.txt 1
+data.zalt.txt 1
+data.zbvf.txt 1
+data.zczp.txt 1
+data.zduk.txt 1
+data.zedy.txt 1
+data.zeta.txt 1

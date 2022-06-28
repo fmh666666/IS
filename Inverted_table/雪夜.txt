@@ -1,0 +1,18 @@
+17
+data.co.txt 1
+data.zabe.txt 2
+data.zadv.txt 1
+data.zass.txt 1
+data.zaxj.txt 1
+data.zbdb.txt 1
+data.zbfz.txt 4
+data.zbqu.txt 6
+data.zbyv.txt 1
+data.zcbm.txt 3
+data.zccx.txt 1
+data.zdby.txt 5
+data.zeaj.txt 1
+data.zene.txt 2
+data.zeoh.txt 1
+data.zeoo.txt 2
+data.zevl.txt 1

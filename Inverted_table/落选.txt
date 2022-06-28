@@ -1,0 +1,22 @@
+21
+data.fp.txt 5
+data.hc.txt 1
+data.zacw.txt 2
+data.zapl.txt 5
+data.zawc.txt 2
+data.zbel.txt 1
+data.zbfz.txt 1
+data.zbgu.txt 1
+data.zbha.txt 5
+data.zbkr.txt 1
+data.zbor.txt 1
+data.zbpm.txt 6
+data.zbvm.txt 1
+data.zcdy.txt 5
+data.zcll.txt 1
+data.zcue.txt 3
+data.zcuh.txt 1
+data.zddp.txt 1
+data.zdux.txt 1
+data.zeos.txt 1
+data.zexx.txt 1

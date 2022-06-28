@@ -1,0 +1,9 @@
+8
+data.tz.txt 1
+data.zake.txt 1
+data.zass.txt 1
+data.zbcc.txt 1
+data.zbsu.txt 1
+data.zbzg.txt 1
+data.zdrq.txt 2
+data.zegn.txt 4

@@ -1,0 +1,8 @@
+7
+data.zajo.txt 1
+data.zazx.txt 1
+data.zcdy.txt 2
+data.zdzg.txt 1
+data.zelj.txt 1
+data.zelt.txt 1
+data.zeyu.txt 1

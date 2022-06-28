@@ -1,0 +1,7 @@
+6
+data.xe.txt 2
+data.zalm.txt 2
+data.zasr.txt 1
+data.zawu.txt 2
+data.zbdb.txt 1
+data.zety.txt 1

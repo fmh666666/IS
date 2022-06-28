@@ -1,0 +1,11 @@
+10
+data.nh.txt 1
+data.zajo.txt 1
+data.zavg.txt 1
+data.zawu.txt 1
+data.zbfx.txt 1
+data.zbre.txt 1
+data.zbrj.txt 1
+data.zcee.txt 1
+data.zdju.txt 1
+data.zevt.txt 1

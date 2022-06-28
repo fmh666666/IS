@@ -1,0 +1,17 @@
+16
+data.fp.txt 1
+data.ga.txt 2
+data.hp.txt 1
+data.ng.txt 1
+data.yx.txt 1
+data.zaxp.txt 1
+data.zaxx.txt 2
+data.zbsm.txt 9
+data.zcpb.txt 1
+data.zdgt.txt 1
+data.zdmw.txt 1
+data.zedy.txt 1
+data.zene.txt 1
+data.zeoh.txt 1
+data.zezy.txt 1
+data.zfai.txt 9

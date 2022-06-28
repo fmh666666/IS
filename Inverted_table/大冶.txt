@@ -1,0 +1,4 @@
+3
+data.zbwa.txt 1
+data.zcni.txt 1
+data.zduc.txt 1

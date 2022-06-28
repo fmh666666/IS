@@ -1,0 +1,25 @@
+24
+data.en.txt 3
+data.tv.txt 2
+data.tz.txt 3
+data.zaej.txt 2
+data.zall.txt 1
+data.zanh.txt 1
+data.zapl.txt 1
+data.zaqw.txt 1
+data.zaxj.txt 1
+data.zazw.txt 1
+data.zbdb.txt 1
+data.zcis.txt 1
+data.zcjy.txt 1
+data.zcli.txt 1
+data.zcmx.txt 1
+data.zdic.txt 1
+data.zdkk.txt 1
+data.zdqk.txt 1
+data.zecf.txt 1
+data.zeoh.txt 1
+data.zexu.txt 1
+data.zeyu.txt 1
+data.zeyy.txt 1
+data.zfas.txt 1

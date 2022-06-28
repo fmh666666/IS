@@ -1,0 +1,9 @@
+8
+data.hp.txt 1
+data.kt.txt 1
+data.mt.txt 5
+data.zasr.txt 1
+data.zbla.txt 1
+data.zcmx.txt 1
+data.zdar.txt 1
+data.zduk.txt 1

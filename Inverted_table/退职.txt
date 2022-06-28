@@ -1,0 +1,5 @@
+4
+data.fe.txt 1
+data.zawb.txt 1
+data.zcmy.txt 1
+data.zegl.txt 1

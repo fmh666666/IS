@@ -1,0 +1,10 @@
+9
+data.gk.txt 3
+data.mi.txt 2
+data.sq.txt 1
+data.tv.txt 1
+data.vi.txt 1
+data.zacw.txt 1
+data.zbla.txt 1
+data.zcpc.txt 1
+data.zezy.txt 3

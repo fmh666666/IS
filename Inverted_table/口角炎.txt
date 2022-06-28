@@ -1,0 +1,5 @@
+4
+data.ud.txt 1
+data.zbor.txt 1
+data.zduc.txt 2
+data.zedo.txt 1

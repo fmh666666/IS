@@ -1,0 +1,15 @@
+14
+data.sq.txt 1
+data.zalm.txt 1
+data.zapr.txt 5
+data.zbia.txt 1
+data.zbpx.txt 1
+data.zbye.txt 1
+data.zcxq.txt 1
+data.zddv.txt 3
+data.zdey.txt 1
+data.zdqz.txt 2
+data.zduk.txt 1
+data.zevq.txt 1
+data.zfaj.txt 7
+data.zfas.txt 1

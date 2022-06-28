@@ -1,0 +1,7 @@
+6
+data.ga.txt 1
+data.hp.txt 1
+data.zawc.txt 1
+data.zdzn.txt 1
+data.zeam.txt 1
+data.zfae.txt 1

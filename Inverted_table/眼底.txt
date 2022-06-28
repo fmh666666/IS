@@ -1,0 +1,18 @@
+17
+data.cq.txt 1
+data.hu.txt 1
+data.tv.txt 1
+data.yx.txt 2
+data.zafy.txt 1
+data.zauy.txt 1
+data.zazx.txt 2
+data.zbof.txt 1
+data.zbsm.txt 1
+data.zcgi.txt 1
+data.zcqp.txt 1
+data.zdhv.txt 6
+data.zeai.txt 1
+data.zeaj.txt 1
+data.zefv.txt 1
+data.zeqh.txt 1
+data.zevt.txt 1

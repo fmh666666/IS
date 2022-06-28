@@ -1,0 +1,15 @@
+14
+data.wc.txt 1
+data.zamp.txt 1
+data.zawc.txt 2
+data.zbfz.txt 1
+data.zbsm.txt 3
+data.zcdg.txt 1
+data.zcih.txt 1
+data.zduk.txt 2
+data.zdzg.txt 1
+data.zedy.txt 3
+data.zene.txt 4
+data.zesi.txt 15
+data.zfai.txt 6
+data.zfaj.txt 3

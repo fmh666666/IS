@@ -1,0 +1,11 @@
+10
+data.ry.txt 2
+data.zahp.txt 1
+data.zaxk.txt 3
+data.zbaq.txt 1
+data.zcln.txt 3
+data.zcql.txt 1
+data.zdnh.txt 1
+data.zeai.txt 2
+data.zeaj.txt 10
+data.zeqh.txt 1

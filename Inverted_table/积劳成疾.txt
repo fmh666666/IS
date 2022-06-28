@@ -1,0 +1,7 @@
+6
+data.pq.txt 1
+data.zahd.txt 1
+data.zaim.txt 1
+data.zcby.txt 1
+data.zdkp.txt 4
+data.zeoh.txt 1

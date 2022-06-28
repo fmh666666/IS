@@ -1,0 +1,8 @@
+7
+data.nh.txt 3
+data.pn.txt 1
+data.zazw.txt 1
+data.zdeb.txt 2
+data.zdgt.txt 2
+data.zdod.txt 2
+data.zdou.txt 1

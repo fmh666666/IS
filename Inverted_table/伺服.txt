@@ -1,0 +1,6 @@
+5
+data.gw.txt 1
+data.mu.txt 1
+data.zbru.txt 20
+data.zcih.txt 1
+data.zdqq.txt 1

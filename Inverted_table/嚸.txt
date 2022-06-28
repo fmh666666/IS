@@ -1,0 +1,5 @@
+4
+data.jj.txt 12
+data.zbup.txt 5
+data.zcih.txt 1
+data.zdaw.txt 16

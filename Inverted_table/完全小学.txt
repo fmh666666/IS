@@ -1,0 +1,7 @@
+6
+data.zcgo.txt 1
+data.zdib.txt 1
+data.zdlm.txt 1
+data.zdzm.txt 1
+data.zeam.txt 1
+data.zefp.txt 1

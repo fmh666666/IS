@@ -1,0 +1,9 @@
+8
+data.zbcc.txt 1
+data.zbor.txt 2
+data.zcak.txt 1
+data.zcdy.txt 1
+data.zcon.txt 1
+data.zcvi.txt 1
+data.zdme.txt 1
+data.zeve.txt 1

@@ -1,0 +1,4 @@
+3
+data.zcpa.txt 1
+data.zeay.txt 3
+data.zenw.txt 1

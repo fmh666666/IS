@@ -1,0 +1,15 @@
+14
+data.gk.txt 2
+data.mu.txt 1
+data.pa.txt 1
+data.zajn.txt 1
+data.zbia.txt 2
+data.zcgi.txt 1
+data.zctn.txt 1
+data.zcvq.txt 1
+data.zdhv.txt 2
+data.zdnh.txt 1
+data.zdqx.txt 1
+data.zdrq.txt 1
+data.zedd.txt 5
+data.zewv.txt 3

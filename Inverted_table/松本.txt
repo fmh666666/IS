@@ -1,0 +1,25 @@
+24
+data.mu.txt 3
+data.tz.txt 1
+data.zagr.txt 1
+data.zaim.txt 1
+data.zapl.txt 1
+data.zate.txt 1
+data.zbgu.txt 1
+data.zbsu.txt 2
+data.zbvf.txt 1
+data.zcef.txt 1
+data.zcfn.txt 1
+data.zcic.txt 12
+data.zdll.txt 1
+data.zdod.txt 1
+data.zdqk.txt 3
+data.zdst.txt 1
+data.zdwz.txt 3
+data.zdzg.txt 1
+data.zeam.txt 1
+data.zebc.txt 3
+data.zegk.txt 13
+data.zegl.txt 107
+data.zegn.txt 75
+data.zewd.txt 1

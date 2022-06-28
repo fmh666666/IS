@@ -1,0 +1,5 @@
+4
+data.zaim.txt 2
+data.zamp.txt 1
+data.zazn.txt 2
+data.zdou.txt 1

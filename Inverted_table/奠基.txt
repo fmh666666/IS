@@ -1,0 +1,19 @@
+18
+data.ew.txt 1
+data.mu.txt 1
+data.zabe.txt 1
+data.zafq.txt 1
+data.zamp.txt 1
+data.zazn.txt 2
+data.zbux.txt 2
+data.zcak.txt 1
+data.zcbm.txt 1
+data.zcem.txt 1
+data.zcpa.txt 1
+data.zcse.txt 1
+data.zcts.txt 2
+data.zcvt.txt 1
+data.zdeb.txt 1
+data.zdqx.txt 1
+data.zekw.txt 1
+data.zewv.txt 1

@@ -1,0 +1,12 @@
+11
+data.hp.txt 1
+data.mk.txt 1
+data.zajo.txt 1
+data.zasj.txt 1
+data.zawu.txt 1
+data.zaxj.txt 1
+data.zbjk.txt 2
+data.zbua.txt 4
+data.zcln.txt 1
+data.zcxr.txt 1
+data.zdgp.txt 1

@@ -1,0 +1,7 @@
+6
+data.cf.txt 1
+data.zapl.txt 1
+data.zcnn.txt 1
+data.zctm.txt 1
+data.zduc.txt 1
+data.zesq.txt 1

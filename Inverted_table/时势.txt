@@ -1,0 +1,7 @@
+6
+data.ga.txt 2
+data.hp.txt 1
+data.hu.txt 1
+data.zbts.txt 1
+data.zdeb.txt 1
+data.zfaj.txt 2

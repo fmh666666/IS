@@ -1,0 +1,7 @@
+6
+data.co.txt 2
+data.zbpx.txt 3
+data.zcue.txt 1
+data.zdcw.txt 1
+data.zdou.txt 1
+data.zfaj.txt 1

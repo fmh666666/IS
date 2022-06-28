@@ -1,0 +1,19 @@
+18
+data.op.txt 1
+data.zafl.txt 1
+data.zafu.txt 2
+data.zagr.txt 1
+data.zard.txt 1
+data.zass.txt 1
+data.zasw.txt 5
+data.zavg.txt 1
+data.zazn.txt 1
+data.zbnx.txt 1
+data.zbqu.txt 1
+data.zcgi.txt 2
+data.zcts.txt 1
+data.zdyv.txt 1
+data.zeob.txt 1
+data.zess.txt 10
+data.zeve.txt 2
+data.zexx.txt 2

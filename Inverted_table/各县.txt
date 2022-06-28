@@ -1,0 +1,5 @@
+4
+data.zavx.txt 1
+data.zdaw.txt 1
+data.zdou.txt 1
+data.zeeq.txt 1

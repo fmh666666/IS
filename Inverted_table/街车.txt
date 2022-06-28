@@ -1,0 +1,7 @@
+6
+data.cq.txt 1
+data.zazg.txt 1
+data.zcqg.txt 1
+data.zejk.txt 14
+data.zejn.txt 18
+data.zeqv.txt 1

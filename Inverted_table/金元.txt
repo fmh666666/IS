@@ -1,0 +1,21 @@
+20
+data.cz.txt 2
+data.gk.txt 5
+data.zabe.txt 3
+data.zapf.txt 1
+data.zate.txt 1
+data.zawu.txt 3
+data.zbia.txt 1
+data.zbkr.txt 1
+data.zbpc.txt 1
+data.zbuj.txt 2
+data.zbvn.txt 1
+data.zcdv.txt 1
+data.zcel.txt 1
+data.zcsu.txt 7
+data.zdkk.txt 2
+data.zduc.txt 1
+data.zdzi.txt 1
+data.zeeq.txt 2
+data.zeid.txt 2
+data.zenn.txt 1

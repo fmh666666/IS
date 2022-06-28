@@ -1,0 +1,16 @@
+15
+data.fe.txt 1
+data.op.txt 3
+data.xe.txt 1
+data.zacp.txt 2
+data.zalm.txt 1
+data.zasr.txt 2
+data.zawb.txt 7
+data.zbel.txt 1
+data.zbpx.txt 1
+data.zcmn.txt 1
+data.zcse.txt 2
+data.zcue.txt 2
+data.zdcy.txt 4
+data.zdzg.txt 1
+data.zfaz.txt 2

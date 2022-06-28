@@ -1,0 +1,17 @@
+16
+data.fp.txt 1
+data.mi.txt 4
+data.tv.txt 1
+data.zabe.txt 1
+data.zadv.txt 1
+data.zaoo.txt 1
+data.zbdb.txt 1
+data.zbfp.txt 4
+data.zbrj.txt 3
+data.zcdg.txt 1
+data.zcni.txt 1
+data.zdof.txt 1
+data.zefs.txt 1
+data.zefu.txt 2
+data.zezy.txt 1
+data.zfaj.txt 1

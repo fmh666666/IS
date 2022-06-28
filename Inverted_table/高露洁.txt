@@ -1,0 +1,7 @@
+6
+data.ok.txt 1
+data.zafu.txt 2
+data.zbcj.txt 1
+data.zbdb.txt 2
+data.zbvp.txt 1
+data.zdtv.txt 3

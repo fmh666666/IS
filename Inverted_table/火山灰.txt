@@ -1,0 +1,12 @@
+11
+data.bs.txt 1
+data.zawc.txt 1
+data.zawm.txt 1
+data.zbkv.txt 1
+data.zbyv.txt 1
+data.zdey.txt 1
+data.zdgp.txt 4
+data.zdwl.txt 1
+data.zeeq.txt 2
+data.zefw.txt 1
+data.zelt.txt 2

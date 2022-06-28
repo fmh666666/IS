@@ -1,0 +1,5 @@
+4
+data.op.txt 4
+data.zbeb.txt 2
+data.zene.txt 1
+data.zfae.txt 4

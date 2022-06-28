@@ -1,0 +1,27 @@
+26
+data.aj.txt 1
+data.ee.txt 2
+data.tz.txt 1
+data.zabx.txt 2
+data.zaet.txt 1
+data.zalt.txt 2
+data.zaoo.txt 1
+data.zapl.txt 2
+data.zbcj.txt 2
+data.zbdx.txt 1
+data.zbes.txt 1
+data.zbgw.txt 1
+data.zbmw.txt 1
+data.zbor.txt 1
+data.zbqu.txt 13
+data.zbvg.txt 1
+data.zcww.txt 2
+data.zdcw.txt 1
+data.zdgp.txt 1
+data.zdju.txt 1
+data.zdme.txt 1
+data.zdst.txt 1
+data.zemf.txt 1
+data.zerw.txt 1
+data.zevt.txt 1
+data.zexk.txt 1

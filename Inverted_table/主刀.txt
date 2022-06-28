@@ -1,0 +1,7 @@
+6
+data.zalm.txt 1
+data.zchd.txt 1
+data.zcpa.txt 1
+data.zdaa.txt 3
+data.zdlm.txt 1
+data.zduk.txt 4

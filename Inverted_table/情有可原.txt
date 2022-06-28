@@ -1,0 +1,13 @@
+12
+data.ep.txt 2
+data.ok.txt 1
+data.qn.txt 1
+data.zake.txt 1
+data.zako.txt 1
+data.zbaf.txt 2
+data.zbeb.txt 1
+data.zbre.txt 1
+data.zcgi.txt 1
+data.zdaa.txt 2
+data.zduo.txt 1
+data.zeaf.txt 1

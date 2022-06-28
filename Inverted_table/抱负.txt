@@ -1,0 +1,24 @@
+23
+data.fp.txt 1
+data.ga.txt 3
+data.nh.txt 1
+data.zafu.txt 1
+data.zahd.txt 1
+data.zanm.txt 1
+data.zaop.txt 1
+data.zasy.txt 1
+data.zazn.txt 1
+data.zbhe.txt 1
+data.zbia.txt 1
+data.zbph.txt 3
+data.zbpx.txt 1
+data.zbsd.txt 1
+data.zbts.txt 1
+data.zcel.txt 1
+data.zcon.txt 2
+data.zcsu.txt 1
+data.zdic.txt 1
+data.zdju.txt 1
+data.zeqn.txt 1
+data.zeta.txt 1
+data.zewn.txt 2

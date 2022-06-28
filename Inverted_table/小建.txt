@@ -1,0 +1,15 @@
+14
+data.ew.txt 2
+data.pa.txt 1
+data.zafq.txt 3
+data.zalm.txt 2
+data.zasw.txt 2
+data.zawo.txt 1
+data.zbjk.txt 1
+data.zbzf.txt 1
+data.zcdl.txt 1
+data.zcmx.txt 1
+data.zdle.txt 1
+data.zdtr.txt 1
+data.zeeq.txt 2
+data.zexk.txt 1

@@ -1,0 +1,23 @@
+22
+data.bf.txt 1
+data.co.txt 5
+data.cq.txt 1
+data.zard.txt 4
+data.zaub.txt 1
+data.zawc.txt 1
+data.zawu.txt 1
+data.zbts.txt 1
+data.zbvg.txt 1
+data.zccl.txt 1
+data.zcdy.txt 1
+data.zcee.txt 1
+data.zcis.txt 3
+data.zcln.txt 1
+data.zcts.txt 1
+data.zcxq.txt 1
+data.zdep.txt 1
+data.zdgt.txt 3
+data.zdzg.txt 1
+data.zexk.txt 3
+data.zezn.txt 1
+data.zezy.txt 1

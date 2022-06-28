@@ -1,0 +1,15 @@
+14
+data.bf.txt 2
+data.zabe.txt 2
+data.zalt.txt 1
+data.zaqp.txt 1
+data.zbfz.txt 1
+data.zblq.txt 2
+data.zbpm.txt 1
+data.zccl.txt 2
+data.zcdg.txt 1
+data.zczb.txt 3
+data.zdey.txt 1
+data.zdgt.txt 1
+data.zedx.txt 1
+data.zezy.txt 1

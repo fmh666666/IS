@@ -1,0 +1,4 @@
+3
+data.wg.txt 1
+data.zaet.txt 1
+data.zaxk.txt 1

@@ -1,0 +1,18 @@
+17
+data.ga.txt 1
+data.jd.txt 1
+data.wc.txt 1
+data.zabe.txt 1
+data.zail.txt 1
+data.zaim.txt 1
+data.zapl.txt 4
+data.zapr.txt 1
+data.zbnx.txt 1
+data.zbor.txt 1
+data.zcel.txt 1
+data.zcft.txt 1
+data.zcue.txt 1
+data.zdgt.txt 1
+data.zebn.txt 1
+data.zfaj.txt 1
+data.zfas.txt 1

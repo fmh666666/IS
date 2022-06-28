@@ -1,0 +1,13 @@
+12
+data.ok.txt 1
+data.ye.txt 1
+data.zabe.txt 1
+data.zail.txt 1
+data.zaoy.txt 1
+data.zard.txt 1
+data.zazn.txt 1
+data.zbrj.txt 1
+data.zcic.txt 1
+data.zebv.txt 1
+data.zemf.txt 1
+data.zeqn.txt 1

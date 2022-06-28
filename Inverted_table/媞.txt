@@ -1,0 +1,7 @@
+6
+data.by.txt 9
+data.zabe.txt 1
+data.zbua.txt 5
+data.zcdg.txt 1
+data.zdnc.txt 1
+data.zebc.txt 1

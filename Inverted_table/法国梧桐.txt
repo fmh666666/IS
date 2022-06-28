@@ -1,0 +1,7 @@
+6
+data.zail.txt 1
+data.zane.txt 1
+data.zbgu.txt 2
+data.zeag.txt 1
+data.zeam.txt 1
+data.zesi.txt 1

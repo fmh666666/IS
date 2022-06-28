@@ -1,0 +1,4 @@
+3
+data.zawb.txt 3
+data.zcoy.txt 1
+data.zenw.txt 1

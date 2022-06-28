@@ -1,0 +1,11 @@
+10
+data.pa.txt 1
+data.zasr.txt 1
+data.zavg.txt 1
+data.zbfr.txt 1
+data.zcqp.txt 1
+data.zcrv.txt 1
+data.zczp.txt 1
+data.zdst.txt 1
+data.zedk.txt 1
+data.zevt.txt 2

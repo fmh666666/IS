@@ -1,0 +1,16 @@
+15
+data.hg.txt 1
+data.ok.txt 7
+data.pq.txt 1
+data.uz.txt 1
+data.zafq.txt 2
+data.zaoc.txt 2
+data.zbuj.txt 1
+data.zbzg.txt 1
+data.zciq.txt 1
+data.zcis.txt 1
+data.zduk.txt 1
+data.zdzm.txt 2
+data.zefw.txt 1
+data.zeva.txt 1
+data.zfdk.txt 1

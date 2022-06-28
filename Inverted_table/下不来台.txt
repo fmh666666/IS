@@ -1,0 +1,5 @@
+4
+data.zbla.txt 1
+data.zdod.txt 1
+data.zebn.txt 2
+data.zekw.txt 1

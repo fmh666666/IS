@@ -1,0 +1,6 @@
+5
+data.zcku.txt 3
+data.zcxr.txt 1
+data.zduk.txt 2
+data.zelj.txt 2
+data.zevq.txt 1

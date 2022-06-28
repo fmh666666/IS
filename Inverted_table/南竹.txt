@@ -1,0 +1,12 @@
+11
+data.ew.txt 1
+data.ok.txt 1
+data.zacd.txt 1
+data.zahp.txt 1
+data.zaic.txt 6
+data.zcak.txt 1
+data.zckd.txt 1
+data.zcko.txt 1
+data.zczj.txt 1
+data.zdpf.txt 1
+data.zeoh.txt 1

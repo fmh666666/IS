@@ -1,0 +1,5 @@
+4
+data.zaim.txt 1
+data.zaip.txt 2
+data.zawc.txt 1
+data.zduo.txt 1

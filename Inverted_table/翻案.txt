@@ -1,0 +1,6 @@
+5
+data.ga.txt 1
+data.zawc.txt 1
+data.zdgt.txt 1
+data.zdju.txt 1
+data.zesi.txt 3

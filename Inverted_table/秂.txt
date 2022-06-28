@@ -1,0 +1,6 @@
+5
+data.zane.txt 38
+data.zdgt.txt 2
+data.zeaf.txt 14
+data.zedx.txt 1
+data.zeew.txt 1

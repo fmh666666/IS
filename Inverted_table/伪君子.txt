@@ -1,0 +1,17 @@
+16
+data.zabe.txt 8
+data.zadv.txt 1
+data.zair.txt 1
+data.zbdx.txt 1
+data.zbel.txt 1
+data.zbhd.txt 5
+data.zblq.txt 1
+data.zcdg.txt 1
+data.zdaw.txt 1
+data.zdwn.txt 1
+data.zdwz.txt 1
+data.zdzm.txt 1
+data.zene.txt 2
+data.zeoh.txt 2
+data.zexx.txt 3
+data.zfai.txt 1

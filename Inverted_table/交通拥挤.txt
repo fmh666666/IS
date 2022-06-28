@@ -1,0 +1,4 @@
+3
+data.hz.txt 2
+data.zajn.txt 1
+data.zemb.txt 1

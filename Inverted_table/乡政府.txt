@@ -1,0 +1,6 @@
+5
+data.zauy.txt 2
+data.zbil.txt 1
+data.zbnx.txt 1
+data.zddp.txt 1
+data.zfdk.txt 1

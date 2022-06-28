@@ -1,0 +1,14 @@
+13
+data.ft.txt 1
+data.vi.txt 1
+data.zapl.txt 2
+data.zapr.txt 1
+data.zbes.txt 1
+data.zbfr.txt 3
+data.zczl.txt 1
+data.zdvl.txt 1
+data.zefp.txt 1
+data.zegn.txt 1
+data.zeik.txt 1
+data.zesi.txt 1
+data.zfaj.txt 1

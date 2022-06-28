@@ -1,0 +1,11 @@
+10
+data.be.txt 1
+data.tv.txt 8
+data.tz.txt 3
+data.zabj.txt 1
+data.zadv.txt 1
+data.zazo.txt 1
+data.zbor.txt 1
+data.zbot.txt 1
+data.zeoh.txt 2
+data.zfby.txt 1

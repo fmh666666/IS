@@ -1,0 +1,5 @@
+4
+data.ga.txt 1
+data.hp.txt 2
+data.op.txt 1
+data.zagr.txt 1

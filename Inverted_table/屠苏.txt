@@ -1,0 +1,10 @@
+9
+data.tv.txt 40
+data.tz.txt 25
+data.zadv.txt 2
+data.zair.txt 1
+data.zaxj.txt 9
+data.zaxk.txt 8
+data.zbcc.txt 1
+data.zcdv.txt 1
+data.zcfn.txt 1

@@ -1,0 +1,14 @@
+13
+data.mu.txt 6
+data.xk.txt 1
+data.zavg.txt 45
+data.zbla.txt 1
+data.zcgi.txt 2
+data.zcve.txt 1
+data.zdcw.txt 2
+data.zdgp.txt 1
+data.zdod.txt 1
+data.zebv.txt 1
+data.zehj.txt 1
+data.zeob.txt 3
+data.zesi.txt 1

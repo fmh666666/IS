@@ -1,0 +1,10 @@
+9
+data.op.txt 2
+data.zaim.txt 1
+data.zapl.txt 1
+data.zaub.txt 1
+data.zawb.txt 2
+data.zazg.txt 1
+data.zcln.txt 1
+data.zdds.txt 1
+data.zdgt.txt 1

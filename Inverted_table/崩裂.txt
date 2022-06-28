@@ -1,0 +1,7 @@
+6
+data.zbcc.txt 1
+data.zbnx.txt 1
+data.zcjo.txt 1
+data.zcrk.txt 1
+data.zdkp.txt 1
+data.zeid.txt 1

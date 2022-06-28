@@ -1,0 +1,17 @@
+16
+data.cz.txt 1
+data.fp.txt 1
+data.zank.txt 2
+data.zawb.txt 2
+data.zawo.txt 1
+data.zbfr.txt 1
+data.zcdg.txt 1
+data.zciy.txt 2
+data.zcon.txt 1
+data.zctp.txt 5
+data.zcue.txt 3
+data.zdaw.txt 2
+data.zdds.txt 1
+data.zdzi.txt 2
+data.zedo.txt 1
+data.zelt.txt 1

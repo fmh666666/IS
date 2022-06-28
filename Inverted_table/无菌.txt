@@ -1,0 +1,17 @@
+16
+data.fe.txt 1
+data.mt.txt 1
+data.pa.txt 4
+data.zazn.txt 1
+data.zbfz.txt 1
+data.zbmt.txt 5
+data.zbqu.txt 1
+data.zbuj.txt 1
+data.zbzo.txt 5
+data.zcaq.txt 1
+data.zcic.txt 1
+data.zcql.txt 1
+data.zcts.txt 1
+data.zebn.txt 1
+data.zeoh.txt 1
+data.zety.txt 4

@@ -1,0 +1,12 @@
+11
+data.dg.txt 1
+data.ew.txt 1
+data.zabe.txt 1
+data.zafi.txt 1
+data.zajo.txt 1
+data.zcdz.txt 1
+data.zcgo.txt 1
+data.zcxr.txt 1
+data.zdeb.txt 1
+data.zeam.txt 1
+data.zebn.txt 4

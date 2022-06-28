@@ -1,0 +1,9 @@
+8
+data.bs.txt 2
+data.zajn.txt 1
+data.zbcv.txt 1
+data.zbeb.txt 1
+data.zbvn.txt 1
+data.zdcj.txt 2
+data.zedo.txt 1
+data.zfcp.txt 2

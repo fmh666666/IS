@@ -1,0 +1,6 @@
+5
+data.co.txt 2
+data.zaqw.txt 1
+data.zarc.txt 1
+data.zcjy.txt 1
+data.zeqv.txt 1

@@ -1,0 +1,9 @@
+8
+data.ew.txt 1
+data.fp.txt 1
+data.zamr.txt 1
+data.zapr.txt 1
+data.zazn.txt 1
+data.zcic.txt 1
+data.zdby.txt 1
+data.zduo.txt 2

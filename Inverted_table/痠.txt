@@ -1,0 +1,4 @@
+3
+data.zabx.txt 1
+data.zate.txt 2
+data.zdib.txt 2

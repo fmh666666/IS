@@ -1,0 +1,5 @@
+4
+data.en.txt 10
+data.zafv.txt 8
+data.zbrj.txt 1
+data.zeec.txt 1

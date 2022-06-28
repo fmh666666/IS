@@ -1,0 +1,14 @@
+13
+data.aj.txt 2
+data.by.txt 4
+data.ff.txt 2
+data.op.txt 4
+data.tv.txt 1
+data.zbcc.txt 4
+data.zcak.txt 1
+data.zccu.txt 1
+data.zcee.txt 1
+data.zcgo.txt 14
+data.zcku.txt 1
+data.zexm.txt 1
+data.zfcj.txt 1

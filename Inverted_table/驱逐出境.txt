@@ -1,0 +1,7 @@
+6
+data.ev.txt 1
+data.zabe.txt 1
+data.zazn.txt 1
+data.zazo.txt 1
+data.zeay.txt 1
+data.zfai.txt 1

@@ -1,0 +1,11 @@
+10
+data.by.txt 4
+data.kq.txt 1
+data.zcln.txt 1
+data.zcww.txt 1
+data.zeac.txt 1
+data.zene.txt 1
+data.zeyy.txt 1
+data.zezm.txt 1
+data.zezn.txt 1
+data.zfae.txt 20

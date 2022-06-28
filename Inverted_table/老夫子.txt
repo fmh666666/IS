@@ -1,0 +1,12 @@
+11
+data.qb.txt 3
+data.zalt.txt 4
+data.zaxk.txt 1
+data.zbcc.txt 1
+data.zbeb.txt 1
+data.zbut.txt 6
+data.zdkp.txt 1
+data.zdlg.txt 1
+data.zdwv.txt 1
+data.zeez.txt 1
+data.zeoo.txt 1

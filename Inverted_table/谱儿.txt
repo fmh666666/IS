@@ -1,0 +1,9 @@
+8
+data.zajo.txt 2
+data.zbuj.txt 1
+data.zcee.txt 1
+data.zdep.txt 1
+data.zdhv.txt 1
+data.zduo.txt 1
+data.zexu.txt 22
+data.zexv.txt 10

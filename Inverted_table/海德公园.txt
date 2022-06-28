@@ -1,0 +1,11 @@
+10
+data.cf.txt 1
+data.fp.txt 1
+data.zaej.txt 3
+data.zaim.txt 1
+data.zapl.txt 1
+data.zazn.txt 1
+data.zcqg.txt 1
+data.zdgp.txt 2
+data.zdll.txt 1
+data.zdzg.txt 1

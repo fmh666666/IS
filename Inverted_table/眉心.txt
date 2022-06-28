@@ -1,0 +1,15 @@
+14
+data.jf.txt 1
+data.ng.txt 2
+data.zawu.txt 1
+data.zblh.txt 1
+data.zbmw.txt 1
+data.zbwa.txt 1
+data.zcem.txt 1
+data.zcsu.txt 1
+data.zctp.txt 1
+data.zdey.txt 1
+data.zdic.txt 1
+data.zeoo.txt 1
+data.zerh.txt 1
+data.zeta.txt 1

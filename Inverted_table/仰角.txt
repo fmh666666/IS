@@ -1,0 +1,6 @@
+5
+data.zbdb.txt 4
+data.zbkv.txt 2
+data.zeik.txt 1
+data.zenw.txt 1
+data.zexm.txt 1

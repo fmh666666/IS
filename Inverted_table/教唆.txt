@@ -1,0 +1,8 @@
+7
+data.zawo.txt 1
+data.zbcj.txt 1
+data.zdof.txt 1
+data.zeid.txt 1
+data.zene.txt 1
+data.zesi.txt 1
+data.zfaz.txt 1

@@ -1,0 +1,15 @@
+14
+data.ha.txt 1
+data.kt.txt 1
+data.zaqr.txt 1
+data.zazx.txt 1
+data.zbsl.txt 1
+data.zcbe.txt 1
+data.zcem.txt 1
+data.zcts.txt 1
+data.zdoc.txt 1
+data.zduc.txt 1
+data.zelj.txt 2
+data.zexm.txt 1
+data.zezm.txt 1
+data.zfaj.txt 1

@@ -1,0 +1,8 @@
+7
+data.kq.txt 1
+data.mo.txt 1
+data.zasq.txt 1
+data.zass.txt 1
+data.zaxk.txt 1
+data.zazw.txt 1
+data.zezy.txt 1

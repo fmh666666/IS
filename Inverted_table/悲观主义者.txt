@@ -1,0 +1,11 @@
+10
+data.gw.txt 1
+data.op.txt 1
+data.zaim.txt 1
+data.zasy.txt 1
+data.zbrd.txt 1
+data.zbut.txt 1
+data.zdll.txt 1
+data.zdou.txt 1
+data.zesq.txt 1
+data.zete.txt 1

@@ -1,0 +1,7 @@
+6
+data.zajr.txt 1
+data.zawo.txt 1
+data.zcdv.txt 1
+data.zcqs.txt 1
+data.zcvt.txt 1
+data.zezn.txt 1

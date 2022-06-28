@@ -1,0 +1,21 @@
+20
+data.ok.txt 2
+data.pa.txt 1
+data.zako.txt 1
+data.zawb.txt 1
+data.zbfz.txt 2
+data.zbua.txt 1
+data.zccu.txt 4
+data.zcln.txt 2
+data.zcni.txt 1
+data.zctp.txt 1
+data.zcts.txt 2
+data.zcve.txt 1
+data.zdme.txt 2
+data.zdzg.txt 9
+data.zdzi.txt 1
+data.zebv.txt 1
+data.zeid.txt 2
+data.zeqn.txt 1
+data.zevt.txt 1
+data.zezm.txt 1

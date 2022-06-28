@@ -1,0 +1,10 @@
+9
+data.zajh.txt 2
+data.zbaf.txt 2
+data.zbdb.txt 1
+data.zbhd.txt 2
+data.zcmv.txt 1
+data.zdll.txt 1
+data.zeel.txt 1
+data.zfae.txt 1
+data.zfaw.txt 1

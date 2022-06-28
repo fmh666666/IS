@@ -1,0 +1,17 @@
+16
+data.co.txt 4
+data.hz.txt 1
+data.wg.txt 1
+data.zabe.txt 1
+data.zafi.txt 1
+data.zakb.txt 1
+data.zbga.txt 1
+data.zblq.txt 1
+data.zbot.txt 1
+data.zbqu.txt 1
+data.zcdv.txt 4
+data.zcdz.txt 1
+data.zdby.txt 1
+data.zddm.txt 1
+data.zdod.txt 1
+data.zebc.txt 2

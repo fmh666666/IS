@@ -1,0 +1,17 @@
+16
+data.ew.txt 1
+data.hu.txt 1
+data.tv.txt 1
+data.xk.txt 1
+data.zalm.txt 1
+data.zazw.txt 1
+data.zbjk.txt 1
+data.zbts.txt 1
+data.zcfn.txt 1
+data.zcmv.txt 1
+data.zcsu.txt 1
+data.zczl.txt 1
+data.zdeb.txt 2
+data.zdey.txt 30
+data.zdod.txt 1
+data.zdof.txt 1

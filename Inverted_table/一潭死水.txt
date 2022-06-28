@@ -1,0 +1,13 @@
+12
+data.co.txt 1
+data.ft.txt 1
+data.jd.txt 1
+data.mt.txt 2
+data.zabx.txt 1
+data.zapl.txt 1
+data.zbcj.txt 1
+data.zbof.txt 1
+data.zbsl.txt 1
+data.zbtx.txt 1
+data.zcmx.txt 1
+data.zeam.txt 1

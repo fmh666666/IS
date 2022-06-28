@@ -1,0 +1,9 @@
+8
+data.zagr.txt 1
+data.zasj.txt 1
+data.zbpx.txt 1
+data.zcko.txt 2
+data.zcue.txt 1
+data.zdwl.txt 1
+data.zeds.txt 1
+data.zfcg.txt 2

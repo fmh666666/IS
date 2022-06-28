@@ -1,0 +1,5 @@
+4
+data.ud.txt 2
+data.vi.txt 1
+data.zagr.txt 1
+data.zefw.txt 1

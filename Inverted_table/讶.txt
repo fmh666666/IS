@@ -1,0 +1,4 @@
+3
+data.zamp.txt 1
+data.zblr.txt 1
+data.zedo.txt 1

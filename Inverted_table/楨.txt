@@ -1,0 +1,4 @@
+3
+data.zbgw.txt 2
+data.zcni.txt 1
+data.zdof.txt 1

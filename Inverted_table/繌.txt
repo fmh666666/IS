@@ -1,0 +1,4 @@
+3
+data.zaej.txt 1
+data.zbsu.txt 9
+data.zdaa.txt 1

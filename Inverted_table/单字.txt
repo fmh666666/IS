@@ -1,0 +1,11 @@
+10
+data.kt.txt 1
+data.pa.txt 1
+data.zaop.txt 1
+data.zazg.txt 1
+data.zcoy.txt 1
+data.zczp.txt 1
+data.zdcw.txt 1
+data.zddl.txt 1
+data.zexx.txt 1
+data.zfdk.txt 1

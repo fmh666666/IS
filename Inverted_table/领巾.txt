@@ -1,0 +1,7 @@
+6
+data.co.txt 2
+data.ok.txt 2
+data.xk.txt 1
+data.zcfn.txt 2
+data.zcni.txt 1
+data.zczb.txt 1

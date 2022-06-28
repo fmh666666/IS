@@ -1,0 +1,7 @@
+6
+data.zarc.txt 1
+data.zarr.txt 1
+data.zbhe.txt 1
+data.zcis.txt 1
+data.zcjo.txt 4
+data.zdil.txt 1

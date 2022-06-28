@@ -1,0 +1,4 @@
+3
+data.zazn.txt 1
+data.zdeb.txt 2
+data.zeik.txt 1

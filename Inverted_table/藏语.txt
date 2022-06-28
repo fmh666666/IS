@@ -1,0 +1,13 @@
+12
+data.jf.txt 6
+data.zabe.txt 1
+data.zaej.txt 1
+data.zbor.txt 1
+data.zbup.txt 1
+data.zbwa.txt 1
+data.zciy.txt 1
+data.zcko.txt 1
+data.zcxp.txt 1
+data.zczp.txt 1
+data.zdeb.txt 1
+data.zezy.txt 1

@@ -1,0 +1,7 @@
+6
+data.ew.txt 1
+data.ye.txt 1
+data.zalm.txt 1
+data.zbjk.txt 2
+data.zblr.txt 1
+data.zdpz.txt 1

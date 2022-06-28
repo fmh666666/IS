@@ -1,0 +1,6 @@
+5
+data.ka.txt 1
+data.op.txt 1
+data.zaim.txt 3
+data.zawc.txt 1
+data.zbht.txt 1

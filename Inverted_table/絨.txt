@@ -1,0 +1,10 @@
+9
+data.co.txt 1
+data.zagr.txt 1
+data.zawm.txt 1
+data.zcfn.txt 2
+data.zcwq.txt 4
+data.zdpf.txt 1
+data.zess.txt 1
+data.zeyu.txt 1
+data.zezm.txt 1

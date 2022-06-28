@@ -1,0 +1,9 @@
+8
+data.gw.txt 1
+data.zabe.txt 2
+data.zbux.txt 1
+data.zcon.txt 1
+data.zcpa.txt 1
+data.zcqg.txt 1
+data.zcql.txt 1
+data.zevl.txt 1

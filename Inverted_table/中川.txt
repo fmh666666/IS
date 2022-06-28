@@ -1,0 +1,7 @@
+6
+data.zafi.txt 1
+data.zbjc.txt 1
+data.zdhw.txt 1
+data.zegk.txt 1
+data.zegl.txt 2
+data.zelt.txt 1

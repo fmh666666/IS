@@ -1,0 +1,9 @@
+8
+data.mo.txt 1
+data.to.txt 1
+data.uz.txt 1
+data.zaxj.txt 2
+data.zdmw.txt 1
+data.zedd.txt 1
+data.zedy.txt 1
+data.zefd.txt 1

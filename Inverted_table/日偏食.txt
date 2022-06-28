@@ -1,0 +1,4 @@
+3
+data.zafi.txt 2
+data.zbmw.txt 1
+data.zeam.txt 1

@@ -1,0 +1,6 @@
+5
+data.hu.txt 1
+data.zcmx.txt 4
+data.zcmy.txt 1
+data.zeac.txt 1
+data.zelt.txt 1

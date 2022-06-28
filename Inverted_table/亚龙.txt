@@ -1,0 +1,7 @@
+6
+data.mi.txt 1
+data.zavg.txt 1
+data.zawc.txt 5
+data.zbgu.txt 1
+data.zcll.txt 1
+data.zegz.txt 2

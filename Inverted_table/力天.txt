@@ -1,0 +1,10 @@
+9
+data.dg.txt 1
+data.gk.txt 1
+data.zavx.txt 1
+data.zawm.txt 1
+data.zayv.txt 2
+data.zbhd.txt 1
+data.zbhv.txt 1
+data.zblq.txt 1
+data.zdeb.txt 4

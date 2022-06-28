@@ -1,0 +1,5 @@
+4
+data.zafi.txt 1
+data.zasw.txt 1
+data.zbvf.txt 1
+data.zcmy.txt 1

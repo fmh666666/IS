@@ -1,0 +1,12 @@
+11
+data.cq.txt 1
+data.ew.txt 1
+data.tz.txt 1
+data.zabe.txt 2
+data.zapl.txt 1
+data.zbht.txt 1
+data.zbpx.txt 1
+data.zcdz.txt 2
+data.zcrk.txt 1
+data.zdgv.txt 1
+data.zfaw.txt 1

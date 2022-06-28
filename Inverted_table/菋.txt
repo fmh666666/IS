@@ -1,0 +1,7 @@
+6
+data.zazx.txt 1
+data.zbds.txt 1
+data.zclh.txt 16
+data.zcli.txt 2
+data.zdgt.txt 1
+data.zdoq.txt 1

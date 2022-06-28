@@ -1,0 +1,5 @@
+4
+data.zbua.txt 2
+data.zbvm.txt 1
+data.zdwn.txt 1
+data.zene.txt 1

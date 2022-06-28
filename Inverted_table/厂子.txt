@@ -1,0 +1,9 @@
+8
+data.tv.txt 1
+data.zabe.txt 1
+data.zavg.txt 3
+data.zawc.txt 1
+data.zblr.txt 1
+data.zebv.txt 2
+data.zess.txt 1
+data.zfaj.txt 1

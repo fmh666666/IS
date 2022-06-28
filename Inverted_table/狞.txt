@@ -1,0 +1,7 @@
+6
+data.bb.txt 1
+data.zbmw.txt 2
+data.zcll.txt 1
+data.zcon.txt 1
+data.zdil.txt 1
+data.zdkp.txt 1

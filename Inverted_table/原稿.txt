@@ -1,0 +1,8 @@
+7
+data.mu.txt 1
+data.ye.txt 1
+data.zajo.txt 1
+data.zaqf.txt 1
+data.zbcc.txt 3
+data.zbfp.txt 1
+data.zcfn.txt 2

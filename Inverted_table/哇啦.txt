@@ -1,0 +1,23 @@
+22
+data.zako.txt 1
+data.zamr.txt 3
+data.zawb.txt 1
+data.zbaq.txt 1
+data.zbkv.txt 1
+data.zbpm.txt 2
+data.zbru.txt 4
+data.zbsl.txt 3
+data.zbua.txt 2
+data.zcdv.txt 1
+data.zcfn.txt 1
+data.zdcw.txt 1
+data.zddx.txt 1
+data.zdic.txt 1
+data.zdkc.txt 1
+data.zdlo.txt 3
+data.zdzg.txt 3
+data.zeaf.txt 4
+data.zeqv.txt 34
+data.zeun.txt 1
+data.zezm.txt 1
+data.zezn.txt 2

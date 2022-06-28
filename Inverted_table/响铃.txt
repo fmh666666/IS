@@ -1,0 +1,9 @@
+8
+data.fj.txt 1
+data.gw.txt 1
+data.zako.txt 3
+data.zalj.txt 1
+data.zbcc.txt 1
+data.zbts.txt 1
+data.zdgp.txt 1
+data.zdod.txt 1

@@ -1,0 +1,15 @@
+14
+data.co.txt 2
+data.hg.txt 1
+data.ng.txt 2
+data.tv.txt 1
+data.zazn.txt 1
+data.zbil.txt 2
+data.zbla.txt 2
+data.zbyv.txt 1
+data.zcpa.txt 1
+data.zdeb.txt 2
+data.zeam.txt 1
+data.zenw.txt 6
+data.zewg.txt 1
+data.zfai.txt 2

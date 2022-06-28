@@ -1,0 +1,23 @@
+22
+data.en.txt 1
+data.ud.txt 2
+data.uz.txt 1
+data.zafi.txt 1
+data.zafy.txt 1
+data.zapl.txt 1
+data.zasw.txt 3
+data.zbfd.txt 1
+data.zbfr.txt 1
+data.zcby.txt 1
+data.zcgi.txt 1
+data.zcoy.txt 1
+data.zcpx.txt 1
+data.zcqe.txt 1
+data.zcts.txt 1
+data.zcve.txt 2
+data.zcww.txt 1
+data.zczl.txt 2
+data.zddx.txt 1
+data.zdwl.txt 1
+data.zfaz.txt 1
+data.zfby.txt 1

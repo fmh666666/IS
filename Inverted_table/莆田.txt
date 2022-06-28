@@ -1,0 +1,17 @@
+16
+data.aj.txt 2
+data.be.txt 1
+data.ga.txt 1
+data.zair.txt 1
+data.zapr.txt 1
+data.zbhd.txt 15
+data.zcbm.txt 3
+data.zcrn.txt 1
+data.zcue.txt 2
+data.zcvt.txt 2
+data.zczl.txt 1
+data.zddx.txt 1
+data.zdgt.txt 1
+data.zdod.txt 1
+data.zeeq.txt 3
+data.zevy.txt 3

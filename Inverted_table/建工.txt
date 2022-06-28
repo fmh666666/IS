@@ -1,0 +1,10 @@
+9
+data.ft.txt 2
+data.zamr.txt 1
+data.zank.txt 2
+data.zayv.txt 1
+data.zbcv.txt 1
+data.zcqp.txt 1
+data.zelj.txt 1
+data.zelt.txt 1
+data.zess.txt 2

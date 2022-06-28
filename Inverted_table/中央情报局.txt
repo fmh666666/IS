@@ -1,0 +1,7 @@
+6
+data.zaqr.txt 1
+data.zcpa.txt 1
+data.zctp.txt 1
+data.zdle.txt 1
+data.zfai.txt 1
+data.zfaj.txt 1

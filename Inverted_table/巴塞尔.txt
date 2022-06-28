@@ -1,0 +1,10 @@
+9
+data.kq.txt 2
+data.zajo.txt 1
+data.zawo.txt 13
+data.zbcj.txt 1
+data.zbkr.txt 2
+data.zbkv.txt 2
+data.zdzm.txt 11
+data.zebv.txt 1
+data.zevq.txt 1

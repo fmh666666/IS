@@ -1,0 +1,16 @@
+15
+data.cq.txt 2
+data.hg.txt 1
+data.tv.txt 1
+data.zapf.txt 3
+data.zaxk.txt 1
+data.zbhv.txt 1
+data.zcln.txt 1
+data.zcts.txt 1
+data.zdaa.txt 1
+data.zdds.txt 1
+data.zddv.txt 1
+data.zdgo.txt 27
+data.zedo.txt 1
+data.zenw.txt 1
+data.zfas.txt 1

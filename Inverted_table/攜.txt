@@ -1,0 +1,10 @@
+9
+data.uz.txt 1
+data.vi.txt 1
+data.zawm.txt 1
+data.zbaf.txt 1
+data.zbhd.txt 1
+data.zbvn.txt 1
+data.zbvp.txt 1
+data.zeay.txt 1
+data.zebc.txt 1

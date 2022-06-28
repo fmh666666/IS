@@ -1,0 +1,18 @@
+17
+data.mt.txt 1
+data.ng.txt 1
+data.zadv.txt 2
+data.zamp.txt 1
+data.zawo.txt 1
+data.zaxk.txt 1
+data.zbnp.txt 1
+data.zbwq.txt 1
+data.zcee.txt 3
+data.zcmx.txt 1
+data.zcuh.txt 1
+data.zdoc.txt 1
+data.zdou.txt 1
+data.zdqx.txt 1
+data.zedk.txt 1
+data.zevt.txt 1
+data.zfaj.txt 1

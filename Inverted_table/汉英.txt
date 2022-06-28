@@ -1,0 +1,6 @@
+5
+data.zasd.txt 3
+data.zbga.txt 1
+data.zbla.txt 1
+data.zcsu.txt 3
+data.zdwv.txt 1

@@ -1,0 +1,14 @@
+13
+data.ga.txt 1
+data.jd.txt 1
+data.zavg.txt 1
+data.zbuj.txt 3
+data.zcdz.txt 1
+data.zcem.txt 1
+data.zciq.txt 1
+data.zcis.txt 1
+data.zdqz.txt 1
+data.zebn.txt 4
+data.zess.txt 1
+data.zezh.txt 1
+data.zfaz.txt 1

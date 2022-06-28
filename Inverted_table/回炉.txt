@@ -1,0 +1,14 @@
+13
+data.ev.txt 1
+data.hz.txt 1
+data.tv.txt 1
+data.vi.txt 1
+data.zaxj.txt 1
+data.zaxk.txt 2
+data.zbla.txt 2
+data.zbut.txt 1
+data.zbxw.txt 1
+data.zddv.txt 1
+data.zdle.txt 1
+data.zduk.txt 4
+data.zdzi.txt 1

@@ -1,0 +1,11 @@
+10
+data.to.txt 1
+data.zamp.txt 1
+data.zawc.txt 1
+data.zawu.txt 2
+data.zbeb.txt 1
+data.zbel.txt 2
+data.zeeq.txt 1
+data.zejk.txt 1
+data.zfai.txt 1
+data.zfaj.txt 1

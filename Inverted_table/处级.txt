@@ -1,0 +1,10 @@
+9
+data.be.txt 1
+data.ga.txt 1
+data.op.txt 4
+data.zajo.txt 1
+data.zcdy.txt 2
+data.zeay.txt 1
+data.zemf.txt 1
+data.zeyg.txt 2
+data.zfbr.txt 2

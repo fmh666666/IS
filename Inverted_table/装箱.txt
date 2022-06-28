@@ -1,0 +1,11 @@
+10
+data.zbsl.txt 3
+data.zcll.txt 2
+data.zcqs.txt 1
+data.zcrn.txt 1
+data.zctp.txt 2
+data.zdqx.txt 2
+data.zeec.txt 1
+data.zegl.txt 1
+data.zeid.txt 1
+data.zfcg.txt 1

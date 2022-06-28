@@ -1,0 +1,12 @@
+11
+data.co.txt 2
+data.fp.txt 1
+data.zazw.txt 1
+data.zbds.txt 1
+data.zbia.txt 1
+data.zbil.txt 1
+data.zbyb.txt 1
+data.zcgi.txt 1
+data.zdby.txt 1
+data.zdtv.txt 1
+data.zevy.txt 1

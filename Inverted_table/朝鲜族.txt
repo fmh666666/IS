@@ -1,0 +1,9 @@
+8
+data.ew.txt 1
+data.ok.txt 1
+data.pa.txt 1
+data.zajr.txt 1
+data.zate.txt 2
+data.zbut.txt 1
+data.zekw.txt 1
+data.zezy.txt 4

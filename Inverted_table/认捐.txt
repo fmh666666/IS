@@ -1,0 +1,13 @@
+12
+data.cq.txt 4
+data.hp.txt 2
+data.jf.txt 2
+data.mo.txt 1
+data.ye.txt 10
+data.zafu.txt 1
+data.zaqf.txt 3
+data.zasr.txt 1
+data.zbdb.txt 1
+data.zbhe.txt 2
+data.zdar.txt 2
+data.zdnh.txt 5

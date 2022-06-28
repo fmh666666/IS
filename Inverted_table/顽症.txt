@@ -1,0 +1,4 @@
+3
+data.zabe.txt 1
+data.zdud.txt 1
+data.zeam.txt 1

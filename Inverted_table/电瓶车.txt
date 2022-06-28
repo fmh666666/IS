@@ -1,0 +1,21 @@
+20
+data.dg.txt 1
+data.yx.txt 1
+data.zawb.txt 2
+data.zbpc.txt 1
+data.zbpx.txt 2
+data.zbua.txt 1
+data.zbzg.txt 1
+data.zcem.txt 1
+data.zcku.txt 1
+data.zcon.txt 2
+data.zcql.txt 1
+data.zcrk.txt 1
+data.zctn.txt 4
+data.zcvi.txt 2
+data.zdlw.txt 1
+data.zdme.txt 1
+data.zdod.txt 1
+data.zdof.txt 1
+data.zelt.txt 1
+data.zfdk.txt 1

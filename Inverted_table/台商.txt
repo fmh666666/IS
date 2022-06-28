@@ -1,0 +1,9 @@
+8
+data.cz.txt 1
+data.op.txt 1
+data.zawz.txt 1
+data.zbfz.txt 3
+data.zbsm.txt 2
+data.zdga.txt 1
+data.zdwn.txt 3
+data.zdzi.txt 2

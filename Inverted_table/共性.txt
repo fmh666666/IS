@@ -1,0 +1,22 @@
+21
+data.ft.txt 1
+data.hp.txt 1
+data.op.txt 1
+data.ye.txt 2
+data.zako.txt 1
+data.zaqw.txt 1
+data.zarr.txt 5
+data.zavg.txt 1
+data.zbcc.txt 1
+data.zbor.txt 1
+data.zbph.txt 1
+data.zcdy.txt 1
+data.zcdz.txt 1
+data.zcic.txt 1
+data.zctp.txt 1
+data.zdwn.txt 1
+data.zedx.txt 1
+data.zeoh.txt 1
+data.zewg.txt 1
+data.zezn.txt 1
+data.zfaw.txt 1

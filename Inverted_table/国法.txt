@@ -1,0 +1,7 @@
+6
+data.xk.txt 1
+data.zawc.txt 2
+data.zduc.txt 1
+data.zeay.txt 2
+data.zeid.txt 1
+data.zfai.txt 2

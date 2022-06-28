@@ -1,0 +1,5 @@
+4
+data.bf.txt 1
+data.zabe.txt 1
+data.zasq.txt 3
+data.zeqv.txt 1

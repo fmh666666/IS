@@ -1,0 +1,10 @@
+9
+data.zafu.txt 2
+data.zako.txt 1
+data.zbgd.txt 1
+data.zbrj.txt 2
+data.zbsf.txt 1
+data.zbvn.txt 1
+data.zcln.txt 2
+data.zcue.txt 1
+data.zdib.txt 1

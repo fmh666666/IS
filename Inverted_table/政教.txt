@@ -1,0 +1,7 @@
+6
+data.zcmv.txt 1
+data.zcpa.txt 2
+data.zdlm.txt 1
+data.zdwv.txt 2
+data.zeos.txt 1
+data.zeta.txt 1

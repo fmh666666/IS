@@ -1,0 +1,7 @@
+6
+data.zaqw.txt 1
+data.zbup.txt 2
+data.zccl.txt 2
+data.zdpf.txt 1
+data.zewg.txt 5
+data.zezm.txt 1

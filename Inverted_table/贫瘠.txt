@@ -1,0 +1,15 @@
+14
+data.gw.txt 1
+data.kq.txt 1
+data.kt.txt 1
+data.ok.txt 1
+data.zacd.txt 3
+data.zamp.txt 1
+data.zapf.txt 1
+data.zard.txt 5
+data.zbpx.txt 1
+data.zbup.txt 1
+data.zcdl.txt 1
+data.zdil.txt 1
+data.zebf.txt 1
+data.zess.txt 1

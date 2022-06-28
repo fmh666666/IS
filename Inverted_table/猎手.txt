@@ -1,0 +1,19 @@
+18
+data.by.txt 1
+data.pq.txt 1
+data.zagr.txt 1
+data.zamr.txt 2
+data.zavg.txt 1
+data.zazg.txt 1
+data.zbmw.txt 1
+data.zbxw.txt 1
+data.zbye.txt 1
+data.zcgi.txt 2
+data.zdaw.txt 5
+data.zdkk.txt 2
+data.zdlm.txt 1
+data.zdlo.txt 1
+data.zdlw.txt 1
+data.zdud.txt 1
+data.zdzn.txt 1
+data.zfcg.txt 1

@@ -1,0 +1,11 @@
+10
+data.cz.txt 1
+data.mx.txt 1
+data.tv.txt 20
+data.tz.txt 33
+data.zawz.txt 1
+data.zbmw.txt 1
+data.zdof.txt 1
+data.zdrq.txt 1
+data.zedy.txt 1
+data.zess.txt 1

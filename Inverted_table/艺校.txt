@@ -1,0 +1,9 @@
+8
+data.nh.txt 1
+data.zaej.txt 1
+data.zajo.txt 1
+data.zalj.txt 1
+data.zawm.txt 1
+data.zcjo.txt 3
+data.zcmn.txt 2
+data.zfcp.txt 2

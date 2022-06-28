@@ -1,0 +1,21 @@
+20
+data.ep.txt 2
+data.ga.txt 1
+data.mu.txt 5
+data.zalj.txt 1
+data.zasw.txt 1
+data.zate.txt 1
+data.zbkv.txt 1
+data.zblh.txt 1
+data.zbrj.txt 1
+data.zbsu.txt 1
+data.zbzo.txt 1
+data.zcem.txt 1
+data.zclh.txt 1
+data.zdil.txt 1
+data.zduk.txt 1
+data.zdwk.txt 2
+data.zebv.txt 1
+data.zedk.txt 5
+data.zeds.txt 1
+data.zekw.txt 1

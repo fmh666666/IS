@@ -1,0 +1,7 @@
+6
+data.zaim.txt 2
+data.zako.txt 1
+data.zasq.txt 1
+data.zbla.txt 2
+data.zdju.txt 1
+data.zeos.txt 1

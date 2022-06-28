@@ -1,0 +1,15 @@
+14
+data.bf.txt 1
+data.kt.txt 1
+data.mt.txt 1
+data.ng.txt 1
+data.tv.txt 1
+data.zbcj.txt 1
+data.zcem.txt 1
+data.zcnn.txt 1
+data.zcqs.txt 2
+data.zdar.txt 1
+data.zdhw.txt 2
+data.zedo.txt 1
+data.zerh.txt 1
+data.zezy.txt 1

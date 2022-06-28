@@ -1,0 +1,15 @@
+14
+data.bb.txt 2
+data.zabe.txt 1
+data.zafu.txt 1
+data.zamp.txt 1
+data.zaxk.txt 1
+data.zaxp.txt 1
+data.zcao.txt 1
+data.zczp.txt 1
+data.zdlm.txt 1
+data.zeec.txt 1
+data.zefs.txt 1
+data.zelt.txt 1
+data.zfae.txt 1
+data.zfai.txt 2

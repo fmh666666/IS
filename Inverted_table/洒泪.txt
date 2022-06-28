@@ -1,0 +1,18 @@
+17
+data.aj.txt 1
+data.hu.txt 1
+data.mi.txt 1
+data.mu.txt 1
+data.xe.txt 1
+data.zacw.txt 1
+data.zalm.txt 1
+data.zalt.txt 1
+data.zbre.txt 1
+data.zbuj.txt 1
+data.zciy.txt 2
+data.zcko.txt 1
+data.zcpc.txt 1
+data.zczl.txt 1
+data.zdju.txt 1
+data.zenw.txt 1
+data.zfas.txt 1

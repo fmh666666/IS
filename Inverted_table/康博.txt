@@ -1,0 +1,4 @@
+3
+data.bs.txt 1
+data.zawc.txt 1
+data.zbkj.txt 7

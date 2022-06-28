@@ -1,0 +1,11 @@
+10
+data.yx.txt 1
+data.zaqp.txt 1
+data.zaxp.txt 3
+data.zbel.txt 3
+data.zblr.txt 1
+data.zcve.txt 3
+data.zdoq.txt 121
+data.zdro.txt 1
+data.zduk.txt 1
+data.zeac.txt 2

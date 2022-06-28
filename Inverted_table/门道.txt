@@ -1,0 +1,11 @@
+10
+data.cf.txt 1
+data.dg.txt 1
+data.gw.txt 2
+data.zahd.txt 1
+data.zaxk.txt 1
+data.zbor.txt 1
+data.zbxw.txt 1
+data.zddx.txt 1
+data.zdeb.txt 2
+data.zezm.txt 1

@@ -1,0 +1,20 @@
+19
+data.cz.txt 1
+data.mo.txt 1
+data.tv.txt 1
+data.wc.txt 1
+data.zacp.txt 1
+data.zafi.txt 1
+data.zagr.txt 1
+data.zauy.txt 1
+data.zawb.txt 1
+data.zazw.txt 1
+data.zazx.txt 3
+data.zbbt.txt 1
+data.zbua.txt 2
+data.zccu.txt 10
+data.zczl.txt 1
+data.zdeb.txt 1
+data.zdzm.txt 2
+data.zehb.txt 1
+data.zenn.txt 1

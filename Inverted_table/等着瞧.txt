@@ -1,0 +1,9 @@
+8
+data.hu.txt 1
+data.zagr.txt 1
+data.zcel.txt 1
+data.zciy.txt 1
+data.zcvq.txt 1
+data.zdwk.txt 1
+data.zefs.txt 1
+data.zfai.txt 1

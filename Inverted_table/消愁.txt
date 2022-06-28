@@ -1,0 +1,9 @@
+8
+data.ga.txt 2
+data.qn.txt 1
+data.zanm.txt 1
+data.zbbt.txt 2
+data.zbla.txt 1
+data.zdbf.txt 1
+data.zdeq.txt 1
+data.zdgp.txt 1

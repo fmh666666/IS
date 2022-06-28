@@ -1,0 +1,7 @@
+6
+data.ga.txt 1
+data.to.txt 1
+data.ye.txt 3
+data.zajr.txt 1
+data.zbkj.txt 4
+data.zcdl.txt 1

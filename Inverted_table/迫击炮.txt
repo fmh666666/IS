@@ -1,0 +1,5 @@
+4
+data.zank.txt 1
+data.zdgt.txt 1
+data.zdll.txt 1
+data.zerv.txt 1

@@ -1,0 +1,8 @@
+7
+data.sq.txt 1
+data.zafy.txt 3
+data.zamr.txt 1
+data.zddx.txt 1
+data.zdkp.txt 1
+data.zdwl.txt 1
+data.zexx.txt 1

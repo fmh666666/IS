@@ -1,0 +1,11 @@
+10
+data.ee.txt 1
+data.uz.txt 1
+data.zbjc.txt 4
+data.zbre.txt 1
+data.zcic.txt 1
+data.zcmy.txt 2
+data.zdbf.txt 1
+data.zdby.txt 2
+data.zdju.txt 1
+data.zeob.txt 2

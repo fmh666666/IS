@@ -1,0 +1,13 @@
+12
+data.ok.txt 1
+data.uz.txt 1
+data.zajn.txt 2
+data.zawb.txt 1
+data.zbfx.txt 1
+data.zccu.txt 1
+data.zddm.txt 2
+data.zddv.txt 1
+data.zdod.txt 1
+data.zdof.txt 1
+data.zdwd.txt 4
+data.zefu.txt 1

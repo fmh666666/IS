@@ -1,0 +1,21 @@
+20
+data.jf.txt 4
+data.ok.txt 2
+data.pn.txt 1
+data.yx.txt 1
+data.zavx.txt 1
+data.zawb.txt 1
+data.zawc.txt 4
+data.zaxj.txt 1
+data.zbcj.txt 1
+data.zbgd.txt 1
+data.zblr.txt 1
+data.zbpx.txt 3
+data.zbvf.txt 1
+data.zcak.txt 1
+data.zciy.txt 1
+data.zctp.txt 1
+data.zdep.txt 1
+data.zeaj.txt 1
+data.zfai.txt 1
+data.zfcg.txt 1

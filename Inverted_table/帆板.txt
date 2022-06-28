@@ -1,0 +1,4 @@
+3
+data.zafk.txt 2
+data.zduk.txt 2
+data.zelt.txt 1

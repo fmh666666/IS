@@ -1,0 +1,6 @@
+5
+data.dg.txt 3
+data.zass.txt 2
+data.zazn.txt 1
+data.zcdv.txt 2
+data.zesq.txt 4

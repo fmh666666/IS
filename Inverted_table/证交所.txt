@@ -1,0 +1,5 @@
+4
+data.zbeb.txt 3
+data.zbkv.txt 1
+data.zcmx.txt 1
+data.zcmy.txt 5

@@ -1,0 +1,15 @@
+14
+data.nh.txt 2
+data.qb.txt 1
+data.zamp.txt 1
+data.zbjk.txt 1
+data.zbla.txt 1
+data.zcaq.txt 1
+data.zchd.txt 2
+data.zcmy.txt 1
+data.zdgv.txt 1
+data.zdmw.txt 2
+data.zdpg.txt 2
+data.zeag.txt 1
+data.zeds.txt 1
+data.zewp.txt 1

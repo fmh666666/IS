@@ -1,0 +1,11 @@
+10
+data.ek.txt 1
+data.en.txt 1
+data.op.txt 2
+data.zabx.txt 1
+data.zbeb.txt 1
+data.zbrj.txt 1
+data.zcll.txt 1
+data.zcmx.txt 1
+data.zdju.txt 1
+data.zedo.txt 1

@@ -1,0 +1,7 @@
+6
+data.ud.txt 1
+data.zawb.txt 3
+data.zawc.txt 2
+data.zctp.txt 2
+data.zcvt.txt 1
+data.zeoo.txt 1

@@ -1,0 +1,5 @@
+4
+data.zamp.txt 1
+data.zbwa.txt 4
+data.zbye.txt 1
+data.zedx.txt 1

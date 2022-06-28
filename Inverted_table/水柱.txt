@@ -1,0 +1,7 @@
+6
+data.ka.txt 1
+data.zaic.txt 1
+data.zalt.txt 3
+data.zciy.txt 1
+data.zcmx.txt 2
+data.zefw.txt 1

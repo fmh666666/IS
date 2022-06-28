@@ -1,0 +1,15 @@
+14
+data.aj.txt 1
+data.ep.txt 1
+data.mu.txt 1
+data.pa.txt 6
+data.zabe.txt 4
+data.zasy.txt 1
+data.zbht.txt 1
+data.zbkv.txt 1
+data.zbta.txt 3
+data.zbyb.txt 1
+data.zczb.txt 1
+data.zeeq.txt 3
+data.zefv.txt 1
+data.zfae.txt 1

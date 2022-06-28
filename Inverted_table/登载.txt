@@ -1,0 +1,7 @@
+6
+data.ok.txt 1
+data.pa.txt 1
+data.zawu.txt 1
+data.zawz.txt 1
+data.zdhv.txt 1
+data.zeoh.txt 1

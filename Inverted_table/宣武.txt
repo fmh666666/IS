@@ -1,0 +1,7 @@
+6
+data.vi.txt 1
+data.zagb.txt 1
+data.zbdb.txt 29
+data.zbxy.txt 2
+data.zcuh.txt 1
+data.zdst.txt 1

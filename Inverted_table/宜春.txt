@@ -1,0 +1,5 @@
+4
+data.fj.txt 1
+data.zasy.txt 1
+data.zdar.txt 1
+data.zelt.txt 3

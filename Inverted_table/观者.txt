@@ -1,0 +1,18 @@
+17
+data.ng.txt 1
+data.wc.txt 1
+data.zabe.txt 1
+data.zafy.txt 1
+data.zalt.txt 1
+data.zaqr.txt 1
+data.zbjh.txt 2
+data.zbot.txt 3
+data.zcdz.txt 1
+data.zcic.txt 1
+data.zdeq.txt 1
+data.zeeq.txt 1
+data.zeik.txt 1
+data.zeoo.txt 2
+data.zevq.txt 1
+data.zeyg.txt 1
+data.zfai.txt 1

@@ -1,0 +1,13 @@
+12
+data.mx.txt 1
+data.tj.txt 1
+data.uz.txt 1
+data.zall.txt 1
+data.zbdb.txt 1
+data.zbut.txt 1
+data.zcdv.txt 1
+data.zcni.txt 1
+data.zdzg.txt 1
+data.zedk.txt 1
+data.zemb.txt 1
+data.zezm.txt 1

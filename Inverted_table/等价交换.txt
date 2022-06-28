@@ -1,0 +1,7 @@
+6
+data.be.txt 2
+data.zaip.txt 1
+data.zbcc.txt 1
+data.zbnp.txt 1
+data.zcbm.txt 2
+data.zeew.txt 1

@@ -1,0 +1,14 @@
+13
+data.gw.txt 3
+data.op.txt 1
+data.zaim.txt 2
+data.zawu.txt 2
+data.zaxx.txt 1
+data.zbkf.txt 1
+data.zblq.txt 1
+data.zcdy.txt 6
+data.zcoy.txt 1
+data.zduo.txt 1
+data.zeoh.txt 1
+data.zevq.txt 1
+data.zfaj.txt 1

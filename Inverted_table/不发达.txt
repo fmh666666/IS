@@ -1,0 +1,11 @@
+10
+data.ok.txt 1
+data.op.txt 1
+data.zaim.txt 1
+data.zapl.txt 1
+data.zbsd.txt 1
+data.zcoy.txt 1
+data.zcpc.txt 1
+data.zdpw.txt 1
+data.zedy.txt 3
+data.zewn.txt 1

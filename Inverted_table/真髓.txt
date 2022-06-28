@@ -1,0 +1,7 @@
+6
+data.cq.txt 2
+data.tv.txt 1
+data.zadv.txt 7
+data.zawz.txt 1
+data.zaxp.txt 1
+data.zbcc.txt 1

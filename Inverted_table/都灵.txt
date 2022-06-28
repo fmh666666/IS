@@ -1,0 +1,9 @@
+8
+data.zadv.txt 1
+data.zaim.txt 1
+data.zdlw.txt 1
+data.zdzg.txt 4
+data.zeoo.txt 3
+data.zerw.txt 1
+data.zevy.txt 1
+data.zezh.txt 1

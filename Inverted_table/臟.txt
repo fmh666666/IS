@@ -1,0 +1,26 @@
+25
+data.kt.txt 1
+data.mu.txt 1
+data.ye.txt 1
+data.zagr.txt 1
+data.zall.txt 1
+data.zazw.txt 1
+data.zazx.txt 2
+data.zbgd.txt 2
+data.zbse.txt 1
+data.zbsu.txt 2
+data.zbzo.txt 15
+data.zcel.txt 1
+data.zcfn.txt 3
+data.zcfx.txt 2
+data.zcic.txt 1
+data.zcpc.txt 2
+data.zdcw.txt 1
+data.zdll.txt 2
+data.zdqk.txt 1
+data.zdqx.txt 1
+data.zdzg.txt 1
+data.zemb.txt 1
+data.zeqh.txt 1
+data.zerw.txt 1
+data.zety.txt 1

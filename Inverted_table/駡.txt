@@ -1,0 +1,16 @@
+15
+data.hu.txt 2
+data.ry.txt 1
+data.zadv.txt 4
+data.zalc.txt 3
+data.zawm.txt 1
+data.zbaq.txt 2
+data.zbdx.txt 1
+data.zczp.txt 1
+data.zdey.txt 5
+data.zdib.txt 1
+data.zdic.txt 1
+data.zdwd.txt 1
+data.zdwk.txt 1
+data.zeai.txt 1
+data.zejk.txt 1

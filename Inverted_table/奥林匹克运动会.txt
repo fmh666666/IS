@@ -1,0 +1,10 @@
+9
+data.co.txt 3
+data.zafi.txt 1
+data.zayc.txt 1
+data.zbhd.txt 1
+data.zbxw.txt 1
+data.zdep.txt 1
+data.zdsh.txt 1
+data.zelj.txt 2
+data.zesi.txt 1

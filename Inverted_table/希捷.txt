@@ -1,0 +1,21 @@
+20
+data.zamp.txt 1
+data.zamr.txt 1
+data.zayv.txt 5
+data.zbhv.txt 4
+data.zbkf.txt 11
+data.zbmt.txt 1
+data.zbru.txt 2
+data.zbut.txt 1
+data.zbzo.txt 2
+data.zcao.txt 4
+data.zcli.txt 3
+data.zcll.txt 2
+data.zctm.txt 7
+data.zdga.txt 23
+data.zdvl.txt 3
+data.zedd.txt 1
+data.zefd.txt 2
+data.zety.txt 3
+data.zevl.txt 1
+data.zewv.txt 6

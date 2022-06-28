@@ -1,0 +1,14 @@
+13
+data.ew.txt 2
+data.kq.txt 1
+data.mx.txt 1
+data.tv.txt 2
+data.zadv.txt 3
+data.zafu.txt 1
+data.zako.txt 1
+data.zasw.txt 1
+data.zaxj.txt 2
+data.zaxk.txt 1
+data.zbla.txt 6
+data.zbyb.txt 1
+data.zekw.txt 1

@@ -1,0 +1,8 @@
+7
+data.jf.txt 14
+data.zabe.txt 1
+data.zavg.txt 2
+data.zbjh.txt 16
+data.zcem.txt 1
+data.zcjo.txt 2
+data.zeve.txt 1

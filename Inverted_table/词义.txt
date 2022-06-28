@@ -1,0 +1,5 @@
+4
+data.zbga.txt 2
+data.zbot.txt 1
+data.zbua.txt 1
+data.zdkk.txt 1

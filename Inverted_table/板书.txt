@@ -1,0 +1,10 @@
+9
+data.ga.txt 5
+data.zapf.txt 1
+data.zcao.txt 1
+data.zdgv.txt 1
+data.zdux.txt 1
+data.zesq.txt 1
+data.zeta.txt 1
+data.zeva.txt 2
+data.zfae.txt 2

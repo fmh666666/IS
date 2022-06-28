@@ -1,0 +1,4 @@
+3
+data.zaxj.txt 11
+data.zaxk.txt 13
+data.zdof.txt 1

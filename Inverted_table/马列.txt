@@ -1,0 +1,7 @@
+6
+data.op.txt 2
+data.zakb.txt 1
+data.zass.txt 1
+data.zatz.txt 1
+data.zdoq.txt 1
+data.zexv.txt 1

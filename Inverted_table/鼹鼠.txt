@@ -1,0 +1,11 @@
+10
+data.ew.txt 1
+data.jd.txt 1
+data.kt.txt 2
+data.pn.txt 1
+data.zasd.txt 33
+data.zbfx.txt 1
+data.zdgp.txt 1
+data.zdpf.txt 1
+data.zebc.txt 14
+data.zfaj.txt 1

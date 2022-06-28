@@ -1,0 +1,14 @@
+13
+data.ft.txt 1
+data.fz.txt 1
+data.op.txt 2
+data.zadv.txt 1
+data.zasq.txt 2
+data.zcls.txt 1
+data.zctm.txt 1
+data.zdcy.txt 9
+data.zdkk.txt 1
+data.zdsh.txt 2
+data.zeds.txt 2
+data.zeew.txt 2
+data.zfaz.txt 1

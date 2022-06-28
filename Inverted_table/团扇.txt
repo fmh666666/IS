@@ -1,0 +1,5 @@
+4
+data.zasd.txt 3
+data.zcvt.txt 1
+data.zegk.txt 1
+data.zegl.txt 1

@@ -1,0 +1,13 @@
+12
+data.zafi.txt 1
+data.zaop.txt 1
+data.zbes.txt 1
+data.zbtx.txt 1
+data.zbuj.txt 1
+data.zbvn.txt 2
+data.zcls.txt 1
+data.zcni.txt 1
+data.zcpa.txt 1
+data.zdgt.txt 1
+data.zefs.txt 1
+data.zezf.txt 1

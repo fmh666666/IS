@@ -1,0 +1,5 @@
+4
+data.be.txt 2
+data.zaqf.txt 1
+data.zemf.txt 1
+data.zeyg.txt 1

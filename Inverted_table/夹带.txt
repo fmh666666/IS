@@ -1,0 +1,13 @@
+12
+data.co.txt 1
+data.fp.txt 1
+data.vi.txt 1
+data.zard.txt 1
+data.zavg.txt 1
+data.zbcj.txt 1
+data.zcak.txt 1
+data.zcmn.txt 1
+data.zcsu.txt 1
+data.zdic.txt 1
+data.zdoq.txt 1
+data.zdud.txt 1

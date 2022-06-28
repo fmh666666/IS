@@ -1,0 +1,11 @@
+10
+data.bb.txt 1
+data.gw.txt 1
+data.op.txt 2
+data.ry.txt 1
+data.zabe.txt 1
+data.zcqs.txt 1
+data.zcue.txt 1
+data.zdic.txt 1
+data.zdpg.txt 1
+data.zerv.txt 1

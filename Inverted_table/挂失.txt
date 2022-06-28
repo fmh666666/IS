@@ -1,0 +1,15 @@
+14
+data.be.txt 3
+data.pa.txt 1
+data.zakb.txt 1
+data.zalt.txt 2
+data.zawo.txt 1
+data.zbcj.txt 5
+data.zbes.txt 2
+data.zbsm.txt 1
+data.zcel.txt 1
+data.zcfn.txt 1
+data.zcql.txt 1
+data.zcue.txt 2
+data.zdod.txt 1
+data.zewg.txt 1

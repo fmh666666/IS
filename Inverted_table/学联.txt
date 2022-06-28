@@ -1,0 +1,9 @@
+8
+data.ng.txt 2
+data.zass.txt 3
+data.zavx.txt 3
+data.zccu.txt 4
+data.zdeq.txt 1
+data.zdgp.txt 1
+data.zdou.txt 1
+data.zerv.txt 1

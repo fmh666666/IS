@@ -1,0 +1,16 @@
+15
+data.ga.txt 1
+data.zaqf.txt 1
+data.zbdb.txt 1
+data.zbem.txt 1
+data.zcdy.txt 1
+data.zcic.txt 1
+data.zcih.txt 4
+data.zcrk.txt 1
+data.zcvq.txt 1
+data.zdnc.txt 1
+data.zdtv.txt 2
+data.zdud.txt 1
+data.zdwk.txt 1
+data.zebc.txt 1
+data.zfaz.txt 1

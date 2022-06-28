@@ -1,0 +1,25 @@
+24
+data.bs.txt 4
+data.fp.txt 1
+data.ha.txt 1
+data.kt.txt 1
+data.pa.txt 2
+data.tv.txt 1
+data.yx.txt 1
+data.zafe.txt 5
+data.zair.txt 1
+data.zako.txt 1
+data.zane.txt 1
+data.zaqf.txt 1
+data.zbdb.txt 1
+data.zbkv.txt 1
+data.zchd.txt 2
+data.zcnn.txt 2
+data.zcpa.txt 3
+data.zcxp.txt 2
+data.zcxr.txt 1
+data.zczb.txt 1
+data.zene.txt 1
+data.zexv.txt 3
+data.zezm.txt 1
+data.zezn.txt 1

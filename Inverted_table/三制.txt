@@ -1,0 +1,15 @@
+14
+data.ga.txt 2
+data.kt.txt 1
+data.zahp.txt 85
+data.zapf.txt 1
+data.zaxk.txt 1
+data.zazo.txt 3
+data.zbjk.txt 1
+data.zbot.txt 14
+data.zcih.txt 1
+data.zdds.txt 13
+data.zddv.txt 5
+data.zdle.txt 39
+data.zedx.txt 1
+data.zeoo.txt 1

@@ -1,0 +1,4 @@
+3
+data.kt.txt 1
+data.zacw.txt 5
+data.zduk.txt 1

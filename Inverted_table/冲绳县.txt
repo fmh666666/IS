@@ -1,0 +1,7 @@
+6
+data.gz.txt 2
+data.mt.txt 1
+data.zbeb.txt 1
+data.zbnx.txt 2
+data.zbpx.txt 1
+data.zfaj.txt 2

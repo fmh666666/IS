@@ -1,0 +1,14 @@
+13
+data.bs.txt 1
+data.ha.txt 1
+data.zaoy.txt 9
+data.zbgu.txt 1
+data.zbjh.txt 1
+data.zbsu.txt 1
+data.zcdg.txt 2
+data.zcmv.txt 1
+data.zcsu.txt 1
+data.zddp.txt 1
+data.zefp.txt 1
+data.zelt.txt 1
+data.zfcp.txt 2

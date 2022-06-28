@@ -1,0 +1,11 @@
+10
+data.be.txt 1
+data.jj.txt 70
+data.pn.txt 1
+data.ye.txt 1
+data.zaic.txt 1
+data.zbpp.txt 1
+data.zcni.txt 3
+data.zcqs.txt 1
+data.zcvt.txt 2
+data.zdou.txt 5

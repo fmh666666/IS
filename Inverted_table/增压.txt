@@ -1,0 +1,22 @@
+21
+data.bs.txt 1
+data.zafu.txt 2
+data.zaql.txt 2
+data.zasj.txt 1
+data.zbkr.txt 1
+data.zbof.txt 1
+data.zbts.txt 2
+data.zcao.txt 1
+data.zcku.txt 1
+data.zcrn.txt 1
+data.zcvt.txt 1
+data.zdeb.txt 1
+data.zdlo.txt 1
+data.zdux.txt 1
+data.zdwv.txt 1
+data.zedd.txt 3
+data.zejn.txt 1
+data.zenn.txt 1
+data.zerw.txt 1
+data.zesi.txt 1
+data.zfcj.txt 2

@@ -1,0 +1,16 @@
+15
+data.zacw.txt 3
+data.zafi.txt 3
+data.zaim.txt 1
+data.zapl.txt 1
+data.zasy.txt 6
+data.zcmy.txt 1
+data.zcpx.txt 1
+data.zcts.txt 1
+data.zczp.txt 1
+data.zdcy.txt 1
+data.zddx.txt 1
+data.zehj.txt 1
+data.zewp.txt 3
+data.zexu.txt 3
+data.zfaj.txt 3

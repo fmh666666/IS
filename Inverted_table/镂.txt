@@ -1,0 +1,10 @@
+9
+data.zarc.txt 1
+data.zard.txt 1
+data.zaxj.txt 3
+data.zaxk.txt 2
+data.zbhd.txt 1
+data.zbhe.txt 1
+data.zblq.txt 1
+data.zezm.txt 1
+data.zfaj.txt 1

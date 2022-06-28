@@ -1,0 +1,12 @@
+11
+data.aj.txt 4
+data.ok.txt 1
+data.zarr.txt 2
+data.zbkr.txt 1
+data.zcsu.txt 1
+data.zcue.txt 1
+data.zcuh.txt 2
+data.zcvt.txt 1
+data.zcxr.txt 1
+data.zegl.txt 1
+data.zfae.txt 1

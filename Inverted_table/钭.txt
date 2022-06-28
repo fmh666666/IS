@@ -1,0 +1,5 @@
+4
+data.hp.txt 2
+data.zaej.txt 2
+data.zawu.txt 1
+data.zdcj.txt 1

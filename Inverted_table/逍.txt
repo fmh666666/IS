@@ -1,0 +1,17 @@
+16
+data.tv.txt 2
+data.uz.txt 2
+data.zadv.txt 2
+data.zbfr.txt 1
+data.zbhe.txt 2
+data.zbof.txt 1
+data.zbpm.txt 4
+data.zccx.txt 2
+data.zcdv.txt 1
+data.zcfx.txt 2
+data.zcjo.txt 1
+data.zcwq.txt 1
+data.zdgt.txt 1
+data.zdoc.txt 1
+data.zdwl.txt 2
+data.zevy.txt 2

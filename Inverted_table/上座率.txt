@@ -1,0 +1,15 @@
+14
+data.ha.txt 1
+data.zahd.txt 6
+data.zalt.txt 1
+data.zass.txt 1
+data.zasw.txt 2
+data.zawu.txt 1
+data.zbaq.txt 8
+data.zbia.txt 1
+data.zcgi.txt 1
+data.zcts.txt 1
+data.zerw.txt 1
+data.zexm.txt 1
+data.zeyu.txt 1
+data.zeyy.txt 1

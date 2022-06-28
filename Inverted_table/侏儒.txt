@@ -1,0 +1,12 @@
+11
+data.bf.txt 1
+data.ha.txt 2
+data.jf.txt 1
+data.zawm.txt 1
+data.zbkj.txt 1
+data.zbkr.txt 1
+data.zbmw.txt 2
+data.zcda.txt 1
+data.zcel.txt 1
+data.zdof.txt 1
+data.zfae.txt 1

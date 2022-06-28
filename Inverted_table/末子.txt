@@ -1,0 +1,7 @@
+6
+data.zbsu.txt 1
+data.zccu.txt 1
+data.zdqk.txt 1
+data.zegk.txt 1
+data.zegl.txt 10
+data.zegn.txt 9

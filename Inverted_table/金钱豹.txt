@@ -1,0 +1,23 @@
+22
+data.mu.txt 1
+data.pa.txt 1
+data.zauy.txt 4
+data.zavx.txt 2
+data.zbbt.txt 1
+data.zbil.txt 3
+data.zbmt.txt 1
+data.zbru.txt 3
+data.zbvg.txt 2
+data.zbzo.txt 4
+data.zcdz.txt 1
+data.zcql.txt 1
+data.zddv.txt 3
+data.zdgv.txt 3
+data.zdux.txt 4
+data.zdzn.txt 3
+data.zeaj.txt 4
+data.zefs.txt 1
+data.zegn.txt 2
+data.zeta.txt 4
+data.zevt.txt 4
+data.zfas.txt 1

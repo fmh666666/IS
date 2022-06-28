@@ -1,0 +1,11 @@
+10
+data.be.txt 1
+data.ry.txt 2
+data.zajn.txt 1
+data.zasw.txt 1
+data.zbnp.txt 1
+data.zcsu.txt 1
+data.zcts.txt 1
+data.zdcj.txt 1
+data.zdzn.txt 1
+data.zeeh.txt 1

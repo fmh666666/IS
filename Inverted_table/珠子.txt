@@ -1,0 +1,22 @@
+21
+data.jf.txt 2
+data.mk.txt 1
+data.zadv.txt 2
+data.zajn.txt 2
+data.zall.txt 3
+data.zbbt.txt 1
+data.zbdb.txt 4
+data.zbfx.txt 2
+data.zbfz.txt 1
+data.zbta.txt 1
+data.zbxw.txt 1
+data.zclh.txt 1
+data.zcsu.txt 1
+data.zcvt.txt 1
+data.zcxr.txt 1
+data.zczl.txt 1
+data.zdcw.txt 1
+data.zduo.txt 1
+data.zefd.txt 1
+data.zeoo.txt 1
+data.zfby.txt 3

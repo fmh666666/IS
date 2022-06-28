@@ -1,0 +1,16 @@
+15
+data.gw.txt 2
+data.sq.txt 1
+data.vm.txt 1
+data.zajn.txt 1
+data.zass.txt 1
+data.zawc.txt 1
+data.zbcj.txt 1
+data.zbeb.txt 1
+data.zcak.txt 1
+data.zcdv.txt 1
+data.zcts.txt 2
+data.zddb.txt 1
+data.zdtr.txt 3
+data.zdyv.txt 1
+data.zfcp.txt 1

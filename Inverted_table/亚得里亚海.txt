@@ -1,0 +1,5 @@
+4
+data.ka.txt 2
+data.ye.txt 2
+data.zdud.txt 1
+data.zeac.txt 1

@@ -1,0 +1,10 @@
+9
+data.zank.txt 1
+data.zapl.txt 1
+data.zbfd.txt 1
+data.zbfx.txt 1
+data.zcxh.txt 1
+data.zdep.txt 1
+data.zeec.txt 1
+data.zenw.txt 1
+data.zeve.txt 3

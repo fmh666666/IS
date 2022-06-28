@@ -1,0 +1,8 @@
+7
+data.bf.txt 1
+data.ng.txt 1
+data.ye.txt 38
+data.zdlw.txt 1
+data.zdpw.txt 11
+data.zduo.txt 1
+data.zemb.txt 1

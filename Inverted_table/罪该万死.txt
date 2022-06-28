@@ -1,0 +1,5 @@
+4
+data.aj.txt 2
+data.zanm.txt 3
+data.zefu.txt 1
+data.zemf.txt 1

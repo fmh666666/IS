@@ -1,0 +1,6 @@
+5
+data.zbgu.txt 3
+data.zbzo.txt 1
+data.zcao.txt 1
+data.zdux.txt 1
+data.zezh.txt 1

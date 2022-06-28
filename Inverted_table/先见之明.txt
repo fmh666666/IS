@@ -1,0 +1,13 @@
+12
+data.op.txt 1
+data.pa.txt 1
+data.wc.txt 1
+data.zall.txt 1
+data.zbeb.txt 1
+data.zcql.txt 1
+data.zcsr.txt 8
+data.zczl.txt 1
+data.zdaw.txt 1
+data.zdll.txt 1
+data.zeec.txt 1
+data.zeqv.txt 1

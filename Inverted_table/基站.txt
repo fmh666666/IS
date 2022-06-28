@@ -1,0 +1,17 @@
+16
+data.ha.txt 1
+data.mx.txt 1
+data.zahd.txt 2
+data.zazo.txt 3
+data.zbkf.txt 1
+data.zbpx.txt 1
+data.zbut.txt 2
+data.zcue.txt 1
+data.zddp.txt 2
+data.zdep.txt 3
+data.zdlo.txt 1
+data.zdoq.txt 1
+data.zduc.txt 3
+data.zeqn.txt 1
+data.zfaj.txt 1
+data.zfas.txt 1

@@ -1,0 +1,11 @@
+10
+data.fz.txt 1
+data.gw.txt 2
+data.ok.txt 4
+data.zahd.txt 1
+data.zalj.txt 1
+data.zbta.txt 2
+data.zbtj.txt 1
+data.zbux.txt 2
+data.zctp.txt 3
+data.zenn.txt 1

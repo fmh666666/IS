@@ -1,0 +1,9 @@
+8
+data.ga.txt 1
+data.zafy.txt 1
+data.zard.txt 1
+data.zarr.txt 1
+data.zbup.txt 1
+data.zcni.txt 1
+data.zdgp.txt 1
+data.zeoh.txt 1

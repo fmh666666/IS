@@ -1,0 +1,12 @@
+11
+data.ry.txt 4
+data.zajn.txt 3
+data.zbut.txt 1
+data.zbvn.txt 1
+data.zcem.txt 1
+data.zcww.txt 1
+data.zdji.txt 1
+data.zebc.txt 2
+data.zedd.txt 1
+data.zeoo.txt 2
+data.zewv.txt 1

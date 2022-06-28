@@ -1,0 +1,10 @@
+9
+data.bb.txt 1
+data.co.txt 2
+data.yx.txt 1
+data.zajn.txt 1
+data.zajo.txt 1
+data.zawc.txt 1
+data.zcgo.txt 3
+data.zcis.txt 3
+data.zdgt.txt 1

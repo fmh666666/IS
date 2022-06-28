@@ -1,0 +1,16 @@
+15
+data.co.txt 2
+data.hp.txt 1
+data.op.txt 1
+data.zajo.txt 1
+data.zalt.txt 1
+data.zaoc.txt 1
+data.zapf.txt 1
+data.zard.txt 1
+data.zcda.txt 1
+data.zctm.txt 1
+data.zdju.txt 1
+data.zdlw.txt 1
+data.zdod.txt 1
+data.zdwz.txt 1
+data.zebf.txt 1

@@ -1,0 +1,13 @@
+12
+data.zasy.txt 1
+data.zbcc.txt 1
+data.zbtx.txt 1
+data.zcbe.txt 2
+data.zcoy.txt 1
+data.zcql.txt 2
+data.zcrk.txt 2
+data.zcww.txt 1
+data.zdwn.txt 1
+data.zeds.txt 1
+data.zene.txt 1
+data.zeos.txt 1

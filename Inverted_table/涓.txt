@@ -1,0 +1,14 @@
+13
+data.kq.txt 1
+data.mk.txt 3
+data.mo.txt 1
+data.zacp.txt 1
+data.zafv.txt 1
+data.zako.txt 1
+data.zapl.txt 1
+data.zasy.txt 1
+data.zcnn.txt 1
+data.zdar.txt 1
+data.zeaf.txt 2
+data.zerv.txt 1
+data.zesi.txt 1

@@ -1,0 +1,11 @@
+10
+data.ga.txt 1
+data.jf.txt 1
+data.zaej.txt 1
+data.zaoc.txt 1
+data.zawc.txt 1
+data.zayc.txt 1
+data.zbem.txt 1
+data.zbjk.txt 1
+data.zbnp.txt 1
+data.zdod.txt 1

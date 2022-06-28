@@ -1,0 +1,4 @@
+3
+data.zawc.txt 1
+data.zcic.txt 2
+data.zezn.txt 1

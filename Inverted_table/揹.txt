@@ -1,0 +1,5 @@
+4
+data.zawz.txt 1
+data.zbzo.txt 33
+data.zdib.txt 1
+data.zdzm.txt 1

@@ -1,0 +1,7 @@
+6
+data.aj.txt 1
+data.ok.txt 2
+data.zawb.txt 1
+data.zawc.txt 1
+data.zbgu.txt 1
+data.zbpx.txt 4

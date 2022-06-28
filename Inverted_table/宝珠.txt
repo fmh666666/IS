@@ -1,0 +1,11 @@
+10
+data.ga.txt 4
+data.jf.txt 1
+data.ok.txt 1
+data.zbhe.txt 2
+data.zbsl.txt 1
+data.zcwn.txt 1
+data.zdlg.txt 1
+data.zefu.txt 3
+data.zewd.txt 3
+data.zexk.txt 1

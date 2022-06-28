@@ -1,0 +1,26 @@
+25
+data.en.txt 1
+data.fp.txt 1
+data.fz.txt 1
+data.ng.txt 1
+data.tz.txt 1
+data.ye.txt 2
+data.zacp.txt 1
+data.zake.txt 1
+data.zalm.txt 1
+data.zalt.txt 1
+data.zard.txt 1
+data.zaxp.txt 1
+data.zbcv.txt 3
+data.zbpx.txt 1
+data.zcis.txt 1
+data.zcku.txt 1
+data.zcvt.txt 1
+data.zdoq.txt 1
+data.zdst.txt 1
+data.zduo.txt 1
+data.zdxw.txt 5
+data.zeoo.txt 2
+data.zesq.txt 1
+data.zfae.txt 1
+data.zfai.txt 3

@@ -1,0 +1,5 @@
+4
+data.zakb.txt 2
+data.zdgv.txt 1
+data.zeam.txt 1
+data.zedk.txt 1

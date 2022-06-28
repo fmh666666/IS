@@ -1,0 +1,25 @@
+24
+data.fe.txt 3
+data.nh.txt 1
+data.zail.txt 3
+data.zalc.txt 1
+data.zaoc.txt 1
+data.zate.txt 2
+data.zawz.txt 2
+data.zaxp.txt 1
+data.zazw.txt 1
+data.zbgd.txt 2
+data.zbof.txt 2
+data.zbpc.txt 1
+data.zbvn.txt 3
+data.zccl.txt 2
+data.zcdv.txt 1
+data.zcem.txt 1
+data.zcmv.txt 1
+data.zdji.txt 1
+data.zdqk.txt 1
+data.zdqq.txt 2
+data.zeac.txt 1
+data.zeez.txt 1
+data.zewv.txt 1
+data.zezy.txt 2

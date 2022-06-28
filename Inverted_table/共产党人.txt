@@ -1,0 +1,5 @@
+4
+data.hg.txt 3
+data.ok.txt 2
+data.zawb.txt 1
+data.zdeb.txt 1

@@ -1,0 +1,9 @@
+8
+data.fp.txt 1
+data.ok.txt 1
+data.wg.txt 1
+data.zawb.txt 1
+data.zdeb.txt 2
+data.zdst.txt 1
+data.zdwl.txt 1
+data.zfaj.txt 1

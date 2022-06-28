@@ -1,0 +1,8 @@
+7
+data.dg.txt 11
+data.zarc.txt 2
+data.zbmt.txt 3
+data.zbqu.txt 3
+data.zcls.txt 2
+data.zdvl.txt 3
+data.zevy.txt 2

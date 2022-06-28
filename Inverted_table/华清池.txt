@@ -1,0 +1,16 @@
+15
+data.dg.txt 4
+data.hc.txt 5
+data.nh.txt 1
+data.pn.txt 4
+data.zaxp.txt 1
+data.zayv.txt 5
+data.zbfx.txt 1
+data.zbup.txt 1
+data.zbzo.txt 4
+data.zcao.txt 9
+data.zcaq.txt 4
+data.zdga.txt 2
+data.zdux.txt 4
+data.zeqn.txt 1
+data.zety.txt 4

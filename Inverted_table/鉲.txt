@@ -1,0 +1,4 @@
+3
+data.zazw.txt 1
+data.zbjk.txt 1
+data.zemb.txt 30

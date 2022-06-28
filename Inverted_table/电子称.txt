@@ -1,0 +1,7 @@
+6
+data.ff.txt 2
+data.zane.txt 1
+data.zbsl.txt 1
+data.zcaq.txt 1
+data.zcqs.txt 1
+data.zcrg.txt 1

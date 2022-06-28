@@ -1,0 +1,3 @@
+2
+data.zawo.txt 1
+data.zfaw.txt 2

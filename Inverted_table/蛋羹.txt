@@ -1,0 +1,18 @@
+17
+data.ep.txt 1
+data.sq.txt 1
+data.zasw.txt 4
+data.zaub.txt 1
+data.zbjq.txt 2
+data.zbof.txt 1
+data.zbux.txt 1
+data.zbyb.txt 1
+data.zcem.txt 2
+data.zcln.txt 1
+data.zcql.txt 2
+data.zcvi.txt 2
+data.zdil.txt 1
+data.zdme.txt 1
+data.zdvl.txt 3
+data.zedk.txt 1
+data.zevt.txt 1

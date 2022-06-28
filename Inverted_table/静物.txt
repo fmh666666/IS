@@ -1,0 +1,14 @@
+13
+data.mx.txt 3
+data.zajo.txt 1
+data.zawm.txt 1
+data.zaxj.txt 1
+data.zbga.txt 2
+data.zbrj.txt 1
+data.zbuj.txt 3
+data.zcmv.txt 1
+data.zcsu.txt 1
+data.zeai.txt 1
+data.zeay.txt 1
+data.zejn.txt 1
+data.zfai.txt 1

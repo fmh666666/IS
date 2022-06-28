@@ -1,0 +1,4 @@
+3
+data.zaoy.txt 1
+data.zdga.txt 6
+data.zfaw.txt 1

@@ -1,0 +1,7 @@
+6
+data.zbta.txt 32
+data.zbua.txt 1
+data.zcoy.txt 1
+data.zdeb.txt 1
+data.zdtv.txt 1
+data.zevq.txt 1

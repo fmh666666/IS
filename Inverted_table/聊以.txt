@@ -1,0 +1,11 @@
+10
+data.bf.txt 1
+data.hg.txt 1
+data.zaqr.txt 2
+data.zcic.txt 1
+data.zcmn.txt 1
+data.zcrk.txt 1
+data.zdep.txt 1
+data.zdey.txt 2
+data.zduk.txt 1
+data.zeaf.txt 1

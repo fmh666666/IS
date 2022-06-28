@@ -1,0 +1,4 @@
+3
+data.zajh.txt 13
+data.zbia.txt 1
+data.zdkc.txt 1

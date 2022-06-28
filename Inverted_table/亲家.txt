@@ -1,0 +1,14 @@
+13
+data.ry.txt 15
+data.sq.txt 1
+data.wc.txt 1
+data.zacd.txt 1
+data.zbla.txt 2
+data.zbpx.txt 1
+data.zcdv.txt 1
+data.zcgo.txt 1
+data.zcni.txt 1
+data.zcwn.txt 1
+data.zdkc.txt 1
+data.zefs.txt 1
+data.zeob.txt 4

@@ -1,0 +1,9 @@
+8
+data.ew.txt 1
+data.mu.txt 1
+data.zaim.txt 7
+data.zazo.txt 1
+data.zbla.txt 1
+data.zegk.txt 1
+data.zehj.txt 1
+data.zexv.txt 1

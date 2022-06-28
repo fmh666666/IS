@@ -1,0 +1,13 @@
+12
+data.ka.txt 1
+data.ye.txt 2
+data.zalt.txt 1
+data.zaqr.txt 2
+data.zazn.txt 1
+data.zckd.txt 1
+data.zczl.txt 10
+data.zdgt.txt 1
+data.zdwl.txt 1
+data.zecf.txt 1
+data.zety.txt 1
+data.zewv.txt 1

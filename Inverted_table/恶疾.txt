@@ -1,0 +1,4 @@
+3
+data.zawo.txt 1
+data.zdwz.txt 1
+data.zene.txt 1

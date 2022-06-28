@@ -1,0 +1,12 @@
+11
+data.jf.txt 1
+data.mi.txt 1
+data.zabe.txt 1
+data.zavx.txt 2
+data.zazg.txt 1
+data.zbia.txt 1
+data.zbua.txt 1
+data.zchw.txt 1
+data.zcts.txt 2
+data.zefw.txt 3
+data.zeva.txt 1

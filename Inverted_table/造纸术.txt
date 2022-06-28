@@ -1,0 +1,7 @@
+6
+data.ff.txt 1
+data.gw.txt 3
+data.zbqu.txt 1
+data.zcmn.txt 1
+data.zddm.txt 2
+data.zeew.txt 1

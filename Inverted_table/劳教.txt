@@ -1,0 +1,26 @@
+25
+data.bs.txt 1
+data.fp.txt 8
+data.hp.txt 9
+data.op.txt 3
+data.zaqf.txt 1
+data.zawb.txt 3
+data.zawc.txt 6
+data.zaxp.txt 2
+data.zbgu.txt 1
+data.zcdg.txt 1
+data.zcej.txt 1
+data.zcrn.txt 1
+data.zcse.txt 17
+data.zcue.txt 1
+data.zcxr.txt 1
+data.zdep.txt 1
+data.zdpf.txt 2
+data.zduk.txt 1
+data.zedo.txt 1
+data.zelt.txt 2
+data.zene.txt 6
+data.zeqv.txt 1
+data.zess.txt 1
+data.zeun.txt 4
+data.zfae.txt 1

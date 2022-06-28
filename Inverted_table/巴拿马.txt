@@ -1,0 +1,4 @@
+3
+data.zbmw.txt 1
+data.zdeb.txt 3
+data.zesi.txt 1

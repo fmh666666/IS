@@ -1,0 +1,5 @@
+4
+data.gk.txt 4
+data.to.txt 1
+data.zalj.txt 1
+data.zduk.txt 1

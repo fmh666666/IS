@@ -1,0 +1,7 @@
+6
+data.kt.txt 2
+data.zbeb.txt 2
+data.zcfn.txt 12
+data.zchw.txt 1
+data.zdrq.txt 1
+data.zegl.txt 1

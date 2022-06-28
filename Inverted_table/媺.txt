@@ -1,0 +1,9 @@
+8
+data.ek.txt 2
+data.ud.txt 1
+data.zall.txt 1
+data.zcic.txt 1
+data.zdlw.txt 1
+data.zeag.txt 1
+data.zeam.txt 5
+data.zejn.txt 1

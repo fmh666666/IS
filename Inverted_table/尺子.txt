@@ -1,0 +1,19 @@
+18
+data.ng.txt 1
+data.tj.txt 1
+data.zamr.txt 1
+data.zaxp.txt 1
+data.zbia.txt 1
+data.zbrj.txt 1
+data.zclh.txt 1
+data.zcvt.txt 1
+data.zddb.txt 1
+data.zdkc.txt 1
+data.zdof.txt 1
+data.zdqz.txt 1
+data.zebn.txt 14
+data.zedx.txt 1
+data.zeel.txt 1
+data.zelj.txt 2
+data.zeta.txt 1
+data.zfbr.txt 1

@@ -1,0 +1,13 @@
+12
+data.mk.txt 1
+data.qb.txt 2
+data.zalc.txt 3
+data.zasr.txt 1
+data.zbse.txt 2
+data.zbsf.txt 1
+data.zbvn.txt 2
+data.zcef.txt 2
+data.zcku.txt 4
+data.zdaw.txt 1
+data.zeta.txt 1
+data.zeyy.txt 1

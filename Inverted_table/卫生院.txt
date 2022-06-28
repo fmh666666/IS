@@ -1,0 +1,13 @@
+12
+data.ek.txt 1
+data.zane.txt 1
+data.zawc.txt 1
+data.zbkf.txt 1
+data.zbwq.txt 1
+data.zctp.txt 1
+data.zdep.txt 1
+data.zdgt.txt 2
+data.zdle.txt 1
+data.zdpg.txt 1
+data.zelt.txt 2
+data.zene.txt 5

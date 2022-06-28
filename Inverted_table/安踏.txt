@@ -1,0 +1,22 @@
+21
+data.ga.txt 4
+data.hp.txt 1
+data.ry.txt 1
+data.xe.txt 1
+data.zafq.txt 1
+data.zawm.txt 2
+data.zbcj.txt 1
+data.zblr.txt 1
+data.zbqu.txt 1
+data.zbse.txt 1
+data.zbyv.txt 8
+data.zckd.txt 1
+data.zcon.txt 1
+data.zcqe.txt 2
+data.zcww.txt 1
+data.zczl.txt 3
+data.zdpf.txt 2
+data.zdsh.txt 1
+data.zedx.txt 1
+data.zelj.txt 2
+data.zfaw.txt 1

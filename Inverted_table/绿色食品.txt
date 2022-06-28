@@ -1,0 +1,15 @@
+14
+data.be.txt 1
+data.ft.txt 1
+data.hg.txt 4
+data.kq.txt 1
+data.zbwa.txt 1
+data.zbyb.txt 1
+data.zcsu.txt 1
+data.zdaq.txt 2
+data.zdju.txt 1
+data.zduk.txt 1
+data.zeaf.txt 1
+data.zeeh.txt 1
+data.zfaj.txt 2
+data.zfcj.txt 1

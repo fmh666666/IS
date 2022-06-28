@@ -1,0 +1,11 @@
+10
+data.ka.txt 1
+data.nh.txt 1
+data.zarr.txt 1
+data.zasq.txt 1
+data.zavg.txt 1
+data.zbcj.txt 1
+data.zbdb.txt 1
+data.zcll.txt 1
+data.zdcy.txt 1
+data.zdep.txt 1

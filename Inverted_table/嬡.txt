@@ -1,0 +1,8 @@
+7
+data.zane.txt 2
+data.zbel.txt 1
+data.zbwq.txt 1
+data.zdaq.txt 1
+data.zdkk.txt 1
+data.zdwd.txt 1
+data.zedy.txt 1

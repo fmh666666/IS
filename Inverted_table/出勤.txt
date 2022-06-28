@@ -1,0 +1,7 @@
+6
+data.ok.txt 1
+data.zadv.txt 1
+data.zako.txt 1
+data.zdaw.txt 1
+data.zdof.txt 1
+data.zefv.txt 1

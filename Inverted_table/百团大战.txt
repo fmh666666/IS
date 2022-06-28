@@ -1,0 +1,9 @@
+8
+data.dg.txt 2
+data.zajo.txt 1
+data.zass.txt 1
+data.zbia.txt 1
+data.zcao.txt 1
+data.zckd.txt 1
+data.zdux.txt 1
+data.zeds.txt 1

@@ -1,0 +1,15 @@
+14
+data.ga.txt 1
+data.gw.txt 2
+data.op.txt 1
+data.zbsu.txt 1
+data.zccu.txt 1
+data.zcvi.txt 1
+data.zdaw.txt 1
+data.zdgv.txt 1
+data.zebn.txt 6
+data.zedy.txt 1
+data.zeeq.txt 1
+data.zekw.txt 1
+data.zeqv.txt 1
+data.zezy.txt 1

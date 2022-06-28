@@ -1,0 +1,7 @@
+6
+data.hz.txt 1
+data.ud.txt 1
+data.zabx.txt 4
+data.zazn.txt 1
+data.zcao.txt 1
+data.zcln.txt 1

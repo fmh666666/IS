@@ -1,0 +1,10 @@
+9
+data.zaql.txt 2
+data.zbgd.txt 15
+data.zbgu.txt 4
+data.zbnp.txt 1
+data.zcoy.txt 1
+data.zcpx.txt 2
+data.zdic.txt 1
+data.zejn.txt 1
+data.zfcj.txt 1

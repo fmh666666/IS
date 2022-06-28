@@ -1,0 +1,21 @@
+20
+data.zaip.txt 2
+data.zasr.txt 1
+data.zass.txt 3
+data.zasw.txt 1
+data.zate.txt 1
+data.zazw.txt 1
+data.zbbt.txt 1
+data.zbel.txt 1
+data.zbmw.txt 2
+data.zbot.txt 1
+data.zbsu.txt 1
+data.zbye.txt 1
+data.zcfn.txt 1
+data.zcic.txt 3
+data.zdll.txt 1
+data.zdqq.txt 1
+data.zegl.txt 1
+data.zegn.txt 2
+data.zejk.txt 1
+data.zfaw.txt 1

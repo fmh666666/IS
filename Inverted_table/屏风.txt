@@ -1,0 +1,15 @@
+14
+data.cq.txt 1
+data.tv.txt 1
+data.tz.txt 1
+data.ud.txt 1
+data.zajn.txt 1
+data.zajo.txt 2
+data.zako.txt 1
+data.zbux.txt 1
+data.zbvn.txt 1
+data.zbwq.txt 1
+data.zcdv.txt 1
+data.zcmx.txt 1
+data.zdoq.txt 1
+data.zduk.txt 1

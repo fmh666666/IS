@@ -1,0 +1,6 @@
+5
+data.zbeb.txt 2
+data.zbfp.txt 1
+data.zbot.txt 2
+data.zbse.txt 1
+data.zdqz.txt 1

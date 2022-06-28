@@ -1,0 +1,7 @@
+6
+data.cq.txt 3
+data.kt.txt 1
+data.zacd.txt 1
+data.zaim.txt 1
+data.zazo.txt 1
+data.zblr.txt 1

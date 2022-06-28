@@ -1,0 +1,14 @@
+13
+data.kt.txt 1
+data.zadv.txt 1
+data.zafq.txt 1
+data.zalm.txt 1
+data.zaxk.txt 1
+data.zblq.txt 1
+data.zblr.txt 3
+data.zcvi.txt 1
+data.zdey.txt 1
+data.zdgo.txt 1
+data.zdwl.txt 1
+data.zeoh.txt 1
+data.zexm.txt 1

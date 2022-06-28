@@ -1,0 +1,9 @@
+8
+data.zalm.txt 1
+data.zbfg.txt 1
+data.zcon.txt 1
+data.zcts.txt 1
+data.zdkk.txt 1
+data.zene.txt 1
+data.zezy.txt 1
+data.zfai.txt 1

@@ -1,0 +1,4 @@
+3
+data.zamp.txt 1
+data.zazg.txt 1
+data.zcts.txt 1

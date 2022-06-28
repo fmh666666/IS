@@ -1,0 +1,13 @@
+12
+data.hp.txt 1
+data.ng.txt 1
+data.op.txt 1
+data.zasj.txt 5
+data.zbdx.txt 2
+data.zbzg.txt 2
+data.zddb.txt 1
+data.zdpw.txt 1
+data.zdwn.txt 1
+data.zebf.txt 1
+data.zebv.txt 1
+data.zexk.txt 1

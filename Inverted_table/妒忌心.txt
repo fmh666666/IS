@@ -1,0 +1,7 @@
+6
+data.zbcc.txt 1
+data.zdib.txt 2
+data.zdou.txt 2
+data.zdst.txt 2
+data.zduc.txt 2
+data.zeag.txt 2

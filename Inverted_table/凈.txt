@@ -1,0 +1,6 @@
+5
+data.zafu.txt 1
+data.zanh.txt 2
+data.zcfx.txt 1
+data.zefu.txt 1
+data.zenw.txt 1

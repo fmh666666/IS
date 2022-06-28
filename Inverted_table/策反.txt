@@ -1,0 +1,6 @@
+5
+data.ga.txt 1
+data.ng.txt 1
+data.zahd.txt 2
+data.zawc.txt 1
+data.zeoh.txt 1

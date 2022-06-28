@@ -1,0 +1,15 @@
+14
+data.jj.txt 1
+data.pn.txt 1
+data.tj.txt 1
+data.zard.txt 2
+data.zbga.txt 1
+data.zbkr.txt 1
+data.zbut.txt 2
+data.zcao.txt 1
+data.zcdv.txt 2
+data.zcgo.txt 2
+data.zcql.txt 1
+data.zdux.txt 1
+data.zefu.txt 1
+data.zexm.txt 1

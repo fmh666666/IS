@@ -1,0 +1,10 @@
+9
+data.bb.txt 1
+data.zacd.txt 2
+data.zapl.txt 2
+data.zaxk.txt 2
+data.zcem.txt 1
+data.zczp.txt 1
+data.zdpg.txt 2
+data.zdzg.txt 4
+data.zezy.txt 1

@@ -1,0 +1,7 @@
+6
+data.qn.txt 6
+data.zbes.txt 27
+data.zbpp.txt 1
+data.zcvt.txt 1
+data.zejk.txt 10
+data.zejn.txt 10

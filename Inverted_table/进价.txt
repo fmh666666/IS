@@ -1,0 +1,6 @@
+5
+data.zamr.txt 1
+data.zawc.txt 1
+data.zbhd.txt 1
+data.zete.txt 164
+data.zezm.txt 1

@@ -1,0 +1,12 @@
+11
+data.wc.txt 1
+data.zafl.txt 2
+data.zafq.txt 1
+data.zafu.txt 1
+data.zbcj.txt 1
+data.zbse.txt 2
+data.zbts.txt 3
+data.zbtx.txt 1
+data.zdoq.txt 1
+data.zdpf.txt 3
+data.zduk.txt 2

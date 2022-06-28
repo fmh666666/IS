@@ -1,0 +1,9 @@
+8
+data.zamp.txt 2
+data.zbfp.txt 2
+data.zbwa.txt 2
+data.zcql.txt 2
+data.zdcw.txt 2
+data.zdgp.txt 2
+data.zeay.txt 2
+data.zelt.txt 1

@@ -1,0 +1,4 @@
+3
+data.zbia.txt 2
+data.zddv.txt 1
+data.zdwl.txt 1

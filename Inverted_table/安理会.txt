@@ -1,0 +1,7 @@
+6
+data.ft.txt 1
+data.ha.txt 1
+data.zcmy.txt 2
+data.zcqp.txt 1
+data.zdqz.txt 1
+data.zfai.txt 5

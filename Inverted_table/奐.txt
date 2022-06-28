@@ -1,0 +1,4 @@
+3
+data.zagr.txt 1
+data.zawm.txt 1
+data.zeez.txt 1

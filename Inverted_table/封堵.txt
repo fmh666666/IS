@@ -1,0 +1,6 @@
+5
+data.zbeb.txt 3
+data.zcse.txt 1
+data.zelt.txt 3
+data.zene.txt 1
+data.zfaj.txt 1

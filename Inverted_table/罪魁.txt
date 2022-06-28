@@ -1,0 +1,5 @@
+4
+data.ga.txt 1
+data.op.txt 1
+data.zajh.txt 1
+data.zanh.txt 1

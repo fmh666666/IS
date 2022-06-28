@@ -1,0 +1,5 @@
+4
+data.zbor.txt 3
+data.zcsu.txt 7
+data.zdst.txt 2
+data.zefv.txt 1

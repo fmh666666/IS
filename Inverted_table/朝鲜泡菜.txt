@@ -1,0 +1,4 @@
+3
+data.sq.txt 1
+data.zasw.txt 1
+data.zdpg.txt 2

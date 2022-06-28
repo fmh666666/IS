@@ -1,0 +1,19 @@
+18
+data.en.txt 1
+data.fe.txt 1
+data.fp.txt 1
+data.ga.txt 1
+data.zaoc.txt 2
+data.zaoy.txt 1
+data.zapl.txt 1
+data.zaxx.txt 1
+data.zazx.txt 1
+data.zbcj.txt 1
+data.zbha.txt 1
+data.zbhd.txt 1
+data.zbtx.txt 1
+data.zbzg.txt 1
+data.zdhw.txt 1
+data.zdlw.txt 1
+data.zdzm.txt 2
+data.zeds.txt 1

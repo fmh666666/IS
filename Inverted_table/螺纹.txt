@@ -1,0 +1,8 @@
+7
+data.pa.txt 2
+data.zaim.txt 1
+data.zawb.txt 1
+data.zdcw.txt 2
+data.zeam.txt 4
+data.zemb.txt 1
+data.zfcg.txt 2

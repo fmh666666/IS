@@ -1,0 +1,8 @@
+7
+data.ry.txt 3
+data.zard.txt 2
+data.zasr.txt 4
+data.zass.txt 4
+data.zegn.txt 1
+data.zewn.txt 1
+data.zezy.txt 1

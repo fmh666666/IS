@@ -1,0 +1,12 @@
+11
+data.bb.txt 1
+data.hu.txt 4
+data.zaeh.txt 1
+data.zbfx.txt 1
+data.zbkr.txt 2
+data.zbut.txt 1
+data.zcft.txt 1
+data.zdcy.txt 1
+data.zdfl.txt 1
+data.zduk.txt 1
+data.zduo.txt 3

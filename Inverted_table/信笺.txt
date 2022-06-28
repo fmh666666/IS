@@ -1,0 +1,7 @@
+6
+data.ng.txt 1
+data.zacd.txt 1
+data.zass.txt 2
+data.zavx.txt 3
+data.zazn.txt 1
+data.zbgu.txt 1

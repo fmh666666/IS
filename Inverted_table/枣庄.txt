@@ -1,0 +1,12 @@
+11
+data.fp.txt 1
+data.mi.txt 1
+data.yx.txt 3
+data.zabx.txt 1
+data.zahd.txt 1
+data.zamr.txt 2
+data.zawb.txt 1
+data.zcjo.txt 1
+data.zcts.txt 1
+data.zess.txt 2
+data.zexm.txt 1

@@ -1,0 +1,15 @@
+14
+data.ft.txt 1
+data.gk.txt 1
+data.kt.txt 3
+data.zalt.txt 1
+data.zavx.txt 2
+data.zazn.txt 2
+data.zbdx.txt 1
+data.zbkj.txt 2
+data.zbre.txt 1
+data.zcic.txt 1
+data.zcih.txt 1
+data.zcln.txt 1
+data.zcsu.txt 2
+data.zdro.txt 3

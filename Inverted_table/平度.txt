@@ -1,0 +1,9 @@
+8
+data.ft.txt 1
+data.hp.txt 1
+data.zako.txt 2
+data.zalt.txt 5
+data.zapl.txt 3
+data.zawb.txt 1
+data.zelt.txt 3
+data.zfai.txt 1

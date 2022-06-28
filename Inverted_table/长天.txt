@@ -1,0 +1,10 @@
+9
+data.bb.txt 1
+data.cq.txt 2
+data.tz.txt 2
+data.zamp.txt 4
+data.zaop.txt 1
+data.zaxj.txt 2
+data.zcrg.txt 2
+data.zdme.txt 1
+data.zfas.txt 1

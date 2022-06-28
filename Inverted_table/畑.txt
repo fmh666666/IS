@@ -1,0 +1,12 @@
+11
+data.mk.txt 3
+data.mo.txt 2
+data.mu.txt 1
+data.zajr.txt 1
+data.zall.txt 1
+data.zate.txt 1
+data.zavg.txt 1
+data.zbdb.txt 1
+data.zccx.txt 1
+data.zcic.txt 1
+data.zeva.txt 1

@@ -1,0 +1,4 @@
+3
+data.zayc.txt 1
+data.zbot.txt 1
+data.zdyv.txt 1

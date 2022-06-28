@@ -1,0 +1,9 @@
+8
+data.bs.txt 1
+data.ry.txt 7
+data.zavx.txt 1
+data.zazn.txt 1
+data.zdof.txt 1
+data.zenw.txt 1
+data.zexk.txt 4
+data.zfae.txt 2

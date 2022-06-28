@@ -1,0 +1,7 @@
+6
+data.zafe.txt 2
+data.zayd.txt 1
+data.zbyb.txt 1
+data.zdep.txt 1
+data.zeaf.txt 35
+data.zeag.txt 5

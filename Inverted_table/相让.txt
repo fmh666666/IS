@@ -1,0 +1,7 @@
+6
+data.zaoo.txt 1
+data.zaxp.txt 1
+data.zbwa.txt 1
+data.zbyv.txt 1
+data.zedk.txt 1
+data.zevq.txt 1

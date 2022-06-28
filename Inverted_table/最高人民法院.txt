@@ -1,0 +1,19 @@
+18
+data.fp.txt 2
+data.gw.txt 1
+data.op.txt 1
+data.zaic.txt 1
+data.zaim.txt 1
+data.zawb.txt 1
+data.zbux.txt 1
+data.zcdg.txt 1
+data.zcdy.txt 2
+data.zcpb.txt 1
+data.zcpc.txt 6
+data.zcue.txt 1
+data.zdcj.txt 1
+data.zdou.txt 1
+data.zebf.txt 2
+data.zeds.txt 1
+data.zenn.txt 1
+data.zess.txt 1

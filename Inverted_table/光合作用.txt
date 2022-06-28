@@ -1,0 +1,19 @@
+18
+data.ka.txt 1
+data.to.txt 1
+data.zalm.txt 1
+data.zavx.txt 2
+data.zbbt.txt 1
+data.zbmw.txt 1
+data.zbzf.txt 2
+data.zcef.txt 1
+data.zcic.txt 1
+data.zcls.txt 1
+data.zcts.txt 1
+data.zdkc.txt 1
+data.zeai.txt 1
+data.zeaj.txt 1
+data.zefu.txt 1
+data.zeil.txt 2
+data.zfai.txt 1
+data.zfcj.txt 2

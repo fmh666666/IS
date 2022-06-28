@@ -1,0 +1,5 @@
+4
+data.zaun.txt 2
+data.zbeb.txt 1
+data.zcmy.txt 4
+data.zeid.txt 1

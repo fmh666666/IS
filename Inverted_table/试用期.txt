@@ -1,0 +1,11 @@
+10
+data.zacw.txt 1
+data.zcdz.txt 1
+data.zcmy.txt 1
+data.zdaq.txt 27
+data.zdar.txt 38
+data.zddx.txt 1
+data.zdnc.txt 1
+data.zdpw.txt 1
+data.zevl.txt 1
+data.zexx.txt 2

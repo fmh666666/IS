@@ -1,0 +1,7 @@
+6
+data.qb.txt 1
+data.zalm.txt 1
+data.zazw.txt 1
+data.zbia.txt 2
+data.zcic.txt 1
+data.zdib.txt 1

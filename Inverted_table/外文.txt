@@ -1,0 +1,25 @@
+24
+data.ga.txt 1
+data.zasd.txt 8
+data.zasw.txt 1
+data.zaxj.txt 1
+data.zazn.txt 1
+data.zazx.txt 1
+data.zbfp.txt 1
+data.zbfz.txt 1
+data.zbsu.txt 1
+data.zbts.txt 1
+data.zbxw.txt 2
+data.zbxy.txt 1
+data.zbzg.txt 1
+data.zcpc.txt 1
+data.zcxq.txt 1
+data.zdkk.txt 1
+data.zdrq.txt 1
+data.zdwv.txt 1
+data.zdzg.txt 1
+data.zeai.txt 1
+data.zefu.txt 1
+data.zehj.txt 1
+data.zelt.txt 2
+data.zeva.txt 1

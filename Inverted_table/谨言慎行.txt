@@ -1,0 +1,14 @@
+13
+data.be.txt 1
+data.ft.txt 1
+data.zabe.txt 2
+data.zapl.txt 2
+data.zasw.txt 1
+data.zbtj.txt 1
+data.zccl.txt 1
+data.zcic.txt 1
+data.zcmy.txt 1
+data.zcon.txt 1
+data.zdgv.txt 1
+data.zdoc.txt 1
+data.zdqz.txt 1

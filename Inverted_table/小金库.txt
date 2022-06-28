@@ -1,0 +1,9 @@
+8
+data.zcej.txt 3
+data.zcem.txt 4
+data.zcfn.txt 1
+data.zcvq.txt 1
+data.zdqx.txt 4
+data.zefd.txt 4
+data.zene.txt 2
+data.zewv.txt 4

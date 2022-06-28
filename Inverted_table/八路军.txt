@@ -1,0 +1,11 @@
+10
+data.op.txt 1
+data.zabe.txt 1
+data.zajo.txt 1
+data.zaxp.txt 2
+data.zbpx.txt 1
+data.zcdg.txt 2
+data.zcpa.txt 1
+data.zdzm.txt 1
+data.zeai.txt 1
+data.zenw.txt 1

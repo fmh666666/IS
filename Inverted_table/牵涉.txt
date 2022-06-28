@@ -1,0 +1,13 @@
+12
+data.ga.txt 1
+data.op.txt 1
+data.zahd.txt 1
+data.zawu.txt 2
+data.zbeb.txt 1
+data.zcdy.txt 1
+data.zcse.txt 1
+data.zdzn.txt 1
+data.zeec.txt 2
+data.zene.txt 1
+data.zexv.txt 1
+data.zfai.txt 1

@@ -1,0 +1,17 @@
+16
+data.op.txt 2
+data.zalm.txt 3
+data.zbha.txt 1
+data.zbkj.txt 1
+data.zblq.txt 1
+data.zbpp.txt 1
+data.zbvf.txt 4
+data.zcpx.txt 1
+data.zcxq.txt 4
+data.zcyv.txt 1
+data.zdkp.txt 1
+data.zdpw.txt 1
+data.zduo.txt 1
+data.zebn.txt 7
+data.zegl.txt 1
+data.zezm.txt 1

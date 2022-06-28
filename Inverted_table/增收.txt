@@ -1,0 +1,6 @@
+5
+data.gw.txt 1
+data.zawo.txt 1
+data.zcdy.txt 1
+data.zdep.txt 3
+data.zelt.txt 1

@@ -1,0 +1,9 @@
+8
+data.bb.txt 1
+data.ha.txt 1
+data.zagr.txt 2
+data.zaoy.txt 1
+data.zbtx.txt 1
+data.zdju.txt 1
+data.zdlo.txt 1
+data.zelt.txt 1

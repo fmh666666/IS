@@ -1,0 +1,11 @@
+10
+data.gk.txt 2
+data.ka.txt 1
+data.yx.txt 1
+data.zaim.txt 3
+data.zaoo.txt 1
+data.zbaf.txt 1
+data.zbel.txt 3
+data.zeaj.txt 1
+data.zexx.txt 1
+data.zfdk.txt 1

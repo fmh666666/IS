@@ -1,0 +1,19 @@
+18
+data.mx.txt 1
+data.uz.txt 3
+data.zako.txt 1
+data.zavx.txt 2
+data.zaxj.txt 1
+data.zaxp.txt 1
+data.zbvn.txt 1
+data.zbxy.txt 1
+data.zcfn.txt 1
+data.zchd.txt 2
+data.zcjy.txt 1
+data.zcsu.txt 2
+data.zctp.txt 1
+data.zduk.txt 1
+data.zdwl.txt 1
+data.zefw.txt 1
+data.zemf.txt 1
+data.zeqv.txt 1

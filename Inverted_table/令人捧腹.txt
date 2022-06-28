@@ -1,0 +1,15 @@
+14
+data.co.txt 4
+data.cq.txt 1
+data.kt.txt 1
+data.ok.txt 1
+data.zacd.txt 1
+data.zawm.txt 1
+data.zbzf.txt 1
+data.zcee.txt 1
+data.zdkp.txt 3
+data.zebf.txt 1
+data.zedd.txt 1
+data.zelt.txt 1
+data.zety.txt 1
+data.zevl.txt 1

@@ -1,0 +1,7 @@
+6
+data.qb.txt 1
+data.zbga.txt 1
+data.zbsf.txt 1
+data.zbut.txt 1
+data.zdpz.txt 1
+data.zexk.txt 2

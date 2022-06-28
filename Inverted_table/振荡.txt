@@ -1,0 +1,4 @@
+3
+data.uz.txt 1
+data.zbhd.txt 2
+data.zbkv.txt 1

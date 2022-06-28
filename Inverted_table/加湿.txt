@@ -1,0 +1,9 @@
+8
+data.zawo.txt 1
+data.zbkr.txt 1
+data.zbye.txt 1
+data.zcbm.txt 1
+data.zcts.txt 1
+data.zcvt.txt 1
+data.zdwk.txt 2
+data.zenn.txt 4

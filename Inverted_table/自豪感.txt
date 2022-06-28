@@ -1,0 +1,13 @@
+12
+data.ng.txt 1
+data.zabe.txt 1
+data.zafq.txt 1
+data.zapl.txt 2
+data.zazw.txt 1
+data.zbse.txt 1
+data.zbsl.txt 1
+data.zcby.txt 1
+data.zcdy.txt 1
+data.zdar.txt 1
+data.zeai.txt 1
+data.zexv.txt 1

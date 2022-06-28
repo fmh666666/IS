@@ -1,0 +1,12 @@
+11
+data.mo.txt 1
+data.ng.txt 1
+data.zdds.txt 2
+data.zddv.txt 1
+data.zdlg.txt 1
+data.zdoq.txt 1
+data.zdyv.txt 1
+data.zeel.txt 1
+data.zeid.txt 10
+data.zexm.txt 1
+data.zfbr.txt 1

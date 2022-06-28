@@ -1,0 +1,6 @@
+5
+data.zacp.txt 2
+data.zaoy.txt 1
+data.zddm.txt 2
+data.zdoq.txt 3
+data.zdou.txt 1

@@ -1,0 +1,9 @@
+8
+data.op.txt 2
+data.to.txt 1
+data.zafi.txt 1
+data.zasd.txt 2
+data.zbzf.txt 1
+data.zdzn.txt 1
+data.zecf.txt 1
+data.zezn.txt 1

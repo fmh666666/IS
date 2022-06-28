@@ -1,0 +1,12 @@
+11
+data.hu.txt 1
+data.ry.txt 1
+data.zapr.txt 1
+data.zawo.txt 1
+data.zbbt.txt 1
+data.zcem.txt 2
+data.zcxr.txt 1
+data.zczl.txt 1
+data.zddv.txt 1
+data.zdme.txt 1
+data.zduo.txt 3

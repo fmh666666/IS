@@ -1,0 +1,7 @@
+6
+data.zbkf.txt 3
+data.zcao.txt 1
+data.zcls.txt 4
+data.zeva.txt 1
+data.zevl.txt 4
+data.zewv.txt 4

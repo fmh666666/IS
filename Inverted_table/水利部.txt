@@ -1,0 +1,8 @@
+7
+data.zawu.txt 2
+data.zbgu.txt 2
+data.zbsm.txt 2
+data.zcda.txt 3
+data.zczp.txt 1
+data.zfai.txt 1
+data.zfaj.txt 1

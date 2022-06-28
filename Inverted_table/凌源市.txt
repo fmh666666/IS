@@ -1,0 +1,4 @@
+3
+data.zawu.txt 1
+data.zbua.txt 1
+data.zfaj.txt 1

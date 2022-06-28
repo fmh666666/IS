@@ -1,0 +1,11 @@
+10
+data.zadv.txt 2
+data.zafq.txt 1
+data.zawc.txt 3
+data.zccx.txt 3
+data.zcoy.txt 3
+data.zdgt.txt 3
+data.zdkv.txt 3
+data.zdoq.txt 2
+data.zduc.txt 3
+data.zfaz.txt 3

@@ -1,0 +1,6 @@
+5
+data.zcby.txt 3
+data.zcwn.txt 1
+data.zdji.txt 3
+data.zezm.txt 4
+data.zezn.txt 1

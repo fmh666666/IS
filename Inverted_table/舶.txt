@@ -1,0 +1,9 @@
+8
+data.gw.txt 2
+data.hz.txt 1
+data.zbeb.txt 1
+data.zbhv.txt 12
+data.zbkr.txt 6
+data.zcgi.txt 2
+data.zeez.txt 1
+data.zerw.txt 3

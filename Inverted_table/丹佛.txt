@@ -1,0 +1,13 @@
+12
+data.bs.txt 1
+data.nh.txt 1
+data.zafu.txt 1
+data.zagr.txt 2
+data.zawc.txt 1
+data.zbnx.txt 4
+data.zbvm.txt 1
+data.zctp.txt 1
+data.zdeb.txt 1
+data.zdep.txt 2
+data.zdgt.txt 1
+data.zene.txt 1

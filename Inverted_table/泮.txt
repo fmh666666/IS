@@ -1,0 +1,14 @@
+13
+data.op.txt 1
+data.ye.txt 17
+data.zafq.txt 1
+data.zaic.txt 1
+data.zasj.txt 1
+data.zazg.txt 2
+data.zbdx.txt 3
+data.zbsd.txt 1
+data.zbut.txt 1
+data.zcak.txt 1
+data.zcgi.txt 1
+data.zesq.txt 1
+data.zezh.txt 1

@@ -1,0 +1,11 @@
+10
+data.aj.txt 1
+data.sq.txt 1
+data.zabx.txt 1
+data.zahp.txt 1
+data.zcem.txt 1
+data.zdwk.txt 1
+data.zebc.txt 3
+data.zedk.txt 1
+data.zeds.txt 1
+data.zexm.txt 1

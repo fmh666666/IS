@@ -1,0 +1,12 @@
+11
+data.hp.txt 4
+data.kt.txt 1
+data.zako.txt 1
+data.zarr.txt 1
+data.zavg.txt 1
+data.zbsm.txt 2
+data.zbut.txt 2
+data.zdwn.txt 1
+data.zebc.txt 1
+data.zewp.txt 1
+data.zezy.txt 2

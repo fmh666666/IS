@@ -1,0 +1,15 @@
+14
+data.hg.txt 1
+data.mk.txt 1
+data.pa.txt 1
+data.tj.txt 1
+data.uz.txt 1
+data.zajo.txt 1
+data.zasr.txt 1
+data.zaxk.txt 2
+data.zbsf.txt 1
+data.zbvn.txt 1
+data.zcku.txt 1
+data.zdcj.txt 1
+data.zeoh.txt 2
+data.zeta.txt 1

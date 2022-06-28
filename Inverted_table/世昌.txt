@@ -1,0 +1,9 @@
+8
+data.zalc.txt 3
+data.zaqr.txt 1
+data.zawz.txt 2
+data.zbfp.txt 1
+data.zcis.txt 1
+data.zene.txt 2
+data.zeoh.txt 1
+data.zfcg.txt 1

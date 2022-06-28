@@ -1,0 +1,5 @@
+4
+data.zbia.txt 1
+data.zbyv.txt 1
+data.zcrv.txt 1
+data.zdzm.txt 1

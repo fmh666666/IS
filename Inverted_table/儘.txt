@@ -1,0 +1,27 @@
+26
+data.cz.txt 1
+data.ek.txt 1
+data.op.txt 1
+data.zaej.txt 1
+data.zagr.txt 1
+data.zalc.txt 1
+data.zall.txt 1
+data.zass.txt 1
+data.zate.txt 2
+data.zaxp.txt 1
+data.zaxx.txt 1
+data.zbes.txt 1
+data.zbvp.txt 3
+data.zcby.txt 1
+data.zcef.txt 1
+data.zcli.txt 1
+data.zcwq.txt 1
+data.zcxq.txt 1
+data.zcyv.txt 1
+data.zczp.txt 2
+data.zdey.txt 1
+data.zdmw.txt 1
+data.zeay.txt 1
+data.zefw.txt 1
+data.zekw.txt 1
+data.zeqn.txt 2

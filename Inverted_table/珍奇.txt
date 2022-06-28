@@ -1,0 +1,8 @@
+7
+data.gw.txt 2
+data.kt.txt 1
+data.zafu.txt 1
+data.zarc.txt 3
+data.zawb.txt 1
+data.zdeb.txt 1
+data.zdpz.txt 1

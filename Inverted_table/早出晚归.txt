@@ -1,0 +1,9 @@
+8
+data.sq.txt 1
+data.zabj.txt 1
+data.zazg.txt 1
+data.zbre.txt 1
+data.zbuj.txt 1
+data.zdll.txt 1
+data.zefv.txt 1
+data.zezm.txt 1

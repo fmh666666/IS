@@ -1,0 +1,8 @@
+7
+data.zbcj.txt 2
+data.zbdb.txt 1
+data.zcbe.txt 1
+data.zcdv.txt 2
+data.zdar.txt 1
+data.zdmw.txt 1
+data.zeva.txt 1

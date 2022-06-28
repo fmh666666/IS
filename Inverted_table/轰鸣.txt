@@ -1,0 +1,19 @@
+18
+data.cz.txt 1
+data.dg.txt 1
+data.vi.txt 2
+data.zafk.txt 1
+data.zaim.txt 1
+data.zane.txt 1
+data.zaqr.txt 2
+data.zass.txt 1
+data.zbjk.txt 1
+data.zbpc.txt 1
+data.zcel.txt 1
+data.zcih.txt 1
+data.zdga.txt 1
+data.zdgt.txt 1
+data.zdle.txt 1
+data.zeds.txt 1
+data.zehj.txt 1
+data.zexm.txt 1

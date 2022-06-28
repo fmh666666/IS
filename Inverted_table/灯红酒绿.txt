@@ -1,0 +1,19 @@
+18
+data.bb.txt 1
+data.zabe.txt 2
+data.zazg.txt 1
+data.zbdb.txt 1
+data.zbia.txt 1
+data.zbor.txt 1
+data.zcee.txt 1
+data.zcgi.txt 1
+data.zcon.txt 1
+data.zdgo.txt 1
+data.zdju.txt 1
+data.zdkk.txt 2
+data.zdkp.txt 1
+data.zdlw.txt 1
+data.zduc.txt 1
+data.zdwz.txt 1
+data.zeqn.txt 1
+data.zewn.txt 2

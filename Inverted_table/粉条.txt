@@ -1,0 +1,16 @@
+15
+data.hu.txt 2
+data.tv.txt 1
+data.zako.txt 3
+data.zapl.txt 1
+data.zate.txt 1
+data.zawu.txt 1
+data.zazw.txt 1
+data.zbbt.txt 1
+data.zbjk.txt 1
+data.zcsu.txt 1
+data.zdhv.txt 1
+data.zdzn.txt 1
+data.zeew.txt 1
+data.zefp.txt 1
+data.zeoh.txt 1

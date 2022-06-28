@@ -1,0 +1,7 @@
+6
+data.zaet.txt 1
+data.zaop.txt 1
+data.zavx.txt 287
+data.zawu.txt 2
+data.zdlm.txt 1
+data.zehp.txt 4

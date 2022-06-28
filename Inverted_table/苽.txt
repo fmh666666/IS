@@ -1,0 +1,4 @@
+3
+data.zbgd.txt 1
+data.zbmw.txt 2
+data.zbye.txt 1

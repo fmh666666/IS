@@ -1,0 +1,7 @@
+6
+data.ew.txt 1
+data.zamr.txt 1
+data.zawc.txt 1
+data.zbcc.txt 1
+data.zblh.txt 1
+data.zene.txt 1

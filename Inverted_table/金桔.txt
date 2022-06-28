@@ -1,0 +1,16 @@
+15
+data.kt.txt 2
+data.pq.txt 1
+data.zabx.txt 1
+data.zajh.txt 1
+data.zane.txt 1
+data.zapl.txt 1
+data.zauy.txt 2
+data.zbjq.txt 1
+data.zbre.txt 2
+data.zbta.txt 1
+data.zcpc.txt 1
+data.zdgo.txt 1
+data.zdou.txt 1
+data.zdvl.txt 3
+data.zelt.txt 3

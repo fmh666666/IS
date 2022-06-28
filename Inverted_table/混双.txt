@@ -1,0 +1,13 @@
+12
+data.zair.txt 3
+data.zaun.txt 1
+data.zbcj.txt 2
+data.zcmx.txt 4
+data.zdcw.txt 1
+data.zdlw.txt 2
+data.zdmw.txt 1
+data.zduk.txt 4
+data.zdwl.txt 4
+data.zebv.txt 1
+data.zeqv.txt 1
+data.zexm.txt 2

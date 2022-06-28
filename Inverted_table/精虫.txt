@@ -1,0 +1,5 @@
+4
+data.ek.txt 1
+data.zamp.txt 1
+data.zejk.txt 1
+data.zene.txt 1

@@ -1,0 +1,25 @@
+24
+data.en.txt 1
+data.ha.txt 1
+data.ka.txt 1
+data.mt.txt 1
+data.nh.txt 1
+data.wc.txt 2
+data.zafe.txt 2
+data.zbel.txt 1
+data.zbfp.txt 1
+data.zbfr.txt 1
+data.zbre.txt 1
+data.zbsd.txt 1
+data.zbvm.txt 3
+data.zbzg.txt 1
+data.zcdy.txt 3
+data.zcdz.txt 3
+data.zcis.txt 1
+data.zcll.txt 1
+data.zclm.txt 2
+data.zdgv.txt 1
+data.zedo.txt 1
+data.zefw.txt 1
+data.zelt.txt 2
+data.zfdk.txt 1

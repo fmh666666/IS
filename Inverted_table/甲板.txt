@@ -1,0 +1,14 @@
+13
+data.ha.txt 2
+data.qb.txt 1
+data.zaic.txt 1
+data.zawb.txt 1
+data.zawu.txt 1
+data.zbkf.txt 1
+data.zbpx.txt 1
+data.zbta.txt 1
+data.zcao.txt 1
+data.zcih.txt 1
+data.zcrg.txt 1
+data.zexu.txt 2
+data.zfai.txt 2

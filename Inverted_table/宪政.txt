@@ -1,0 +1,19 @@
+18
+data.fp.txt 3
+data.ga.txt 2
+data.hp.txt 1
+data.ok.txt 2
+data.op.txt 37
+data.yx.txt 1
+data.zaim.txt 1
+data.zajo.txt 1
+data.zawb.txt 1
+data.zbcj.txt 1
+data.zblr.txt 1
+data.zcdz.txt 2
+data.zcmy.txt 3
+data.zdju.txt 3
+data.zeoo.txt 4
+data.zeqv.txt 1
+data.zevq.txt 4
+data.zfaj.txt 1

@@ -1,0 +1,16 @@
+15
+data.mt.txt 1
+data.qn.txt 1
+data.zajn.txt 1
+data.zaxk.txt 1
+data.zcgo.txt 1
+data.zcic.txt 1
+data.zdaq.txt 2
+data.zdar.txt 2
+data.zdep.txt 1
+data.zdmw.txt 1
+data.zeqv.txt 1
+data.zerv.txt 1
+data.zeva.txt 1
+data.zezn.txt 1
+data.zfaj.txt 1

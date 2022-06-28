@@ -1,0 +1,21 @@
+20
+data.ew.txt 1
+data.hg.txt 1
+data.hz.txt 10
+data.jf.txt 2
+data.kq.txt 1
+data.vm.txt 3
+data.zaic.txt 1
+data.zako.txt 1
+data.zanh.txt 1
+data.zazg.txt 1
+data.zbdx.txt 2
+data.zbla.txt 1
+data.zbux.txt 2
+data.zcmx.txt 1
+data.zcoy.txt 1
+data.zdlm.txt 1
+data.zdou.txt 2
+data.zdyv.txt 1
+data.zeez.txt 1
+data.zenn.txt 1

@@ -1,0 +1,9 @@
+8
+data.yx.txt 1
+data.zarc.txt 1
+data.zaub.txt 1
+data.zawb.txt 1
+data.zclh.txt 17
+data.zcli.txt 1
+data.zduk.txt 3
+data.zeac.txt 1

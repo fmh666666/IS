@@ -1,0 +1,15 @@
+14
+data.ew.txt 1
+data.hg.txt 1
+data.kt.txt 1
+data.zadv.txt 2
+data.zanm.txt 1
+data.zbgu.txt 3
+data.zbil.txt 1
+data.zbvm.txt 1
+data.zcdg.txt 2
+data.zcdv.txt 1
+data.zduk.txt 1
+data.zejn.txt 2
+data.zeos.txt 1
+data.zesi.txt 1

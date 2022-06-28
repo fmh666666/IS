@@ -1,0 +1,18 @@
+17
+data.cz.txt 1
+data.ew.txt 1
+data.pa.txt 1
+data.zabx.txt 38
+data.zaoy.txt 1
+data.zarc.txt 1
+data.zawu.txt 1
+data.zbpm.txt 1
+data.zbwq.txt 1
+data.zcel.txt 1
+data.zddp.txt 1
+data.zdmw.txt 1
+data.zeew.txt 1
+data.zefd.txt 5
+data.zerv.txt 3
+data.zfai.txt 53
+data.zfaj.txt 42

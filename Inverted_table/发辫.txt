@@ -1,0 +1,7 @@
+6
+data.hc.txt 2
+data.vi.txt 1
+data.zazo.txt 1
+data.zcby.txt 1
+data.zcft.txt 2
+data.zcgo.txt 1

@@ -1,0 +1,8 @@
+7
+data.zalj.txt 1
+data.zawc.txt 1
+data.zbfr.txt 1
+data.zbil.txt 1
+data.zbpc.txt 1
+data.zdgv.txt 1
+data.zewg.txt 1

@@ -1,0 +1,22 @@
+21
+data.mu.txt 2
+data.uz.txt 2
+data.xk.txt 1
+data.zalc.txt 4
+data.zall.txt 2
+data.zawz.txt 4
+data.zaxx.txt 1
+data.zbjk.txt 2
+data.zbsf.txt 1
+data.zcfx.txt 1
+data.zcli.txt 1
+data.zdcw.txt 1
+data.zdib.txt 2
+data.zdic.txt 1
+data.zdle.txt 1
+data.zdwk.txt 1
+data.zebv.txt 1
+data.zedk.txt 1
+data.zegl.txt 1
+data.zeyy.txt 1
+data.zfdk.txt 2

@@ -1,0 +1,2 @@
+1
+data.zajn.txt 2

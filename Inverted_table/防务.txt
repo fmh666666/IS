@@ -1,0 +1,12 @@
+11
+data.hg.txt 2
+data.to.txt 2
+data.zamr.txt 2
+data.zasq.txt 4
+data.zbsm.txt 3
+data.zcmy.txt 1
+data.zcue.txt 1
+data.zedx.txt 2
+data.zedy.txt 2
+data.zety.txt 2
+data.zfdk.txt 1

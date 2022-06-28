@@ -1,0 +1,17 @@
+16
+data.gw.txt 1
+data.hp.txt 2
+data.ud.txt 4
+data.zaqr.txt 1
+data.zarr.txt 2
+data.zasw.txt 1
+data.zawb.txt 1
+data.zbqu.txt 1
+data.zbye.txt 1
+data.zcse.txt 1
+data.zctp.txt 4
+data.zdaw.txt 1
+data.zdod.txt 2
+data.zdpw.txt 2
+data.zeun.txt 1
+data.zezh.txt 2

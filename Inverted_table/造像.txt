@@ -1,0 +1,10 @@
+9
+data.fp.txt 1
+data.jf.txt 3
+data.zasd.txt 1
+data.zawc.txt 3
+data.zbgd.txt 1
+data.zblq.txt 2
+data.zbzg.txt 1
+data.zdeb.txt 1
+data.zexk.txt 3

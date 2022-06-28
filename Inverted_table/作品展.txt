@@ -1,0 +1,27 @@
+26
+data.co.txt 4
+data.mi.txt 8
+data.ye.txt 1
+data.zacd.txt 2
+data.zagr.txt 1
+data.zaim.txt 2
+data.zajo.txt 4
+data.zamp.txt 2
+data.zamr.txt 1
+data.zasd.txt 1
+data.zbla.txt 2
+data.zbrj.txt 2
+data.zcic.txt 1
+data.zcjo.txt 1
+data.zcrg.txt 1
+data.zcxh.txt 1
+data.zczl.txt 1
+data.zdeq.txt 1
+data.zdgt.txt 1
+data.zduo.txt 1
+data.zdxw.txt 2
+data.zdzm.txt 3
+data.zeds.txt 1
+data.zeeh.txt 1
+data.zevq.txt 1
+data.zfcp.txt 1

@@ -1,0 +1,24 @@
+23
+data.cz.txt 1
+data.mx.txt 1
+data.zafu.txt 4
+data.zawm.txt 2
+data.zbcc.txt 8
+data.zbcj.txt 3
+data.zbdx.txt 3
+data.zbeb.txt 2
+data.zbhe.txt 1
+data.zbmw.txt 1
+data.zbot.txt 1
+data.zbsd.txt 2
+data.zcoy.txt 1
+data.zcpc.txt 1
+data.zcse.txt 1
+data.zcxh.txt 1
+data.zdbf.txt 1
+data.zdil.txt 1
+data.zdkk.txt 1
+data.zdof.txt 1
+data.zdwv.txt 1
+data.zeaj.txt 1
+data.zemb.txt 5

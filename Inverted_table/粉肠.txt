@@ -1,0 +1,17 @@
+16
+data.mx.txt 1
+data.ng.txt 1
+data.zaej.txt 1
+data.zanh.txt 4
+data.zbga.txt 1
+data.zbre.txt 1
+data.zcjy.txt 3
+data.zclh.txt 3
+data.zddb.txt 1
+data.zdeq.txt 1
+data.zdmw.txt 1
+data.zdnc.txt 1
+data.zdpz.txt 1
+data.zejk.txt 2
+data.zejn.txt 1
+data.zekw.txt 1

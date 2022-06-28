@@ -1,0 +1,22 @@
+21
+data.ry.txt 1
+data.zake.txt 3
+data.zalm.txt 1
+data.zaqw.txt 1
+data.zate.txt 2
+data.zbcc.txt 1
+data.zbga.txt 1
+data.zbsu.txt 8
+data.zcfn.txt 3
+data.zcic.txt 3
+data.zdby.txt 1
+data.zdep.txt 1
+data.zdey.txt 2
+data.zdkp.txt 1
+data.zdof.txt 1
+data.zdrq.txt 5
+data.zduo.txt 1
+data.zegk.txt 2
+data.zegl.txt 9
+data.zegn.txt 9
+data.zesq.txt 2

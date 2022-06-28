@@ -1,0 +1,9 @@
+8
+data.be.txt 3
+data.tv.txt 1
+data.zafq.txt 1
+data.zaxj.txt 1
+data.zaxp.txt 1
+data.zbfx.txt 1
+data.zbre.txt 1
+data.zeoh.txt 1

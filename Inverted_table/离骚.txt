@@ -1,0 +1,7 @@
+6
+data.ft.txt 1
+data.ka.txt 2
+data.mt.txt 1
+data.zcqp.txt 1
+data.zdtv.txt 1
+data.zesq.txt 1

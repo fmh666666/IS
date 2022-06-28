@@ -1,0 +1,15 @@
+14
+data.ga.txt 1
+data.hp.txt 1
+data.op.txt 1
+data.zavx.txt 2
+data.zawb.txt 1
+data.zazn.txt 1
+data.zbkv.txt 1
+data.zcbe.txt 1
+data.zcmx.txt 2
+data.zcse.txt 2
+data.zcuh.txt 1
+data.zdeq.txt 2
+data.zdzm.txt 1
+data.zelt.txt 2

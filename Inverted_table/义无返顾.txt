@@ -1,0 +1,7 @@
+6
+data.zbsm.txt 1
+data.zeai.txt 1
+data.zeaj.txt 2
+data.zeew.txt 1
+data.zexu.txt 1
+data.zfbr.txt 1

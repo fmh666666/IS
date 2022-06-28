@@ -1,0 +1,18 @@
+17
+data.by.txt 1
+data.op.txt 1
+data.zafq.txt 1
+data.zahd.txt 3
+data.zajo.txt 4
+data.zatz.txt 1
+data.zbsm.txt 1
+data.zcem.txt 1
+data.zcih.txt 1
+data.zdds.txt 2
+data.zdju.txt 1
+data.zdlm.txt 1
+data.zdou.txt 2
+data.zduk.txt 3
+data.zdzm.txt 1
+data.zecf.txt 1
+data.zfaj.txt 2

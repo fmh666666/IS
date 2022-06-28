@@ -1,0 +1,7 @@
+6
+data.zayv.txt 3
+data.zbut.txt 2
+data.zcll.txt 2
+data.zctm.txt 3
+data.zevl.txt 3
+data.zewv.txt 3

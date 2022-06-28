@@ -1,0 +1,18 @@
+17
+data.ud.txt 1
+data.zafu.txt 2
+data.zajo.txt 1
+data.zaqf.txt 1
+data.zass.txt 2
+data.zasw.txt 1
+data.zbeb.txt 3
+data.zbsu.txt 1
+data.zbvn.txt 1
+data.zcaq.txt 1
+data.zdib.txt 2
+data.zdux.txt 2
+data.zejk.txt 10
+data.zejn.txt 10
+data.zemb.txt 1
+data.zeoo.txt 1
+data.zeqn.txt 1

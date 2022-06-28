@@ -1,0 +1,8 @@
+7
+data.gw.txt 2
+data.wg.txt 1
+data.zawb.txt 1
+data.zcmx.txt 1
+data.zczp.txt 1
+data.zdst.txt 1
+data.zess.txt 1

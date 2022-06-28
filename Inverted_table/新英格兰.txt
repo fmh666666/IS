@@ -1,0 +1,9 @@
+8
+data.ka.txt 1
+data.zagr.txt 1
+data.zawb.txt 1
+data.zazn.txt 1
+data.zcem.txt 1
+data.zcrv.txt 2
+data.zefp.txt 1
+data.zewg.txt 1

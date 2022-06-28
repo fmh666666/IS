@@ -1,0 +1,19 @@
+18
+data.dg.txt 1
+data.ev.txt 1
+data.pa.txt 2
+data.zaet.txt 4
+data.zagb.txt 1
+data.zawc.txt 1
+data.zbcj.txt 1
+data.zbha.txt 1
+data.zcbe.txt 3
+data.zcgo.txt 2
+data.zciy.txt 1
+data.zdju.txt 1
+data.zdme.txt 1
+data.zdmw.txt 1
+data.zdoc.txt 2
+data.zdqk.txt 1
+data.zekw.txt 1
+data.zexu.txt 3

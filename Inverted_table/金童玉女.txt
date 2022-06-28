@@ -1,0 +1,7 @@
+6
+data.zbse.txt 1
+data.zduo.txt 2
+data.zdwl.txt 1
+data.zegn.txt 1
+data.zevq.txt 1
+data.zezn.txt 1

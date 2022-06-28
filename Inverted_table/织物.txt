@@ -1,0 +1,9 @@
+8
+data.gw.txt 1
+data.kt.txt 2
+data.zajo.txt 1
+data.zbfg.txt 1
+data.zcon.txt 1
+data.zcue.txt 1
+data.zczl.txt 2
+data.zegz.txt 1

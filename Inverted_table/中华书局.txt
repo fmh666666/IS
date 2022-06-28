@@ -1,0 +1,4 @@
+3
+data.zaxj.txt 20
+data.zaxk.txt 9
+data.zbla.txt 2

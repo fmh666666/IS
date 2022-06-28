@@ -1,0 +1,9 @@
+8
+data.dg.txt 2
+data.vz.txt 1
+data.zamr.txt 1
+data.zcaq.txt 1
+data.zdji.txt 1
+data.zdvl.txt 3
+data.zdwl.txt 2
+data.zelt.txt 1

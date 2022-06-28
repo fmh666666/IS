@@ -1,0 +1,13 @@
+12
+data.bb.txt 3
+data.fp.txt 2
+data.op.txt 1
+data.to.txt 1
+data.zahd.txt 1
+data.zbnp.txt 1
+data.zbpx.txt 1
+data.zbrj.txt 1
+data.zbsm.txt 5
+data.zcdz.txt 1
+data.zdpf.txt 1
+data.zfai.txt 3

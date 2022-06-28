@@ -1,0 +1,12 @@
+11
+data.ha.txt 1
+data.ka.txt 1
+data.pa.txt 1
+data.zavg.txt 1
+data.zcdl.txt 1
+data.zcko.txt 1
+data.zcmy.txt 1
+data.zdmw.txt 1
+data.zdnh.txt 1
+data.zeez.txt 1
+data.zeik.txt 1

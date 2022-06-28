@@ -1,0 +1,7 @@
+6
+data.pq.txt 1
+data.zafi.txt 1
+data.zbzf.txt 2
+data.zcsu.txt 1
+data.zcts.txt 3
+data.zdwz.txt 2

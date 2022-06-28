@@ -1,0 +1,6 @@
+5
+data.zbcv.txt 1
+data.zcgo.txt 1
+data.zcis.txt 1
+data.zdep.txt 1
+data.zfai.txt 1

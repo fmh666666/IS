@@ -1,0 +1,18 @@
+17
+data.fj.txt 1
+data.to.txt 1
+data.zagr.txt 3
+data.zbhd.txt 3
+data.zbjk.txt 1
+data.zbsm.txt 4
+data.zbua.txt 4
+data.zbut.txt 1
+data.zbvg.txt 1
+data.zcft.txt 1
+data.zcih.txt 2
+data.zcon.txt 1
+data.zcrn.txt 1
+data.zcts.txt 1
+data.zdaw.txt 1
+data.zdwn.txt 2
+data.zeyy.txt 1

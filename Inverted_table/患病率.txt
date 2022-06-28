@@ -1,0 +1,7 @@
+6
+data.aj.txt 1
+data.co.txt 2
+data.zbcj.txt 1
+data.zbds.txt 1
+data.zctp.txt 2
+data.zcts.txt 1

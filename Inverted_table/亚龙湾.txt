@@ -1,0 +1,19 @@
+18
+data.cq.txt 2
+data.hz.txt 5
+data.zasq.txt 2
+data.zbhv.txt 1
+data.zbmt.txt 1
+data.zbsm.txt 4
+data.zcll.txt 1
+data.zcrv.txt 1
+data.zctm.txt 2
+data.zdmw.txt 1
+data.zdro.txt 3
+data.zduk.txt 1
+data.zdvl.txt 1
+data.zedd.txt 1
+data.zeez.txt 1
+data.zefv.txt 3
+data.zeoo.txt 1
+data.zesi.txt 1

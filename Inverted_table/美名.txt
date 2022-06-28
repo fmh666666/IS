@@ -1,0 +1,13 @@
+12
+data.jj.txt 1
+data.op.txt 1
+data.qb.txt 2
+data.ry.txt 1
+data.zapl.txt 1
+data.zawu.txt 1
+data.zbhd.txt 2
+data.zbph.txt 1
+data.zbxw.txt 1
+data.zbxy.txt 1
+data.zdlw.txt 1
+data.zewd.txt 1

@@ -1,0 +1,7 @@
+6
+data.zaeh.txt 1
+data.zaoc.txt 2
+data.zczj.txt 1
+data.zdey.txt 1
+data.zdlo.txt 1
+data.zene.txt 1

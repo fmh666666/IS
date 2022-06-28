@@ -1,0 +1,14 @@
+13
+data.zabx.txt 2
+data.zacd.txt 1
+data.zajo.txt 4
+data.zbcj.txt 1
+data.zbfp.txt 1
+data.zbfr.txt 1
+data.zbrj.txt 3
+data.zcdg.txt 1
+data.zcse.txt 1
+data.zcyv.txt 2
+data.zdep.txt 1
+data.zdwn.txt 1
+data.zeoo.txt 1

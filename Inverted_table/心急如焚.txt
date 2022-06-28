@@ -1,0 +1,16 @@
+15
+data.fp.txt 2
+data.hg.txt 1
+data.jj.txt 1
+data.ry.txt 1
+data.zauy.txt 1
+data.zazo.txt 1
+data.zbtj.txt 1
+data.zcjo.txt 1
+data.zcsu.txt 1
+data.zdds.txt 1
+data.zduk.txt 1
+data.zene.txt 1
+data.zevt.txt 1
+data.zezn.txt 1
+data.zfai.txt 1

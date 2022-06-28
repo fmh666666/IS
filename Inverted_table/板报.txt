@@ -1,0 +1,7 @@
+6
+data.ye.txt 1
+data.zaqr.txt 1
+data.zazn.txt 1
+data.zbia.txt 1
+data.zbre.txt 2
+data.zcpx.txt 2

@@ -1,0 +1,16 @@
+15
+data.ga.txt 1
+data.op.txt 4
+data.zagr.txt 1
+data.zanh.txt 1
+data.zawc.txt 2
+data.zbpx.txt 2
+data.zcdg.txt 2
+data.zcni.txt 1
+data.zcse.txt 5
+data.zctn.txt 3
+data.zcue.txt 1
+data.zdgt.txt 3
+data.zeay.txt 2
+data.zezy.txt 2
+data.zfaj.txt 1

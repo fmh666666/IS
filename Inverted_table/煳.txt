@@ -1,0 +1,5 @@
+4
+data.qb.txt 2
+data.wg.txt 1
+data.zegn.txt 1
+data.zezy.txt 1

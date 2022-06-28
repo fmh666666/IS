@@ -1,0 +1,10 @@
+9
+data.ng.txt 1
+data.zafe.txt 1
+data.zafy.txt 1
+data.zaqw.txt 1
+data.zasd.txt 3
+data.zcsu.txt 2
+data.zdcw.txt 1
+data.zedk.txt 1
+data.zeel.txt 2

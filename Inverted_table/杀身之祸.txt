@@ -1,0 +1,6 @@
+5
+data.cf.txt 1
+data.fp.txt 1
+data.op.txt 2
+data.zabe.txt 1
+data.zcgi.txt 1

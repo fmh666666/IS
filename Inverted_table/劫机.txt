@@ -1,0 +1,17 @@
+16
+data.aj.txt 2
+data.op.txt 3
+data.pa.txt 1
+data.wc.txt 1
+data.zaej.txt 1
+data.zasq.txt 1
+data.zawc.txt 1
+data.zazg.txt 2
+data.zbaf.txt 1
+data.zbcj.txt 2
+data.zbds.txt 2
+data.zbpx.txt 2
+data.zduk.txt 2
+data.zedy.txt 3
+data.zfai.txt 12
+data.zfaj.txt 7

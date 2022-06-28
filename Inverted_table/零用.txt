@@ -1,0 +1,5 @@
+4
+data.zawz.txt 1
+data.zbga.txt 2
+data.zdic.txt 2
+data.zeec.txt 1

@@ -1,0 +1,8 @@
+7
+data.gw.txt 3
+data.zagr.txt 1
+data.zbcj.txt 3
+data.zcaq.txt 1
+data.zcts.txt 2
+data.zerv.txt 1
+data.zfai.txt 1

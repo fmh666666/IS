@@ -1,0 +1,4 @@
+3
+data.hu.txt 1
+data.zalj.txt 1
+data.zcem.txt 1

@@ -1,0 +1,7 @@
+6
+data.gw.txt 2
+data.hu.txt 2
+data.zcis.txt 1
+data.zcts.txt 1
+data.zdnc.txt 1
+data.zeve.txt 1

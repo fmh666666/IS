@@ -1,0 +1,13 @@
+12
+data.aj.txt 7
+data.sq.txt 3
+data.zanh.txt 32
+data.zbfd.txt 1
+data.zbls.txt 1
+data.zbsl.txt 1
+data.zbta.txt 1
+data.zcuh.txt 1
+data.zdkk.txt 7
+data.zeid.txt 1
+data.zenw.txt 1
+data.zesq.txt 2

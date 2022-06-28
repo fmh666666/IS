@@ -1,0 +1,16 @@
+15
+data.mx.txt 1
+data.nh.txt 2
+data.ok.txt 1
+data.tv.txt 1
+data.zabe.txt 1
+data.zadv.txt 1
+data.zane.txt 2
+data.zbbt.txt 1
+data.zbjk.txt 1
+data.zbla.txt 1
+data.zcnn.txt 1
+data.zcpc.txt 1
+data.zdpz.txt 1
+data.zeoh.txt 1
+data.zewg.txt 2

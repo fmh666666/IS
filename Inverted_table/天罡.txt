@@ -1,0 +1,12 @@
+11
+data.kq.txt 1
+data.pa.txt 1
+data.ry.txt 1
+data.tv.txt 3
+data.tz.txt 2
+data.zank.txt 1
+data.zazn.txt 1
+data.zdaa.txt 2
+data.zdcy.txt 4
+data.zdgv.txt 1
+data.zewn.txt 1

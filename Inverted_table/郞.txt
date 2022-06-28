@@ -1,0 +1,11 @@
+10
+data.ok.txt 1
+data.zasq.txt 4
+data.zazo.txt 1
+data.zbdx.txt 1
+data.zbmw.txt 1
+data.zbzf.txt 3
+data.zdhw.txt 1
+data.zdpz.txt 1
+data.zegn.txt 2
+data.zehb.txt 1

@@ -1,0 +1,7 @@
+6
+data.zbfx.txt 1
+data.zbfz.txt 1
+data.zdji.txt 1
+data.zerh.txt 2
+data.zevl.txt 1
+data.zezf.txt 1

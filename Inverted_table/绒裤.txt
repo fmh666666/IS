@@ -1,0 +1,5 @@
+4
+data.ee.txt 1
+data.zawu.txt 2
+data.zbru.txt 1
+data.zdme.txt 1

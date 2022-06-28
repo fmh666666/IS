@@ -1,0 +1,15 @@
+14
+data.gw.txt 1
+data.ud.txt 1
+data.zaim.txt 1
+data.zcdz.txt 1
+data.zcts.txt 2
+data.zdeb.txt 1
+data.zefp.txt 1
+data.zefu.txt 3
+data.zefv.txt 3
+data.zevl.txt 1
+data.zexv.txt 2
+data.zezm.txt 1
+data.zfae.txt 1
+data.zfai.txt 2

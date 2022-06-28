@@ -1,0 +1,7 @@
+6
+data.gw.txt 1
+data.zafe.txt 1
+data.zaub.txt 1
+data.zaxj.txt 1
+data.zaxk.txt 2
+data.zegz.txt 1

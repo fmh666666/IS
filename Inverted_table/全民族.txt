@@ -1,0 +1,9 @@
+8
+data.zbdb.txt 1
+data.zbla.txt 1
+data.zbsm.txt 1
+data.zcrn.txt 1
+data.zdaq.txt 1
+data.zdeb.txt 2
+data.zeun.txt 1
+data.zewd.txt 1

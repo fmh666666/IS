@@ -1,0 +1,4 @@
+3
+data.zawm.txt 1
+data.zbdx.txt 2
+data.zeil.txt 1

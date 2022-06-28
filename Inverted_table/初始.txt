@@ -1,0 +1,15 @@
+14
+data.kt.txt 1
+data.zabe.txt 1
+data.zacw.txt 1
+data.zafe.txt 1
+data.zalj.txt 1
+data.zard.txt 1
+data.zbph.txt 1
+data.zbrj.txt 1
+data.zcdy.txt 2
+data.zcts.txt 1
+data.zdof.txt 1
+data.zdwl.txt 1
+data.zelt.txt 1
+data.zfcp.txt 2

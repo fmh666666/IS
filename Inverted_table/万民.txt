@@ -1,0 +1,13 @@
+12
+data.fp.txt 1
+data.ga.txt 2
+data.ng.txt 1
+data.yx.txt 1
+data.zabe.txt 1
+data.zbdx.txt 2
+data.zbyb.txt 1
+data.zcao.txt 1
+data.zcon.txt 1
+data.zess.txt 1
+data.zewn.txt 1
+data.zfai.txt 1

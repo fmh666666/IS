@@ -1,0 +1,4 @@
+3
+data.zajo.txt 4
+data.zene.txt 4
+data.zenn.txt 1

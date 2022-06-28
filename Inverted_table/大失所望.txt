@@ -1,0 +1,7 @@
+6
+data.bb.txt 1
+data.zbga.txt 1
+data.zdcy.txt 1
+data.zdkc.txt 1
+data.zdwv.txt 2
+data.zerh.txt 1

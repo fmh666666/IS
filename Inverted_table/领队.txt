@@ -1,0 +1,25 @@
+24
+data.ev.txt 1
+data.ew.txt 4
+data.kt.txt 1
+data.ok.txt 1
+data.ye.txt 4
+data.yx.txt 1
+data.zabj.txt 1
+data.zacw.txt 1
+data.zadv.txt 1
+data.zafq.txt 1
+data.zajo.txt 1
+data.zanh.txt 1
+data.zbkf.txt 1
+data.zbxw.txt 1
+data.zbxy.txt 1
+data.zctn.txt 2
+data.zczl.txt 1
+data.zdaa.txt 1
+data.zdoq.txt 1
+data.zdwn.txt 1
+data.zelj.txt 2
+data.zelt.txt 3
+data.zerh.txt 3
+data.zesq.txt 1

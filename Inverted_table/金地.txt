@@ -1,0 +1,14 @@
+13
+data.nh.txt 1
+data.wc.txt 1
+data.zaet.txt 2
+data.zake.txt 1
+data.zamr.txt 4
+data.zaqf.txt 2
+data.zbzg.txt 1
+data.zcdy.txt 1
+data.zdeb.txt 3
+data.zdga.txt 1
+data.zdpz.txt 4
+data.zdux.txt 5
+data.zeac.txt 1

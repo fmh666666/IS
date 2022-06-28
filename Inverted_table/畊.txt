@@ -1,0 +1,17 @@
+16
+data.ff.txt 2
+data.mt.txt 2
+data.zajr.txt 1
+data.zaqp.txt 1
+data.zbfr.txt 1
+data.zbil.txt 2
+data.zbse.txt 1
+data.zbsf.txt 2
+data.zchd.txt 2
+data.zctp.txt 2
+data.zcxr.txt 1
+data.zdlm.txt 2
+data.zdnc.txt 1
+data.zedy.txt 1
+data.zejk.txt 2
+data.zerv.txt 2

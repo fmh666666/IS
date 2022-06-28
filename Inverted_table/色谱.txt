@@ -1,0 +1,9 @@
+8
+data.zamp.txt 2
+data.zaxk.txt 1
+data.zbds.txt 2
+data.zbzf.txt 1
+data.zczp.txt 1
+data.zdby.txt 1
+data.zdtr.txt 1
+data.zerh.txt 1

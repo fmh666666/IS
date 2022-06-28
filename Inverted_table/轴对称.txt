@@ -1,0 +1,4 @@
+3
+data.ew.txt 1
+data.kt.txt 4
+data.zeun.txt 1

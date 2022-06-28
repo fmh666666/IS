@@ -1,0 +1,18 @@
+17
+data.hp.txt 2
+data.mt.txt 1
+data.op.txt 1
+data.zafy.txt 1
+data.zazw.txt 1
+data.zbgu.txt 1
+data.zbia.txt 2
+data.zbjc.txt 1
+data.zbsl.txt 1
+data.zcis.txt 1
+data.zcon.txt 1
+data.zcsu.txt 1
+data.zdbf.txt 1
+data.zdeb.txt 1
+data.zdwl.txt 1
+data.zene.txt 4
+data.zfaj.txt 3

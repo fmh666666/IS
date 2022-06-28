@@ -1,0 +1,13 @@
+12
+data.mx.txt 1
+data.wc.txt 1
+data.zalj.txt 1
+data.zbbt.txt 1
+data.zbha.txt 1
+data.zbsm.txt 1
+data.zbuj.txt 1
+data.zbyb.txt 1
+data.zebn.txt 1
+data.zelt.txt 1
+data.zene.txt 2
+data.zeqv.txt 1

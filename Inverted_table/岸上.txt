@@ -1,0 +1,19 @@
+18
+data.be.txt 1
+data.dg.txt 7
+data.mx.txt 1
+data.tv.txt 1
+data.zaqf.txt 1
+data.zate.txt 1
+data.zbga.txt 1
+data.zbkj.txt 1
+data.zbts.txt 1
+data.zbua.txt 1
+data.zcnn.txt 1
+data.zcpb.txt 1
+data.zcqg.txt 2
+data.zcvq.txt 1
+data.zdeb.txt 1
+data.zdkc.txt 1
+data.zdod.txt 1
+data.zevt.txt 1

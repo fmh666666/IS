@@ -1,0 +1,14 @@
+13
+data.bb.txt 1
+data.gw.txt 1
+data.zafi.txt 7
+data.zafu.txt 2
+data.zaop.txt 1
+data.zavx.txt 1
+data.zcjd.txt 1
+data.zcmv.txt 4
+data.zdnh.txt 1
+data.zdtv.txt 1
+data.zeay.txt 2
+data.zebv.txt 1
+data.zeds.txt 1

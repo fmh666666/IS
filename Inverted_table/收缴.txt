@@ -1,0 +1,17 @@
+16
+data.hp.txt 2
+data.op.txt 1
+data.yx.txt 1
+data.zadv.txt 1
+data.zaej.txt 1
+data.zapl.txt 2
+data.zazn.txt 1
+data.zbeb.txt 2
+data.zbsm.txt 1
+data.zcse.txt 4
+data.zdkc.txt 1
+data.zdpf.txt 1
+data.zduk.txt 1
+data.zebc.txt 1
+data.zene.txt 4
+data.zfai.txt 2

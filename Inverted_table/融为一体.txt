@@ -1,0 +1,26 @@
+25
+data.gw.txt 2
+data.hg.txt 1
+data.jf.txt 3
+data.ud.txt 1
+data.zafl.txt 1
+data.zall.txt 1
+data.zasw.txt 1
+data.zatz.txt 1
+data.zavg.txt 1
+data.zbkf.txt 1
+data.zbpm.txt 1
+data.zbwq.txt 1
+data.zcjd.txt 2
+data.zcln.txt 1
+data.zcxr.txt 1
+data.zdkc.txt 1
+data.zdlm.txt 1
+data.zdlw.txt 1
+data.zdnc.txt 1
+data.zdod.txt 2
+data.zdou.txt 1
+data.zejn.txt 1
+data.zeoh.txt 1
+data.zeqh.txt 1
+data.zevy.txt 1

@@ -1,0 +1,4 @@
+3
+data.zaqf.txt 1
+data.zavg.txt 2
+data.zdrq.txt 1

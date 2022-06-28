@@ -1,0 +1,12 @@
+11
+data.dg.txt 2
+data.ha.txt 1
+data.hu.txt 1
+data.xe.txt 1
+data.zawc.txt 1
+data.zbcv.txt 1
+data.zdcj.txt 1
+data.zddb.txt 1
+data.zdmw.txt 3
+data.zdux.txt 1
+data.zdwd.txt 1

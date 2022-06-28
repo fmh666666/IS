@@ -1,0 +1,6 @@
+5
+data.fp.txt 2
+data.zajo.txt 1
+data.zawc.txt 2
+data.zaxx.txt 1
+data.zcni.txt 1

@@ -1,0 +1,17 @@
+16
+data.en.txt 1
+data.zabe.txt 1
+data.zahd.txt 1
+data.zawu.txt 1
+data.zbnx.txt 1
+data.zbux.txt 2
+data.zcak.txt 1
+data.zcjo.txt 1
+data.zclh.txt 1
+data.zcrk.txt 1
+data.zdkc.txt 1
+data.zdmw.txt 4
+data.zeag.txt 1
+data.zefu.txt 1
+data.zeoh.txt 1
+data.zewg.txt 1

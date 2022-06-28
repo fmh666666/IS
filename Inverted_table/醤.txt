@@ -1,0 +1,6 @@
+5
+data.kt.txt 3
+data.pa.txt 1
+data.zbye.txt 2
+data.zcse.txt 1
+data.zdrq.txt 1

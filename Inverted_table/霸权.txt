@@ -1,0 +1,14 @@
+13
+data.tj.txt 1
+data.tv.txt 1
+data.vi.txt 1
+data.zarr.txt 3
+data.zbcc.txt 1
+data.zblq.txt 1
+data.zcko.txt 1
+data.zdpf.txt 1
+data.zdzn.txt 2
+data.zebn.txt 1
+data.zene.txt 1
+data.zfai.txt 3
+data.zfaj.txt 1

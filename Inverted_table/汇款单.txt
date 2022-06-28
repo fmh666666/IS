@@ -1,0 +1,4 @@
+3
+data.zafq.txt 2
+data.zawo.txt 3
+data.zelt.txt 2

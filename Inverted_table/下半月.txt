@@ -1,0 +1,11 @@
+10
+data.dg.txt 1
+data.ev.txt 2
+data.hu.txt 1
+data.zalc.txt 1
+data.zeay.txt 1
+data.zeel.txt 1
+data.zeez.txt 1
+data.zewp.txt 2
+data.zewv.txt 2
+data.zfaj.txt 1

@@ -1,0 +1,15 @@
+14
+data.ff.txt 1
+data.mx.txt 17
+data.zafu.txt 1
+data.zafy.txt 1
+data.zalj.txt 2
+data.zbfz.txt 3
+data.zbgd.txt 1
+data.zbse.txt 1
+data.zcqe.txt 1
+data.zdwd.txt 3
+data.zeai.txt 1
+data.zejn.txt 1
+data.zesi.txt 4
+data.zezy.txt 3

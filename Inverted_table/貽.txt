@@ -1,0 +1,14 @@
+13
+data.hu.txt 1
+data.mi.txt 1
+data.zagr.txt 1
+data.zall.txt 2
+data.zawm.txt 4
+data.zbpm.txt 1
+data.zcfx.txt 7
+data.zcih.txt 1
+data.zczp.txt 1
+data.zdib.txt 1
+data.zduk.txt 1
+data.zeds.txt 1
+data.zeqv.txt 5

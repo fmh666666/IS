@@ -1,0 +1,24 @@
+23
+data.mk.txt 1
+data.op.txt 1
+data.xk.txt 1
+data.zabx.txt 1
+data.zahd.txt 3
+data.zawc.txt 1
+data.zawo.txt 1
+data.zazo.txt 1
+data.zbhd.txt 1
+data.zbjk.txt 1
+data.zbse.txt 1
+data.zcem.txt 1
+data.zcpx.txt 1
+data.zcsu.txt 1
+data.zdaq.txt 3
+data.zdar.txt 3
+data.zdey.txt 1
+data.zdle.txt 1
+data.zdoq.txt 1
+data.zecf.txt 1
+data.zeik.txt 1
+data.zerw.txt 1
+data.zfcj.txt 1

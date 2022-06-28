@@ -1,0 +1,9 @@
+8
+data.op.txt 1
+data.xk.txt 1
+data.zajo.txt 1
+data.zawu.txt 2
+data.zazw.txt 2
+data.zcee.txt 2
+data.zcef.txt 1
+data.zdwl.txt 1

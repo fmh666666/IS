@@ -1,0 +1,5 @@
+4
+data.hp.txt 1
+data.zank.txt 1
+data.zasd.txt 4
+data.zbup.txt 1

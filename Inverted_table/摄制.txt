@@ -1,0 +1,12 @@
+11
+data.ok.txt 1
+data.zafk.txt 2
+data.zaub.txt 1
+data.zawb.txt 1
+data.zbgu.txt 1
+data.zcdv.txt 1
+data.zctn.txt 1
+data.zczb.txt 1
+data.zdzm.txt 3
+data.zedk.txt 1
+data.zenw.txt 2

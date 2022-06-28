@@ -1,0 +1,7 @@
+6
+data.op.txt 1
+data.yx.txt 1
+data.zafy.txt 1
+data.zaoy.txt 1
+data.zazn.txt 4
+data.zfaz.txt 1

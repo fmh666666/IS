@@ -1,0 +1,7 @@
+6
+data.ga.txt 1
+data.zalc.txt 1
+data.zcef.txt 1
+data.zclm.txt 1
+data.zcsu.txt 2
+data.zdof.txt 1

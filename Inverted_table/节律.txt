@@ -1,0 +1,7 @@
+6
+data.pa.txt 1
+data.tj.txt 1
+data.zcmy.txt 1
+data.zcoy.txt 1
+data.zctp.txt 4
+data.zdme.txt 1

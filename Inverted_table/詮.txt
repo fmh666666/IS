@@ -1,0 +1,15 @@
+14
+data.gk.txt 1
+data.mu.txt 1
+data.qb.txt 2
+data.zass.txt 1
+data.zawm.txt 1
+data.zbes.txt 1
+data.zbgd.txt 1
+data.zbia.txt 1
+data.zdaw.txt 1
+data.zdib.txt 1
+data.zdst.txt 1
+data.zdvl.txt 1
+data.zedy.txt 1
+data.zeqv.txt 1

@@ -1,0 +1,7 @@
+6
+data.zall.txt 1
+data.zamp.txt 1
+data.zaxk.txt 2
+data.zeaf.txt 2
+data.zeai.txt 4
+data.zeaj.txt 3

@@ -1,0 +1,22 @@
+21
+data.cn.txt 1
+data.kt.txt 2
+data.zagr.txt 3
+data.zaim.txt 2
+data.zawo.txt 1
+data.zbdb.txt 1
+data.zbfr.txt 2
+data.zbhv.txt 2
+data.zbkf.txt 1
+data.zblq.txt 1
+data.zcdy.txt 50
+data.zcdz.txt 40
+data.zcll.txt 3
+data.zcql.txt 1
+data.zcsr.txt 1
+data.zcue.txt 1
+data.zcvq.txt 1
+data.zdme.txt 1
+data.zeaf.txt 1
+data.zelt.txt 1
+data.zeqv.txt 6

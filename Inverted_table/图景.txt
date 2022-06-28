@@ -1,0 +1,13 @@
+12
+data.co.txt 2
+data.kq.txt 1
+data.mk.txt 1
+data.zaim.txt 1
+data.zawo.txt 1
+data.zcdg.txt 1
+data.zcfn.txt 1
+data.zcmx.txt 1
+data.zddb.txt 1
+data.zddx.txt 1
+data.zdgp.txt 1
+data.zeel.txt 1

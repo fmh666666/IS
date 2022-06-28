@@ -1,0 +1,7 @@
+6
+data.ff.txt 1
+data.ft.txt 1
+data.zaej.txt 1
+data.zdgo.txt 1
+data.zdwz.txt 1
+data.zexv.txt 1

@@ -1,0 +1,4 @@
+3
+data.zabx.txt 14
+data.zasr.txt 4
+data.zfai.txt 2

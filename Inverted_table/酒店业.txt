@@ -1,0 +1,5 @@
+4
+data.kt.txt 1
+data.zawo.txt 1
+data.zbkr.txt 3
+data.zfai.txt 1

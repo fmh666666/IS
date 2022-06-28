@@ -1,0 +1,19 @@
+18
+data.co.txt 1
+data.mx.txt 1
+data.nh.txt 4
+data.tv.txt 2
+data.zapl.txt 3
+data.zaxk.txt 3
+data.zazn.txt 1
+data.zazw.txt 1
+data.zbhd.txt 1
+data.zbhv.txt 1
+data.zbia.txt 1
+data.zbla.txt 1
+data.zdhv.txt 3
+data.zdof.txt 1
+data.zdwz.txt 2
+data.zeqv.txt 1
+data.zesi.txt 2
+data.zevl.txt 1

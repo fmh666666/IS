@@ -1,0 +1,12 @@
+11
+data.bs.txt 1
+data.ga.txt 1
+data.hu.txt 1
+data.pa.txt 1
+data.zahd.txt 1
+data.zapl.txt 1
+data.zavg.txt 1
+data.zcbm.txt 1
+data.zcdy.txt 2
+data.zcdz.txt 1
+data.zcxr.txt 2

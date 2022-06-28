@@ -1,0 +1,14 @@
+13
+data.ga.txt 2
+data.tv.txt 2
+data.zagr.txt 1
+data.zawb.txt 1
+data.zazg.txt 1
+data.zcts.txt 1
+data.zdcy.txt 12
+data.zdhv.txt 1
+data.zdof.txt 1
+data.zeaf.txt 3
+data.zedo.txt 1
+data.zeun.txt 2
+data.zevq.txt 1

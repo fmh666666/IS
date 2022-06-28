@@ -1,0 +1,17 @@
+16
+data.jf.txt 2
+data.tj.txt 1
+data.tv.txt 1
+data.zadv.txt 1
+data.zaql.txt 1
+data.zaqr.txt 1
+data.zbaf.txt 1
+data.zbes.txt 1
+data.zcdv.txt 1
+data.zdaq.txt 1
+data.zdeb.txt 1
+data.zdfl.txt 1
+data.zdoc.txt 1
+data.zdst.txt 1
+data.zeid.txt 1
+data.zelj.txt 1

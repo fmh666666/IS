@@ -1,0 +1,26 @@
+25
+data.co.txt 2
+data.cq.txt 1
+data.jf.txt 1
+data.op.txt 1
+data.to.txt 2
+data.zaet.txt 1
+data.zaim.txt 1
+data.zazn.txt 1
+data.zbdb.txt 2
+data.zbel.txt 1
+data.zbsm.txt 2
+data.zbwa.txt 4
+data.zcic.txt 1
+data.zcuh.txt 1
+data.zdgv.txt 1
+data.zdlm.txt 1
+data.zdof.txt 1
+data.zdpz.txt 2
+data.zdwd.txt 2
+data.zeel.txt 1
+data.zeeq.txt 1
+data.zemf.txt 1
+data.zeoh.txt 1
+data.zeqn.txt 1
+data.zeqv.txt 2

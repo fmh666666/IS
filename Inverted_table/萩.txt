@@ -1,0 +1,8 @@
+7
+data.aj.txt 11
+data.hu.txt 1
+data.zcee.txt 4
+data.zcef.txt 1
+data.zdds.txt 1
+data.zefd.txt 3
+data.zegl.txt 1

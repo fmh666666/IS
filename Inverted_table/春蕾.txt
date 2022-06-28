@@ -1,0 +1,11 @@
+10
+data.by.txt 1
+data.zajo.txt 1
+data.zawu.txt 4
+data.zaxx.txt 1
+data.zbhd.txt 2
+data.zcni.txt 1
+data.zcsu.txt 3
+data.zcue.txt 1
+data.zdzm.txt 1
+data.zene.txt 1

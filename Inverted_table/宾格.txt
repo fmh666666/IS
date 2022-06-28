@@ -1,0 +1,7 @@
+6
+data.bs.txt 1
+data.dg.txt 3
+data.zamr.txt 5
+data.zcao.txt 5
+data.zdkp.txt 1
+data.zefv.txt 1

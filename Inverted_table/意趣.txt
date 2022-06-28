@@ -1,0 +1,6 @@
+5
+data.zaim.txt 1
+data.zall.txt 1
+data.zank.txt 1
+data.zawo.txt 1
+data.zcdz.txt 1

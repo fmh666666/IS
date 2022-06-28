@@ -1,0 +1,25 @@
+24
+data.ha.txt 1
+data.kt.txt 8
+data.ok.txt 1
+data.sq.txt 7
+data.to.txt 1
+data.tz.txt 1
+data.zacd.txt 1
+data.zadv.txt 1
+data.zasq.txt 1
+data.zavx.txt 30
+data.zazn.txt 1
+data.zbkj.txt 2
+data.zbpp.txt 3
+data.zbux.txt 1
+data.zbxy.txt 2
+data.zcfn.txt 1
+data.zcic.txt 2
+data.zcpb.txt 1
+data.zdhv.txt 1
+data.zdlw.txt 1
+data.zdmw.txt 1
+data.zdtr.txt 1
+data.zeds.txt 1
+data.zelt.txt 1

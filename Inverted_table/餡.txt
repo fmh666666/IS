@@ -1,0 +1,8 @@
+7
+data.ew.txt 1
+data.mu.txt 4
+data.zall.txt 2
+data.zawm.txt 2
+data.zbwa.txt 1
+data.zckd.txt 1
+data.zeay.txt 1

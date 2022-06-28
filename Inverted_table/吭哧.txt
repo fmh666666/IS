@@ -1,0 +1,11 @@
+10
+data.ha.txt 6
+data.kq.txt 2
+data.to.txt 1
+data.zaim.txt 2
+data.zaub.txt 6
+data.zbla.txt 6
+data.zcqg.txt 2
+data.zcvq.txt 4
+data.zdqx.txt 2
+data.zfdk.txt 1

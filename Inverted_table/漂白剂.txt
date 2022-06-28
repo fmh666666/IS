@@ -1,0 +1,12 @@
+11
+data.ok.txt 1
+data.zaet.txt 2
+data.zbut.txt 1
+data.zbvg.txt 1
+data.zcoy.txt 2
+data.zcse.txt 1
+data.zdaw.txt 1
+data.zdwn.txt 1
+data.zerv.txt 3
+data.zeva.txt 1
+data.zfai.txt 1

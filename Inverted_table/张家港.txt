@@ -1,0 +1,14 @@
+13
+data.ga.txt 1
+data.gw.txt 1
+data.mi.txt 2
+data.zawb.txt 1
+data.zawc.txt 1
+data.zbcv.txt 1
+data.zbmw.txt 1
+data.zbrj.txt 3
+data.zbts.txt 2
+data.zcdy.txt 1
+data.zczj.txt 1
+data.zduk.txt 2
+data.zedy.txt 1

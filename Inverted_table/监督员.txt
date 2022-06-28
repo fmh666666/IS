@@ -1,0 +1,7 @@
+6
+data.hz.txt 1
+data.zbyb.txt 1
+data.zcue.txt 4
+data.zdgt.txt 1
+data.zeoo.txt 2
+data.zfai.txt 2

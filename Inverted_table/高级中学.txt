@@ -1,0 +1,17 @@
+16
+data.mi.txt 1
+data.mk.txt 2
+data.zafy.txt 1
+data.zawc.txt 1
+data.zbuj.txt 2
+data.zcmv.txt 2
+data.zcni.txt 2
+data.zcpa.txt 1
+data.zdhv.txt 1
+data.zehb.txt 1
+data.zelj.txt 2
+data.zeqv.txt 1
+data.zerv.txt 1
+data.zeun.txt 2
+data.zeva.txt 1
+data.zewn.txt 2

@@ -1,0 +1,7 @@
+6
+data.co.txt 7
+data.zbeb.txt 1
+data.zcic.txt 1
+data.zcli.txt 1
+data.zcls.txt 1
+data.zewv.txt 1

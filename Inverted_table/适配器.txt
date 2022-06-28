@@ -1,0 +1,5 @@
+4
+data.zafk.txt 2
+data.zafl.txt 1
+data.zbor.txt 1
+data.zcrk.txt 1

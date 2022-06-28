@@ -1,0 +1,17 @@
+16
+data.bs.txt 1
+data.kt.txt 1
+data.ok.txt 1
+data.zanm.txt 5
+data.zbrj.txt 2
+data.zciy.txt 1
+data.zcll.txt 1
+data.zclm.txt 1
+data.zcni.txt 1
+data.zdds.txt 1
+data.zdkk.txt 1
+data.zdod.txt 1
+data.zdst.txt 1
+data.zesq.txt 1
+data.zezm.txt 1
+data.zfaj.txt 1

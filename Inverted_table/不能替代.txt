@@ -1,0 +1,6 @@
+5
+data.zabe.txt 1
+data.zbgu.txt 1
+data.zcts.txt 3
+data.zddm.txt 2
+data.zexk.txt 1

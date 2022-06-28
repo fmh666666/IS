@@ -1,0 +1,4 @@
+3
+data.zdaq.txt 30
+data.zdar.txt 33
+data.zdwn.txt 4

@@ -1,0 +1,5 @@
+4
+data.zcak.txt 1
+data.zdaq.txt 3
+data.zdar.txt 4
+data.zduk.txt 1

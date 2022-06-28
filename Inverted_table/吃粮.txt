@@ -1,0 +1,5 @@
+4
+data.op.txt 1
+data.zank.txt 1
+data.zawc.txt 1
+data.zcon.txt 1

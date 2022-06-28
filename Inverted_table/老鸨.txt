@@ -1,0 +1,12 @@
+11
+data.bb.txt 1
+data.pa.txt 1
+data.zajo.txt 1
+data.zazw.txt 19
+data.zazx.txt 14
+data.zbru.txt 71
+data.zcdv.txt 1
+data.zcgo.txt 1
+data.zdju.txt 1
+data.zdlm.txt 1
+data.zfai.txt 1

@@ -1,0 +1,16 @@
+15
+data.ep.txt 1
+data.mu.txt 1
+data.pa.txt 2
+data.tv.txt 1
+data.xk.txt 1
+data.zabe.txt 1
+data.zalm.txt 1
+data.zane.txt 1
+data.zctp.txt 4
+data.zcts.txt 4
+data.zdhv.txt 1
+data.zeai.txt 2
+data.zefp.txt 4
+data.zefv.txt 1
+data.zeos.txt 1

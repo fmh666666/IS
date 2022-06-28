@@ -1,0 +1,11 @@
+10
+data.co.txt 4
+data.tv.txt 1
+data.tz.txt 1
+data.zakb.txt 1
+data.zblq.txt 1
+data.zbqu.txt 1
+data.zbsu.txt 2
+data.zcdv.txt 4
+data.zdgo.txt 1
+data.zdod.txt 1

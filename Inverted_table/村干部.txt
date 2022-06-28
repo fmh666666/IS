@@ -1,0 +1,18 @@
+17
+data.cq.txt 2
+data.ha.txt 3
+data.ng.txt 1
+data.zadv.txt 1
+data.zawb.txt 1
+data.zawc.txt 1
+data.zbfd.txt 2
+data.zdep.txt 3
+data.zdlw.txt 1
+data.zdoq.txt 1
+data.zdzn.txt 1
+data.zeid.txt 1
+data.zelt.txt 1
+data.zesq.txt 1
+data.zevq.txt 1
+data.zewd.txt 1
+data.zfae.txt 4

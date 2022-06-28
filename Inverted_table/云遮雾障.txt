@@ -1,0 +1,5 @@
+4
+data.zauy.txt 1
+data.zavg.txt 1
+data.zbuj.txt 1
+data.zcbm.txt 1

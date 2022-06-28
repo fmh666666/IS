@@ -1,0 +1,7 @@
+6
+data.en.txt 1
+data.ev.txt 13
+data.ew.txt 4
+data.zbvn.txt 1
+data.zdzm.txt 1
+data.zehp.txt 1

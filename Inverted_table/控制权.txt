@@ -1,0 +1,5 @@
+4
+data.ka.txt 1
+data.zank.txt 1
+data.zblq.txt 4
+data.zdmw.txt 1

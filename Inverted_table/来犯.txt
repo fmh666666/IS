@@ -1,0 +1,4 @@
+3
+data.zcgo.txt 1
+data.zdds.txt 1
+data.zfai.txt 1

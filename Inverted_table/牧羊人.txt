@@ -1,0 +1,21 @@
+20
+data.ga.txt 3
+data.nh.txt 1
+data.zaeh.txt 3
+data.zaim.txt 1
+data.zasy.txt 3
+data.zayd.txt 3
+data.zbcc.txt 1
+data.zcak.txt 1
+data.zcef.txt 3
+data.zcxq.txt 3
+data.zczj.txt 3
+data.zdfl.txt 1
+data.zdlg.txt 3
+data.zdnh.txt 26
+data.zdtr.txt 3
+data.zeds.txt 3
+data.zedy.txt 2
+data.zeik.txt 1
+data.zeva.txt 3
+data.zfdk.txt 3

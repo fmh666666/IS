@@ -1,0 +1,7 @@
+6
+data.ka.txt 1
+data.zazn.txt 2
+data.zbor.txt 2
+data.zctm.txt 1
+data.zdpf.txt 1
+data.zdtv.txt 1

@@ -1,0 +1,9 @@
+8
+data.uz.txt 6
+data.zaqr.txt 1
+data.zbjh.txt 4
+data.zblq.txt 1
+data.zbpp.txt 1
+data.zdeq.txt 1
+data.zeam.txt 1
+data.zecf.txt 1

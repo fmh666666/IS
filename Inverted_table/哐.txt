@@ -1,0 +1,18 @@
+17
+data.ok.txt 1
+data.zagr.txt 3
+data.zaic.txt 1
+data.zazo.txt 1
+data.zbht.txt 2
+data.zbjk.txt 3
+data.zbkj.txt 3
+data.zcee.txt 2
+data.zcrn.txt 1
+data.zcts.txt 5
+data.zdrq.txt 1
+data.zdwd.txt 2
+data.zdzi.txt 2
+data.zedx.txt 3
+data.zeel.txt 2
+data.zehp.txt 2
+data.zesq.txt 2

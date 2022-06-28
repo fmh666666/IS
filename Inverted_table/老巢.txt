@@ -1,0 +1,12 @@
+11
+data.ud.txt 1
+data.yx.txt 1
+data.zabe.txt 5
+data.zafu.txt 1
+data.zako.txt 1
+data.zawc.txt 1
+data.zbjk.txt 2
+data.zcmy.txt 1
+data.zcuh.txt 1
+data.zdwz.txt 1
+data.zfby.txt 1

@@ -1,0 +1,12 @@
+11
+data.ng.txt 2
+data.zacd.txt 1
+data.zall.txt 1
+data.zatz.txt 1
+data.zbua.txt 1
+data.zcbm.txt 1
+data.zcmy.txt 1
+data.zcvi.txt 1
+data.zdlw.txt 1
+data.zewn.txt 1
+data.zfai.txt 1

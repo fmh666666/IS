@@ -1,0 +1,13 @@
+12
+data.mu.txt 2
+data.pa.txt 2
+data.zako.txt 1
+data.zbcv.txt 2
+data.zbmt.txt 1
+data.zccu.txt 1
+data.zddp.txt 1
+data.zdgo.txt 1
+data.zdgp.txt 1
+data.zdpg.txt 1
+data.zduk.txt 1
+data.zfas.txt 1

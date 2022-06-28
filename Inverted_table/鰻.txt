@@ -1,0 +1,16 @@
+15
+data.jj.txt 1
+data.zass.txt 1
+data.zasw.txt 1
+data.zazx.txt 1
+data.zbgd.txt 3
+data.zbkj.txt 1
+data.zbta.txt 1
+data.zcak.txt 9
+data.zcic.txt 1
+data.zczj.txt 1
+data.zdkk.txt 1
+data.zeid.txt 1
+data.zenw.txt 1
+data.zeyg.txt 2
+data.zfdk.txt 1

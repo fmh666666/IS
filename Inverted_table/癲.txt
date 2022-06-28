@@ -1,0 +1,19 @@
+18
+data.hu.txt 1
+data.mi.txt 1
+data.zagr.txt 1
+data.zahp.txt 2
+data.zass.txt 2
+data.zawm.txt 1
+data.zbga.txt 1
+data.zbvn.txt 1
+data.zbzg.txt 2
+data.zcqs.txt 3
+data.zcvt.txt 1
+data.zcxh.txt 1
+data.zdzm.txt 1
+data.zeez.txt 1
+data.zefv.txt 2
+data.zesq.txt 1
+data.zexm.txt 1
+data.zezm.txt 1

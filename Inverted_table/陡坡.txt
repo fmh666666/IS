@@ -1,0 +1,9 @@
+8
+data.ga.txt 2
+data.hz.txt 2
+data.zaxp.txt 1
+data.zazw.txt 1
+data.zchw.txt 1
+data.zcmv.txt 1
+data.zefd.txt 1
+data.zfae.txt 1

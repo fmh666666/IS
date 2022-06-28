@@ -1,0 +1,4 @@
+3
+data.zapr.txt 1
+data.zasj.txt 1
+data.zfaj.txt 1

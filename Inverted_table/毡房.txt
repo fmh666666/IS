@@ -1,0 +1,4 @@
+3
+data.zamr.txt 3
+data.zdju.txt 2
+data.zete.txt 1

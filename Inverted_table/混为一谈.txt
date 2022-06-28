@@ -1,0 +1,23 @@
+22
+data.cq.txt 1
+data.en.txt 1
+data.ha.txt 1
+data.mo.txt 1
+data.op.txt 1
+data.tv.txt 1
+data.tz.txt 1
+data.vi.txt 1
+data.zail.txt 1
+data.zake.txt 1
+data.zaoc.txt 1
+data.zapl.txt 1
+data.zaqw.txt 1
+data.zawu.txt 2
+data.zbgu.txt 2
+data.zbsd.txt 1
+data.zcli.txt 1
+data.zcmx.txt 1
+data.zczj.txt 1
+data.zdcw.txt 1
+data.zerw.txt 1
+data.zezf.txt 1

@@ -1,0 +1,13 @@
+12
+data.dg.txt 4
+data.kq.txt 3
+data.op.txt 2
+data.zbkj.txt 1
+data.zbnp.txt 1
+data.zcdy.txt 1
+data.zcdz.txt 2
+data.zcls.txt 3
+data.zcqp.txt 1
+data.zdkv.txt 1
+data.zdvl.txt 1
+data.zety.txt 3

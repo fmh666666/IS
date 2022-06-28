@@ -1,0 +1,11 @@
+10
+data.ha.txt 2
+data.hu.txt 2
+data.kt.txt 2
+data.op.txt 1
+data.vi.txt 2
+data.zahd.txt 1
+data.zcdv.txt 1
+data.zcve.txt 1
+data.zdxw.txt 1
+data.zeve.txt 1

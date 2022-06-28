@@ -1,0 +1,22 @@
+21
+data.ga.txt 1
+data.nh.txt 2
+data.ry.txt 1
+data.zahp.txt 1
+data.zaic.txt 1
+data.zarc.txt 1
+data.zard.txt 1
+data.zawc.txt 1
+data.zbdb.txt 1
+data.zbpc.txt 1
+data.zbua.txt 1
+data.zcbe.txt 1
+data.zddv.txt 1
+data.zdll.txt 1
+data.zdqk.txt 1
+data.zeam.txt 1
+data.zebn.txt 1
+data.zelj.txt 1
+data.zeoo.txt 1
+data.zewn.txt 1
+data.zexv.txt 1

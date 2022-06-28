@@ -1,0 +1,14 @@
+13
+data.jf.txt 1
+data.zafe.txt 4
+data.zaoy.txt 5
+data.zasy.txt 1
+data.zayd.txt 5
+data.zbds.txt 1
+data.zcmx.txt 1
+data.zcon.txt 1
+data.zcrk.txt 1
+data.zcsu.txt 1
+data.zdcj.txt 1
+data.zedk.txt 1
+data.zfaj.txt 2

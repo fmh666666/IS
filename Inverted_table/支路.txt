@@ -1,0 +1,10 @@
+9
+data.zafk.txt 1
+data.zair.txt 1
+data.zauy.txt 1
+data.zbfr.txt 4
+data.zbkv.txt 1
+data.zccu.txt 38
+data.zcih.txt 1
+data.zcts.txt 1
+data.zehp.txt 7

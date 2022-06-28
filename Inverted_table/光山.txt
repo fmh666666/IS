@@ -1,0 +1,11 @@
+10
+data.bs.txt 2
+data.ud.txt 1
+data.zaop.txt 1
+data.zavx.txt 2
+data.zawo.txt 2
+data.zcee.txt 2
+data.zcse.txt 1
+data.zcue.txt 1
+data.zdaw.txt 4
+data.zdds.txt 1

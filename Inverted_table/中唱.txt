@@ -1,0 +1,11 @@
+10
+data.ka.txt 1
+data.yx.txt 1
+data.zail.txt 1
+data.zamp.txt 1
+data.zass.txt 1
+data.zazw.txt 2
+data.zazx.txt 1
+data.zcem.txt 1
+data.zdwz.txt 1
+data.zesq.txt 1

@@ -1,0 +1,7 @@
+6
+data.dg.txt 2
+data.op.txt 3
+data.zajo.txt 1
+data.zbpx.txt 1
+data.zcon.txt 1
+data.zdpf.txt 1

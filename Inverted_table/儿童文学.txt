@@ -1,0 +1,7 @@
+6
+data.kt.txt 1
+data.zasd.txt 3
+data.zawu.txt 1
+data.zbga.txt 1
+data.zbmt.txt 1
+data.zefu.txt 1

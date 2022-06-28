@@ -1,0 +1,11 @@
+10
+data.cz.txt 2
+data.gw.txt 1
+data.zajn.txt 1
+data.zbpm.txt 1
+data.zbvp.txt 1
+data.zcgo.txt 1
+data.zcue.txt 1
+data.zdgt.txt 1
+data.zevq.txt 1
+data.zfaz.txt 1

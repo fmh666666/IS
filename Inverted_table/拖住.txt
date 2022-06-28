@@ -1,0 +1,15 @@
+14
+data.fp.txt 1
+data.ng.txt 2
+data.zbga.txt 1
+data.zcfx.txt 1
+data.zcmx.txt 1
+data.zcrk.txt 1
+data.zcrn.txt 1
+data.zdkk.txt 1
+data.zdoc.txt 1
+data.zdwv.txt 1
+data.zdxw.txt 1
+data.zejn.txt 1
+data.zevy.txt 1
+data.zfas.txt 1

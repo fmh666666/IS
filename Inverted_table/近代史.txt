@@ -1,0 +1,12 @@
+11
+data.ga.txt 1
+data.hp.txt 1
+data.mu.txt 1
+data.op.txt 4
+data.zabe.txt 1
+data.zbeb.txt 1
+data.zbia.txt 1
+data.zbut.txt 1
+data.zcef.txt 2
+data.zdkc.txt 1
+data.zdlw.txt 1

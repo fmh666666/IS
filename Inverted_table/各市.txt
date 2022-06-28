@@ -1,0 +1,5 @@
+4
+data.zake.txt 1
+data.zdep.txt 1
+data.zewn.txt 1
+data.zfaj.txt 2

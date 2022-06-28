@@ -1,0 +1,16 @@
+15
+data.bs.txt 1
+data.fp.txt 1
+data.ga.txt 1
+data.zabe.txt 1
+data.zajo.txt 1
+data.zawb.txt 2
+data.zaxp.txt 1
+data.zbjc.txt 1
+data.zcak.txt 3
+data.zccu.txt 3
+data.zcfx.txt 1
+data.zcxr.txt 1
+data.zdhv.txt 2
+data.zedo.txt 1
+data.zeva.txt 3

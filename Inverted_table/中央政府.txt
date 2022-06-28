@@ -1,0 +1,13 @@
+12
+data.dg.txt 1
+data.gw.txt 1
+data.op.txt 1
+data.zawb.txt 1
+data.zaxp.txt 1
+data.zbgu.txt 1
+data.zdou.txt 1
+data.zelt.txt 1
+data.zenw.txt 1
+data.zeos.txt 1
+data.zfaj.txt 2
+data.zfdk.txt 1

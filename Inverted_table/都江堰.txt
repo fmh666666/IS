@@ -1,0 +1,19 @@
+18
+data.en.txt 1
+data.ep.txt 1
+data.fp.txt 1
+data.zaej.txt 1
+data.zafk.txt 2
+data.zbyb.txt 1
+data.zcku.txt 1
+data.zcrg.txt 2
+data.zctp.txt 2
+data.zdro.txt 1
+data.zdwl.txt 2
+data.zeac.txt 1
+data.zefw.txt 2
+data.zelj.txt 2
+data.zeoo.txt 1
+data.zeqv.txt 1
+data.zeun.txt 2
+data.zexv.txt 1

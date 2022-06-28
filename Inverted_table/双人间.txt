@@ -1,0 +1,4 @@
+3
+data.zazo.txt 2
+data.zbnx.txt 1
+data.zewd.txt 1

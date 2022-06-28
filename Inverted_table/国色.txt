@@ -1,0 +1,10 @@
+9
+data.mt.txt 2
+data.zaoo.txt 2
+data.zavx.txt 1
+data.zbut.txt 6
+data.zczp.txt 2
+data.zdep.txt 1
+data.zduc.txt 2
+data.zefd.txt 2
+data.zefv.txt 1

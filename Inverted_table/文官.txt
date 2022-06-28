@@ -1,0 +1,4 @@
+3
+data.ga.txt 2
+data.zaeh.txt 2
+data.zctp.txt 1

@@ -1,0 +1,16 @@
+15
+data.aj.txt 1
+data.hp.txt 1
+data.pa.txt 2
+data.zagr.txt 1
+data.zair.txt 1
+data.zctp.txt 46
+data.zcts.txt 33
+data.zczp.txt 1
+data.zdcj.txt 1
+data.zdnh.txt 2
+data.zdof.txt 1
+data.zdvl.txt 1
+data.zdxw.txt 1
+data.zefw.txt 1
+data.zehj.txt 1

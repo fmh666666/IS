@@ -1,0 +1,12 @@
+11
+data.ha.txt 1
+data.ok.txt 1
+data.pa.txt 1
+data.zaic.txt 1
+data.zaim.txt 2
+data.zapl.txt 1
+data.zawc.txt 1
+data.zbil.txt 1
+data.zbmw.txt 1
+data.zcnn.txt 3
+data.zcue.txt 1

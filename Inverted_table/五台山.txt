@@ -1,0 +1,18 @@
+17
+data.jf.txt 6
+data.op.txt 1
+data.zake.txt 2
+data.zaqw.txt 1
+data.zarr.txt 1
+data.zbdb.txt 2
+data.zbjh.txt 2
+data.zbkf.txt 1
+data.zbpm.txt 2
+data.zbut.txt 3
+data.zcda.txt 2
+data.zcxr.txt 1
+data.zdaa.txt 1
+data.zemb.txt 1
+data.zeqv.txt 1
+data.zexk.txt 2
+data.zfae.txt 1

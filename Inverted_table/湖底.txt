@@ -1,0 +1,7 @@
+6
+data.zank.txt 1
+data.zasj.txt 2
+data.zcdg.txt 1
+data.zdep.txt 1
+data.zdgp.txt 1
+data.zduo.txt 1

@@ -1,0 +1,5 @@
+4
+data.zbwa.txt 1
+data.zddv.txt 1
+data.zdju.txt 1
+data.zewn.txt 1

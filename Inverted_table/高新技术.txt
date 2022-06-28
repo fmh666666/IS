@@ -1,0 +1,9 @@
+8
+data.gw.txt 11
+data.zaip.txt 1
+data.zayv.txt 1
+data.zblr.txt 1
+data.zcdz.txt 1
+data.zeds.txt 2
+data.zelt.txt 1
+data.zezy.txt 1

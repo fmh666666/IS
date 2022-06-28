@@ -1,0 +1,11 @@
+10
+data.zall.txt 1
+data.zalm.txt 1
+data.zapl.txt 1
+data.zaqp.txt 2
+data.zbes.txt 1
+data.zbkj.txt 1
+data.zdcw.txt 1
+data.zdhv.txt 1
+data.zeil.txt 2
+data.zfcp.txt 5

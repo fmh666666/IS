@@ -1,0 +1,8 @@
+7
+data.gk.txt 2
+data.zalc.txt 22
+data.zcaq.txt 4
+data.zcpa.txt 1
+data.zcvt.txt 1
+data.zejk.txt 1
+data.zemf.txt 1

@@ -1,0 +1,16 @@
+15
+data.jf.txt 2
+data.zabe.txt 1
+data.zalt.txt 1
+data.zarr.txt 1
+data.zasy.txt 1
+data.zaub.txt 1
+data.zazo.txt 1
+data.zbht.txt 1
+data.zbvg.txt 1
+data.zdcw.txt 1
+data.zdcy.txt 1
+data.zdtv.txt 1
+data.zegz.txt 1
+data.zelt.txt 1
+data.zezh.txt 1

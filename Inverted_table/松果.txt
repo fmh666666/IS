@@ -1,0 +1,18 @@
+17
+data.be.txt 1
+data.dg.txt 2
+data.ev.txt 1
+data.fz.txt 1
+data.mt.txt 1
+data.zasd.txt 1
+data.zaxj.txt 2
+data.zbsu.txt 1
+data.zcis.txt 1
+data.zcls.txt 2
+data.zcxr.txt 1
+data.zdds.txt 2
+data.zdkc.txt 4
+data.zduc.txt 1
+data.zene.txt 1
+data.zevt.txt 1
+data.zezh.txt 1

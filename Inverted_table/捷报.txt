@@ -1,0 +1,13 @@
+12
+data.ry.txt 3
+data.zaoy.txt 3
+data.zbgu.txt 1
+data.zbhe.txt 13
+data.zbzo.txt 2
+data.zcby.txt 1
+data.zcrv.txt 1
+data.zddx.txt 1
+data.zdga.txt 3
+data.zduo.txt 1
+data.zeik.txt 1
+data.zesq.txt 1

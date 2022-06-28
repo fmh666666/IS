@@ -1,0 +1,19 @@
+18
+data.co.txt 1
+data.ga.txt 1
+data.ry.txt 2
+data.wg.txt 1
+data.yx.txt 1
+data.zaej.txt 1
+data.zahd.txt 2
+data.zaim.txt 2
+data.zasj.txt 1
+data.zawu.txt 1
+data.zbcj.txt 1
+data.zbgd.txt 1
+data.zbhd.txt 2
+data.zbhv.txt 1
+data.zcdg.txt 1
+data.zdey.txt 1
+data.zevy.txt 1
+data.zeyg.txt 1

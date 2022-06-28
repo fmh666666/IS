@@ -1,0 +1,5 @@
+4
+data.ew.txt 1
+data.mo.txt 1
+data.zaeh.txt 9
+data.zeva.txt 1

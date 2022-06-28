@@ -1,0 +1,5 @@
+4
+data.zazo.txt 1
+data.zccu.txt 8
+data.zcee.txt 1
+data.zexv.txt 1

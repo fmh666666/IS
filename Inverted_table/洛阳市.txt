@@ -1,0 +1,9 @@
+8
+data.yx.txt 2
+data.zahp.txt 12
+data.zajo.txt 2
+data.zbel.txt 1
+data.zbyb.txt 1
+data.zcue.txt 1
+data.zeac.txt 1
+data.zfae.txt 1

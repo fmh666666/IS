@@ -1,0 +1,5 @@
+4
+data.zavg.txt 2
+data.zdzg.txt 1
+data.zesq.txt 1
+data.zete.txt 230

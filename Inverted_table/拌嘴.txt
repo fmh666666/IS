@@ -1,0 +1,16 @@
+15
+data.zaet.txt 2
+data.zako.txt 2
+data.zasy.txt 1
+data.zawo.txt 1
+data.zayc.txt 1
+data.zbfp.txt 1
+data.zbvf.txt 1
+data.zbvm.txt 1
+data.zcfn.txt 1
+data.zclh.txt 1
+data.zcse.txt 1
+data.zdzg.txt 1
+data.zdzi.txt 1
+data.zeqv.txt 2
+data.zeta.txt 1

@@ -1,0 +1,6 @@
+5
+data.zcts.txt 1
+data.zdkk.txt 2
+data.zdud.txt 1
+data.zeeq.txt 1
+data.zfai.txt 1

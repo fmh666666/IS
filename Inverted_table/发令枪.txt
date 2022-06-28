@@ -1,0 +1,5 @@
+4
+data.fp.txt 1
+data.zduk.txt 3
+data.zeeq.txt 1
+data.zenw.txt 1

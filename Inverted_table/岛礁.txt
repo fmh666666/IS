@@ -1,0 +1,5 @@
+4
+data.gz.txt 1
+data.zbyb.txt 1
+data.zdgt.txt 1
+data.zfai.txt 4

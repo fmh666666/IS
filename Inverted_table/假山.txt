@@ -1,0 +1,9 @@
+8
+data.ft.txt 2
+data.hp.txt 2
+data.ng.txt 1
+data.zawc.txt 1
+data.zbla.txt 1
+data.zcrg.txt 1
+data.zdmw.txt 1
+data.zfai.txt 1

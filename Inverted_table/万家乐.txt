@@ -1,0 +1,13 @@
+12
+data.co.txt 44
+data.zayv.txt 5
+data.zbcv.txt 1
+data.zbkf.txt 3
+data.zcao.txt 5
+data.zcll.txt 7
+data.zdji.txt 5
+data.zdqx.txt 5
+data.zdux.txt 3
+data.zedd.txt 17
+data.zety.txt 3
+data.zewv.txt 2

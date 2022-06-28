@@ -1,0 +1,18 @@
+17
+data.zafl.txt 1
+data.zafy.txt 1
+data.zaoy.txt 1
+data.zbpc.txt 1
+data.zcbm.txt 7
+data.zcdg.txt 1
+data.zcmx.txt 1
+data.zcsu.txt 1
+data.zcvq.txt 2
+data.zdgp.txt 1
+data.zdle.txt 1
+data.zdlo.txt 1
+data.zdof.txt 1
+data.zdpw.txt 1
+data.zdvl.txt 1
+data.zehp.txt 5
+data.zexm.txt 1

@@ -1,0 +1,11 @@
+10
+data.ud.txt 2
+data.uz.txt 1
+data.zbvp.txt 1
+data.zcef.txt 2
+data.zcgi.txt 2
+data.zclm.txt 4
+data.zcse.txt 1
+data.zdey.txt 2
+data.zdqk.txt 1
+data.zezm.txt 1

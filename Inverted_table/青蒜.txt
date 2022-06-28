@@ -1,0 +1,6 @@
+5
+data.ha.txt 2
+data.zasw.txt 1
+data.zavx.txt 1
+data.zdbf.txt 2
+data.zedk.txt 2

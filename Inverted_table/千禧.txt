@@ -1,0 +1,7 @@
+6
+data.co.txt 4
+data.op.txt 1
+data.zajh.txt 2
+data.zbzo.txt 3
+data.zcaq.txt 3
+data.zewd.txt 1

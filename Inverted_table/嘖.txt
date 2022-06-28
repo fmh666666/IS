@@ -1,0 +1,9 @@
+8
+data.zafi.txt 1
+data.zalc.txt 2
+data.zall.txt 1
+data.zate.txt 7
+data.zchw.txt 4
+data.zdib.txt 2
+data.zdod.txt 2
+data.zdqq.txt 1

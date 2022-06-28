@@ -1,0 +1,4 @@
+3
+data.zazw.txt 1
+data.zdmw.txt 1
+data.zeos.txt 1

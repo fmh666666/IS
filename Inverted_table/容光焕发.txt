@@ -1,0 +1,19 @@
+18
+data.hu.txt 1
+data.zapl.txt 1
+data.zavx.txt 1
+data.zaxj.txt 2
+data.zbfr.txt 1
+data.zbha.txt 1
+data.zbhe.txt 1
+data.zbia.txt 1
+data.zcih.txt 1
+data.zddm.txt 1
+data.zddp.txt 1
+data.zdgv.txt 2
+data.zdil.txt 1
+data.zdoc.txt 1
+data.zdou.txt 1
+data.zdtr.txt 1
+data.zdud.txt 1
+data.zedx.txt 1

@@ -1,0 +1,14 @@
+13
+data.cq.txt 2
+data.gw.txt 1
+data.to.txt 1
+data.tv.txt 1
+data.zabe.txt 1
+data.zane.txt 2
+data.zawu.txt 1
+data.zbfr.txt 2
+data.zbfx.txt 1
+data.zbfz.txt 1
+data.zcsu.txt 1
+data.zene.txt 1
+data.zeyy.txt 1

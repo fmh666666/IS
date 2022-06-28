@@ -1,0 +1,6 @@
+5
+data.mu.txt 4
+data.zalm.txt 2
+data.zalt.txt 1
+data.zdlo.txt 1
+data.zegk.txt 1

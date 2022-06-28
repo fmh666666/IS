@@ -1,0 +1,9 @@
+8
+data.ek.txt 1
+data.hp.txt 4
+data.tj.txt 2
+data.zaqf.txt 1
+data.zbla.txt 1
+data.zduo.txt 1
+data.zdvl.txt 1
+data.zegk.txt 1

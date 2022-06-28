@@ -1,0 +1,20 @@
+19
+data.gw.txt 4
+data.qn.txt 1
+data.tj.txt 1
+data.xe.txt 1
+data.zaxx.txt 2
+data.zayc.txt 1
+data.zbaf.txt 1
+data.zbem.txt 1
+data.zbfr.txt 1
+data.zbkv.txt 2
+data.zblr.txt 1
+data.zbpx.txt 1
+data.zcaq.txt 2
+data.zdud.txt 2
+data.zdyv.txt 1
+data.zeec.txt 1
+data.zeqh.txt 1
+data.zess.txt 1
+data.zevt.txt 1

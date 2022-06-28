@@ -1,0 +1,17 @@
+16
+data.ka.txt 1
+data.pn.txt 2
+data.xk.txt 12
+data.zalc.txt 2
+data.zavx.txt 1
+data.zbjc.txt 1
+data.zbvn.txt 8
+data.zbvp.txt 4
+data.zcis.txt 2
+data.zcts.txt 1
+data.zcwn.txt 1
+data.zdmw.txt 1
+data.zeaj.txt 1
+data.zefs.txt 2
+data.zelt.txt 2
+data.zesi.txt 2

@@ -1,0 +1,5 @@
+4
+data.zalt.txt 1
+data.zawm.txt 1
+data.zefw.txt 1
+data.zezn.txt 1

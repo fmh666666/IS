@@ -1,0 +1,6 @@
+5
+data.zcvi.txt 2
+data.zdcw.txt 1
+data.zdkp.txt 14
+data.zdod.txt 1
+data.zdof.txt 1

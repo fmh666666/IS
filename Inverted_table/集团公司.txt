@@ -1,0 +1,16 @@
+15
+data.co.txt 2
+data.ok.txt 1
+data.op.txt 3
+data.ye.txt 1
+data.zahd.txt 1
+data.zarr.txt 1
+data.zbaq.txt 1
+data.zblq.txt 1
+data.zcby.txt 1
+data.zcdy.txt 1
+data.zdme.txt 1
+data.zdoc.txt 1
+data.zelj.txt 2
+data.zenw.txt 1
+data.zfai.txt 1

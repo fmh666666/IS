@@ -1,0 +1,8 @@
+7
+data.zafk.txt 2
+data.zagr.txt 8
+data.zasj.txt 4
+data.zbkv.txt 2
+data.zcko.txt 25
+data.zdmw.txt 11
+data.zfas.txt 2

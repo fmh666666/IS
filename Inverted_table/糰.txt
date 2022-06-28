@@ -1,0 +1,21 @@
+20
+data.cf.txt 1
+data.gk.txt 1
+data.tv.txt 11
+data.tz.txt 5
+data.zadv.txt 2
+data.zaxj.txt 3
+data.zaxk.txt 1
+data.zbcc.txt 1
+data.zbfp.txt 1
+data.zbgu.txt 1
+data.zbla.txt 1
+data.zbsu.txt 4
+data.zbwa.txt 1
+data.zcfn.txt 1
+data.zcve.txt 1
+data.zddv.txt 1
+data.zdic.txt 1
+data.zdof.txt 1
+data.zdzg.txt 1
+data.zehb.txt 1

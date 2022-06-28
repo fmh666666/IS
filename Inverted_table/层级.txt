@@ -1,0 +1,13 @@
+12
+data.kq.txt 1
+data.pn.txt 1
+data.xe.txt 2
+data.zbor.txt 1
+data.zcdz.txt 1
+data.zcej.txt 1
+data.zcse.txt 1
+data.zdgv.txt 1
+data.zebn.txt 6
+data.zebv.txt 1
+data.zelt.txt 1
+data.zene.txt 1

@@ -1,0 +1,15 @@
+14
+data.cz.txt 1
+data.tj.txt 2
+data.tv.txt 1
+data.zafl.txt 1
+data.zaub.txt 1
+data.zauy.txt 2
+data.zawm.txt 1
+data.zbcc.txt 2
+data.zbfz.txt 1
+data.zbkf.txt 1
+data.zbwa.txt 2
+data.zdqx.txt 1
+data.zdrq.txt 1
+data.zewv.txt 1

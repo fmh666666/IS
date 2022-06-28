@@ -1,0 +1,8 @@
+7
+data.fp.txt 2
+data.qn.txt 1
+data.zahd.txt 2
+data.zair.txt 1
+data.zcgi.txt 1
+data.zdmw.txt 1
+data.zeyy.txt 1

@@ -1,0 +1,10 @@
+9
+data.zasd.txt 28
+data.zbpx.txt 2
+data.zcgi.txt 1
+data.zcsr.txt 2
+data.zdgo.txt 1
+data.zdxw.txt 1
+data.zeez.txt 1
+data.zefv.txt 1
+data.zene.txt 1

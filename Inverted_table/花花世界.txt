@@ -1,0 +1,18 @@
+17
+data.cf.txt 1
+data.ew.txt 1
+data.fj.txt 2
+data.hu.txt 6
+data.mx.txt 1
+data.zabx.txt 1
+data.zamp.txt 1
+data.zbcv.txt 1
+data.zbkv.txt 5
+data.zcfx.txt 4
+data.zcgi.txt 1
+data.zdkk.txt 1
+data.zdlo.txt 2
+data.zdnc.txt 1
+data.zduc.txt 1
+data.zedx.txt 2
+data.zeoo.txt 1

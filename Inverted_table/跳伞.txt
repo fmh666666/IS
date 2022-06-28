@@ -1,0 +1,23 @@
+22
+data.mt.txt 1
+data.ng.txt 1
+data.sq.txt 1
+data.zail.txt 1
+data.zaqr.txt 2
+data.zasj.txt 1
+data.zayv.txt 1
+data.zazo.txt 1
+data.zbem.txt 1
+data.zbfz.txt 1
+data.zbux.txt 3
+data.zbxw.txt 3
+data.zcdv.txt 1
+data.zcis.txt 1
+data.zcmy.txt 2
+data.zcxr.txt 1
+data.zddb.txt 1
+data.zddp.txt 1
+data.zedo.txt 2
+data.zenw.txt 2
+data.zeqv.txt 2
+data.zevl.txt 2

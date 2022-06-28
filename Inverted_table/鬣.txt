@@ -1,0 +1,7 @@
+6
+data.pq.txt 1
+data.zall.txt 1
+data.zbmw.txt 1
+data.zcel.txt 1
+data.zcmn.txt 2
+data.zeez.txt 1

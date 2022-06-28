@@ -1,0 +1,4 @@
+3
+data.zafe.txt 2
+data.zarc.txt 1
+data.zawb.txt 1

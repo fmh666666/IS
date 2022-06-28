@@ -1,0 +1,13 @@
+12
+data.fz.txt 1
+data.op.txt 5
+data.zaim.txt 3
+data.zbeb.txt 1
+data.zbpx.txt 1
+data.zcdz.txt 1
+data.zcfx.txt 1
+data.zddv.txt 1
+data.zdju.txt 1
+data.zedx.txt 1
+data.zfai.txt 3
+data.zfaj.txt 1

@@ -1,0 +1,20 @@
+19
+data.hc.txt 5
+data.jd.txt 47
+data.yx.txt 2
+data.zaim.txt 1
+data.zasy.txt 1
+data.zawc.txt 1
+data.zayv.txt 4
+data.zbdb.txt 1
+data.zbjk.txt 2
+data.zcse.txt 3
+data.zctp.txt 2
+data.zcts.txt 1
+data.zdou.txt 1
+data.zdsh.txt 1
+data.zduk.txt 1
+data.zdzn.txt 2
+data.zedd.txt 2
+data.zelt.txt 3
+data.zexk.txt 1

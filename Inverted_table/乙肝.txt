@@ -1,0 +1,14 @@
+13
+data.ry.txt 2
+data.zako.txt 2
+data.zawb.txt 2
+data.zbcj.txt 2
+data.zcni.txt 4
+data.zcql.txt 1
+data.zctp.txt 5
+data.zcts.txt 1
+data.zdvl.txt 2
+data.zeaf.txt 1
+data.zefv.txt 2
+data.zefw.txt 6
+data.zeoh.txt 2

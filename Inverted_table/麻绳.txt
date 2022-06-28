@@ -1,0 +1,14 @@
+13
+data.bs.txt 1
+data.ng.txt 5
+data.zajn.txt 1
+data.zawc.txt 2
+data.zbpp.txt 1
+data.zbvm.txt 1
+data.zcon.txt 1
+data.zcsu.txt 1
+data.zdep.txt 1
+data.zdkv.txt 1
+data.zdrq.txt 1
+data.zdzg.txt 1
+data.zedo.txt 1

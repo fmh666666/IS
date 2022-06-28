@@ -1,0 +1,25 @@
+24
+data.bs.txt 1
+data.co.txt 2
+data.ft.txt 1
+data.hz.txt 1
+data.ka.txt 1
+data.mx.txt 2
+data.zabe.txt 1
+data.zakb.txt 1
+data.zate.txt 1
+data.zaxj.txt 1
+data.zbcc.txt 1
+data.zbse.txt 1
+data.zbwq.txt 1
+data.zbye.txt 1
+data.zbzg.txt 1
+data.zcic.txt 1
+data.zcmx.txt 1
+data.zcxr.txt 2
+data.zdar.txt 1
+data.zdey.txt 1
+data.zdkv.txt 2
+data.zeai.txt 1
+data.zene.txt 1
+data.zeun.txt 1

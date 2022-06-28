@@ -1,0 +1,21 @@
+20
+data.pq.txt 1
+data.zaip.txt 1
+data.zall.txt 2
+data.zawc.txt 3
+data.zazw.txt 1
+data.zbcv.txt 1
+data.zbpp.txt 1
+data.zbsl.txt 7
+data.zbsm.txt 5
+data.zcmy.txt 1
+data.zcon.txt 1
+data.zctp.txt 1
+data.zcue.txt 1
+data.zcxp.txt 2
+data.zdaq.txt 2
+data.zdcj.txt 1
+data.zdey.txt 1
+data.zedd.txt 3
+data.zedo.txt 1
+data.zeqv.txt 2

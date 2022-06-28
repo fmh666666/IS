@@ -1,0 +1,10 @@
+9
+data.mx.txt 3
+data.op.txt 2
+data.zadv.txt 1
+data.zamr.txt 4
+data.zaoo.txt 1
+data.zaxk.txt 1
+data.zcqp.txt 1
+data.zefw.txt 52
+data.zeoo.txt 1

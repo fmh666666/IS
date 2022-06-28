@@ -1,0 +1,8 @@
+7
+data.zail.txt 2
+data.zavg.txt 1
+data.zbjq.txt 1
+data.zcon.txt 2
+data.zctp.txt 2
+data.zczp.txt 1
+data.zdwn.txt 1

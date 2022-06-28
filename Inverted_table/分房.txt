@@ -1,0 +1,13 @@
+12
+data.ha.txt 1
+data.pa.txt 2
+data.tj.txt 2
+data.zasw.txt 1
+data.zbds.txt 1
+data.zbpx.txt 1
+data.zclh.txt 1
+data.zcse.txt 1
+data.zdep.txt 1
+data.zdlo.txt 1
+data.zene.txt 2
+data.zeqv.txt 1

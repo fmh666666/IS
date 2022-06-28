@@ -1,0 +1,23 @@
+22
+data.ha.txt 1
+data.mx.txt 2
+data.wc.txt 1
+data.zajh.txt 1
+data.zalt.txt 1
+data.zanh.txt 1
+data.zayd.txt 1
+data.zbds.txt 1
+data.zbhe.txt 1
+data.zbqu.txt 1
+data.zbru.txt 1
+data.zcqg.txt 2
+data.zcts.txt 1
+data.zcxq.txt 1
+data.zddb.txt 1
+data.zdga.txt 1
+data.zdhv.txt 2
+data.zdvl.txt 1
+data.zdzn.txt 1
+data.zehp.txt 1
+data.zeyu.txt 1
+data.zfae.txt 1

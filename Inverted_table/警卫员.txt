@@ -1,0 +1,7 @@
+6
+data.hp.txt 1
+data.op.txt 1
+data.zajo.txt 1
+data.zbdb.txt 2
+data.zdgt.txt 1
+data.zdme.txt 1

@@ -1,0 +1,7 @@
+6
+data.kq.txt 16
+data.zail.txt 2
+data.zazn.txt 2
+data.zbgu.txt 1
+data.zbyv.txt 4
+data.zcdy.txt 1

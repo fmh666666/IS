@@ -1,0 +1,5 @@
+4
+data.zaqp.txt 2
+data.zawo.txt 1
+data.zdpz.txt 10
+data.zelt.txt 2

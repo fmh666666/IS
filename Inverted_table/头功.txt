@@ -1,0 +1,11 @@
+10
+data.cq.txt 1
+data.fj.txt 2
+data.fp.txt 2
+data.zasq.txt 1
+data.zavg.txt 1
+data.zawb.txt 1
+data.zbem.txt 1
+data.zcnn.txt 1
+data.zdhw.txt 1
+data.zdme.txt 1

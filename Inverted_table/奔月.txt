@@ -1,0 +1,9 @@
+8
+data.zamr.txt 2
+data.zarr.txt 2
+data.zdeb.txt 1
+data.zdof.txt 1
+data.zdpw.txt 1
+data.zdux.txt 1
+data.zenw.txt 1
+data.zeqv.txt 1

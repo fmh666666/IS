@@ -1,0 +1,7 @@
+6
+data.zank.txt 1
+data.zcdz.txt 1
+data.zcfx.txt 1
+data.zcqs.txt 1
+data.zdme.txt 1
+data.zdqq.txt 1

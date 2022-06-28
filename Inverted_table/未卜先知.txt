@@ -1,0 +1,4 @@
+3
+data.zcgi.txt 1
+data.zdoq.txt 1
+data.zfai.txt 1

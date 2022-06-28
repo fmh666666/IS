@@ -1,0 +1,4 @@
+3
+data.zalt.txt 1
+data.zapl.txt 1
+data.zasw.txt 2

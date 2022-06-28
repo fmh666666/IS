@@ -1,0 +1,7 @@
+6
+data.to.txt 1
+data.zabe.txt 1
+data.zalc.txt 1
+data.zawb.txt 2
+data.zdgt.txt 1
+data.zeam.txt 3

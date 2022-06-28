@@ -1,0 +1,9 @@
+8
+data.be.txt 1
+data.ry.txt 1
+data.zane.txt 4
+data.zbut.txt 1
+data.zbxy.txt 1
+data.zcrk.txt 1
+data.zdsh.txt 1
+data.zedo.txt 1

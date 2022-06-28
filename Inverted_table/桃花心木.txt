@@ -1,0 +1,3 @@
+2
+data.ek.txt 2
+data.en.txt 1

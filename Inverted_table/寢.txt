@@ -1,0 +1,7 @@
+6
+data.kt.txt 1
+data.mu.txt 1
+data.zall.txt 1
+data.zbvn.txt 1
+data.zbvp.txt 1
+data.zdkk.txt 1

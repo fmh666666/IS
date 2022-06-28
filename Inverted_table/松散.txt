@@ -1,0 +1,13 @@
+12
+data.mo.txt 1
+data.op.txt 1
+data.tv.txt 1
+data.zaoc.txt 1
+data.zatz.txt 2
+data.zawo.txt 1
+data.zaxp.txt 1
+data.zbof.txt 1
+data.zcej.txt 1
+data.zcql.txt 1
+data.zdey.txt 1
+data.zdpg.txt 1

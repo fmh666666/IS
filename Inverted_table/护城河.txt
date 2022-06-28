@@ -1,0 +1,15 @@
+14
+data.dg.txt 1
+data.ev.txt 1
+data.kq.txt 1
+data.to.txt 1
+data.xe.txt 1
+data.zair.txt 1
+data.zazo.txt 1
+data.zbdb.txt 4
+data.zbes.txt 2
+data.zblr.txt 1
+data.zccl.txt 1
+data.zdoc.txt 1
+data.zdou.txt 2
+data.zfai.txt 1

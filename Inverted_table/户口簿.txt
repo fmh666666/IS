@@ -1,0 +1,7 @@
+6
+data.zalt.txt 1
+data.zawb.txt 1
+data.zbdb.txt 1
+data.zbnx.txt 1
+data.zctp.txt 1
+data.zcvt.txt 1

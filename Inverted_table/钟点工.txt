@@ -1,0 +1,10 @@
+9
+data.en.txt 1
+data.op.txt 1
+data.zbpc.txt 1
+data.zbuj.txt 1
+data.zcdv.txt 1
+data.zcdy.txt 1
+data.zcpb.txt 1
+data.zebn.txt 3
+data.zfcj.txt 1

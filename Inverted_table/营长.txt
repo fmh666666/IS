@@ -1,0 +1,9 @@
+8
+data.ok.txt 1
+data.zank.txt 1
+data.zauy.txt 1
+data.zawb.txt 1
+data.zbia.txt 2
+data.zdgt.txt 1
+data.zdux.txt 1
+data.zeds.txt 1

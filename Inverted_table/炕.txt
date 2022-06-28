@@ -1,0 +1,20 @@
+19
+data.by.txt 1
+data.cn.txt 28
+data.co.txt 6
+data.zabe.txt 1
+data.zacp.txt 1
+data.zadv.txt 4
+data.zajh.txt 1
+data.zapr.txt 3
+data.zass.txt 1
+data.zbil.txt 1
+data.zbkj.txt 1
+data.zcee.txt 1
+data.zclh.txt 1
+data.zdcy.txt 1
+data.zdeb.txt 4
+data.zdgp.txt 1
+data.zdod.txt 1
+data.zdtr.txt 2
+data.zezy.txt 1

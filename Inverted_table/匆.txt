@@ -1,0 +1,7 @@
+6
+data.zaoo.txt 1
+data.zbcc.txt 1
+data.zbmw.txt 1
+data.zbyb.txt 2
+data.zbyv.txt 1
+data.zfaj.txt 1

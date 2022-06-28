@@ -1,0 +1,10 @@
+9
+data.mo.txt 1
+data.zamp.txt 1
+data.zaxk.txt 1
+data.zbfz.txt 7
+data.zbga.txt 4
+data.zcfn.txt 6
+data.zcmy.txt 1
+data.zcoy.txt 1
+data.zedo.txt 1

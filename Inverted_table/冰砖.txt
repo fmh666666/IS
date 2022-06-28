@@ -1,0 +1,7 @@
+6
+data.ga.txt 1
+data.pa.txt 4
+data.zazn.txt 2
+data.zbua.txt 2
+data.zcln.txt 1
+data.zcts.txt 4

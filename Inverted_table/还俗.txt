@@ -1,0 +1,10 @@
+9
+data.cf.txt 1
+data.zajn.txt 1
+data.zawb.txt 1
+data.zcve.txt 1
+data.zdll.txt 1
+data.zdpw.txt 1
+data.zdzn.txt 2
+data.zedk.txt 1
+data.zene.txt 1

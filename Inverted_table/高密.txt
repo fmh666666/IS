@@ -1,0 +1,16 @@
+15
+data.cz.txt 1
+data.ff.txt 1
+data.tv.txt 1
+data.zagr.txt 1
+data.zalm.txt 1
+data.zalt.txt 1
+data.zawo.txt 1
+data.zbhd.txt 1
+data.zcgi.txt 1
+data.zcmy.txt 3
+data.zctp.txt 2
+data.zcts.txt 2
+data.zcvi.txt 1
+data.zdhw.txt 1
+data.zduk.txt 1

@@ -1,0 +1,7 @@
+6
+data.zalj.txt 1
+data.zbye.txt 1
+data.zcic.txt 1
+data.zdkk.txt 1
+data.zeyy.txt 1
+data.zfby.txt 1

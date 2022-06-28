@@ -1,0 +1,25 @@
+24
+data.gw.txt 3
+data.zabe.txt 1
+data.zaqw.txt 1
+data.zard.txt 1
+data.zbdb.txt 1
+data.zbfz.txt 1
+data.zbga.txt 1
+data.zbrj.txt 11
+data.zbvf.txt 1
+data.zcih.txt 5
+data.zcqg.txt 1
+data.zcve.txt 1
+data.zdcy.txt 1
+data.zdds.txt 1
+data.zdgp.txt 1
+data.zdod.txt 1
+data.zdpf.txt 1
+data.zdrq.txt 1
+data.zebc.txt 1
+data.zeec.txt 3
+data.zejk.txt 2
+data.zesq.txt 1
+data.zewd.txt 1
+data.zfai.txt 1

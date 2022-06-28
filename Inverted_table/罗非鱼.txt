@@ -1,0 +1,4 @@
+3
+data.fp.txt 2
+data.zafq.txt 1
+data.zafy.txt 1

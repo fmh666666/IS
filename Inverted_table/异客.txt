@@ -1,0 +1,19 @@
+18
+data.vz.txt 2
+data.zabe.txt 1
+data.zaej.txt 1
+data.zalm.txt 1
+data.zamp.txt 1
+data.zamr.txt 1
+data.zard.txt 1
+data.zayv.txt 2
+data.zazo.txt 1
+data.zbmt.txt 1
+data.zcao.txt 2
+data.zcej.txt 2
+data.zcko.txt 1
+data.zcls.txt 1
+data.zcqp.txt 1
+data.zcse.txt 1
+data.zdfl.txt 1
+data.zeqn.txt 2

@@ -1,0 +1,13 @@
+12
+data.xe.txt 2
+data.zaim.txt 1
+data.zamp.txt 2
+data.zasw.txt 1
+data.zblh.txt 1
+data.zbts.txt 1
+data.zclm.txt 2
+data.zeai.txt 1
+data.zedk.txt 2
+data.zedo.txt 2
+data.zeew.txt 1
+data.zezn.txt 1

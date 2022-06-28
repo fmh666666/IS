@@ -1,0 +1,6 @@
+5
+data.ga.txt 2
+data.zafq.txt 2
+data.zbdb.txt 2
+data.zbeb.txt 1
+data.zeos.txt 1

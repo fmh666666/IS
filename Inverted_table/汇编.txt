@@ -1,0 +1,13 @@
+12
+data.gw.txt 3
+data.jf.txt 1
+data.zadv.txt 1
+data.zapr.txt 1
+data.zaqf.txt 1
+data.zayv.txt 1
+data.zbkf.txt 1
+data.zblq.txt 1
+data.zcaq.txt 1
+data.zcni.txt 1
+data.zdga.txt 2
+data.zeta.txt 7

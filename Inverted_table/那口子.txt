@@ -1,0 +1,5 @@
+4
+data.zcfn.txt 1
+data.zcxr.txt 5
+data.zdoc.txt 1
+data.zegz.txt 1

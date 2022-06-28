@@ -1,0 +1,8 @@
+7
+data.fe.txt 1
+data.zanh.txt 3
+data.zasj.txt 1
+data.zazg.txt 1
+data.zbes.txt 1
+data.zbuj.txt 1
+data.zdga.txt 1

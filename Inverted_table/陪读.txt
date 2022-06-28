@@ -1,0 +1,7 @@
+6
+data.dg.txt 1
+data.zaim.txt 1
+data.zasd.txt 3
+data.zbcj.txt 2
+data.zdby.txt 4
+data.zdpw.txt 1

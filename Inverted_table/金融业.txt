@@ -1,0 +1,9 @@
+8
+data.kq.txt 3
+data.zaim.txt 1
+data.zarr.txt 3
+data.zawc.txt 1
+data.zcdy.txt 18
+data.zcdz.txt 21
+data.zcon.txt 1
+data.zdud.txt 1

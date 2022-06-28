@@ -1,0 +1,14 @@
+13
+data.en.txt 1
+data.hp.txt 2
+data.zajo.txt 1
+data.zaoy.txt 1
+data.zbtx.txt 1
+data.zcaq.txt 1
+data.zcmy.txt 1
+data.zcon.txt 1
+data.zdep.txt 1
+data.zdju.txt 1
+data.zdkv.txt 1
+data.zduk.txt 1
+data.zezy.txt 1

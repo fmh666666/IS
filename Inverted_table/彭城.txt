@@ -1,0 +1,6 @@
+5
+data.be.txt 1
+data.zane.txt 1
+data.zawb.txt 9
+data.zawc.txt 9
+data.zfas.txt 1

@@ -1,0 +1,9 @@
+8
+data.cf.txt 1
+data.tz.txt 1
+data.zaun.txt 5
+data.zblq.txt 1
+data.zcww.txt 1
+data.zdwz.txt 2
+data.zdzm.txt 1
+data.zelt.txt 1

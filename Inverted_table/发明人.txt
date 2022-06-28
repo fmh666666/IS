@@ -1,0 +1,7 @@
+6
+data.gw.txt 14
+data.zajo.txt 1
+data.zamr.txt 2
+data.zauy.txt 5
+data.zawb.txt 1
+data.zayv.txt 1

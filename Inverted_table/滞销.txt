@@ -1,0 +1,15 @@
+14
+data.mi.txt 3
+data.ng.txt 1
+data.xk.txt 1
+data.yx.txt 2
+data.zalt.txt 4
+data.zbkv.txt 2
+data.zcby.txt 1
+data.zcli.txt 1
+data.zcsu.txt 1
+data.zdgv.txt 1
+data.zdsh.txt 2
+data.zeva.txt 1
+data.zeyg.txt 1
+data.zfai.txt 1

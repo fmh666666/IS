@@ -1,0 +1,10 @@
+9
+data.qb.txt 2
+data.zair.txt 1
+data.zajo.txt 1
+data.zawb.txt 1
+data.zbfz.txt 2
+data.zblq.txt 1
+data.zblr.txt 1
+data.zcak.txt 3
+data.zeaj.txt 1

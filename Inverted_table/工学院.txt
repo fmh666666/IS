@@ -1,0 +1,14 @@
+13
+data.gw.txt 3
+data.mu.txt 1
+data.zabe.txt 1
+data.zako.txt 1
+data.zaun.txt 12
+data.zcee.txt 1
+data.zcef.txt 3
+data.zcon.txt 1
+data.zctn.txt 1
+data.zdlm.txt 1
+data.zdoq.txt 1
+data.zene.txt 1
+data.zeqn.txt 1

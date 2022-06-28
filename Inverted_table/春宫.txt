@@ -1,0 +1,7 @@
+6
+data.zbrd.txt 1
+data.zbsd.txt 2
+data.zcfn.txt 1
+data.zcpb.txt 1
+data.zdod.txt 1
+data.zdud.txt 2

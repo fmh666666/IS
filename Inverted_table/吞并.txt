@@ -1,0 +1,6 @@
+5
+data.ga.txt 1
+data.zaej.txt 2
+data.zavg.txt 1
+data.zazo.txt 1
+data.zbpx.txt 1

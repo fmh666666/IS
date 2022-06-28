@@ -1,0 +1,10 @@
+9
+data.ff.txt 1
+data.kt.txt 1
+data.zatz.txt 1
+data.zawb.txt 1
+data.zawo.txt 6
+data.zdud.txt 1
+data.zdzi.txt 1
+data.zesi.txt 1
+data.zesq.txt 1

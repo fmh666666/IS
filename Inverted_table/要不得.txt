@@ -1,0 +1,15 @@
+14
+data.ga.txt 1
+data.op.txt 1
+data.zajo.txt 1
+data.zake.txt 1
+data.zalt.txt 1
+data.zaoc.txt 1
+data.zaxj.txt 1
+data.zbds.txt 2
+data.zbeb.txt 1
+data.zbsl.txt 1
+data.zcqp.txt 1
+data.zdcj.txt 1
+data.zdmw.txt 1
+data.zeos.txt 1

@@ -1,0 +1,14 @@
+13
+data.zajr.txt 1
+data.zass.txt 1
+data.zawz.txt 1
+data.zazo.txt 2
+data.zbcc.txt 1
+data.zbgd.txt 1
+data.zbut.txt 1
+data.zcic.txt 1
+data.zcln.txt 1
+data.zcrk.txt 1
+data.zdcw.txt 1
+data.zdof.txt 1
+data.zfaj.txt 1

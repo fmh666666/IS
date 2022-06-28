@@ -1,0 +1,7 @@
+6
+data.zayc.txt 1
+data.zcln.txt 1
+data.zcrk.txt 1
+data.zdst.txt 1
+data.zfaz.txt 2
+data.zfcp.txt 1

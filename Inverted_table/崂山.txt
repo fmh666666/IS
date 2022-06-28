@@ -1,0 +1,19 @@
+18
+data.ff.txt 3
+data.zbgd.txt 1
+data.zbhv.txt 5
+data.zbil.txt 3
+data.zbjk.txt 1
+data.zbrj.txt 1
+data.zbsm.txt 2
+data.zbua.txt 1
+data.zbye.txt 1
+data.zcbm.txt 1
+data.zcln.txt 1
+data.zdoq.txt 1
+data.zdzi.txt 1
+data.zedd.txt 5
+data.zeeh.txt 1
+data.zehp.txt 5
+data.zeoo.txt 1
+data.zevl.txt 2

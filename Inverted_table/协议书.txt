@@ -1,0 +1,13 @@
+12
+data.be.txt 1
+data.en.txt 1
+data.gw.txt 1
+data.zbdb.txt 1
+data.zcdv.txt 1
+data.zcli.txt 1
+data.zeam.txt 1
+data.zefu.txt 1
+data.zeqn.txt 1
+data.zeqv.txt 1
+data.zess.txt 2
+data.zfaj.txt 1

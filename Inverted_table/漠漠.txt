@@ -1,0 +1,22 @@
+21
+data.ew.txt 1
+data.tv.txt 9
+data.tz.txt 6
+data.ye.txt 1
+data.zajh.txt 1
+data.zako.txt 3
+data.zaoc.txt 1
+data.zaqw.txt 1
+data.zavg.txt 13
+data.zazx.txt 1
+data.zbgu.txt 1
+data.zbjq.txt 1
+data.zbut.txt 1
+data.zcdv.txt 1
+data.zcku.txt 1
+data.zdcy.txt 1
+data.zdgo.txt 1
+data.zdil.txt 1
+data.zdou.txt 32
+data.zeqh.txt 1
+data.zfdk.txt 2

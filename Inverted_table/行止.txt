@@ -1,0 +1,7 @@
+6
+data.jf.txt 2
+data.ka.txt 1
+data.zabe.txt 1
+data.zbsl.txt 1
+data.zelt.txt 1
+data.zeyg.txt 1

@@ -1,0 +1,10 @@
+9
+data.zaim.txt 1
+data.zako.txt 1
+data.zarr.txt 1
+data.zbot.txt 1
+data.zcda.txt 1
+data.zdzn.txt 3
+data.zeid.txt 1
+data.zeoo.txt 2
+data.zewg.txt 1

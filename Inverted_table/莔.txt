@@ -1,0 +1,9 @@
+8
+data.kt.txt 4
+data.zail.txt 1
+data.zayc.txt 1
+data.zbof.txt 2
+data.zcel.txt 1
+data.zdkk.txt 1
+data.zevy.txt 2
+data.zfbr.txt 1

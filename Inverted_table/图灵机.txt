@@ -1,0 +1,4 @@
+3
+data.vz.txt 2
+data.zdji.txt 3
+data.zedd.txt 2

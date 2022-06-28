@@ -1,0 +1,8 @@
+7
+data.ry.txt 21
+data.zabe.txt 1
+data.zavx.txt 5
+data.zdst.txt 1
+data.zeeh.txt 1
+data.zeid.txt 1
+data.zexu.txt 1

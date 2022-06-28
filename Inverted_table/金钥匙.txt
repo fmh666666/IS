@@ -1,0 +1,10 @@
+9
+data.co.txt 2
+data.jd.txt 1
+data.zbhv.txt 1
+data.zbjk.txt 3
+data.zbsu.txt 1
+data.zdod.txt 1
+data.zduk.txt 2
+data.zevy.txt 1
+data.zewv.txt 1

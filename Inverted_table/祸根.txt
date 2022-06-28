@@ -1,0 +1,13 @@
+12
+data.ha.txt 1
+data.zapl.txt 1
+data.zblh.txt 1
+data.zbye.txt 1
+data.zcku.txt 1
+data.zcsr.txt 1
+data.zdds.txt 2
+data.zdpg.txt 1
+data.zebn.txt 1
+data.zegn.txt 1
+data.zene.txt 2
+data.zexx.txt 1

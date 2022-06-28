@@ -1,0 +1,5 @@
+4
+data.zavx.txt 75
+data.zcln.txt 1
+data.zddx.txt 1
+data.zdzi.txt 2

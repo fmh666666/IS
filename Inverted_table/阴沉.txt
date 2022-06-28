@@ -1,0 +1,21 @@
+20
+data.bf.txt 1
+data.uz.txt 1
+data.vi.txt 3
+data.zair.txt 1
+data.zajo.txt 1
+data.zako.txt 1
+data.zalj.txt 1
+data.zavx.txt 1
+data.zaxk.txt 1
+data.zbeb.txt 1
+data.zccu.txt 3
+data.zcee.txt 1
+data.zcsu.txt 1
+data.zdcj.txt 1
+data.zdga.txt 1
+data.zdlm.txt 1
+data.zeid.txt 1
+data.zeve.txt 1
+data.zexv.txt 1
+data.zezf.txt 1

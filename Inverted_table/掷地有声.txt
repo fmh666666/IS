@@ -1,0 +1,9 @@
+8
+data.ew.txt 1
+data.ye.txt 1
+data.zarr.txt 1
+data.zasy.txt 1
+data.zcli.txt 1
+data.zdwn.txt 1
+data.zdxw.txt 1
+data.zelj.txt 1

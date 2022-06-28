@@ -1,0 +1,6 @@
+5
+data.ok.txt 1
+data.zasj.txt 1
+data.zdaw.txt 1
+data.zfai.txt 3
+data.zfaj.txt 5

@@ -1,0 +1,7 @@
+6
+data.hz.txt 1
+data.vi.txt 1
+data.wg.txt 1
+data.zaic.txt 2
+data.zdlo.txt 2
+data.zeeq.txt 1

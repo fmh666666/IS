@@ -1,0 +1,7 @@
+6
+data.zajn.txt 1
+data.zcoy.txt 1
+data.zdpg.txt 1
+data.zewn.txt 1
+data.zexv.txt 1
+data.zfaz.txt 1

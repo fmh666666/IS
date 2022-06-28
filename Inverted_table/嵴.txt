@@ -1,0 +1,4 @@
+3
+data.zdar.txt 1
+data.zemb.txt 1
+data.zeqn.txt 1

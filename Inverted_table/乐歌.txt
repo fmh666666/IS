@@ -1,0 +1,5 @@
+4
+data.zamr.txt 3
+data.zcgi.txt 1
+data.zdji.txt 2
+data.zeqn.txt 2

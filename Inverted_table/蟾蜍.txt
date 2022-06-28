@@ -1,0 +1,12 @@
+11
+data.fe.txt 1
+data.ft.txt 3
+data.gw.txt 1
+data.zbfp.txt 1
+data.zbfz.txt 5
+data.zbgu.txt 3
+data.zdkv.txt 1
+data.zdlm.txt 1
+data.zdwv.txt 1
+data.zejn.txt 1
+data.zezy.txt 1

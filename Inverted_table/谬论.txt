@@ -1,0 +1,12 @@
+11
+data.op.txt 4
+data.vi.txt 1
+data.zadv.txt 1
+data.zaoo.txt 1
+data.zbua.txt 1
+data.zbut.txt 1
+data.zctp.txt 1
+data.zdbf.txt 1
+data.zdwz.txt 1
+data.zedy.txt 1
+data.zeve.txt 1

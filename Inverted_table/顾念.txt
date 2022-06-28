@@ -1,0 +1,4 @@
+3
+data.zapl.txt 2
+data.zbia.txt 1
+data.zdzm.txt 2

@@ -1,0 +1,13 @@
+12
+data.ek.txt 1
+data.ga.txt 1
+data.tj.txt 1
+data.zafq.txt 1
+data.zalc.txt 1
+data.zapf.txt 1
+data.zaxk.txt 3
+data.zaxp.txt 1
+data.zbut.txt 1
+data.zcjd.txt 1
+data.zcqe.txt 1
+data.zfaz.txt 1

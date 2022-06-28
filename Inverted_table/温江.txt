@@ -1,0 +1,6 @@
+5
+data.ep.txt 2
+data.zbel.txt 1
+data.zcrv.txt 1
+data.zduc.txt 3
+data.zefw.txt 1

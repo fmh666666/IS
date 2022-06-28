@@ -1,0 +1,7 @@
+6
+data.zcdl.txt 1
+data.zcdz.txt 1
+data.zcic.txt 2
+data.zcoy.txt 1
+data.zdkp.txt 1
+data.zeay.txt 1

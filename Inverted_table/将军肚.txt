@@ -1,0 +1,4 @@
+3
+data.zazn.txt 2
+data.zbof.txt 1
+data.zcvi.txt 1

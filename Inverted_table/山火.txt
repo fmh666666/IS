@@ -1,0 +1,7 @@
+6
+data.zbuj.txt 1
+data.zbux.txt 1
+data.zdst.txt 1
+data.zdtv.txt 1
+data.zeoh.txt 1
+data.zewg.txt 2

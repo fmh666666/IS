@@ -1,0 +1,12 @@
+11
+data.ek.txt 1
+data.gw.txt 1
+data.wc.txt 1
+data.zafu.txt 1
+data.zazn.txt 1
+data.zbxy.txt 1
+data.zdst.txt 1
+data.zdwz.txt 2
+data.zebf.txt 1
+data.zedo.txt 1
+data.zeob.txt 4

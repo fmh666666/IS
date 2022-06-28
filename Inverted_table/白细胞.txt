@@ -1,0 +1,12 @@
+11
+data.jf.txt 1
+data.pa.txt 1
+data.zawo.txt 1
+data.zawu.txt 1
+data.zbha.txt 11
+data.zccu.txt 1
+data.zcts.txt 3
+data.zczl.txt 5
+data.zddm.txt 1
+data.zdkv.txt 1
+data.zewg.txt 1

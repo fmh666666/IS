@@ -1,0 +1,25 @@
+24
+data.gw.txt 6
+data.jj.txt 1
+data.mo.txt 1
+data.ok.txt 1
+data.zafi.txt 1
+data.zafq.txt 3
+data.zaim.txt 1
+data.zajr.txt 1
+data.zamr.txt 1
+data.zavx.txt 5
+data.zblq.txt 1
+data.zbpm.txt 1
+data.zbqu.txt 1
+data.zccu.txt 1
+data.zcse.txt 1
+data.zdgp.txt 2
+data.zdji.txt 1
+data.zdou.txt 1
+data.zdpf.txt 1
+data.zdtr.txt 1
+data.zdxw.txt 1
+data.zedd.txt 1
+data.zeqv.txt 1
+data.zewv.txt 1

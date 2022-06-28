@@ -1,0 +1,19 @@
+18
+data.zako.txt 1
+data.zazw.txt 1
+data.zazx.txt 1
+data.zbmt.txt 1
+data.zbru.txt 1
+data.zbsf.txt 1
+data.zbwa.txt 1
+data.zcko.txt 1
+data.zcxr.txt 1
+data.zdby.txt 4
+data.zdlg.txt 1
+data.zeaj.txt 8
+data.zedx.txt 2
+data.zemb.txt 1
+data.zerh.txt 1
+data.zess.txt 2
+data.zfas.txt 1
+data.zfbr.txt 1

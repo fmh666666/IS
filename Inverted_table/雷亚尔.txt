@@ -1,0 +1,6 @@
+5
+data.fe.txt 1
+data.zass.txt 1
+data.zavg.txt 1
+data.zcej.txt 1
+data.zess.txt 2

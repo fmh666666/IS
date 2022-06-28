@@ -1,0 +1,18 @@
+17
+data.co.txt 11
+data.cq.txt 1
+data.kq.txt 1
+data.tz.txt 1
+data.zabe.txt 1
+data.zawc.txt 2
+data.zaxj.txt 1
+data.zaxk.txt 1
+data.zbpc.txt 24
+data.zbvf.txt 2
+data.zbvg.txt 6
+data.zcve.txt 2
+data.zcvi.txt 1
+data.zdep.txt 1
+data.zdmw.txt 1
+data.zeac.txt 1
+data.zeam.txt 1

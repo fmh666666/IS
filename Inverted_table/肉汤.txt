@@ -1,0 +1,26 @@
+25
+data.ud.txt 1
+data.zaic.txt 1
+data.zasw.txt 2
+data.zawm.txt 1
+data.zaxx.txt 1
+data.zazw.txt 1
+data.zbfg.txt 1
+data.zbil.txt 1
+data.zbor.txt 1
+data.zbsd.txt 1
+data.zbua.txt 1
+data.zbyb.txt 1
+data.zctp.txt 1
+data.zdep.txt 1
+data.zdpg.txt 4
+data.zdpw.txt 1
+data.zdrq.txt 1
+data.zdwl.txt 1
+data.zefw.txt 1
+data.zegn.txt 2
+data.zeid.txt 1
+data.zess.txt 6
+data.zewg.txt 1
+data.zezn.txt 1
+data.zfaj.txt 1

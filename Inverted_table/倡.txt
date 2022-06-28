@@ -1,0 +1,13 @@
+12
+data.en.txt 1
+data.zaim.txt 1
+data.zapf.txt 1
+data.zasq.txt 1
+data.zawc.txt 1
+data.zbaq.txt 1
+data.zbnp.txt 2
+data.zcdg.txt 1
+data.zciq.txt 1
+data.zcrg.txt 9
+data.zdgt.txt 1
+data.zfbr.txt 1

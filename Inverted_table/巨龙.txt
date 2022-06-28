@@ -1,0 +1,19 @@
+18
+data.dg.txt 3
+data.gw.txt 1
+data.zafy.txt 1
+data.zaic.txt 3
+data.zbfz.txt 1
+data.zbkj.txt 3
+data.zbut.txt 1
+data.zdaa.txt 1
+data.zdby.txt 1
+data.zddp.txt 2
+data.zdju.txt 1
+data.zdkk.txt 1
+data.zdud.txt 1
+data.zdwv.txt 3
+data.zdwz.txt 1
+data.zefv.txt 1
+data.zeqv.txt 2
+data.zesq.txt 1

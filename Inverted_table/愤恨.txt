@@ -1,0 +1,17 @@
+16
+data.fp.txt 1
+data.ha.txt 1
+data.zabe.txt 2
+data.zaej.txt 1
+data.zaim.txt 1
+data.zajr.txt 1
+data.zarr.txt 1
+data.zbaf.txt 1
+data.zcee.txt 1
+data.zcic.txt 1
+data.zcis.txt 1
+data.zdgp.txt 2
+data.zdll.txt 1
+data.zebn.txt 3
+data.zezh.txt 1
+data.zezn.txt 1

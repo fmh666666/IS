@@ -1,0 +1,7 @@
+6
+data.zako.txt 1
+data.zard.txt 1
+data.zdkc.txt 1
+data.zdof.txt 1
+data.zeqn.txt 1
+data.zesi.txt 2

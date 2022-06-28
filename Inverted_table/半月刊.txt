@@ -1,0 +1,4 @@
+3
+data.wc.txt 1
+data.zbor.txt 1
+data.zewv.txt 2

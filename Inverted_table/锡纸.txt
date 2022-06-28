@@ -1,0 +1,18 @@
+17
+data.ep.txt 1
+data.mo.txt 1
+data.to.txt 2
+data.zarr.txt 1
+data.zawc.txt 2
+data.zawo.txt 1
+data.zccl.txt 1
+data.zdil.txt 2
+data.zdmw.txt 3
+data.zdou.txt 1
+data.zdvl.txt 1
+data.zdxw.txt 2
+data.zelt.txt 2
+data.zeqn.txt 1
+data.zexk.txt 1
+data.zexx.txt 1
+data.zezn.txt 1

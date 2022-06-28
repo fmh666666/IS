@@ -1,0 +1,4 @@
+3
+data.zako.txt 5
+data.zedx.txt 3
+data.zezy.txt 1

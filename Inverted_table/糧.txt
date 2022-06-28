@@ -1,0 +1,16 @@
+15
+data.bf.txt 1
+data.mt.txt 1
+data.mu.txt 1
+data.zabx.txt 2
+data.zall.txt 1
+data.zawc.txt 1
+data.zbhd.txt 1
+data.zcfn.txt 3
+data.zcfx.txt 1
+data.zcku.txt 1
+data.zdqk.txt 1
+data.zeew.txt 1
+data.zene.txt 3
+data.zeqn.txt 1
+data.zezn.txt 2

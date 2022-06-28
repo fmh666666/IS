@@ -1,0 +1,8 @@
+7
+data.op.txt 5
+data.zawo.txt 2
+data.zbye.txt 1
+data.zcon.txt 1
+data.zenn.txt 2
+data.zeob.txt 1
+data.zess.txt 3

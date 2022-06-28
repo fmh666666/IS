@@ -1,0 +1,9 @@
+8
+data.ft.txt 1
+data.hp.txt 1
+data.ok.txt 3
+data.ud.txt 1
+data.zbof.txt 1
+data.zcsu.txt 4
+data.zdle.txt 1
+data.zfaz.txt 1

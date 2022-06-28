@@ -1,0 +1,16 @@
+15
+data.ew.txt 1
+data.ff.txt 1
+data.zanm.txt 1
+data.zaop.txt 1
+data.zazw.txt 3
+data.zazx.txt 6
+data.zbcc.txt 1
+data.zbse.txt 1
+data.zcel.txt 1
+data.zclh.txt 1
+data.zcts.txt 1
+data.zdcj.txt 1
+data.zdrq.txt 2
+data.zegn.txt 1
+data.zehp.txt 1

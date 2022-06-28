@@ -1,0 +1,16 @@
+15
+data.co.txt 4
+data.zacd.txt 1
+data.zalt.txt 2
+data.zaqf.txt 1
+data.zawb.txt 1
+data.zchw.txt 1
+data.zcln.txt 1
+data.zddl.txt 2
+data.zdpw.txt 1
+data.zdvl.txt 1
+data.zdwv.txt 1
+data.zebn.txt 1
+data.zeta.txt 1
+data.zezy.txt 2
+data.zfae.txt 1

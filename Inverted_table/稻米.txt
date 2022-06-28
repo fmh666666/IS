@@ -1,0 +1,7 @@
+6
+data.aj.txt 3
+data.zbwa.txt 1
+data.zcft.txt 1
+data.zdcw.txt 1
+data.zeam.txt 1
+data.zexk.txt 1

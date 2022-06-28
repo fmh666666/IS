@@ -1,0 +1,15 @@
+14
+data.hu.txt 1
+data.kt.txt 1
+data.ng.txt 1
+data.tz.txt 1
+data.zahd.txt 1
+data.zalj.txt 1
+data.zcuh.txt 2
+data.zdeb.txt 1
+data.zdep.txt 1
+data.zdhw.txt 1
+data.zenn.txt 1
+data.zfaj.txt 4
+data.zfaw.txt 1
+data.zfcp.txt 1

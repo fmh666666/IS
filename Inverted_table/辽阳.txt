@@ -1,0 +1,18 @@
+17
+data.zabx.txt 2
+data.zacp.txt 1
+data.zako.txt 1
+data.zalt.txt 2
+data.zawb.txt 1
+data.zbhd.txt 1
+data.zbpm.txt 1
+data.zbwq.txt 1
+data.zcdv.txt 1
+data.zcue.txt 1
+data.zdaa.txt 1
+data.zdgt.txt 1
+data.zduk.txt 1
+data.zeeh.txt 1
+data.zefp.txt 1
+data.zeqn.txt 4
+data.zevl.txt 1

@@ -1,0 +1,8 @@
+7
+data.zbel.txt 1
+data.zbfg.txt 38
+data.zbsf.txt 1
+data.zdby.txt 1
+data.zdle.txt 2
+data.zdof.txt 1
+data.zewd.txt 6

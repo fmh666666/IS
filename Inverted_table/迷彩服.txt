@@ -1,0 +1,7 @@
+6
+data.mo.txt 1
+data.zaop.txt 1
+data.zawu.txt 1
+data.zdlm.txt 1
+data.zezy.txt 1
+data.zfaw.txt 1

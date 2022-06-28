@@ -1,0 +1,15 @@
+14
+data.ng.txt 1
+data.pa.txt 4
+data.zajo.txt 1
+data.zalt.txt 1
+data.zawc.txt 1
+data.zbcj.txt 1
+data.zbkf.txt 1
+data.zbvf.txt 1
+data.zcda.txt 1
+data.zcse.txt 3
+data.zdvl.txt 1
+data.zdwn.txt 1
+data.zeos.txt 2
+data.zewv.txt 1

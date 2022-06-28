@@ -1,0 +1,9 @@
+8
+data.hu.txt 2
+data.zbil.txt 1
+data.zbjh.txt 1
+data.zbnp.txt 2
+data.zbsm.txt 1
+data.zcxp.txt 1
+data.zdlw.txt 3
+data.zeeq.txt 2

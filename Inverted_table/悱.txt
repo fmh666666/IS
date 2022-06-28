@@ -1,0 +1,4 @@
+3
+data.co.txt 2
+data.fe.txt 1
+data.zasy.txt 1

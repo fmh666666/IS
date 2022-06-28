@@ -1,0 +1,6 @@
+5
+data.en.txt 1
+data.op.txt 1
+data.zacw.txt 1
+data.zaqr.txt 1
+data.zcve.txt 1

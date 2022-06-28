@@ -1,0 +1,14 @@
+13
+data.co.txt 1
+data.ft.txt 1
+data.mt.txt 2
+data.zadv.txt 1
+data.zapl.txt 1
+data.zawo.txt 1
+data.zbgw.txt 1
+data.zbsl.txt 1
+data.zbtx.txt 1
+data.zcrk.txt 1
+data.zeam.txt 1
+data.zedo.txt 1
+data.zezn.txt 1

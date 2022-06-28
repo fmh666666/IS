@@ -1,0 +1,7 @@
+6
+data.fp.txt 4
+data.zabe.txt 1
+data.zcej.txt 2
+data.zcse.txt 1
+data.zcue.txt 1
+data.zeeq.txt 5

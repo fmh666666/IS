@@ -1,0 +1,18 @@
+17
+data.kt.txt 1
+data.ok.txt 1
+data.op.txt 1
+data.pa.txt 1
+data.zahd.txt 2
+data.zbdb.txt 1
+data.zbga.txt 1
+data.zbkj.txt 2
+data.zbwa.txt 1
+data.zciq.txt 1
+data.zcni.txt 1
+data.zdou.txt 2
+data.zduo.txt 1
+data.zeds.txt 1
+data.zess.txt 1
+data.zfai.txt 2
+data.zfaj.txt 2

@@ -1,0 +1,19 @@
+18
+data.jf.txt 1
+data.nh.txt 1
+data.yx.txt 1
+data.zafe.txt 1
+data.zair.txt 1
+data.zawb.txt 2
+data.zazo.txt 2
+data.zbta.txt 1
+data.zbua.txt 2
+data.zcih.txt 1
+data.zcon.txt 1
+data.zdep.txt 1
+data.zdkv.txt 1
+data.zeaf.txt 1
+data.zeam.txt 4
+data.zeds.txt 1
+data.zeoh.txt 1
+data.zess.txt 2

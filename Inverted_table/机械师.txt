@@ -1,0 +1,10 @@
+9
+data.gw.txt 1
+data.ry.txt 4
+data.tv.txt 1
+data.zako.txt 1
+data.zcse.txt 1
+data.zedx.txt 1
+data.zerv.txt 1
+data.zevq.txt 1
+data.zezh.txt 1

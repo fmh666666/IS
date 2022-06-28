@@ -1,0 +1,7 @@
+6
+data.mu.txt 1
+data.ok.txt 1
+data.zanh.txt 1
+data.zbse.txt 1
+data.zdic.txt 2
+data.zeay.txt 1

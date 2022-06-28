@@ -1,0 +1,13 @@
+12
+data.bb.txt 1
+data.be.txt 2
+data.zawo.txt 2
+data.zazw.txt 1
+data.zbfx.txt 1
+data.zbgw.txt 1
+data.zbof.txt 1
+data.zbsm.txt 2
+data.zbwa.txt 1
+data.zclh.txt 1
+data.zdlo.txt 1
+data.zeeq.txt 1

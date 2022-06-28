@@ -1,0 +1,5 @@
+4
+data.zdzi.txt 1
+data.zeai.txt 4
+data.zegz.txt 1
+data.zeil.txt 1

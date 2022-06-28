@@ -1,0 +1,5 @@
+4
+data.zawu.txt 3
+data.zbmw.txt 1
+data.zcxh.txt 1
+data.zene.txt 1

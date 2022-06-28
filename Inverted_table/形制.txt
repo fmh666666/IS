@@ -1,0 +1,7 @@
+6
+data.kt.txt 1
+data.tv.txt 1
+data.zasw.txt 1
+data.zaxj.txt 2
+data.zbdx.txt 1
+data.zbzf.txt 1

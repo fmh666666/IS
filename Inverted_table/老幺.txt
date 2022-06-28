@@ -1,0 +1,5 @@
+4
+data.pa.txt 3
+data.zalt.txt 2
+data.zbup.txt 3
+data.zexk.txt 1

@@ -1,0 +1,5 @@
+4
+data.gw.txt 1
+data.zabe.txt 1
+data.zafi.txt 1
+data.zbgu.txt 1

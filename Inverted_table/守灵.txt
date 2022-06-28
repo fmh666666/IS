@@ -1,0 +1,7 @@
+6
+data.bs.txt 3
+data.fp.txt 5
+data.zayc.txt 2
+data.zbuj.txt 1
+data.zdwk.txt 1
+data.zeaf.txt 1

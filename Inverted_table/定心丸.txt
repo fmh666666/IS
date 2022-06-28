@@ -1,0 +1,4 @@
+3
+data.zdic.txt 1
+data.zedy.txt 1
+data.zeos.txt 1

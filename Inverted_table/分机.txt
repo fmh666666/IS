@@ -1,0 +1,7 @@
+6
+data.zajh.txt 1
+data.zarc.txt 6
+data.zbhd.txt 1
+data.zdeb.txt 1
+data.zdoq.txt 3
+data.zebv.txt 1

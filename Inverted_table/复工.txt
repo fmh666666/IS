@@ -1,0 +1,5 @@
+4
+data.zako.txt 1
+data.zaoy.txt 2
+data.zess.txt 1
+data.zewg.txt 1

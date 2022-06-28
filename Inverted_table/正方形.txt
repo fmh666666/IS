@@ -1,0 +1,17 @@
+16
+data.by.txt 2
+data.mk.txt 2
+data.zahp.txt 1
+data.zall.txt 1
+data.zayc.txt 1
+data.zbcv.txt 1
+data.zbkv.txt 1
+data.zbye.txt 1
+data.zcem.txt 1
+data.zcjd.txt 1
+data.zcrn.txt 1
+data.zdkc.txt 4
+data.zdlo.txt 2
+data.zdoq.txt 2
+data.zejn.txt 2
+data.zekw.txt 1

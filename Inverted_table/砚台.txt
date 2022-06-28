@@ -1,0 +1,7 @@
+6
+data.ew.txt 1
+data.uz.txt 1
+data.yx.txt 54
+data.zawo.txt 2
+data.zaxj.txt 2
+data.zedo.txt 1

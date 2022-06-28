@@ -1,0 +1,19 @@
+18
+data.bf.txt 2
+data.jf.txt 61
+data.zawc.txt 1
+data.zawu.txt 4
+data.zbes.txt 1
+data.zbjh.txt 6
+data.zbpx.txt 1
+data.zbwa.txt 1
+data.zcdv.txt 1
+data.zcmn.txt 1
+data.zcpc.txt 2
+data.zcpx.txt 1
+data.zdgp.txt 2
+data.zdme.txt 1
+data.zdzg.txt 2
+data.zeaj.txt 1
+data.zeqh.txt 1
+data.zfcp.txt 1

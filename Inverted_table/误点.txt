@@ -1,0 +1,18 @@
+17
+data.aj.txt 3
+data.jf.txt 1
+data.mu.txt 1
+data.ye.txt 1
+data.zamp.txt 1
+data.zaun.txt 1
+data.zbla.txt 1
+data.zbnp.txt 1
+data.zbup.txt 1
+data.zctp.txt 1
+data.zdcj.txt 1
+data.zddp.txt 2
+data.zdgt.txt 1
+data.zecf.txt 1
+data.zedy.txt 1
+data.zesi.txt 1
+data.zesq.txt 1

@@ -1,0 +1,12 @@
+11
+data.ew.txt 1
+data.zaqf.txt 2
+data.zasr.txt 2
+data.zass.txt 1
+data.zbse.txt 1
+data.zbua.txt 1
+data.zbvp.txt 1
+data.zclh.txt 2
+data.zddv.txt 2
+data.zdeb.txt 1
+data.zevt.txt 1

@@ -1,0 +1,14 @@
+13
+data.ka.txt 1
+data.tv.txt 1
+data.ud.txt 2
+data.zacd.txt 1
+data.zagb.txt 1
+data.zair.txt 1
+data.zasy.txt 2
+data.zbwa.txt 1
+data.zcrk.txt 2
+data.zdcy.txt 1
+data.zefu.txt 1
+data.zeun.txt 1
+data.zexm.txt 1

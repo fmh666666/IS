@@ -1,0 +1,12 @@
+11
+data.co.txt 6
+data.ud.txt 1
+data.zajo.txt 1
+data.zcgo.txt 1
+data.zcku.txt 1
+data.zczj.txt 3
+data.zdpf.txt 1
+data.zeec.txt 1
+data.zene.txt 1
+data.zezy.txt 3
+data.zfai.txt 1

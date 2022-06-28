@@ -1,0 +1,17 @@
+16
+data.co.txt 2
+data.fz.txt 2
+data.op.txt 1
+data.tv.txt 2
+data.wc.txt 1
+data.zaim.txt 1
+data.zapl.txt 1
+data.zasd.txt 1
+data.zbgd.txt 1
+data.zbjq.txt 1
+data.zbpx.txt 2
+data.zcdv.txt 1
+data.zdeb.txt 1
+data.zdme.txt 1
+data.zdmw.txt 1
+data.zdou.txt 1

@@ -1,0 +1,10 @@
+9
+data.ep.txt 1
+data.zaej.txt 4
+data.zawc.txt 1
+data.zblr.txt 1
+data.zbsl.txt 1
+data.zbyv.txt 1
+data.zcvq.txt 1
+data.zdzm.txt 1
+data.zfcj.txt 1

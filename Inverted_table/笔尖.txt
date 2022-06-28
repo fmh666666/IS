@@ -1,0 +1,12 @@
+11
+data.bb.txt 2
+data.tj.txt 7
+data.zafk.txt 1
+data.zajo.txt 1
+data.zcpb.txt 1
+data.zcts.txt 3
+data.zdlg.txt 1
+data.zdpw.txt 1
+data.zedd.txt 1
+data.zefd.txt 1
+data.zeoh.txt 1

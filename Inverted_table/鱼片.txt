@@ -1,0 +1,25 @@
+24
+data.ha.txt 1
+data.mt.txt 1
+data.mx.txt 1
+data.nh.txt 1
+data.pq.txt 1
+data.vi.txt 1
+data.zaej.txt 4
+data.zahp.txt 1
+data.zasw.txt 1
+data.zbel.txt 1
+data.zbor.txt 2
+data.zbts.txt 1
+data.zbyv.txt 1
+data.zcis.txt 2
+data.zcpc.txt 1
+data.zctp.txt 1
+data.zczp.txt 1
+data.zdaw.txt 1
+data.zdpg.txt 1
+data.zdzi.txt 1
+data.zeac.txt 1
+data.zeaj.txt 1
+data.zezh.txt 1
+data.zfaz.txt 1

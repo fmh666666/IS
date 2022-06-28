@@ -1,0 +1,4 @@
+3
+data.zasw.txt 3
+data.zbnx.txt 1
+data.zbts.txt 7

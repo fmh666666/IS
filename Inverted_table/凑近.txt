@@ -1,0 +1,9 @@
+8
+data.en.txt 1
+data.zadv.txt 1
+data.zbof.txt 1
+data.zdic.txt 1
+data.zedx.txt 1
+data.zelt.txt 1
+data.zexu.txt 1
+data.zexv.txt 1

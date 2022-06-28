@@ -1,0 +1,18 @@
+17
+data.fp.txt 2
+data.to.txt 1
+data.tz.txt 1
+data.zasr.txt 1
+data.zass.txt 8
+data.zbmw.txt 1
+data.zbnp.txt 1
+data.zbnx.txt 2
+data.zbsu.txt 3
+data.zbvp.txt 1
+data.zbzg.txt 7
+data.zcfn.txt 3
+data.zcic.txt 4
+data.zdwz.txt 1
+data.zdzg.txt 2
+data.zegn.txt 2
+data.zesi.txt 1

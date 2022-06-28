@@ -1,0 +1,6 @@
+5
+data.zaoc.txt 2
+data.zbdx.txt 6
+data.zbeb.txt 2
+data.zblr.txt 2
+data.zcko.txt 2

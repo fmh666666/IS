@@ -1,0 +1,6 @@
+5
+data.wg.txt 1
+data.xk.txt 1
+data.zake.txt 2
+data.zbjk.txt 1
+data.zbot.txt 11

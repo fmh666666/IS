@@ -1,0 +1,14 @@
+13
+data.ew.txt 5
+data.zbgu.txt 11
+data.zblr.txt 5
+data.zcvi.txt 1
+data.zdep.txt 3
+data.zdgo.txt 5
+data.zdmw.txt 7
+data.zefu.txt 2
+data.zehp.txt 1
+data.zess.txt 1
+data.zeun.txt 6
+data.zevq.txt 1
+data.zeyg.txt 1

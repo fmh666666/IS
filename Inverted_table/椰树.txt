@@ -1,0 +1,22 @@
+21
+data.hz.txt 2
+data.zall.txt 1
+data.zane.txt 1
+data.zaoo.txt 3
+data.zauy.txt 1
+data.zawm.txt 1
+data.zayv.txt 1
+data.zbgw.txt 1
+data.zcel.txt 1
+data.zclm.txt 1
+data.zcww.txt 55
+data.zdlm.txt 1
+data.zdoq.txt 1
+data.zdpf.txt 1
+data.zdpw.txt 4
+data.zduk.txt 3
+data.zduo.txt 1
+data.zdwd.txt 1
+data.zdxw.txt 1
+data.zejn.txt 1
+data.zexu.txt 5

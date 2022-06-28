@@ -1,0 +1,12 @@
+11
+data.cf.txt 2
+data.jf.txt 2
+data.zawo.txt 1
+data.zayd.txt 1
+data.zbfr.txt 1
+data.zcls.txt 1
+data.zcqs.txt 2
+data.zcrn.txt 1
+data.zddl.txt 2
+data.zdwd.txt 1
+data.zfaz.txt 1

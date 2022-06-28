@@ -1,0 +1,18 @@
+17
+data.aj.txt 1
+data.bf.txt 1
+data.ev.txt 1
+data.jf.txt 1
+data.ka.txt 1
+data.ry.txt 2
+data.zake.txt 1
+data.zalt.txt 2
+data.zblh.txt 1
+data.zbof.txt 1
+data.zbwq.txt 1
+data.zcpb.txt 1
+data.zdtr.txt 1
+data.zdzi.txt 1
+data.zeac.txt 1
+data.zefp.txt 1
+data.zfai.txt 1

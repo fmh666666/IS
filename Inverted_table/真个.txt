@@ -1,0 +1,9 @@
+8
+data.dg.txt 1
+data.ok.txt 1
+data.zacw.txt 1
+data.zank.txt 1
+data.zasr.txt 6
+data.zazo.txt 1
+data.zdcy.txt 1
+data.zeel.txt 1

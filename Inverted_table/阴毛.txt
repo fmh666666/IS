@@ -1,0 +1,7 @@
+6
+data.ha.txt 1
+data.op.txt 1
+data.zawc.txt 1
+data.zbwq.txt 2
+data.zdlm.txt 1
+data.zejn.txt 1

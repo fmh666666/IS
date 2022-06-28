@@ -1,0 +1,9 @@
+8
+data.ng.txt 1
+data.zbcc.txt 2
+data.zbcv.txt 1
+data.zbor.txt 1
+data.zbvn.txt 1
+data.zcak.txt 1
+data.zcgi.txt 1
+data.zeac.txt 1

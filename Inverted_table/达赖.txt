@@ -1,0 +1,9 @@
+8
+data.zank.txt 4
+data.zaql.txt 3
+data.zawm.txt 1
+data.zbdb.txt 3
+data.zbpc.txt 2
+data.zbuj.txt 1
+data.zevq.txt 1
+data.zfaj.txt 3

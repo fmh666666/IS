@@ -1,0 +1,7 @@
+6
+data.cz.txt 1
+data.zall.txt 1
+data.zdgp.txt 1
+data.zeoh.txt 1
+data.zerh.txt 1
+data.zexk.txt 1

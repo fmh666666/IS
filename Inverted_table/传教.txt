@@ -1,0 +1,7 @@
+6
+data.ga.txt 1
+data.jf.txt 2
+data.zbcc.txt 1
+data.zbnp.txt 1
+data.zeqv.txt 1
+data.zezy.txt 1

@@ -1,0 +1,17 @@
+16
+data.ga.txt 1
+data.kq.txt 1
+data.ye.txt 1
+data.zaeh.txt 1
+data.zajh.txt 1
+data.zbem.txt 2
+data.zbts.txt 3
+data.zccl.txt 1
+data.zcnn.txt 2
+data.zdil.txt 2
+data.zdyv.txt 1
+data.zeay.txt 1
+data.zeez.txt 1
+data.zekw.txt 1
+data.zeta.txt 1
+data.zezn.txt 2

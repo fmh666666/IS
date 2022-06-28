@@ -1,0 +1,17 @@
+16
+data.bs.txt 2
+data.ew.txt 1
+data.ka.txt 11
+data.zapl.txt 1
+data.zatz.txt 1
+data.zbel.txt 1
+data.zbfz.txt 1
+data.zbla.txt 1
+data.zcic.txt 3
+data.zddl.txt 1
+data.zdkc.txt 1
+data.zdll.txt 1
+data.zdrq.txt 1
+data.zehp.txt 1
+data.zexk.txt 1
+data.zezy.txt 1

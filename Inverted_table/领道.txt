@@ -1,0 +1,2 @@
+1
+data.zasy.txt 1

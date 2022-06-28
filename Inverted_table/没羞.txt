@@ -1,0 +1,7 @@
+6
+data.vi.txt 1
+data.zddp.txt 1
+data.zddv.txt 1
+data.zdod.txt 1
+data.zduo.txt 1
+data.zeew.txt 2

@@ -1,0 +1,12 @@
+11
+data.fz.txt 4
+data.ga.txt 21
+data.yx.txt 1
+data.zafy.txt 1
+data.zagr.txt 1
+data.zaqr.txt 15
+data.zass.txt 1
+data.zbse.txt 1
+data.zcvq.txt 2
+data.zexm.txt 1
+data.zfai.txt 1

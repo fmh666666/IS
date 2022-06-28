@@ -1,0 +1,23 @@
+22
+data.kq.txt 3
+data.tv.txt 1
+data.tz.txt 2
+data.zajn.txt 1
+data.zbcc.txt 1
+data.zbcj.txt 2
+data.zbcv.txt 1
+data.zbeb.txt 1
+data.zbru.txt 4
+data.zcpa.txt 1
+data.zcpb.txt 1
+data.zcpc.txt 1
+data.zcwn.txt 1
+data.zdcy.txt 1
+data.zdqz.txt 1
+data.zdwv.txt 1
+data.zdyv.txt 1
+data.zeec.txt 1
+data.zeik.txt 1
+data.zelj.txt 1
+data.zevq.txt 2
+data.zfai.txt 1

@@ -1,0 +1,14 @@
+13
+data.ga.txt 1
+data.jj.txt 3
+data.zavx.txt 1
+data.zbel.txt 1
+data.zbfx.txt 1
+data.zbkr.txt 1
+data.zcef.txt 1
+data.zcyv.txt 1
+data.zdou.txt 1
+data.zdwz.txt 1
+data.zeds.txt 1
+data.zedx.txt 1
+data.zefu.txt 1

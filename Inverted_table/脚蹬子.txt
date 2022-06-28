@@ -1,0 +1,7 @@
+6
+data.bb.txt 1
+data.zbot.txt 1
+data.zdod.txt 1
+data.zdwl.txt 1
+data.zelj.txt 1
+data.zess.txt 1

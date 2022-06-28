@@ -1,0 +1,9 @@
+8
+data.ep.txt 1
+data.zazn.txt 2
+data.zcaq.txt 1
+data.zcem.txt 1
+data.zcll.txt 1
+data.zcvt.txt 1
+data.zdgp.txt 1
+data.zdzn.txt 1

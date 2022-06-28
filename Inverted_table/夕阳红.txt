@@ -1,0 +1,13 @@
+12
+data.en.txt 1
+data.op.txt 1
+data.zabe.txt 1
+data.zajh.txt 1
+data.zaqr.txt 1
+data.zaxx.txt 1
+data.zazx.txt 1
+data.zcdv.txt 1
+data.zclh.txt 11
+data.zcmy.txt 1
+data.zdeb.txt 1
+data.zeeh.txt 1

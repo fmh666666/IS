@@ -1,0 +1,9 @@
+8
+data.ff.txt 1
+data.zabe.txt 1
+data.zadv.txt 1
+data.zbht.txt 1
+data.zcdv.txt 1
+data.zdaw.txt 1
+data.zdkp.txt 4
+data.zdod.txt 2

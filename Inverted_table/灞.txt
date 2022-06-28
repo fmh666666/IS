@@ -1,0 +1,19 @@
+18
+data.mx.txt 6
+data.nh.txt 2
+data.to.txt 2
+data.zaeh.txt 1
+data.zall.txt 1
+data.zalm.txt 1
+data.zawo.txt 1
+data.zazo.txt 2
+data.zbel.txt 2
+data.zcdz.txt 1
+data.zdkk.txt 1
+data.zdkv.txt 4
+data.zdlw.txt 1
+data.zdzi.txt 2
+data.zedx.txt 5
+data.zefu.txt 2
+data.zefv.txt 7
+data.zerh.txt 2

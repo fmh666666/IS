@@ -1,0 +1,10 @@
+9
+data.mx.txt 1
+data.zabx.txt 3
+data.zakb.txt 3
+data.zaop.txt 2
+data.zbaq.txt 1
+data.zbha.txt 3
+data.zdkk.txt 3
+data.zdzg.txt 1
+data.zezy.txt 1

@@ -1,0 +1,5 @@
+4
+data.zawc.txt 2
+data.zbrj.txt 1
+data.zbxw.txt 1
+data.zdgv.txt 1

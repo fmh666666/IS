@@ -1,0 +1,19 @@
+18
+data.aj.txt 2
+data.tv.txt 2
+data.tz.txt 1
+data.zahp.txt 3
+data.zasj.txt 1
+data.zbkj.txt 1
+data.zbot.txt 1
+data.zbph.txt 1
+data.zbru.txt 2
+data.zcdy.txt 2
+data.zdby.txt 1
+data.zdle.txt 2
+data.zebn.txt 2
+data.zedo.txt 1
+data.zefp.txt 1
+data.zeoo.txt 1
+data.zeqh.txt 2
+data.zexk.txt 1

@@ -1,0 +1,21 @@
+20
+data.ha.txt 15
+data.vz.txt 1
+data.zawo.txt 2
+data.zbha.txt 1
+data.zbil.txt 4
+data.zbor.txt 2
+data.zbsm.txt 3
+data.zbvm.txt 1
+data.zbwa.txt 1
+data.zbyb.txt 1
+data.zcih.txt 1
+data.zcon.txt 1
+data.zcue.txt 2
+data.zdhv.txt 1
+data.zdji.txt 1
+data.zdsh.txt 1
+data.zdwz.txt 1
+data.zedo.txt 1
+data.zeyu.txt 3
+data.zfaj.txt 1

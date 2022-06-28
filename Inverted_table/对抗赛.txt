@@ -1,0 +1,7 @@
+6
+data.jj.txt 32
+data.zawo.txt 1
+data.zbga.txt 1
+data.zctn.txt 1
+data.zddb.txt 1
+data.zeyu.txt 1

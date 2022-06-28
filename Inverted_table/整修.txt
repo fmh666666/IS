@@ -1,0 +1,6 @@
+5
+data.fz.txt 2
+data.tj.txt 1
+data.zajo.txt 3
+data.zbpp.txt 1
+data.zdaw.txt 2

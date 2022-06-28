@@ -1,0 +1,7 @@
+6
+data.hp.txt 2
+data.kt.txt 1
+data.vi.txt 1
+data.zayd.txt 2
+data.zciq.txt 1
+data.zegl.txt 1

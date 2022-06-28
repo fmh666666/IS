@@ -1,0 +1,9 @@
+8
+data.fz.txt 1
+data.ha.txt 2
+data.sq.txt 1
+data.zahd.txt 1
+data.zazn.txt 1
+data.zccl.txt 1
+data.zccu.txt 1
+data.zczl.txt 1

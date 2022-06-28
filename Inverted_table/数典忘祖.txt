@@ -1,0 +1,6 @@
+5
+data.zawu.txt 1
+data.zcni.txt 1
+data.zdgt.txt 1
+data.zdll.txt 1
+data.zeai.txt 1

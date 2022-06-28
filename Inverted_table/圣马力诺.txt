@@ -1,0 +1,4 @@
+3
+data.zalj.txt 1
+data.zaqr.txt 2
+data.zdud.txt 2

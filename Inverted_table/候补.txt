@@ -1,0 +1,15 @@
+14
+data.op.txt 1
+data.pq.txt 1
+data.qb.txt 1
+data.vi.txt 1
+data.zall.txt 1
+data.zanm.txt 8
+data.zawz.txt 7
+data.zbfp.txt 1
+data.zbnx.txt 1
+data.zdlo.txt 1
+data.zdof.txt 1
+data.zdqk.txt 6
+data.zdrq.txt 1
+data.zerh.txt 1

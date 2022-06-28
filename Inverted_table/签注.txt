@@ -1,0 +1,21 @@
+20
+data.aj.txt 1
+data.co.txt 1
+data.ng.txt 4
+data.vm.txt 2
+data.zamp.txt 2
+data.zanh.txt 4
+data.zbdx.txt 1
+data.zbjq.txt 10
+data.zbpx.txt 2
+data.zbqu.txt 3
+data.zbsl.txt 1
+data.zcdy.txt 2
+data.zcdz.txt 2
+data.zcgo.txt 1
+data.zcpa.txt 4
+data.zctp.txt 1
+data.zcts.txt 1
+data.zddp.txt 4
+data.zdwl.txt 2
+data.zefw.txt 6

@@ -1,0 +1,10 @@
+9
+data.ng.txt 1
+data.op.txt 3
+data.pq.txt 1
+data.zawb.txt 1
+data.zbcc.txt 6
+data.zcfn.txt 2
+data.zcxq.txt 1
+data.zdby.txt 1
+data.zdrq.txt 1

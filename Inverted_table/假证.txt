@@ -1,0 +1,7 @@
+6
+data.bb.txt 4
+data.ft.txt 2
+data.hz.txt 1
+data.zbcj.txt 1
+data.zeob.txt 1
+data.zfai.txt 2

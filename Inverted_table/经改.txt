@@ -1,0 +1,5 @@
+4
+data.gw.txt 2
+data.ok.txt 1
+data.zaim.txt 1
+data.zaop.txt 1

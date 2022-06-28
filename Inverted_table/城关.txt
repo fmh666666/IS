@@ -1,0 +1,5 @@
+4
+data.zasq.txt 4
+data.zawb.txt 1
+data.zdsh.txt 1
+data.zdud.txt 1

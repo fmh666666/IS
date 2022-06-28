@@ -1,0 +1,14 @@
+13
+data.fp.txt 3
+data.zbcc.txt 1
+data.zbcv.txt 1
+data.zbhe.txt 2
+data.zbil.txt 2
+data.zbvp.txt 1
+data.zcts.txt 1
+data.zcue.txt 2
+data.zdzn.txt 1
+data.zeos.txt 1
+data.zerv.txt 2
+data.zerw.txt 2
+data.zfae.txt 1

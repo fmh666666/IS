@@ -1,0 +1,11 @@
+10
+data.bs.txt 6
+data.gw.txt 4
+data.nh.txt 2
+data.tj.txt 2
+data.tv.txt 1
+data.zafy.txt 3
+data.zchd.txt 1
+data.zdxw.txt 2
+data.zeez.txt 2
+data.zeik.txt 4

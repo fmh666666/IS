@@ -1,0 +1,9 @@
+8
+data.uz.txt 1
+data.zaim.txt 1
+data.zawc.txt 1
+data.zbqu.txt 2
+data.zbts.txt 131
+data.zciy.txt 1
+data.zdst.txt 3
+data.zeqn.txt 1

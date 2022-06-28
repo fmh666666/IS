@@ -1,0 +1,15 @@
+14
+data.dg.txt 3
+data.zako.txt 1
+data.zawb.txt 3
+data.zaxp.txt 1
+data.zbwq.txt 1
+data.zcko.txt 1
+data.zcoy.txt 2
+data.zcts.txt 3
+data.zdeq.txt 1
+data.zdhw.txt 1
+data.zduo.txt 1
+data.zejn.txt 1
+data.zene.txt 5
+data.zenw.txt 2

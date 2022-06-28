@@ -1,0 +1,7 @@
+6
+data.zafi.txt 1
+data.zalc.txt 1
+data.zbia.txt 1
+data.zcee.txt 1
+data.zcko.txt 1
+data.zdib.txt 1

@@ -1,0 +1,17 @@
+16
+data.zalm.txt 2
+data.zamr.txt 4
+data.zasq.txt 3
+data.zazn.txt 1
+data.zbel.txt 1
+data.zbhv.txt 1
+data.zbmt.txt 1
+data.zbvm.txt 1
+data.zbzo.txt 1
+data.zckd.txt 4
+data.zctn.txt 1
+data.zcwn.txt 3
+data.zdpf.txt 38
+data.zdqx.txt 2
+data.zdux.txt 2
+data.zevy.txt 1

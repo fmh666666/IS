@@ -1,0 +1,7 @@
+6
+data.zalc.txt 1
+data.zbsf.txt 1
+data.zdib.txt 1
+data.zegl.txt 1
+data.zerv.txt 1
+data.zesq.txt 1

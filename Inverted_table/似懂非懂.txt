@@ -1,0 +1,5 @@
+4
+data.mi.txt 1
+data.zasd.txt 1
+data.zasy.txt 2
+data.zelj.txt 1

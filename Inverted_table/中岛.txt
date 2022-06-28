@@ -1,0 +1,23 @@
+22
+data.hp.txt 1
+data.kt.txt 1
+data.zabe.txt 1
+data.zaim.txt 1
+data.zapl.txt 1
+data.zasw.txt 1
+data.zawb.txt 1
+data.zawc.txt 3
+data.zbcc.txt 2
+data.zbot.txt 1
+data.zbpc.txt 1
+data.zbut.txt 1
+data.zbux.txt 1
+data.zcbe.txt 1
+data.zcdg.txt 1
+data.zchw.txt 1
+data.zdhw.txt 2
+data.zdlo.txt 1
+data.zdzg.txt 1
+data.zeay.txt 2
+data.zezy.txt 2
+data.zfcg.txt 1

@@ -1,0 +1,13 @@
+12
+data.by.txt 1
+data.vm.txt 1
+data.zalc.txt 4
+data.zaql.txt 1
+data.zasy.txt 1
+data.zbgd.txt 7
+data.zdey.txt 1
+data.zdwd.txt 1
+data.zdzg.txt 1
+data.zeay.txt 1
+data.zerv.txt 1
+data.zesi.txt 1

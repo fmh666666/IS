@@ -1,0 +1,19 @@
+18
+data.en.txt 2
+data.jj.txt 10
+data.mo.txt 1
+data.yx.txt 1
+data.zail.txt 1
+data.zaip.txt 1
+data.zasj.txt 1
+data.zaxx.txt 1
+data.zbhv.txt 2
+data.zbia.txt 1
+data.zbnx.txt 3
+data.zcda.txt 1
+data.zcpx.txt 1
+data.zcqg.txt 2
+data.zcxh.txt 1
+data.zdju.txt 1
+data.zdtr.txt 2
+data.zdzn.txt 1

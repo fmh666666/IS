@@ -1,0 +1,22 @@
+21
+data.pa.txt 3
+data.vm.txt 1
+data.xk.txt 1
+data.ye.txt 1
+data.zafl.txt 1
+data.zako.txt 1
+data.zawo.txt 1
+data.zazg.txt 1
+data.zazw.txt 2
+data.zbjh.txt 1
+data.zcmn.txt 1
+data.zczb.txt 1
+data.zdds.txt 1
+data.zdgv.txt 1
+data.zdme.txt 2
+data.zdoc.txt 1
+data.zebc.txt 1
+data.zedo.txt 1
+data.zegl.txt 1
+data.zemb.txt 3
+data.zerw.txt 1

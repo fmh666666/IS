@@ -1,0 +1,17 @@
+16
+data.ev.txt 1
+data.tj.txt 6
+data.wg.txt 1
+data.zacp.txt 1
+data.zaip.txt 1
+data.zako.txt 2
+data.zalt.txt 1
+data.zapr.txt 1
+data.zavg.txt 1
+data.zbux.txt 1
+data.zcfn.txt 1
+data.zczj.txt 1
+data.zdbf.txt 1
+data.zdlm.txt 1
+data.zehp.txt 1
+data.zezn.txt 2

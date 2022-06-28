@@ -1,0 +1,7 @@
+6
+data.dg.txt 3
+data.fz.txt 1
+data.zbhe.txt 1
+data.zdil.txt 1
+data.zdsh.txt 1
+data.zedx.txt 1

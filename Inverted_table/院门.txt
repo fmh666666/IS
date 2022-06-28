@@ -1,0 +1,9 @@
+8
+data.ep.txt 2
+data.hz.txt 1
+data.tj.txt 1
+data.vm.txt 1
+data.zako.txt 1
+data.zalm.txt 2
+data.zcak.txt 1
+data.zcko.txt 1

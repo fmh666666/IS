@@ -1,0 +1,9 @@
+8
+data.mk.txt 2
+data.zagr.txt 2
+data.zasj.txt 4
+data.zawu.txt 1
+data.zbwq.txt 1
+data.zdst.txt 1
+data.zevt.txt 1
+data.zfai.txt 1

@@ -1,0 +1,27 @@
+26
+data.ng.txt 1
+data.vz.txt 1
+data.zalm.txt 1
+data.zalt.txt 1
+data.zaoo.txt 1
+data.zasd.txt 11
+data.zawm.txt 1
+data.zawz.txt 1
+data.zbfx.txt 1
+data.zbga.txt 4
+data.zblh.txt 1
+data.zbsf.txt 1
+data.zbvg.txt 1
+data.zbvm.txt 1
+data.zcao.txt 1
+data.zcsr.txt 1
+data.zcuh.txt 1
+data.zdeq.txt 1
+data.zdga.txt 1
+data.zdou.txt 1
+data.zdxw.txt 1
+data.zedy.txt 1
+data.zeez.txt 1
+data.zeqv.txt 2
+data.zeva.txt 1
+data.zfbr.txt 1

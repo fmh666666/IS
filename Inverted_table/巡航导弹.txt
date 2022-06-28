@@ -1,0 +1,4 @@
+3
+data.ok.txt 2
+data.op.txt 1
+data.zfai.txt 1

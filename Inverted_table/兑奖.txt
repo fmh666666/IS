@@ -1,0 +1,23 @@
+22
+data.ga.txt 1
+data.kq.txt 2
+data.sq.txt 2
+data.vz.txt 1
+data.zanm.txt 4
+data.zasq.txt 1
+data.zavx.txt 6
+data.zbdx.txt 1
+data.zbmt.txt 2
+data.zbot.txt 1
+data.zbts.txt 1
+data.zbvn.txt 1
+data.zcbm.txt 3
+data.zczl.txt 1
+data.zdof.txt 1
+data.zdoq.txt 3
+data.zdtr.txt 1
+data.zdux.txt 1
+data.zeac.txt 2
+data.zefw.txt 1
+data.zelt.txt 1
+data.zevy.txt 1

@@ -1,0 +1,4 @@
+3
+data.zauy.txt 1
+data.zbes.txt 1
+data.zbla.txt 2

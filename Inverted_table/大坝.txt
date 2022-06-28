@@ -1,0 +1,18 @@
+17
+data.yx.txt 4
+data.zalt.txt 1
+data.zawc.txt 3
+data.zawu.txt 4
+data.zbaq.txt 1
+data.zbfz.txt 2
+data.zbkv.txt 2
+data.zbnx.txt 1
+data.zbtj.txt 1
+data.zcdl.txt 1
+data.zcgi.txt 1
+data.zcxq.txt 1
+data.zddb.txt 1
+data.zedo.txt 4
+data.zefp.txt 1
+data.zelj.txt 1
+data.zfae.txt 2

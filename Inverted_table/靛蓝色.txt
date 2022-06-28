@@ -1,0 +1,4 @@
+3
+data.ka.txt 1
+data.zajn.txt 1
+data.zbjc.txt 1

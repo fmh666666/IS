@@ -1,0 +1,18 @@
+17
+data.by.txt 1
+data.op.txt 1
+data.tz.txt 1
+data.zapl.txt 1
+data.zbaf.txt 1
+data.zbel.txt 1
+data.zbhd.txt 1
+data.zbkr.txt 1
+data.zbse.txt 1
+data.zbsl.txt 1
+data.zcfn.txt 1
+data.zcft.txt 1
+data.zdga.txt 2
+data.zdou.txt 1
+data.zdwd.txt 1
+data.zewn.txt 1
+data.zexk.txt 1

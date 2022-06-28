@@ -1,0 +1,8 @@
+7
+data.ry.txt 1
+data.vi.txt 1
+data.zabj.txt 2
+data.zaic.txt 1
+data.zbpx.txt 1
+data.zdsh.txt 1
+data.zduk.txt 1

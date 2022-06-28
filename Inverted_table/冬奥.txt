@@ -1,0 +1,9 @@
+8
+data.vz.txt 1
+data.zasr.txt 2
+data.zawu.txt 3
+data.zbia.txt 1
+data.zdvl.txt 1
+data.zdwz.txt 1
+data.zerv.txt 3
+data.zfae.txt 2

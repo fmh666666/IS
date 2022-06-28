@@ -1,0 +1,26 @@
+25
+data.gk.txt 3
+data.mo.txt 2
+data.pa.txt 1
+data.pn.txt 2
+data.tv.txt 1
+data.tz.txt 1
+data.zair.txt 1
+data.zalm.txt 1
+data.zawz.txt 2
+data.zazw.txt 2
+data.zbcv.txt 1
+data.zbeb.txt 1
+data.zbfx.txt 1
+data.zbgd.txt 2
+data.zbru.txt 1
+data.zbse.txt 1
+data.zbua.txt 2
+data.zcis.txt 1
+data.zcjo.txt 1
+data.zdhv.txt 1
+data.zdou.txt 1
+data.zduc.txt 4
+data.zdwk.txt 6
+data.zeyu.txt 1
+data.zfaw.txt 1

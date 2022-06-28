@@ -1,0 +1,9 @@
+8
+data.fp.txt 3
+data.pa.txt 1
+data.pq.txt 1
+data.zafq.txt 1
+data.zdvl.txt 2
+data.zeqv.txt 1
+data.zerh.txt 3
+data.zewv.txt 1

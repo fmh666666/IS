@@ -1,0 +1,5 @@
+4
+data.ng.txt 2
+data.zasd.txt 1
+data.zaxp.txt 1
+data.zdoq.txt 1

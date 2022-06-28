@@ -1,0 +1,11 @@
+10
+data.pa.txt 1
+data.zabx.txt 1
+data.zadv.txt 1
+data.zawm.txt 1
+data.zbcj.txt 1
+data.zdmw.txt 1
+data.zduk.txt 5
+data.zewg.txt 1
+data.zfai.txt 1
+data.zfaz.txt 1

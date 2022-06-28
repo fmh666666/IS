@@ -1,0 +1,12 @@
+11
+data.ye.txt 1
+data.zair.txt 1
+data.zako.txt 2
+data.zbcc.txt 2
+data.zbia.txt 1
+data.zbjc.txt 4
+data.zbxy.txt 1
+data.zegk.txt 1
+data.zehj.txt 1
+data.zenw.txt 1
+data.zezn.txt 1

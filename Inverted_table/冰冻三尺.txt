@@ -1,0 +1,7 @@
+6
+data.zavx.txt 1
+data.zbaf.txt 1
+data.zbpp.txt 1
+data.zcmx.txt 1
+data.zenw.txt 1
+data.zfai.txt 2

@@ -1,0 +1,7 @@
+6
+data.aj.txt 2
+data.hc.txt 2
+data.zanh.txt 2
+data.zbcv.txt 1
+data.zbdx.txt 22
+data.zdgp.txt 1

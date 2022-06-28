@@ -1,0 +1,17 @@
+16
+data.gk.txt 1
+data.ok.txt 1
+data.tv.txt 1
+data.vi.txt 1
+data.zasd.txt 1
+data.zazn.txt 1
+data.zbaf.txt 1
+data.zcse.txt 1
+data.zcsu.txt 1
+data.zdeb.txt 1
+data.zdju.txt 1
+data.zdkc.txt 2
+data.zdxw.txt 1
+data.zeec.txt 1
+data.zehb.txt 1
+data.zeik.txt 1

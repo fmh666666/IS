@@ -1,0 +1,4 @@
+3
+data.zank.txt 3
+data.zcis.txt 1
+data.zebn.txt 1

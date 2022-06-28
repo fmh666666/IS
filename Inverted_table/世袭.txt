@@ -1,0 +1,12 @@
+11
+data.ka.txt 1
+data.op.txt 2
+data.zabx.txt 1
+data.zall.txt 1
+data.zalm.txt 1
+data.zamp.txt 1
+data.zavg.txt 2
+data.zdji.txt 1
+data.zdou.txt 1
+data.zeay.txt 1
+data.zfae.txt 1

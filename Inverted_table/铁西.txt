@@ -1,0 +1,10 @@
+9
+data.by.txt 5
+data.kq.txt 1
+data.zalj.txt 1
+data.zbmt.txt 3
+data.zbpm.txt 3
+data.zdzi.txt 1
+data.zeob.txt 3
+data.zevl.txt 2
+data.zevy.txt 1

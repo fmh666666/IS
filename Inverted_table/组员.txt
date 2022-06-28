@@ -1,0 +1,11 @@
+10
+data.zacw.txt 2
+data.zair.txt 1
+data.zayc.txt 1
+data.zazw.txt 1
+data.zazx.txt 1
+data.zcdv.txt 1
+data.zcni.txt 1
+data.zcqg.txt 1
+data.zegl.txt 1
+data.zesi.txt 3

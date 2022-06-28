@@ -1,0 +1,7 @@
+6
+data.zaop.txt 1
+data.zbsl.txt 3
+data.zbsm.txt 1
+data.zddv.txt 1
+data.zdrq.txt 1
+data.zeil.txt 2

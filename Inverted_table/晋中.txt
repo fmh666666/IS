@@ -1,0 +1,11 @@
+10
+data.ep.txt 1
+data.op.txt 2
+data.zacw.txt 1
+data.zafq.txt 1
+data.zaic.txt 1
+data.zawb.txt 3
+data.zawc.txt 1
+data.zcxr.txt 2
+data.zeew.txt 1
+data.zfcj.txt 5

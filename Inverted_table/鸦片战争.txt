@@ -1,0 +1,16 @@
+15
+data.hu.txt 1
+data.xe.txt 1
+data.zawb.txt 2
+data.zbga.txt 2
+data.zchw.txt 1
+data.zclm.txt 1
+data.zcmy.txt 1
+data.zctp.txt 1
+data.zczl.txt 1
+data.zedy.txt 1
+data.zene.txt 1
+data.zenw.txt 1
+data.zeoh.txt 1
+data.zfai.txt 1
+data.zfdk.txt 1

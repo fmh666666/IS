@@ -1,0 +1,7 @@
+6
+data.dg.txt 1
+data.zapl.txt 1
+data.zbia.txt 1
+data.zdlw.txt 1
+data.zebf.txt 1
+data.zeqn.txt 1

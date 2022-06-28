@@ -1,0 +1,13 @@
+12
+data.ry.txt 3
+data.vm.txt 1
+data.zabe.txt 1
+data.zbha.txt 1
+data.zbyv.txt 1
+data.zcda.txt 1
+data.zcic.txt 1
+data.zcxr.txt 2
+data.zdwv.txt 2
+data.zedo.txt 1
+data.zeqh.txt 1
+data.zeta.txt 1

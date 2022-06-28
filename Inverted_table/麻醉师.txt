@@ -1,0 +1,12 @@
+11
+data.ep.txt 1
+data.zabj.txt 1
+data.zall.txt 1
+data.zauy.txt 1
+data.zcni.txt 1
+data.zcoy.txt 1
+data.zcts.txt 1
+data.zdaw.txt 2
+data.zdtv.txt 1
+data.zenw.txt 1
+data.zess.txt 2

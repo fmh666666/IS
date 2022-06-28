@@ -1,0 +1,23 @@
+22
+data.ry.txt 1
+data.tv.txt 2
+data.yx.txt 1
+data.zadv.txt 1
+data.zajh.txt 1
+data.zaop.txt 1
+data.zapl.txt 1
+data.zaqr.txt 1
+data.zavg.txt 2
+data.zawc.txt 1
+data.zbhe.txt 1
+data.zbjc.txt 1
+data.zbkr.txt 1
+data.zbph.txt 1
+data.zcqs.txt 1
+data.zctp.txt 1
+data.zcue.txt 1
+data.zdgt.txt 1
+data.zdhw.txt 1
+data.zdtr.txt 1
+data.zedx.txt 1
+data.zeid.txt 1

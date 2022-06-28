@@ -1,0 +1,16 @@
+15
+data.kq.txt 1
+data.mu.txt 10
+data.zaic.txt 1
+data.zako.txt 2
+data.zall.txt 4
+data.zalm.txt 1
+data.zbcc.txt 1
+data.zbds.txt 1
+data.zbeb.txt 1
+data.zctp.txt 1
+data.zcts.txt 1
+data.zegl.txt 2
+data.zeob.txt 1
+data.zeqv.txt 1
+data.zfcj.txt 2

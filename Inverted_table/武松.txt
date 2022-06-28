@@ -1,0 +1,20 @@
+19
+data.ga.txt 2
+data.hp.txt 2
+data.hu.txt 1
+data.xe.txt 2
+data.zaxp.txt 1
+data.zazn.txt 2
+data.zblr.txt 2
+data.zcef.txt 1
+data.zcej.txt 1
+data.zclm.txt 2
+data.zcmy.txt 2
+data.zcse.txt 1
+data.zczl.txt 2
+data.zddb.txt 1
+data.zdju.txt 2
+data.zdvl.txt 1
+data.zenw.txt 1
+data.zeva.txt 4
+data.zfdk.txt 3

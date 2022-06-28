@@ -1,0 +1,14 @@
+13
+data.hp.txt 1
+data.kt.txt 1
+data.wg.txt 1
+data.xe.txt 1
+data.zalm.txt 1
+data.zaop.txt 1
+data.zass.txt 1
+data.zavx.txt 2
+data.zawo.txt 1
+data.zbjq.txt 1
+data.zcrv.txt 1
+data.zczp.txt 1
+data.zdxw.txt 1

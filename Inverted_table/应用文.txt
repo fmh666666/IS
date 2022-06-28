@@ -1,0 +1,11 @@
+10
+data.dg.txt 6
+data.pn.txt 7
+data.zamr.txt 5
+data.zayv.txt 2
+data.zbor.txt 2
+data.zcaq.txt 2
+data.zcda.txt 2
+data.zcdl.txt 1
+data.zcls.txt 2
+data.zehj.txt 1

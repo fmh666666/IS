@@ -1,0 +1,19 @@
+18
+data.hg.txt 1
+data.ok.txt 1
+data.zamr.txt 2
+data.zaoc.txt 1
+data.zavg.txt 1
+data.zavx.txt 8
+data.zbha.txt 1
+data.zbtj.txt 1
+data.zbvn.txt 1
+data.zdep.txt 1
+data.zdkc.txt 1
+data.zebn.txt 8
+data.zeeh.txt 2
+data.zefu.txt 1
+data.zeoh.txt 1
+data.zfai.txt 1
+data.zfas.txt 1
+data.zfcj.txt 1

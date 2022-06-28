@@ -1,0 +1,16 @@
+15
+data.zajo.txt 1
+data.zalm.txt 2
+data.zasq.txt 1
+data.zbfz.txt 3
+data.zblq.txt 1
+data.zblr.txt 4
+data.zbtx.txt 2
+data.zciq.txt 1
+data.zdcj.txt 1
+data.zddb.txt 1
+data.zddx.txt 1
+data.zdoc.txt 3
+data.zevq.txt 1
+data.zexm.txt 4
+data.zezy.txt 3

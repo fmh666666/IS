@@ -1,0 +1,17 @@
+16
+data.bb.txt 1
+data.ga.txt 1
+data.hp.txt 1
+data.mt.txt 1
+data.ng.txt 1
+data.ok.txt 1
+data.zair.txt 2
+data.zauy.txt 1
+data.zbds.txt 1
+data.zcmx.txt 1
+data.zczl.txt 1
+data.zddl.txt 1
+data.zdnh.txt 1
+data.zebc.txt 1
+data.zeik.txt 1
+data.zeoh.txt 1

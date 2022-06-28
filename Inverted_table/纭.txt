@@ -1,0 +1,6 @@
+5
+data.co.txt 2
+data.ew.txt 1
+data.tz.txt 1
+data.zawc.txt 2
+data.zeaj.txt 1

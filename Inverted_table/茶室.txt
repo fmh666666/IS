@@ -1,0 +1,7 @@
+6
+data.zbhe.txt 1
+data.zbph.txt 1
+data.zcej.txt 1
+data.zcon.txt 1
+data.zelj.txt 1
+data.zexk.txt 1

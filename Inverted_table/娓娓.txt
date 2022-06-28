@@ -1,0 +1,11 @@
+10
+data.ew.txt 1
+data.zafv.txt 1
+data.zaip.txt 1
+data.zaqw.txt 1
+data.zaxk.txt 1
+data.zbuj.txt 1
+data.zdcy.txt 28
+data.zdju.txt 1
+data.zdlw.txt 1
+data.zewp.txt 1

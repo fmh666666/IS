@@ -1,0 +1,7 @@
+6
+data.bf.txt 1
+data.zamp.txt 1
+data.zbem.txt 1
+data.zbga.txt 1
+data.zdic.txt 1
+data.zenw.txt 2

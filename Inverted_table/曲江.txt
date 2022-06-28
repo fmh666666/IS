@@ -1,0 +1,12 @@
+11
+data.zall.txt 5
+data.zalm.txt 14
+data.zamr.txt 3
+data.zcll.txt 1
+data.zcyv.txt 1
+data.zdro.txt 1
+data.zdwl.txt 1
+data.zeec.txt 1
+data.zeeh.txt 1
+data.zeoh.txt 1
+data.zeoo.txt 1

@@ -1,0 +1,13 @@
+12
+data.fp.txt 1
+data.mu.txt 1
+data.to.txt 1
+data.vi.txt 2
+data.zacw.txt 2
+data.zaxx.txt 1
+data.zcmn.txt 2
+data.zdeb.txt 1
+data.zdvl.txt 1
+data.zdzm.txt 1
+data.zeqn.txt 1
+data.zezh.txt 1

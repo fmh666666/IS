@@ -1,0 +1,9 @@
+8
+data.fp.txt 1
+data.zawc.txt 1
+data.zbnp.txt 2
+data.zcbe.txt 4
+data.zckd.txt 2
+data.zcwn.txt 1
+data.zdcw.txt 1
+data.zexk.txt 1

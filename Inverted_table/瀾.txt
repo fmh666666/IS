@@ -1,0 +1,13 @@
+12
+data.fp.txt 13
+data.kt.txt 1
+data.zalc.txt 2
+data.zasr.txt 1
+data.zawc.txt 1
+data.zbhd.txt 2
+data.zdkv.txt 1
+data.zdwv.txt 3
+data.zeaf.txt 2
+data.zeam.txt 58
+data.zeob.txt 1
+data.zfaz.txt 2

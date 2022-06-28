@@ -1,0 +1,6 @@
+5
+data.zarr.txt 1
+data.zasq.txt 1
+data.zblq.txt 1
+data.zckd.txt 1
+data.zdzm.txt 3

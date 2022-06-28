@@ -1,0 +1,9 @@
+8
+data.fj.txt 3
+data.tv.txt 1
+data.tz.txt 1
+data.zawb.txt 2
+data.zdaq.txt 1
+data.zdbf.txt 1
+data.zdod.txt 1
+data.zebn.txt 13

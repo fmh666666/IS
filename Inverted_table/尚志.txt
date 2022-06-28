@@ -1,0 +1,14 @@
+13
+data.fz.txt 2
+data.ga.txt 3
+data.zasw.txt 1
+data.zasy.txt 1
+data.zdkc.txt 1
+data.zdlw.txt 1
+data.zdme.txt 1
+data.zduk.txt 1
+data.zdzi.txt 1
+data.zeec.txt 1
+data.zene.txt 1
+data.zeoh.txt 2
+data.zexk.txt 1

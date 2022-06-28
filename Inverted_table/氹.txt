@@ -1,0 +1,25 @@
+24
+data.hu.txt 1
+data.zaqw.txt 4
+data.zasy.txt 2
+data.zayv.txt 2
+data.zbaq.txt 1
+data.zbcv.txt 1
+data.zbgd.txt 2
+data.zbjq.txt 1
+data.zbnp.txt 1
+data.zbux.txt 1
+data.zcjy.txt 1
+data.zcmy.txt 1
+data.zcrn.txt 1
+data.zcse.txt 2
+data.zcxh.txt 1
+data.zddb.txt 1
+data.zdil.txt 1
+data.zdmw.txt 92
+data.zdnc.txt 1
+data.zeec.txt 1
+data.zekw.txt 1
+data.zemb.txt 1
+data.zemf.txt 1
+data.zenw.txt 1

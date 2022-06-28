@@ -1,0 +1,17 @@
+16
+data.hu.txt 1
+data.zacd.txt 3
+data.zajo.txt 1
+data.zass.txt 1
+data.zbcc.txt 1
+data.zbuj.txt 1
+data.zchd.txt 1
+data.zcnn.txt 1
+data.zctm.txt 2
+data.zdgo.txt 2
+data.zdhw.txt 1
+data.zdkc.txt 1
+data.zdrq.txt 1
+data.zdwl.txt 1
+data.zelt.txt 1
+data.zfai.txt 2

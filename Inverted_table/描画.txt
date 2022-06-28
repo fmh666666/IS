@@ -1,0 +1,13 @@
+12
+data.co.txt 2
+data.fe.txt 1
+data.ft.txt 1
+data.kq.txt 2
+data.zagb.txt 1
+data.zbnx.txt 1
+data.zcef.txt 1
+data.zcsu.txt 1
+data.zczp.txt 1
+data.zdxw.txt 1
+data.zeeh.txt 1
+data.zezh.txt 1

@@ -1,0 +1,9 @@
+8
+data.aj.txt 3
+data.zafi.txt 7
+data.zake.txt 2
+data.zanm.txt 1
+data.zbvn.txt 1
+data.zcak.txt 1
+data.zcoy.txt 1
+data.zegl.txt 1

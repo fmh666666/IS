@@ -1,0 +1,12 @@
+11
+data.jf.txt 8
+data.nh.txt 1
+data.pa.txt 1
+data.tj.txt 2
+data.zabe.txt 1
+data.zazw.txt 1
+data.zbds.txt 1
+data.zbel.txt 1
+data.zbjh.txt 11
+data.zcmn.txt 1
+data.zczp.txt 2

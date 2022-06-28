@@ -1,0 +1,7 @@
+6
+data.zako.txt 1
+data.zcby.txt 2
+data.zcdv.txt 1
+data.zcxq.txt 1
+data.zedd.txt 2
+data.zfby.txt 1

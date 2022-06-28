@@ -1,0 +1,17 @@
+16
+data.gw.txt 9
+data.tz.txt 2
+data.zahd.txt 1
+data.zaic.txt 3
+data.zair.txt 1
+data.zazn.txt 2
+data.zbgw.txt 1
+data.zbmt.txt 1
+data.zbye.txt 1
+data.zcel.txt 1
+data.zdod.txt 1
+data.zdro.txt 1
+data.zdzn.txt 1
+data.zety.txt 1
+data.zevl.txt 1
+data.zewv.txt 1

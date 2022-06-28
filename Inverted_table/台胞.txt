@@ -1,0 +1,5 @@
+4
+data.ga.txt 1
+data.zafy.txt 1
+data.zbsm.txt 1
+data.zezy.txt 1

@@ -1,0 +1,9 @@
+8
+data.gw.txt 6
+data.zaim.txt 1
+data.zbmw.txt 1
+data.zbpx.txt 2
+data.zcmx.txt 1
+data.zcsu.txt 1
+data.zeds.txt 1
+data.zfai.txt 1

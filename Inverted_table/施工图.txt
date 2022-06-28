@@ -1,0 +1,6 @@
+5
+data.en.txt 1
+data.zarc.txt 2
+data.zawo.txt 1
+data.zcsu.txt 1
+data.zeik.txt 1

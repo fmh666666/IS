@@ -1,0 +1,20 @@
+19
+data.aj.txt 1
+data.kt.txt 2
+data.ry.txt 2
+data.zajr.txt 1
+data.zamr.txt 1
+data.zbfz.txt 1
+data.zbpp.txt 1
+data.zbzo.txt 1
+data.zcak.txt 1
+data.zcll.txt 1
+data.zcql.txt 1
+data.zcve.txt 1
+data.zdcy.txt 1
+data.zdmw.txt 1
+data.zedk.txt 1
+data.zeqn.txt 1
+data.zety.txt 1
+data.zevl.txt 1
+data.zexm.txt 1

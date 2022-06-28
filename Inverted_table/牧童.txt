@@ -1,0 +1,11 @@
+10
+data.vi.txt 2
+data.wg.txt 2
+data.zakb.txt 1
+data.zblq.txt 1
+data.zbqu.txt 1
+data.zdod.txt 1
+data.zdof.txt 1
+data.zeeh.txt 2
+data.zeoh.txt 2
+data.zeve.txt 1

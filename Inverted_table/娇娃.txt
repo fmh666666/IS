@@ -1,0 +1,11 @@
+10
+data.zarr.txt 1
+data.zavg.txt 1
+data.zaxx.txt 1
+data.zbhv.txt 3
+data.zcuh.txt 1
+data.zcvi.txt 1
+data.zdji.txt 3
+data.zdof.txt 1
+data.zdyv.txt 2
+data.zewv.txt 4

@@ -1,0 +1,12 @@
+11
+data.ga.txt 1
+data.zacw.txt 1
+data.zbcc.txt 1
+data.zbpx.txt 2
+data.zcsu.txt 1
+data.zczj.txt 1
+data.zdoq.txt 1
+data.zdwn.txt 1
+data.zelj.txt 2
+data.zesi.txt 2
+data.zeyu.txt 1

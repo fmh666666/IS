@@ -1,0 +1,4 @@
+3
+data.zctp.txt 2
+data.zduc.txt 1
+data.zelj.txt 1

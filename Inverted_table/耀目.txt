@@ -1,0 +1,16 @@
+15
+data.dg.txt 2
+data.zaop.txt 1
+data.zbcv.txt 1
+data.zbhv.txt 3
+data.zbil.txt 4
+data.zcao.txt 1
+data.zcaq.txt 3
+data.zckd.txt 3
+data.zcls.txt 3
+data.zdux.txt 1
+data.zeam.txt 1
+data.zedd.txt 2
+data.zeel.txt 1
+data.zefs.txt 1
+data.zety.txt 3

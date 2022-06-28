@@ -1,0 +1,5 @@
+4
+data.zawu.txt 1
+data.zddx.txt 1
+data.zeag.txt 1
+data.zeay.txt 1

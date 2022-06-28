@@ -1,0 +1,7 @@
+6
+data.kq.txt 1
+data.zblq.txt 2
+data.zdep.txt 1
+data.zdil.txt 1
+data.zeqv.txt 1
+data.zewn.txt 1

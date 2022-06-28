@@ -1,0 +1,11 @@
+10
+data.hc.txt 2
+data.mo.txt 1
+data.zafv.txt 1
+data.zank.txt 2
+data.zasy.txt 1
+data.zbrj.txt 1
+data.zcgo.txt 1
+data.zdou.txt 2
+data.zelt.txt 31
+data.zevt.txt 1

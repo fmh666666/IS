@@ -1,0 +1,8 @@
+7
+data.mk.txt 1
+data.op.txt 2
+data.zawb.txt 1
+data.zawu.txt 3
+data.zbht.txt 1
+data.zene.txt 4
+data.zeos.txt 1

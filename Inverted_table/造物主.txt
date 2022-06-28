@@ -1,0 +1,23 @@
+22
+data.ff.txt 1
+data.ga.txt 2
+data.gk.txt 2
+data.jj.txt 1
+data.kq.txt 2
+data.kt.txt 1
+data.tj.txt 1
+data.vi.txt 1
+data.zabe.txt 1
+data.zafi.txt 1
+data.zasw.txt 1
+data.zayd.txt 1
+data.zbhd.txt 1
+data.zbjh.txt 1
+data.zbyv.txt 1
+data.zcdg.txt 1
+data.zcsr.txt 1
+data.zdbf.txt 1
+data.zdcy.txt 1
+data.zdnh.txt 1
+data.zebv.txt 1
+data.zenn.txt 1

@@ -1,0 +1,14 @@
+13
+data.hu.txt 1
+data.mx.txt 1
+data.zacd.txt 1
+data.zadv.txt 2
+data.zasr.txt 1
+data.zavg.txt 1
+data.zazw.txt 1
+data.zbwa.txt 3
+data.zdfl.txt 1
+data.zdhv.txt 1
+data.zdkp.txt 1
+data.zeai.txt 1
+data.zeqh.txt 3

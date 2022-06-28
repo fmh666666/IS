@@ -1,0 +1,11 @@
+10
+data.ga.txt 1
+data.zagb.txt 1
+data.zaxk.txt 2
+data.zbil.txt 1
+data.zbor.txt 1
+data.zcni.txt 1
+data.zdod.txt 1
+data.zdxw.txt 1
+data.zelt.txt 1
+data.zeoh.txt 2

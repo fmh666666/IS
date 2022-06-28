@@ -1,0 +1,7 @@
+6
+data.sq.txt 1
+data.zciy.txt 1
+data.zdof.txt 1
+data.zene.txt 1
+data.zezm.txt 1
+data.zfae.txt 2

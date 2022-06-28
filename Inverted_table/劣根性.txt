@@ -1,0 +1,14 @@
+13
+data.yx.txt 1
+data.zabe.txt 1
+data.zako.txt 2
+data.zasw.txt 1
+data.zbia.txt 1
+data.zbor.txt 1
+data.zcpa.txt 1
+data.zcxr.txt 1
+data.zcyv.txt 1
+data.zdeb.txt 1
+data.zene.txt 2
+data.zezy.txt 1
+data.zfas.txt 1

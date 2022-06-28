@@ -1,0 +1,21 @@
+20
+data.ga.txt 2
+data.tv.txt 1
+data.tz.txt 3
+data.vi.txt 1
+data.zadv.txt 1
+data.zaej.txt 1
+data.zawb.txt 1
+data.zaxj.txt 1
+data.zaxk.txt 2
+data.zbdx.txt 2
+data.zbyb.txt 1
+data.zcdg.txt 1
+data.zczp.txt 3
+data.zdil.txt 1
+data.zdlo.txt 2
+data.zdvl.txt 2
+data.zebc.txt 1
+data.zekw.txt 1
+data.zeva.txt 1
+data.zfaj.txt 1

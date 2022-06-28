@@ -1,0 +1,7 @@
+6
+data.sq.txt 1
+data.zcel.txt 2
+data.zcts.txt 1
+data.zdll.txt 3
+data.zedd.txt 2
+data.zedk.txt 1

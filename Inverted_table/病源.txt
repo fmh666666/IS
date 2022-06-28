@@ -1,0 +1,4 @@
+3
+data.hu.txt 1
+data.zcfn.txt 1
+data.zdzi.txt 1

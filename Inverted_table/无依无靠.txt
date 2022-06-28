@@ -1,0 +1,13 @@
+12
+data.hp.txt 1
+data.hu.txt 1
+data.ng.txt 2
+data.tz.txt 1
+data.wg.txt 1
+data.zazg.txt 1
+data.zbia.txt 2
+data.zcls.txt 1
+data.zcpc.txt 1
+data.zdvl.txt 1
+data.zeez.txt 1
+data.zezm.txt 1

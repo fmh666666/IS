@@ -1,0 +1,7 @@
+6
+data.hg.txt 1
+data.sq.txt 1
+data.zalm.txt 2
+data.zayd.txt 1
+data.zdar.txt 1
+data.zeec.txt 1

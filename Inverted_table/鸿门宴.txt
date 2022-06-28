@@ -1,0 +1,14 @@
+13
+data.co.txt 10
+data.xk.txt 1
+data.zbla.txt 1
+data.zbpx.txt 2
+data.zcon.txt 1
+data.zcrv.txt 1
+data.zdle.txt 2
+data.zdlg.txt 1
+data.zeag.txt 1
+data.zefs.txt 1
+data.zeqv.txt 4
+data.zerw.txt 1
+data.zevq.txt 1

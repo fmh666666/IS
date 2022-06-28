@@ -1,0 +1,7 @@
+6
+data.ft.txt 1
+data.mk.txt 1
+data.zaim.txt 1
+data.zapl.txt 1
+data.zbuj.txt 1
+data.zejk.txt 1

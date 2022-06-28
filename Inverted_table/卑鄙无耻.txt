@@ -1,0 +1,7 @@
+6
+data.uz.txt 1
+data.zabx.txt 1
+data.zahd.txt 1
+data.zcgo.txt 1
+data.zcpx.txt 1
+data.zene.txt 1

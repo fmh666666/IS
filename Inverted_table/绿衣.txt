@@ -1,0 +1,19 @@
+18
+data.ek.txt 1
+data.vi.txt 1
+data.zakb.txt 2
+data.zapl.txt 1
+data.zbkv.txt 1
+data.zbph.txt 1
+data.zbwa.txt 1
+data.zchw.txt 1
+data.zcko.txt 3
+data.zcmn.txt 1
+data.zddp.txt 1
+data.zdji.txt 1
+data.zdle.txt 1
+data.zdpw.txt 2
+data.zerw.txt 1
+data.zevq.txt 1
+data.zewp.txt 1
+data.zexm.txt 1

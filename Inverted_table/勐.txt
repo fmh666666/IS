@@ -1,0 +1,8 @@
+7
+data.wg.txt 4
+data.zawo.txt 2
+data.zckd.txt 1
+data.zcli.txt 1
+data.zcll.txt 7
+data.zcqg.txt 1
+data.zdux.txt 2

@@ -1,0 +1,11 @@
+10
+data.aj.txt 2
+data.tz.txt 1
+data.zazw.txt 1
+data.zbcc.txt 1
+data.zbjk.txt 2
+data.zdaa.txt 2
+data.zdof.txt 5
+data.zeeh.txt 2
+data.zene.txt 2
+data.zeqh.txt 7

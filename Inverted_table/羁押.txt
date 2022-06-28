@@ -1,0 +1,10 @@
+9
+data.zbnx.txt 2
+data.zccx.txt 1
+data.zcdv.txt 1
+data.zcxr.txt 1
+data.zdju.txt 2
+data.zedx.txt 1
+data.zelt.txt 1
+data.zeoh.txt 1
+data.zezy.txt 1

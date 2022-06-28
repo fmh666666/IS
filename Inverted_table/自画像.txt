@@ -1,0 +1,18 @@
+17
+data.cz.txt 1
+data.zajn.txt 1
+data.zajo.txt 2
+data.zamp.txt 1
+data.zard.txt 1
+data.zbel.txt 1
+data.zbfz.txt 3
+data.zbhe.txt 1
+data.zbta.txt 1
+data.zbut.txt 1
+data.zcdv.txt 1
+data.zcef.txt 1
+data.zcgo.txt 1
+data.zciy.txt 1
+data.zcpb.txt 1
+data.zcpx.txt 1
+data.zdgp.txt 5

@@ -1,0 +1,4 @@
+3
+data.zauy.txt 2
+data.zdaw.txt 1
+data.zdme.txt 1

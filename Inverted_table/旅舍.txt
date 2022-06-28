@@ -1,0 +1,19 @@
+18
+data.ok.txt 1
+data.zabx.txt 3
+data.zaip.txt 1
+data.zazn.txt 1
+data.zbjq.txt 2
+data.zblq.txt 5
+data.zblr.txt 6
+data.zbta.txt 1
+data.zbxw.txt 1
+data.zcgi.txt 8
+data.zcvt.txt 1
+data.zdil.txt 1
+data.zdlo.txt 1
+data.zdpw.txt 2
+data.zdxw.txt 1
+data.zdyv.txt 1
+data.zfcg.txt 1
+data.zfcj.txt 4

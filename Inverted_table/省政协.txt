@@ -1,0 +1,6 @@
+5
+data.zawc.txt 2
+data.zbaq.txt 2
+data.zelt.txt 1
+data.zeqv.txt 1
+data.zfai.txt 1

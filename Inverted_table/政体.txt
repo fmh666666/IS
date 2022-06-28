@@ -1,0 +1,7 @@
+6
+data.ft.txt 1
+data.op.txt 4
+data.zawb.txt 1
+data.zbdb.txt 2
+data.zedo.txt 1
+data.zelt.txt 1

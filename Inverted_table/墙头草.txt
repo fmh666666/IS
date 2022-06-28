@@ -1,0 +1,7 @@
+6
+data.gk.txt 1
+data.mu.txt 1
+data.zafq.txt 1
+data.zdcj.txt 1
+data.zdeb.txt 1
+data.zeqv.txt 1

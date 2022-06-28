@@ -1,0 +1,8 @@
+7
+data.zanh.txt 1
+data.zbdx.txt 1
+data.zbmw.txt 1
+data.zbux.txt 5
+data.zciy.txt 1
+data.zdkp.txt 1
+data.zenw.txt 1

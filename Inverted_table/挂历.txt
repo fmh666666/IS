@@ -1,0 +1,12 @@
+11
+data.zaim.txt 1
+data.zake.txt 4
+data.zapl.txt 1
+data.zaxk.txt 1
+data.zbcc.txt 2
+data.zbcv.txt 1
+data.zcel.txt 1
+data.zdds.txt 1
+data.zdll.txt 1
+data.zeay.txt 1
+data.zfaw.txt 3

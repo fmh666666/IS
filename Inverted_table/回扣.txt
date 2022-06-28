@@ -1,0 +1,16 @@
+15
+data.fj.txt 2
+data.mx.txt 4
+data.pa.txt 1
+data.zaic.txt 1
+data.zasq.txt 1
+data.zbhe.txt 3
+data.zccx.txt 4
+data.zcdz.txt 3
+data.zcue.txt 1
+data.zcvq.txt 1
+data.zddv.txt 1
+data.zdod.txt 1
+data.zeew.txt 1
+data.zeoo.txt 2
+data.zexv.txt 2

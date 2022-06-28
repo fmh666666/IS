@@ -1,0 +1,5 @@
+4
+data.zbkr.txt 1
+data.zbot.txt 1
+data.zekw.txt 6
+data.zelt.txt 4

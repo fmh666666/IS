@@ -1,0 +1,19 @@
+18
+data.pa.txt 1
+data.sq.txt 1
+data.uz.txt 1
+data.zabe.txt 1
+data.zafq.txt 2
+data.zawo.txt 1
+data.zbfr.txt 1
+data.zbjq.txt 1
+data.zbnp.txt 4
+data.zbof.txt 1
+data.zccx.txt 1
+data.zcee.txt 2
+data.zcmx.txt 1
+data.zdbf.txt 1
+data.zdlm.txt 1
+data.zdou.txt 1
+data.zdwn.txt 1
+data.zehb.txt 2

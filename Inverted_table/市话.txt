@@ -1,0 +1,16 @@
+15
+data.dg.txt 1
+data.pn.txt 1
+data.wg.txt 1
+data.zamr.txt 2
+data.zapl.txt 2
+data.zayv.txt 1
+data.zazn.txt 1
+data.zbmt.txt 1
+data.zbre.txt 1
+data.zcao.txt 1
+data.zcaq.txt 1
+data.zclm.txt 1
+data.zdux.txt 1
+data.zdwl.txt 2
+data.zdzn.txt 1

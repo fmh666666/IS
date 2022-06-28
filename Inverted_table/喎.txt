@@ -1,0 +1,13 @@
+12
+data.cz.txt 2
+data.hu.txt 1
+data.zbaq.txt 2
+data.zbdx.txt 2
+data.zbel.txt 1
+data.zbgu.txt 1
+data.zcaq.txt 2
+data.zcfx.txt 1
+data.zcgi.txt 1
+data.zddx.txt 2
+data.zdey.txt 8
+data.zefd.txt 1

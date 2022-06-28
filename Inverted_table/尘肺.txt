@@ -1,0 +1,9 @@
+8
+data.hp.txt 1
+data.vi.txt 2
+data.wc.txt 1
+data.zabe.txt 4
+data.zbel.txt 1
+data.zbnx.txt 3
+data.zcni.txt 1
+data.zcxq.txt 2

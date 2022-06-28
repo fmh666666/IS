@@ -1,0 +1,4 @@
+3
+data.co.txt 35
+data.zalj.txt 1
+data.zawo.txt 1

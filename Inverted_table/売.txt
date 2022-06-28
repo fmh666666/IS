@@ -1,0 +1,15 @@
+14
+data.zake.txt 3
+data.zaqw.txt 1
+data.zate.txt 2
+data.zbdx.txt 1
+data.zbsu.txt 9
+data.zcfn.txt 2
+data.zdaw.txt 1
+data.zdby.txt 1
+data.zdep.txt 1
+data.zdkp.txt 2
+data.zdrq.txt 5
+data.zegk.txt 2
+data.zegl.txt 10
+data.zegn.txt 12

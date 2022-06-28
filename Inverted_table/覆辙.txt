@@ -1,0 +1,13 @@
+12
+data.en.txt 1
+data.zabe.txt 1
+data.zafk.txt 1
+data.zafv.txt 2
+data.zazg.txt 1
+data.zbnp.txt 1
+data.zcdz.txt 1
+data.zcef.txt 3
+data.zcft.txt 1
+data.zddb.txt 1
+data.zehp.txt 1
+data.zelt.txt 1

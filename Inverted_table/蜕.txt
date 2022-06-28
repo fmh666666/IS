@@ -1,0 +1,9 @@
+8
+data.aj.txt 1
+data.qb.txt 1
+data.zbgu.txt 4
+data.zcuh.txt 1
+data.zdcj.txt 1
+data.zdsh.txt 1
+data.zdwn.txt 2
+data.zefp.txt 1

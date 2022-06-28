@@ -1,0 +1,17 @@
+16
+data.fp.txt 3
+data.pn.txt 1
+data.ud.txt 1
+data.zaej.txt 4
+data.zamr.txt 1
+data.zazg.txt 2
+data.zbla.txt 1
+data.zblh.txt 1
+data.zblr.txt 1
+data.zbnx.txt 4
+data.zbux.txt 3
+data.zcll.txt 1
+data.zcls.txt 1
+data.zcqs.txt 1
+data.zdzi.txt 1
+data.zedk.txt 1

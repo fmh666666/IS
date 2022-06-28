@@ -1,0 +1,16 @@
+15
+data.qn.txt 1
+data.zawc.txt 1
+data.zawo.txt 3
+data.zbaq.txt 1
+data.zbkr.txt 1
+data.zbnx.txt 2
+data.zbvn.txt 1
+data.zbye.txt 1
+data.zdll.txt 1
+data.zdpg.txt 1
+data.zduk.txt 1
+data.zdxw.txt 1
+data.zeaj.txt 1
+data.zedo.txt 2
+data.zeds.txt 2

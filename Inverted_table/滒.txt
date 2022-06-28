@@ -1,0 +1,7 @@
+6
+data.bs.txt 2
+data.to.txt 1
+data.zbcv.txt 1
+data.zbwa.txt 1
+data.zdmw.txt 1
+data.zesq.txt 2

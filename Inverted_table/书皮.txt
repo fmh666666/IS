@@ -1,0 +1,7 @@
+6
+data.zasw.txt 1
+data.zbia.txt 1
+data.zcql.txt 1
+data.zdtv.txt 1
+data.zdwk.txt 1
+data.zdzm.txt 1

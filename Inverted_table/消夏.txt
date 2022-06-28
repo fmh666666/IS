@@ -1,0 +1,13 @@
+12
+data.pn.txt 4
+data.zamr.txt 2
+data.zasd.txt 2
+data.zblq.txt 1
+data.zbsm.txt 1
+data.zcic.txt 1
+data.zcls.txt 1
+data.zdji.txt 4
+data.zedd.txt 3
+data.zedx.txt 1
+data.zene.txt 1
+data.zevl.txt 4

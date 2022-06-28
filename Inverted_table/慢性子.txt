@@ -1,0 +1,7 @@
+6
+data.qn.txt 1
+data.zafi.txt 2
+data.zaxx.txt 1
+data.zbht.txt 1
+data.zdgo.txt 2
+data.zdro.txt 2

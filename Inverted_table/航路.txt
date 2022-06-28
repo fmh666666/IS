@@ -1,0 +1,11 @@
+10
+data.wc.txt 1
+data.zamr.txt 1
+data.zbbt.txt 1
+data.zbga.txt 1
+data.zbor.txt 1
+data.zbzg.txt 1
+data.zcdg.txt 1
+data.zdou.txt 1
+data.zexm.txt 1
+data.zfaj.txt 5

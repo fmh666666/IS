@@ -1,0 +1,9 @@
+8
+data.mu.txt 1
+data.zagr.txt 1
+data.zajr.txt 1
+data.zalj.txt 1
+data.zapl.txt 1
+data.zawm.txt 1
+data.zcue.txt 1
+data.zdju.txt 2

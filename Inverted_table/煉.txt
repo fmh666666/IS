@@ -1,0 +1,10 @@
+9
+data.zake.txt 2
+data.zbse.txt 1
+data.zbsf.txt 1
+data.zduk.txt 1
+data.zeam.txt 1
+data.zeew.txt 1
+data.zefu.txt 1
+data.zeqn.txt 2
+data.zerv.txt 1

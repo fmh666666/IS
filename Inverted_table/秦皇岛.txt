@@ -1,0 +1,24 @@
+23
+data.op.txt 2
+data.zaim.txt 19
+data.zawc.txt 1
+data.zawo.txt 1
+data.zbjk.txt 1
+data.zbkf.txt 1
+data.zcdg.txt 1
+data.zcjy.txt 2
+data.zczp.txt 1
+data.zdds.txt 1
+data.zdji.txt 1
+data.zdkk.txt 1
+data.zdqx.txt 3
+data.zduk.txt 1
+data.zdyv.txt 1
+data.zebf.txt 1
+data.zedd.txt 1
+data.zedy.txt 1
+data.zesi.txt 1
+data.zety.txt 2
+data.zevl.txt 2
+data.zfae.txt 1
+data.zfcj.txt 1

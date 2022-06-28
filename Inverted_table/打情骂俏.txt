@@ -1,0 +1,24 @@
+23
+data.ev.txt 1
+data.ng.txt 1
+data.tj.txt 1
+data.wg.txt 1
+data.zaqr.txt 1
+data.zawo.txt 1
+data.zazn.txt 1
+data.zbcc.txt 1
+data.zbes.txt 1
+data.zbgd.txt 1
+data.zbjk.txt 1
+data.zbph.txt 1
+data.zbwa.txt 1
+data.zcis.txt 1
+data.zcpc.txt 1
+data.zcrv.txt 1
+data.zdaw.txt 2
+data.zddv.txt 1
+data.zdeb.txt 1
+data.zdud.txt 1
+data.zduo.txt 1
+data.zdwk.txt 1
+data.zegk.txt 1

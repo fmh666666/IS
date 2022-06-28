@@ -1,0 +1,21 @@
+20
+data.mi.txt 1
+data.qn.txt 1
+data.zall.txt 2
+data.zaoc.txt 1
+data.zass.txt 1
+data.zbcj.txt 1
+data.zbfz.txt 3
+data.zbjh.txt 1
+data.zbrj.txt 1
+data.zbvn.txt 3
+data.zbwq.txt 1
+data.zcee.txt 1
+data.zczp.txt 1
+data.zdby.txt 1
+data.zdcw.txt 1
+data.zdic.txt 1
+data.zeay.txt 1
+data.zefu.txt 1
+data.zene.txt 1
+data.zfcg.txt 1

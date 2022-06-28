@@ -1,0 +1,12 @@
+11
+data.cn.txt 38
+data.co.txt 24
+data.zafu.txt 1
+data.zbgd.txt 2
+data.zbvp.txt 1
+data.zcao.txt 1
+data.zcdy.txt 1
+data.zcrn.txt 1
+data.zdoc.txt 1
+data.zeay.txt 1
+data.zeyu.txt 1

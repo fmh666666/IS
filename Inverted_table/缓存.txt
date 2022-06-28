@@ -1,0 +1,16 @@
+15
+data.dg.txt 1
+data.ok.txt 1
+data.tz.txt 1
+data.zaun.txt 1
+data.zbgu.txt 1
+data.zbpm.txt 1
+data.zbqu.txt 15
+data.zbux.txt 1
+data.zcql.txt 1
+data.zcxq.txt 1
+data.zdep.txt 1
+data.zeel.txt 2
+data.zeob.txt 2
+data.zexk.txt 2
+data.zfaw.txt 1

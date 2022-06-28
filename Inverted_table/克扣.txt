@@ -1,0 +1,11 @@
+10
+data.gz.txt 1
+data.hu.txt 1
+data.zajo.txt 1
+data.zawc.txt 3
+data.zbfx.txt 1
+data.zbjc.txt 1
+data.zeac.txt 1
+data.zene.txt 1
+data.zevq.txt 1
+data.zezy.txt 1

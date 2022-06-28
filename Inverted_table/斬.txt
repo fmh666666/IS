@@ -1,0 +1,8 @@
+7
+data.gk.txt 2
+data.kt.txt 1
+data.zajo.txt 1
+data.zbcc.txt 1
+data.zcfx.txt 2
+data.zdrq.txt 1
+data.zeaf.txt 1

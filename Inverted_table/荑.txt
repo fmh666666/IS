@@ -1,0 +1,7 @@
+6
+data.bb.txt 1
+data.be.txt 1
+data.zaeh.txt 1
+data.zanm.txt 1
+data.zazx.txt 1
+data.zduo.txt 1

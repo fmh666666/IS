@@ -1,0 +1,7 @@
+6
+data.zalt.txt 2
+data.zanm.txt 1
+data.zaxk.txt 2
+data.zbdb.txt 1
+data.zcmy.txt 3
+data.zeqn.txt 1

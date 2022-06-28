@@ -1,0 +1,11 @@
+10
+data.ft.txt 2
+data.hu.txt 1
+data.tj.txt 1
+data.zabe.txt 1
+data.zcyv.txt 1
+data.zdaw.txt 1
+data.zdcj.txt 2
+data.zdod.txt 4
+data.zejk.txt 2
+data.zeva.txt 1

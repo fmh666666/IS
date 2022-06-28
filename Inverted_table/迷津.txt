@@ -1,0 +1,10 @@
+9
+data.ek.txt 1
+data.zabe.txt 1
+data.zabj.txt 1
+data.zapl.txt 1
+data.zarr.txt 2
+data.zawb.txt 1
+data.zbtx.txt 1
+data.zduc.txt 1
+data.zeos.txt 1

@@ -1,0 +1,20 @@
+19
+data.fj.txt 4
+data.hu.txt 4
+data.ud.txt 2
+data.vi.txt 8
+data.zabx.txt 4
+data.zauy.txt 4
+data.zbpx.txt 4
+data.zckd.txt 4
+data.zcmv.txt 4
+data.zcoy.txt 4
+data.zcsu.txt 1
+data.zcwq.txt 1
+data.zcww.txt 1
+data.zdlw.txt 1
+data.zdqx.txt 1
+data.zdsh.txt 4
+data.zduc.txt 1
+data.zdud.txt 1
+data.zewg.txt 1

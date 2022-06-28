@@ -1,0 +1,9 @@
+8
+data.jf.txt 3
+data.kt.txt 2
+data.zafk.txt 1
+data.zbfz.txt 5
+data.zcmn.txt 1
+data.zdil.txt 1
+data.zdwn.txt 1
+data.zene.txt 3

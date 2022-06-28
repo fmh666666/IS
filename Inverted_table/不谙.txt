@@ -1,0 +1,9 @@
+8
+data.gk.txt 1
+data.zajo.txt 1
+data.zako.txt 1
+data.zalm.txt 1
+data.zblr.txt 1
+data.zcgi.txt 1
+data.zebc.txt 1
+data.zexm.txt 1

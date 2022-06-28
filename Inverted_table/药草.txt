@@ -1,0 +1,7 @@
+6
+data.dg.txt 4
+data.zamr.txt 6
+data.zcaq.txt 5
+data.zcls.txt 4
+data.zcrg.txt 5
+data.zdgo.txt 3

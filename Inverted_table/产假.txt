@@ -1,0 +1,26 @@
+25
+data.fp.txt 6
+data.ft.txt 4
+data.ka.txt 1
+data.ng.txt 1
+data.pa.txt 3
+data.ry.txt 1
+data.zadv.txt 1
+data.zasd.txt 1
+data.zauy.txt 2
+data.zawc.txt 1
+data.zbhe.txt 5
+data.zbvf.txt 1
+data.zbvg.txt 1
+data.zclm.txt 2
+data.zctp.txt 5
+data.zcts.txt 1
+data.zcxp.txt 1
+data.zdcj.txt 1
+data.zdkv.txt 1
+data.zdod.txt 1
+data.zdud.txt 2
+data.zefw.txt 5
+data.zeid.txt 1
+data.zfae.txt 5
+data.zfaz.txt 1

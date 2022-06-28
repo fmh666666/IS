@@ -1,0 +1,19 @@
+18
+data.kt.txt 1
+data.to.txt 2
+data.zacp.txt 1
+data.zavg.txt 4
+data.zawm.txt 1
+data.zayd.txt 1
+data.zbcc.txt 3
+data.zbvg.txt 1
+data.zbzf.txt 1
+data.zcic.txt 8
+data.zcrv.txt 1
+data.zdkp.txt 1
+data.zdnc.txt 1
+data.zdrq.txt 1
+data.zdwv.txt 2
+data.zdwz.txt 1
+data.zeam.txt 1
+data.zfby.txt 1

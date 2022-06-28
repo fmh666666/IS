@@ -1,0 +1,9 @@
+8
+data.co.txt 2
+data.gw.txt 1
+data.mo.txt 1
+data.zalj.txt 1
+data.zbts.txt 1
+data.zciy.txt 1
+data.zdeq.txt 1
+data.zdrq.txt 1

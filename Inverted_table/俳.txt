@@ -1,0 +1,9 @@
+8
+data.hu.txt 1
+data.mu.txt 1
+data.zbsu.txt 2
+data.zcic.txt 1
+data.zdhv.txt 1
+data.zegl.txt 1
+data.zegn.txt 1
+data.zeqh.txt 1

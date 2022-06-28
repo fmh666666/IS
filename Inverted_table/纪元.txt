@@ -1,0 +1,12 @@
+11
+data.gk.txt 3
+data.kq.txt 1
+data.zadv.txt 3
+data.zagr.txt 1
+data.zasj.txt 1
+data.zbcc.txt 1
+data.zcli.txt 2
+data.zcqs.txt 1
+data.zdaw.txt 1
+data.zdep.txt 1
+data.zeve.txt 2

@@ -1,0 +1,8 @@
+7
+data.zbla.txt 2
+data.zbsu.txt 2
+data.zcic.txt 3
+data.zdrq.txt 1
+data.zeai.txt 1
+data.zegk.txt 1
+data.zegn.txt 3

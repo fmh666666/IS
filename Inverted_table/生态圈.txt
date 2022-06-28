@@ -1,0 +1,4 @@
+3
+data.by.txt 1
+data.zbor.txt 2
+data.zcda.txt 1

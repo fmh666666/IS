@@ -1,0 +1,27 @@
+26
+data.mi.txt 1
+data.qn.txt 1
+data.ry.txt 1
+data.zadv.txt 2
+data.zafi.txt 1
+data.zavx.txt 3
+data.zawc.txt 1
+data.zaxj.txt 3
+data.zbdx.txt 1
+data.zbeb.txt 1
+data.zbfd.txt 1
+data.zbgd.txt 1
+data.zbtj.txt 2
+data.zbup.txt 2
+data.zbyb.txt 2
+data.zccu.txt 1
+data.zcdv.txt 1
+data.zcdy.txt 1
+data.zcmx.txt 1
+data.zdil.txt 2
+data.zdle.txt 1
+data.zdzm.txt 1
+data.zdzn.txt 2
+data.zeaf.txt 1
+data.zeew.txt 1
+data.zewn.txt 1

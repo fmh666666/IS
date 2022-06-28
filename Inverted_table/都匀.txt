@@ -1,0 +1,5 @@
+4
+data.zahd.txt 2
+data.zdgv.txt 1
+data.zeaf.txt 2
+data.zene.txt 1

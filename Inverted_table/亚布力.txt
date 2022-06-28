@@ -1,0 +1,8 @@
+7
+data.zbjk.txt 2
+data.zcmx.txt 2
+data.zcvt.txt 3
+data.zduk.txt 1
+data.zfae.txt 2
+data.zfai.txt 2
+data.zfaj.txt 1

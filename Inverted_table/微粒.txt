@@ -1,0 +1,7 @@
+6
+data.fz.txt 1
+data.zajn.txt 1
+data.zbkf.txt 1
+data.zdgv.txt 1
+data.zdmw.txt 1
+data.zduk.txt 1

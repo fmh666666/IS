@@ -1,0 +1,10 @@
+9
+data.wg.txt 1
+data.zabe.txt 1
+data.zajo.txt 4
+data.zaqw.txt 1
+data.zbzf.txt 2
+data.zcse.txt 2
+data.zdeb.txt 2
+data.zdll.txt 1
+data.zeoh.txt 3

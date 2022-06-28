@@ -1,0 +1,7 @@
+6
+data.en.txt 1
+data.jf.txt 2
+data.zako.txt 1
+data.zazg.txt 1
+data.zdwv.txt 1
+data.zenw.txt 1

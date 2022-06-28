@@ -1,0 +1,8 @@
+7
+data.cq.txt 1
+data.gw.txt 1
+data.zbcc.txt 1
+data.zdic.txt 1
+data.zebn.txt 12
+data.zeqv.txt 2
+data.zezy.txt 1

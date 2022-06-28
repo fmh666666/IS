@@ -1,0 +1,11 @@
+10
+data.en.txt 1
+data.ha.txt 1
+data.zaop.txt 1
+data.zaql.txt 1
+data.zbse.txt 1
+data.zchw.txt 2
+data.zcmn.txt 1
+data.zcoy.txt 1
+data.zeew.txt 1
+data.zeik.txt 1

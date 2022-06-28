@@ -1,0 +1,7 @@
+6
+data.mo.txt 2
+data.zaej.txt 1
+data.zbaq.txt 1
+data.zbdx.txt 2
+data.zbmw.txt 30
+data.zcse.txt 1

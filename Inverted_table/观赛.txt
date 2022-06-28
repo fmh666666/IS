@@ -1,0 +1,12 @@
+11
+data.aj.txt 1
+data.be.txt 2
+data.zazn.txt 1
+data.zbaq.txt 2
+data.zbqu.txt 6
+data.zbvm.txt 1
+data.zbxw.txt 1
+data.zdji.txt 2
+data.zdmw.txt 1
+data.zedd.txt 1
+data.zewv.txt 1

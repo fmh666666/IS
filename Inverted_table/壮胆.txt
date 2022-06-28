@@ -1,0 +1,10 @@
+9
+data.ew.txt 1
+data.zasy.txt 1
+data.zawo.txt 1
+data.zbpc.txt 1
+data.zbsf.txt 1
+data.zbtx.txt 2
+data.zccl.txt 1
+data.zcrk.txt 2
+data.zcww.txt 1

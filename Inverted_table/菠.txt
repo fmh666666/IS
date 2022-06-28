@@ -1,0 +1,22 @@
+21
+data.ng.txt 1
+data.tv.txt 1
+data.zajr.txt 1
+data.zazg.txt 9
+data.zbaq.txt 1
+data.zbbt.txt 1
+data.zbgd.txt 1
+data.zbuj.txt 1
+data.zccx.txt 1
+data.zcgi.txt 2
+data.zcqs.txt 7
+data.zdcw.txt 11
+data.zdds.txt 1
+data.zdey.txt 1
+data.zdib.txt 1
+data.zdlo.txt 1
+data.zdrq.txt 1
+data.zebv.txt 1
+data.zefd.txt 1
+data.zelj.txt 4
+data.zeoh.txt 2

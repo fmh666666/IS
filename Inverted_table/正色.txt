@@ -1,0 +1,11 @@
+10
+data.kt.txt 1
+data.zabe.txt 1
+data.zalt.txt 1
+data.zanm.txt 1
+data.zbfd.txt 1
+data.zcnn.txt 1
+data.zcxr.txt 1
+data.zdof.txt 1
+data.zeai.txt 2
+data.zeaj.txt 2

@@ -1,0 +1,8 @@
+7
+data.jf.txt 1
+data.zadv.txt 1
+data.zbmw.txt 2
+data.zbua.txt 1
+data.zdzn.txt 1
+data.zevt.txt 1
+data.zfai.txt 2

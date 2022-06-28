@@ -1,0 +1,9 @@
+8
+data.ew.txt 1
+data.zank.txt 1
+data.zaub.txt 2
+data.zcdy.txt 2
+data.zcdz.txt 5
+data.zdeb.txt 2
+data.zeos.txt 1
+data.zewn.txt 2

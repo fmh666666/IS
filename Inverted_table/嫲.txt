@@ -1,0 +1,18 @@
+17
+data.hc.txt 2
+data.jd.txt 1
+data.zafi.txt 5
+data.zajr.txt 20
+data.zaql.txt 4
+data.zawm.txt 2
+data.zbfp.txt 2
+data.zbjc.txt 3
+data.zbsf.txt 2
+data.zcel.txt 1
+data.zcwq.txt 4
+data.zdaa.txt 8
+data.zdhv.txt 2
+data.zdmw.txt 2
+data.zdwk.txt 1
+data.zedx.txt 1
+data.zemb.txt 3

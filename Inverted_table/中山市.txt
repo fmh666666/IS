@@ -1,0 +1,17 @@
+16
+data.be.txt 1
+data.ee.txt 2
+data.ng.txt 17
+data.nh.txt 1
+data.zbqu.txt 1
+data.zbre.txt 2
+data.zcdz.txt 2
+data.zcel.txt 1
+data.zcmv.txt 1
+data.zcse.txt 2
+data.zcwq.txt 1
+data.zcyx.txt 2
+data.zdnh.txt 1
+data.zdoc.txt 2
+data.zfae.txt 1
+data.zfcj.txt 1

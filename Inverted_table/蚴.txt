@@ -1,0 +1,11 @@
+10
+data.cz.txt 3
+data.zbcj.txt 1
+data.zbut.txt 6
+data.zciq.txt 3
+data.zcxr.txt 2
+data.zdep.txt 4
+data.zdkc.txt 1
+data.zdme.txt 1
+data.zdzn.txt 2
+data.zeel.txt 1

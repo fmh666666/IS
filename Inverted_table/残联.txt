@@ -1,0 +1,10 @@
+9
+data.hp.txt 1
+data.zabe.txt 1
+data.zaim.txt 1
+data.zako.txt 1
+data.zcni.txt 1
+data.zcvt.txt 1
+data.zdar.txt 1
+data.zelt.txt 3
+data.zenn.txt 1

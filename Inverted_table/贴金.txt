@@ -1,0 +1,9 @@
+8
+data.jf.txt 3
+data.zabe.txt 1
+data.zail.txt 1
+data.zaub.txt 1
+data.zawb.txt 1
+data.zbpx.txt 1
+data.zdgp.txt 1
+data.zdud.txt 1

@@ -1,0 +1,7 @@
+6
+data.pa.txt 3
+data.zabe.txt 1
+data.zawb.txt 1
+data.zblq.txt 1
+data.zcdz.txt 1
+data.zfai.txt 1

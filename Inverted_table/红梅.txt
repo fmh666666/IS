@@ -1,0 +1,17 @@
+16
+data.be.txt 1
+data.by.txt 1
+data.cn.txt 1
+data.fp.txt 1
+data.pa.txt 1
+data.zabj.txt 1
+data.zacw.txt 3
+data.zaoc.txt 1
+data.zblq.txt 1
+data.zbof.txt 1
+data.zbot.txt 1
+data.zbpc.txt 1
+data.zcby.txt 1
+data.zeag.txt 1
+data.zene.txt 1
+data.zezm.txt 1

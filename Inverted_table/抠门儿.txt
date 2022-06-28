@@ -1,0 +1,4 @@
+3
+data.zabe.txt 3
+data.zbyb.txt 1
+data.zerv.txt 1

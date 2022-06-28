@@ -1,0 +1,19 @@
+18
+data.bs.txt 2
+data.kt.txt 2
+data.zaim.txt 1
+data.zakb.txt 1
+data.zauy.txt 1
+data.zbem.txt 1
+data.zbhe.txt 1
+data.zbua.txt 5
+data.zcda.txt 1
+data.zcee.txt 1
+data.zcxr.txt 1
+data.zdbf.txt 2
+data.zdds.txt 1
+data.zdme.txt 2
+data.zdud.txt 1
+data.zdzn.txt 1
+data.zenn.txt 1
+data.zezn.txt 3

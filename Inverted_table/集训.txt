@@ -1,0 +1,16 @@
+15
+data.mx.txt 1
+data.ry.txt 1
+data.sq.txt 2
+data.zafu.txt 1
+data.zajo.txt 2
+data.zbcc.txt 1
+data.zcdy.txt 1
+data.zcfn.txt 1
+data.zdar.txt 2
+data.zdep.txt 1
+data.zdmw.txt 1
+data.zdzg.txt 1
+data.zedo.txt 1
+data.zelt.txt 1
+data.zewn.txt 1

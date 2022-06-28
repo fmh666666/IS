@@ -1,0 +1,13 @@
+12
+data.aj.txt 1
+data.ft.txt 2
+data.zaxk.txt 1
+data.zbfp.txt 1
+data.zbmt.txt 1
+data.zbnx.txt 1
+data.zbse.txt 1
+data.zcrv.txt 1
+data.zdaa.txt 1
+data.zeik.txt 1
+data.zevq.txt 3
+data.zfaw.txt 1

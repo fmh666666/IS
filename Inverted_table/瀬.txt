@@ -1,0 +1,7 @@
+6
+data.zbel.txt 1
+data.zbnp.txt 1
+data.zcic.txt 3
+data.zcrn.txt 2
+data.zdkp.txt 1
+data.zeqh.txt 1

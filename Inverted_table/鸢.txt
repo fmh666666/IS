@@ -1,0 +1,24 @@
+23
+data.tv.txt 4
+data.tz.txt 4
+data.zabe.txt 1
+data.zadv.txt 5
+data.zanm.txt 1
+data.zavg.txt 1
+data.zaxj.txt 7
+data.zaxk.txt 3
+data.zbcc.txt 1
+data.zbkf.txt 5
+data.zbkj.txt 10
+data.zbpp.txt 1
+data.zbsu.txt 1
+data.zcdg.txt 1
+data.zcel.txt 1
+data.zcfn.txt 3
+data.zcmn.txt 3
+data.zdrq.txt 1
+data.zdsh.txt 2
+data.zedy.txt 1
+data.zeqh.txt 1
+data.zess.txt 3
+data.zfbr.txt 1

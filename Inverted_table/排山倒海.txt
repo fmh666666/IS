@@ -1,0 +1,24 @@
+23
+data.co.txt 7
+data.kq.txt 2
+data.mu.txt 1
+data.tz.txt 1
+data.zall.txt 1
+data.zasy.txt 1
+data.zauy.txt 1
+data.zbdb.txt 1
+data.zblq.txt 1
+data.zbsu.txt 1
+data.zbts.txt 1
+data.zcse.txt 1
+data.zdkc.txt 1
+data.zdle.txt 1
+data.zdsh.txt 1
+data.zdtr.txt 1
+data.zduo.txt 1
+data.zebc.txt 1
+data.zedk.txt 1
+data.zefp.txt 1
+data.zerw.txt 1
+data.zeta.txt 1
+data.zfaz.txt 1

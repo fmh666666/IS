@@ -1,0 +1,9 @@
+8
+data.ok.txt 1
+data.zahp.txt 2
+data.zaqw.txt 1
+data.zbqu.txt 1
+data.zdkk.txt 1
+data.zdyv.txt 1
+data.zeoh.txt 1
+data.zfae.txt 12

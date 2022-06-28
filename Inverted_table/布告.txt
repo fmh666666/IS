@@ -1,0 +1,5 @@
+4
+data.ok.txt 1
+data.zaic.txt 2
+data.zawb.txt 2
+data.zemb.txt 2

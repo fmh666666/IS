@@ -1,0 +1,10 @@
+9
+data.op.txt 1
+data.zagr.txt 1
+data.zalt.txt 3
+data.zbcj.txt 2
+data.zbeb.txt 2
+data.zbqu.txt 4
+data.zcdy.txt 16
+data.zcdz.txt 21
+data.zdux.txt 1

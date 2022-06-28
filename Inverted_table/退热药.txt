@@ -1,0 +1,7 @@
+6
+data.pa.txt 1
+data.zbha.txt 3
+data.zctp.txt 19
+data.zcts.txt 14
+data.zdbf.txt 1
+data.zdnh.txt 1

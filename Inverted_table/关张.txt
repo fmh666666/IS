@@ -1,0 +1,8 @@
+7
+data.zawu.txt 1
+data.zbga.txt 1
+data.zcef.txt 1
+data.zcgo.txt 1
+data.zdlm.txt 2
+data.zduo.txt 1
+data.zeqn.txt 1

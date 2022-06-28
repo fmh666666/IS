@@ -1,0 +1,11 @@
+10
+data.zacp.txt 2
+data.zafe.txt 1
+data.zafl.txt 1
+data.zalt.txt 1
+data.zaxk.txt 1
+data.zbvg.txt 1
+data.zcnn.txt 1
+data.zctp.txt 1
+data.zdju.txt 1
+data.zdle.txt 2

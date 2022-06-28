@@ -1,0 +1,16 @@
+15
+data.ga.txt 1
+data.qn.txt 1
+data.zabe.txt 1
+data.zahd.txt 1
+data.zalj.txt 1
+data.zawc.txt 1
+data.zbha.txt 1
+data.zbht.txt 1
+data.zcmn.txt 1
+data.zcon.txt 3
+data.zdeb.txt 1
+data.zdwn.txt 1
+data.zelt.txt 1
+data.zevy.txt 1
+data.zewn.txt 1

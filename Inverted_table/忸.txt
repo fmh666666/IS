@@ -1,0 +1,5 @@
+4
+data.zabj.txt 1
+data.zawm.txt 1
+data.zdcj.txt 1
+data.zeam.txt 1

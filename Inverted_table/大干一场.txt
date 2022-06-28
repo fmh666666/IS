@@ -1,0 +1,6 @@
+5
+data.zanm.txt 1
+data.zaub.txt 1
+data.zbse.txt 1
+data.zeqn.txt 1
+data.zeyg.txt 1

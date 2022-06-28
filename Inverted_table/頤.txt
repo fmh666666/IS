@@ -1,0 +1,9 @@
+8
+data.tj.txt 1
+data.uz.txt 1
+data.zbcc.txt 1
+data.zcgi.txt 2
+data.zcpb.txt 1
+data.zdoq.txt 1
+data.zdwd.txt 4
+data.zeyy.txt 1

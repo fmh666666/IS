@@ -1,0 +1,9 @@
+8
+data.zaip.txt 1
+data.zbaf.txt 1
+data.zcak.txt 1
+data.zdou.txt 1
+data.zdwn.txt 1
+data.zeag.txt 1
+data.zefw.txt 1
+data.zerw.txt 1

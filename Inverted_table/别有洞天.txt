@@ -1,0 +1,11 @@
+10
+data.co.txt 2
+data.fj.txt 1
+data.ng.txt 1
+data.pn.txt 2
+data.zbph.txt 1
+data.zbyb.txt 1
+data.zddv.txt 1
+data.zdlg.txt 1
+data.zdoc.txt 2
+data.zefp.txt 1

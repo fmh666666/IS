@@ -1,0 +1,9 @@
+8
+data.ga.txt 2
+data.hp.txt 1
+data.kt.txt 1
+data.zazn.txt 1
+data.zbla.txt 1
+data.zbpp.txt 1
+data.zcdz.txt 1
+data.zdmw.txt 1

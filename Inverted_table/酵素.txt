@@ -1,0 +1,17 @@
+16
+data.ee.txt 1
+data.hu.txt 1
+data.zako.txt 1
+data.zasw.txt 9
+data.zbfz.txt 5
+data.zbyv.txt 1
+data.zcbe.txt 1
+data.zcem.txt 1
+data.zcln.txt 1
+data.zcxp.txt 1
+data.zdmw.txt 4
+data.zdpf.txt 1
+data.zefu.txt 1
+data.zehp.txt 1
+data.zeqn.txt 1
+data.zezf.txt 1

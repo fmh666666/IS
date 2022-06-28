@@ -1,0 +1,23 @@
+22
+data.bb.txt 2
+data.ga.txt 1
+data.hp.txt 1
+data.pq.txt 6
+data.zamr.txt 1
+data.zane.txt 1
+data.zayd.txt 1
+data.zayv.txt 1
+data.zbaq.txt 8
+data.zbpp.txt 2
+data.zbpx.txt 1
+data.zbrj.txt 1
+data.zcdv.txt 1
+data.zclm.txt 1
+data.zctn.txt 13
+data.zcue.txt 1
+data.zdqx.txt 1
+data.zdzi.txt 2
+data.zedx.txt 2
+data.zejn.txt 1
+data.zene.txt 1
+data.zeoo.txt 6

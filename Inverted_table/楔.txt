@@ -1,0 +1,4 @@
+3
+data.zaet.txt 1
+data.zbwa.txt 1
+data.zdaq.txt 4

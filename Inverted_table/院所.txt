@@ -1,0 +1,6 @@
+5
+data.gw.txt 17
+data.zblr.txt 1
+data.zbsl.txt 1
+data.zcln.txt 2
+data.zdju.txt 1

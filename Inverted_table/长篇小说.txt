@@ -1,0 +1,16 @@
+15
+data.bb.txt 1
+data.zabe.txt 2
+data.zadv.txt 1
+data.zaeh.txt 1
+data.zajo.txt 1
+data.zalm.txt 1
+data.zalt.txt 1
+data.zaop.txt 1
+data.zapr.txt 2
+data.zawu.txt 2
+data.zbeb.txt 1
+data.zcef.txt 1
+data.zdlw.txt 1
+data.zeeh.txt 2
+data.zexv.txt 1

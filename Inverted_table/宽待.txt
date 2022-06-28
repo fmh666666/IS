@@ -1,0 +1,5 @@
+4
+data.ka.txt 2
+data.zdlo.txt 1
+data.zdyv.txt 1
+data.zegk.txt 1

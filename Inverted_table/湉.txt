@@ -1,0 +1,16 @@
+15
+data.cq.txt 2
+data.zaqw.txt 2
+data.zasd.txt 2
+data.zbaq.txt 1
+data.zbcc.txt 17
+data.zbcv.txt 1
+data.zbfg.txt 4
+data.zbgw.txt 13
+data.zbht.txt 1
+data.zbvn.txt 2
+data.zcak.txt 19
+data.zddb.txt 1
+data.zdji.txt 1
+data.zdlg.txt 3
+data.zeid.txt 2

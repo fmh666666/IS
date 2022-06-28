@@ -1,0 +1,15 @@
+14
+data.op.txt 2
+data.zahd.txt 1
+data.zawb.txt 1
+data.zawc.txt 2
+data.zawu.txt 3
+data.zbfp.txt 1
+data.zbsm.txt 1
+data.zcrv.txt 1
+data.zctp.txt 1
+data.zdep.txt 2
+data.zedx.txt 1
+data.zene.txt 1
+data.zfai.txt 5
+data.zfaj.txt 1

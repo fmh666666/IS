@@ -1,0 +1,14 @@
+13
+data.dg.txt 5
+data.op.txt 2
+data.ye.txt 1
+data.zail.txt 3
+data.zajh.txt 2
+data.zaop.txt 1
+data.zbvn.txt 1
+data.zclm.txt 7
+data.zcln.txt 5
+data.zduc.txt 1
+data.zdux.txt 1
+data.zfai.txt 22
+data.zfaj.txt 11

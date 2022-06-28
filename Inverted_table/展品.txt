@@ -1,0 +1,17 @@
+16
+data.kt.txt 1
+data.zabx.txt 4
+data.zafu.txt 1
+data.zagr.txt 1
+data.zajo.txt 1
+data.zasw.txt 1
+data.zaxk.txt 2
+data.zbga.txt 1
+data.zbhe.txt 1
+data.zblq.txt 1
+data.zbof.txt 1
+data.zbvm.txt 2
+data.zcdv.txt 1
+data.zdwv.txt 1
+data.zdzg.txt 2
+data.zfbr.txt 1

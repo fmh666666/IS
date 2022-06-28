@@ -1,0 +1,6 @@
+5
+data.fp.txt 2
+data.zasw.txt 1
+data.zawc.txt 1
+data.zbcj.txt 1
+data.zcli.txt 2

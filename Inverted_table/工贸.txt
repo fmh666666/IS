@@ -1,0 +1,10 @@
+9
+data.co.txt 30
+data.zbph.txt 24
+data.zbts.txt 4
+data.zbvf.txt 2
+data.zcaq.txt 2
+data.zcls.txt 2
+data.zcrg.txt 2
+data.zctn.txt 2
+data.zeva.txt 8

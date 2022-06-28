@@ -1,0 +1,15 @@
+14
+data.zafv.txt 1
+data.zajo.txt 4
+data.zalj.txt 4
+data.zalt.txt 3
+data.zarc.txt 1
+data.zawm.txt 1
+data.zbsd.txt 1
+data.zcsr.txt 4
+data.zczb.txt 1
+data.zdsh.txt 2
+data.zedd.txt 1
+data.zekw.txt 9
+data.zeva.txt 3
+data.zfaw.txt 8

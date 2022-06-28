@@ -1,0 +1,17 @@
+16
+data.bb.txt 1
+data.ga.txt 1
+data.jf.txt 1
+data.mx.txt 2
+data.yx.txt 1
+data.zalj.txt 1
+data.zasj.txt 1
+data.zbeb.txt 1
+data.zbfp.txt 1
+data.zbor.txt 2
+data.zchw.txt 1
+data.zdlg.txt 1
+data.zdro.txt 1
+data.zegz.txt 1
+data.zevy.txt 1
+data.zfaj.txt 1

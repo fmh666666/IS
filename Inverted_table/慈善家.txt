@@ -1,0 +1,21 @@
+20
+data.yx.txt 1
+data.zafi.txt 2
+data.zalm.txt 1
+data.zapf.txt 1
+data.zawc.txt 1
+data.zazn.txt 1
+data.zbcc.txt 1
+data.zbdb.txt 1
+data.zbnp.txt 3
+data.zbot.txt 1
+data.zbpx.txt 1
+data.zcby.txt 1
+data.zcrg.txt 8
+data.zdpf.txt 1
+data.zeam.txt 1
+data.zebv.txt 1
+data.zejn.txt 1
+data.zeyg.txt 1
+data.zfaj.txt 1
+data.zfbr.txt 1

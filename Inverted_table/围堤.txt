@@ -1,0 +1,3 @@
+2
+data.zdaq.txt 2
+data.zedy.txt 1

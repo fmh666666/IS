@@ -1,0 +1,13 @@
+12
+data.qn.txt 1
+data.vi.txt 1
+data.zajo.txt 1
+data.zalj.txt 1
+data.zbnp.txt 1
+data.zbtj.txt 1
+data.zcmn.txt 1
+data.zcts.txt 1
+data.zdnh.txt 1
+data.zedx.txt 1
+data.zerh.txt 1
+data.zfas.txt 2

@@ -1,0 +1,7 @@
+6
+data.ry.txt 1
+data.to.txt 1
+data.zabe.txt 2
+data.zane.txt 1
+data.zcxr.txt 1
+data.zdaw.txt 1

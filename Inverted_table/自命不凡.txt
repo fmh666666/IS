@@ -1,0 +1,7 @@
+6
+data.zbvp.txt 1
+data.zdeb.txt 1
+data.zdgo.txt 1
+data.zdll.txt 1
+data.zdzm.txt 1
+data.zexm.txt 1

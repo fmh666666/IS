@@ -1,0 +1,7 @@
+6
+data.zbfx.txt 4
+data.zbla.txt 1
+data.zctn.txt 1
+data.zdaq.txt 2
+data.zdar.txt 2
+data.zfai.txt 1

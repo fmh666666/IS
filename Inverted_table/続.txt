@@ -1,0 +1,7 @@
+6
+data.zake.txt 1
+data.zbcc.txt 1
+data.zbsu.txt 1
+data.zdgt.txt 1
+data.zegl.txt 9
+data.zegn.txt 4

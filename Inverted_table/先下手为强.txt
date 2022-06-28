@@ -1,0 +1,13 @@
+12
+data.hp.txt 1
+data.pq.txt 2
+data.zafe.txt 1
+data.zalt.txt 1
+data.zaoy.txt 1
+data.zapl.txt 1
+data.zaqf.txt 1
+data.zasj.txt 1
+data.zayd.txt 1
+data.zbqu.txt 1
+data.zbru.txt 104
+data.zdga.txt 1

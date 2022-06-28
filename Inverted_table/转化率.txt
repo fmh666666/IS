@@ -1,0 +1,7 @@
+6
+data.gw.txt 1
+data.ka.txt 1
+data.to.txt 1
+data.zapr.txt 1
+data.zcqe.txt 1
+data.zdme.txt 1

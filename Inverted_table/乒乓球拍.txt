@@ -1,0 +1,4 @@
+3
+data.zapl.txt 1
+data.zduk.txt 1
+data.zeeq.txt 1

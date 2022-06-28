@@ -1,0 +1,7 @@
+6
+data.hu.txt 2
+data.zako.txt 1
+data.zcgi.txt 3
+data.zcvq.txt 1
+data.zebv.txt 2
+data.zeqv.txt 1

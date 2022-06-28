@@ -1,0 +1,9 @@
+8
+data.zacd.txt 2
+data.zafi.txt 1
+data.zasd.txt 30
+data.zbdb.txt 3
+data.zbds.txt 2
+data.zbga.txt 2
+data.zeve.txt 1
+data.zezf.txt 1

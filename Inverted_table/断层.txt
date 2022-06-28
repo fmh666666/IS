@@ -1,0 +1,4 @@
+3
+data.zabe.txt 1
+data.zbuj.txt 3
+data.zezy.txt 1

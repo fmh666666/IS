@@ -1,0 +1,9 @@
+8
+data.zbsm.txt 3
+data.zbux.txt 2
+data.zcaq.txt 1
+data.zccu.txt 1
+data.zdga.txt 1
+data.zdle.txt 4
+data.zdlg.txt 2
+data.zenn.txt 1

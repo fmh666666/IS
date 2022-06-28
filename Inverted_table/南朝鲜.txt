@@ -1,0 +1,6 @@
+5
+data.ek.txt 2
+data.ng.txt 2
+data.zbdb.txt 1
+data.zene.txt 1
+data.zfaj.txt 2

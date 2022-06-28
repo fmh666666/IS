@@ -1,0 +1,7 @@
+6
+data.nh.txt 2
+data.zbla.txt 1
+data.zcem.txt 1
+data.zdib.txt 1
+data.zdzm.txt 1
+data.zfaj.txt 1

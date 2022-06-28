@@ -1,0 +1,7 @@
+6
+data.hc.txt 3
+data.zayv.txt 4
+data.zbcv.txt 1
+data.zcaq.txt 5
+data.zcse.txt 1
+data.zctn.txt 3

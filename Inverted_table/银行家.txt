@@ -1,0 +1,16 @@
+15
+data.sq.txt 1
+data.zajo.txt 1
+data.zane.txt 1
+data.zawu.txt 1
+data.zbkv.txt 1
+data.zcdy.txt 1
+data.zcue.txt 1
+data.zdll.txt 3
+data.zdtr.txt 1
+data.zdux.txt 2
+data.zelt.txt 2
+data.zene.txt 1
+data.zerw.txt 1
+data.zeve.txt 1
+data.zfaj.txt 1

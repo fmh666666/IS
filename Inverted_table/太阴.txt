@@ -1,0 +1,19 @@
+18
+data.kq.txt 2
+data.kt.txt 1
+data.zakb.txt 3
+data.zarr.txt 1
+data.zbkr.txt 1
+data.zbua.txt 2
+data.zcbe.txt 1
+data.zcef.txt 1
+data.zcem.txt 1
+data.zcjo.txt 1
+data.zcmn.txt 1
+data.zdgt.txt 1
+data.zdlo.txt 1
+data.zdtr.txt 1
+data.zduc.txt 1
+data.zduo.txt 1
+data.zezy.txt 1
+data.zfaj.txt 1

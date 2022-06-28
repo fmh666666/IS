@@ -1,0 +1,11 @@
+10
+data.kt.txt 1
+data.zasw.txt 2
+data.zbor.txt 3
+data.zbut.txt 1
+data.zcts.txt 1
+data.zczj.txt 1
+data.zebc.txt 3
+data.zeec.txt 1
+data.zeos.txt 5
+data.zevq.txt 2

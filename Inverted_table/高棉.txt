@@ -1,0 +1,2 @@
+1
+data.fp.txt 6

@@ -1,0 +1,14 @@
+13
+data.hg.txt 1
+data.mu.txt 1
+data.ng.txt 1
+data.zass.txt 1
+data.zawb.txt 1
+data.zawc.txt 1
+data.zbdx.txt 6
+data.zbfp.txt 2
+data.zbye.txt 1
+data.zcln.txt 1
+data.zcwn.txt 1
+data.zdoq.txt 1
+data.zeel.txt 1

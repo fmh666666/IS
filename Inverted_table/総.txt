@@ -1,0 +1,7 @@
+6
+data.zcfn.txt 1
+data.zdby.txt 1
+data.zdrq.txt 2
+data.zegk.txt 1
+data.zegl.txt 4
+data.zegn.txt 2

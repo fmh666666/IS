@@ -1,0 +1,5 @@
+4
+data.zabe.txt 2
+data.zaim.txt 1
+data.zedx.txt 1
+data.zegz.txt 1

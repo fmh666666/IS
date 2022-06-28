@@ -1,0 +1,10 @@
+9
+data.zabe.txt 2
+data.zaip.txt 1
+data.zasw.txt 1
+data.zblr.txt 1
+data.zbqu.txt 1
+data.zcdz.txt 1
+data.zcoy.txt 1
+data.zenw.txt 1
+data.zezm.txt 1

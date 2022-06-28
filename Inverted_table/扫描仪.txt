@@ -1,0 +1,11 @@
+10
+data.dg.txt 1
+data.gw.txt 2
+data.xe.txt 1
+data.zalj.txt 2
+data.zard.txt 1
+data.zbcc.txt 1
+data.zbsu.txt 1
+data.zcdv.txt 1
+data.zddx.txt 3
+data.zdrq.txt 1

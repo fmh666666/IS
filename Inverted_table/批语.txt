@@ -1,0 +1,9 @@
+8
+data.be.txt 1
+data.bf.txt 2
+data.zagb.txt 1
+data.zall.txt 1
+data.zazn.txt 4
+data.zddm.txt 1
+data.zdsh.txt 5
+data.zdwl.txt 1

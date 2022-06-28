@@ -1,0 +1,12 @@
+11
+data.dg.txt 3
+data.zawu.txt 14
+data.zbkf.txt 4
+data.zblr.txt 1
+data.zbpc.txt 1
+data.zbpx.txt 2
+data.zcxq.txt 1
+data.zdkp.txt 1
+data.zexk.txt 1
+data.zeyu.txt 1
+data.zezy.txt 2

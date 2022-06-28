@@ -1,0 +1,9 @@
+8
+data.zafk.txt 2
+data.zagr.txt 1
+data.zaim.txt 2
+data.zalt.txt 27
+data.zapl.txt 1
+data.zcef.txt 1
+data.zczl.txt 1
+data.zdgo.txt 1

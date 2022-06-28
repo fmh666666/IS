@@ -1,0 +1,4 @@
+3
+data.zbla.txt 2
+data.zbof.txt 1
+data.zbut.txt 1

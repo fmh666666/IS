@@ -1,0 +1,7 @@
+6
+data.zafq.txt 1
+data.zaim.txt 1
+data.zazn.txt 1
+data.zciq.txt 1
+data.zcql.txt 1
+data.zdeb.txt 1

@@ -1,0 +1,8 @@
+7
+data.gk.txt 2
+data.zalc.txt 32
+data.zate.txt 1
+data.zbgd.txt 1
+data.zbvn.txt 1
+data.zdqq.txt 1
+data.zdzg.txt 2

@@ -1,0 +1,7 @@
+6
+data.ka.txt 2
+data.zawu.txt 1
+data.zbpc.txt 2
+data.zcoy.txt 2
+data.zeos.txt 2
+data.zevq.txt 1

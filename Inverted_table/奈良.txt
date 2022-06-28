@@ -1,0 +1,20 @@
+19
+data.mu.txt 1
+data.op.txt 1
+data.vi.txt 3
+data.xk.txt 1
+data.zake.txt 1
+data.zalm.txt 1
+data.zbjh.txt 1
+data.zbvn.txt 3
+data.zbye.txt 2
+data.zcda.txt 1
+data.zcdv.txt 1
+data.zcfn.txt 3
+data.zcic.txt 2
+data.zcyv.txt 1
+data.zdrq.txt 2
+data.zegl.txt 1
+data.zegn.txt 1
+data.zeqh.txt 1
+data.zesi.txt 1

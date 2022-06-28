@@ -1,0 +1,6 @@
+5
+data.zdar.txt 1
+data.zdji.txt 1
+data.zeeq.txt 1
+data.zefu.txt 3
+data.zefv.txt 1

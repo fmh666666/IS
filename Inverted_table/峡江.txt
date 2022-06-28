@@ -1,0 +1,6 @@
+5
+data.zane.txt 1
+data.zddb.txt 7
+data.zelt.txt 1
+data.zeoo.txt 1
+data.zexk.txt 1

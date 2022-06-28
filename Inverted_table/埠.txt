@@ -1,0 +1,19 @@
+18
+data.fe.txt 2
+data.ff.txt 1
+data.zakb.txt 1
+data.zako.txt 3
+data.zane.txt 10
+data.zawb.txt 1
+data.zbdx.txt 1
+data.zbeb.txt 1
+data.zbfd.txt 1
+data.zbil.txt 1
+data.zcby.txt 1
+data.zcda.txt 1
+data.zcdz.txt 1
+data.zcic.txt 1
+data.zcxr.txt 1
+data.zdme.txt 5
+data.zdnh.txt 2
+data.zfby.txt 1

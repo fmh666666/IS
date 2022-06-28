@@ -1,0 +1,12 @@
+11
+data.fp.txt 1
+data.ga.txt 1
+data.hp.txt 1
+data.zajo.txt 2
+data.zalm.txt 1
+data.zbga.txt 2
+data.zcku.txt 1
+data.zdhv.txt 1
+data.zdkp.txt 1
+data.zeqv.txt 1
+data.zeva.txt 1

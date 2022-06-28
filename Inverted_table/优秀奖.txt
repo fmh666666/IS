@@ -1,0 +1,7 @@
+6
+data.gw.txt 2
+data.zasr.txt 1
+data.zate.txt 1
+data.zaub.txt 1
+data.zayv.txt 1
+data.zcse.txt 1

@@ -1,0 +1,12 @@
+11
+data.bb.txt 1
+data.kt.txt 1
+data.zalm.txt 3
+data.zawz.txt 1
+data.zbmw.txt 1
+data.zcko.txt 2
+data.zcrv.txt 2
+data.zdkk.txt 2
+data.zfae.txt 1
+data.zfai.txt 2
+data.zfcg.txt 1

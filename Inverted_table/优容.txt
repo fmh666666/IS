@@ -1,0 +1,4 @@
+3
+data.zawm.txt 4
+data.zbru.txt 6
+data.zdux.txt 3

@@ -1,0 +1,11 @@
+10
+data.zacp.txt 1
+data.zapf.txt 2
+data.zawc.txt 1
+data.zbaq.txt 1
+data.zdby.txt 1
+data.zdgt.txt 4
+data.zdlw.txt 1
+data.zduc.txt 1
+data.zduo.txt 1
+data.zemb.txt 1

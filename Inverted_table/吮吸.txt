@@ -1,0 +1,12 @@
+11
+data.sq.txt 1
+data.zawm.txt 1
+data.zazn.txt 1
+data.zbxy.txt 1
+data.zcak.txt 1
+data.zcih.txt 1
+data.zcts.txt 6
+data.zddb.txt 1
+data.zdpz.txt 1
+data.zeeh.txt 3
+data.zfai.txt 1

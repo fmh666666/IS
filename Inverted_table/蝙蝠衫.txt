@@ -1,0 +1,5 @@
+4
+data.zaqr.txt 1
+data.zazw.txt 1
+data.zbgw.txt 1
+data.zcbm.txt 10

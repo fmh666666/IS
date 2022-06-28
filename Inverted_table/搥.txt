@@ -1,0 +1,5 @@
+4
+data.zate.txt 1
+data.zbux.txt 26
+data.zdil.txt 1
+data.zejn.txt 1

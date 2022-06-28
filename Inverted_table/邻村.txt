@@ -1,0 +1,5 @@
+4
+data.zank.txt 1
+data.zbhd.txt 1
+data.zdrq.txt 1
+data.zegk.txt 1

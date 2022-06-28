@@ -1,0 +1,18 @@
+17
+data.co.txt 4
+data.qb.txt 1
+data.vm.txt 1
+data.zabe.txt 1
+data.zanh.txt 3
+data.zasy.txt 1
+data.zate.txt 1
+data.zawz.txt 3
+data.zcak.txt 1
+data.zcbe.txt 2
+data.zcis.txt 2
+data.zcpc.txt 2
+data.zcpx.txt 3
+data.zcwq.txt 1
+data.zdey.txt 1
+data.zdll.txt 1
+data.zeyy.txt 1

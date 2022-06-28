@@ -1,0 +1,26 @@
+25
+data.be.txt 1
+data.co.txt 1
+data.en.txt 2
+data.yx.txt 1
+data.zacp.txt 1
+data.zaoc.txt 1
+data.zapl.txt 1
+data.zaqw.txt 2
+data.zbcj.txt 1
+data.zbhe.txt 1
+data.zbph.txt 1
+data.zbtx.txt 1
+data.zbvf.txt 1
+data.zbvg.txt 1
+data.zcmn.txt 1
+data.zcmv.txt 1
+data.zdlg.txt 1
+data.zdlm.txt 2
+data.zdod.txt 1
+data.zduo.txt 1
+data.zdwn.txt 1
+data.zecf.txt 1
+data.zedk.txt 1
+data.zemf.txt 1
+data.zfas.txt 1

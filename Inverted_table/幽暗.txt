@@ -1,0 +1,20 @@
+19
+data.ew.txt 1
+data.hp.txt 1
+data.kq.txt 1
+data.mk.txt 1
+data.op.txt 1
+data.zabe.txt 1
+data.zadv.txt 1
+data.zajo.txt 2
+data.zbbt.txt 1
+data.zbmw.txt 1
+data.zbua.txt 4
+data.zbup.txt 1
+data.zcpc.txt 1
+data.zcvq.txt 1
+data.zdkc.txt 1
+data.zdle.txt 1
+data.zdro.txt 1
+data.zdyv.txt 1
+data.zeqv.txt 1

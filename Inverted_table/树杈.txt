@@ -1,0 +1,7 @@
+6
+data.ek.txt 1
+data.zaoy.txt 1
+data.zbsu.txt 3
+data.zcrn.txt 1
+data.zdxw.txt 1
+data.zexm.txt 1

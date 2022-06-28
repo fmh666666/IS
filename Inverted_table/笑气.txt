@@ -1,0 +1,4 @@
+3
+data.zauy.txt 2
+data.zdaq.txt 20
+data.zdar.txt 24

@@ -1,0 +1,7 @@
+6
+data.yx.txt 2
+data.zbel.txt 1
+data.zbsm.txt 1
+data.zcko.txt 1
+data.zcsr.txt 1
+data.zdrq.txt 1

@@ -1,0 +1,7 @@
+6
+data.vm.txt 1
+data.zazn.txt 1
+data.zbmt.txt 4
+data.zdlw.txt 1
+data.zdvl.txt 4
+data.zess.txt 1

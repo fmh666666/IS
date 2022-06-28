@@ -1,0 +1,19 @@
+18
+data.hp.txt 1
+data.mo.txt 1
+data.zabe.txt 2
+data.zadv.txt 1
+data.zaic.txt 1
+data.zawb.txt 1
+data.zawc.txt 1
+data.zbha.txt 2
+data.zbwa.txt 1
+data.zbzf.txt 1
+data.zcdz.txt 1
+data.zciy.txt 1
+data.zdep.txt 1
+data.zdil.txt 1
+data.zdwl.txt 1
+data.zene.txt 2
+data.zerw.txt 1
+data.zfaj.txt 2

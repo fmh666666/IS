@@ -1,0 +1,10 @@
+9
+data.ev.txt 2
+data.ew.txt 4
+data.pa.txt 1
+data.zabe.txt 1
+data.zaim.txt 1
+data.zasr.txt 1
+data.zbjh.txt 1
+data.zblq.txt 5
+data.zcrk.txt 1

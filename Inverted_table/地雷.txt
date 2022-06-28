@@ -1,0 +1,19 @@
+18
+data.ek.txt 1
+data.kq.txt 1
+data.xe.txt 19
+data.zair.txt 1
+data.zajo.txt 1
+data.zbgd.txt 8
+data.zcic.txt 1
+data.zcrk.txt 1
+data.zcts.txt 1
+data.zcxq.txt 2
+data.zcxr.txt 3
+data.zczb.txt 1
+data.zdlo.txt 1
+data.zeai.txt 1
+data.zehp.txt 1
+data.zene.txt 1
+data.zeoh.txt 1
+data.zezn.txt 1

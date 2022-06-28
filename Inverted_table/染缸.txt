@@ -1,0 +1,11 @@
+10
+data.fz.txt 2
+data.zabe.txt 2
+data.zanh.txt 1
+data.zbkv.txt 2
+data.zbla.txt 4
+data.zbnx.txt 1
+data.zcby.txt 1
+data.zcse.txt 1
+data.zdtr.txt 2
+data.zeay.txt 2

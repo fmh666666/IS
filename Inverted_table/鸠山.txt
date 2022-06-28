@@ -1,0 +1,10 @@
+9
+data.be.txt 2
+data.tz.txt 1
+data.zaun.txt 1
+data.zawc.txt 1
+data.zbfx.txt 1
+data.zcpx.txt 1
+data.zcse.txt 1
+data.zeam.txt 1
+data.zegk.txt 2

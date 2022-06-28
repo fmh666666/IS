@@ -1,0 +1,6 @@
+5
+data.zalt.txt 2
+data.zblq.txt 1
+data.zeam.txt 1
+data.zeay.txt 1
+data.zegk.txt 1

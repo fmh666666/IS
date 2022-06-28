@@ -1,0 +1,5 @@
+4
+data.ew.txt 1
+data.ga.txt 1
+data.zelt.txt 2
+data.zfas.txt 1

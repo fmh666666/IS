@@ -1,0 +1,14 @@
+13
+data.kq.txt 3
+data.zabe.txt 1
+data.zafi.txt 2
+data.zbel.txt 1
+data.zbhd.txt 4
+data.zblr.txt 2
+data.zcln.txt 1
+data.zcsu.txt 2
+data.zdgt.txt 1
+data.zdzg.txt 1
+data.zefp.txt 1
+data.zeyg.txt 3
+data.zfby.txt 2

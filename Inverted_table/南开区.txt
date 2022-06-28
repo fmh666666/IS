@@ -1,0 +1,7 @@
+6
+data.bs.txt 2
+data.zard.txt 1
+data.zbha.txt 1
+data.zcli.txt 1
+data.zdaq.txt 4
+data.zdgt.txt 1

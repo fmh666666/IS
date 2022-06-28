@@ -1,0 +1,8 @@
+7
+data.op.txt 1
+data.pa.txt 1
+data.uz.txt 2
+data.zawc.txt 1
+data.zbvg.txt 1
+data.zbye.txt 1
+data.zbzg.txt 1

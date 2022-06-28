@@ -1,0 +1,18 @@
+17
+data.gk.txt 2
+data.zapl.txt 1
+data.zavg.txt 1
+data.zawb.txt 1
+data.zbcc.txt 1
+data.zbkr.txt 1
+data.zbwa.txt 1
+data.zcaq.txt 1
+data.zcbe.txt 1
+data.zdcw.txt 1
+data.zdkp.txt 1
+data.zdrq.txt 1
+data.zeaj.txt 1
+data.zeay.txt 1
+data.zeez.txt 1
+data.zegl.txt 1
+data.zejk.txt 1

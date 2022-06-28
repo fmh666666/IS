@@ -1,0 +1,9 @@
+8
+data.co.txt 2
+data.ng.txt 1
+data.zair.txt 1
+data.zbgw.txt 2
+data.zcdz.txt 1
+data.zcko.txt 9
+data.zcww.txt 1
+data.zdds.txt 1

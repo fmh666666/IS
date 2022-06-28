@@ -1,0 +1,9 @@
+8
+data.gw.txt 2
+data.zagr.txt 1
+data.zawo.txt 1
+data.zbhe.txt 1
+data.zblh.txt 2
+data.zbsl.txt 3
+data.zdgv.txt 1
+data.zdof.txt 1

@@ -1,0 +1,17 @@
+16
+data.gk.txt 1
+data.hg.txt 2
+data.ok.txt 1
+data.zaim.txt 1
+data.zasy.txt 1
+data.zaxj.txt 1
+data.zaxk.txt 2
+data.zbmw.txt 2
+data.zbzg.txt 5
+data.zcdl.txt 1
+data.zcrk.txt 4
+data.zcxq.txt 1
+data.zduo.txt 1
+data.zedo.txt 1
+data.zevl.txt 8
+data.zfaj.txt 4

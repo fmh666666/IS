@@ -1,0 +1,9 @@
+8
+data.ka.txt 1
+data.op.txt 2
+data.zbdb.txt 1
+data.zbuj.txt 1
+data.zcni.txt 1
+data.zdey.txt 4
+data.zdgt.txt 1
+data.zeeq.txt 1

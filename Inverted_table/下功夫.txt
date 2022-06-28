@@ -1,0 +1,10 @@
+9
+data.bf.txt 1
+data.jf.txt 2
+data.wc.txt 1
+data.zacw.txt 1
+data.zasq.txt 1
+data.zbeb.txt 2
+data.zcdy.txt 1
+data.zdic.txt 1
+data.zesq.txt 1

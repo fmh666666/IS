@@ -1,0 +1,7 @@
+6
+data.zanh.txt 6
+data.zasy.txt 2
+data.zavx.txt 2
+data.zbbt.txt 30
+data.zbds.txt 2
+data.zfdk.txt 1

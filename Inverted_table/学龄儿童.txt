@@ -1,0 +1,6 @@
+5
+data.co.txt 4
+data.zbha.txt 1
+data.zcon.txt 1
+data.zcts.txt 1
+data.zdgt.txt 1

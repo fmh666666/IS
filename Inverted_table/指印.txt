@@ -1,0 +1,7 @@
+6
+data.hu.txt 1
+data.to.txt 1
+data.zacw.txt 1
+data.zcef.txt 1
+data.zcpa.txt 1
+data.zcrk.txt 1

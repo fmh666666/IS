@@ -1,0 +1,7 @@
+6
+data.zair.txt 2
+data.zawc.txt 1
+data.zbbt.txt 1
+data.zbot.txt 1
+data.zcln.txt 1
+data.zeob.txt 2

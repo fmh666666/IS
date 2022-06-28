@@ -1,0 +1,9 @@
+8
+data.zafq.txt 1
+data.zbel.txt 1
+data.zblr.txt 1
+data.zbsu.txt 1
+data.zcnn.txt 1
+data.zdkk.txt 1
+data.zelt.txt 1
+data.zeyu.txt 1
