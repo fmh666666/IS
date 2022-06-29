@@ -69,7 +69,7 @@ def initialize_data():
         else:
             # 将上一个词项写入文件
             current_doc.sort(key=lambda elem: elem[0])  # 对文档进行文档名排序，以后可以改为按tf排序
-            with open(os.path.join(root, current_term+ '.txt'), 'w', encoding="ANSI") as f:
+            with open(os.path.join(root, current_term + '.txt'), 'w', encoding="ANSI") as f:
                 f.write(str(current_df) + '\n')
                 for y in current_doc:
                     f.write(y[0] + ' ' + str(y[1]) + '\n')
@@ -78,13 +78,34 @@ def initialize_data():
             current_doc = [[x[1], x[2]]]
 
 
+def bool_search():
+    question = input("请输入想要查询的内容。\n")
+
+    start=time.time()
+
+    question = question.split(" ")
+    i=0
+    while i<len(question):
+        question[i]=question[i]+'.txt'
+        i+=2
+
+    root=os.path.join(os.getcwd(),'Inverted_table')
+    term=os.listdir(root)
+
+    end=time.time()
+    print("布尔查询完成，用时：",end-start)
+
+
 def main():
     a = input("是否初始化？\n0.否 1.是\n")
-    if a != '0':
+    if a == '1':
         start = time.time()
         initialize_data()
         end = time.time()
         print("初始化已完成，用时：", end - start)
+    a = input("是否进入布尔查询？\n0.否 1.是\n")
+    if a == '1':
+        bool_search()
 
 
 if __name__ == '__main__':
