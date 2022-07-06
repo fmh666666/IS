@@ -1,7 +1,7 @@
 6
-data.zbaf.txt 2
-data.zczj.txt 1
-data.zdil.txt 1
-data.zene.txt 1
-data.zeun.txt 1
-data.zfby.txt 2
+data.zbaf.txt 4.927148697748023
+data.zczj.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873
+data.zfby.txt 4.927148697748023

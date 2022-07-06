@@ -1,6 +1,6 @@
 5
-data.bs.txt 10
-data.zblq.txt 1
-data.zbnp.txt 1
-data.zdeb.txt 1
-data.zfaj.txt 1
+data.bs.txt 11.191470190044793
+data.zblq.txt 3.235060386727117
+data.zbnp.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

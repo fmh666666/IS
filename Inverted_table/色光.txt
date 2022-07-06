@@ -1,5 +1,5 @@
 4
-data.co.txt 1
-data.ry.txt 1
-data.zapf.txt 1
-data.zbzf.txt 1
+data.co.txt 3.389731710180695
+data.ry.txt 3.389731710180695
+data.zapf.txt 3.389731710180695
+data.zbzf.txt 3.389731710180695

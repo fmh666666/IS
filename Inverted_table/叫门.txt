@@ -1,4 +1,4 @@
 3
-data.zail.txt 1
-data.zcic.txt 1
-data.zdoq.txt 1
+data.zail.txt 3.5891377275982888
+data.zcic.txt 3.5891377275982888
+data.zdoq.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zbpx.txt 1
-data.zdwz.txt 1
-data.zedk.txt 1
+data.zbpx.txt 3.5891377275982888
+data.zdwz.txt 3.5891377275982888
+data.zedk.txt 3.5891377275982888

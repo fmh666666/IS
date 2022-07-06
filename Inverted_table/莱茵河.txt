@@ -1,9 +1,9 @@
 8
-data.vz.txt 1
-data.zbjc.txt 1
-data.zbor.txt 1
-data.zbpx.txt 1
-data.zdro.txt 1
-data.zdwd.txt 1
-data.zevl.txt 1
-data.zezy.txt 2
+data.vz.txt 2.9092786962624935
+data.zbjc.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zdro.txt 2.9092786962624935
+data.zdwd.txt 2.9092786962624935
+data.zevl.txt 2.9092786962624935
+data.zezy.txt 4.611097637722987

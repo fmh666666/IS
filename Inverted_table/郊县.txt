@@ -1,4 +1,4 @@
 3
-data.zaqp.txt 1
-data.zdou.txt 1
-data.zeid.txt 1
+data.zaqp.txt 3.5891377275982888
+data.zdou.txt 3.5891377275982888
+data.zeid.txt 3.5891377275982888

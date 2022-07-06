@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.jf.txt 3
-data.zbjh.txt 3
-data.zdar.txt 1
-data.zdkv.txt 3
+data.ek.txt 3.235060386727117
+data.jf.txt 6.470120773454234
+data.zbjh.txt 6.470120773454234
+data.zdar.txt 3.235060386727117
+data.zdkv.txt 6.470120773454234

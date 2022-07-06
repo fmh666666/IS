@@ -1,11 +1,11 @@
 10
-data.zawu.txt 2
-data.zcao.txt 1
-data.zctm.txt 1
-data.zcvi.txt 1
-data.zdpf.txt 1
-data.zduk.txt 1
-data.zeam.txt 1
-data.zefv.txt 2
-data.zevt.txt 1
-data.zfbr.txt 1
+data.zawu.txt 4.365949390112154
+data.zcao.txt 2.7546073728089153
+data.zctm.txt 2.7546073728089153
+data.zcvi.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zeam.txt 2.7546073728089153
+data.zefv.txt 4.365949390112154
+data.zevt.txt 2.7546073728089153
+data.zfbr.txt 2.7546073728089153

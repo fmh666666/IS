@@ -1,5 +1,5 @@
 4
-data.jf.txt 4
-data.zard.txt 1
-data.zbjh.txt 14
-data.zbla.txt 1
+data.jf.txt 7.870713291999142
+data.zard.txt 3.389731710180695
+data.zbjh.txt 13.243310940140939
+data.zbla.txt 3.389731710180695

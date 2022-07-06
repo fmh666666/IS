@@ -1,4 +1,4 @@
 3
-data.zcts.txt 1
-data.zcxh.txt 1
-data.zczj.txt 1
+data.zcts.txt 3.5891377275982888
+data.zcxh.txt 3.5891377275982888
+data.zczj.txt 3.5891377275982888

@@ -1,8 +1,8 @@
 7
-data.bs.txt 18
-data.fp.txt 3
-data.zawu.txt 1
-data.zbcj.txt 3
-data.zbls.txt 1
-data.zdnc.txt 1
-data.zfby.txt 5
+data.bs.txt 12.751580055514752
+data.fp.txt 6.003671209152849
+data.zawu.txt 3.0018356045764243
+data.zbcj.txt 6.003671209152849
+data.zbls.txt 3.0018356045764243
+data.zdnc.txt 3.0018356045764243
+data.zfby.txt 7.759632471159678

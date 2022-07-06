@@ -1,9 +1,9 @@
 8
-data.op.txt 2
-data.yx.txt 1
-data.zbor.txt 1
-data.zctm.txt 1
-data.zdpf.txt 1
-data.zdpg.txt 1
-data.zeoo.txt 1
-data.zezh.txt 2
+data.op.txt 4.611097637722987
+data.yx.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zctm.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zdpg.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zezh.txt 4.611097637722987

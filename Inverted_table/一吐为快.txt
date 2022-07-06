@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.op.txt 3
-data.zadv.txt 1
-data.zakb.txt 1
-data.zalm.txt 1
-data.zarc.txt 1
-data.zbyv.txt 1
-data.zcmy.txt 2
+data.jf.txt 2.9092786962624935
+data.op.txt 5.818557392524987
+data.zadv.txt 2.9092786962624935
+data.zakb.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zarc.txt 2.9092786962624935
+data.zbyv.txt 2.9092786962624935
+data.zcmy.txt 4.611097637722987

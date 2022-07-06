@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zbeb.txt 1
-data.zbkr.txt 1
-data.zcql.txt 1
-data.zedo.txt 2
+data.ga.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zbkr.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zedo.txt 5.1274494005309625

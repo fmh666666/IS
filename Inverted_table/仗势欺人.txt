@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zaim.txt 1
-data.zaop.txt 1
-data.zdpw.txt 1
-data.zelj.txt 2
+data.zadv.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117
+data.zelj.txt 5.1274494005309625

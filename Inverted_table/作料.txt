@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zafk.txt 1
-data.zagr.txt 1
-data.zaqr.txt 1
-data.zbgu.txt 1
-data.zczp.txt 1
-data.zduc.txt 1
-data.zeyg.txt 1
-data.zfaz.txt 1
+data.op.txt 2.82763771717948
+data.zafk.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zaqr.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zeyg.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948

@@ -1,7 +1,7 @@
 6
-data.mx.txt 1
-data.zabe.txt 1
-data.zawb.txt 1
-data.zcon.txt 1
-data.zcqp.txt 1
-data.zcrn.txt 1
+data.mx.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.mx.txt 1
-data.pq.txt 1
-data.zalj.txt 1
-data.zbpx.txt 1
-data.zcjo.txt 1
-data.zdtv.txt 1
+data.mx.txt 3.1086847136800873
+data.pq.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zdtv.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.op.txt 4
-data.zahd.txt 2
-data.zbdb.txt 1
-data.zbga.txt 1
-data.zcql.txt 1
-data.zfae.txt 4
+data.op.txt 7.21814237484067
+data.zahd.txt 4.927148697748023
+data.zbdb.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zfae.txt 7.21814237484067

@@ -1,4 +1,4 @@
 3
-data.zbfz.txt 1
-data.zdod.txt 1
-data.zevq.txt 2
+data.zbfz.txt 3.5891377275982888
+data.zdod.txt 3.5891377275982888
+data.zevq.txt 5.688648708166832

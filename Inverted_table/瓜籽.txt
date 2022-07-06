@@ -1,5 +1,5 @@
 4
-data.mt.txt 1
-data.zcfn.txt 1
-data.zddx.txt 1
-data.zdhv.txt 1
+data.mt.txt 3.389731710180695
+data.zcfn.txt 3.389731710180695
+data.zddx.txt 3.389731710180695
+data.zdhv.txt 3.389731710180695

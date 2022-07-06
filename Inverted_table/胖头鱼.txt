@@ -1,7 +1,7 @@
 6
-data.zbbt.txt 7
-data.zbfz.txt 1
-data.zbsu.txt 1
-data.zcis.txt 1
-data.zerw.txt 1
-data.zevq.txt 1
+data.zbbt.txt 9.326054141040261
+data.zbfz.txt 3.1086847136800873
+data.zbsu.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zerw.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

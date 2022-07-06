@@ -1,10 +1,10 @@
 9
-data.ee.txt 2
-data.tv.txt 1
-data.yx.txt 1
-data.zadv.txt 1
-data.zawc.txt 1
-data.zdaw.txt 1
-data.zddp.txt 1
-data.zdju.txt 1
-data.zdpw.txt 1
+data.ee.txt 4.48169974735425
+data.tv.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zdju.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948

@@ -1,14 +1,14 @@
 13
-data.gw.txt 4
-data.vm.txt 1
-data.zabe.txt 6
-data.zafk.txt 1
-data.zafq.txt 2
-data.zavg.txt 4
-data.zblr.txt 1
-data.zccl.txt 2
-data.zciq.txt 1
-data.zcww.txt 1
-data.zcxr.txt 2
-data.zdud.txt 4
-data.zene.txt 1
+data.gw.txt 5.97374125520702
+data.vm.txt 2.5727503226135906
+data.zabe.txt 7.222623281414552
+data.zafk.txt 2.5727503226135906
+data.zafq.txt 4.077712785060798
+data.zavg.txt 5.97374125520702
+data.zblr.txt 2.5727503226135906
+data.zccl.txt 4.077712785060798
+data.zciq.txt 2.5727503226135906
+data.zcww.txt 2.5727503226135906
+data.zcxr.txt 4.077712785060798
+data.zdud.txt 5.97374125520702
+data.zene.txt 2.5727503226135906

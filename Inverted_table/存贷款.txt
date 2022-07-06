@@ -1,7 +1,7 @@
 6
-data.kq.txt 1
-data.zabe.txt 3
-data.zcdy.txt 1
-data.zcdz.txt 6
-data.zddp.txt 3
-data.zdst.txt 1
+data.kq.txt 3.1086847136800873
+data.zabe.txt 6.2173694273601745
+data.zcdy.txt 3.1086847136800873
+data.zcdz.txt 8.727181332075027
+data.zddp.txt 6.2173694273601745
+data.zdst.txt 3.1086847136800873

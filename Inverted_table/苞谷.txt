@@ -1,4 +1,4 @@
 3
-data.to.txt 1
-data.zafk.txt 1
-data.zbre.txt 4
+data.to.txt 3.5891377275982888
+data.zafk.txt 3.5891377275982888
+data.zbre.txt 8.333719726130651

@@ -1,9 +1,9 @@
 8
-data.zate.txt 1
-data.zcby.txt 1
-data.zcej.txt 1
-data.zdqx.txt 1
-data.zeam.txt 1
-data.zemb.txt 1
-data.zeob.txt 1
-data.zeve.txt 2
+data.zate.txt 2.9092786962624935
+data.zcby.txt 2.9092786962624935
+data.zcej.txt 2.9092786962624935
+data.zdqx.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zeob.txt 2.9092786962624935
+data.zeve.txt 4.611097637722987

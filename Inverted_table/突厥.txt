@@ -1,10 +1,10 @@
 9
-data.by.txt 1
-data.zabe.txt 1
-data.zafy.txt 1
-data.zajo.txt 1
-data.zane.txt 1
-data.zaoy.txt 1
-data.zcon.txt 1
-data.zdod.txt 1
-data.zeoh.txt 1
+data.by.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zafy.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zane.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

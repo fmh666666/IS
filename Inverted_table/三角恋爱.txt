@@ -1,6 +1,6 @@
 5
-data.zbil.txt 1
-data.zcaq.txt 1
-data.zcll.txt 1
-data.zemf.txt 1
-data.zevl.txt 1
+data.zbil.txt 3.235060386727117
+data.zcaq.txt 3.235060386727117
+data.zcll.txt 3.235060386727117
+data.zemf.txt 3.235060386727117
+data.zevl.txt 3.235060386727117

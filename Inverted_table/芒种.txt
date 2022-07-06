@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zahp.txt 1
-data.zaxk.txt 1
-data.zcef.txt 3
-data.zeta.txt 2
-data.zezy.txt 1
+data.tv.txt 3.1086847136800873
+data.zahp.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zcef.txt 6.2173694273601745
+data.zeta.txt 4.927148697748023
+data.zezy.txt 3.1086847136800873

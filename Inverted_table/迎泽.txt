@@ -1,6 +1,6 @@
 5
-data.zaqp.txt 1
-data.zbwa.txt 1
-data.zdgv.txt 2
-data.zfae.txt 2
-data.zfaj.txt 1
+data.zaqp.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117
+data.zdgv.txt 5.1274494005309625
+data.zfae.txt 5.1274494005309625
+data.zfaj.txt 3.235060386727117

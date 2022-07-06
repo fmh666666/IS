@@ -1,9 +1,9 @@
 8
-data.zbse.txt 1
-data.zbvn.txt 1
-data.zdme.txt 1
-data.zdwn.txt 1
-data.zexv.txt 2
-data.zfai.txt 1
-data.zfaj.txt 1
-data.zfdk.txt 1
+data.zbse.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zexv.txt 4.611097637722987
+data.zfai.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935
+data.zfdk.txt 2.9092786962624935

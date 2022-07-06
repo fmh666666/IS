@@ -1,4 +1,4 @@
 3
-data.pn.txt 1
-data.zaoy.txt 1
-data.zeqv.txt 1
+data.pn.txt 3.5891377275982888
+data.zaoy.txt 3.5891377275982888
+data.zeqv.txt 3.5891377275982888

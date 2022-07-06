@@ -1,14 +1,14 @@
 13
-data.hg.txt 2
-data.kq.txt 1
-data.tv.txt 1
-data.ud.txt 1
-data.zadv.txt 1
-data.zafq.txt 1
-data.zbhd.txt 2
-data.zbux.txt 7
-data.zcli.txt 2
-data.zddm.txt 2
-data.zeam.txt 1
-data.zemb.txt 1
-data.zenw.txt 1
+data.hg.txt 4.077712785060798
+data.kq.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zafq.txt 2.5727503226135906
+data.zbhd.txt 4.077712785060798
+data.zbux.txt 7.7182509678407705
+data.zcli.txt 4.077712785060798
+data.zddm.txt 4.077712785060798
+data.zeam.txt 2.5727503226135906
+data.zemb.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906

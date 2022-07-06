@@ -1,13 +1,13 @@
 12
-data.xe.txt 1
-data.zadv.txt 1
-data.zajh.txt 8
-data.zasw.txt 1
-data.zawu.txt 1
-data.zaxj.txt 1
-data.zbor.txt 1
-data.zbwq.txt 1
-data.zcln.txt 1
-data.zeec.txt 4
-data.zenn.txt 1
-data.zevt.txt 1
+data.xe.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zajh.txt 8.331297374658428
+data.zasw.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbwq.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zeec.txt 6.1025650235506905
+data.zenn.txt 2.628231699761886
+data.zevt.txt 2.628231699761886

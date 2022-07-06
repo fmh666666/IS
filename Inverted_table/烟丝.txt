@@ -1,4 +1,4 @@
 3
-data.zadv.txt 1
-data.zaoy.txt 2
-data.zavx.txt 1
+data.zadv.txt 3.5891377275982888
+data.zaoy.txt 5.688648708166832
+data.zavx.txt 3.5891377275982888

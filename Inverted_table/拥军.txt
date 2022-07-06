@@ -1,5 +1,5 @@
 4
-data.zaxx.txt 1
-data.zazg.txt 1
-data.zdds.txt 1
-data.zdpw.txt 1
+data.zaxx.txt 3.389731710180695
+data.zazg.txt 3.389731710180695
+data.zdds.txt 3.389731710180695
+data.zdpw.txt 3.389731710180695

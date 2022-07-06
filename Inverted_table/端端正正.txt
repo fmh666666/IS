@@ -1,2 +1,2 @@
 1
-data.zbjc.txt 1
+data.zbjc.txt 4.350637738017098

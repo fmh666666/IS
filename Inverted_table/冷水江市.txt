@@ -1,2 +1,2 @@
 1
-data.zdzg.txt 3
+data.zdzg.txt 8.701275476034196

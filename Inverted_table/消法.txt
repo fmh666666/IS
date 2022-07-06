@@ -1,5 +1,5 @@
 4
-data.hc.txt 2
-data.zcll.txt 1
-data.zctn.txt 2
-data.zewv.txt 2
+data.hc.txt 5.372597648141796
+data.zcll.txt 3.389731710180695
+data.zctn.txt 5.372597648141796
+data.zewv.txt 5.372597648141796

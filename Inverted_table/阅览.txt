@@ -1,8 +1,8 @@
 7
-data.ye.txt 1
-data.zaqp.txt 1
-data.zate.txt 1
-data.zbcj.txt 1
-data.zbha.txt 1
-data.zbut.txt 1
-data.zdfl.txt 1
+data.ye.txt 3.0018356045764243
+data.zaqp.txt 3.0018356045764243
+data.zate.txt 3.0018356045764243
+data.zbcj.txt 3.0018356045764243
+data.zbha.txt 3.0018356045764243
+data.zbut.txt 3.0018356045764243
+data.zdfl.txt 3.0018356045764243

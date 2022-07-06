@@ -1,7 +1,7 @@
 6
-data.zayc.txt 1
-data.zcln.txt 1
-data.zcrk.txt 1
-data.zdst.txt 1
-data.zfaz.txt 2
-data.zfcp.txt 1
+data.zayc.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zcrk.txt 3.1086847136800873
+data.zdst.txt 3.1086847136800873
+data.zfaz.txt 4.927148697748023
+data.zfcp.txt 3.1086847136800873

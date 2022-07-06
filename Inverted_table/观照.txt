@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.zaxx.txt 1
-data.zbjh.txt 5
-data.zblq.txt 3
-data.zeqn.txt 1
+data.mo.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zbjh.txt 8.362509787258078
+data.zblq.txt 6.470120773454234
+data.zeqn.txt 3.235060386727117

@@ -1,8 +1,8 @@
 7
-data.zaqw.txt 1
-data.zarr.txt 1
-data.zbgu.txt 1
-data.zbkv.txt 2
-data.zcem.txt 1
-data.zcpc.txt 1
-data.zeva.txt 1
+data.zaqw.txt 3.0018356045764243
+data.zarr.txt 3.0018356045764243
+data.zbgu.txt 3.0018356045764243
+data.zbkv.txt 4.757796866583254
+data.zcem.txt 3.0018356045764243
+data.zcpc.txt 3.0018356045764243
+data.zeva.txt 3.0018356045764243

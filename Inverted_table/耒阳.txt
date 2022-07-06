@@ -1,5 +1,5 @@
 4
-data.zbht.txt 2
-data.zcse.txt 2
-data.zedy.txt 1
-data.zfae.txt 2
+data.zbht.txt 5.372597648141796
+data.zcse.txt 5.372597648141796
+data.zedy.txt 3.389731710180695
+data.zfae.txt 5.372597648141796

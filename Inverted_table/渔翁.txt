@@ -1,7 +1,7 @@
 6
-data.zblq.txt 1
-data.zcdy.txt 1
-data.zekw.txt 1
-data.zene.txt 1
-data.zfai.txt 3
-data.zfaj.txt 1
+data.zblq.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zekw.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zfai.txt 6.2173694273601745
+data.zfaj.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.ev.txt 1
-data.pa.txt 1
-data.zcve.txt 1
-data.zexm.txt 1
-data.zexv.txt 1
+data.bb.txt 3.1086847136800873
+data.ev.txt 3.1086847136800873
+data.pa.txt 3.1086847136800873
+data.zcve.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

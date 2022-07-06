@@ -1,9 +1,9 @@
 8
-data.tz.txt 1
-data.zafq.txt 1
-data.zajr.txt 1
-data.zasq.txt 1
-data.zawc.txt 1
-data.zbtx.txt 3
-data.zeaf.txt 1
-data.zeoh.txt 1
+data.tz.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zajr.txt 2.9092786962624935
+data.zasq.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbtx.txt 5.818557392524987
+data.zeaf.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

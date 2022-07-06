@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.to.txt 1
-data.zabe.txt 1
-data.zbjh.txt 1
-data.zbla.txt 2
-data.zcxh.txt 1
+data.bf.txt 3.1086847136800873
+data.to.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zbla.txt 4.927148697748023
+data.zcxh.txt 3.1086847136800873

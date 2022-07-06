@@ -1,13 +1,13 @@
 12
-data.fj.txt 2
-data.zabe.txt 1
-data.zaop.txt 1
-data.zazn.txt 1
-data.zbkj.txt 6
-data.zciq.txt 1
-data.zcrn.txt 4
-data.zcrv.txt 1
-data.zcyv.txt 1
-data.zdzg.txt 1
-data.zeds.txt 1
-data.zehb.txt 1
+data.fj.txt 4.165648687329214
+data.zabe.txt 2.628231699761886
+data.zaop.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbkj.txt 7.378379198634354
+data.zciq.txt 2.628231699761886
+data.zcrn.txt 6.1025650235506905
+data.zcrv.txt 2.628231699761886
+data.zcyv.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zeds.txt 2.628231699761886
+data.zehb.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.zbse.txt 1
-data.zfae.txt 1
+data.gz.txt 3.5891377275982888
+data.zbse.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

@@ -1,2 +1,2 @@
 1
-data.zbaq.txt 2
+data.zbaq.txt 6.8955976689794145

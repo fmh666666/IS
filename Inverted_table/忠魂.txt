@@ -1,9 +1,9 @@
 8
-data.pn.txt 1
-data.zajo.txt 2
-data.zbdb.txt 1
-data.zbel.txt 1
-data.zbsm.txt 1
-data.zcdy.txt 1
-data.zeaf.txt 1
-data.zfaj.txt 1
+data.pn.txt 2.9092786962624935
+data.zajo.txt 4.611097637722987
+data.zbdb.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

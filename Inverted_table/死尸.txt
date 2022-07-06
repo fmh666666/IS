@@ -1,12 +1,12 @@
 11
-data.mt.txt 1
-data.tj.txt 1
-data.zabe.txt 1
-data.zbcj.txt 1
-data.zbfz.txt 2
-data.zbhd.txt 2
-data.zcoy.txt 1
-data.zcxh.txt 1
-data.zdlm.txt 2
-data.zdro.txt 1
-data.zegz.txt 1
+data.mt.txt 2.6885433903988862
+data.tj.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbfz.txt 4.261240455343955
+data.zbhd.txt 4.261240455343955
+data.zcoy.txt 2.6885433903988862
+data.zcxh.txt 2.6885433903988862
+data.zdlm.txt 4.261240455343955
+data.zdro.txt 2.6885433903988862
+data.zegz.txt 2.6885433903988862

@@ -1,5 +1,5 @@
 4
-data.pn.txt 1
-data.zacp.txt 1
-data.zcpa.txt 1
-data.zefw.txt 1
+data.pn.txt 3.389731710180695
+data.zacp.txt 3.389731710180695
+data.zcpa.txt 3.389731710180695
+data.zefw.txt 3.389731710180695

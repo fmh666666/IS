@@ -1,13 +1,13 @@
 12
-data.zawu.txt 1
-data.zbdb.txt 2
-data.zcgo.txt 1
-data.zcnn.txt 1
-data.zcqs.txt 1
-data.zcrk.txt 1
-data.zctm.txt 1
-data.zdby.txt 1
-data.zddb.txt 1
-data.zdey.txt 1
-data.zdgt.txt 1
-data.zdnc.txt 1
+data.zawu.txt 2.628231699761886
+data.zbdb.txt 4.165648687329214
+data.zcgo.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zctm.txt 2.628231699761886
+data.zdby.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdey.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdnc.txt 2.628231699761886

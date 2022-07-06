@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zcni.txt 1
-data.zexk.txt 2
+data.op.txt 3.5891377275982888
+data.zcni.txt 3.5891377275982888
+data.zexk.txt 5.688648708166832

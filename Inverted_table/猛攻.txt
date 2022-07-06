@@ -1,5 +1,5 @@
 4
-data.tj.txt 1
-data.zabe.txt 1
-data.zccu.txt 1
-data.zdzm.txt 1
+data.tj.txt 3.389731710180695
+data.zabe.txt 3.389731710180695
+data.zccu.txt 3.389731710180695
+data.zdzm.txt 3.389731710180695

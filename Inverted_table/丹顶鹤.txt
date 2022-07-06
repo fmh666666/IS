@@ -1,4 +1,4 @@
 3
-data.zblr.txt 1
-data.zdeb.txt 1
-data.zeeh.txt 1
+data.zblr.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888
+data.zeeh.txt 3.5891377275982888

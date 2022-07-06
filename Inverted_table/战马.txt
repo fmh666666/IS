@@ -1,13 +1,13 @@
 12
-data.zabe.txt 1
-data.zapl.txt 2
-data.zasd.txt 3
-data.zazn.txt 2
-data.zbcj.txt 1
-data.zbkj.txt 1
-data.zbuj.txt 1
-data.zbup.txt 1
-data.zcdy.txt 1
-data.zcrg.txt 1
-data.zcsr.txt 1
-data.zdzg.txt 1
+data.zabe.txt 2.628231699761886
+data.zapl.txt 4.165648687329214
+data.zasd.txt 5.256463399523772
+data.zazn.txt 4.165648687329214
+data.zbcj.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zbuj.txt 2.628231699761886
+data.zbup.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zcsr.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886

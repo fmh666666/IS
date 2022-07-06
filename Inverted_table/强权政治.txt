@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zbvg.txt 1
-data.zdzn.txt 2
+data.op.txt 3.5891377275982888
+data.zbvg.txt 3.5891377275982888
+data.zdzn.txt 5.688648708166832

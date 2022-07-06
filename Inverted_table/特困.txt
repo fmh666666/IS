@@ -1,14 +1,14 @@
 13
-data.bb.txt 1
-data.cz.txt 2
-data.gw.txt 1
-data.jj.txt 1
-data.mk.txt 1
-data.op.txt 1
-data.vi.txt 1
-data.zafu.txt 1
-data.zaqr.txt 1
-data.zbot.txt 1
-data.zczj.txt 1
-data.zdby.txt 1
-data.zeyg.txt 2
+data.bb.txt 2.5727503226135906
+data.cz.txt 4.077712785060798
+data.gw.txt 2.5727503226135906
+data.jj.txt 2.5727503226135906
+data.mk.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.zafu.txt 2.5727503226135906
+data.zaqr.txt 2.5727503226135906
+data.zbot.txt 2.5727503226135906
+data.zczj.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zeyg.txt 4.077712785060798

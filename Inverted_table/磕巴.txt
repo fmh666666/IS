@@ -1,6 +1,6 @@
 5
-data.zawz.txt 3
-data.zazw.txt 1
-data.zerv.txt 1
-data.zeun.txt 1
-data.zevq.txt 1
+data.zawz.txt 6.470120773454234
+data.zazw.txt 3.235060386727117
+data.zerv.txt 3.235060386727117
+data.zeun.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

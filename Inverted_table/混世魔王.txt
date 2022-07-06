@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zcdv.txt 1
-data.zdeq.txt 1
-data.zejk.txt 1
-data.zfcj.txt 1
+data.zalm.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdeq.txt 3.235060386727117
+data.zejk.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

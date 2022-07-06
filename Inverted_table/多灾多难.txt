@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.sq.txt 2
-data.zafi.txt 1
-data.zakb.txt 1
-data.zbds.txt 1
-data.zbkj.txt 1
-data.zcuh.txt 1
-data.zeew.txt 1
+data.kt.txt 2.9092786962624935
+data.sq.txt 4.611097637722987
+data.zafi.txt 2.9092786962624935
+data.zakb.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zcuh.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935

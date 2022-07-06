@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zbvn.txt 1
-data.zbye.txt 2
-data.zeay.txt 2
-data.zfaw.txt 1
-data.zfaz.txt 1
+data.op.txt 3.1086847136800873
+data.zbvn.txt 3.1086847136800873
+data.zbye.txt 4.927148697748023
+data.zeay.txt 4.927148697748023
+data.zfaw.txt 3.1086847136800873
+data.zfaz.txt 3.1086847136800873

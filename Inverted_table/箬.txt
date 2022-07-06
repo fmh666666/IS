@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.to.txt 1
-data.zabe.txt 1
-data.zadv.txt 1
-data.zagr.txt 1
-data.zaip.txt 1
-data.zasq.txt 2
-data.zbre.txt 1
-data.zbtx.txt 1
-data.zcjo.txt 2
-data.zefw.txt 1
+data.fp.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zasq.txt 4.261240455343955
+data.zbre.txt 2.6885433903988862
+data.zbtx.txt 2.6885433903988862
+data.zcjo.txt 4.261240455343955
+data.zefw.txt 2.6885433903988862

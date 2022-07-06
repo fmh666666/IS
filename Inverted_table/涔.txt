@@ -1,5 +1,5 @@
 4
-data.zbre.txt 1
-data.zbzf.txt 6
-data.zdju.txt 2
-data.zess.txt 2
+data.zbre.txt 3.389731710180695
+data.zbzf.txt 9.516180001030515
+data.zdju.txt 5.372597648141796
+data.zess.txt 5.372597648141796

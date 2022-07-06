@@ -1,5 +1,5 @@
 4
-data.zcts.txt 4
-data.zdaq.txt 27
-data.zdar.txt 19
-data.zefw.txt 4
+data.zcts.txt 7.870713291999142
+data.zdaq.txt 16.295643421391905
+data.zdar.txt 14.650176712360532
+data.zefw.txt 7.870713291999142

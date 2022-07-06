@@ -1,4 +1,4 @@
 3
-data.zasr.txt 1
-data.zczl.txt 4
-data.zdrq.txt 1
+data.zasr.txt 3.5891377275982888
+data.zczl.txt 8.333719726130651
+data.zdrq.txt 3.5891377275982888

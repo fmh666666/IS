@@ -1,10 +1,10 @@
 9
-data.co.txt 2
-data.to.txt 1
-data.ud.txt 1
-data.zcon.txt 1
-data.zczb.txt 1
-data.zczl.txt 1
-data.zdlo.txt 1
-data.zeoh.txt 1
-data.zerw.txt 1
+data.co.txt 4.48169974735425
+data.to.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zczb.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zerw.txt 2.82763771717948

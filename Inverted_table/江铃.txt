@@ -1,5 +1,5 @@
 4
-data.zbel.txt 7
-data.zbts.txt 18
-data.zczl.txt 1
-data.zeeh.txt 1
+data.zbel.txt 10.169195130542084
+data.zbts.txt 14.399334594868751
+data.zczl.txt 3.389731710180695
+data.zeeh.txt 3.389731710180695

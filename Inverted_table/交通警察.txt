@@ -1,9 +1,9 @@
 8
-data.hz.txt 4
-data.zacp.txt 1
-data.zafe.txt 1
-data.zbdx.txt 1
-data.zbpm.txt 1
-data.zeay.txt 1
-data.zevq.txt 1
-data.zexm.txt 1
+data.hz.txt 6.7551359407091605
+data.zacp.txt 2.9092786962624935
+data.zafe.txt 2.9092786962624935
+data.zbdx.txt 2.9092786962624935
+data.zbpm.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935
+data.zexm.txt 2.9092786962624935

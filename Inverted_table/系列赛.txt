@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.zaql.txt 1
-data.zbfg.txt 2
-data.zbjk.txt 1
-data.zbsf.txt 1
-data.zbuj.txt 1
-data.zcpc.txt 1
-data.zdeb.txt 1
+data.ek.txt 2.9092786962624935
+data.zaql.txt 2.9092786962624935
+data.zbfg.txt 4.611097637722987
+data.zbjk.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zbuj.txt 2.9092786962624935
+data.zcpc.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935

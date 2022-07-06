@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.zajo.txt 1
-data.zaqr.txt 1
-data.zfaz.txt 1
+data.mi.txt 3.389731710180695
+data.zajo.txt 3.389731710180695
+data.zaqr.txt 3.389731710180695
+data.zfaz.txt 3.389731710180695

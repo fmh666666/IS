@@ -1,4 +1,4 @@
 3
-data.zbfd.txt 1
-data.zeel.txt 2
-data.zeta.txt 1
+data.zbfd.txt 3.5891377275982888
+data.zeel.txt 5.688648708166832
+data.zeta.txt 3.5891377275982888

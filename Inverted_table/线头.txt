@@ -1,4 +1,4 @@
 3
-data.bf.txt 1
-data.zctp.txt 5
-data.zebc.txt 1
+data.bf.txt 3.5891377275982888
+data.zctp.txt 9.27778643576512
+data.zebc.txt 3.5891377275982888

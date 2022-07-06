@@ -1,7 +1,7 @@
 6
-data.zdhv.txt 1
-data.zdle.txt 1
-data.zdwv.txt 1
-data.zeec.txt 1
-data.zenn.txt 1
-data.zexk.txt 1
+data.zdhv.txt 3.1086847136800873
+data.zdle.txt 3.1086847136800873
+data.zdwv.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zenn.txt 3.1086847136800873
+data.zexk.txt 3.1086847136800873

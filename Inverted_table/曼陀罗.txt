@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.dg.txt 1
-data.hg.txt 2
-data.to.txt 1
-data.zbmw.txt 2
-data.zbzf.txt 2
-data.zcem.txt 3
-data.zcsu.txt 1
-data.zdil.txt 1
+data.bb.txt 2.82763771717948
+data.dg.txt 2.82763771717948
+data.hg.txt 4.48169974735425
+data.to.txt 2.82763771717948
+data.zbmw.txt 4.48169974735425
+data.zbzf.txt 4.48169974735425
+data.zcem.txt 5.65527543435896
+data.zcsu.txt 2.82763771717948
+data.zdil.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zalm.txt 1
-data.zaxk.txt 3
-data.zbqu.txt 1
-data.zefd.txt 1
+data.op.txt 5.1274494005309625
+data.zalm.txt 3.235060386727117
+data.zaxk.txt 6.470120773454234
+data.zbqu.txt 3.235060386727117
+data.zefd.txt 3.235060386727117

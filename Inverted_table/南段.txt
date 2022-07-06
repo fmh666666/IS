@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zabj.txt 7
-data.zawo.txt 1
-data.zdic.txt 1
-data.zerh.txt 1
+data.hp.txt 3.235060386727117
+data.zabj.txt 9.70518116018135
+data.zawo.txt 3.235060386727117
+data.zdic.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

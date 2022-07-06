@@ -1,6 +1,6 @@
 5
-data.zaqp.txt 1
-data.zcxr.txt 1
-data.zeag.txt 1
-data.zeoo.txt 1
-data.zexk.txt 1
+data.zaqp.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zeag.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

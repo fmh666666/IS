@@ -1,3 +1,3 @@
 2
-data.zcfn.txt 6
-data.zelt.txt 1
+data.zcfn.txt 10.864982134471187
+data.zelt.txt 3.8701847240988965

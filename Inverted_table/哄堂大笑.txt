@@ -1,11 +1,11 @@
 10
-data.nh.txt 1
-data.tz.txt 1
-data.zajo.txt 1
-data.zaql.txt 1
-data.zbpc.txt 1
-data.zcpc.txt 1
-data.zdwk.txt 1
-data.zehp.txt 1
-data.zeqh.txt 1
-data.zeqv.txt 1
+data.nh.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zaql.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zcpc.txt 2.7546073728089153
+data.zdwk.txt 2.7546073728089153
+data.zehp.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153

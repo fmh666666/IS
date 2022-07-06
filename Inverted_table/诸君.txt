@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.jf.txt 2
-data.zcmn.txt 1
-data.zdic.txt 1
-data.zdrq.txt 1
-data.zduk.txt 1
-data.zdwl.txt 1
-data.zeay.txt 1
-data.zedo.txt 1
+data.ga.txt 2.82763771717948
+data.jf.txt 4.48169974735425
+data.zcmn.txt 2.82763771717948
+data.zdic.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zedo.txt 2.82763771717948

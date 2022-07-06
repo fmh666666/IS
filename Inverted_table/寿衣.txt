@@ -1,5 +1,5 @@
 4
-data.gz.txt 2
-data.zaip.txt 1
-data.zcoy.txt 1
-data.zeaf.txt 1
+data.gz.txt 5.372597648141796
+data.zaip.txt 3.389731710180695
+data.zcoy.txt 3.389731710180695
+data.zeaf.txt 3.389731710180695

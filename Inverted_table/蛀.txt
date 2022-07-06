@@ -1,10 +1,10 @@
 9
-data.zajh.txt 1
-data.zanh.txt 1
-data.zbhd.txt 2
-data.zbsd.txt 2
-data.zcbe.txt 2
-data.zcel.txt 1
-data.zcue.txt 1
-data.zehb.txt 3
-data.zevt.txt 1
+data.zajh.txt 2.82763771717948
+data.zanh.txt 2.82763771717948
+data.zbhd.txt 4.48169974735425
+data.zbsd.txt 4.48169974735425
+data.zcbe.txt 4.48169974735425
+data.zcel.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zehb.txt 5.65527543435896
+data.zevt.txt 2.82763771717948

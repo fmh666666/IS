@@ -1,14 +1,14 @@
 13
-data.ng.txt 1
-data.zaxp.txt 1
-data.zbeb.txt 1
-data.zbjc.txt 1
-data.zbnp.txt 1
-data.zbph.txt 1
-data.zbse.txt 1
-data.zcxh.txt 3
-data.zdeq.txt 1
-data.zdkk.txt 1
-data.zdlw.txt 1
-data.zefd.txt 1
-data.zefv.txt 1
+data.ng.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbeb.txt 2.5727503226135906
+data.zbjc.txt 2.5727503226135906
+data.zbnp.txt 2.5727503226135906
+data.zbph.txt 2.5727503226135906
+data.zbse.txt 2.5727503226135906
+data.zcxh.txt 5.145500645227181
+data.zdeq.txt 2.5727503226135906
+data.zdkk.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zefd.txt 2.5727503226135906
+data.zefv.txt 2.5727503226135906

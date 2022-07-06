@@ -1,12 +1,12 @@
 11
-data.vm.txt 1
-data.zadv.txt 1
-data.zajo.txt 5
-data.zaxk.txt 1
-data.zayd.txt 1
-data.zazo.txt 1
-data.zblq.txt 1
-data.zdey.txt 1
-data.zdkc.txt 3
-data.zdpz.txt 1
-data.zeeh.txt 1
+data.vm.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zajo.txt 6.949783845742841
+data.zaxk.txt 2.6885433903988862
+data.zayd.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zdey.txt 2.6885433903988862
+data.zdkc.txt 5.3770867807977725
+data.zdpz.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862

@@ -1,13 +1,13 @@
 12
-data.pa.txt 1
-data.tz.txt 1
-data.zako.txt 1
-data.zamr.txt 1
-data.zanh.txt 1
-data.zawc.txt 1
-data.zccu.txt 1
-data.zcts.txt 1
-data.zefp.txt 1
-data.zess.txt 1
-data.zevt.txt 1
-data.zfae.txt 1
+data.pa.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zamr.txt 2.628231699761886
+data.zanh.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zccu.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zess.txt 2.628231699761886
+data.zevt.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

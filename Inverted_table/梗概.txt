@@ -1,8 +1,8 @@
 7
-data.mu.txt 2
-data.ud.txt 1
-data.zaop.txt 1
-data.zbil.txt 1
-data.zcdy.txt 1
-data.zdby.txt 1
-data.zdzg.txt 1
+data.mu.txt 4.757796866583254
+data.ud.txt 3.0018356045764243
+data.zaop.txt 3.0018356045764243
+data.zbil.txt 3.0018356045764243
+data.zcdy.txt 3.0018356045764243
+data.zdby.txt 3.0018356045764243
+data.zdzg.txt 3.0018356045764243

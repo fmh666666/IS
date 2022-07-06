@@ -1,4 +1,4 @@
 3
-data.zcem.txt 1
-data.zcql.txt 3
-data.zcxq.txt 1
+data.zcem.txt 3.5891377275982888
+data.zcql.txt 7.1782754551965775
+data.zcxq.txt 3.5891377275982888

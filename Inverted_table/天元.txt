@@ -1,9 +1,9 @@
 8
-data.co.txt 2
-data.gk.txt 1
-data.mx.txt 4
-data.ry.txt 1
-data.zakb.txt 1
-data.zbvm.txt 1
-data.zbwa.txt 1
-data.zbzg.txt 1
+data.co.txt 4.611097637722987
+data.gk.txt 2.9092786962624935
+data.mx.txt 6.7551359407091605
+data.ry.txt 2.9092786962624935
+data.zakb.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935

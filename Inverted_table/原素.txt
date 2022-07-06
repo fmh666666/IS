@@ -1,2 +1,2 @@
 1
-data.zdib.txt 1
+data.zdib.txt 4.350637738017098

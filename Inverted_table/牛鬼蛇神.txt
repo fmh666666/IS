@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.xk.txt 1
-data.zajo.txt 1
-data.zawu.txt 2
-data.zazw.txt 2
-data.zcee.txt 2
-data.zcef.txt 1
-data.zdwl.txt 1
+data.op.txt 2.9092786962624935
+data.xk.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zawu.txt 4.611097637722987
+data.zazw.txt 4.611097637722987
+data.zcee.txt 4.611097637722987
+data.zcef.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935

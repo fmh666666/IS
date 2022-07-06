@@ -1,9 +1,9 @@
 8
-data.ff.txt 2
-data.zabe.txt 1
-data.zane.txt 1
-data.zczl.txt 1
-data.zddb.txt 1
-data.zdoq.txt 1
-data.zebf.txt 2
-data.zeoh.txt 1
+data.ff.txt 4.611097637722987
+data.zabe.txt 2.9092786962624935
+data.zane.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zddb.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935
+data.zebf.txt 4.611097637722987
+data.zeoh.txt 2.9092786962624935

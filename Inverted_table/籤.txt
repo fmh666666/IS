@@ -1,6 +1,6 @@
 5
-data.zabx.txt 2
-data.zbsu.txt 1
-data.zbvp.txt 1
-data.zcfx.txt 2
-data.zdwz.txt 1
+data.zabx.txt 5.1274494005309625
+data.zbsu.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zcfx.txt 5.1274494005309625
+data.zdwz.txt 3.235060386727117

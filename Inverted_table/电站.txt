@@ -1,8 +1,8 @@
 7
-data.aj.txt 1
-data.gw.txt 2
-data.op.txt 1
-data.zawc.txt 1
-data.zblr.txt 2
-data.zbut.txt 1
-data.zcjd.txt 1
+data.aj.txt 3.0018356045764243
+data.gw.txt 4.757796866583254
+data.op.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zblr.txt 4.757796866583254
+data.zbut.txt 3.0018356045764243
+data.zcjd.txt 3.0018356045764243

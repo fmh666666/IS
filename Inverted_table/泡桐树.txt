@@ -1,5 +1,5 @@
 4
-data.bb.txt 1
-data.zapr.txt 2
-data.zcdl.txt 1
-data.zduo.txt 1
+data.bb.txt 3.389731710180695
+data.zapr.txt 5.372597648141796
+data.zcdl.txt 3.389731710180695
+data.zduo.txt 3.389731710180695

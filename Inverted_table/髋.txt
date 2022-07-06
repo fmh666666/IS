@@ -1,8 +1,8 @@
 7
-data.zahd.txt 1
-data.zajr.txt 3
-data.zbtx.txt 1
-data.zcbe.txt 1
-data.zcts.txt 1
-data.zdep.txt 1
-data.zegz.txt 1
+data.zahd.txt 3.0018356045764243
+data.zajr.txt 6.003671209152849
+data.zbtx.txt 3.0018356045764243
+data.zcbe.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zdep.txt 3.0018356045764243
+data.zegz.txt 3.0018356045764243

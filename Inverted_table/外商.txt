@@ -1,9 +1,9 @@
 8
-data.zapl.txt 1
-data.zbse.txt 1
-data.zcdz.txt 3
-data.zcfx.txt 3
-data.zcse.txt 1
-data.zddx.txt 1
-data.zelt.txt 1
-data.zexv.txt 3
+data.zapl.txt 2.9092786962624935
+data.zbse.txt 2.9092786962624935
+data.zcdz.txt 5.818557392524987
+data.zcfx.txt 5.818557392524987
+data.zcse.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zexv.txt 5.818557392524987

@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.zbel.txt 1
-data.zdyv.txt 3
-data.zefd.txt 1
-data.zexv.txt 1
+data.kq.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zdyv.txt 6.470120773454234
+data.zefd.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

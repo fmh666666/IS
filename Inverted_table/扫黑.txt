@@ -1,4 +1,4 @@
 3
-data.zcdy.txt 1
-data.zegl.txt 3
-data.zegn.txt 1
+data.zcdy.txt 3.5891377275982888
+data.zegl.txt 7.1782754551965775
+data.zegn.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.hc.txt 1
-data.zbcj.txt 1
-data.zbsm.txt 1
-data.zbyb.txt 1
-data.zdds.txt 1
-data.zddx.txt 1
-data.zebf.txt 1
-data.zelt.txt 1
+data.hc.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zdds.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

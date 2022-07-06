@@ -1,6 +1,6 @@
 5
-data.zajh.txt 2
-data.zbhd.txt 1
-data.zdep.txt 1
-data.zdnh.txt 1
-data.zdud.txt 1
+data.zajh.txt 5.1274494005309625
+data.zbhd.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zdnh.txt 3.235060386727117
+data.zdud.txt 3.235060386727117

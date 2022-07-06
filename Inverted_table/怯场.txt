@@ -1,11 +1,11 @@
 10
-data.ft.txt 1
-data.ye.txt 2
-data.zbfx.txt 1
-data.zbnx.txt 1
-data.zccx.txt 1
-data.zcon.txt 1
-data.zdlg.txt 1
-data.zefw.txt 1
-data.zehp.txt 1
-data.zeyy.txt 1
+data.ft.txt 2.7546073728089153
+data.ye.txt 4.365949390112154
+data.zbfx.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zccx.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zdlg.txt 2.7546073728089153
+data.zefw.txt 2.7546073728089153
+data.zehp.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153

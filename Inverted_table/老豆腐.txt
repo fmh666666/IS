@@ -1,5 +1,5 @@
 4
-data.cz.txt 1
-data.zamp.txt 1
-data.zcqe.txt 2
-data.zewn.txt 1
+data.cz.txt 3.389731710180695
+data.zamp.txt 3.389731710180695
+data.zcqe.txt 5.372597648141796
+data.zewn.txt 3.389731710180695

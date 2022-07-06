@@ -1,12 +1,12 @@
 11
-data.wg.txt 1
-data.zawo.txt 1
-data.zbcv.txt 1
-data.zbgd.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcql.txt 1
-data.zdfl.txt 1
-data.zdgo.txt 1
-data.zdhw.txt 1
-data.zevt.txt 1
+data.wg.txt 2.6885433903988862
+data.zawo.txt 2.6885433903988862
+data.zbcv.txt 2.6885433903988862
+data.zbgd.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zdfl.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zevt.txt 2.6885433903988862

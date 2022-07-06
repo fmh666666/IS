@@ -1,13 +1,13 @@
 12
-data.op.txt 1
-data.zaip.txt 1
-data.zane.txt 1
-data.zbmt.txt 1
-data.zcfn.txt 1
-data.zdgt.txt 1
-data.zdof.txt 1
-data.zduo.txt 1
-data.zdzg.txt 1
-data.zefp.txt 1
-data.zegn.txt 1
-data.zeqv.txt 1
+data.op.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zane.txt 2.628231699761886
+data.zbmt.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zduo.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zegn.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886

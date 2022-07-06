@@ -1,14 +1,14 @@
 13
-data.mo.txt 1
-data.qn.txt 1
-data.to.txt 2
-data.zbeb.txt 1
-data.zbpx.txt 1
-data.zcfn.txt 1
-data.zctp.txt 1
-data.zdgo.txt 1
-data.zdhv.txt 1
-data.zeyy.txt 2
-data.zfai.txt 1
-data.zfcg.txt 1
-data.zfcj.txt 1
+data.mo.txt 2.5727503226135906
+data.qn.txt 2.5727503226135906
+data.to.txt 4.077712785060798
+data.zbeb.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcfn.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zdgo.txt 2.5727503226135906
+data.zdhv.txt 2.5727503226135906
+data.zeyy.txt 4.077712785060798
+data.zfai.txt 2.5727503226135906
+data.zfcg.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

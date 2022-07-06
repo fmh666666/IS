@@ -1,8 +1,8 @@
 7
-data.wg.txt 1
-data.zasw.txt 1
-data.zdgv.txt 1
-data.zdlg.txt 1
-data.zdux.txt 1
-data.zefu.txt 1
-data.zeoh.txt 1
+data.wg.txt 3.0018356045764243
+data.zasw.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdlg.txt 3.0018356045764243
+data.zdux.txt 3.0018356045764243
+data.zefu.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243

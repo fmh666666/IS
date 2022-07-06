@@ -1,4 +1,4 @@
 3
-data.zako.txt 1
-data.zbua.txt 1
-data.zdpz.txt 1
+data.zako.txt 3.5891377275982888
+data.zbua.txt 3.5891377275982888
+data.zdpz.txt 3.5891377275982888

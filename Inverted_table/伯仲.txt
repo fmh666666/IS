@@ -1,7 +1,7 @@
 6
-data.zavg.txt 1
-data.zbux.txt 1
-data.zcdz.txt 1
-data.zesq.txt 1
-data.zewn.txt 1
-data.zfaj.txt 1
+data.zavg.txt 3.1086847136800873
+data.zbux.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zesq.txt 3.1086847136800873
+data.zewn.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

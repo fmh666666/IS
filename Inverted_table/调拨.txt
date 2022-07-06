@@ -1,3 +1,3 @@
 2
-data.zanh.txt 1
-data.zcbm.txt 2
+data.zanh.txt 3.8701847240988965
+data.zcbm.txt 6.134097658560606

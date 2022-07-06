@@ -1,6 +1,6 @@
 5
-data.zasr.txt 1
-data.zawz.txt 1
-data.zbjh.txt 1
-data.zcfx.txt 2
-data.zehp.txt 1
+data.zasr.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zbjh.txt 3.235060386727117
+data.zcfx.txt 5.1274494005309625
+data.zehp.txt 3.235060386727117

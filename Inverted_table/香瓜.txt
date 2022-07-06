@@ -1,14 +1,14 @@
 13
-data.mk.txt 2
-data.zbia.txt 1
-data.zbqu.txt 12
-data.zbua.txt 1
-data.zcak.txt 1
-data.zcjd.txt 1
-data.zclh.txt 2
-data.zcqp.txt 1
-data.zcts.txt 1
-data.zdlm.txt 1
-data.zdou.txt 1
-data.zdpf.txt 1
-data.zdux.txt 6
+data.mk.txt 4.077712785060798
+data.zbia.txt 2.5727503226135906
+data.zbqu.txt 9.520307478659639
+data.zbua.txt 2.5727503226135906
+data.zcak.txt 2.5727503226135906
+data.zcjd.txt 2.5727503226135906
+data.zclh.txt 4.077712785060798
+data.zcqp.txt 2.5727503226135906
+data.zcts.txt 2.5727503226135906
+data.zdlm.txt 2.5727503226135906
+data.zdou.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906
+data.zdux.txt 7.222623281414552

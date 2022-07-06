@@ -1,13 +1,13 @@
 12
-data.kt.txt 1
-data.zabe.txt 2
-data.zajo.txt 1
-data.zbyv.txt 1
-data.zbzf.txt 2
-data.zcgo.txt 2
-data.zcsu.txt 1
-data.zczj.txt 1
-data.zdtv.txt 1
-data.zeel.txt 1
-data.zexv.txt 1
-data.zezy.txt 1
+data.kt.txt 2.628231699761886
+data.zabe.txt 4.165648687329214
+data.zajo.txt 2.628231699761886
+data.zbyv.txt 2.628231699761886
+data.zbzf.txt 4.165648687329214
+data.zcgo.txt 4.165648687329214
+data.zcsu.txt 2.628231699761886
+data.zczj.txt 2.628231699761886
+data.zdtv.txt 2.628231699761886
+data.zeel.txt 2.628231699761886
+data.zexv.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

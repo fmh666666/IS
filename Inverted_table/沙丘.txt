@@ -1,7 +1,7 @@
 6
-data.zbvg.txt 1
-data.zdqx.txt 2
-data.zdud.txt 1
-data.zebf.txt 1
-data.zegk.txt 1
-data.zeik.txt 1
+data.zbvg.txt 3.1086847136800873
+data.zdqx.txt 4.927148697748023
+data.zdud.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zegk.txt 3.1086847136800873
+data.zeik.txt 3.1086847136800873

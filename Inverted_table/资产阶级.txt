@@ -1,9 +1,9 @@
 8
-data.zair.txt 1
-data.zajo.txt 3
-data.zbds.txt 1
-data.zbqu.txt 1
-data.zbrj.txt 1
-data.zbut.txt 1
-data.zczp.txt 2
-data.zeay.txt 1
+data.zair.txt 2.9092786962624935
+data.zajo.txt 5.818557392524987
+data.zbds.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zbut.txt 2.9092786962624935
+data.zczp.txt 4.611097637722987
+data.zeay.txt 2.9092786962624935

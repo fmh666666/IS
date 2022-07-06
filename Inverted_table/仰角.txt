@@ -1,6 +1,6 @@
 5
-data.zbdb.txt 4
-data.zbkv.txt 2
-data.zeik.txt 1
-data.zenw.txt 1
-data.zexm.txt 1
+data.zbdb.txt 7.511577600598868
+data.zbkv.txt 5.1274494005309625
+data.zeik.txt 3.235060386727117
+data.zenw.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

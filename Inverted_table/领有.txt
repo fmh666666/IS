@@ -1,4 +1,4 @@
 3
-data.zass.txt 1
-data.zayv.txt 1
-data.zcls.txt 1
+data.zass.txt 3.5891377275982888
+data.zayv.txt 3.5891377275982888
+data.zcls.txt 3.5891377275982888

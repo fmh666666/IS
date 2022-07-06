@@ -1,14 +1,14 @@
 13
-data.ew.txt 2
-data.zail.txt 1
-data.zalj.txt 1
-data.zasj.txt 8
-data.zbhd.txt 2
-data.zbuj.txt 1
-data.zbzf.txt 2
-data.zbzg.txt 2
-data.zcqs.txt 1
-data.zedo.txt 1
-data.zesi.txt 2
-data.zexv.txt 4
-data.zfaz.txt 1
+data.ew.txt 4.077712785060798
+data.zail.txt 2.5727503226135906
+data.zalj.txt 2.5727503226135906
+data.zasj.txt 8.155425570121595
+data.zbhd.txt 4.077712785060798
+data.zbuj.txt 2.5727503226135906
+data.zbzf.txt 4.077712785060798
+data.zbzg.txt 4.077712785060798
+data.zcqs.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zesi.txt 4.077712785060798
+data.zexv.txt 5.97374125520702
+data.zfaz.txt 2.5727503226135906

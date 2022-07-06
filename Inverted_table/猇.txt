@@ -1,3 +1,3 @@
 2
-data.zalc.txt 1
-data.zazw.txt 1
+data.zalc.txt 3.8701847240988965
+data.zazw.txt 3.8701847240988965

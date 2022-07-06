@@ -1,13 +1,13 @@
 12
-data.zafu.txt 1
-data.zbeb.txt 2
-data.zbia.txt 1
-data.zbmw.txt 1
-data.zbvp.txt 1
-data.zcmx.txt 2
-data.zcrk.txt 1
-data.zdey.txt 2
-data.zdgv.txt 2
-data.zdkc.txt 1
-data.zewn.txt 1
-data.zfaz.txt 1
+data.zafu.txt 2.628231699761886
+data.zbeb.txt 4.165648687329214
+data.zbia.txt 2.628231699761886
+data.zbmw.txt 2.628231699761886
+data.zbvp.txt 2.628231699761886
+data.zcmx.txt 4.165648687329214
+data.zcrk.txt 2.628231699761886
+data.zdey.txt 4.165648687329214
+data.zdgv.txt 4.165648687329214
+data.zdkc.txt 2.628231699761886
+data.zewn.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

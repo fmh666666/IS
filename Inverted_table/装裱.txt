@@ -1,5 +1,5 @@
 4
-data.vi.txt 1
-data.zall.txt 1
-data.zbsm.txt 1
-data.zclh.txt 1
+data.vi.txt 3.389731710180695
+data.zall.txt 3.389731710180695
+data.zbsm.txt 3.389731710180695
+data.zclh.txt 3.389731710180695

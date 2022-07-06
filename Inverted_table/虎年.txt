@@ -1,11 +1,11 @@
 10
-data.jf.txt 1
-data.vm.txt 2
-data.zabe.txt 1
-data.zaqr.txt 1
-data.zawu.txt 4
-data.zbhd.txt 1
-data.zciq.txt 1
-data.zcjo.txt 1
-data.zcql.txt 1
-data.zcsu.txt 5
+data.jf.txt 2.7546073728089153
+data.vm.txt 4.365949390112154
+data.zabe.txt 2.7546073728089153
+data.zaqr.txt 2.7546073728089153
+data.zawu.txt 6.396000249308887
+data.zbhd.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zcjo.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zcsu.txt 7.120556762921068

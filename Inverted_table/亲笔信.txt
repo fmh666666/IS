@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.zake.txt 4
-data.zawz.txt 2
-data.zbkj.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zdxw.txt 1
-data.zegn.txt 1
+data.ev.txt 2.9092786962624935
+data.zake.txt 6.7551359407091605
+data.zawz.txt 4.611097637722987
+data.zbkj.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935
+data.zegn.txt 2.9092786962624935

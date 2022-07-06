@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.zank.txt 6
-data.zcse.txt 1
-data.zedd.txt 1
-data.zelt.txt 1
+data.mk.txt 3.235060386727117
+data.zank.txt 9.081962699831948
+data.zcse.txt 3.235060386727117
+data.zedd.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.zard.txt 3
-data.zdep.txt 1
-data.zdlm.txt 1
-data.zfas.txt 1
+data.mo.txt 3.235060386727117
+data.zard.txt 6.470120773454234
+data.zdep.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

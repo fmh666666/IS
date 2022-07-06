@@ -1,4 +1,4 @@
 3
-data.zdqz.txt 2
-data.zebc.txt 1
-data.zeyu.txt 1
+data.zdqz.txt 5.688648708166832
+data.zebc.txt 3.5891377275982888
+data.zeyu.txt 3.5891377275982888

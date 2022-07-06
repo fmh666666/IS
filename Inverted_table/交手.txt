@@ -1,12 +1,12 @@
 11
-data.ev.txt 1
-data.zalj.txt 2
-data.zbaq.txt 1
-data.zbcj.txt 2
-data.zbrj.txt 1
-data.zcgi.txt 1
-data.zdcy.txt 2
-data.zebv.txt 5
-data.zeqv.txt 1
-data.zewn.txt 1
-data.zeyu.txt 1
+data.ev.txt 2.6885433903988862
+data.zalj.txt 4.261240455343955
+data.zbaq.txt 2.6885433903988862
+data.zbcj.txt 4.261240455343955
+data.zbrj.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zdcy.txt 4.261240455343955
+data.zebv.txt 6.949783845742841
+data.zeqv.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862

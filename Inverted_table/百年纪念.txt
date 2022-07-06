@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zapf.txt 1
-data.zapl.txt 1
-data.zaql.txt 1
-data.zard.txt 1
-data.zbfz.txt 1
-data.zbvg.txt 1
-data.zcgo.txt 1
+data.ok.txt 2.9092786962624935
+data.zapf.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zaql.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zbvg.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935

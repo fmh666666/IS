@@ -1,13 +1,13 @@
 12
-data.hg.txt 6
-data.jf.txt 4
-data.pq.txt 2
-data.wc.txt 1
-data.zaeh.txt 1
-data.zall.txt 2
-data.zawc.txt 1
-data.zcmx.txt 1
-data.zdeb.txt 1
-data.zedd.txt 1
-data.zess.txt 2
-data.zfaj.txt 1
+data.hg.txt 7.378379198634354
+data.jf.txt 6.1025650235506905
+data.pq.txt 4.165648687329214
+data.wc.txt 2.628231699761886
+data.zaeh.txt 2.628231699761886
+data.zall.txt 4.165648687329214
+data.zawc.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zedd.txt 2.628231699761886
+data.zess.txt 4.165648687329214
+data.zfaj.txt 2.628231699761886

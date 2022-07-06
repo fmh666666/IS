@@ -1,8 +1,8 @@
 7
-data.mt.txt 1
-data.zbjk.txt 1
-data.zbre.txt 1
-data.zduo.txt 1
-data.zeeh.txt 2
-data.zehb.txt 1
-data.zezm.txt 1
+data.mt.txt 3.0018356045764243
+data.zbjk.txt 3.0018356045764243
+data.zbre.txt 3.0018356045764243
+data.zduo.txt 3.0018356045764243
+data.zeeh.txt 4.757796866583254
+data.zehb.txt 3.0018356045764243
+data.zezm.txt 3.0018356045764243

@@ -1,2 +1,2 @@
 1
-data.ok.txt 2
+data.ok.txt 6.8955976689794145

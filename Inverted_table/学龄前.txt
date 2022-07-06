@@ -1,4 +1,4 @@
 3
-data.zasd.txt 4
-data.zazn.txt 1
-data.zdkp.txt 1
+data.zasd.txt 8.333719726130651
+data.zazn.txt 3.5891377275982888
+data.zdkp.txt 3.5891377275982888

@@ -1,11 +1,11 @@
 10
-data.en.txt 1
-data.kt.txt 1
-data.qn.txt 1
-data.zacw.txt 1
-data.zauy.txt 1
-data.zbmt.txt 1
-data.zcql.txt 1
-data.zcxp.txt 1
-data.zdoc.txt 1
-data.zdoq.txt 1
+data.en.txt 2.7546073728089153
+data.kt.txt 2.7546073728089153
+data.qn.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zauy.txt 2.7546073728089153
+data.zbmt.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zcxp.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153

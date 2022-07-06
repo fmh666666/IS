@@ -1,4 +1,4 @@
 3
-data.zbia.txt 1
-data.zddx.txt 2
-data.zdlg.txt 1
+data.zbia.txt 3.5891377275982888
+data.zddx.txt 5.688648708166832
+data.zdlg.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.gw.txt 1
-data.zbfd.txt 1
-data.zfai.txt 1
-data.zfaw.txt 2
+data.gw.txt 3.389731710180695
+data.zbfd.txt 3.389731710180695
+data.zfai.txt 3.389731710180695
+data.zfaw.txt 5.372597648141796

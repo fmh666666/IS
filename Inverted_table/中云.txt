@@ -1,4 +1,4 @@
 3
-data.zdod.txt 8
-data.zdzm.txt 1
-data.zezh.txt 1
+data.zdod.txt 11.377297416333665
+data.zdzm.txt 3.5891377275982888
+data.zezh.txt 3.5891377275982888

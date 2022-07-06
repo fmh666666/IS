@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.zbfz.txt 2
-data.zctp.txt 3
-data.zcts.txt 4
-data.zdof.txt 1
+data.cz.txt 3.235060386727117
+data.zbfz.txt 5.1274494005309625
+data.zctp.txt 6.470120773454234
+data.zcts.txt 7.511577600598868
+data.zdof.txt 3.235060386727117

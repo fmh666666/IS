@@ -1,8 +1,8 @@
 7
-data.ka.txt 1
-data.zabe.txt 1
-data.zabx.txt 1
-data.zagr.txt 1
-data.zedx.txt 1
-data.zejk.txt 1
-data.zezy.txt 2
+data.ka.txt 3.0018356045764243
+data.zabe.txt 3.0018356045764243
+data.zabx.txt 3.0018356045764243
+data.zagr.txt 3.0018356045764243
+data.zedx.txt 3.0018356045764243
+data.zejk.txt 3.0018356045764243
+data.zezy.txt 4.757796866583254

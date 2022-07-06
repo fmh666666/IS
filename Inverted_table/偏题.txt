@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.zbof.txt 1
-data.zbor.txt 1
-data.zdof.txt 1
-data.zdou.txt 1
+data.mk.txt 3.235060386727117
+data.zbof.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zdou.txt 3.235060386727117

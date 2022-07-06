@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.vm.txt 4
-data.zanh.txt 1
-data.zasq.txt 1
-data.zbnx.txt 1
-data.zbts.txt 1
-data.zcak.txt 1
-data.zcse.txt 1
-data.zcvq.txt 3
-data.zdqz.txt 1
-data.zdux.txt 1
-data.zerv.txt 1
+data.fp.txt 2.628231699761886
+data.vm.txt 6.1025650235506905
+data.zanh.txt 2.628231699761886
+data.zasq.txt 2.628231699761886
+data.zbnx.txt 2.628231699761886
+data.zbts.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zcvq.txt 5.256463399523772
+data.zdqz.txt 2.628231699761886
+data.zdux.txt 2.628231699761886
+data.zerv.txt 2.628231699761886

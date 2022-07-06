@@ -1,6 +1,6 @@
 5
-data.hg.txt 1
-data.zalm.txt 1
-data.zalt.txt 1
-data.zbkv.txt 1
-data.zcgi.txt 1
+data.hg.txt 3.235060386727117
+data.zalm.txt 3.235060386727117
+data.zalt.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zcgi.txt 3.235060386727117

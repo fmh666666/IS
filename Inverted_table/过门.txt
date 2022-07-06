@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.ev.txt 1
-data.zabj.txt 1
-data.zako.txt 1
-data.zate.txt 1
-data.zbsl.txt 1
-data.zdou.txt 1
-data.zdrq.txt 1
-data.zefw.txt 1
+data.bf.txt 2.82763771717948
+data.ev.txt 2.82763771717948
+data.zabj.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zate.txt 2.82763771717948
+data.zbsl.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zefw.txt 2.82763771717948

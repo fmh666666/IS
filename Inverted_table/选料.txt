@@ -1,9 +1,9 @@
 8
-data.zbhd.txt 1
-data.zblq.txt 1
-data.zbqu.txt 1
-data.zcrg.txt 1
-data.zczl.txt 1
-data.zdzn.txt 1
-data.zefd.txt 1
-data.zenw.txt 2
+data.zbhd.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zcrg.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935
+data.zenw.txt 4.611097637722987

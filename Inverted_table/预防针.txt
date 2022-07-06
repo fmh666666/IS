@@ -1,13 +1,13 @@
 12
-data.hu.txt 1
-data.zacw.txt 1
-data.zagr.txt 1
-data.zcft.txt 1
-data.zcfx.txt 1
-data.zcmn.txt 1
-data.zcoy.txt 1
-data.zdgp.txt 1
-data.zehp.txt 1
-data.zelt.txt 1
-data.zeta.txt 1
-data.zevt.txt 1
+data.hu.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zcft.txt 2.628231699761886
+data.zcfx.txt 2.628231699761886
+data.zcmn.txt 2.628231699761886
+data.zcoy.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zehp.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zeta.txt 2.628231699761886
+data.zevt.txt 2.628231699761886

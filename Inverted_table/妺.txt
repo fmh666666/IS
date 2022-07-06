@@ -1,7 +1,7 @@
 6
-data.zbeb.txt 1
-data.zcmn.txt 1
-data.zdwn.txt 1
-data.zeac.txt 6
-data.zewp.txt 1
-data.zeyu.txt 1
+data.zbeb.txt 3.1086847136800873
+data.zcmn.txt 3.1086847136800873
+data.zdwn.txt 3.1086847136800873
+data.zeac.txt 8.727181332075027
+data.zewp.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zasd.txt 3
-data.zbga.txt 1
-data.zbla.txt 1
-data.zcsu.txt 3
-data.zdwv.txt 1
+data.zasd.txt 6.470120773454234
+data.zbga.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zcsu.txt 6.470120773454234
+data.zdwv.txt 3.235060386727117

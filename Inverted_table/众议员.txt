@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zapl.txt 1
-data.zbha.txt 1
-data.zbpm.txt 2
-data.zcdy.txt 2
+data.fp.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zbha.txt 3.235060386727117
+data.zbpm.txt 5.1274494005309625
+data.zcdy.txt 5.1274494005309625

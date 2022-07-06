@@ -1,9 +1,9 @@
 8
-data.zafu.txt 1
-data.zasy.txt 1
-data.zbia.txt 1
-data.zbjk.txt 1
-data.zdwv.txt 1
-data.zegz.txt 1
-data.zeun.txt 1
-data.zfdk.txt 2
+data.zafu.txt 2.9092786962624935
+data.zasy.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zdwv.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935
+data.zeun.txt 2.9092786962624935
+data.zfdk.txt 4.611097637722987

@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.zair.txt 1
-data.zako.txt 1
-data.zbvm.txt 1
-data.zcql.txt 1
-data.zcxr.txt 1
-data.zeoh.txt 1
-data.zerv.txt 1
+data.dg.txt 2.9092786962624935
+data.zair.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935

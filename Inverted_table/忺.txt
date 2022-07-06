@@ -1,2 +1,2 @@
 1
-data.zdme.txt 3
+data.zdme.txt 8.701275476034196

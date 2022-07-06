@@ -1,4 +1,4 @@
 3
-data.mu.txt 1
-data.zbcc.txt 1
-data.zcyv.txt 1
+data.mu.txt 3.5891377275982888
+data.zbcc.txt 3.5891377275982888
+data.zcyv.txt 3.5891377275982888

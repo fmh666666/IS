@@ -1,11 +1,11 @@
 10
-data.ha.txt 1
-data.kq.txt 1
-data.zako.txt 1
-data.zane.txt 1
-data.zarc.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zddp.txt 1
-data.zebc.txt 1
-data.zebv.txt 1
+data.ha.txt 2.7546073728089153
+data.kq.txt 2.7546073728089153
+data.zako.txt 2.7546073728089153
+data.zane.txt 2.7546073728089153
+data.zarc.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zddp.txt 2.7546073728089153
+data.zebc.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153

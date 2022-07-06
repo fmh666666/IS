@@ -1,8 +1,8 @@
 7
-data.tz.txt 4
-data.zaqf.txt 1
-data.zaxk.txt 1
-data.zcdv.txt 1
-data.zcfn.txt 1
-data.zeqh.txt 1
-data.zewd.txt 1
+data.tz.txt 6.970046426499191
+data.zaqf.txt 3.0018356045764243
+data.zaxk.txt 3.0018356045764243
+data.zcdv.txt 3.0018356045764243
+data.zcfn.txt 3.0018356045764243
+data.zeqh.txt 3.0018356045764243
+data.zewd.txt 3.0018356045764243

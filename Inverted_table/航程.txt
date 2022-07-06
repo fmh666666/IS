@@ -1,10 +1,10 @@
 9
-data.ud.txt 1
-data.zcmx.txt 1
-data.zcrv.txt 1
-data.zcve.txt 1
-data.zdlo.txt 1
-data.zdod.txt 1
-data.zdqx.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
+data.ud.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcrv.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zfai.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425

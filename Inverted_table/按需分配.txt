@@ -1,5 +1,5 @@
 4
-data.op.txt 2
-data.zdme.txt 1
-data.zdzn.txt 1
-data.zeoh.txt 2
+data.op.txt 5.372597648141796
+data.zdme.txt 3.389731710180695
+data.zdzn.txt 3.389731710180695
+data.zeoh.txt 5.372597648141796

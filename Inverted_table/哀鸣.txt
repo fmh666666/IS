@@ -1,7 +1,7 @@
 6
-data.ep.txt 1
-data.zabx.txt 1
-data.zaxk.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 2
-data.zeaf.txt 1
+data.ep.txt 3.1086847136800873
+data.zabx.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zdgt.txt 4.927148697748023
+data.zeaf.txt 3.1086847136800873

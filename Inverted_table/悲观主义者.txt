@@ -1,11 +1,11 @@
 10
-data.gw.txt 1
-data.op.txt 1
-data.zaim.txt 1
-data.zasy.txt 1
-data.zbrd.txt 1
-data.zbut.txt 1
-data.zdll.txt 1
-data.zdou.txt 1
-data.zesq.txt 1
-data.zete.txt 1
+data.gw.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zbrd.txt 2.7546073728089153
+data.zbut.txt 2.7546073728089153
+data.zdll.txt 2.7546073728089153
+data.zdou.txt 2.7546073728089153
+data.zesq.txt 2.7546073728089153
+data.zete.txt 2.7546073728089153

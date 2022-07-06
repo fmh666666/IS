@@ -1,6 +1,6 @@
 5
-data.zbpp.txt 1
-data.zcqp.txt 1
-data.zczl.txt 2
-data.zduc.txt 1
-data.zdwl.txt 6
+data.zbpp.txt 3.235060386727117
+data.zcqp.txt 3.235060386727117
+data.zczl.txt 5.1274494005309625
+data.zduc.txt 3.235060386727117
+data.zdwl.txt 9.081962699831948

@@ -1,9 +1,9 @@
 8
-data.uz.txt 6
-data.zaqr.txt 1
-data.zbjh.txt 4
-data.zblq.txt 1
-data.zbpp.txt 1
-data.zdeq.txt 1
-data.zeam.txt 1
-data.zecf.txt 1
+data.uz.txt 8.16737786758984
+data.zaqr.txt 2.9092786962624935
+data.zbjh.txt 6.7551359407091605
+data.zblq.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zdeq.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zecf.txt 2.9092786962624935

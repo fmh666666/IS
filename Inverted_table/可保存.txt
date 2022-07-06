@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.mt.txt 1
-data.sq.txt 1
-data.zbaf.txt 1
-data.zduk.txt 1
+data.kt.txt 3.235060386727117
+data.mt.txt 3.235060386727117
+data.sq.txt 3.235060386727117
+data.zbaf.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

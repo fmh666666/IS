@@ -1,13 +1,13 @@
 12
-data.zbaq.txt 1
-data.zbdx.txt 6
-data.zbeb.txt 4
-data.zbjh.txt 1
-data.zbkr.txt 1
-data.zcko.txt 1
-data.zcyv.txt 6
-data.zdcj.txt 1
-data.zdlm.txt 4
-data.zeec.txt 1
-data.zegn.txt 2
-data.zezn.txt 2
+data.zbaq.txt 2.628231699761886
+data.zbdx.txt 7.378379198634354
+data.zbeb.txt 6.1025650235506905
+data.zbjh.txt 2.628231699761886
+data.zbkr.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zcyv.txt 7.378379198634354
+data.zdcj.txt 2.628231699761886
+data.zdlm.txt 6.1025650235506905
+data.zeec.txt 2.628231699761886
+data.zegn.txt 4.165648687329214
+data.zezn.txt 4.165648687329214

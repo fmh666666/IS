@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zbuj.txt 3
-data.zezy.txt 1
+data.zabe.txt 3.5891377275982888
+data.zbuj.txt 7.1782754551965775
+data.zezy.txt 3.5891377275982888

@@ -1,14 +1,14 @@
 13
-data.fe.txt 1
-data.ha.txt 1
-data.ry.txt 1
-data.tj.txt 1
-data.zadv.txt 2
-data.zahd.txt 1
-data.zaoy.txt 1
-data.zaub.txt 1
-data.zdby.txt 1
-data.zddp.txt 1
-data.zekw.txt 2
-data.zelt.txt 1
-data.zesi.txt 1
+data.fe.txt 2.5727503226135906
+data.ha.txt 2.5727503226135906
+data.ry.txt 2.5727503226135906
+data.tj.txt 2.5727503226135906
+data.zadv.txt 4.077712785060798
+data.zahd.txt 2.5727503226135906
+data.zaoy.txt 2.5727503226135906
+data.zaub.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zddp.txt 2.5727503226135906
+data.zekw.txt 4.077712785060798
+data.zelt.txt 2.5727503226135906
+data.zesi.txt 2.5727503226135906

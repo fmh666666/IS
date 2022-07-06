@@ -1,4 +1,4 @@
 3
-data.yx.txt 1
-data.zeew.txt 1
-data.zewd.txt 1
+data.yx.txt 3.5891377275982888
+data.zeew.txt 3.5891377275982888
+data.zewd.txt 3.5891377275982888

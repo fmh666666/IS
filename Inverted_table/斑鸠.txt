@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.ha.txt 1
-data.zehj.txt 2
-data.zexk.txt 1
-data.zexv.txt 1
+data.bb.txt 3.235060386727117
+data.ha.txt 3.235060386727117
+data.zehj.txt 5.1274494005309625
+data.zexk.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zawb.txt 9
-data.zdgt.txt 2
+data.ud.txt 3.5891377275982888
+data.zawb.txt 11.922857453728941
+data.zdgt.txt 5.688648708166832

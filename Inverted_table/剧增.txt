@@ -1,7 +1,7 @@
 6
-data.zapl.txt 2
-data.zbcj.txt 2
-data.zbfp.txt 1
-data.zbjh.txt 1
-data.zelt.txt 1
-data.zfai.txt 1
+data.zapl.txt 4.927148697748023
+data.zbcj.txt 4.927148697748023
+data.zbfp.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

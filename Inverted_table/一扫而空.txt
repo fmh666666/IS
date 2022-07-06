@@ -1,8 +1,8 @@
 7
-data.jj.txt 1
-data.mx.txt 1
-data.zazo.txt 1
-data.zcfn.txt 1
-data.zcpa.txt 1
-data.zcyv.txt 1
-data.zeec.txt 1
+data.jj.txt 3.0018356045764243
+data.mx.txt 3.0018356045764243
+data.zazo.txt 3.0018356045764243
+data.zcfn.txt 3.0018356045764243
+data.zcpa.txt 3.0018356045764243
+data.zcyv.txt 3.0018356045764243
+data.zeec.txt 3.0018356045764243

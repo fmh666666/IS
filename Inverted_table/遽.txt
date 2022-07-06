@@ -1,4 +1,4 @@
 3
-data.zanh.txt 1
-data.zasy.txt 1
-data.zczp.txt 1
+data.zanh.txt 3.5891377275982888
+data.zasy.txt 3.5891377275982888
+data.zczp.txt 3.5891377275982888

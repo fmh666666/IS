@@ -1,7 +1,7 @@
 6
-data.zass.txt 1
-data.zbua.txt 1
-data.zbux.txt 1
-data.zcnn.txt 1
-data.zdme.txt 1
-data.zfbr.txt 1
+data.zass.txt 3.1086847136800873
+data.zbua.txt 3.1086847136800873
+data.zbux.txt 3.1086847136800873
+data.zcnn.txt 3.1086847136800873
+data.zdme.txt 3.1086847136800873
+data.zfbr.txt 3.1086847136800873

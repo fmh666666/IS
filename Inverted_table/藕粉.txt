@@ -1,13 +1,13 @@
 12
-data.zair.txt 1
-data.zasw.txt 2
-data.zbup.txt 1
-data.zcaq.txt 1
-data.zcjo.txt 1
-data.zcln.txt 1
-data.zcql.txt 1
-data.zcrg.txt 1
-data.zctp.txt 4
-data.zcts.txt 8
-data.zcwn.txt 1
-data.zeaj.txt 1
+data.zair.txt 2.628231699761886
+data.zasw.txt 4.165648687329214
+data.zbup.txt 2.628231699761886
+data.zcaq.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zctp.txt 6.1025650235506905
+data.zcts.txt 8.331297374658428
+data.zcwn.txt 2.628231699761886
+data.zeaj.txt 2.628231699761886

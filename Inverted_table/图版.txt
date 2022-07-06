@@ -1,13 +1,13 @@
 12
-data.pq.txt 1
-data.tz.txt 1
-data.zaxk.txt 1
-data.zazx.txt 1
-data.zbrj.txt 1
-data.zcda.txt 1
-data.zdgp.txt 1
-data.zdkp.txt 2
-data.zdqk.txt 2
-data.zeew.txt 3
-data.zegn.txt 1
-data.zfaw.txt 1
+data.pq.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zazx.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zcda.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zdkp.txt 4.165648687329214
+data.zdqk.txt 4.165648687329214
+data.zeew.txt 5.256463399523772
+data.zegn.txt 2.628231699761886
+data.zfaw.txt 2.628231699761886

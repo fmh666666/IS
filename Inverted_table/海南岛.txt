@@ -1,14 +1,14 @@
 13
-data.hz.txt 3
-data.nh.txt 1
-data.zalj.txt 1
-data.zawb.txt 1
-data.zbhv.txt 1
-data.zbqu.txt 1
-data.zbse.txt 1
-data.zbsl.txt 1
-data.zbsm.txt 1
-data.zcdy.txt 1
-data.zcue.txt 1
-data.zdgo.txt 2
-data.zeaf.txt 1
+data.hz.txt 5.145500645227181
+data.nh.txt 2.5727503226135906
+data.zalj.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zbhv.txt 2.5727503226135906
+data.zbqu.txt 2.5727503226135906
+data.zbse.txt 2.5727503226135906
+data.zbsl.txt 2.5727503226135906
+data.zbsm.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zdgo.txt 4.077712785060798
+data.zeaf.txt 2.5727503226135906

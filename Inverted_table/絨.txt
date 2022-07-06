@@ -1,10 +1,10 @@
 9
-data.co.txt 1
-data.zagr.txt 1
-data.zawm.txt 1
-data.zcfn.txt 2
-data.zcwq.txt 4
-data.zdpf.txt 1
-data.zess.txt 1
-data.zeyu.txt 1
-data.zezm.txt 1
+data.co.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zawm.txt 2.82763771717948
+data.zcfn.txt 4.48169974735425
+data.zcwq.txt 6.565571457682201
+data.zdpf.txt 2.82763771717948
+data.zess.txt 2.82763771717948
+data.zeyu.txt 2.82763771717948
+data.zezm.txt 2.82763771717948

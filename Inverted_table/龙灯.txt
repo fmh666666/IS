@@ -1,4 +1,4 @@
 3
-data.zaoy.txt 1
-data.zdga.txt 6
-data.zfaw.txt 1
+data.zaoy.txt 3.5891377275982888
+data.zdga.txt 10.0759834655157
+data.zfaw.txt 3.5891377275982888

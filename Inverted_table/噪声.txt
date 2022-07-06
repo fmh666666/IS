@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.zakb.txt 1
-data.zalj.txt 1
-data.zbcj.txt 1
-data.zcdy.txt 1
-data.zcqe.txt 1
-data.zegk.txt 1
-data.zexv.txt 1
-data.zfaz.txt 1
+data.cq.txt 2.82763771717948
+data.zakb.txt 2.82763771717948
+data.zalj.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zegk.txt 2.82763771717948
+data.zexv.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948

@@ -1,10 +1,10 @@
 9
-data.xe.txt 2
-data.zahd.txt 1
-data.zaxx.txt 2
-data.zbpx.txt 1
-data.zbzg.txt 1
-data.zckd.txt 1
-data.zcql.txt 3
-data.zddm.txt 7
-data.zdwl.txt 3
+data.xe.txt 4.48169974735425
+data.zahd.txt 2.82763771717948
+data.zaxx.txt 4.48169974735425
+data.zbpx.txt 2.82763771717948
+data.zbzg.txt 2.82763771717948
+data.zckd.txt 2.82763771717948
+data.zcql.txt 5.65527543435896
+data.zddm.txt 8.48291315153844
+data.zdwl.txt 5.65527543435896

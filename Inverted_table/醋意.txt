@@ -1,8 +1,8 @@
 7
-data.ry.txt 1
-data.zabx.txt 1
-data.zadv.txt 1
-data.zbts.txt 1
-data.zcrk.txt 1
-data.zedd.txt 1
-data.zewp.txt 1
+data.ry.txt 3.0018356045764243
+data.zabx.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zbts.txt 3.0018356045764243
+data.zcrk.txt 3.0018356045764243
+data.zedd.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

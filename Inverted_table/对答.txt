@@ -1,12 +1,12 @@
 11
-data.zbfp.txt 1
-data.zbla.txt 1
-data.zbls.txt 1
-data.zcih.txt 1
-data.zdhv.txt 1
-data.zdju.txt 1
-data.zdwl.txt 1
-data.zebf.txt 1
-data.zedo.txt 1
-data.zefs.txt 1
-data.zefv.txt 1
+data.zbfp.txt 2.6885433903988862
+data.zbla.txt 2.6885433903988862
+data.zbls.txt 2.6885433903988862
+data.zcih.txt 2.6885433903988862
+data.zdhv.txt 2.6885433903988862
+data.zdju.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zefv.txt 2.6885433903988862

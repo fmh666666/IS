@@ -1,9 +1,9 @@
 8
-data.zaip.txt 1
-data.zalt.txt 1
-data.zawb.txt 1
-data.zdep.txt 1
-data.zdmw.txt 1
-data.zdzi.txt 1
-data.zefd.txt 1
-data.zewn.txt 1
+data.zaip.txt 2.9092786962624935
+data.zalt.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zdmw.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935
+data.zewn.txt 2.9092786962624935

@@ -1,14 +1,14 @@
 13
-data.hp.txt 1
-data.mt.txt 1
-data.to.txt 1
-data.ye.txt 2
-data.zawc.txt 3
-data.zawo.txt 1
-data.zcdz.txt 1
-data.zdaq.txt 1
-data.zddb.txt 2
-data.zedo.txt 1
-data.zenw.txt 1
-data.zeoh.txt 1
-data.zfae.txt 1
+data.hp.txt 2.5727503226135906
+data.mt.txt 2.5727503226135906
+data.to.txt 2.5727503226135906
+data.ye.txt 4.077712785060798
+data.zawc.txt 5.145500645227181
+data.zawo.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zdaq.txt 2.5727503226135906
+data.zddb.txt 4.077712785060798
+data.zedo.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906

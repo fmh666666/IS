@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zcdz.txt 1
-data.zcql.txt 1
-data.zdou.txt 1
-data.zesi.txt 2
+data.op.txt 5.1274494005309625
+data.zcdz.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zdou.txt 3.235060386727117
+data.zesi.txt 5.1274494005309625

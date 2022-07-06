@@ -1,5 +1,5 @@
 4
-data.zbph.txt 2
-data.zcxr.txt 2
-data.zdof.txt 2
-data.zdtr.txt 1
+data.zbph.txt 5.372597648141796
+data.zcxr.txt 5.372597648141796
+data.zdof.txt 5.372597648141796
+data.zdtr.txt 3.389731710180695

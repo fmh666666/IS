@@ -1,6 +1,6 @@
 5
-data.hc.txt 2
-data.zdtv.txt 3
-data.zefw.txt 3
-data.zelt.txt 1
-data.zevq.txt 1
+data.hc.txt 5.1274494005309625
+data.zdtv.txt 6.470120773454234
+data.zefw.txt 6.470120773454234
+data.zelt.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

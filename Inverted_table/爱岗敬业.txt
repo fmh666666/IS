@@ -1,10 +1,10 @@
 9
-data.ff.txt 1
-data.zall.txt 1
-data.zaqw.txt 1
-data.zbye.txt 1
-data.zcih.txt 1
-data.zdeq.txt 1
-data.zdux.txt 1
-data.zeoo.txt 1
-data.zexm.txt 1
+data.ff.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zaqw.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zdeq.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948
+data.zexm.txt 2.82763771717948

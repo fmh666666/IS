@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zaqw.txt 2
-data.zeqv.txt 1
+data.hz.txt 3.5891377275982888
+data.zaqw.txt 5.688648708166832
+data.zeqv.txt 3.5891377275982888

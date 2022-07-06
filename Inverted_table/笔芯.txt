@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.mk.txt 1
-data.mx.txt 1
-data.tv.txt 2
-data.zafy.txt 1
-data.zayd.txt 1
-data.zbil.txt 2
-data.zdhv.txt 4
+data.cf.txt 2.9092786962624935
+data.mk.txt 2.9092786962624935
+data.mx.txt 2.9092786962624935
+data.tv.txt 4.611097637722987
+data.zafy.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbil.txt 4.611097637722987
+data.zdhv.txt 6.7551359407091605

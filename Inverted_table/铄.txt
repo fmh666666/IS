@@ -1,4 +1,4 @@
 3
-data.zcrn.txt 8
-data.zeyu.txt 1
-data.zfcg.txt 1
+data.zcrn.txt 11.377297416333665
+data.zeyu.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

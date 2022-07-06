@@ -1,4 +1,4 @@
 3
-data.hz.txt 4
-data.zaxp.txt 3
-data.zdlw.txt 1
+data.hz.txt 8.333719726130651
+data.zaxp.txt 7.1782754551965775
+data.zdlw.txt 3.5891377275982888

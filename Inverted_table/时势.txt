@@ -1,7 +1,7 @@
 6
-data.ga.txt 2
-data.hp.txt 1
-data.hu.txt 1
-data.zbts.txt 1
-data.zdeb.txt 1
-data.zfaj.txt 2
+data.ga.txt 4.927148697748023
+data.hp.txt 3.1086847136800873
+data.hu.txt 3.1086847136800873
+data.zbts.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zfaj.txt 4.927148697748023

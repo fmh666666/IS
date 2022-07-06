@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.ud.txt 1
-data.zafl.txt 1
-data.zaim.txt 1
-data.zapl.txt 1
-data.zbaf.txt 2
-data.zbwq.txt 1
-data.zcdz.txt 1
-data.zcrv.txt 2
-data.zdga.txt 1
+data.ga.txt 2.7546073728089153
+data.ud.txt 2.7546073728089153
+data.zafl.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zapl.txt 2.7546073728089153
+data.zbaf.txt 4.365949390112154
+data.zbwq.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcrv.txt 4.365949390112154
+data.zdga.txt 2.7546073728089153

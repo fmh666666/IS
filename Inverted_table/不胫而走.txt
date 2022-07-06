@@ -1,6 +1,6 @@
 5
-data.ev.txt 2
-data.zcni.txt 1
-data.zcon.txt 1
-data.zefs.txt 1
-data.zezf.txt 1
+data.ev.txt 5.1274494005309625
+data.zcni.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zefs.txt 3.235060386727117
+data.zezf.txt 3.235060386727117

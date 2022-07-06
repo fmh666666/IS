@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zbcj.txt 1
-data.zbds.txt 1
-data.zbfz.txt 1
-data.zbkv.txt 1
-data.zdpg.txt 1
+data.zawc.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zdpg.txt 3.1086847136800873

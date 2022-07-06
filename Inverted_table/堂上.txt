@@ -1,14 +1,14 @@
 13
-data.cf.txt 1
-data.cq.txt 2
-data.mo.txt 1
-data.zafi.txt 1
-data.zalj.txt 1
-data.zbdb.txt 2
-data.zczp.txt 2
-data.zdlm.txt 1
-data.zdmw.txt 1
-data.zdpz.txt 1
-data.zdzg.txt 1
-data.zeai.txt 1
-data.zefw.txt 1
+data.cf.txt 2.5727503226135906
+data.cq.txt 4.077712785060798
+data.mo.txt 2.5727503226135906
+data.zafi.txt 2.5727503226135906
+data.zalj.txt 2.5727503226135906
+data.zbdb.txt 4.077712785060798
+data.zczp.txt 4.077712785060798
+data.zdlm.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zdpz.txt 2.5727503226135906
+data.zdzg.txt 2.5727503226135906
+data.zeai.txt 2.5727503226135906
+data.zefw.txt 2.5727503226135906

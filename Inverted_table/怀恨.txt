@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.pa.txt 1
-data.zacw.txt 1
-data.zagr.txt 1
-data.zbgu.txt 2
-data.zciy.txt 1
-data.zdju.txt 1
-data.zeos.txt 1
+data.fp.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zagr.txt 2.9092786962624935
+data.zbgu.txt 4.611097637722987
+data.zciy.txt 2.9092786962624935
+data.zdju.txt 2.9092786962624935
+data.zeos.txt 2.9092786962624935

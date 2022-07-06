@@ -1,6 +1,6 @@
 5
-data.zamp.txt 1
-data.zcic.txt 1
-data.zciq.txt 1
-data.zeqh.txt 1
-data.zeyy.txt 1
+data.zamp.txt 3.235060386727117
+data.zcic.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117
+data.zeyy.txt 3.235060386727117

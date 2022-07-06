@@ -1,4 +1,4 @@
 3
-data.zagb.txt 2
-data.zbcv.txt 1
-data.zbsm.txt 3
+data.zagb.txt 5.688648708166832
+data.zbcv.txt 3.5891377275982888
+data.zbsm.txt 7.1782754551965775

@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zbkv.txt 2
-data.zcve.txt 1
-data.zdep.txt 1
-data.zeeh.txt 1
+data.zawc.txt 3.235060386727117
+data.zbkv.txt 5.1274494005309625
+data.zcve.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117

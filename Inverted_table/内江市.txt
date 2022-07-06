@@ -1,5 +1,5 @@
 4
-data.zbel.txt 1
-data.zcdy.txt 2
-data.zcem.txt 7
-data.zefw.txt 1
+data.zbel.txt 3.389731710180695
+data.zcdy.txt 5.372597648141796
+data.zcem.txt 10.169195130542084
+data.zefw.txt 3.389731710180695

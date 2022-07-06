@@ -1,13 +1,13 @@
 12
-data.pn.txt 1
-data.tz.txt 1
-data.zako.txt 1
-data.zalt.txt 2
-data.zbhd.txt 2
-data.zbqu.txt 1
-data.zbzf.txt 1
-data.zcda.txt 1
-data.zdkp.txt 1
-data.zefv.txt 1
-data.zekw.txt 1
-data.zexm.txt 1
+data.pn.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zalt.txt 4.165648687329214
+data.zbhd.txt 4.165648687329214
+data.zbqu.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcda.txt 2.628231699761886
+data.zdkp.txt 2.628231699761886
+data.zefv.txt 2.628231699761886
+data.zekw.txt 2.628231699761886
+data.zexm.txt 2.628231699761886

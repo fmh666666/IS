@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.zalt.txt 1
-data.zaxj.txt 22
-data.zaxk.txt 25
-data.zbcc.txt 2
-data.zbia.txt 1
-data.zbwa.txt 1
-data.zcjo.txt 1
-data.zcln.txt 1
-data.zcrg.txt 1
-data.zdby.txt 6
+data.ew.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.zalt.txt 2.5727503226135906
+data.zaxj.txt 11.637995481808245
+data.zaxk.txt 12.093057801273229
+data.zbcc.txt 4.077712785060798
+data.zbia.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zcjo.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zcrg.txt 2.5727503226135906
+data.zdby.txt 7.222623281414552

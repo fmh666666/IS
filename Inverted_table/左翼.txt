@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.tz.txt 1
-data.zadv.txt 1
-data.zawo.txt 1
-data.zazo.txt 1
-data.zdud.txt 1
-data.zeay.txt 1
-data.zexk.txt 1
-data.zfaj.txt 1
+data.op.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zawo.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zdud.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zexk.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

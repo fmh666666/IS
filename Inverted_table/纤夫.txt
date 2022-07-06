@@ -1,7 +1,7 @@
 6
-data.zafk.txt 1
-data.zaim.txt 1
-data.zaun.txt 1
-data.zavg.txt 1
-data.zcgo.txt 1
-data.zdqz.txt 1
+data.zafk.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zaun.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zdqz.txt 3.1086847136800873

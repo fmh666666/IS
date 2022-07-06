@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.mk.txt 1
-data.ry.txt 1
-data.zaim.txt 1
-data.zcdv.txt 1
-data.zcon.txt 1
-data.zcsu.txt 1
-data.zewp.txt 1
-data.zfai.txt 3
-data.zfaj.txt 1
-data.zfas.txt 1
+data.bs.txt 2.6885433903988862
+data.mk.txt 2.6885433903988862
+data.ry.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zewp.txt 2.6885433903988862
+data.zfai.txt 5.3770867807977725
+data.zfaj.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

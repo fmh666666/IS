@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.ev.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.zanm.txt 2
-data.zbcc.txt 2
-data.zcfn.txt 3
-data.zclh.txt 1
-data.zcxh.txt 1
-data.zdby.txt 1
-data.zdof.txt 1
-data.zdtv.txt 1
-data.zeos.txt 1
+data.bs.txt 2.5727503226135906
+data.ev.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.zanm.txt 4.077712785060798
+data.zbcc.txt 4.077712785060798
+data.zcfn.txt 5.145500645227181
+data.zclh.txt 2.5727503226135906
+data.zcxh.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zdtv.txt 2.5727503226135906
+data.zeos.txt 2.5727503226135906

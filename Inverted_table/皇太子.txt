@@ -1,4 +1,4 @@
 3
-data.zate.txt 1
-data.zazw.txt 2
-data.zezy.txt 1
+data.zate.txt 3.5891377275982888
+data.zazw.txt 5.688648708166832
+data.zezy.txt 3.5891377275982888

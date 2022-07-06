@@ -1,4 +1,4 @@
 3
-data.zawu.txt 1
-data.zcue.txt 1
-data.zexv.txt 1
+data.zawu.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888
+data.zexv.txt 3.5891377275982888

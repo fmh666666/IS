@@ -1,6 +1,6 @@
 5
-data.qb.txt 2
-data.zbcc.txt 2
-data.zbes.txt 4
-data.zclh.txt 1
-data.zeil.txt 1
+data.qb.txt 5.1274494005309625
+data.zbcc.txt 5.1274494005309625
+data.zbes.txt 7.511577600598868
+data.zclh.txt 3.235060386727117
+data.zeil.txt 3.235060386727117

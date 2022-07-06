@@ -1,7 +1,7 @@
 6
-data.hg.txt 1
-data.mt.txt 1
-data.zbeb.txt 1
-data.zbel.txt 1
-data.zcue.txt 1
-data.zdby.txt 3
+data.hg.txt 3.1086847136800873
+data.mt.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbel.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zdby.txt 6.2173694273601745

@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.bb.txt 1
-data.jd.txt 1
-data.zall.txt 1
-data.zalm.txt 1
-data.zasd.txt 1
-data.zbjh.txt 1
-data.zclh.txt 2
-data.zcxr.txt 1
-data.zdnh.txt 1
-data.zenn.txt 1
-data.zeyy.txt 3
+data.aj.txt 2.628231699761886
+data.bb.txt 2.628231699761886
+data.jd.txt 2.628231699761886
+data.zall.txt 2.628231699761886
+data.zalm.txt 2.628231699761886
+data.zasd.txt 2.628231699761886
+data.zbjh.txt 2.628231699761886
+data.zclh.txt 4.165648687329214
+data.zcxr.txt 2.628231699761886
+data.zdnh.txt 2.628231699761886
+data.zenn.txt 2.628231699761886
+data.zeyy.txt 5.256463399523772

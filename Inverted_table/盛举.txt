@@ -1,7 +1,7 @@
 6
-data.zaoo.txt 1
-data.zasr.txt 1
-data.zawu.txt 1
-data.zbgd.txt 2
-data.zbkj.txt 1
-data.zbmt.txt 1
+data.zaoo.txt 3.1086847136800873
+data.zasr.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zbgd.txt 4.927148697748023
+data.zbkj.txt 3.1086847136800873
+data.zbmt.txt 3.1086847136800873

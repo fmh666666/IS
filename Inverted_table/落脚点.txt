@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.zako.txt 1
-data.zaxj.txt 1
-data.zaxx.txt 1
-data.zcdy.txt 1
-data.zdhw.txt 1
+data.dg.txt 3.1086847136800873
+data.zako.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zaxx.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873

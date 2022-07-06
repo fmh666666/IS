@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.yx.txt 1
-data.zahp.txt 1
-data.zbzf.txt 2
-data.zcfn.txt 1
-data.zcxp.txt 1
+data.mo.txt 3.1086847136800873
+data.yx.txt 3.1086847136800873
+data.zahp.txt 3.1086847136800873
+data.zbzf.txt 4.927148697748023
+data.zcfn.txt 3.1086847136800873
+data.zcxp.txt 3.1086847136800873

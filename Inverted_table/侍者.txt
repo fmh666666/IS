@@ -1,5 +1,5 @@
 4
-data.jf.txt 4
-data.vi.txt 1
-data.zabe.txt 1
-data.zdnh.txt 1
+data.jf.txt 7.870713291999142
+data.vi.txt 3.389731710180695
+data.zabe.txt 3.389731710180695
+data.zdnh.txt 3.389731710180695

@@ -1,5 +1,5 @@
 4
-data.yx.txt 1
-data.zdwl.txt 2
-data.zemb.txt 1
-data.zexm.txt 2
+data.yx.txt 3.389731710180695
+data.zdwl.txt 5.372597648141796
+data.zemb.txt 3.389731710180695
+data.zexm.txt 5.372597648141796

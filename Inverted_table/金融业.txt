@@ -1,9 +1,9 @@
 8
-data.kq.txt 3
-data.zaim.txt 1
-data.zarr.txt 3
-data.zawc.txt 1
-data.zcdy.txt 18
-data.zcdz.txt 21
-data.zcon.txt 1
-data.zdud.txt 1
+data.kq.txt 5.818557392524987
+data.zaim.txt 2.9092786962624935
+data.zarr.txt 5.818557392524987
+data.zawc.txt 2.9092786962624935
+data.zcdy.txt 12.35840501812873
+data.zcdz.txt 12.973729405540858
+data.zcon.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935

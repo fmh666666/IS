@@ -1,4 +1,4 @@
 3
-data.zdpf.txt 1
-data.zexv.txt 1
-data.zfaj.txt 1
+data.zdpf.txt 3.5891377275982888
+data.zexv.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888

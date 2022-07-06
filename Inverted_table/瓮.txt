@@ -1,9 +1,9 @@
 8
-data.mi.txt 1
-data.zaxj.txt 1
-data.zaxp.txt 1
-data.zbut.txt 1
-data.zdme.txt 3
-data.zene.txt 4
-data.zevq.txt 3
-data.zfcp.txt 1
+data.mi.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbut.txt 2.9092786962624935
+data.zdme.txt 5.818557392524987
+data.zene.txt 6.7551359407091605
+data.zevq.txt 5.818557392524987
+data.zfcp.txt 2.9092786962624935

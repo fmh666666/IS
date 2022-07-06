@@ -1,9 +1,9 @@
 8
-data.gz.txt 1
-data.zamr.txt 1
-data.zbeb.txt 4
-data.zbil.txt 1
-data.zbkv.txt 1
-data.zcjd.txt 1
-data.zfai.txt 3
-data.zfaj.txt 1
+data.gz.txt 2.9092786962624935
+data.zamr.txt 2.9092786962624935
+data.zbeb.txt 6.7551359407091605
+data.zbil.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zfai.txt 5.818557392524987
+data.zfaj.txt 2.9092786962624935

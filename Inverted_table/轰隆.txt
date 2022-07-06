@@ -1,7 +1,7 @@
 6
-data.fz.txt 1
-data.zbkv.txt 1
-data.zcmv.txt 1
-data.zdpg.txt 1
-data.zeid.txt 1
-data.zete.txt 1
+data.fz.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zcmv.txt 3.1086847136800873
+data.zdpg.txt 3.1086847136800873
+data.zeid.txt 3.1086847136800873
+data.zete.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.zalj.txt 1
-data.zaxj.txt 1
-data.zbvp.txt 1
-data.zcel.txt 1
-data.zdhw.txt 1
-data.zdwz.txt 1
+data.zalj.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zbvp.txt 3.1086847136800873
+data.zcel.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873

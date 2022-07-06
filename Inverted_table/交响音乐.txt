@@ -1,3 +1,3 @@
 2
-data.zalm.txt 1
-data.zene.txt 3
+data.zalm.txt 3.8701847240988965
+data.zene.txt 7.740369448197793

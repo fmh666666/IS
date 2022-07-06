@@ -1,4 +1,4 @@
 3
-data.zafi.txt 2
-data.zbmw.txt 1
-data.zeam.txt 1
+data.zafi.txt 5.688648708166832
+data.zbmw.txt 3.5891377275982888
+data.zeam.txt 3.5891377275982888

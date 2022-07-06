@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.mx.txt 1
-data.zabj.txt 1
-data.zaip.txt 1
-data.zako.txt 1
-data.zayc.txt 1
-data.zciy.txt 1
-data.zcvi.txt 1
-data.zdeb.txt 1
-data.zdkp.txt 2
-data.zdme.txt 1
-data.zdod.txt 1
+data.aj.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zabj.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zayc.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcvi.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdkp.txt 4.165648687329214
+data.zdme.txt 2.628231699761886
+data.zdod.txt 2.628231699761886

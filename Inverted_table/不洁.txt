@@ -1,7 +1,7 @@
 6
-data.zarr.txt 1
-data.zbdb.txt 1
-data.zbkj.txt 1
-data.zchd.txt 1
-data.zcts.txt 1
-data.zezf.txt 1
+data.zarr.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zchd.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zezf.txt 3.1086847136800873

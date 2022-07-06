@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zapf.txt 1
-data.zbeb.txt 1
-data.zcse.txt 1
-data.zdil.txt 1
+data.zako.txt 3.235060386727117
+data.zapf.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zdil.txt 3.235060386727117

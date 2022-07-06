@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.pa.txt 1
-data.yx.txt 1
-data.zbvg.txt 1
-data.zcej.txt 1
-data.zciq.txt 1
-data.zdic.txt 1
-data.zeeq.txt 1
-data.zeid.txt 2
-data.zevq.txt 3
+data.fp.txt 2.7546073728089153
+data.pa.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zcej.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zdic.txt 2.7546073728089153
+data.zeeq.txt 2.7546073728089153
+data.zeid.txt 4.365949390112154
+data.zevq.txt 5.509214745617831

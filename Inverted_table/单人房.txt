@@ -1,6 +1,6 @@
 5
-data.tj.txt 1
-data.zajh.txt 1
-data.zbcv.txt 1
-data.zbeb.txt 1
-data.zejn.txt 2
+data.tj.txt 3.235060386727117
+data.zajh.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zejn.txt 5.1274494005309625

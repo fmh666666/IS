@@ -1,7 +1,7 @@
 6
-data.vz.txt 2
-data.zbpm.txt 2
-data.zcli.txt 2
-data.zctm.txt 2
-data.zdji.txt 2
-data.zeos.txt 2
+data.vz.txt 4.927148697748023
+data.zbpm.txt 4.927148697748023
+data.zcli.txt 4.927148697748023
+data.zctm.txt 4.927148697748023
+data.zdji.txt 4.927148697748023
+data.zeos.txt 4.927148697748023

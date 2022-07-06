@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zacp.txt 1
-data.zbvm.txt 1
-data.zcby.txt 1
-data.zefv.txt 1
-data.zfae.txt 1
+data.op.txt 3.1086847136800873
+data.zacp.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zcby.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

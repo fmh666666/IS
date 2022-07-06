@@ -1,4 +1,4 @@
 3
-data.zank.txt 1
-data.zcxr.txt 1
-data.zddp.txt 1
+data.zank.txt 3.5891377275982888
+data.zcxr.txt 3.5891377275982888
+data.zddp.txt 3.5891377275982888

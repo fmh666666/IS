@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zbhd.txt 2
-data.zbxy.txt 1
-data.zcni.txt 1
-data.zevq.txt 2
+data.op.txt 5.1274494005309625
+data.zbhd.txt 5.1274494005309625
+data.zbxy.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zevq.txt 5.1274494005309625

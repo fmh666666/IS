@@ -1,6 +1,6 @@
 5
-data.gw.txt 2
-data.mx.txt 1
-data.zbcj.txt 1
-data.zbzg.txt 1
-data.zdme.txt 1
+data.gw.txt 5.1274494005309625
+data.mx.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zbzg.txt 3.235060386727117
+data.zdme.txt 3.235060386727117

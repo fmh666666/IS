@@ -1,5 +1,5 @@
 4
-data.zafi.txt 2
-data.zajo.txt 1
-data.zbkf.txt 5
-data.zcfn.txt 1
+data.zafi.txt 5.372597648141796
+data.zajo.txt 3.389731710180695
+data.zbkf.txt 8.762329358322491
+data.zcfn.txt 3.389731710180695

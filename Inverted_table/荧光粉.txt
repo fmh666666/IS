@@ -1,9 +1,9 @@
 8
-data.xk.txt 1
-data.zayd.txt 2
-data.zbgw.txt 8
-data.zcbe.txt 2
-data.zcbm.txt 1
-data.zdga.txt 1
-data.zelt.txt 1
-data.zezm.txt 1
+data.xk.txt 2.9092786962624935
+data.zayd.txt 4.611097637722987
+data.zbgw.txt 9.222195275445975
+data.zcbe.txt 4.611097637722987
+data.zcbm.txt 2.9092786962624935
+data.zdga.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935

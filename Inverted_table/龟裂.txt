@@ -1,4 +1,4 @@
 3
-data.zasd.txt 1
-data.zcku.txt 1
-data.zcpx.txt 1
+data.zasd.txt 3.5891377275982888
+data.zcku.txt 3.5891377275982888
+data.zcpx.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zcdv.txt 1
-data.zchd.txt 2
-data.zcts.txt 1
-data.zedo.txt 1
+data.zaxp.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zchd.txt 5.1274494005309625
+data.zcts.txt 3.235060386727117
+data.zedo.txt 3.235060386727117

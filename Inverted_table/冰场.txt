@@ -1,4 +1,4 @@
 3
-data.pa.txt 2
-data.zbvf.txt 2
-data.zeyu.txt 1
+data.pa.txt 5.688648708166832
+data.zbvf.txt 5.688648708166832
+data.zeyu.txt 3.5891377275982888

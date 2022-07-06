@@ -1,10 +1,10 @@
 9
-data.jf.txt 1
-data.qn.txt 1
-data.zayd.txt 1
-data.zcbm.txt 2
-data.zduo.txt 1
-data.zeam.txt 1
-data.zefw.txt 2
-data.zenn.txt 1
-data.zeqn.txt 3
+data.jf.txt 2.82763771717948
+data.qn.txt 2.82763771717948
+data.zayd.txt 2.82763771717948
+data.zcbm.txt 4.48169974735425
+data.zduo.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zefw.txt 4.48169974735425
+data.zenn.txt 2.82763771717948
+data.zeqn.txt 5.65527543435896

@@ -1,4 +1,4 @@
 3
-data.zaqf.txt 1
-data.zbnx.txt 1
-data.zcmy.txt 1
+data.zaqf.txt 3.5891377275982888
+data.zbnx.txt 3.5891377275982888
+data.zcmy.txt 3.5891377275982888

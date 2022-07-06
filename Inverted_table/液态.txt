@@ -1,13 +1,13 @@
 12
-data.gw.txt 2
-data.ka.txt 1
-data.zair.txt 1
-data.zavx.txt 1
-data.zaxx.txt 1
-data.zbcc.txt 1
-data.zbga.txt 1
-data.zcql.txt 1
-data.zczl.txt 1
-data.zerw.txt 1
-data.zexx.txt 1
-data.zfaj.txt 1
+data.gw.txt 4.165648687329214
+data.ka.txt 2.628231699761886
+data.zair.txt 2.628231699761886
+data.zavx.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zbcc.txt 2.628231699761886
+data.zbga.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zerw.txt 2.628231699761886
+data.zexx.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

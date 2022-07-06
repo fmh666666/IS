@@ -1,6 +1,6 @@
 5
-data.ud.txt 1
-data.zcdz.txt 1
-data.zemf.txt 1
-data.zfai.txt 1
-data.zfcp.txt 1
+data.ud.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zemf.txt 3.235060386727117
+data.zfai.txt 3.235060386727117
+data.zfcp.txt 3.235060386727117

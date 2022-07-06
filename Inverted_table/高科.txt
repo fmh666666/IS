@@ -1,11 +1,11 @@
 10
-data.zbga.txt 1
-data.zbha.txt 1
-data.zbqu.txt 1
-data.zbvg.txt 1
-data.zcgo.txt 2
-data.zcve.txt 1
-data.zdme.txt 1
-data.zdzi.txt 1
-data.zerh.txt 1
-data.zfai.txt 1
+data.zbga.txt 2.7546073728089153
+data.zbha.txt 2.7546073728089153
+data.zbqu.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zcgo.txt 4.365949390112154
+data.zcve.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zdzi.txt 2.7546073728089153
+data.zerh.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

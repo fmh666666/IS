@@ -1,4 +1,4 @@
 3
-data.zafk.txt 2
-data.zdud.txt 1
-data.zeos.txt 2
+data.zafk.txt 5.688648708166832
+data.zdud.txt 3.5891377275982888
+data.zeos.txt 5.688648708166832

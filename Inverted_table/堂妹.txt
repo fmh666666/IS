@@ -1,10 +1,10 @@
 9
-data.gk.txt 3
-data.mi.txt 2
-data.sq.txt 1
-data.tv.txt 1
-data.vi.txt 1
-data.zacw.txt 1
-data.zbla.txt 1
-data.zcpc.txt 1
-data.zezy.txt 3
+data.gk.txt 5.65527543435896
+data.mi.txt 4.48169974735425
+data.sq.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zacw.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zezy.txt 5.65527543435896

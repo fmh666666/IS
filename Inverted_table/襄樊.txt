@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.xe.txt 4
-data.zbor.txt 1
-data.zbzg.txt 1
-data.zess.txt 1
+data.mo.txt 3.235060386727117
+data.xe.txt 7.511577600598868
+data.zbor.txt 3.235060386727117
+data.zbzg.txt 3.235060386727117
+data.zess.txt 3.235060386727117

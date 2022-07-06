@@ -1,8 +1,8 @@
 7
-data.zacw.txt 1
-data.zawu.txt 1
-data.zcmy.txt 1
-data.zdju.txt 1
-data.zdtr.txt 2
-data.zeid.txt 1
-data.zfaj.txt 2
+data.zacw.txt 3.0018356045764243
+data.zawu.txt 3.0018356045764243
+data.zcmy.txt 3.0018356045764243
+data.zdju.txt 3.0018356045764243
+data.zdtr.txt 4.757796866583254
+data.zeid.txt 3.0018356045764243
+data.zfaj.txt 4.757796866583254

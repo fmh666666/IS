@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zaej.txt 1
-data.zalt.txt 1
-data.zbre.txt 1
-data.zciq.txt 1
-data.zdlo.txt 1
+data.op.txt 3.1086847136800873
+data.zaej.txt 3.1086847136800873
+data.zalt.txt 3.1086847136800873
+data.zbre.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873

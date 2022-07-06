@@ -1,5 +1,5 @@
 4
-data.zafy.txt 1
-data.zbht.txt 1
-data.zcon.txt 1
-data.zfaj.txt 1
+data.zafy.txt 3.389731710180695
+data.zbht.txt 3.389731710180695
+data.zcon.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

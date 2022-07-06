@@ -1,3 +1,3 @@
 2
-data.hz.txt 1
-data.zbdx.txt 1
+data.hz.txt 3.8701847240988965
+data.zbdx.txt 3.8701847240988965

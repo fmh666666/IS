@@ -1,7 +1,7 @@
 6
-data.zaoc.txt 2
-data.zbgd.txt 1
-data.zbot.txt 1
-data.zdof.txt 1
-data.zdoq.txt 1
-data.zdvl.txt 1
+data.zaoc.txt 4.927148697748023
+data.zbgd.txt 3.1086847136800873
+data.zbot.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873
+data.zdvl.txt 3.1086847136800873

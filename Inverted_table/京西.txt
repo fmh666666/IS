@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.zcql.txt 2
-data.zebf.txt 1
-data.zedx.txt 1
-data.zedy.txt 1
+data.tv.txt 3.235060386727117
+data.zcql.txt 5.1274494005309625
+data.zebf.txt 3.235060386727117
+data.zedx.txt 3.235060386727117
+data.zedy.txt 3.235060386727117

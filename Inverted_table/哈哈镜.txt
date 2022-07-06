@@ -1,10 +1,10 @@
 9
-data.ep.txt 1
-data.op.txt 1
-data.zaim.txt 1
-data.zanh.txt 1
-data.zaub.txt 1
-data.zaxp.txt 1
-data.zbnx.txt 1
-data.zczp.txt 1
-data.zduk.txt 2
+data.ep.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zanh.txt 2.82763771717948
+data.zaub.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zduk.txt 4.48169974735425

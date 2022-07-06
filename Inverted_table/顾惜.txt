@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.gk.txt 1
-data.ng.txt 1
-data.zadv.txt 1
-data.zaxj.txt 1
-data.zddb.txt 3
-data.zdod.txt 2
-data.zeaj.txt 1
-data.zefv.txt 26
+data.bb.txt 2.82763771717948
+data.gk.txt 2.82763771717948
+data.ng.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zddb.txt 5.65527543435896
+data.zdod.txt 4.48169974735425
+data.zeaj.txt 2.82763771717948
+data.zefv.txt 13.445099242062751

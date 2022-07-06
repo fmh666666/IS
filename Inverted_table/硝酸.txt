@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zbeb.txt 1
-data.zeqh.txt 8
+data.ye.txt 3.5891377275982888
+data.zbeb.txt 3.5891377275982888
+data.zeqh.txt 11.377297416333665

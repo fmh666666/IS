@@ -1,11 +1,11 @@
 10
-data.mo.txt 1
-data.zahd.txt 2
-data.zbes.txt 1
-data.zbga.txt 2
-data.zbil.txt 1
-data.zbpx.txt 1
-data.zcis.txt 1
-data.zcxq.txt 1
-data.zcxr.txt 4
-data.zfcg.txt 1
+data.mo.txt 2.7546073728089153
+data.zahd.txt 4.365949390112154
+data.zbes.txt 2.7546073728089153
+data.zbga.txt 4.365949390112154
+data.zbil.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zcis.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zcxr.txt 6.396000249308887
+data.zfcg.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.zbsf.txt 1
-data.zefu.txt 3
-data.zewg.txt 1
+data.zbsf.txt 3.5891377275982888
+data.zefu.txt 7.1782754551965775
+data.zewg.txt 3.5891377275982888

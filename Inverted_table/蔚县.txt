@@ -1,11 +1,11 @@
 10
-data.ew.txt 1
-data.zahp.txt 1
-data.zajo.txt 2
-data.zasw.txt 1
-data.zcak.txt 1
-data.zcni.txt 3
-data.zczj.txt 1
-data.zdpf.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
+data.ew.txt 2.7546073728089153
+data.zahp.txt 2.7546073728089153
+data.zajo.txt 4.365949390112154
+data.zasw.txt 2.7546073728089153
+data.zcak.txt 2.7546073728089153
+data.zcni.txt 5.509214745617831
+data.zczj.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

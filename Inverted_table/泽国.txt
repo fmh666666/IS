@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.gz.txt 1
-data.zcgo.txt 1
-data.zddp.txt 1
-data.zedy.txt 1
+data.fp.txt 3.235060386727117
+data.gz.txt 3.235060386727117
+data.zcgo.txt 3.235060386727117
+data.zddp.txt 3.235060386727117
+data.zedy.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.vi.txt 2
-data.zcel.txt 1
-data.zcem.txt 1
-data.zdst.txt 1
-data.zeqv.txt 1
+data.vi.txt 5.1274494005309625
+data.zcel.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zdst.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

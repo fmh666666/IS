@@ -1,4 +1,4 @@
 3
-data.zasw.txt 3
-data.zbnx.txt 1
-data.zbts.txt 7
+data.zasw.txt 7.1782754551965775
+data.zbnx.txt 3.5891377275982888
+data.zbts.txt 10.767413182794865

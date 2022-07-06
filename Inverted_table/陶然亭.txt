@@ -1,8 +1,8 @@
 7
-data.zajo.txt 1
-data.zbdb.txt 3
-data.zbgd.txt 5
-data.zcku.txt 1
-data.zdkc.txt 1
-data.zdkv.txt 1
-data.zeeh.txt 2
+data.zajo.txt 3.0018356045764243
+data.zbdb.txt 6.003671209152849
+data.zbgd.txt 7.759632471159678
+data.zcku.txt 3.0018356045764243
+data.zdkc.txt 3.0018356045764243
+data.zdkv.txt 3.0018356045764243
+data.zeeh.txt 4.757796866583254

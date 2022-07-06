@@ -1,10 +1,10 @@
 9
-data.gw.txt 3
-data.zair.txt 1
-data.zako.txt 1
-data.zalj.txt 1
-data.zcqs.txt 2
-data.zctp.txt 1
-data.zdpw.txt 1
-data.zefw.txt 1
-data.zeqv.txt 1
+data.gw.txt 5.65527543435896
+data.zair.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zalj.txt 2.82763771717948
+data.zcqs.txt 4.48169974735425
+data.zctp.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.gz.txt 1
-data.zalc.txt 1
-data.zalm.txt 1
-data.zbdb.txt 6
+data.cz.txt 3.235060386727117
+data.gz.txt 3.235060386727117
+data.zalc.txt 3.235060386727117
+data.zalm.txt 3.235060386727117
+data.zbdb.txt 9.081962699831948

@@ -1,10 +1,10 @@
 9
-data.ff.txt 1
-data.ry.txt 3
-data.zahd.txt 1
-data.zayc.txt 1
-data.zbsu.txt 1
-data.zbvn.txt 1
-data.zcgo.txt 1
-data.zcic.txt 1
-data.zfbr.txt 1
+data.ff.txt 2.82763771717948
+data.ry.txt 5.65527543435896
+data.zahd.txt 2.82763771717948
+data.zayc.txt 2.82763771717948
+data.zbsu.txt 2.82763771717948
+data.zbvn.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zfbr.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zank.txt 1
-data.zawo.txt 1
-data.zcon.txt 1
-data.zcql.txt 1
+data.zacw.txt 3.235060386727117
+data.zank.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zcql.txt 3.235060386727117

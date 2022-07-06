@@ -1,12 +1,12 @@
 11
-data.zasj.txt 1
-data.zbkv.txt 1
-data.zcdz.txt 1
-data.zcej.txt 1
-data.zdgv.txt 1
-data.zeay.txt 2
-data.zebc.txt 1
-data.zedd.txt 1
-data.zehp.txt 1
-data.zevq.txt 1
-data.zexv.txt 1
+data.zasj.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcej.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zeay.txt 4.261240455343955
+data.zebc.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862
+data.zexv.txt 2.6885433903988862

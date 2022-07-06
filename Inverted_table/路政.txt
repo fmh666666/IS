@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.zafe.txt 1
-data.zawb.txt 6
-data.zddm.txt 1
-data.zdmw.txt 2
-data.zeid.txt 1
+data.ka.txt 3.1086847136800873
+data.zafe.txt 3.1086847136800873
+data.zawb.txt 8.727181332075027
+data.zddm.txt 3.1086847136800873
+data.zdmw.txt 4.927148697748023
+data.zeid.txt 3.1086847136800873

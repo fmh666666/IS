@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zcdg.txt 1
-data.zcee.txt 1
+data.ry.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888
+data.zcee.txt 3.5891377275982888

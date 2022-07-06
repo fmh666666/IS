@@ -1,3 +1,3 @@
 2
-data.zcdg.txt 2
-data.zcvi.txt 1
+data.zcdg.txt 6.134097658560606
+data.zcvi.txt 3.8701847240988965

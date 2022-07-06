@@ -1,8 +1,8 @@
 7
-data.jj.txt 1
-data.zane.txt 1
-data.zcbe.txt 1
-data.zchd.txt 1
-data.zcql.txt 1
-data.zdoq.txt 1
-data.zeqn.txt 1
+data.jj.txt 3.0018356045764243
+data.zane.txt 3.0018356045764243
+data.zcbe.txt 3.0018356045764243
+data.zchd.txt 3.0018356045764243
+data.zcql.txt 3.0018356045764243
+data.zdoq.txt 3.0018356045764243
+data.zeqn.txt 3.0018356045764243

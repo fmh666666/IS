@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.hg.txt 1
-data.wc.txt 1
-data.zamp.txt 1
-data.zazn.txt 1
-data.zbcc.txt 1
-data.zcls.txt 1
-data.zcuh.txt 1
-data.zddp.txt 5
-data.zdeb.txt 1
-data.zfas.txt 1
+data.ga.txt 2.6885433903988862
+data.hg.txt 2.6885433903988862
+data.wc.txt 2.6885433903988862
+data.zamp.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zcuh.txt 2.6885433903988862
+data.zddp.txt 6.949783845742841
+data.zdeb.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

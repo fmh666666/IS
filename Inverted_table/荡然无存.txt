@@ -1,12 +1,12 @@
 11
-data.ft.txt 1
-data.vi.txt 1
-data.zapf.txt 1
-data.zcby.txt 1
-data.zcdv.txt 1
-data.zcjy.txt 1
-data.zdgv.txt 1
-data.zdod.txt 1
-data.zdzg.txt 2
-data.zeoh.txt 1
-data.zfaj.txt 1
+data.ft.txt 2.6885433903988862
+data.vi.txt 2.6885433903988862
+data.zapf.txt 2.6885433903988862
+data.zcby.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcjy.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zdzg.txt 4.261240455343955
+data.zeoh.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

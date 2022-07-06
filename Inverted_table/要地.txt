@@ -1,10 +1,10 @@
 9
-data.ev.txt 1
-data.xe.txt 1
-data.zadv.txt 1
-data.zafe.txt 2
-data.zaic.txt 1
-data.zajo.txt 1
-data.zdaq.txt 1
-data.zejn.txt 1
-data.zeoh.txt 1
+data.ev.txt 2.82763771717948
+data.xe.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zafe.txt 4.48169974735425
+data.zaic.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zdaq.txt 2.82763771717948
+data.zejn.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.cf.txt 1
-data.zabe.txt 1
-data.zapl.txt 1
+data.cf.txt 3.5891377275982888
+data.zabe.txt 3.5891377275982888
+data.zapl.txt 3.5891377275982888

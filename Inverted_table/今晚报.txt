@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.xk.txt 2
-data.zawc.txt 1
-data.zawu.txt 1
-data.zbcc.txt 1
-data.zbla.txt 1
-data.zdof.txt 1
-data.zefv.txt 1
-data.zfai.txt 2
+data.cf.txt 2.82763771717948
+data.xk.txt 4.48169974735425
+data.zawc.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zefv.txt 2.82763771717948
+data.zfai.txt 4.48169974735425

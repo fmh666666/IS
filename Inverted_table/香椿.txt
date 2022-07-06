@@ -1,9 +1,9 @@
 8
-data.ee.txt 1
-data.pa.txt 1
-data.vi.txt 2
-data.xe.txt 1
-data.zbjh.txt 2
-data.zbor.txt 1
-data.zdby.txt 1
-data.zdtr.txt 1
+data.ee.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.vi.txt 4.611097637722987
+data.xe.txt 2.9092786962624935
+data.zbjh.txt 4.611097637722987
+data.zbor.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935

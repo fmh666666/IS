@@ -1,11 +1,11 @@
 10
-data.ft.txt 1
-data.mk.txt 1
-data.qn.txt 1
-data.zavx.txt 2
-data.zbqu.txt 1
-data.zcao.txt 1
-data.zdzi.txt 2
-data.zene.txt 1
-data.zevl.txt 1
-data.zfaj.txt 1
+data.ft.txt 2.7546073728089153
+data.mk.txt 2.7546073728089153
+data.qn.txt 2.7546073728089153
+data.zavx.txt 4.365949390112154
+data.zbqu.txt 2.7546073728089153
+data.zcao.txt 2.7546073728089153
+data.zdzi.txt 4.365949390112154
+data.zene.txt 2.7546073728089153
+data.zevl.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

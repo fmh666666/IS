@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.zcrn.txt 1
-data.zdst.txt 1
+data.gz.txt 3.5891377275982888
+data.zcrn.txt 3.5891377275982888
+data.zdst.txt 3.5891377275982888

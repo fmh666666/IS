@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.cn.txt 2
-data.zapf.txt 1
-data.zcbm.txt 5
-data.zccu.txt 1
-data.zcdz.txt 1
-data.zdcw.txt 1
-data.zdfl.txt 1
-data.zezf.txt 1
+data.cf.txt 2.82763771717948
+data.cn.txt 4.48169974735425
+data.zapf.txt 2.82763771717948
+data.zcbm.txt 7.309337464533731
+data.zccu.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zdcw.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zezf.txt 2.82763771717948

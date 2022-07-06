@@ -1,6 +1,6 @@
 5
-data.zcvi.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
+data.zcvi.txt 3.235060386727117
+data.zdod.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zeai.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117

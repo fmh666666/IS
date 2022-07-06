@@ -1,4 +1,4 @@
 3
-data.zalt.txt 1
-data.zapl.txt 1
-data.zasw.txt 2
+data.zalt.txt 3.5891377275982888
+data.zapl.txt 3.5891377275982888
+data.zasw.txt 5.688648708166832

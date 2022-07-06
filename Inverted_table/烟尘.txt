@@ -1,10 +1,10 @@
 9
-data.jd.txt 1
-data.zabe.txt 2
-data.zbem.txt 1
-data.zbux.txt 1
-data.zcbm.txt 1
-data.zcda.txt 3
-data.zeay.txt 1
-data.zeun.txt 1
-data.zfcg.txt 1
+data.jd.txt 2.82763771717948
+data.zabe.txt 4.48169974735425
+data.zbem.txt 2.82763771717948
+data.zbux.txt 2.82763771717948
+data.zcbm.txt 2.82763771717948
+data.zcda.txt 5.65527543435896
+data.zeay.txt 2.82763771717948
+data.zeun.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

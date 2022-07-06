@@ -1,11 +1,11 @@
 10
-data.cn.txt 1
-data.ha.txt 1
-data.vi.txt 1
-data.zcdy.txt 1
-data.zcqg.txt 1
-data.zddx.txt 1
-data.zdtr.txt 1
-data.zdux.txt 1
-data.zeob.txt 1
-data.zeun.txt 1
+data.cn.txt 2.7546073728089153
+data.ha.txt 2.7546073728089153
+data.vi.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcqg.txt 2.7546073728089153
+data.zddx.txt 2.7546073728089153
+data.zdtr.txt 2.7546073728089153
+data.zdux.txt 2.7546073728089153
+data.zeob.txt 2.7546073728089153
+data.zeun.txt 2.7546073728089153

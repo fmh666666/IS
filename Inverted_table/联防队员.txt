@@ -1,10 +1,10 @@
 9
-data.wc.txt 1
-data.zasq.txt 2
-data.zbfz.txt 1
-data.zbhd.txt 3
-data.zbye.txt 1
-data.zcdz.txt 2
-data.zcqs.txt 1
-data.zduc.txt 2
-data.zerh.txt 1
+data.wc.txt 2.82763771717948
+data.zasq.txt 4.48169974735425
+data.zbfz.txt 2.82763771717948
+data.zbhd.txt 5.65527543435896
+data.zbye.txt 2.82763771717948
+data.zcdz.txt 4.48169974735425
+data.zcqs.txt 2.82763771717948
+data.zduc.txt 4.48169974735425
+data.zerh.txt 2.82763771717948

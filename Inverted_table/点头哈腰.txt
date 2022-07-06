@@ -1,6 +1,6 @@
 5
-data.zdcy.txt 1
-data.zeoh.txt 1
-data.zerw.txt 1
-data.zevt.txt 1
-data.zexv.txt 1
+data.zdcy.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zerw.txt 3.235060386727117
+data.zevt.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

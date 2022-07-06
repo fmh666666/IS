@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.zasq.txt 1
-data.zayd.txt 4
-data.zbmt.txt 1
-data.zcrv.txt 1
-data.zdhv.txt 1
-data.zeqn.txt 2
-data.zeyu.txt 1
+data.dg.txt 2.9092786962624935
+data.zasq.txt 2.9092786962624935
+data.zayd.txt 6.7551359407091605
+data.zbmt.txt 2.9092786962624935
+data.zcrv.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zeqn.txt 4.611097637722987
+data.zeyu.txt 2.9092786962624935

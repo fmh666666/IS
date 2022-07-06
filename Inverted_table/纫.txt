@@ -1,4 +1,4 @@
 3
-data.zajo.txt 1
-data.zbla.txt 2
-data.zdwl.txt 1
+data.zajo.txt 3.5891377275982888
+data.zbla.txt 5.688648708166832
+data.zdwl.txt 3.5891377275982888

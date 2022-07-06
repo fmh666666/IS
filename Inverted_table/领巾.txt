@@ -1,7 +1,7 @@
 6
-data.co.txt 2
-data.ok.txt 2
-data.xk.txt 1
-data.zcfn.txt 2
-data.zcni.txt 1
-data.zczb.txt 1
+data.co.txt 4.927148697748023
+data.ok.txt 4.927148697748023
+data.xk.txt 3.1086847136800873
+data.zcfn.txt 4.927148697748023
+data.zcni.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873

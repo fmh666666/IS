@@ -1,7 +1,7 @@
 6
-data.zawu.txt 1
-data.zbfg.txt 1
-data.zcmy.txt 1
-data.zdpf.txt 1
-data.zdqk.txt 1
-data.zedx.txt 1
+data.zawu.txt 3.1086847136800873
+data.zbfg.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zdpf.txt 3.1086847136800873
+data.zdqk.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873

@@ -1,14 +1,14 @@
 13
-data.aj.txt 1
-data.gw.txt 1
-data.zafv.txt 1
-data.zapl.txt 1
-data.zaxp.txt 1
-data.zbel.txt 1
-data.zbvp.txt 1
-data.zbzf.txt 1
-data.zcdg.txt 1
-data.zcdy.txt 1
-data.zehb.txt 1
-data.zelt.txt 1
-data.zfcg.txt 1
+data.aj.txt 2.5727503226135906
+data.gw.txt 2.5727503226135906
+data.zafv.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zbvp.txt 2.5727503226135906
+data.zbzf.txt 2.5727503226135906
+data.zcdg.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zehb.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zfcg.txt 2.5727503226135906

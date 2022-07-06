@@ -1,7 +1,7 @@
 6
-data.zcdg.txt 1
-data.zcic.txt 1
-data.zcmy.txt 1
-data.zctp.txt 1
-data.zdud.txt 1
-data.zexv.txt 1
+data.zcdg.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

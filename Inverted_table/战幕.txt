@@ -1,10 +1,10 @@
 9
-data.mt.txt 2
-data.vz.txt 1
-data.zayv.txt 1
-data.zctn.txt 1
-data.zcxr.txt 1
-data.zdzg.txt 1
-data.zeag.txt 1
-data.zefd.txt 1
-data.zejk.txt 1
+data.mt.txt 4.48169974735425
+data.vz.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zeag.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zejk.txt 2.82763771717948

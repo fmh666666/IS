@@ -1,7 +1,7 @@
 6
-data.mx.txt 2
-data.zajo.txt 1
-data.zbdx.txt 1
-data.zbor.txt 4
-data.zcdy.txt 1
-data.zcef.txt 2
+data.mx.txt 4.927148697748023
+data.zajo.txt 3.1086847136800873
+data.zbdx.txt 3.1086847136800873
+data.zbor.txt 7.21814237484067
+data.zcdy.txt 3.1086847136800873
+data.zcef.txt 4.927148697748023

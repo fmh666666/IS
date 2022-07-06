@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.be.txt 1
-data.fe.txt 1
-data.zabx.txt 1
-data.zaej.txt 1
-data.zcon.txt 1
-data.zdpg.txt 1
-data.zfaw.txt 1
+data.aj.txt 2.9092786962624935
+data.be.txt 2.9092786962624935
+data.fe.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zaej.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdpg.txt 2.9092786962624935
+data.zfaw.txt 2.9092786962624935

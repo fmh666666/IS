@@ -1,4 +1,4 @@
 3
-data.zcxr.txt 1
-data.zeqn.txt 1
-data.zeyg.txt 1
+data.zcxr.txt 3.5891377275982888
+data.zeqn.txt 3.5891377275982888
+data.zeyg.txt 3.5891377275982888

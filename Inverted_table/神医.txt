@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.tz.txt 1
-data.zall.txt 1
-data.zanm.txt 2
-data.zavx.txt 1
-data.zbfd.txt 1
-data.zcfn.txt 1
-data.zdhv.txt 3
-data.zeoh.txt 1
-data.zess.txt 1
-data.zevq.txt 1
-data.zexm.txt 1
+data.cz.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zall.txt 2.628231699761886
+data.zanm.txt 4.165648687329214
+data.zavx.txt 2.628231699761886
+data.zbfd.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zdhv.txt 5.256463399523772
+data.zeoh.txt 2.628231699761886
+data.zess.txt 2.628231699761886
+data.zevq.txt 2.628231699761886
+data.zexm.txt 2.628231699761886

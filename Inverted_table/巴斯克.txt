@@ -1,6 +1,6 @@
 5
-data.xe.txt 1
-data.zcjd.txt 2
-data.zddp.txt 1
-data.zdux.txt 1
-data.zezn.txt 1
+data.xe.txt 3.235060386727117
+data.zcjd.txt 5.1274494005309625
+data.zddp.txt 3.235060386727117
+data.zdux.txt 3.235060386727117
+data.zezn.txt 3.235060386727117

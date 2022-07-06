@@ -1,13 +1,13 @@
 12
-data.ee.txt 1
-data.wg.txt 1
-data.zazn.txt 1
-data.zbpc.txt 1
-data.zbyv.txt 1
-data.zcnn.txt 1
-data.zctp.txt 4
-data.zczp.txt 1
-data.zdeb.txt 1
-data.zedd.txt 1
-data.zedk.txt 1
-data.zfai.txt 1
+data.ee.txt 2.628231699761886
+data.wg.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbpc.txt 2.628231699761886
+data.zbyv.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zctp.txt 6.1025650235506905
+data.zczp.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zedd.txt 2.628231699761886
+data.zedk.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

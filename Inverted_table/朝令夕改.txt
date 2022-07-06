@@ -1,9 +1,9 @@
 8
-data.zalj.txt 1
-data.zanh.txt 1
-data.zapl.txt 2
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcon.txt 1
-data.zdcy.txt 1
-data.zene.txt 1
+data.zalj.txt 2.9092786962624935
+data.zanh.txt 2.9092786962624935
+data.zapl.txt 4.611097637722987
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

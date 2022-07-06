@@ -1,14 +1,14 @@
 13
-data.ok.txt 1
-data.zaqr.txt 1
-data.zaxx.txt 2
-data.zbsu.txt 1
-data.zbwa.txt 1
-data.zcdl.txt 1
-data.zcxp.txt 1
-data.zddl.txt 3
-data.zebv.txt 1
-data.zeez.txt 2
-data.zegz.txt 3
-data.zexu.txt 1
-data.zfcp.txt 4
+data.ok.txt 2.5727503226135906
+data.zaqr.txt 2.5727503226135906
+data.zaxx.txt 4.077712785060798
+data.zbsu.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zcdl.txt 2.5727503226135906
+data.zcxp.txt 2.5727503226135906
+data.zddl.txt 5.145500645227181
+data.zebv.txt 2.5727503226135906
+data.zeez.txt 4.077712785060798
+data.zegz.txt 5.145500645227181
+data.zexu.txt 2.5727503226135906
+data.zfcp.txt 5.97374125520702

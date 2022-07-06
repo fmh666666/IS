@@ -1,5 +1,5 @@
 4
-data.mo.txt 1
-data.zayv.txt 1
-data.zehp.txt 1
-data.zerw.txt 1
+data.mo.txt 3.389731710180695
+data.zayv.txt 3.389731710180695
+data.zehp.txt 3.389731710180695
+data.zerw.txt 3.389731710180695

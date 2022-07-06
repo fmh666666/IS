@@ -1,7 +1,7 @@
 6
-data.yx.txt 1
-data.zafe.txt 1
-data.zazw.txt 1
-data.zchd.txt 1
-data.zdil.txt 1
-data.zdzi.txt 1
+data.yx.txt 3.1086847136800873
+data.zafe.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zchd.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873
+data.zdzi.txt 3.1086847136800873

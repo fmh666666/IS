@@ -1,13 +1,13 @@
 12
-data.kt.txt 1
-data.qn.txt 1
-data.to.txt 1
-data.zaxj.txt 1
-data.zcfn.txt 1
-data.zcmx.txt 1
-data.zdby.txt 1
-data.zdlo.txt 1
-data.zebc.txt 3
-data.zemb.txt 1
-data.zfai.txt 1
-data.zfcj.txt 1
+data.kt.txt 2.628231699761886
+data.qn.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zdby.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zebc.txt 5.256463399523772
+data.zemb.txt 2.628231699761886
+data.zfai.txt 2.628231699761886
+data.zfcj.txt 2.628231699761886

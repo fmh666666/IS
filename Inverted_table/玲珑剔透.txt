@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.zbxy.txt 1
-data.zcvi.txt 1
-data.zdux.txt 1
-data.zedk.txt 1
-data.zeqh.txt 1
+data.cf.txt 3.1086847136800873
+data.zbxy.txt 3.1086847136800873
+data.zcvi.txt 3.1086847136800873
+data.zdux.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873

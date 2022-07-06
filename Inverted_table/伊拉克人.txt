@@ -1,7 +1,7 @@
 6
-data.ew.txt 1
-data.zajo.txt 1
-data.zawu.txt 1
-data.zbxy.txt 1
-data.zcmy.txt 1
-data.zddl.txt 3
+data.ew.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zbxy.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zddl.txt 6.2173694273601745

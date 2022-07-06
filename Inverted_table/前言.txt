@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.tv.txt 1
-data.zaqw.txt 1
-data.zcko.txt 1
-data.zcmy.txt 1
-data.zeec.txt 2
-data.zeve.txt 1
-data.zeyy.txt 1
+data.ga.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zeec.txt 4.611097637722987
+data.zeve.txt 2.9092786962624935
+data.zeyy.txt 2.9092786962624935

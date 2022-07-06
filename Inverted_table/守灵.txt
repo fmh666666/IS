@@ -1,7 +1,7 @@
 6
-data.bs.txt 3
-data.fp.txt 5
-data.zayc.txt 2
-data.zbuj.txt 1
-data.zdwk.txt 1
-data.zeaf.txt 1
+data.bs.txt 6.2173694273601745
+data.fp.txt 8.03583341142811
+data.zayc.txt 4.927148697748023
+data.zbuj.txt 3.1086847136800873
+data.zdwk.txt 3.1086847136800873
+data.zeaf.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.bb.txt 3
-data.zbgd.txt 1
-data.zfaj.txt 3
+data.bb.txt 7.1782754551965775
+data.zbgd.txt 3.5891377275982888
+data.zfaj.txt 7.1782754551965775

@@ -1,5 +1,5 @@
 4
-data.zbpx.txt 2
-data.zcuh.txt 9
-data.zdgo.txt 2
-data.zdzg.txt 1
+data.zbpx.txt 5.372597648141796
+data.zcuh.txt 11.260445002179837
+data.zdgo.txt 5.372597648141796
+data.zdzg.txt 3.389731710180695

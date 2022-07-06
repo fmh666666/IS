@@ -1,12 +1,12 @@
 11
-data.mo.txt 1
-data.zcdv.txt 1
-data.zcjo.txt 1
-data.zcrn.txt 1
-data.zdji.txt 1
-data.zduo.txt 1
-data.zedd.txt 1
-data.zefv.txt 1
-data.zelj.txt 1
-data.zerh.txt 1
-data.zewv.txt 1
+data.mo.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcjo.txt 2.6885433903988862
+data.zcrn.txt 2.6885433903988862
+data.zdji.txt 2.6885433903988862
+data.zduo.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zefv.txt 2.6885433903988862
+data.zelj.txt 2.6885433903988862
+data.zerh.txt 2.6885433903988862
+data.zewv.txt 2.6885433903988862

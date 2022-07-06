@@ -1,10 +1,10 @@
 9
-data.ud.txt 2
-data.wg.txt 2
-data.zadv.txt 1
-data.zbjh.txt 9
-data.zbpx.txt 1
-data.zcft.txt 1
-data.zcjo.txt 1
-data.zcsu.txt 1
-data.zcue.txt 1
+data.ud.txt 4.48169974735425
+data.wg.txt 4.48169974735425
+data.zadv.txt 2.82763771717948
+data.zbjh.txt 9.393209174861681
+data.zbpx.txt 2.82763771717948
+data.zcft.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zcue.txt 2.82763771717948

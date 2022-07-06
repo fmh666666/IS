@@ -1,7 +1,7 @@
 6
-data.zasj.txt 1
-data.zbvf.txt 1
-data.zdpw.txt 1
-data.zdxw.txt 1
-data.zeai.txt 1
-data.zegz.txt 2
+data.zasj.txt 3.1086847136800873
+data.zbvf.txt 3.1086847136800873
+data.zdpw.txt 3.1086847136800873
+data.zdxw.txt 3.1086847136800873
+data.zeai.txt 3.1086847136800873
+data.zegz.txt 4.927148697748023

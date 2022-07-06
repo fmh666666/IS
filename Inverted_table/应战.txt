@@ -1,12 +1,12 @@
 11
-data.hc.txt 1
-data.op.txt 1
-data.zbcc.txt 1
-data.zbts.txt 1
-data.zchd.txt 2
-data.zcsr.txt 1
-data.zctn.txt 3
-data.zdsh.txt 2
-data.zeil.txt 2
-data.zemb.txt 1
-data.zfaj.txt 1
+data.hc.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zchd.txt 4.261240455343955
+data.zcsr.txt 2.6885433903988862
+data.zctn.txt 5.3770867807977725
+data.zdsh.txt 4.261240455343955
+data.zeil.txt 4.261240455343955
+data.zemb.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

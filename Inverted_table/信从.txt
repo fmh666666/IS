@@ -1,6 +1,6 @@
 5
-data.zbgu.txt 1
-data.zbtj.txt 1
-data.zdoc.txt 1
-data.zdwv.txt 1
-data.zexm.txt 1
+data.zbgu.txt 3.235060386727117
+data.zbtj.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117
+data.zdwv.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

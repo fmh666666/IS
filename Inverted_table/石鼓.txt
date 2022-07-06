@@ -1,6 +1,6 @@
 5
-data.zatz.txt 1
-data.zayd.txt 1
-data.zbjk.txt 1
-data.zbta.txt 1
-data.zefw.txt 1
+data.zatz.txt 3.235060386727117
+data.zayd.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbta.txt 3.235060386727117
+data.zefw.txt 3.235060386727117

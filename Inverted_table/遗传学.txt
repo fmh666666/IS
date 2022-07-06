@@ -1,8 +1,8 @@
 7
-data.gw.txt 2
-data.ka.txt 1
-data.pa.txt 1
-data.zcql.txt 1
-data.zdgv.txt 1
-data.zeez.txt 1
-data.zfby.txt 1
+data.gw.txt 4.757796866583254
+data.ka.txt 3.0018356045764243
+data.pa.txt 3.0018356045764243
+data.zcql.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zeez.txt 3.0018356045764243
+data.zfby.txt 3.0018356045764243

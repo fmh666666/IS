@@ -1,5 +1,5 @@
 4
-data.aj.txt 1
-data.zbux.txt 1
-data.zcdv.txt 1
-data.zewp.txt 1
+data.aj.txt 3.389731710180695
+data.zbux.txt 3.389731710180695
+data.zcdv.txt 3.389731710180695
+data.zewp.txt 3.389731710180695

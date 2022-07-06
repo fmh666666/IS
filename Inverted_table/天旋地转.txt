@@ -1,6 +1,6 @@
 5
-data.zbor.txt 1
-data.zciy.txt 1
-data.zczb.txt 1
-data.zevt.txt 1
-data.zfdk.txt 8
+data.zbor.txt 3.235060386727117
+data.zciy.txt 3.235060386727117
+data.zczb.txt 3.235060386727117
+data.zevt.txt 3.235060386727117
+data.zfdk.txt 10.254898801061925

@@ -1,6 +1,6 @@
 5
-data.zbil.txt 1
-data.zbxy.txt 1
-data.zbye.txt 1
-data.zctn.txt 2
-data.zdgp.txt 5
+data.zbil.txt 3.235060386727117
+data.zbxy.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zctn.txt 5.1274494005309625
+data.zdgp.txt 8.362509787258078

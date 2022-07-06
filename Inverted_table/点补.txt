@@ -1,10 +1,10 @@
 9
-data.zall.txt 1
-data.zbha.txt 1
-data.zbzf.txt 1
-data.zcmv.txt 1
-data.zdeq.txt 1
-data.zdhw.txt 2
-data.zdst.txt 1
-data.zeeq.txt 1
-data.zegl.txt 1
+data.zall.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zcmv.txt 2.82763771717948
+data.zdeq.txt 2.82763771717948
+data.zdhw.txt 4.48169974735425
+data.zdst.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zegl.txt 2.82763771717948

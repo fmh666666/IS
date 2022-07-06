@@ -1,11 +1,11 @@
 10
-data.hg.txt 1
-data.zako.txt 1
-data.zbia.txt 4
-data.zbre.txt 1
-data.zcih.txt 1
-data.zcku.txt 1
-data.zcmx.txt 1
-data.zdzi.txt 1
-data.zdzm.txt 1
-data.zefp.txt 1
+data.hg.txt 2.7546073728089153
+data.zako.txt 2.7546073728089153
+data.zbia.txt 6.396000249308887
+data.zbre.txt 2.7546073728089153
+data.zcih.txt 2.7546073728089153
+data.zcku.txt 2.7546073728089153
+data.zcmx.txt 2.7546073728089153
+data.zdzi.txt 2.7546073728089153
+data.zdzm.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153

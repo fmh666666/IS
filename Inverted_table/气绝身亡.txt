@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zaim.txt 1
-data.zbfz.txt 1
-data.zbse.txt 1
-data.zdnc.txt 1
-data.zejk.txt 1
+data.fp.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zbse.txt 3.1086847136800873
+data.zdnc.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.sq.txt 1
-data.zabx.txt 6
-data.zcee.txt 1
-data.zdey.txt 1
+data.sq.txt 3.389731710180695
+data.zabx.txt 9.516180001030515
+data.zcee.txt 3.389731710180695
+data.zdey.txt 3.389731710180695

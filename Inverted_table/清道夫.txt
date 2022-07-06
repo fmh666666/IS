@@ -1,13 +1,13 @@
 12
-data.zalj.txt 1
-data.zaqw.txt 1
-data.zbmw.txt 1
-data.zbre.txt 1
-data.zbvg.txt 1
-data.zcft.txt 1
-data.zcon.txt 1
-data.zcoy.txt 1
-data.zcyv.txt 1
-data.zdst.txt 1
-data.zeeq.txt 1
-data.zfaz.txt 1
+data.zalj.txt 2.628231699761886
+data.zaqw.txt 2.628231699761886
+data.zbmw.txt 2.628231699761886
+data.zbre.txt 2.628231699761886
+data.zbvg.txt 2.628231699761886
+data.zcft.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zcoy.txt 2.628231699761886
+data.zcyv.txt 2.628231699761886
+data.zdst.txt 2.628231699761886
+data.zeeq.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

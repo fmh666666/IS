@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.zawm.txt 1
-data.zbaq.txt 1
-data.zbyb.txt 1
-data.zeec.txt 1
-data.zegl.txt 1
+data.mo.txt 3.1086847136800873
+data.zawm.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zegl.txt 3.1086847136800873

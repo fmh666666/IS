@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zddb.txt 1
-data.zdtv.txt 1
-data.zejk.txt 1
-data.zelj.txt 1
+data.qn.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zdtv.txt 3.235060386727117
+data.zejk.txt 3.235060386727117
+data.zelj.txt 3.235060386727117

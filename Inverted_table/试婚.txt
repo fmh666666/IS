@@ -1,9 +1,9 @@
 8
-data.ha.txt 1
-data.hc.txt 2
-data.mk.txt 1
-data.qn.txt 1
-data.sq.txt 1
-data.zczl.txt 1
-data.zeaf.txt 3
-data.zedd.txt 1
+data.ha.txt 2.9092786962624935
+data.hc.txt 4.611097637722987
+data.mk.txt 2.9092786962624935
+data.qn.txt 2.9092786962624935
+data.sq.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zeaf.txt 5.818557392524987
+data.zedd.txt 2.9092786962624935

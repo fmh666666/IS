@@ -1,13 +1,13 @@
 12
-data.ft.txt 1
-data.zafq.txt 1
-data.zank.txt 1
-data.zavg.txt 1
-data.zawu.txt 1
-data.zbpx.txt 1
-data.zbvm.txt 1
-data.zcxr.txt 1
-data.zdhw.txt 1
-data.zdzm.txt 1
-data.zefw.txt 1
-data.zezy.txt 2
+data.ft.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zank.txt 2.628231699761886
+data.zavg.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zcxr.txt 2.628231699761886
+data.zdhw.txt 2.628231699761886
+data.zdzm.txt 2.628231699761886
+data.zefw.txt 2.628231699761886
+data.zezy.txt 4.165648687329214

@@ -1,5 +1,5 @@
 4
-data.zaxj.txt 5
-data.zaxk.txt 5
-data.zbux.txt 2
-data.zcni.txt 1
+data.zaxj.txt 8.762329358322491
+data.zaxk.txt 8.762329358322491
+data.zbux.txt 5.372597648141796
+data.zcni.txt 3.389731710180695

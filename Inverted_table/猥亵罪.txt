@@ -1,6 +1,6 @@
 5
-data.zapf.txt 1
-data.zbil.txt 1
-data.zbtj.txt 1
-data.zdgt.txt 1
-data.zeoh.txt 1
+data.zapf.txt 3.235060386727117
+data.zbil.txt 3.235060386727117
+data.zbtj.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

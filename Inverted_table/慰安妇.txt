@@ -1,9 +1,9 @@
 8
-data.gk.txt 2
-data.zajo.txt 1
-data.zbcc.txt 2
-data.zbpx.txt 3
-data.zbqu.txt 1
-data.zcni.txt 1
-data.zexv.txt 1
-data.zfae.txt 3
+data.gk.txt 4.611097637722987
+data.zajo.txt 2.9092786962624935
+data.zbcc.txt 4.611097637722987
+data.zbpx.txt 5.818557392524987
+data.zbqu.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935
+data.zfae.txt 5.818557392524987

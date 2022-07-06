@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zbpc.txt 1
-data.zbua.txt 2
-data.zcln.txt 1
-data.zcon.txt 1
+data.zadv.txt 3.235060386727117
+data.zbpc.txt 3.235060386727117
+data.zbua.txt 5.1274494005309625
+data.zcln.txt 3.235060386727117
+data.zcon.txt 3.235060386727117

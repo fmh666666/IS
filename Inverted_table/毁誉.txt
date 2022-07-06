@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zbpp.txt 1
-data.zbyb.txt 1
+data.fp.txt 3.5891377275982888
+data.zbpp.txt 3.5891377275982888
+data.zbyb.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.zbzg.txt 1
-data.zcjo.txt 1
-data.zdgv.txt 1
-data.zdwv.txt 1
-data.zdwz.txt 3
-data.zedd.txt 1
-data.zerv.txt 1
-data.zfby.txt 1
+data.zbzg.txt 2.9092786962624935
+data.zcjo.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zdwv.txt 2.9092786962624935
+data.zdwz.txt 5.818557392524987
+data.zedd.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935
+data.zfby.txt 2.9092786962624935

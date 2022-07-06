@@ -1,13 +1,13 @@
 12
-data.mk.txt 1
-data.ry.txt 1
-data.zaim.txt 1
-data.zakb.txt 2
-data.zbcc.txt 1
-data.zbds.txt 1
-data.zbzf.txt 1
-data.zccu.txt 1
-data.zcse.txt 1
-data.zcxh.txt 1
-data.zdll.txt 1
-data.zdwd.txt 1
+data.mk.txt 2.628231699761886
+data.ry.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zakb.txt 4.165648687329214
+data.zbcc.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zccu.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zcxh.txt 2.628231699761886
+data.zdll.txt 2.628231699761886
+data.zdwd.txt 2.628231699761886

@@ -1,13 +1,13 @@
 12
-data.hu.txt 1
-data.zair.txt 1
-data.zawb.txt 1
-data.zbha.txt 1
-data.zbor.txt 1
-data.zciy.txt 1
-data.zcon.txt 1
-data.zcqs.txt 1
-data.zctn.txt 1
-data.zdaw.txt 1
-data.zeeq.txt 1
-data.zehp.txt 1
+data.hu.txt 2.628231699761886
+data.zair.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbha.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zctn.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zeeq.txt 2.628231699761886
+data.zehp.txt 2.628231699761886

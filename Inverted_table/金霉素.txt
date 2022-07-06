@@ -1,12 +1,12 @@
 11
-data.ep.txt 1
-data.zbaf.txt 1
-data.zbfz.txt 2
-data.zbts.txt 1
-data.zcft.txt 1
-data.zcmx.txt 1
-data.zcuh.txt 1
-data.zcwq.txt 2
-data.zdpg.txt 1
-data.zesi.txt 1
-data.zewn.txt 1
+data.ep.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zbfz.txt 4.261240455343955
+data.zbts.txt 2.6885433903988862
+data.zcft.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zcuh.txt 2.6885433903988862
+data.zcwq.txt 4.261240455343955
+data.zdpg.txt 2.6885433903988862
+data.zesi.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862

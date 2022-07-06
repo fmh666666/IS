@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.tz.txt 1
-data.zako.txt 1
-data.zbfp.txt 4
-data.zcfx.txt 1
-data.zcgi.txt 1
-data.zdgo.txt 1
-data.zemb.txt 5
-data.zfaj.txt 1
+data.ka.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbfp.txt 6.565571457682201
+data.zcfx.txt 2.82763771717948
+data.zcgi.txt 2.82763771717948
+data.zdgo.txt 2.82763771717948
+data.zemb.txt 7.309337464533731
+data.zfaj.txt 2.82763771717948

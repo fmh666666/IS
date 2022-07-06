@@ -1,13 +1,13 @@
 12
-data.mx.txt 1
-data.zail.txt 1
-data.zapr.txt 2
-data.zawc.txt 1
-data.zaxx.txt 1
-data.zazo.txt 1
-data.zbhd.txt 2
-data.zcjd.txt 1
-data.zcmy.txt 1
-data.zcxr.txt 1
-data.zeeh.txt 2
-data.zexv.txt 2
+data.mx.txt 2.628231699761886
+data.zail.txt 2.628231699761886
+data.zapr.txt 4.165648687329214
+data.zawc.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zazo.txt 2.628231699761886
+data.zbhd.txt 4.165648687329214
+data.zcjd.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zcxr.txt 2.628231699761886
+data.zeeh.txt 4.165648687329214
+data.zexv.txt 4.165648687329214

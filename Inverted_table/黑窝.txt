@@ -1,9 +1,9 @@
 8
-data.bs.txt 2
-data.tv.txt 1
-data.tz.txt 1
-data.zawc.txt 1
-data.zbkj.txt 1
-data.zddv.txt 1
-data.zdil.txt 1
-data.zefp.txt 1
+data.bs.txt 4.611097637722987
+data.tv.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935

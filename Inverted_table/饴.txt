@@ -1,4 +1,4 @@
 3
-data.zaim.txt 1
-data.zbut.txt 1
-data.zeaf.txt 1
+data.zaim.txt 3.5891377275982888
+data.zbut.txt 3.5891377275982888
+data.zeaf.txt 3.5891377275982888

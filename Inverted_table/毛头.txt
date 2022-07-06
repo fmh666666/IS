@@ -1,11 +1,11 @@
 10
-data.mu.txt 1
-data.zaql.txt 1
-data.zasy.txt 1
-data.zbcj.txt 1
-data.zbha.txt 1
-data.zcts.txt 2
-data.zdbf.txt 1
-data.zdkc.txt 1
-data.zdst.txt 1
-data.zdzi.txt 8
+data.mu.txt 2.7546073728089153
+data.zaql.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbha.txt 2.7546073728089153
+data.zcts.txt 4.365949390112154
+data.zdbf.txt 2.7546073728089153
+data.zdkc.txt 2.7546073728089153
+data.zdst.txt 2.7546073728089153
+data.zdzi.txt 8.731898780224308

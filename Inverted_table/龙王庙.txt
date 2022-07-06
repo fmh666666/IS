@@ -1,4 +1,4 @@
 3
-data.zbvg.txt 1
-data.zekw.txt 1
-data.zfae.txt 2
+data.zbvg.txt 3.5891377275982888
+data.zekw.txt 3.5891377275982888
+data.zfae.txt 5.688648708166832

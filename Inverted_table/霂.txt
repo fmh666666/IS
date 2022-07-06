@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.zaxk.txt 1
-data.zczb.txt 1
-data.zdib.txt 1
-data.zdlw.txt 1
+data.bs.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zczb.txt 3.235060386727117
+data.zdib.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117

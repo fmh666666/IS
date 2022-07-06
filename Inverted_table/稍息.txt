@@ -1,7 +1,7 @@
 6
-data.mu.txt 1
-data.mx.txt 1
-data.zbhv.txt 1
-data.zbkf.txt 1
-data.zcql.txt 1
-data.zdqx.txt 1
+data.mu.txt 3.1086847136800873
+data.mx.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zbkf.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zdqx.txt 3.1086847136800873

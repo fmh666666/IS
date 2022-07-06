@@ -1,5 +1,5 @@
 4
-data.zaqw.txt 1
-data.zavg.txt 1
-data.zaxj.txt 1
-data.zevt.txt 1
+data.zaqw.txt 3.389731710180695
+data.zavg.txt 3.389731710180695
+data.zaxj.txt 3.389731710180695
+data.zevt.txt 3.389731710180695

@@ -1,12 +1,12 @@
 11
-data.hg.txt 1
-data.mu.txt 1
-data.ud.txt 1
-data.zaqw.txt 1
-data.zaxk.txt 1
-data.zazw.txt 1
-data.zbyb.txt 1
-data.zdlw.txt 1
-data.zdwv.txt 1
-data.zegl.txt 1
-data.zexv.txt 1
+data.hg.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.ud.txt 2.6885433903988862
+data.zaqw.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbyb.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zegl.txt 2.6885433903988862
+data.zexv.txt 2.6885433903988862

@@ -1,8 +1,8 @@
 7
-data.zagr.txt 1
-data.zahp.txt 2
-data.zaoo.txt 1
-data.zcej.txt 1
-data.zcls.txt 1
-data.zdzi.txt 1
-data.zejk.txt 6
+data.zagr.txt 3.0018356045764243
+data.zahp.txt 4.757796866583254
+data.zaoo.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zcls.txt 3.0018356045764243
+data.zdzi.txt 3.0018356045764243
+data.zejk.txt 8.427217959715389

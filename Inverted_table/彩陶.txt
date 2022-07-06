@@ -1,4 +1,4 @@
 3
-data.zbzo.txt 1
-data.zclm.txt 1
-data.zdme.txt 9
+data.zbzo.txt 3.5891377275982888
+data.zclm.txt 3.5891377275982888
+data.zdme.txt 11.922857453728941

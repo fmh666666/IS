@@ -1,11 +1,11 @@
 10
-data.op.txt 1
-data.zasj.txt 1
-data.zawu.txt 8
-data.zblq.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 2
-data.zcee.txt 1
-data.zcli.txt 1
-data.zcue.txt 2
-data.zduc.txt 1
+data.op.txt 2.7546073728089153
+data.zasj.txt 2.7546073728089153
+data.zawu.txt 8.731898780224308
+data.zblq.txt 2.7546073728089153
+data.zbvm.txt 2.7546073728089153
+data.zcdy.txt 4.365949390112154
+data.zcee.txt 2.7546073728089153
+data.zcli.txt 2.7546073728089153
+data.zcue.txt 4.365949390112154
+data.zduc.txt 2.7546073728089153

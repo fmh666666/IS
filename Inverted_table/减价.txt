@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.jd.txt 1
-data.zabe.txt 1
-data.zake.txt 1
-data.zayc.txt 1
-data.zbfr.txt 1
-data.zbpx.txt 1
-data.zcnn.txt 1
-data.zddb.txt 1
-data.zdga.txt 1
-data.zedx.txt 1
+data.hu.txt 2.6885433903988862
+data.jd.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zake.txt 2.6885433903988862
+data.zayc.txt 2.6885433903988862
+data.zbfr.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zcnn.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zdga.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862

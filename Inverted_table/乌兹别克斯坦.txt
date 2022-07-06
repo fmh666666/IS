@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zahd.txt 1
-data.zbaq.txt 3
-data.zcgi.txt 1
-data.zdod.txt 2
+data.op.txt 3.235060386727117
+data.zahd.txt 3.235060386727117
+data.zbaq.txt 6.470120773454234
+data.zcgi.txt 3.235060386727117
+data.zdod.txt 5.1274494005309625

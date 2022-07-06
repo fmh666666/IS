@@ -1,6 +1,6 @@
 5
-data.pn.txt 2
-data.zcft.txt 2
-data.zcqe.txt 1
-data.zdtv.txt 1
-data.zedd.txt 1
+data.pn.txt 5.1274494005309625
+data.zcft.txt 5.1274494005309625
+data.zcqe.txt 3.235060386727117
+data.zdtv.txt 3.235060386727117
+data.zedd.txt 3.235060386727117

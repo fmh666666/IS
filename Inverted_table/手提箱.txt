@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.zcnn.txt 2
-data.zdga.txt 1
-data.zene.txt 3
+data.bs.txt 3.389731710180695
+data.zcnn.txt 5.372597648141796
+data.zdga.txt 3.389731710180695
+data.zene.txt 6.77946342036139

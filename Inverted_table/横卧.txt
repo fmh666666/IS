@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.wc.txt 1
-data.xk.txt 1
-data.zabe.txt 1
-data.zajo.txt 1
-data.zcdv.txt 1
-data.zdcw.txt 1
-data.zdds.txt 1
-data.zdlm.txt 1
-data.zfas.txt 1
+data.fp.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.xk.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zdds.txt 2.7546073728089153
+data.zdlm.txt 2.7546073728089153
+data.zfas.txt 2.7546073728089153

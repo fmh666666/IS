@@ -1,6 +1,6 @@
 5
-data.ek.txt 2
-data.ng.txt 2
-data.zbdb.txt 1
-data.zene.txt 1
-data.zfaj.txt 2
+data.ek.txt 5.1274494005309625
+data.ng.txt 5.1274494005309625
+data.zbdb.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zfaj.txt 5.1274494005309625

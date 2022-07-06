@@ -1,7 +1,7 @@
 6
-data.ok.txt 1
-data.zavg.txt 1
-data.zcts.txt 1
-data.zdzi.txt 4
-data.zezh.txt 2
-data.zfby.txt 2
+data.ok.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdzi.txt 7.21814237484067
+data.zezh.txt 4.927148697748023
+data.zfby.txt 4.927148697748023

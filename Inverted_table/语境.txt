@@ -1,13 +1,13 @@
 12
-data.ew.txt 2
-data.fz.txt 1
-data.kq.txt 1
-data.zaip.txt 2
-data.zajo.txt 1
-data.zaxk.txt 1
-data.zbfz.txt 1
-data.zbof.txt 1
-data.zcmy.txt 1
-data.zdcw.txt 2
-data.zdju.txt 1
-data.zebc.txt 1
+data.ew.txt 4.165648687329214
+data.fz.txt 2.628231699761886
+data.kq.txt 2.628231699761886
+data.zaip.txt 4.165648687329214
+data.zajo.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zdcw.txt 4.165648687329214
+data.zdju.txt 2.628231699761886
+data.zebc.txt 2.628231699761886

@@ -1,5 +1,5 @@
 4
-data.ha.txt 1
-data.zbyb.txt 1
-data.zddb.txt 1
-data.zdtr.txt 1
+data.ha.txt 3.389731710180695
+data.zbyb.txt 3.389731710180695
+data.zddb.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695

@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.mt.txt 1
-data.tv.txt 1
-data.zagr.txt 1
-data.zalm.txt 2
-data.zbcc.txt 1
-data.zbds.txt 1
-data.zbsl.txt 1
-data.zcve.txt 1
-data.zdeb.txt 2
-data.zdwv.txt 2
-data.zeay.txt 1
+data.ev.txt 2.628231699761886
+data.mt.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zalm.txt 4.165648687329214
+data.zbcc.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zcve.txt 2.628231699761886
+data.zdeb.txt 4.165648687329214
+data.zdwv.txt 4.165648687329214
+data.zeay.txt 2.628231699761886

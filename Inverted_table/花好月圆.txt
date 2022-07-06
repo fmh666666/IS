@@ -1,12 +1,12 @@
 11
-data.hp.txt 1
-data.vz.txt 1
-data.zamr.txt 1
-data.zayv.txt 2
-data.zbht.txt 1
-data.zckd.txt 1
-data.zcls.txt 1
-data.zcqp.txt 1
-data.zeeh.txt 1
-data.zelj.txt 1
-data.zevy.txt 1
+data.hp.txt 2.6885433903988862
+data.vz.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zayv.txt 4.261240455343955
+data.zbht.txt 2.6885433903988862
+data.zckd.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zcqp.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zelj.txt 2.6885433903988862
+data.zevy.txt 2.6885433903988862

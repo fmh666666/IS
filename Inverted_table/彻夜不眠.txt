@@ -1,7 +1,7 @@
 6
-data.to.txt 1
-data.zaoo.txt 1
-data.zbem.txt 1
-data.zccu.txt 1
-data.zdzm.txt 1
-data.zerh.txt 1
+data.to.txt 3.1086847136800873
+data.zaoo.txt 3.1086847136800873
+data.zbem.txt 3.1086847136800873
+data.zccu.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zerh.txt 3.1086847136800873

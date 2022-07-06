@@ -1,6 +1,6 @@
 5
-data.zafk.txt 1
-data.zcxr.txt 1
-data.zdby.txt 1
-data.zdle.txt 1
-data.zevq.txt 1
+data.zafk.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zdby.txt 3.235060386727117
+data.zdle.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

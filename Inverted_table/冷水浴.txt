@@ -1,10 +1,10 @@
 9
-data.zail.txt 1
-data.zbor.txt 1
-data.zbwa.txt 1
-data.zdgv.txt 1
-data.zdqz.txt 1
-data.zeeq.txt 1
-data.zemb.txt 1
-data.zenw.txt 1
-data.zeyg.txt 1
+data.zail.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zbwa.txt 2.82763771717948
+data.zdgv.txt 2.82763771717948
+data.zdqz.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zemb.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zeyg.txt 2.82763771717948

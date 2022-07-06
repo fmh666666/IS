@@ -1,2 +1,2 @@
 1
-data.zbes.txt 1
+data.zbes.txt 4.350637738017098

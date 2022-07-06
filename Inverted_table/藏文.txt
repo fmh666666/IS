@@ -1,9 +1,9 @@
 8
-data.jf.txt 5
-data.zazo.txt 1
-data.zbaq.txt 1
-data.zbjh.txt 9
-data.zcni.txt 1
-data.zcpx.txt 1
-data.zeag.txt 1
-data.zezy.txt 3
+data.jf.txt 7.52037633398548
+data.zazo.txt 2.9092786962624935
+data.zbaq.txt 2.9092786962624935
+data.zbjh.txt 9.664414636971655
+data.zcni.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zezy.txt 5.818557392524987

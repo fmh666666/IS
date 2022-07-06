@@ -1,7 +1,7 @@
 6
-data.zajh.txt 1
-data.zawb.txt 2
-data.zbdx.txt 1
-data.zbfz.txt 2
-data.zcni.txt 4
-data.zcue.txt 1
+data.zajh.txt 3.1086847136800873
+data.zawb.txt 4.927148697748023
+data.zbdx.txt 3.1086847136800873
+data.zbfz.txt 4.927148697748023
+data.zcni.txt 7.21814237484067
+data.zcue.txt 3.1086847136800873

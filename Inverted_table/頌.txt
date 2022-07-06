@@ -1,8 +1,8 @@
 7
-data.ek.txt 3
-data.zabj.txt 1
-data.zalt.txt 1
-data.zblr.txt 1
-data.zbvm.txt 1
-data.zbyb.txt 2
-data.zdey.txt 1
+data.ek.txt 6.003671209152849
+data.zabj.txt 3.0018356045764243
+data.zalt.txt 3.0018356045764243
+data.zblr.txt 3.0018356045764243
+data.zbvm.txt 3.0018356045764243
+data.zbyb.txt 4.757796866583254
+data.zdey.txt 3.0018356045764243

@@ -1,7 +1,7 @@
 6
-data.zbdb.txt 1
-data.zbkr.txt 1
-data.zdep.txt 1
-data.zdwd.txt 1
-data.zeec.txt 1
-data.zeeh.txt 1
+data.zbdb.txt 3.1086847136800873
+data.zbkr.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873
+data.zdwd.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zeeh.txt 3.1086847136800873

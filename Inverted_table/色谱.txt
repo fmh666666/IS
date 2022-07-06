@@ -1,9 +1,9 @@
 8
-data.zamp.txt 2
-data.zaxk.txt 1
-data.zbds.txt 2
-data.zbzf.txt 1
-data.zczp.txt 1
-data.zdby.txt 1
-data.zdtr.txt 1
-data.zerh.txt 1
+data.zamp.txt 4.611097637722987
+data.zaxk.txt 2.9092786962624935
+data.zbds.txt 4.611097637722987
+data.zbzf.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zerh.txt 2.9092786962624935

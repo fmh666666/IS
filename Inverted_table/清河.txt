@@ -1,13 +1,13 @@
 12
-data.jj.txt 1
-data.zaip.txt 1
-data.zaoy.txt 1
-data.zaxj.txt 2
-data.zazx.txt 2
-data.zbel.txt 1
-data.zdro.txt 3
-data.zedx.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
-data.zeoo.txt 1
-data.zfas.txt 1
+data.jj.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zaoy.txt 2.628231699761886
+data.zaxj.txt 4.165648687329214
+data.zazx.txt 4.165648687329214
+data.zbel.txt 2.628231699761886
+data.zdro.txt 5.256463399523772
+data.zedx.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886
+data.zfas.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zaej.txt 1
-data.zajo.txt 1
-data.zcpb.txt 1
-data.zezh.txt 1
+data.fp.txt 3.235060386727117
+data.zaej.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zcpb.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

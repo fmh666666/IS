@@ -1,6 +1,6 @@
 5
-data.co.txt 1
-data.zbnx.txt 1
-data.zcll.txt 1
-data.zcmy.txt 1
-data.zcts.txt 1
+data.co.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zcll.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zcts.txt 3.235060386727117

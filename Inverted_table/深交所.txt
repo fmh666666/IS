@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.zcdy.txt 10
-data.zcdz.txt 6
-data.zcgo.txt 1
-data.zcql.txt 1
-data.zelt.txt 2
+data.jf.txt 3.1086847136800873
+data.zcdy.txt 10.754282190879328
+data.zcdz.txt 8.727181332075027
+data.zcgo.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zelt.txt 4.927148697748023

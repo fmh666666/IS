@@ -1,11 +1,11 @@
 10
-data.zass.txt 1
-data.zbha.txt 1
-data.zblr.txt 1
-data.zcln.txt 1
-data.zdeb.txt 1
-data.zebv.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zewg.txt 1
-data.zewv.txt 1
+data.zass.txt 2.7546073728089153
+data.zbha.txt 2.7546073728089153
+data.zblr.txt 2.7546073728089153
+data.zcln.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zewg.txt 2.7546073728089153
+data.zewv.txt 2.7546073728089153

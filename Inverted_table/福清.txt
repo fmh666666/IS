@@ -1,4 +1,4 @@
 3
-data.mt.txt 1
-data.ud.txt 1
-data.zdzi.txt 3
+data.mt.txt 3.5891377275982888
+data.ud.txt 3.5891377275982888
+data.zdzi.txt 7.1782754551965775

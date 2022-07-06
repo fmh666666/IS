@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zajo.txt 1
-data.zbnx.txt 2
-data.zcue.txt 3
-data.zdzn.txt 1
+data.op.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zbnx.txt 5.1274494005309625
+data.zcue.txt 6.470120773454234
+data.zdzn.txt 3.235060386727117

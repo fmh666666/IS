@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zbhv.txt 4
-data.zbzo.txt 4
-data.zelt.txt 1
-data.zenw.txt 1
+data.op.txt 3.235060386727117
+data.zbhv.txt 7.511577600598868
+data.zbzo.txt 7.511577600598868
+data.zelt.txt 3.235060386727117
+data.zenw.txt 3.235060386727117

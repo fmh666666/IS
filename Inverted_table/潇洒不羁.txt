@@ -1,4 +1,4 @@
 3
-data.gk.txt 1
-data.zcli.txt 1
-data.zduo.txt 1
+data.gk.txt 3.5891377275982888
+data.zcli.txt 3.5891377275982888
+data.zduo.txt 3.5891377275982888

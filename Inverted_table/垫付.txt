@@ -1,14 +1,14 @@
 13
-data.cf.txt 1
-data.hz.txt 1
-data.tz.txt 1
-data.zaim.txt 1
-data.zasj.txt 1
-data.zcel.txt 1
-data.zcjo.txt 1
-data.zczp.txt 1
-data.zdgt.txt 1
-data.zdod.txt 1
-data.zehj.txt 1
-data.zess.txt 1
-data.zeyy.txt 1
+data.cf.txt 2.5727503226135906
+data.hz.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zasj.txt 2.5727503226135906
+data.zcel.txt 2.5727503226135906
+data.zcjo.txt 2.5727503226135906
+data.zczp.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zehj.txt 2.5727503226135906
+data.zess.txt 2.5727503226135906
+data.zeyy.txt 2.5727503226135906

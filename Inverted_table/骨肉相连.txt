@@ -1,5 +1,5 @@
 4
-data.zahp.txt 1
-data.zanh.txt 2
-data.zcku.txt 1
-data.zeec.txt 1
+data.zahp.txt 3.389731710180695
+data.zanh.txt 5.372597648141796
+data.zcku.txt 3.389731710180695
+data.zeec.txt 3.389731710180695

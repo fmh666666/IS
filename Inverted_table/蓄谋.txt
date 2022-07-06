@@ -1,14 +1,14 @@
 13
-data.wc.txt 1
-data.zaxp.txt 1
-data.zbkj.txt 1
-data.zcej.txt 2
-data.zctn.txt 1
-data.zcue.txt 1
-data.zddp.txt 1
-data.zdud.txt 1
-data.zeik.txt 2
-data.zesi.txt 1
-data.zeta.txt 1
-data.zeun.txt 1
-data.zfaj.txt 1
+data.wc.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbkj.txt 2.5727503226135906
+data.zcej.txt 4.077712785060798
+data.zctn.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zddp.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zeik.txt 4.077712785060798
+data.zesi.txt 2.5727503226135906
+data.zeta.txt 2.5727503226135906
+data.zeun.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

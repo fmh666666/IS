@@ -1,9 +1,9 @@
 8
-data.zbcj.txt 1
-data.zblr.txt 1
-data.zcdy.txt 2
-data.zcvt.txt 1
-data.zdkk.txt 1
-data.zdwn.txt 1
-data.zeaf.txt 1
-data.zevy.txt 2
+data.zbcj.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zcdy.txt 4.611097637722987
+data.zcvt.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zevy.txt 4.611097637722987

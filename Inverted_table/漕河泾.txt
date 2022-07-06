@@ -1,4 +1,4 @@
 3
-data.zajo.txt 1
-data.zake.txt 2
-data.zcqs.txt 1
+data.zajo.txt 3.5891377275982888
+data.zake.txt 5.688648708166832
+data.zcqs.txt 3.5891377275982888

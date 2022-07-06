@@ -1,4 +1,4 @@
 3
-data.zbil.txt 1
-data.zcuh.txt 1
-data.zdwz.txt 1
+data.zbil.txt 3.5891377275982888
+data.zcuh.txt 3.5891377275982888
+data.zdwz.txt 3.5891377275982888

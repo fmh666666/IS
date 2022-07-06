@@ -1,2 +1,2 @@
 1
-data.zeaj.txt 4
+data.zeaj.txt 10.101867994579104

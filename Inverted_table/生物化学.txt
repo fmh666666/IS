@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.gw.txt 1
-data.zasw.txt 1
-data.zbds.txt 1
-data.zebf.txt 1
-data.zehp.txt 3
+data.fp.txt 3.1086847136800873
+data.gw.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zehp.txt 6.2173694273601745

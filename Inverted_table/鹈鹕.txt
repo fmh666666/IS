@@ -1,4 +1,4 @@
 3
-data.mt.txt 4
-data.zbga.txt 1
-data.zcgi.txt 1
+data.mt.txt 8.333719726130651
+data.zbga.txt 3.5891377275982888
+data.zcgi.txt 3.5891377275982888

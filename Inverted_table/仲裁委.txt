@@ -1,4 +1,4 @@
 3
-data.zbaq.txt 1
-data.zbdx.txt 1
-data.zbor.txt 1
+data.zbaq.txt 3.5891377275982888
+data.zbdx.txt 3.5891377275982888
+data.zbor.txt 3.5891377275982888

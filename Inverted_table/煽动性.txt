@@ -1,9 +1,9 @@
 8
-data.zbhd.txt 1
-data.zbor.txt 1
-data.zciq.txt 1
-data.zciy.txt 2
-data.zdzg.txt 1
-data.zejk.txt 1
-data.zess.txt 1
-data.zfaz.txt 1
+data.zbhd.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zciy.txt 4.611097637722987
+data.zdzg.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935
+data.zess.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

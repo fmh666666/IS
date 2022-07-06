@@ -1,11 +1,11 @@
 10
-data.ev.txt 2
-data.zbkj.txt 1
-data.zbsm.txt 1
-data.zcdz.txt 1
-data.zcfn.txt 1
-data.zcon.txt 1
-data.zcqe.txt 1
-data.zcrv.txt 1
-data.zcue.txt 1
-data.zeag.txt 1
+data.ev.txt 4.365949390112154
+data.zbkj.txt 2.7546073728089153
+data.zbsm.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zcqe.txt 2.7546073728089153
+data.zcrv.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153

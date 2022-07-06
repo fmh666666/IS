@@ -1,2 +1,2 @@
 1
-data.zaoo.txt 3
+data.zaoo.txt 8.701275476034196

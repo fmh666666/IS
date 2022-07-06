@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.zawo.txt 1
-data.zbvm.txt 1
-data.zcjo.txt 1
-data.zcni.txt 1
-data.zdgv.txt 3
-data.zeay.txt 1
-data.zeeh.txt 2
-data.zefw.txt 1
-data.zeos.txt 2
+data.hp.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbvm.txt 2.7546073728089153
+data.zcjo.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zdgv.txt 5.509214745617831
+data.zeay.txt 2.7546073728089153
+data.zeeh.txt 4.365949390112154
+data.zefw.txt 2.7546073728089153
+data.zeos.txt 4.365949390112154

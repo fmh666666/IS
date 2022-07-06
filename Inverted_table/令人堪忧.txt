@@ -1,8 +1,8 @@
 7
-data.ng.txt 1
-data.op.txt 1
-data.zbcc.txt 1
-data.zbcj.txt 1
-data.zbor.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
+data.ng.txt 3.0018356045764243
+data.op.txt 3.0018356045764243
+data.zbcc.txt 3.0018356045764243
+data.zbcj.txt 3.0018356045764243
+data.zbor.txt 3.0018356045764243
+data.zctp.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243

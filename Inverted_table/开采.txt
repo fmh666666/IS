@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.op.txt 1
-data.zacd.txt 1
-data.zawb.txt 1
-data.zbfz.txt 1
-data.zbpx.txt 2
-data.zbsm.txt 3
-data.zebc.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zfaj.txt 1
+data.gw.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbpx.txt 4.261240455343955
+data.zbsm.txt 5.3770867807977725
+data.zebc.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

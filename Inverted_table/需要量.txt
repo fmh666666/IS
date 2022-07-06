@@ -1,4 +1,4 @@
 3
-data.zeam.txt 1
-data.zeeq.txt 2
-data.zewg.txt 2
+data.zeam.txt 3.5891377275982888
+data.zeeq.txt 5.688648708166832
+data.zewg.txt 5.688648708166832

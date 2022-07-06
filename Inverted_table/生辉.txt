@@ -1,7 +1,7 @@
 6
-data.zcem.txt 1
-data.zcic.txt 1
-data.zcsu.txt 1
-data.zctm.txt 1
-data.zdwv.txt 1
-data.zeeh.txt 2
+data.zcem.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zcsu.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zdwv.txt 3.1086847136800873
+data.zeeh.txt 4.927148697748023

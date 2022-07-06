@@ -1,2 +1,2 @@
 1
-data.mk.txt 3
+data.mk.txt 8.701275476034196

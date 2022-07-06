@@ -1,9 +1,9 @@
 8
-data.co.txt 2
-data.nh.txt 1
-data.zaej.txt 1
-data.zaim.txt 1
-data.zbpp.txt 1
-data.zcon.txt 1
-data.zcpx.txt 1
-data.zdod.txt 1
+data.co.txt 4.611097637722987
+data.nh.txt 2.9092786962624935
+data.zaej.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935

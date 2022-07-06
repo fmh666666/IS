@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zbla.txt 1
-data.zciq.txt 1
-data.zdkk.txt 1
-data.zeoh.txt 1
+data.zawc.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zdkk.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

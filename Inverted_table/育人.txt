@@ -1,13 +1,13 @@
 12
-data.pa.txt 1
-data.to.txt 1
-data.zaip.txt 1
-data.zazn.txt 1
-data.zbpc.txt 1
-data.zcdy.txt 2
-data.zcuh.txt 2
-data.zcxp.txt 1
-data.zddx.txt 1
-data.zdwv.txt 6
-data.zdxw.txt 1
-data.zdyv.txt 1
+data.pa.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbpc.txt 2.628231699761886
+data.zcdy.txt 4.165648687329214
+data.zcuh.txt 4.165648687329214
+data.zcxp.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdwv.txt 7.378379198634354
+data.zdxw.txt 2.628231699761886
+data.zdyv.txt 2.628231699761886

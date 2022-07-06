@@ -1,4 +1,4 @@
 3
-data.zajn.txt 1
-data.zdoc.txt 1
-data.zfai.txt 1
+data.zajn.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

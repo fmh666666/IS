@@ -1,6 +1,6 @@
 5
-data.zate.txt 2
-data.zbyv.txt 1
-data.zcts.txt 1
-data.zefu.txt 1
-data.zevq.txt 1
+data.zate.txt 5.1274494005309625
+data.zbyv.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zefu.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

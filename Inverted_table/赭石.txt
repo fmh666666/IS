@@ -1,6 +1,6 @@
 5
-data.zbds.txt 1
-data.zbzf.txt 1
-data.zddv.txt 1
-data.zdzi.txt 1
-data.zerh.txt 1
+data.zbds.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

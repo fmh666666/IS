@@ -1,9 +1,9 @@
 8
-data.zagr.txt 1
-data.zbcj.txt 3
-data.zbfz.txt 5
-data.zbha.txt 1
-data.zbnp.txt 2
-data.zccu.txt 1
-data.zctp.txt 3
-data.zcts.txt 4
+data.zagr.txt 2.9092786962624935
+data.zbcj.txt 5.818557392524987
+data.zbfz.txt 7.52037633398548
+data.zbha.txt 2.9092786962624935
+data.zbnp.txt 4.611097637722987
+data.zccu.txt 2.9092786962624935
+data.zctp.txt 5.818557392524987
+data.zcts.txt 6.7551359407091605

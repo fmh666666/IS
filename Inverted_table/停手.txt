@@ -1,7 +1,7 @@
 6
-data.zacp.txt 1
-data.zagb.txt 1
-data.zajh.txt 1
-data.zate.txt 1
-data.zeqh.txt 1
-data.zeyu.txt 1
+data.zacp.txt 3.1086847136800873
+data.zagb.txt 3.1086847136800873
+data.zajh.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

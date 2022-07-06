@@ -1,7 +1,7 @@
 6
-data.to.txt 1
-data.zacw.txt 1
-data.zarr.txt 1
-data.zasr.txt 1
-data.zcwq.txt 1
-data.zdoq.txt 1
+data.to.txt 3.1086847136800873
+data.zacw.txt 3.1086847136800873
+data.zarr.txt 3.1086847136800873
+data.zasr.txt 3.1086847136800873
+data.zcwq.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873

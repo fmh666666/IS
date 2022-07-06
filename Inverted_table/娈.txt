@@ -1,7 +1,7 @@
 6
-data.bs.txt 2
-data.ry.txt 1
-data.zaop.txt 1
-data.zcis.txt 1
-data.zefd.txt 1
-data.zeyy.txt 2
+data.bs.txt 4.927148697748023
+data.ry.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zefd.txt 3.1086847136800873
+data.zeyy.txt 4.927148697748023

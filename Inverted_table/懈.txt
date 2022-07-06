@@ -1,10 +1,10 @@
 9
-data.wc.txt 1
-data.zail.txt 1
-data.zblq.txt 1
-data.zbye.txt 1
-data.zbzf.txt 1
-data.zdwv.txt 1
-data.zeeq.txt 1
-data.zenw.txt 2
-data.zezy.txt 1
+data.wc.txt 2.82763771717948
+data.zail.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zenw.txt 4.48169974735425
+data.zezy.txt 2.82763771717948

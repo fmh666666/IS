@@ -1,14 +1,14 @@
 13
-data.mk.txt 1
-data.ok.txt 2
-data.tj.txt 1
-data.wc.txt 1
-data.zajo.txt 1
-data.zass.txt 1
-data.zavx.txt 1
-data.zbel.txt 1
-data.zdzg.txt 1
-data.zerw.txt 1
-data.zesq.txt 1
-data.zess.txt 1
-data.zfaz.txt 1
+data.mk.txt 2.5727503226135906
+data.ok.txt 4.077712785060798
+data.tj.txt 2.5727503226135906
+data.wc.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zass.txt 2.5727503226135906
+data.zavx.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zdzg.txt 2.5727503226135906
+data.zerw.txt 2.5727503226135906
+data.zesq.txt 2.5727503226135906
+data.zess.txt 2.5727503226135906
+data.zfaz.txt 2.5727503226135906

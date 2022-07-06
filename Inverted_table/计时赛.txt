@@ -1,4 +1,4 @@
 3
-data.zbsf.txt 1
-data.zejk.txt 1
-data.zejn.txt 1
+data.zbsf.txt 3.5891377275982888
+data.zejk.txt 3.5891377275982888
+data.zejn.txt 3.5891377275982888

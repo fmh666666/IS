@@ -1,8 +1,8 @@
 7
-data.zcft.txt 3
-data.zcmv.txt 1
-data.zdhv.txt 1
-data.zdof.txt 1
-data.zedy.txt 1
-data.zeva.txt 2
-data.zfas.txt 2
+data.zcft.txt 6.003671209152849
+data.zcmv.txt 3.0018356045764243
+data.zdhv.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zedy.txt 3.0018356045764243
+data.zeva.txt 4.757796866583254
+data.zfas.txt 4.757796866583254

@@ -1,13 +1,13 @@
 12
-data.ok.txt 1
-data.zabe.txt 1
-data.zalm.txt 1
-data.zasd.txt 1
-data.zawc.txt 1
-data.zayc.txt 2
-data.zcbe.txt 1
-data.zdaw.txt 1
-data.zehb.txt 1
-data.zene.txt 2
-data.zess.txt 1
-data.zeve.txt 1
+data.ok.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zalm.txt 2.628231699761886
+data.zasd.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zayc.txt 4.165648687329214
+data.zcbe.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zehb.txt 2.628231699761886
+data.zene.txt 4.165648687329214
+data.zess.txt 2.628231699761886
+data.zeve.txt 2.628231699761886

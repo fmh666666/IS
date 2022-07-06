@@ -1,4 +1,4 @@
 3
-data.hc.txt 1
-data.xk.txt 1
-data.zexv.txt 1
+data.hc.txt 3.5891377275982888
+data.xk.txt 3.5891377275982888
+data.zexv.txt 3.5891377275982888

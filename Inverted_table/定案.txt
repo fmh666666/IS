@@ -1,7 +1,7 @@
 6
-data.zbpx.txt 1
-data.zcue.txt 1
-data.zdeb.txt 1
-data.zdpf.txt 1
-data.zene.txt 1
-data.zeqv.txt 1
+data.zbpx.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zdpf.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873

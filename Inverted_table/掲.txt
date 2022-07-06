@@ -1,4 +1,4 @@
 3
-data.zbsu.txt 2
-data.zcgi.txt 1
-data.zegl.txt 2
+data.zbsu.txt 5.688648708166832
+data.zcgi.txt 3.5891377275982888
+data.zegl.txt 5.688648708166832

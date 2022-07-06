@@ -1,7 +1,7 @@
 6
-data.co.txt 4
-data.zcee.txt 1
-data.zcic.txt 1
-data.zdhw.txt 1
-data.zeag.txt 1
-data.zeay.txt 1
+data.co.txt 7.21814237484067
+data.zcee.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873
+data.zeag.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873

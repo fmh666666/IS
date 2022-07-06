@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.zabe.txt 2
-data.zcni.txt 1
-data.zene.txt 1
-data.zeoo.txt 1
+data.cz.txt 3.235060386727117
+data.zabe.txt 5.1274494005309625
+data.zcni.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

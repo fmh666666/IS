@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zcue.txt 1
-data.zdji.txt 1
-data.zdlw.txt 1
-data.zedo.txt 1
+data.zalt.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117
+data.zedo.txt 3.235060386727117

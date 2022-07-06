@@ -1,6 +1,6 @@
 5
-data.zbcj.txt 1
-data.zctp.txt 3
-data.zcts.txt 2
-data.zdaq.txt 1
-data.zdar.txt 9
+data.zbcj.txt 3.235060386727117
+data.zctp.txt 6.470120773454234
+data.zcts.txt 5.1274494005309625
+data.zdaq.txt 3.235060386727117
+data.zdar.txt 10.746637987325986

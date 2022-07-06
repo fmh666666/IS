@@ -1,7 +1,7 @@
 6
-data.hc.txt 1
-data.vz.txt 1
-data.zbhv.txt 1
-data.zbyv.txt 1
-data.zcll.txt 1
-data.zefd.txt 1
+data.hc.txt 3.1086847136800873
+data.vz.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zbyv.txt 3.1086847136800873
+data.zcll.txt 3.1086847136800873
+data.zefd.txt 3.1086847136800873

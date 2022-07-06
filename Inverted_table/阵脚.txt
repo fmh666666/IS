@@ -1,7 +1,7 @@
 6
-data.zbeb.txt 1
-data.zcee.txt 1
-data.zdof.txt 1
-data.zeun.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.zbeb.txt 3.1086847136800873
+data.zcee.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

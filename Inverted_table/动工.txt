@@ -1,14 +1,14 @@
 13
-data.dg.txt 1
-data.hg.txt 1
-data.xk.txt 1
-data.zabe.txt 1
-data.zamp.txt 1
-data.zaqp.txt 2
-data.zawo.txt 1
-data.zcko.txt 1
-data.zcrv.txt 1
-data.zdgp.txt 1
-data.zdkk.txt 1
-data.zdzm.txt 1
-data.zezy.txt 1
+data.dg.txt 2.5727503226135906
+data.hg.txt 2.5727503226135906
+data.xk.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zamp.txt 2.5727503226135906
+data.zaqp.txt 4.077712785060798
+data.zawo.txt 2.5727503226135906
+data.zcko.txt 2.5727503226135906
+data.zcrv.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zdkk.txt 2.5727503226135906
+data.zdzm.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906

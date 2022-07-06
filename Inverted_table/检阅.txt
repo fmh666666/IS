@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.zafu.txt 1
-data.zasy.txt 1
-data.zbia.txt 1
-data.zbkf.txt 3
-data.zbzg.txt 1
-data.zcpc.txt 1
-data.zdrq.txt 1
-data.zenn.txt 1
+data.aj.txt 2.82763771717948
+data.zafu.txt 2.82763771717948
+data.zasy.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zbkf.txt 5.65527543435896
+data.zbzg.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zenn.txt 2.82763771717948

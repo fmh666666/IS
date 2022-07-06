@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.jf.txt 1
-data.op.txt 2
-data.zbvm.txt 1
-data.zcdy.txt 1
-data.zdep.txt 1
-data.zdvl.txt 1
-data.zezy.txt 1
+data.gw.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.op.txt 4.611097637722987
+data.zbvm.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zdvl.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

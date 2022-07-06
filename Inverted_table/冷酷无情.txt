@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.zank.txt 1
-data.zavx.txt 1
-data.zbfp.txt 2
-data.zbjh.txt 2
-data.zblr.txt 1
-data.zcls.txt 1
-data.zczl.txt 1
+data.jf.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zavx.txt 2.9092786962624935
+data.zbfp.txt 4.611097637722987
+data.zbjh.txt 4.611097637722987
+data.zblr.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935

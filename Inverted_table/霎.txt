@@ -1,7 +1,7 @@
 6
-data.jd.txt 1
-data.kq.txt 2
-data.qb.txt 1
-data.zarc.txt 1
-data.zate.txt 1
-data.zbwa.txt 1
+data.jd.txt 3.1086847136800873
+data.kq.txt 4.927148697748023
+data.qb.txt 3.1086847136800873
+data.zarc.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873

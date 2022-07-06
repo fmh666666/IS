@@ -1,7 +1,7 @@
 6
-data.pn.txt 1
-data.zamr.txt 4
-data.zbqu.txt 1
-data.zdux.txt 3
-data.zety.txt 2
-data.zfai.txt 1
+data.pn.txt 3.1086847136800873
+data.zamr.txt 7.21814237484067
+data.zbqu.txt 3.1086847136800873
+data.zdux.txt 6.2173694273601745
+data.zety.txt 4.927148697748023
+data.zfai.txt 3.1086847136800873

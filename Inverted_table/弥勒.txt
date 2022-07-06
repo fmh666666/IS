@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.gk.txt 1
-data.jf.txt 4
-data.mt.txt 1
-data.ng.txt 1
-data.xk.txt 1
-data.zawu.txt 2
-data.zbjh.txt 2
-data.zcjo.txt 2
-data.zdbf.txt 2
-data.zdju.txt 32
-data.zdqz.txt 2
+data.cz.txt 2.628231699761886
+data.gk.txt 2.628231699761886
+data.jf.txt 6.1025650235506905
+data.mt.txt 2.628231699761886
+data.ng.txt 2.628231699761886
+data.xk.txt 2.628231699761886
+data.zawu.txt 4.165648687329214
+data.zbjh.txt 4.165648687329214
+data.zcjo.txt 4.165648687329214
+data.zdbf.txt 4.165648687329214
+data.zdju.txt 13.25783653059033
+data.zdqz.txt 4.165648687329214

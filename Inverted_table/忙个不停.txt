@@ -1,4 +1,4 @@
 3
-data.zanh.txt 2
-data.zbcc.txt 1
-data.zdtr.txt 1
+data.zanh.txt 5.688648708166832
+data.zbcc.txt 3.5891377275982888
+data.zdtr.txt 3.5891377275982888

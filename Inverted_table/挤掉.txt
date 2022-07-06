@@ -1,9 +1,9 @@
 8
-data.zafv.txt 2
-data.zarr.txt 1
-data.zavg.txt 1
-data.zbpc.txt 1
-data.zbsd.txt 1
-data.zdoc.txt 1
-data.zefv.txt 1
-data.zefw.txt 1
+data.zafv.txt 4.611097637722987
+data.zarr.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zbsd.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zefv.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935

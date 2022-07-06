@@ -1,12 +1,12 @@
 11
-data.pa.txt 2
-data.vi.txt 1
-data.zbdb.txt 1
-data.zblr.txt 1
-data.zbnx.txt 1
-data.zciq.txt 1
-data.zcln.txt 1
-data.zcse.txt 1
-data.zdmw.txt 1
-data.zeay.txt 2
-data.zeqn.txt 1
+data.pa.txt 4.261240455343955
+data.vi.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zciq.txt 2.6885433903988862
+data.zcln.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zeay.txt 4.261240455343955
+data.zeqn.txt 2.6885433903988862

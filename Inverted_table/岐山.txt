@@ -1,13 +1,13 @@
 12
-data.ft.txt 1
-data.jf.txt 1
-data.zamp.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zeay.txt 2
-data.zelt.txt 4
-data.zexv.txt 1
-data.zfae.txt 1
-data.zfai.txt 2
-data.zfaj.txt 3
-data.zfaz.txt 1
+data.ft.txt 2.628231699761886
+data.jf.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zeay.txt 4.165648687329214
+data.zelt.txt 6.1025650235506905
+data.zexv.txt 2.628231699761886
+data.zfae.txt 2.628231699761886
+data.zfai.txt 4.165648687329214
+data.zfaj.txt 5.256463399523772
+data.zfaz.txt 2.628231699761886

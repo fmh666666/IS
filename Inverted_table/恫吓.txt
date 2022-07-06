@@ -1,4 +1,4 @@
 3
-data.zbfz.txt 1
-data.zbrj.txt 1
-data.zbts.txt 2
+data.zbfz.txt 3.5891377275982888
+data.zbrj.txt 3.5891377275982888
+data.zbts.txt 5.688648708166832

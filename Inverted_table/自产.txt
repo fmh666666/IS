@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.ha.txt 2
-data.zadv.txt 1
-data.zbpx.txt 1
-data.zbye.txt 2
-data.zdlw.txt 1
+data.gw.txt 3.1086847136800873
+data.ha.txt 4.927148697748023
+data.zadv.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zbye.txt 4.927148697748023
+data.zdlw.txt 3.1086847136800873

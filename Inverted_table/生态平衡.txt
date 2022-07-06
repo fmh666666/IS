@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.ok.txt 2
-data.zafi.txt 1
-data.zawo.txt 1
-data.zbcv.txt 1
-data.zccu.txt 1
-data.zcih.txt 1
-data.zcql.txt 1
-data.zeez.txt 1
-data.zelt.txt 1
-data.zenw.txt 1
-data.zeun.txt 1
-data.zfby.txt 1
+data.fp.txt 2.5727503226135906
+data.ok.txt 4.077712785060798
+data.zafi.txt 2.5727503226135906
+data.zawo.txt 2.5727503226135906
+data.zbcv.txt 2.5727503226135906
+data.zccu.txt 2.5727503226135906
+data.zcih.txt 2.5727503226135906
+data.zcql.txt 2.5727503226135906
+data.zeez.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zeun.txt 2.5727503226135906
+data.zfby.txt 2.5727503226135906

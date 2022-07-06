@@ -1,6 +1,6 @@
 5
-data.co.txt 2
-data.zazn.txt 1
-data.zbkv.txt 1
-data.zcjo.txt 1
-data.zeoo.txt 1
+data.co.txt 5.1274494005309625
+data.zazn.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zcjo.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

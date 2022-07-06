@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zagr.txt 1
-data.zalt.txt 3
-data.zbcj.txt 2
-data.zbeb.txt 2
-data.zbqu.txt 4
-data.zcdy.txt 16
-data.zcdz.txt 21
-data.zdux.txt 1
+data.op.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zalt.txt 5.65527543435896
+data.zbcj.txt 4.48169974735425
+data.zbeb.txt 4.48169974735425
+data.zbqu.txt 6.565571457682201
+data.zcdy.txt 11.557864097489063
+data.zcdz.txt 12.609657042041563
+data.zdux.txt 2.82763771717948

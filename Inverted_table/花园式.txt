@@ -1,4 +1,4 @@
 3
-data.zdcj.txt 1
-data.zdga.txt 1
-data.zeqn.txt 1
+data.zdcj.txt 3.5891377275982888
+data.zdga.txt 3.5891377275982888
+data.zeqn.txt 3.5891377275982888

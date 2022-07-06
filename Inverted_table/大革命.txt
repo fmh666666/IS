@@ -1,7 +1,7 @@
 6
-data.op.txt 2
-data.zbeb.txt 1
-data.zbts.txt 6
-data.zcll.txt 1
-data.zdhw.txt 1
-data.zewg.txt 1
+data.op.txt 4.927148697748023
+data.zbeb.txt 3.1086847136800873
+data.zbts.txt 8.727181332075027
+data.zcll.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873
+data.zewg.txt 3.1086847136800873

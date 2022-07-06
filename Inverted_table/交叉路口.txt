@@ -1,7 +1,7 @@
 6
-data.hz.txt 3
-data.xe.txt 1
-data.zcdz.txt 1
-data.zcue.txt 1
-data.zdmw.txt 1
-data.zezn.txt 1
+data.hz.txt 6.2173694273601745
+data.xe.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873

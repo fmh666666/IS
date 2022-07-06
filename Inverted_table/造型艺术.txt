@@ -1,5 +1,5 @@
 4
-data.zajo.txt 1
-data.zaxj.txt 1
-data.zaxp.txt 1
-data.zbtx.txt 1
+data.zajo.txt 3.389731710180695
+data.zaxj.txt 3.389731710180695
+data.zaxp.txt 3.389731710180695
+data.zbtx.txt 3.389731710180695

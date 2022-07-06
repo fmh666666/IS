@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.ng.txt 1
-data.ye.txt 2
-data.zaim.txt 1
-data.zbfz.txt 1
-data.zcdl.txt 1
-data.zcmy.txt 1
-data.zcse.txt 1
+data.cq.txt 2.9092786962624935
+data.ng.txt 2.9092786962624935
+data.ye.txt 4.611097637722987
+data.zaim.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935

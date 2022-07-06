@@ -1,6 +1,6 @@
 5
-data.zasq.txt 1
-data.zctm.txt 2
-data.zcvi.txt 1
-data.zdof.txt 1
-data.zefp.txt 1
+data.zasq.txt 3.235060386727117
+data.zctm.txt 5.1274494005309625
+data.zcvi.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zefp.txt 3.235060386727117

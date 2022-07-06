@@ -1,6 +1,6 @@
 5
-data.yx.txt 1
-data.zcql.txt 1
-data.zdpw.txt 1
-data.zefu.txt 1
-data.zexk.txt 1
+data.yx.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117
+data.zefu.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

@@ -1,2 +1,2 @@
 1
-data.zdle.txt 2
+data.zdle.txt 6.8955976689794145

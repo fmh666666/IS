@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.zard.txt 1
-data.zarr.txt 1
-data.zass.txt 1
-data.zbla.txt 1
-data.zclh.txt 1
+data.ha.txt 3.1086847136800873
+data.zard.txt 3.1086847136800873
+data.zarr.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zclh.txt 3.1086847136800873

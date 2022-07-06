@@ -1,4 +1,4 @@
 3
-data.zcdy.txt 3
-data.zcmx.txt 2
-data.zfaj.txt 1
+data.zcdy.txt 7.1782754551965775
+data.zcmx.txt 5.688648708166832
+data.zfaj.txt 3.5891377275982888

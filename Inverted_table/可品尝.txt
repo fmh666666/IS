@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.vz.txt 1
-data.zahd.txt 1
-data.zamr.txt 1
-data.zbkf.txt 1
-data.zbpm.txt 1
-data.zcls.txt 1
-data.zczl.txt 1
+data.dg.txt 2.9092786962624935
+data.vz.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zamr.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zbpm.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935

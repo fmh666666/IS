@@ -1,5 +1,5 @@
 4
-data.zcfn.txt 1
-data.zdgo.txt 2
-data.zdst.txt 1
-data.zesq.txt 1
+data.zcfn.txt 3.389731710180695
+data.zdgo.txt 5.372597648141796
+data.zdst.txt 3.389731710180695
+data.zesq.txt 3.389731710180695

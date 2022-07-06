@@ -1,11 +1,11 @@
 10
-data.qn.txt 1
-data.zafv.txt 1
-data.zaop.txt 1
-data.zbjh.txt 2
-data.zbjq.txt 2
-data.zcnn.txt 4
-data.zcww.txt 1
-data.zdlm.txt 1
-data.zdud.txt 27
-data.zezn.txt 1
+data.qn.txt 2.7546073728089153
+data.zafv.txt 2.7546073728089153
+data.zaop.txt 2.7546073728089153
+data.zbjh.txt 4.365949390112154
+data.zbjq.txt 4.365949390112154
+data.zcnn.txt 6.396000249308887
+data.zcww.txt 2.7546073728089153
+data.zdlm.txt 2.7546073728089153
+data.zdud.txt 13.242375312009106
+data.zezn.txt 2.7546073728089153

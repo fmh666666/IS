@@ -1,6 +1,6 @@
 5
-data.zbut.txt 1
-data.zedd.txt 1
-data.zelt.txt 1
-data.zeqv.txt 1
-data.zevt.txt 1
+data.zbut.txt 3.235060386727117
+data.zedd.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117
+data.zevt.txt 3.235060386727117

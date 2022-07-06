@@ -1,14 +1,14 @@
 13
-data.ee.txt 1
-data.ff.txt 1
-data.zamp.txt 1
-data.zayd.txt 1
-data.zbgw.txt 1
-data.zbrj.txt 1
-data.zbvf.txt 1
-data.zcbm.txt 4
-data.zciy.txt 1
-data.zctn.txt 1
-data.zczl.txt 1
-data.zdmw.txt 1
-data.zeam.txt 1
+data.ee.txt 2.5727503226135906
+data.ff.txt 2.5727503226135906
+data.zamp.txt 2.5727503226135906
+data.zayd.txt 2.5727503226135906
+data.zbgw.txt 2.5727503226135906
+data.zbrj.txt 2.5727503226135906
+data.zbvf.txt 2.5727503226135906
+data.zcbm.txt 5.97374125520702
+data.zciy.txt 2.5727503226135906
+data.zctn.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906

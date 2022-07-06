@@ -1,9 +1,9 @@
 8
-data.mx.txt 1
-data.op.txt 1
-data.qn.txt 1
-data.zajo.txt 1
-data.zccu.txt 1
-data.zcdv.txt 1
-data.zdby.txt 1
-data.zefp.txt 1
+data.mx.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.qn.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935

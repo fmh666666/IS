@@ -1,10 +1,10 @@
 9
-data.qn.txt 1
-data.zajo.txt 1
-data.zavg.txt 5
-data.zbsf.txt 1
-data.zbuj.txt 1
-data.zcgo.txt 1
-data.zcnn.txt 7
-data.zeez.txt 1
-data.zeve.txt 1
+data.qn.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zavg.txt 7.309337464533731
+data.zbsf.txt 2.82763771717948
+data.zbuj.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcnn.txt 8.48291315153844
+data.zeez.txt 2.82763771717948
+data.zeve.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zapl.txt 1
-data.zawu.txt 1
-data.zeoh.txt 1
-data.zeqh.txt 1
+data.zagr.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.zafe.txt 1
-data.zaqw.txt 1
-data.zaxk.txt 1
-data.zbeb.txt 1
-data.zbye.txt 1
-data.zcao.txt 1
+data.zafe.txt 3.1086847136800873
+data.zaqw.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbye.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873

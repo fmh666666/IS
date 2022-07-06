@@ -1,4 +1,4 @@
 3
-data.zagr.txt 1
-data.zblq.txt 1
-data.zdpz.txt 2
+data.zagr.txt 3.5891377275982888
+data.zblq.txt 3.5891377275982888
+data.zdpz.txt 5.688648708166832

@@ -1,11 +1,11 @@
 10
-data.kq.txt 2
-data.xe.txt 1
-data.zaej.txt 1
-data.zall.txt 1
-data.zawb.txt 1
-data.zcfx.txt 1
-data.zdib.txt 2
-data.zeac.txt 1
-data.zeeh.txt 2
-data.zezf.txt 1
+data.kq.txt 4.365949390112154
+data.xe.txt 2.7546073728089153
+data.zaej.txt 2.7546073728089153
+data.zall.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zcfx.txt 2.7546073728089153
+data.zdib.txt 4.365949390112154
+data.zeac.txt 2.7546073728089153
+data.zeeh.txt 4.365949390112154
+data.zezf.txt 2.7546073728089153

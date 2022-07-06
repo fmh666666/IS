@@ -1,9 +1,9 @@
 8
-data.ok.txt 2
-data.zagr.txt 1
-data.zako.txt 2
-data.zalm.txt 2
-data.zawu.txt 1
-data.zbcv.txt 2
-data.zczp.txt 1
-data.zdeb.txt 1
+data.ok.txt 4.611097637722987
+data.zagr.txt 2.9092786962624935
+data.zako.txt 4.611097637722987
+data.zalm.txt 4.611097637722987
+data.zawu.txt 2.9092786962624935
+data.zbcv.txt 4.611097637722987
+data.zczp.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935

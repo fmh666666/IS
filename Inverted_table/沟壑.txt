@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.op.txt 1
-data.tj.txt 1
-data.zajh.txt 1
-data.zalt.txt 1
-data.zasw.txt 1
-data.zbkv.txt 2
-data.zbux.txt 1
-data.zchw.txt 1
-data.zcis.txt 1
-data.zdme.txt 1
-data.zdnc.txt 1
-data.zdsh.txt 1
+data.be.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.tj.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zalt.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zbkv.txt 4.077712785060798
+data.zbux.txt 2.5727503226135906
+data.zchw.txt 2.5727503226135906
+data.zcis.txt 2.5727503226135906
+data.zdme.txt 2.5727503226135906
+data.zdnc.txt 2.5727503226135906
+data.zdsh.txt 2.5727503226135906

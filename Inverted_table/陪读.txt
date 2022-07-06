@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.zaim.txt 1
-data.zasd.txt 3
-data.zbcj.txt 2
-data.zdby.txt 4
-data.zdpw.txt 1
+data.dg.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zasd.txt 6.2173694273601745
+data.zbcj.txt 4.927148697748023
+data.zdby.txt 7.21814237484067
+data.zdpw.txt 3.1086847136800873

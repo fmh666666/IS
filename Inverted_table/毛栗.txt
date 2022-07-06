@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zcve.txt 1
-data.zebf.txt 1
-data.zeeh.txt 1
-data.zesq.txt 2
+data.ng.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zebf.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zesq.txt 5.1274494005309625

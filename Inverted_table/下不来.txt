@@ -1,13 +1,13 @@
 12
-data.vm.txt 2
-data.zagr.txt 1
-data.zawu.txt 1
-data.zblr.txt 1
-data.zbzf.txt 1
-data.zcfn.txt 1
-data.zcic.txt 1
-data.zclm.txt 1
-data.zdeq.txt 2
-data.zdod.txt 1
-data.zdqq.txt 1
-data.zeel.txt 1
+data.vm.txt 4.165648687329214
+data.zagr.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zclm.txt 2.628231699761886
+data.zdeq.txt 4.165648687329214
+data.zdod.txt 2.628231699761886
+data.zdqq.txt 2.628231699761886
+data.zeel.txt 2.628231699761886

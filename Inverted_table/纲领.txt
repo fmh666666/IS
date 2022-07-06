@@ -1,10 +1,10 @@
 9
-data.zbpx.txt 1
-data.zcdy.txt 1
-data.zckd.txt 1
-data.zctn.txt 1
-data.zdeq.txt 1
-data.zdju.txt 1
-data.zebn.txt 1
-data.zeoh.txt 1
-data.zevy.txt 1
+data.zbpx.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zckd.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zdeq.txt 2.82763771717948
+data.zdju.txt 2.82763771717948
+data.zebn.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zevy.txt 2.82763771717948

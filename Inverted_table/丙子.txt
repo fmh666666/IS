@@ -1,4 +1,4 @@
 3
-data.zcfn.txt 1
-data.zdby.txt 1
-data.zdmw.txt 1
+data.zcfn.txt 3.5891377275982888
+data.zdby.txt 3.5891377275982888
+data.zdmw.txt 3.5891377275982888

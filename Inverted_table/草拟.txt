@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zbia.txt 1
-data.zblq.txt 1
-data.zcdz.txt 1
-data.zciy.txt 1
-data.zdbf.txt 1
-data.zeds.txt 1
-data.zemb.txt 1
+data.yx.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zdbf.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935

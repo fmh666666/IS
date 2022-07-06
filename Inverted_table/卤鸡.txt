@@ -1,7 +1,7 @@
 6
-data.yx.txt 1
-data.zacd.txt 1
-data.zcaq.txt 1
-data.zcqg.txt 1
-data.zdwn.txt 1
-data.zfaw.txt 1
+data.yx.txt 3.1086847136800873
+data.zacd.txt 3.1086847136800873
+data.zcaq.txt 3.1086847136800873
+data.zcqg.txt 3.1086847136800873
+data.zdwn.txt 3.1086847136800873
+data.zfaw.txt 3.1086847136800873

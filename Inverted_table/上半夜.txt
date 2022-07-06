@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.qn.txt 1
-data.zbha.txt 1
-data.zcby.txt 2
-data.zciq.txt 1
-data.zclm.txt 1
-data.zeid.txt 1
+data.kq.txt 3.0018356045764243
+data.qn.txt 3.0018356045764243
+data.zbha.txt 3.0018356045764243
+data.zcby.txt 4.757796866583254
+data.zciq.txt 3.0018356045764243
+data.zclm.txt 3.0018356045764243
+data.zeid.txt 3.0018356045764243

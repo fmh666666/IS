@@ -1,4 +1,4 @@
 3
-data.zaim.txt 1
-data.zdey.txt 1
-data.zevt.txt 1
+data.zaim.txt 3.5891377275982888
+data.zdey.txt 3.5891377275982888
+data.zevt.txt 3.5891377275982888

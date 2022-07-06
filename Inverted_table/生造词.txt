@@ -1,2 +1,2 @@
 1
-data.zcyv.txt 1
+data.zcyv.txt 4.350637738017098

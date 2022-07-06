@@ -1,6 +1,6 @@
 5
-data.zajn.txt 1
-data.zapl.txt 1
-data.zdgt.txt 1
-data.zehp.txt 1
-data.zene.txt 1
+data.zajn.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
+data.zene.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.zavx.txt 2
-data.zbua.txt 3
-data.zddp.txt 1
-data.zddv.txt 1
-data.zezm.txt 1
+data.zavx.txt 5.1274494005309625
+data.zbua.txt 6.470120773454234
+data.zddp.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zezm.txt 3.235060386727117

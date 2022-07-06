@@ -1,9 +1,9 @@
 8
-data.fz.txt 2
-data.zbfz.txt 1
-data.zcpx.txt 1
-data.zcrv.txt 1
-data.zctp.txt 1
-data.zcts.txt 3
-data.zdlm.txt 1
-data.zesi.txt 1
+data.fz.txt 4.611097637722987
+data.zbfz.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zcrv.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zcts.txt 5.818557392524987
+data.zdlm.txt 2.9092786962624935
+data.zesi.txt 2.9092786962624935

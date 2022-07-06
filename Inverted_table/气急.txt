@@ -1,7 +1,7 @@
 6
-data.zake.txt 1
-data.zbfr.txt 1
-data.zcak.txt 1
-data.zcbe.txt 1
-data.zdwk.txt 1
-data.zeay.txt 1
+data.zake.txt 3.1086847136800873
+data.zbfr.txt 3.1086847136800873
+data.zcak.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zdwk.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873

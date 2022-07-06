@@ -1,8 +1,8 @@
 7
-data.zbph.txt 1
-data.zcda.txt 1
-data.zclh.txt 1
-data.zczb.txt 1
-data.zdaa.txt 1
-data.zejk.txt 1
-data.zewp.txt 1
+data.zbph.txt 3.0018356045764243
+data.zcda.txt 3.0018356045764243
+data.zclh.txt 3.0018356045764243
+data.zczb.txt 3.0018356045764243
+data.zdaa.txt 3.0018356045764243
+data.zejk.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

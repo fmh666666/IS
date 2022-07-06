@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.ga.txt 1
-data.qn.txt 1
-data.zaet.txt 1
-data.zard.txt 1
-data.zcpc.txt 1
-data.zcts.txt 1
-data.zddp.txt 1
-data.zdep.txt 1
-data.zewn.txt 1
-data.zfaz.txt 1
+data.be.txt 2.6885433903988862
+data.ga.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zaet.txt 2.6885433903988862
+data.zard.txt 2.6885433903988862
+data.zcpc.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862
+data.zfaz.txt 2.6885433903988862

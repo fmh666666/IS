@@ -1,13 +1,13 @@
 12
-data.co.txt 4
-data.mx.txt 1
-data.tv.txt 1
-data.zaqf.txt 1
-data.zarc.txt 1
-data.zayv.txt 2
-data.zbhd.txt 2
-data.zbmt.txt 1
-data.zcfn.txt 1
-data.zcsu.txt 5
-data.zdpz.txt 3
-data.zedo.txt 1
+data.co.txt 6.1025650235506905
+data.mx.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.zaqf.txt 2.628231699761886
+data.zarc.txt 2.628231699761886
+data.zayv.txt 4.165648687329214
+data.zbhd.txt 4.165648687329214
+data.zbmt.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zcsu.txt 6.7938803870911
+data.zdpz.txt 5.256463399523772
+data.zedo.txt 2.628231699761886

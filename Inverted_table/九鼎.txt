@@ -1,6 +1,6 @@
 5
-data.pq.txt 1
-data.zedd.txt 3
-data.zejk.txt 1
-data.zelt.txt 1
-data.zeva.txt 1
+data.pq.txt 3.235060386727117
+data.zedd.txt 6.470120773454234
+data.zejk.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zeva.txt 3.235060386727117

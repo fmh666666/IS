@@ -1,4 +1,4 @@
 3
-data.zcao.txt 2
-data.zckd.txt 2
-data.zcrg.txt 2
+data.zcao.txt 5.688648708166832
+data.zckd.txt 5.688648708166832
+data.zcrg.txt 5.688648708166832

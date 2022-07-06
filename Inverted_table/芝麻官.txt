@@ -1,14 +1,14 @@
 13
-data.bb.txt 1
-data.zaip.txt 1
-data.zbdx.txt 1
-data.zbem.txt 1
-data.zbpc.txt 2
-data.zbpx.txt 1
-data.zcgo.txt 1
-data.zdkc.txt 1
-data.zdkk.txt 1
-data.zdlm.txt 1
-data.zdpw.txt 1
-data.zeqv.txt 1
-data.zevy.txt 2
+data.bb.txt 2.5727503226135906
+data.zaip.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zbem.txt 2.5727503226135906
+data.zbpc.txt 4.077712785060798
+data.zbpx.txt 2.5727503226135906
+data.zcgo.txt 2.5727503226135906
+data.zdkc.txt 2.5727503226135906
+data.zdkk.txt 2.5727503226135906
+data.zdlm.txt 2.5727503226135906
+data.zdpw.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906
+data.zevy.txt 4.077712785060798

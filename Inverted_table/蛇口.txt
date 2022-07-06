@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.vm.txt 1
-data.wg.txt 1
-data.zbor.txt 1
-data.zciq.txt 1
-data.zejk.txt 1
-data.zelt.txt 2
-data.zfai.txt 1
+data.ft.txt 2.9092786962624935
+data.vm.txt 2.9092786962624935
+data.wg.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935
+data.zelt.txt 4.611097637722987
+data.zfai.txt 2.9092786962624935

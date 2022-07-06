@@ -1,13 +1,13 @@
 12
-data.gw.txt 3
-data.jf.txt 1
-data.zadv.txt 1
-data.zapr.txt 1
-data.zaqf.txt 1
-data.zayv.txt 1
-data.zbkf.txt 1
-data.zblq.txt 1
-data.zcaq.txt 1
-data.zcni.txt 1
-data.zdga.txt 2
-data.zeta.txt 7
+data.gw.txt 5.256463399523772
+data.jf.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zapr.txt 2.628231699761886
+data.zaqf.txt 2.628231699761886
+data.zayv.txt 2.628231699761886
+data.zbkf.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zcaq.txt 2.628231699761886
+data.zcni.txt 2.628231699761886
+data.zdga.txt 4.165648687329214
+data.zeta.txt 7.884695099285658

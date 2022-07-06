@@ -1,13 +1,13 @@
 12
-data.ep.txt 2
-data.zadv.txt 1
-data.zbcj.txt 1
-data.zbvg.txt 2
-data.zcpa.txt 1
-data.zcqs.txt 1
-data.zcww.txt 1
-data.zdey.txt 1
-data.zdil.txt 4
-data.zefw.txt 1
-data.zelt.txt 2
-data.zeos.txt 1
+data.ep.txt 4.165648687329214
+data.zadv.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zbvg.txt 4.165648687329214
+data.zcpa.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zcww.txt 2.628231699761886
+data.zdey.txt 2.628231699761886
+data.zdil.txt 6.1025650235506905
+data.zefw.txt 2.628231699761886
+data.zelt.txt 4.165648687329214
+data.zeos.txt 2.628231699761886

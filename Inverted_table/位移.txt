@@ -1,7 +1,7 @@
 6
-data.ff.txt 1
-data.zcpa.txt 1
-data.zctp.txt 1
-data.zcvi.txt 1
-data.zdkc.txt 1
-data.zenw.txt 1
+data.ff.txt 3.1086847136800873
+data.zcpa.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zcvi.txt 3.1086847136800873
+data.zdkc.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873

@@ -1,13 +1,13 @@
 12
-data.by.txt 1
-data.ud.txt 1
-data.zako.txt 1
-data.zazo.txt 1
-data.zbfz.txt 1
-data.zbvn.txt 1
-data.zcdv.txt 1
-data.zcih.txt 1
-data.zcue.txt 1
-data.zdoq.txt 1
-data.zdwl.txt 2
-data.zfai.txt 2
+data.by.txt 2.628231699761886
+data.ud.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zazo.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbvn.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcih.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdoq.txt 2.628231699761886
+data.zdwl.txt 4.165648687329214
+data.zfai.txt 4.165648687329214

@@ -1,6 +1,6 @@
 5
-data.zafy.txt 1
-data.zajh.txt 1
-data.zdep.txt 1
-data.zdoq.txt 1
-data.zefs.txt 2
+data.zafy.txt 3.235060386727117
+data.zajh.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117
+data.zefs.txt 5.1274494005309625

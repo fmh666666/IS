@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.ka.txt 1
-data.zadv.txt 1
-data.zbkv.txt 1
-data.zeay.txt 1
-data.zedx.txt 1
-data.zeoo.txt 1
-data.zfai.txt 1
+data.hp.txt 2.9092786962624935
+data.ka.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

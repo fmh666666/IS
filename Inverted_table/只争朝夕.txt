@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.mt.txt 1
-data.nh.txt 1
-data.ok.txt 1
-data.zbqu.txt 1
-data.zcdy.txt 2
-data.zdcj.txt 1
-data.zddx.txt 1
-data.zdfl.txt 1
-data.zdkv.txt 1
-data.zdrq.txt 1
-data.zedx.txt 1
+data.bs.txt 2.628231699761886
+data.mt.txt 2.628231699761886
+data.nh.txt 2.628231699761886
+data.ok.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zcdy.txt 4.165648687329214
+data.zdcj.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdfl.txt 2.628231699761886
+data.zdkv.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zedx.txt 2.628231699761886

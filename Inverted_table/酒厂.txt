@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zajo.txt 1
-data.zapl.txt 1
-data.zbfx.txt 1
-data.zbts.txt 2
-data.zcvq.txt 1
-data.zdlm.txt 1
-data.zdqz.txt 3
+data.ga.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zbts.txt 4.611097637722987
+data.zcvq.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935
+data.zdqz.txt 5.818557392524987

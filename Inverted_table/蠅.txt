@@ -1,5 +1,5 @@
 4
-data.zalc.txt 1
-data.zawm.txt 1
-data.zcjy.txt 1
-data.zcwq.txt 2
+data.zalc.txt 3.389731710180695
+data.zawm.txt 3.389731710180695
+data.zcjy.txt 3.389731710180695
+data.zcwq.txt 5.372597648141796

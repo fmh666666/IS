@@ -1,11 +1,11 @@
 10
-data.zacp.txt 1
-data.zbhd.txt 4
-data.zbkj.txt 1
-data.zbor.txt 1
-data.zcvq.txt 2
-data.zdgp.txt 1
-data.zduk.txt 4
-data.zeqv.txt 1
-data.zfai.txt 1
-data.zfaj.txt 7
+data.zacp.txt 2.7546073728089153
+data.zbhd.txt 6.396000249308887
+data.zbkj.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zcvq.txt 4.365949390112154
+data.zdgp.txt 2.7546073728089153
+data.zduk.txt 6.396000249308887
+data.zeqv.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153
+data.zfaj.txt 8.263822118426747

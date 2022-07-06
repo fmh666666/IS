@@ -1,8 +1,8 @@
 7
-data.zarr.txt 1
-data.zbcj.txt 1
-data.zbht.txt 1
-data.zbrj.txt 1
-data.zcdy.txt 2
-data.zdwz.txt 1
-data.zejn.txt 1
+data.zarr.txt 3.0018356045764243
+data.zbcj.txt 3.0018356045764243
+data.zbht.txt 3.0018356045764243
+data.zbrj.txt 3.0018356045764243
+data.zcdy.txt 4.757796866583254
+data.zdwz.txt 3.0018356045764243
+data.zejn.txt 3.0018356045764243

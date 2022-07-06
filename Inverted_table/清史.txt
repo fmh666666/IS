@@ -1,4 +1,4 @@
 3
-data.zaxj.txt 1
-data.zbla.txt 1
-data.zevq.txt 1
+data.zaxj.txt 3.5891377275982888
+data.zbla.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

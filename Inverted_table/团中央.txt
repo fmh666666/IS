@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zcmy.txt 1
-data.zctm.txt 1
-data.zduo.txt 1
-data.zevq.txt 1
+data.vi.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zctm.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

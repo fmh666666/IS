@@ -1,4 +1,4 @@
 3
-data.zblq.txt 1
-data.zciq.txt 1
-data.zcww.txt 1
+data.zblq.txt 3.5891377275982888
+data.zciq.txt 3.5891377275982888
+data.zcww.txt 3.5891377275982888

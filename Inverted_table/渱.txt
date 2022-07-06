@@ -1,3 +1,3 @@
 2
-data.to.txt 2
-data.zdpf.txt 2
+data.to.txt 6.134097658560606
+data.zdpf.txt 6.134097658560606

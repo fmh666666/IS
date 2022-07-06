@@ -1,4 +1,4 @@
 3
-data.gw.txt 1
-data.zamp.txt 1
-data.zezy.txt 1
+data.gw.txt 3.5891377275982888
+data.zamp.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

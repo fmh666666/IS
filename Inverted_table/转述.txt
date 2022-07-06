@@ -1,7 +1,7 @@
 6
-data.zbjh.txt 1
-data.zdcw.txt 1
-data.zdod.txt 1
-data.zdqq.txt 1
-data.zelt.txt 1
-data.zeyy.txt 1
+data.zbjh.txt 3.1086847136800873
+data.zdcw.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zdqq.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873

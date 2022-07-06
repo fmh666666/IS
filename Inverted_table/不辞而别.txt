@@ -1,7 +1,7 @@
 6
-data.aj.txt 1
-data.zcjy.txt 1
-data.zcpx.txt 1
-data.zdcy.txt 1
-data.zdkc.txt 1
-data.zehp.txt 1
+data.aj.txt 3.1086847136800873
+data.zcjy.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zdcy.txt 3.1086847136800873
+data.zdkc.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873

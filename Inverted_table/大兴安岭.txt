@@ -1,7 +1,7 @@
 6
-data.zaoo.txt 1
-data.zbdb.txt 1
-data.zbpx.txt 1
-data.zdcj.txt 1
-data.zdeb.txt 2
-data.zeeh.txt 1
+data.zaoo.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873
+data.zdeb.txt 4.927148697748023
+data.zeeh.txt 3.1086847136800873

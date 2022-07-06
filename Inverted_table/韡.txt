@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.zajo.txt 1
-data.zcku.txt 5
+data.ga.txt 3.5891377275982888
+data.zajo.txt 3.5891377275982888
+data.zcku.txt 9.27778643576512

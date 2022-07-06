@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.hz.txt 4
-data.zczl.txt 1
-data.zddl.txt 1
-data.zdzg.txt 1
-data.zeyu.txt 1
-data.zezn.txt 1
+data.bs.txt 3.0018356045764243
+data.hz.txt 6.970046426499191
+data.zczl.txt 3.0018356045764243
+data.zddl.txt 3.0018356045764243
+data.zdzg.txt 3.0018356045764243
+data.zeyu.txt 3.0018356045764243
+data.zezn.txt 3.0018356045764243

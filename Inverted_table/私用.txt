@@ -1,12 +1,12 @@
 11
-data.hz.txt 1
-data.op.txt 1
-data.zadv.txt 2
-data.zajo.txt 1
-data.zawb.txt 1
-data.zbcj.txt 2
-data.zeay.txt 1
-data.zeeq.txt 1
-data.zefp.txt 1
-data.zeoh.txt 2
-data.zfaj.txt 3
+data.hz.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zadv.txt 4.261240455343955
+data.zajo.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbcj.txt 4.261240455343955
+data.zeay.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862
+data.zeoh.txt 4.261240455343955
+data.zfaj.txt 5.3770867807977725

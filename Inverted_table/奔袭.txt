@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.gz.txt 1
-data.mu.txt 1
-data.zasj.txt 1
-data.zbcj.txt 1
-data.zbts.txt 1
-data.zbvm.txt 1
-data.zefp.txt 1
-data.zevq.txt 1
-data.zexu.txt 1
-data.zfaj.txt 1
+data.cz.txt 2.6885433903988862
+data.gz.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.zasj.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862
+data.zexu.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

@@ -1,7 +1,7 @@
 6
-data.pn.txt 1
-data.zawz.txt 1
-data.zbyb.txt 1
-data.zdux.txt 1
-data.zdwv.txt 1
-data.zeqv.txt 1
+data.pn.txt 3.1086847136800873
+data.zawz.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zdux.txt 3.1086847136800873
+data.zdwv.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873

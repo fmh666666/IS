@@ -1,6 +1,6 @@
 5
-data.zawm.txt 1
-data.zbcc.txt 1
-data.zbjk.txt 1
-data.zcko.txt 1
-data.zcrg.txt 1
+data.zawm.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zcko.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117

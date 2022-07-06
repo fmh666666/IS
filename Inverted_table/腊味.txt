@@ -1,8 +1,8 @@
 7
-data.pa.txt 1
-data.zbjq.txt 1
-data.zbvg.txt 1
-data.zcem.txt 1
-data.zcve.txt 2
-data.zdeb.txt 1
-data.zexm.txt 2
+data.pa.txt 3.0018356045764243
+data.zbjq.txt 3.0018356045764243
+data.zbvg.txt 3.0018356045764243
+data.zcem.txt 3.0018356045764243
+data.zcve.txt 4.757796866583254
+data.zdeb.txt 3.0018356045764243
+data.zexm.txt 4.757796866583254

@@ -1,9 +1,9 @@
 8
-data.co.txt 1
-data.fp.txt 1
-data.zafq.txt 1
-data.zalm.txt 1
-data.zbcj.txt 1
-data.zbhe.txt 1
-data.zctp.txt 1
-data.zdkk.txt 1
+data.co.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935

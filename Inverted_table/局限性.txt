@@ -1,12 +1,12 @@
 11
-data.zabe.txt 1
-data.zadv.txt 1
-data.zavx.txt 1
-data.zcbm.txt 2
-data.zddb.txt 1
-data.zdgv.txt 1
-data.zdpf.txt 1
-data.zdwv.txt 1
-data.zebn.txt 2
-data.zelt.txt 1
-data.zfas.txt 1
+data.zabe.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zavx.txt 2.6885433903988862
+data.zcbm.txt 4.261240455343955
+data.zddb.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zebn.txt 4.261240455343955
+data.zelt.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zcts.txt 1
-data.zdlm.txt 1
-data.zekw.txt 1
-data.zerh.txt 3
+data.gw.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117
+data.zekw.txt 3.235060386727117
+data.zerh.txt 6.470120773454234

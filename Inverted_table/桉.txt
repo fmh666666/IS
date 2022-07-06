@@ -1,13 +1,13 @@
 12
-data.gw.txt 3
-data.kt.txt 1
-data.ud.txt 1
-data.ye.txt 1
-data.zaej.txt 9
-data.zawu.txt 1
-data.zbkv.txt 1
-data.zcdg.txt 1
-data.zdof.txt 1
-data.zedx.txt 1
-data.zeel.txt 1
-data.zfas.txt 1
+data.gw.txt 5.256463399523772
+data.kt.txt 2.628231699761886
+data.ud.txt 2.628231699761886
+data.ye.txt 2.628231699761886
+data.zaej.txt 8.730796723312578
+data.zawu.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zeel.txt 2.628231699761886
+data.zfas.txt 2.628231699761886

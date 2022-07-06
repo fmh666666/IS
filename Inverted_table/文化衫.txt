@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.hg.txt 1
-data.zafi.txt 1
-data.zawb.txt 1
-data.zbpc.txt 1
-data.zbts.txt 2
+data.fp.txt 3.1086847136800873
+data.hg.txt 3.1086847136800873
+data.zafi.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zbpc.txt 3.1086847136800873
+data.zbts.txt 4.927148697748023

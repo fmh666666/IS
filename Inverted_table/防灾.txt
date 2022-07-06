@@ -1,10 +1,10 @@
 9
-data.aj.txt 4
-data.hp.txt 1
-data.hz.txt 1
-data.zahd.txt 1
-data.zbkf.txt 6
-data.zbnp.txt 1
-data.zbqu.txt 5
-data.zeoh.txt 1
-data.zfaj.txt 1
+data.aj.txt 6.565571457682201
+data.hp.txt 2.82763771717948
+data.hz.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zbkf.txt 7.938182663119541
+data.zbnp.txt 2.82763771717948
+data.zbqu.txt 7.309337464533731
+data.zeoh.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

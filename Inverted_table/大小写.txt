@@ -1,11 +1,11 @@
 10
-data.uz.txt 1
-data.zbcj.txt 1
-data.zbga.txt 1
-data.zbot.txt 1
-data.zbsu.txt 1
-data.zbzg.txt 1
-data.zcjy.txt 1
-data.zcxq.txt 1
-data.zdeb.txt 1
-data.zdil.txt 1
+data.uz.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zbsu.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zcjy.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zdil.txt 2.7546073728089153

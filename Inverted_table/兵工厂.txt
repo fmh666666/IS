@@ -1,5 +1,5 @@
 4
-data.zaqr.txt 1
-data.zebn.txt 3
-data.zebv.txt 1
-data.zess.txt 4
+data.zaqr.txt 3.389731710180695
+data.zebn.txt 6.77946342036139
+data.zebv.txt 3.389731710180695
+data.zess.txt 7.870713291999142

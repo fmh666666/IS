@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.zbjk.txt 1
-data.zcpx.txt 1
-data.zdds.txt 1
-data.zdfl.txt 1
-data.zdga.txt 2
-data.zdlm.txt 2
-data.zeeh.txt 1
-data.zejk.txt 1
-data.zemf.txt 1
-data.zene.txt 1
+data.aj.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zcpx.txt 2.6885433903988862
+data.zdds.txt 2.6885433903988862
+data.zdfl.txt 2.6885433903988862
+data.zdga.txt 4.261240455343955
+data.zdlm.txt 4.261240455343955
+data.zeeh.txt 2.6885433903988862
+data.zejk.txt 2.6885433903988862
+data.zemf.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862

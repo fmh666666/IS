@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.fp.txt 1
-data.op.txt 2
-data.zabe.txt 1
-data.zcgi.txt 1
+data.cf.txt 3.235060386727117
+data.fp.txt 3.235060386727117
+data.op.txt 5.1274494005309625
+data.zabe.txt 3.235060386727117
+data.zcgi.txt 3.235060386727117

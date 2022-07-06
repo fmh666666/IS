@@ -1,8 +1,8 @@
 7
-data.fp.txt 2
-data.qn.txt 1
-data.zahd.txt 2
-data.zair.txt 1
-data.zcgi.txt 1
-data.zdmw.txt 1
-data.zeyy.txt 1
+data.fp.txt 4.757796866583254
+data.qn.txt 3.0018356045764243
+data.zahd.txt 4.757796866583254
+data.zair.txt 3.0018356045764243
+data.zcgi.txt 3.0018356045764243
+data.zdmw.txt 3.0018356045764243
+data.zeyy.txt 3.0018356045764243

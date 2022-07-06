@@ -1,4 +1,4 @@
 3
-data.zbqu.txt 1
-data.zeeh.txt 1
-data.zefu.txt 1
+data.zbqu.txt 3.5891377275982888
+data.zeeh.txt 3.5891377275982888
+data.zefu.txt 3.5891377275982888

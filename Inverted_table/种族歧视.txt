@@ -1,13 +1,13 @@
 12
-data.to.txt 1
-data.tz.txt 1
-data.zafe.txt 1
-data.zawu.txt 1
-data.zbfz.txt 1
-data.zbgd.txt 1
-data.zbpp.txt 1
-data.zcdy.txt 1
-data.zcis.txt 1
-data.zdud.txt 1
-data.zdwl.txt 1
-data.zeyu.txt 1
+data.to.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zafe.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbgd.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zdud.txt 2.628231699761886
+data.zdwl.txt 2.628231699761886
+data.zeyu.txt 2.628231699761886

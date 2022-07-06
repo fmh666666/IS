@@ -1,10 +1,10 @@
 9
-data.zaim.txt 1
-data.zaoc.txt 1
-data.zbnx.txt 1
-data.zbuj.txt 5
-data.zdil.txt 4
-data.zdll.txt 1
-data.zebf.txt 1
-data.zerh.txt 1
-data.zfai.txt 2
+data.zaim.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbuj.txt 7.309337464533731
+data.zdil.txt 6.565571457682201
+data.zdll.txt 2.82763771717948
+data.zebf.txt 2.82763771717948
+data.zerh.txt 2.82763771717948
+data.zfai.txt 4.48169974735425

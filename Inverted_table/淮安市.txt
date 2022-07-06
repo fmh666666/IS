@@ -1,4 +1,4 @@
 3
-data.jd.txt 1
-data.zalj.txt 1
-data.zcts.txt 2
+data.jd.txt 3.5891377275982888
+data.zalj.txt 3.5891377275982888
+data.zcts.txt 5.688648708166832

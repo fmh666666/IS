@@ -1,5 +1,5 @@
 4
-data.zaxj.txt 1
-data.zdmw.txt 1
-data.zdqx.txt 1
-data.zeam.txt 1
+data.zaxj.txt 3.389731710180695
+data.zdmw.txt 3.389731710180695
+data.zdqx.txt 3.389731710180695
+data.zeam.txt 3.389731710180695

@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zcdl.txt 1
-data.zcic.txt 2
-data.zcts.txt 1
-data.zczl.txt 1
-data.zebc.txt 1
-data.zedd.txt 1
-data.zewd.txt 1
+data.gw.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zcic.txt 4.611097637722987
+data.zcts.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zewd.txt 2.9092786962624935

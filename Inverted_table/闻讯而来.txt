@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zbcj.txt 1
-data.zcic.txt 1
-data.zebv.txt 1
-data.zesi.txt 1
+data.kt.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zcic.txt 3.235060386727117
+data.zebv.txt 3.235060386727117
+data.zesi.txt 3.235060386727117

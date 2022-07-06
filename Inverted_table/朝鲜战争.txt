@@ -1,8 +1,8 @@
 7
-data.fp.txt 1
-data.op.txt 1
-data.zbnp.txt 1
-data.zbwa.txt 1
-data.zckd.txt 1
-data.zcts.txt 1
-data.zegk.txt 2
+data.fp.txt 3.0018356045764243
+data.op.txt 3.0018356045764243
+data.zbnp.txt 3.0018356045764243
+data.zbwa.txt 3.0018356045764243
+data.zckd.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zegk.txt 4.757796866583254

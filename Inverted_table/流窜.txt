@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.fp.txt 1
-data.op.txt 1
-data.zagb.txt 1
-data.zagr.txt 1
-data.zahp.txt 1
-data.zajo.txt 1
-data.zanh.txt 1
-data.zbux.txt 2
-data.zddv.txt 1
+data.be.txt 2.7546073728089153
+data.fp.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zagb.txt 2.7546073728089153
+data.zagr.txt 2.7546073728089153
+data.zahp.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zanh.txt 2.7546073728089153
+data.zbux.txt 4.365949390112154
+data.zddv.txt 2.7546073728089153

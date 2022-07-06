@@ -1,10 +1,10 @@
 9
-data.ha.txt 1
-data.zahd.txt 3
-data.zaun.txt 1
-data.zciq.txt 5
-data.zdlw.txt 1
-data.zeds.txt 2
-data.zewp.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.ha.txt 2.82763771717948
+data.zahd.txt 5.65527543435896
+data.zaun.txt 2.82763771717948
+data.zciq.txt 7.309337464533731
+data.zdlw.txt 2.82763771717948
+data.zeds.txt 4.48169974735425
+data.zewp.txt 2.82763771717948
+data.zfai.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

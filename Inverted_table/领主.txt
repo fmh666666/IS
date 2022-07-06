@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zcih.txt 1
-data.zcqe.txt 13
-data.zdgt.txt 1
-data.zdst.txt 7
+data.tz.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zcqe.txt 12.317023086559065
+data.zdgt.txt 3.235060386727117
+data.zdst.txt 9.70518116018135

@@ -1,4 +1,4 @@
 3
-data.zapf.txt 1
-data.zbuj.txt 1
-data.zenn.txt 1
+data.zapf.txt 3.5891377275982888
+data.zbuj.txt 3.5891377275982888
+data.zenn.txt 3.5891377275982888

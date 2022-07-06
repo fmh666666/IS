@@ -1,9 +1,9 @@
 8
-data.cz.txt 1
-data.zaxx.txt 1
-data.zbkj.txt 1
-data.zdme.txt 1
-data.zeay.txt 1
-data.zfai.txt 8
-data.zfaj.txt 5
-data.zfcp.txt 1
+data.cz.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zfai.txt 9.222195275445975
+data.zfaj.txt 7.52037633398548
+data.zfcp.txt 2.9092786962624935

@@ -1,12 +1,12 @@
 11
-data.ee.txt 1
-data.hp.txt 1
-data.zail.txt 1
-data.zcbe.txt 1
-data.zchw.txt 1
-data.zcic.txt 1
-data.zcqg.txt 1
-data.zcww.txt 1
-data.zdic.txt 1
-data.zefd.txt 1
-data.zefs.txt 1
+data.ee.txt 2.6885433903988862
+data.hp.txt 2.6885433903988862
+data.zail.txt 2.6885433903988862
+data.zcbe.txt 2.6885433903988862
+data.zchw.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zcqg.txt 2.6885433903988862
+data.zcww.txt 2.6885433903988862
+data.zdic.txt 2.6885433903988862
+data.zefd.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862

@@ -1,13 +1,13 @@
 12
-data.ee.txt 1
-data.zacw.txt 2
-data.zbhd.txt 1
-data.zbpx.txt 1
-data.zbye.txt 1
-data.zcih.txt 1
-data.zdfl.txt 1
-data.zdle.txt 1
-data.zedo.txt 1
-data.zeoo.txt 1
-data.zeqh.txt 1
-data.zezy.txt 1
+data.ee.txt 2.628231699761886
+data.zacw.txt 4.165648687329214
+data.zbhd.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zbye.txt 2.628231699761886
+data.zcih.txt 2.628231699761886
+data.zdfl.txt 2.628231699761886
+data.zdle.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886
+data.zeqh.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

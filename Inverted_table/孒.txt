@@ -1,13 +1,13 @@
 12
-data.bs.txt 2
-data.hp.txt 1
-data.mo.txt 1
-data.to.txt 1
-data.tv.txt 1
-data.zadv.txt 1
-data.zalj.txt 1
-data.zapf.txt 1
-data.zazx.txt 2
-data.zbua.txt 6
-data.zeaf.txt 1
-data.zeos.txt 1
+data.bs.txt 4.165648687329214
+data.hp.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zalj.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zazx.txt 4.165648687329214
+data.zbua.txt 7.378379198634354
+data.zeaf.txt 2.628231699761886
+data.zeos.txt 2.628231699761886

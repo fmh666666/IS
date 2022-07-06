@@ -1,6 +1,6 @@
 5
-data.ry.txt 1
-data.zasw.txt 1
-data.zcdv.txt 1
-data.zdod.txt 1
-data.zeay.txt 1
+data.ry.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdod.txt 3.235060386727117
+data.zeay.txt 3.235060386727117

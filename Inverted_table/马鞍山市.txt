@@ -1,4 +1,4 @@
 3
-data.co.txt 2
-data.zctm.txt 1
-data.zcue.txt 1
+data.co.txt 5.688648708166832
+data.zctm.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.zbhv.txt 1
-data.zcfx.txt 1
+data.mx.txt 3.5891377275982888
+data.zbhv.txt 3.5891377275982888
+data.zcfx.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zcku.txt 3
-data.zcxr.txt 1
-data.zduk.txt 2
-data.zelj.txt 2
-data.zevq.txt 1
+data.zcku.txt 6.470120773454234
+data.zcxr.txt 3.235060386727117
+data.zduk.txt 5.1274494005309625
+data.zelj.txt 5.1274494005309625
+data.zevq.txt 3.235060386727117

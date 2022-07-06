@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.wc.txt 1
-data.zake.txt 1
-data.zamp.txt 1
-data.zcrg.txt 1
-data.zdgt.txt 1
+data.hp.txt 3.1086847136800873
+data.wc.txt 3.1086847136800873
+data.zake.txt 3.1086847136800873
+data.zamp.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873

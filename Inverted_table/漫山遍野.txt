@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.zard.txt 1
-data.zawo.txt 1
-data.zazg.txt 1
-data.zbph.txt 1
-data.zcpc.txt 1
-data.zeec.txt 1
-data.zekw.txt 2
+data.cf.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zbph.txt 2.9092786962624935
+data.zcpc.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zekw.txt 4.611097637722987

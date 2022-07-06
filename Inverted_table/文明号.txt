@@ -1,5 +1,5 @@
 4
-data.hg.txt 1
-data.zcih.txt 1
-data.zfai.txt 6
-data.zfaj.txt 4
+data.hg.txt 3.389731710180695
+data.zcih.txt 3.389731710180695
+data.zfai.txt 9.516180001030515
+data.zfaj.txt 7.870713291999142

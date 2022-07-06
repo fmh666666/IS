@@ -1,6 +1,6 @@
 5
-data.gw.txt 2
-data.zafi.txt 1
-data.zbwq.txt 1
-data.zcku.txt 1
-data.zdgv.txt 1
+data.gw.txt 5.1274494005309625
+data.zafi.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zcku.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117

@@ -1,11 +1,11 @@
 10
-data.mo.txt 1
-data.zadv.txt 1
-data.zavx.txt 6
-data.zawb.txt 1
-data.zbcc.txt 1
-data.zbkj.txt 1
-data.zcvt.txt 1
-data.zdme.txt 1
-data.zeoo.txt 5
-data.zeqn.txt 1
+data.mo.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zavx.txt 7.733160566391275
+data.zawb.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zcvt.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zeoo.txt 7.120556762921068
+data.zeqn.txt 2.7546073728089153

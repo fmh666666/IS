@@ -1,8 +1,8 @@
 7
-data.fj.txt 1
-data.vz.txt 1
-data.zbqu.txt 1
-data.zcaq.txt 1
-data.zctn.txt 1
-data.zdvl.txt 1
-data.zeqh.txt 1
+data.fj.txt 3.0018356045764243
+data.vz.txt 3.0018356045764243
+data.zbqu.txt 3.0018356045764243
+data.zcaq.txt 3.0018356045764243
+data.zctn.txt 3.0018356045764243
+data.zdvl.txt 3.0018356045764243
+data.zeqh.txt 3.0018356045764243

@@ -1,11 +1,11 @@
 10
-data.zadv.txt 1
-data.zake.txt 1
-data.zavg.txt 1
-data.zbcc.txt 1
-data.zcft.txt 1
-data.zcgi.txt 1
-data.zdof.txt 1
-data.zdrq.txt 1
-data.zdzg.txt 1
-data.zeve.txt 1
+data.zadv.txt 2.7546073728089153
+data.zake.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zcft.txt 2.7546073728089153
+data.zcgi.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zdrq.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zeve.txt 2.7546073728089153

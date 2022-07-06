@@ -1,8 +1,8 @@
 7
-data.zbtj.txt 1
-data.zbts.txt 1
-data.zenn.txt 2
-data.zenw.txt 1
-data.zesi.txt 2
-data.zeve.txt 1
-data.zfae.txt 1
+data.zbtj.txt 3.0018356045764243
+data.zbts.txt 3.0018356045764243
+data.zenn.txt 4.757796866583254
+data.zenw.txt 3.0018356045764243
+data.zesi.txt 4.757796866583254
+data.zeve.txt 3.0018356045764243
+data.zfae.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zazw.txt 5
-data.zazx.txt 6
-data.zcfx.txt 1
-data.zdod.txt 1
+data.tz.txt 3.235060386727117
+data.zazw.txt 8.362509787258078
+data.zazx.txt 9.081962699831948
+data.zcfx.txt 3.235060386727117
+data.zdod.txt 3.235060386727117

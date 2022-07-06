@@ -1,9 +1,9 @@
 8
-data.qn.txt 1
-data.zaqf.txt 1
-data.zbcj.txt 1
-data.zcdy.txt 1
-data.zedy.txt 1
-data.zesq.txt 1
-data.zeve.txt 1
-data.zfae.txt 1
+data.qn.txt 2.9092786962624935
+data.zaqf.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zedy.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935
+data.zeve.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

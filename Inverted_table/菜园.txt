@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.hg.txt 2
-data.zawb.txt 2
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zbga.txt 1
-data.zbsm.txt 1
-data.zbvm.txt 1
-data.zcfx.txt 2
-data.zcvi.txt 1
-data.zeds.txt 1
+data.fp.txt 2.6885433903988862
+data.hg.txt 4.261240455343955
+data.zawb.txt 4.261240455343955
+data.zawc.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zbsm.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcfx.txt 4.261240455343955
+data.zcvi.txt 2.6885433903988862
+data.zeds.txt 2.6885433903988862

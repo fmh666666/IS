@@ -1,9 +1,9 @@
 8
-data.tv.txt 1
-data.zabx.txt 1
-data.zadv.txt 1
-data.zbjq.txt 2
-data.zbzf.txt 1
-data.zdnc.txt 2
-data.zdpw.txt 1
-data.zduo.txt 1
+data.tv.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbjq.txt 4.611097637722987
+data.zbzf.txt 2.9092786962624935
+data.zdnc.txt 4.611097637722987
+data.zdpw.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935

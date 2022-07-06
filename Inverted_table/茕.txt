@@ -1,10 +1,10 @@
 9
-data.tz.txt 2
-data.xk.txt 1
-data.zavg.txt 1
-data.zazo.txt 1
-data.zdby.txt 1
-data.zeos.txt 2
-data.zeqh.txt 1
-data.zeqv.txt 1
-data.zesq.txt 1
+data.tz.txt 4.48169974735425
+data.xk.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zdby.txt 2.82763771717948
+data.zeos.txt 4.48169974735425
+data.zeqh.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948
+data.zesq.txt 2.82763771717948

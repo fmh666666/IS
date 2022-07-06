@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.zaxj.txt 2
-data.zbse.txt 2
-data.zbta.txt 1
-data.zeai.txt 2
-data.zeaj.txt 6
+data.dg.txt 3.1086847136800873
+data.zaxj.txt 4.927148697748023
+data.zbse.txt 4.927148697748023
+data.zbta.txt 3.1086847136800873
+data.zeai.txt 4.927148697748023
+data.zeaj.txt 8.727181332075027

@@ -1,6 +1,6 @@
 5
-data.ok.txt 1
-data.tv.txt 1
-data.zasq.txt 1
-data.zazw.txt 1
-data.zfaj.txt 1
+data.ok.txt 3.235060386727117
+data.tv.txt 3.235060386727117
+data.zasq.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

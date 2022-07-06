@@ -1,11 +1,11 @@
 10
-data.hc.txt 1
-data.zayv.txt 1
-data.zbpm.txt 1
-data.zcni.txt 1
-data.zcpa.txt 1
-data.zctn.txt 1
-data.zczp.txt 2
-data.zdbf.txt 1
-data.zeyg.txt 1
-data.zfcg.txt 1
+data.hc.txt 2.7546073728089153
+data.zayv.txt 2.7546073728089153
+data.zbpm.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zctn.txt 2.7546073728089153
+data.zczp.txt 4.365949390112154
+data.zdbf.txt 2.7546073728089153
+data.zeyg.txt 2.7546073728089153
+data.zfcg.txt 2.7546073728089153

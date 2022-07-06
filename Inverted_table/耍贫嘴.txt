@@ -1,3 +1,3 @@
 2
-data.zaeh.txt 1
-data.zexu.txt 1
+data.zaeh.txt 3.8701847240988965
+data.zexu.txt 3.8701847240988965

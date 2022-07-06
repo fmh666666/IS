@@ -1,4 +1,4 @@
 3
-data.zazo.txt 1
-data.zdkc.txt 1
-data.zdou.txt 1
+data.zazo.txt 3.5891377275982888
+data.zdkc.txt 3.5891377275982888
+data.zdou.txt 3.5891377275982888

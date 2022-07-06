@@ -1,12 +1,12 @@
 11
-data.zabx.txt 1
-data.zauy.txt 1
-data.zbdx.txt 1
-data.zbhd.txt 1
-data.zbuj.txt 3
-data.zcih.txt 1
-data.zcpb.txt 1
-data.zcqs.txt 1
-data.zcrg.txt 1
-data.zdeb.txt 1
-data.zdfl.txt 1
+data.zabx.txt 2.6885433903988862
+data.zauy.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbuj.txt 5.3770867807977725
+data.zcih.txt 2.6885433903988862
+data.zcpb.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zcrg.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zdfl.txt 2.6885433903988862

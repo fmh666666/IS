@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.mk.txt 1
-data.zajh.txt 1
-data.zajo.txt 5
-data.zawu.txt 1
-data.zcdv.txt 1
-data.zcgo.txt 1
-data.zdpw.txt 2
-data.zejn.txt 1
+data.hp.txt 2.82763771717948
+data.mk.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zajo.txt 7.309337464533731
+data.zawu.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zdpw.txt 4.48169974735425
+data.zejn.txt 2.82763771717948

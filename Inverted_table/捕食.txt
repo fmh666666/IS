@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.gw.txt 1
-data.op.txt 2
-data.ry.txt 1
-data.zabe.txt 1
-data.zcqs.txt 1
-data.zcue.txt 1
-data.zdic.txt 1
-data.zdpg.txt 1
-data.zerv.txt 1
+data.bb.txt 2.7546073728089153
+data.gw.txt 2.7546073728089153
+data.op.txt 4.365949390112154
+data.ry.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zcqs.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zdic.txt 2.7546073728089153
+data.zdpg.txt 2.7546073728089153
+data.zerv.txt 2.7546073728089153

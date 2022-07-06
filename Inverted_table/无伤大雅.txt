@@ -1,12 +1,12 @@
 11
-data.zaxp.txt 2
-data.zbkj.txt 1
-data.zbqu.txt 1
-data.zbzf.txt 1
-data.zcfn.txt 1
-data.zcon.txt 1
-data.zcrk.txt 1
-data.zdaw.txt 1
-data.zdvl.txt 1
-data.zebn.txt 1
-data.zefv.txt 1
+data.zaxp.txt 4.261240455343955
+data.zbkj.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcrk.txt 2.6885433903988862
+data.zdaw.txt 2.6885433903988862
+data.zdvl.txt 2.6885433903988862
+data.zebn.txt 2.6885433903988862
+data.zefv.txt 2.6885433903988862

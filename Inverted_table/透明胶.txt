@@ -1,12 +1,12 @@
 11
-data.zaic.txt 1
-data.zass.txt 1
-data.zazx.txt 1
-data.zcon.txt 1
-data.zcpx.txt 1
-data.zcvt.txt 1
-data.zddb.txt 1
-data.zdro.txt 1
-data.zdtr.txt 1
-data.zeos.txt 1
-data.zeta.txt 1
+data.zaic.txt 2.6885433903988862
+data.zass.txt 2.6885433903988862
+data.zazx.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcpx.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zdro.txt 2.6885433903988862
+data.zdtr.txt 2.6885433903988862
+data.zeos.txt 2.6885433903988862
+data.zeta.txt 2.6885433903988862

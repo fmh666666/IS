@@ -1,3 +1,3 @@
 2
-data.zegl.txt 4
-data.zegn.txt 2
+data.zegl.txt 8.986290643289122
+data.zegn.txt 6.134097658560606

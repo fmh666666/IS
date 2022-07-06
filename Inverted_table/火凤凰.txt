@@ -1,9 +1,9 @@
 8
-data.ye.txt 1
-data.zbfx.txt 1
-data.zbjk.txt 1
-data.zcni.txt 2
-data.zdey.txt 1
-data.zdpz.txt 1
-data.zeag.txt 1
-data.zeaj.txt 1
+data.ye.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zcni.txt 4.611097637722987
+data.zdey.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935

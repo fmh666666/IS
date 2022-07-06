@@ -1,10 +1,10 @@
 9
-data.zadv.txt 1
-data.zane.txt 1
-data.zbnx.txt 1
-data.zdga.txt 4
-data.zdju.txt 1
-data.zdkc.txt 1
-data.zegz.txt 1
-data.zeoh.txt 1
-data.zeun.txt 1
+data.zadv.txt 2.82763771717948
+data.zane.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zdga.txt 6.565571457682201
+data.zdju.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zegz.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zeun.txt 2.82763771717948

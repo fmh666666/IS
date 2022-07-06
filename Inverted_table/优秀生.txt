@@ -1,3 +1,3 @@
 2
-data.zeaj.txt 7
-data.zelt.txt 1
+data.zeaj.txt 11.61055417229669
+data.zelt.txt 3.8701847240988965

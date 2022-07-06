@@ -1,12 +1,12 @@
 11
-data.hz.txt 1
-data.zabe.txt 1
-data.zaeh.txt 1
-data.zaim.txt 1
-data.zajo.txt 1
-data.zbyv.txt 1
-data.zcln.txt 1
-data.zdkc.txt 1
-data.zeai.txt 1
-data.zegn.txt 1
-data.zexv.txt 1
+data.hz.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zaeh.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zbyv.txt 2.6885433903988862
+data.zcln.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zegn.txt 2.6885433903988862
+data.zexv.txt 2.6885433903988862

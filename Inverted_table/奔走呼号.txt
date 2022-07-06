@@ -1,10 +1,10 @@
 9
-data.zafe.txt 2
-data.zbkj.txt 1
-data.zbvg.txt 1
-data.zcls.txt 1
-data.zcrn.txt 1
-data.zctp.txt 1
-data.zdkk.txt 1
-data.zduc.txt 1
-data.zedy.txt 1
+data.zafe.txt 4.48169974735425
+data.zbkj.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zcls.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdkk.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zedy.txt 2.82763771717948

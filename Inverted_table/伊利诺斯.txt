@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zail.txt 1
-data.zaoc.txt 1
-data.zapf.txt 1
-data.zbnp.txt 1
-data.zbua.txt 1
-data.zcyv.txt 1
-data.zehp.txt 1
+data.bs.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zapf.txt 2.9092786962624935
+data.zbnp.txt 2.9092786962624935
+data.zbua.txt 2.9092786962624935
+data.zcyv.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935

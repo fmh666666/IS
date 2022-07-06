@@ -1,6 +1,6 @@
 5
-data.zawu.txt 1
-data.zdcj.txt 1
-data.zeeq.txt 1
-data.zeoo.txt 2
-data.zevq.txt 3
+data.zawu.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117
+data.zeoo.txt 5.1274494005309625
+data.zevq.txt 6.470120773454234

@@ -1,9 +1,9 @@
 8
-data.ng.txt 1
-data.zabe.txt 1
-data.zadv.txt 1
-data.zbfz.txt 1
-data.zcku.txt 1
-data.zcpx.txt 1
-data.zdcw.txt 1
-data.zddx.txt 1
+data.ng.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935

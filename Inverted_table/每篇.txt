@@ -1,14 +1,14 @@
 13
-data.tv.txt 2
-data.zaoc.txt 1
-data.zasw.txt 1
-data.zbgu.txt 1
-data.zblh.txt 1
-data.zbls.txt 1
-data.zbrj.txt 1
-data.zcdz.txt 1
-data.zcts.txt 1
-data.zebf.txt 1
-data.zebn.txt 1
-data.zeos.txt 1
-data.zfaj.txt 1
+data.tv.txt 4.077712785060798
+data.zaoc.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zblh.txt 2.5727503226135906
+data.zbls.txt 2.5727503226135906
+data.zbrj.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcts.txt 2.5727503226135906
+data.zebf.txt 2.5727503226135906
+data.zebn.txt 2.5727503226135906
+data.zeos.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

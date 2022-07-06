@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zcyx.txt 1
-data.zczl.txt 1
-data.zdnh.txt 3
-data.zezm.txt 1
+data.zawc.txt 3.235060386727117
+data.zcyx.txt 3.235060386727117
+data.zczl.txt 3.235060386727117
+data.zdnh.txt 6.470120773454234
+data.zezm.txt 3.235060386727117

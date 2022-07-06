@@ -1,11 +1,11 @@
 10
-data.zaoy.txt 1
-data.zbel.txt 1
-data.zcdl.txt 1
-data.zcft.txt 1
-data.zdvl.txt 1
-data.zdxw.txt 1
-data.zedy.txt 1
-data.zeeh.txt 3
-data.zegz.txt 1
-data.zene.txt 1
+data.zaoy.txt 2.7546073728089153
+data.zbel.txt 2.7546073728089153
+data.zcdl.txt 2.7546073728089153
+data.zcft.txt 2.7546073728089153
+data.zdvl.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153
+data.zeeh.txt 5.509214745617831
+data.zegz.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

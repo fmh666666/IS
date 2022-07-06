@@ -1,4 +1,4 @@
 3
-data.zenn.txt 1
-data.zezm.txt 1
-data.zezn.txt 3
+data.zenn.txt 3.5891377275982888
+data.zezm.txt 3.5891377275982888
+data.zezn.txt 7.1782754551965775

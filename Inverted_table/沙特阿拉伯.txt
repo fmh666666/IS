@@ -1,8 +1,8 @@
 7
-data.ev.txt 1
-data.mx.txt 1
-data.zavg.txt 1
-data.zazo.txt 1
-data.zbvm.txt 2
-data.zcic.txt 1
-data.zddm.txt 1
+data.ev.txt 3.0018356045764243
+data.mx.txt 3.0018356045764243
+data.zavg.txt 3.0018356045764243
+data.zazo.txt 3.0018356045764243
+data.zbvm.txt 4.757796866583254
+data.zcic.txt 3.0018356045764243
+data.zddm.txt 3.0018356045764243

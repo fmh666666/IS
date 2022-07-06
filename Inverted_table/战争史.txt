@@ -1,3 +1,3 @@
 2
-data.zbcj.txt 2
-data.zcts.txt 1
+data.zbcj.txt 6.134097658560606
+data.zcts.txt 3.8701847240988965

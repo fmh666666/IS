@@ -1,8 +1,8 @@
 7
-data.ok.txt 1
-data.zajn.txt 1
-data.zbxw.txt 1
-data.zdgt.txt 1
-data.zdpg.txt 1
-data.zesi.txt 1
-data.zexk.txt 1
+data.ok.txt 3.0018356045764243
+data.zajn.txt 3.0018356045764243
+data.zbxw.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243
+data.zdpg.txt 3.0018356045764243
+data.zesi.txt 3.0018356045764243
+data.zexk.txt 3.0018356045764243

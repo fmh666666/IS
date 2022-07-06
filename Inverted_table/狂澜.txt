@@ -1,12 +1,12 @@
 11
-data.ev.txt 1
-data.zamr.txt 5
-data.zapr.txt 1
-data.zbil.txt 1
-data.zbse.txt 1
-data.zcaq.txt 4
-data.zckd.txt 3
-data.zcko.txt 1
-data.zdgo.txt 1
-data.zdst.txt 1
-data.zedd.txt 3
+data.ev.txt 2.6885433903988862
+data.zamr.txt 6.949783845742841
+data.zapr.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbse.txt 2.6885433903988862
+data.zcaq.txt 6.2426044324908965
+data.zckd.txt 5.3770867807977725
+data.zcko.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zedd.txt 5.3770867807977725

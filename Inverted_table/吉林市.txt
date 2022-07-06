@@ -1,9 +1,9 @@
 8
-data.zabx.txt 3
-data.zbnx.txt 2
-data.zbor.txt 1
-data.zcuh.txt 2
-data.zduk.txt 2
-data.zeez.txt 1
-data.zezm.txt 1
-data.zezy.txt 2
+data.zabx.txt 5.818557392524987
+data.zbnx.txt 4.611097637722987
+data.zbor.txt 2.9092786962624935
+data.zcuh.txt 4.611097637722987
+data.zduk.txt 4.611097637722987
+data.zeez.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935
+data.zezy.txt 4.611097637722987

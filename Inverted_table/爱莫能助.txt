@@ -1,7 +1,7 @@
 6
-data.zabj.txt 1
-data.zblh.txt 1
-data.zcve.txt 1
-data.zeec.txt 1
-data.zeel.txt 1
-data.zevt.txt 1
+data.zabj.txt 3.1086847136800873
+data.zblh.txt 3.1086847136800873
+data.zcve.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zeel.txt 3.1086847136800873
+data.zevt.txt 3.1086847136800873

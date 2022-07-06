@@ -1,9 +1,9 @@
 8
-data.zbse.txt 1
-data.zcln.txt 1
-data.zeeh.txt 1
-data.zefd.txt 1
-data.zemb.txt 1
-data.zeqh.txt 1
-data.zeqv.txt 2
-data.zesi.txt 2
+data.zbse.txt 2.9092786962624935
+data.zcln.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935
+data.zeqv.txt 4.611097637722987
+data.zesi.txt 4.611097637722987

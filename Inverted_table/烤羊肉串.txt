@@ -1,11 +1,11 @@
 10
-data.by.txt 1
-data.pq.txt 1
-data.zaqr.txt 1
-data.zcbm.txt 1
-data.zcnn.txt 1
-data.zczl.txt 1
-data.zebv.txt 1
-data.zefp.txt 1
-data.zefw.txt 1
-data.zelt.txt 1
+data.by.txt 2.7546073728089153
+data.pq.txt 2.7546073728089153
+data.zaqr.txt 2.7546073728089153
+data.zcbm.txt 2.7546073728089153
+data.zcnn.txt 2.7546073728089153
+data.zczl.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zefw.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

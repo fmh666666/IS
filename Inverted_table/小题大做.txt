@@ -1,11 +1,11 @@
 10
-data.ka.txt 1
-data.nh.txt 1
-data.zarr.txt 1
-data.zasq.txt 1
-data.zavg.txt 1
-data.zbcj.txt 1
-data.zbdb.txt 1
-data.zcll.txt 1
-data.zdcy.txt 1
-data.zdep.txt 1
+data.ka.txt 2.7546073728089153
+data.nh.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zasq.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zcll.txt 2.7546073728089153
+data.zdcy.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153

@@ -1,7 +1,7 @@
 6
-data.tj.txt 1
-data.zajn.txt 1
-data.zasj.txt 1
-data.zdhw.txt 1
-data.zdzg.txt 1
-data.zegz.txt 1
+data.tj.txt 3.1086847136800873
+data.zajn.txt 3.1086847136800873
+data.zasj.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873
+data.zdzg.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873

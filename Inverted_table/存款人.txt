@@ -1,7 +1,7 @@
 6
-data.zbkv.txt 1
-data.zcdy.txt 1
-data.zcue.txt 1
-data.zddl.txt 1
-data.zeac.txt 1
-data.zerh.txt 2
+data.zbkv.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zddl.txt 3.1086847136800873
+data.zeac.txt 3.1086847136800873
+data.zerh.txt 4.927148697748023

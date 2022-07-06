@@ -1,11 +1,11 @@
 10
-data.mk.txt 3
-data.zaip.txt 1
-data.zcdy.txt 3
-data.zcfn.txt 1
-data.zeos.txt 3
-data.zerw.txt 1
-data.zexm.txt 1
-data.zeyu.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.mk.txt 5.509214745617831
+data.zaip.txt 2.7546073728089153
+data.zcdy.txt 5.509214745617831
+data.zcfn.txt 2.7546073728089153
+data.zeos.txt 5.509214745617831
+data.zerw.txt 2.7546073728089153
+data.zexm.txt 2.7546073728089153
+data.zeyu.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

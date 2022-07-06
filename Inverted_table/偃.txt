@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.ka.txt 1
-data.tv.txt 19
-data.tz.txt 24
-data.zagr.txt 1
-data.zajo.txt 1
-data.zawb.txt 1
-data.zaxj.txt 1
-data.zaxk.txt 1
-data.zbhe.txt 1
-data.zcll.txt 1
+data.ga.txt 2.6885433903988862
+data.ka.txt 2.6885433903988862
+data.tv.txt 11.61969121328867
+data.tz.txt 12.485208864981793
+data.zagr.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zaxj.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbhe.txt 2.6885433903988862
+data.zcll.txt 2.6885433903988862

@@ -1,7 +1,7 @@
 6
-data.fz.txt 1
-data.hp.txt 2
-data.kt.txt 1
-data.zbyb.txt 1
-data.zcql.txt 1
-data.zeel.txt 1
+data.fz.txt 3.1086847136800873
+data.hp.txt 4.927148697748023
+data.kt.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zeel.txt 3.1086847136800873

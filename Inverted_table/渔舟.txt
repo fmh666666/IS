@@ -1,11 +1,11 @@
 10
-data.kq.txt 1
-data.ud.txt 1
-data.yx.txt 1
-data.zahd.txt 1
-data.zaqw.txt 1
-data.zbia.txt 5
-data.zcdg.txt 1
-data.zcpa.txt 1
-data.zdgt.txt 1
-data.zdpw.txt 1
+data.kq.txt 2.7546073728089153
+data.ud.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zahd.txt 2.7546073728089153
+data.zaqw.txt 2.7546073728089153
+data.zbia.txt 7.120556762921068
+data.zcdg.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153

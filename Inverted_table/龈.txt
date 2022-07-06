@@ -1,6 +1,6 @@
 5
-data.zard.txt 1
-data.zdar.txt 5
-data.zdga.txt 1
-data.zefw.txt 1
-data.zene.txt 1
+data.zard.txt 3.235060386727117
+data.zdar.txt 8.362509787258078
+data.zdga.txt 3.235060386727117
+data.zefw.txt 3.235060386727117
+data.zene.txt 3.235060386727117

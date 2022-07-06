@@ -1,4 +1,4 @@
 3
-data.zaim.txt 2
-data.zawo.txt 2
-data.zduc.txt 1
+data.zaim.txt 5.688648708166832
+data.zawo.txt 5.688648708166832
+data.zduc.txt 3.5891377275982888

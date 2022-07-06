@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.ha.txt 1
-data.hp.txt 1
-data.pa.txt 1
-data.zayv.txt 2
-data.zbjh.txt 1
-data.zcse.txt 1
-data.zctp.txt 1
-data.zdaq.txt 1
-data.zdep.txt 1
-data.zeec.txt 1
-data.zeeh.txt 1
+data.ga.txt 2.628231699761886
+data.ha.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.pa.txt 2.628231699761886
+data.zayv.txt 4.165648687329214
+data.zbjh.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zdaq.txt 2.628231699761886
+data.zdep.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zeeh.txt 2.628231699761886

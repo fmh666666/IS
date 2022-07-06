@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zafe.txt 1
-data.zdaw.txt 1
-data.zduo.txt 1
-data.zeun.txt 1
-data.zeyu.txt 4
+data.hp.txt 3.1086847136800873
+data.zafe.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873
+data.zeyu.txt 7.21814237484067

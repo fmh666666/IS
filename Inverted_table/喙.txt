@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zaxk.txt 1
-data.zcem.txt 6
+data.zabe.txt 3.5891377275982888
+data.zaxk.txt 3.5891377275982888
+data.zcem.txt 10.0759834655157

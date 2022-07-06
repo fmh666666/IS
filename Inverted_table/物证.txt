@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.op.txt 2
-data.zbjk.txt 1
-data.zccx.txt 1
-data.zdbf.txt 1
-data.zfai.txt 1
+data.fp.txt 3.1086847136800873
+data.op.txt 4.927148697748023
+data.zbjk.txt 3.1086847136800873
+data.zccx.txt 3.1086847136800873
+data.zdbf.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.mx.txt 1
-data.zacw.txt 1
-data.zayd.txt 1
-data.zbgd.txt 1
-data.zcls.txt 6
-data.zctm.txt 6
-data.zctp.txt 3
-data.zewv.txt 2
+data.mx.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbgd.txt 2.9092786962624935
+data.zcls.txt 8.16737786758984
+data.zctm.txt 8.16737786758984
+data.zctp.txt 5.818557392524987
+data.zewv.txt 4.611097637722987

@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.op.txt 1
-data.zajo.txt 2
-data.zbeb.txt 1
-data.zbkv.txt 1
-data.zbph.txt 1
-data.zcue.txt 1
-data.zcvq.txt 1
-data.zdwv.txt 2
-data.zebv.txt 1
-data.zfai.txt 1
+data.bs.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zajo.txt 4.261240455343955
+data.zbeb.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zcvq.txt 2.6885433903988862
+data.zdwv.txt 4.261240455343955
+data.zebv.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

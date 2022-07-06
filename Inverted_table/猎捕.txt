@@ -1,5 +1,5 @@
 4
-data.zawc.txt 1
-data.zcxr.txt 2
-data.zdcw.txt 1
-data.zfai.txt 1
+data.zawc.txt 3.389731710180695
+data.zcxr.txt 5.372597648141796
+data.zdcw.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

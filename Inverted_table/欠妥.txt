@@ -1,5 +1,5 @@
 4
-data.zawc.txt 2
-data.zbfr.txt 1
-data.zbpx.txt 1
-data.zbta.txt 1
+data.zawc.txt 5.372597648141796
+data.zbfr.txt 3.389731710180695
+data.zbpx.txt 3.389731710180695
+data.zbta.txt 3.389731710180695

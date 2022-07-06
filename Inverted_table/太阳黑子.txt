@@ -1,11 +1,11 @@
 10
-data.qb.txt 1
-data.tz.txt 1
-data.zbcc.txt 1
-data.zbkj.txt 2
-data.zcqs.txt 5
-data.zdme.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zedo.txt 1
-data.zelt.txt 1
+data.qb.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbkj.txt 4.365949390112154
+data.zcqs.txt 7.120556762921068
+data.zdme.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

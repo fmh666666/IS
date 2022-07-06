@@ -1,14 +1,14 @@
 13
-data.hz.txt 1
-data.zawc.txt 1
-data.zbcv.txt 1
-data.zbla.txt 1
-data.zbpm.txt 1
-data.zbtj.txt 2
-data.zbvf.txt 1
-data.zcdz.txt 1
-data.zcic.txt 1
-data.zcih.txt 1
-data.zclm.txt 1
-data.zcse.txt 1
-data.zdpf.txt 1
+data.hz.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zbcv.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zbpm.txt 2.5727503226135906
+data.zbtj.txt 4.077712785060798
+data.zbvf.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zcih.txt 2.5727503226135906
+data.zclm.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906

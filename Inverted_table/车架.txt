@@ -1,14 +1,14 @@
 13
-data.hz.txt 2
-data.zbaq.txt 1
-data.zbdx.txt 1
-data.zbga.txt 1
-data.zbuj.txt 1
-data.zcfn.txt 1
-data.zcko.txt 1
-data.zcni.txt 1
-data.zdou.txt 1
-data.zejk.txt 11
-data.zejn.txt 6
-data.zeva.txt 1
-data.zfcj.txt 1
+data.hz.txt 4.077712785060798
+data.zbaq.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zbga.txt 2.5727503226135906
+data.zbuj.txt 2.5727503226135906
+data.zcfn.txt 2.5727503226135906
+data.zcko.txt 2.5727503226135906
+data.zcni.txt 2.5727503226135906
+data.zdou.txt 2.5727503226135906
+data.zejk.txt 9.223213430287979
+data.zejn.txt 7.222623281414552
+data.zeva.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

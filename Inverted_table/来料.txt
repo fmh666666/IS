@@ -1,4 +1,4 @@
 3
-data.zcel.txt 3
-data.zcem.txt 2
-data.zdwn.txt 1
+data.zcel.txt 7.1782754551965775
+data.zcem.txt 5.688648708166832
+data.zdwn.txt 3.5891377275982888

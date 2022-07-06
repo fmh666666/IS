@@ -1,10 +1,10 @@
 9
-data.kq.txt 1
-data.zarr.txt 1
-data.zcdy.txt 4
-data.zcdz.txt 1
-data.zcsu.txt 5
-data.zdme.txt 1
-data.zebn.txt 30
-data.zeos.txt 1
-data.zfcj.txt 1
+data.kq.txt 2.82763771717948
+data.zarr.txt 2.82763771717948
+data.zcdy.txt 6.565571457682201
+data.zcdz.txt 2.82763771717948
+data.zcsu.txt 7.309337464533731
+data.zdme.txt 2.82763771717948
+data.zebn.txt 14.008672345561347
+data.zeos.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948

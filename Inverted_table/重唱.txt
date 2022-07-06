@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.wc.txt 1
-data.zbel.txt 1
-data.zcda.txt 1
-data.zcgi.txt 4
-data.zczj.txt 1
-data.zdqz.txt 1
-data.zdzg.txt 4
-data.zeaj.txt 1
+data.fe.txt 2.82763771717948
+data.wc.txt 2.82763771717948
+data.zbel.txt 2.82763771717948
+data.zcda.txt 2.82763771717948
+data.zcgi.txt 6.565571457682201
+data.zczj.txt 2.82763771717948
+data.zdqz.txt 2.82763771717948
+data.zdzg.txt 6.565571457682201
+data.zeaj.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.zblq.txt 1
-data.zdmw.txt 1
-data.zedk.txt 3
+data.zblq.txt 3.5891377275982888
+data.zdmw.txt 3.5891377275982888
+data.zedk.txt 7.1782754551965775

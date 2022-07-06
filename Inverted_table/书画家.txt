@@ -1,6 +1,6 @@
 5
-data.uz.txt 1
-data.yx.txt 2
-data.zanm.txt 1
-data.zbhd.txt 3
-data.zevq.txt 1
+data.uz.txt 3.235060386727117
+data.yx.txt 5.1274494005309625
+data.zanm.txt 3.235060386727117
+data.zbhd.txt 6.470120773454234
+data.zevq.txt 3.235060386727117

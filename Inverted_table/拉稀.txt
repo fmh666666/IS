@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.ev.txt 1
-data.zagr.txt 2
-data.zanm.txt 2
-data.zbfr.txt 6
-data.zbpp.txt 1
-data.zcgi.txt 1
-data.zciy.txt 2
-data.zdlo.txt 1
-data.zeqn.txt 1
-data.zexm.txt 1
-data.zezy.txt 2
+data.aj.txt 2.628231699761886
+data.ev.txt 2.628231699761886
+data.zagr.txt 4.165648687329214
+data.zanm.txt 4.165648687329214
+data.zbfr.txt 7.378379198634354
+data.zbpp.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zciy.txt 4.165648687329214
+data.zdlo.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zexm.txt 2.628231699761886
+data.zezy.txt 4.165648687329214

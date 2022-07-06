@@ -1,6 +1,6 @@
 5
-data.zajo.txt 1
-data.zavx.txt 1
-data.zbts.txt 1
-data.zedd.txt 1
-data.zewn.txt 1
+data.zajo.txt 3.235060386727117
+data.zavx.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zedd.txt 3.235060386727117
+data.zewn.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zcfn.txt 1
-data.zcgo.txt 1
-data.zfcg.txt 1
+data.zcfn.txt 3.5891377275982888
+data.zcgo.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

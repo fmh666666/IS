@@ -1,6 +1,6 @@
 5
-data.fe.txt 2
-data.kq.txt 1
-data.zafk.txt 1
-data.zbpx.txt 2
-data.zcih.txt 1
+data.fe.txt 5.1274494005309625
+data.kq.txt 3.235060386727117
+data.zafk.txt 3.235060386727117
+data.zbpx.txt 5.1274494005309625
+data.zcih.txt 3.235060386727117

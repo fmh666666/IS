@@ -1,14 +1,14 @@
 13
-data.jf.txt 1
-data.qn.txt 1
-data.zalj.txt 1
-data.zarc.txt 1
-data.zbor.txt 1
-data.zcdz.txt 1
-data.zcej.txt 2
-data.zcgi.txt 1
-data.zdlw.txt 1
-data.zdpg.txt 1
-data.zedo.txt 1
-data.zeeh.txt 1
-data.zerv.txt 1
+data.jf.txt 2.5727503226135906
+data.qn.txt 2.5727503226135906
+data.zalj.txt 2.5727503226135906
+data.zarc.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcej.txt 4.077712785060798
+data.zcgi.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zdpg.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zeeh.txt 2.5727503226135906
+data.zerv.txt 2.5727503226135906

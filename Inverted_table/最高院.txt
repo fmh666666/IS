@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zasq.txt 1
-data.zblr.txt 1
-data.zcpc.txt 1
-data.zcue.txt 1
+data.op.txt 5.1274494005309625
+data.zasq.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zcpc.txt 3.235060386727117
+data.zcue.txt 3.235060386727117

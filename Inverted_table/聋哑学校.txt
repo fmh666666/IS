@@ -1,4 +1,4 @@
 3
-data.zbnx.txt 1
-data.zbyv.txt 2
-data.zdwk.txt 1
+data.zbnx.txt 3.5891377275982888
+data.zbyv.txt 5.688648708166832
+data.zdwk.txt 3.5891377275982888

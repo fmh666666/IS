@@ -1,6 +1,6 @@
 5
-data.zbfz.txt 1
-data.zbkf.txt 1
-data.zcxr.txt 1
-data.zebf.txt 1
-data.zewv.txt 1
+data.zbfz.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zebf.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

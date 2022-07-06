@@ -1,5 +1,5 @@
 4
-data.zafe.txt 1
-data.zcee.txt 1
-data.zctn.txt 5
-data.zdcy.txt 1
+data.zafe.txt 3.389731710180695
+data.zcee.txt 3.389731710180695
+data.zctn.txt 8.762329358322491
+data.zdcy.txt 3.389731710180695

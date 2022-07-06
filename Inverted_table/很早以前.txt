@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.gw.txt 1
-data.yx.txt 1
-data.zawu.txt 1
-data.zbdb.txt 1
-data.zbzf.txt 1
-data.zcee.txt 1
-data.zclm.txt 1
-data.zcql.txt 1
-data.zczb.txt 1
-data.zebc.txt 1
+data.fp.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.yx.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zcee.txt 2.6885433903988862
+data.zclm.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zczb.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862

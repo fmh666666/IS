@@ -1,4 +1,4 @@
 3
-data.zajr.txt 1
-data.zcef.txt 1
-data.zeoh.txt 1
+data.zajr.txt 3.5891377275982888
+data.zcef.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888

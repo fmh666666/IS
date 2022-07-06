@@ -1,13 +1,13 @@
 12
-data.vz.txt 2
-data.zbjh.txt 1
-data.zbkv.txt 1
-data.zbmt.txt 2
-data.zbxw.txt 1
-data.zcem.txt 1
-data.zcln.txt 1
-data.zdju.txt 1
-data.zdvl.txt 2
-data.zewd.txt 2
-data.zewg.txt 1
-data.zewv.txt 2
+data.vz.txt 4.165648687329214
+data.zbjh.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zbmt.txt 4.165648687329214
+data.zbxw.txt 2.628231699761886
+data.zcem.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zdju.txt 2.628231699761886
+data.zdvl.txt 4.165648687329214
+data.zewd.txt 4.165648687329214
+data.zewg.txt 2.628231699761886
+data.zewv.txt 4.165648687329214

@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zcak.txt 1
-data.zdmw.txt 1
-data.zene.txt 1
-data.zfcg.txt 1
+data.zawc.txt 3.235060386727117
+data.zcak.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

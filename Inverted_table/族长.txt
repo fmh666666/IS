@@ -1,7 +1,7 @@
 6
-data.tz.txt 1
-data.ud.txt 1
-data.zazo.txt 2
-data.zcql.txt 1
-data.zdmw.txt 1
-data.zeqh.txt 3
+data.tz.txt 3.1086847136800873
+data.ud.txt 3.1086847136800873
+data.zazo.txt 4.927148697748023
+data.zcql.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zeqh.txt 6.2173694273601745

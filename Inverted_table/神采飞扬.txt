@@ -1,7 +1,7 @@
 6
-data.vi.txt 1
-data.zaop.txt 1
-data.zaxk.txt 1
-data.zayd.txt 1
-data.zbvf.txt 2
-data.zfaz.txt 1
+data.vi.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zayd.txt 3.1086847136800873
+data.zbvf.txt 4.927148697748023
+data.zfaz.txt 3.1086847136800873

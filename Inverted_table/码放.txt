@@ -1,6 +1,6 @@
 5
-data.zbdb.txt 1
-data.zbqu.txt 1
-data.zdeq.txt 1
-data.zdwk.txt 1
-data.zedk.txt 2
+data.zbdb.txt 3.235060386727117
+data.zbqu.txt 3.235060386727117
+data.zdeq.txt 3.235060386727117
+data.zdwk.txt 3.235060386727117
+data.zedk.txt 5.1274494005309625

@@ -1,10 +1,10 @@
 9
-data.zasw.txt 1
-data.zazg.txt 1
-data.zbsu.txt 2
-data.zcse.txt 2
-data.zddb.txt 2
-data.zdpg.txt 2
-data.zduk.txt 2
-data.zedk.txt 1
-data.zewn.txt 1
+data.zasw.txt 2.82763771717948
+data.zazg.txt 2.82763771717948
+data.zbsu.txt 4.48169974735425
+data.zcse.txt 4.48169974735425
+data.zddb.txt 4.48169974735425
+data.zdpg.txt 4.48169974735425
+data.zduk.txt 4.48169974735425
+data.zedk.txt 2.82763771717948
+data.zewn.txt 2.82763771717948

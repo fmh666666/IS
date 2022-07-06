@@ -1,4 +1,4 @@
 3
-data.kq.txt 1
-data.zaop.txt 1
-data.zelt.txt 7
+data.kq.txt 3.5891377275982888
+data.zaop.txt 3.5891377275982888
+data.zelt.txt 10.767413182794865

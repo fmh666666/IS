@@ -1,9 +1,9 @@
 8
-data.zasq.txt 2
-data.zbaq.txt 1
-data.zbta.txt 1
-data.zcko.txt 1
-data.zcse.txt 1
-data.zdeq.txt 2
-data.zdst.txt 1
-data.zfaj.txt 1
+data.zasq.txt 4.611097637722987
+data.zbaq.txt 2.9092786962624935
+data.zbta.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdeq.txt 4.611097637722987
+data.zdst.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

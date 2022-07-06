@@ -1,10 +1,10 @@
 9
-data.co.txt 1
-data.op.txt 1
-data.zbkj.txt 1
-data.zbtx.txt 1
-data.zctp.txt 1
-data.zdic.txt 1
-data.zebv.txt 1
-data.zelj.txt 1
-data.zfcg.txt 1
+data.co.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zbtx.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdic.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zelj.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

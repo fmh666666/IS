@@ -1,5 +1,5 @@
 4
-data.gz.txt 1
-data.zcej.txt 2
-data.zerh.txt 1
-data.zfai.txt 1
+data.gz.txt 3.389731710180695
+data.zcej.txt 5.372597648141796
+data.zerh.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

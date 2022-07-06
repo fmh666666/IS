@@ -1,6 +1,6 @@
 5
-data.ha.txt 2
-data.zasw.txt 1
-data.zavx.txt 1
-data.zdbf.txt 2
-data.zedk.txt 2
+data.ha.txt 5.1274494005309625
+data.zasw.txt 3.235060386727117
+data.zavx.txt 3.235060386727117
+data.zdbf.txt 5.1274494005309625
+data.zedk.txt 5.1274494005309625

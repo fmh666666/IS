@@ -1,10 +1,10 @@
 9
-data.zafy.txt 1
-data.zasw.txt 1
-data.zawc.txt 1
-data.zcdz.txt 1
-data.zcql.txt 1
-data.zdeb.txt 1
-data.zdga.txt 1
-data.zdvl.txt 1
-data.zelt.txt 2
+data.zafy.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zdga.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zelt.txt 4.48169974735425

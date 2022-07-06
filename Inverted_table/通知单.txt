@@ -1,6 +1,6 @@
 5
-data.zbre.txt 1
-data.zbup.txt 1
-data.zdtr.txt 2
-data.zefv.txt 1
-data.zelt.txt 1
+data.zbre.txt 3.235060386727117
+data.zbup.txt 3.235060386727117
+data.zdtr.txt 5.1274494005309625
+data.zefv.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

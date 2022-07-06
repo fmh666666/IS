@@ -1,10 +1,10 @@
 9
-data.hz.txt 1
-data.zaoy.txt 1
-data.zbnp.txt 1
-data.zclm.txt 1
-data.zcqe.txt 1
-data.zcrg.txt 1
-data.zddx.txt 1
-data.zdgp.txt 1
-data.zdwd.txt 1
+data.hz.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zbnp.txt 2.82763771717948
+data.zclm.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zddx.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zdwd.txt 2.82763771717948

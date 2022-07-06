@@ -1,7 +1,7 @@
 6
-data.zafi.txt 2
-data.zajo.txt 1
-data.zbuj.txt 1
-data.zcic.txt 1
-data.zcxh.txt 2
-data.zeag.txt 1
+data.zafi.txt 4.927148697748023
+data.zajo.txt 3.1086847136800873
+data.zbuj.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zcxh.txt 4.927148697748023
+data.zeag.txt 3.1086847136800873

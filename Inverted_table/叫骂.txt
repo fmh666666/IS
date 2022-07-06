@@ -1,10 +1,10 @@
 9
-data.fz.txt 1
-data.pq.txt 1
-data.zbga.txt 1
-data.zcxr.txt 1
-data.zdkc.txt 1
-data.zdzn.txt 1
-data.zeam.txt 2
-data.zeoh.txt 1
-data.zerw.txt 1
+data.fz.txt 2.82763771717948
+data.pq.txt 2.82763771717948
+data.zbga.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zeam.txt 4.48169974735425
+data.zeoh.txt 2.82763771717948
+data.zerw.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zasr.txt 1
-data.zeos.txt 1
-data.zezy.txt 1
-data.zfaj.txt 1
+data.ka.txt 3.235060386727117
+data.zasr.txt 3.235060386727117
+data.zeos.txt 3.235060386727117
+data.zezy.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

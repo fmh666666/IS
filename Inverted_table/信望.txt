@@ -1,13 +1,13 @@
 12
-data.vi.txt 1
-data.zbfp.txt 16
-data.zbnp.txt 2
-data.zbpm.txt 2
-data.zbxy.txt 1
-data.zcgi.txt 1
-data.zcku.txt 1
-data.zdhw.txt 1
-data.zdqz.txt 1
-data.zeec.txt 1
-data.zenw.txt 1
-data.zexm.txt 1
+data.vi.txt 2.628231699761886
+data.zbfp.txt 10.742799410972928
+data.zbnp.txt 4.165648687329214
+data.zbpm.txt 4.165648687329214
+data.zbxy.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcku.txt 2.628231699761886
+data.zdhw.txt 2.628231699761886
+data.zdqz.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zenw.txt 2.628231699761886
+data.zexm.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.ft.txt 1
-data.zbyb.txt 1
-data.zcdz.txt 1
+data.ft.txt 3.5891377275982888
+data.zbyb.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888

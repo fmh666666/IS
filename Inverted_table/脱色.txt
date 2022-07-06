@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.hp.txt 1
-data.zbcv.txt 1
-data.zcbe.txt 1
-data.zcxr.txt 1
-data.zdaq.txt 42
-data.zdar.txt 27
-data.zduo.txt 1
+data.aj.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zcbe.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdaq.txt 15.786516451134839
+data.zdar.txt 13.985935260114827
+data.zduo.txt 2.9092786962624935

@@ -1,11 +1,11 @@
 10
-data.cq.txt 1
-data.fj.txt 2
-data.fp.txt 2
-data.zasq.txt 1
-data.zavg.txt 1
-data.zawb.txt 1
-data.zbem.txt 1
-data.zcnn.txt 1
-data.zdhw.txt 1
-data.zdme.txt 1
+data.cq.txt 2.7546073728089153
+data.fj.txt 4.365949390112154
+data.fp.txt 4.365949390112154
+data.zasq.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbem.txt 2.7546073728089153
+data.zcnn.txt 2.7546073728089153
+data.zdhw.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153

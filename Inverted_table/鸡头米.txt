@@ -1,3 +1,3 @@
 2
-data.zezm.txt 2
-data.zezn.txt 7
+data.zezm.txt 6.134097658560606
+data.zezn.txt 11.61055417229669

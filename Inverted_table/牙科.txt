@@ -1,9 +1,9 @@
 8
-data.zbel.txt 1
-data.zcdy.txt 1
-data.zcqg.txt 1
-data.zcqs.txt 1
-data.zctp.txt 1
-data.zcts.txt 3
-data.zdaq.txt 59
-data.zdar.txt 57
+data.zbel.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcqg.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zcts.txt 5.818557392524987
+data.zdaq.txt 17.184790970957135
+data.zdar.txt 17.042499312235208

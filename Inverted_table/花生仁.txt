@@ -1,4 +1,4 @@
 3
-data.zbaf.txt 1
-data.zbyv.txt 1
-data.zdpg.txt 1
+data.zbaf.txt 3.5891377275982888
+data.zbyv.txt 3.5891377275982888
+data.zdpg.txt 3.5891377275982888

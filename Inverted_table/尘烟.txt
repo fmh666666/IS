@@ -1,7 +1,7 @@
 6
-data.gk.txt 1
-data.ka.txt 1
-data.zcpx.txt 1
-data.zcql.txt 1
-data.zdtr.txt 1
-data.zeaj.txt 1
+data.gk.txt 3.1086847136800873
+data.ka.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873

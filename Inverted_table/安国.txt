@@ -1,9 +1,9 @@
 8
-data.zaqw.txt 1
-data.zawb.txt 2
-data.zcln.txt 1
-data.zcse.txt 2
-data.zdju.txt 2
-data.zdlo.txt 2
-data.zdud.txt 1
-data.zelt.txt 1
+data.zaqw.txt 2.9092786962624935
+data.zawb.txt 4.611097637722987
+data.zcln.txt 2.9092786962624935
+data.zcse.txt 4.611097637722987
+data.zdju.txt 4.611097637722987
+data.zdlo.txt 4.611097637722987
+data.zdud.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

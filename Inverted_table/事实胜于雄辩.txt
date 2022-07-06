@@ -1,9 +1,9 @@
 8
-data.mt.txt 1
-data.zaic.txt 1
-data.zasd.txt 3
-data.zayd.txt 1
-data.zbsl.txt 1
-data.zbvm.txt 1
-data.zcgo.txt 1
-data.zenw.txt 1
+data.mt.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zasd.txt 5.818557392524987
+data.zayd.txt 2.9092786962624935
+data.zbsl.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935

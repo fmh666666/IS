@@ -1,9 +1,9 @@
 8
-data.zbdx.txt 1
-data.zbof.txt 1
-data.zcdv.txt 1
-data.zcmn.txt 1
-data.zcvi.txt 1
-data.zebf.txt 1
-data.zehp.txt 1
-data.zeyg.txt 1
+data.zbdx.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935
+data.zcvi.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zeyg.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.hz.txt 2
-data.jj.txt 2
-data.ud.txt 2
-data.zbcj.txt 1
-data.zcbe.txt 2
-data.zcda.txt 1
-data.zdxw.txt 1
-data.zejn.txt 1
+data.hz.txt 4.611097637722987
+data.jj.txt 4.611097637722987
+data.ud.txt 4.611097637722987
+data.zbcj.txt 2.9092786962624935
+data.zcbe.txt 4.611097637722987
+data.zcda.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935

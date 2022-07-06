@@ -1,4 +1,4 @@
 3
-data.zaqr.txt 3
-data.zcue.txt 1
-data.zdzn.txt 1
+data.zaqr.txt 7.1782754551965775
+data.zcue.txt 3.5891377275982888
+data.zdzn.txt 3.5891377275982888

@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.tz.txt 1
-data.zafq.txt 1
-data.zajo.txt 1
-data.zatz.txt 1
-data.zblr.txt 1
-data.zbph.txt 1
-data.zbsl.txt 1
-data.zcft.txt 1
-data.zcpb.txt 1
-data.zdzg.txt 1
-data.zeyu.txt 1
+data.aj.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zatz.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbph.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zcft.txt 2.628231699761886
+data.zcpb.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zeyu.txt 2.628231699761886

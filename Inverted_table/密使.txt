@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zbel.txt 1
-data.zbmt.txt 1
+data.ry.txt 3.5891377275982888
+data.zbel.txt 3.5891377275982888
+data.zbmt.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.jd.txt 1
-data.xe.txt 1
-data.zdgv.txt 1
-data.zdzi.txt 1
-data.zeds.txt 1
+data.bb.txt 3.1086847136800873
+data.jd.txt 3.1086847136800873
+data.xe.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zdzi.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873

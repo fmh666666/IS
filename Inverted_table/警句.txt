@@ -1,6 +1,6 @@
 5
-data.zbfx.txt 1
-data.zcse.txt 2
-data.zdro.txt 1
-data.zebc.txt 2
-data.zebn.txt 8
+data.zbfx.txt 3.235060386727117
+data.zcse.txt 5.1274494005309625
+data.zdro.txt 3.235060386727117
+data.zebc.txt 5.1274494005309625
+data.zebn.txt 10.254898801061925

@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.zbcj.txt 1
-data.zbsm.txt 1
-data.zctp.txt 1
-data.zebv.txt 1
+data.ha.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zebv.txt 3.235060386727117

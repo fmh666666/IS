@@ -1,5 +1,5 @@
 4
-data.ek.txt 1
-data.zaim.txt 1
-data.zaxp.txt 2
-data.zdqq.txt 3
+data.ek.txt 3.389731710180695
+data.zaim.txt 3.389731710180695
+data.zaxp.txt 5.372597648141796
+data.zdqq.txt 6.77946342036139

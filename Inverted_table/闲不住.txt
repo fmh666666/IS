@@ -1,10 +1,10 @@
 9
-data.zayc.txt 1
-data.zbfp.txt 1
-data.zbia.txt 1
-data.zcft.txt 1
-data.zcmv.txt 1
-data.zdgp.txt 1
-data.zdmw.txt 1
-data.zdsh.txt 1
-data.zdwd.txt 1
+data.zayc.txt 2.82763771717948
+data.zbfp.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zcft.txt 2.82763771717948
+data.zcmv.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zdsh.txt 2.82763771717948
+data.zdwd.txt 2.82763771717948

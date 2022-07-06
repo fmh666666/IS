@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zbfz.txt 1
-data.zbga.txt 1
-data.zenw.txt 1
-data.zeoh.txt 1
+data.kt.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zbga.txt 3.235060386727117
+data.zenw.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

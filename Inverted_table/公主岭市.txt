@@ -1,11 +1,11 @@
 10
-data.pa.txt 1
-data.zanh.txt 2
-data.zasr.txt 1
-data.zbwq.txt 1
-data.zdcj.txt 2
-data.zeds.txt 1
-data.zefp.txt 1
-data.zehp.txt 1
-data.zfae.txt 1
-data.zfaz.txt 1
+data.pa.txt 2.7546073728089153
+data.zanh.txt 4.365949390112154
+data.zasr.txt 2.7546073728089153
+data.zbwq.txt 2.7546073728089153
+data.zdcj.txt 4.365949390112154
+data.zeds.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zehp.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

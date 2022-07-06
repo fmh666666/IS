@@ -1,4 +1,4 @@
 3
-data.zbcv.txt 1
-data.zcel.txt 1
-data.zdll.txt 1
+data.zbcv.txt 3.5891377275982888
+data.zcel.txt 3.5891377275982888
+data.zdll.txt 3.5891377275982888

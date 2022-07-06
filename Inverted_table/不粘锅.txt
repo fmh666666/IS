@@ -1,14 +1,14 @@
 13
-data.ff.txt 2
-data.fz.txt 1
-data.pa.txt 1
-data.zcej.txt 1
-data.zclm.txt 1
-data.zcvq.txt 1
-data.zcxq.txt 1
-data.zczp.txt 1
-data.zdgt.txt 1
-data.zdvl.txt 1
-data.zdwl.txt 2
-data.zedo.txt 1
-data.zerv.txt 1
+data.ff.txt 4.077712785060798
+data.fz.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.zcej.txt 2.5727503226135906
+data.zclm.txt 2.5727503226135906
+data.zcvq.txt 2.5727503226135906
+data.zcxq.txt 2.5727503226135906
+data.zczp.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zdvl.txt 2.5727503226135906
+data.zdwl.txt 4.077712785060798
+data.zedo.txt 2.5727503226135906
+data.zerv.txt 2.5727503226135906

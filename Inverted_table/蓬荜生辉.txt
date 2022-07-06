@@ -1,5 +1,5 @@
 4
-data.zaoy.txt 2
-data.zdji.txt 1
-data.zeeh.txt 1
-data.zewg.txt 1
+data.zaoy.txt 5.372597648141796
+data.zdji.txt 3.389731710180695
+data.zeeh.txt 3.389731710180695
+data.zewg.txt 3.389731710180695

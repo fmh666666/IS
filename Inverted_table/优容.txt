@@ -1,4 +1,4 @@
 3
-data.zawm.txt 4
-data.zbru.txt 6
-data.zdux.txt 3
+data.zawm.txt 8.333719726130651
+data.zbru.txt 10.0759834655157
+data.zdux.txt 7.1782754551965775

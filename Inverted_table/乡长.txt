@@ -1,11 +1,11 @@
 10
-data.gz.txt 1
-data.zajn.txt 1
-data.zawb.txt 2
-data.zcll.txt 1
-data.zcqp.txt 1
-data.zddp.txt 1
-data.zdgv.txt 1
-data.zeds.txt 1
-data.zevt.txt 2
-data.zfai.txt 2
+data.gz.txt 2.7546073728089153
+data.zajn.txt 2.7546073728089153
+data.zawb.txt 4.365949390112154
+data.zcll.txt 2.7546073728089153
+data.zcqp.txt 2.7546073728089153
+data.zddp.txt 2.7546073728089153
+data.zdgv.txt 2.7546073728089153
+data.zeds.txt 2.7546073728089153
+data.zevt.txt 4.365949390112154
+data.zfai.txt 4.365949390112154

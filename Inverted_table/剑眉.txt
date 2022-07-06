@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.zadv.txt 1
-data.zaoy.txt 1
-data.zbkr.txt 1
-data.zcbe.txt 1
-data.zevq.txt 1
+data.cq.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zbkr.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

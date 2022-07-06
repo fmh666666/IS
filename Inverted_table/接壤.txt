@@ -1,4 +1,4 @@
 3
-data.ep.txt 1
-data.zbsm.txt 2
-data.zciq.txt 1
+data.ep.txt 3.5891377275982888
+data.zbsm.txt 5.688648708166832
+data.zciq.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.zard.txt 1
-data.zasy.txt 1
-data.zbdb.txt 1
-data.zbre.txt 1
-data.zbsf.txt 1
-data.zbvp.txt 1
-data.zcdv.txt 1
-data.zcfn.txt 1
+data.zard.txt 2.9092786962624935
+data.zasy.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935

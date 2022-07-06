@@ -1,6 +1,6 @@
 5
-data.zbhd.txt 1
-data.zcak.txt 1
-data.zcdy.txt 1
-data.zeoo.txt 1
-data.zezy.txt 1
+data.zbhd.txt 3.235060386727117
+data.zcak.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

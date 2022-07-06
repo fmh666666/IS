@@ -1,4 +1,4 @@
 3
-data.zdlo.txt 1
-data.zeac.txt 1
-data.zevt.txt 1
+data.zdlo.txt 3.5891377275982888
+data.zeac.txt 3.5891377275982888
+data.zevt.txt 3.5891377275982888

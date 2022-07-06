@@ -1,2 +1,2 @@
 1
-data.zdzi.txt 2
+data.zdzi.txt 6.8955976689794145

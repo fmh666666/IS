@@ -1,2 +1,2 @@
 1
-data.mx.txt 4
+data.mx.txt 10.101867994579104

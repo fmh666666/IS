@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.hg.txt 1
-data.zbmt.txt 1
-data.zbse.txt 2
-data.zdoq.txt 1
+data.ha.txt 3.235060386727117
+data.hg.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zbse.txt 5.1274494005309625
+data.zdoq.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.ek.txt 1
-data.zavg.txt 1
-data.zbdx.txt 1
-data.zbes.txt 1
-data.zbvp.txt 1
-data.zbwa.txt 1
-data.zdhv.txt 1
-data.zdsh.txt 1
-data.zduo.txt 1
-data.zelj.txt 1
-data.zeob.txt 1
-data.zezh.txt 2
+data.be.txt 2.5727503226135906
+data.ek.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zbes.txt 2.5727503226135906
+data.zbvp.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zdhv.txt 2.5727503226135906
+data.zdsh.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zelj.txt 2.5727503226135906
+data.zeob.txt 2.5727503226135906
+data.zezh.txt 4.077712785060798

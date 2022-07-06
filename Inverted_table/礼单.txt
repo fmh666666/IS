@@ -1,4 +1,4 @@
 3
-data.zayv.txt 4
-data.zbhv.txt 2
-data.zevl.txt 3
+data.zayv.txt 8.333719726130651
+data.zbhv.txt 5.688648708166832
+data.zevl.txt 7.1782754551965775

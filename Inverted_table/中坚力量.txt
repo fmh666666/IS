@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zalt.txt 1
-data.zaoy.txt 1
-data.zcon.txt 2
-data.zduo.txt 1
-data.zdwz.txt 1
-data.zeac.txt 1
-data.zeqv.txt 1
+data.ry.txt 2.9092786962624935
+data.zalt.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zcon.txt 4.611097637722987
+data.zduo.txt 2.9092786962624935
+data.zdwz.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

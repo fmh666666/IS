@@ -1,5 +1,5 @@
 4
-data.zcdg.txt 2
-data.zcvi.txt 3
-data.zeqh.txt 1
-data.zess.txt 3
+data.zcdg.txt 5.372597648141796
+data.zcvi.txt 6.77946342036139
+data.zeqh.txt 3.389731710180695
+data.zess.txt 6.77946342036139

@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zaic.txt 1
-data.zalj.txt 1
-data.zbel.txt 1
-data.zctp.txt 1
+data.gw.txt 3.235060386727117
+data.zaic.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zctp.txt 3.235060386727117

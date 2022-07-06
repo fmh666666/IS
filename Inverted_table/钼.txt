@@ -1,6 +1,6 @@
 5
-data.zabx.txt 1
-data.zawc.txt 3
-data.zbfz.txt 1
-data.zbnx.txt 1
-data.zcse.txt 2
+data.zabx.txt 3.235060386727117
+data.zawc.txt 6.470120773454234
+data.zbfz.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zcse.txt 5.1274494005309625

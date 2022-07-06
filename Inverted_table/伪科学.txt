@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.kt.txt 1
-data.zaip.txt 1
-data.zbdx.txt 1
-data.zbfz.txt 1
-data.zbqu.txt 1
-data.zcdv.txt 1
-data.zctp.txt 2
-data.zdfl.txt 1
-data.zdlw.txt 1
-data.zdmw.txt 1
+data.cq.txt 2.6885433903988862
+data.kt.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zctp.txt 4.261240455343955
+data.zdfl.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862

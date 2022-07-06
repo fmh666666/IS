@@ -1,5 +1,5 @@
 4
-data.kt.txt 1
-data.zbxw.txt 1
-data.zbzg.txt 1
-data.zcgi.txt 2
+data.kt.txt 3.389731710180695
+data.zbxw.txt 3.389731710180695
+data.zbzg.txt 3.389731710180695
+data.zcgi.txt 5.372597648141796

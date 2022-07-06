@@ -1,9 +1,9 @@
 8
-data.zagr.txt 1
-data.zayv.txt 1
-data.zcmy.txt 4
-data.zcon.txt 1
-data.zdmw.txt 1
-data.zdpz.txt 1
-data.zedd.txt 1
-data.zeeq.txt 4
+data.zagr.txt 2.9092786962624935
+data.zayv.txt 2.9092786962624935
+data.zcmy.txt 6.7551359407091605
+data.zcon.txt 2.9092786962624935
+data.zdmw.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zeeq.txt 6.7551359407091605

@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.kq.txt 6
-data.zcdy.txt 11
-data.zcdz.txt 4
-data.zcon.txt 1
-data.zctp.txt 1
-data.zdtr.txt 1
-data.zeqv.txt 1
+data.ga.txt 2.9092786962624935
+data.kq.txt 8.16737786758984
+data.zcdy.txt 10.429655030247973
+data.zcdz.txt 6.7551359407091605
+data.zcon.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

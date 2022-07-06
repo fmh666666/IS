@@ -1,7 +1,7 @@
 6
-data.zaip.txt 1
-data.zanh.txt 1
-data.zbuj.txt 1
-data.zecf.txt 1
-data.zezf.txt 1
-data.zfbr.txt 1
+data.zaip.txt 3.1086847136800873
+data.zanh.txt 3.1086847136800873
+data.zbuj.txt 3.1086847136800873
+data.zecf.txt 3.1086847136800873
+data.zezf.txt 3.1086847136800873
+data.zfbr.txt 3.1086847136800873

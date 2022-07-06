@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.to.txt 1
-data.vm.txt 2
-data.zalt.txt 1
-data.zbmw.txt 1
-data.zbuj.txt 1
-data.zbxw.txt 2
-data.zeez.txt 1
-data.zeoo.txt 1
-data.zewp.txt 1
-data.zfae.txt 1
+data.fj.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.vm.txt 4.261240455343955
+data.zalt.txt 2.6885433903988862
+data.zbmw.txt 2.6885433903988862
+data.zbuj.txt 2.6885433903988862
+data.zbxw.txt 4.261240455343955
+data.zeez.txt 2.6885433903988862
+data.zeoo.txt 2.6885433903988862
+data.zewp.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

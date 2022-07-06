@@ -1,2 +1,2 @@
 1
-data.zelt.txt 1
+data.zelt.txt 4.350637738017098

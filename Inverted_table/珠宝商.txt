@@ -1,6 +1,6 @@
 5
-data.zasq.txt 1
-data.zbhv.txt 1
-data.zcll.txt 2
-data.zety.txt 2
-data.zevl.txt 2
+data.zasq.txt 3.235060386727117
+data.zbhv.txt 3.235060386727117
+data.zcll.txt 5.1274494005309625
+data.zety.txt 5.1274494005309625
+data.zevl.txt 5.1274494005309625

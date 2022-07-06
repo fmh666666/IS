@@ -1,5 +1,5 @@
 4
-data.xe.txt 1
-data.zdic.txt 1
-data.zdtr.txt 1
-data.zdzg.txt 1
+data.xe.txt 3.389731710180695
+data.zdic.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695
+data.zdzg.txt 3.389731710180695

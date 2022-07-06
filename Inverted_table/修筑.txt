@@ -1,7 +1,7 @@
 6
-data.zalj.txt 1
-data.zasw.txt 1
-data.zdlo.txt 1
-data.zelj.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
+data.zalj.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873
+data.zelj.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

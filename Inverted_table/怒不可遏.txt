@@ -1,8 +1,8 @@
 7
-data.nh.txt 1
-data.op.txt 6
-data.zaic.txt 1
-data.zawb.txt 2
-data.zdzn.txt 1
-data.zesi.txt 1
-data.zewp.txt 1
+data.nh.txt 3.0018356045764243
+data.op.txt 8.427217959715389
+data.zaic.txt 3.0018356045764243
+data.zawb.txt 4.757796866583254
+data.zdzn.txt 3.0018356045764243
+data.zesi.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

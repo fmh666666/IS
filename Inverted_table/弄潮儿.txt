@@ -1,5 +1,5 @@
 4
-data.co.txt 1
-data.gw.txt 1
-data.zcpx.txt 1
-data.zeun.txt 8
+data.co.txt 3.389731710180695
+data.gw.txt 3.389731710180695
+data.zcpx.txt 3.389731710180695
+data.zeun.txt 10.745195296283592

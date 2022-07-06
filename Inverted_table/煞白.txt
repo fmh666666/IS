@@ -1,4 +1,4 @@
 3
-data.aj.txt 1
-data.ng.txt 2
-data.zcts.txt 1
+data.aj.txt 3.5891377275982888
+data.ng.txt 5.688648708166832
+data.zcts.txt 3.5891377275982888

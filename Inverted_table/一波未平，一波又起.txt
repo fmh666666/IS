@@ -1,4 +1,4 @@
 3
-data.zasy.txt 1
-data.zdga.txt 1
-data.zfaj.txt 1
+data.zasy.txt 3.5891377275982888
+data.zdga.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888

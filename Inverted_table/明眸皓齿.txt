@@ -1,5 +1,5 @@
 4
-data.zafy.txt 1
-data.zdaq.txt 2
-data.zdgo.txt 1
-data.zenn.txt 1
+data.zafy.txt 3.389731710180695
+data.zdaq.txt 5.372597648141796
+data.zdgo.txt 3.389731710180695
+data.zenn.txt 3.389731710180695

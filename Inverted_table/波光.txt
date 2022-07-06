@@ -1,12 +1,12 @@
 11
-data.ep.txt 1
-data.xk.txt 1
-data.zabe.txt 1
-data.zagb.txt 1
-data.zbhe.txt 1
-data.zbof.txt 1
-data.zcsu.txt 2
-data.zczl.txt 1
-data.zdkv.txt 1
-data.zdzm.txt 1
-data.zfaj.txt 1
+data.ep.txt 2.6885433903988862
+data.xk.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zagb.txt 2.6885433903988862
+data.zbhe.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zcsu.txt 4.261240455343955
+data.zczl.txt 2.6885433903988862
+data.zdkv.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

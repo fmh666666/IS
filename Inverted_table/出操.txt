@@ -1,5 +1,5 @@
 4
-data.ok.txt 1
-data.zbla.txt 1
-data.zbup.txt 1
-data.zehj.txt 2
+data.ok.txt 3.389731710180695
+data.zbla.txt 3.389731710180695
+data.zbup.txt 3.389731710180695
+data.zehj.txt 5.372597648141796

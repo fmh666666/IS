@@ -1,4 +1,4 @@
 3
-data.zaqr.txt 1
-data.zbor.txt 1
-data.zdst.txt 1
+data.zaqr.txt 3.5891377275982888
+data.zbor.txt 3.5891377275982888
+data.zdst.txt 3.5891377275982888

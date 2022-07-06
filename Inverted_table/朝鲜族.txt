@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.ok.txt 1
-data.pa.txt 1
-data.zajr.txt 1
-data.zate.txt 2
-data.zbut.txt 1
-data.zekw.txt 1
-data.zezy.txt 4
+data.ew.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zajr.txt 2.9092786962624935
+data.zate.txt 4.611097637722987
+data.zbut.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935
+data.zezy.txt 6.7551359407091605

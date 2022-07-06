@@ -1,4 +1,4 @@
 3
-data.zdib.txt 1
-data.zdlg.txt 1
-data.zenn.txt 2
+data.zdib.txt 3.5891377275982888
+data.zdlg.txt 3.5891377275982888
+data.zenn.txt 5.688648708166832

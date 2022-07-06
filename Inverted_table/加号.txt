@@ -1,8 +1,8 @@
 7
-data.qn.txt 1
-data.tz.txt 1
-data.zbls.txt 1
-data.zchd.txt 1
-data.zctp.txt 1
-data.zdkv.txt 1
-data.zelt.txt 1
+data.qn.txt 3.0018356045764243
+data.tz.txt 3.0018356045764243
+data.zbls.txt 3.0018356045764243
+data.zchd.txt 3.0018356045764243
+data.zctp.txt 3.0018356045764243
+data.zdkv.txt 3.0018356045764243
+data.zelt.txt 3.0018356045764243

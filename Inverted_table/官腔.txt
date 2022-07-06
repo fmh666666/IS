@@ -1,12 +1,12 @@
 11
-data.en.txt 1
-data.ok.txt 1
-data.tv.txt 1
-data.zadv.txt 1
-data.zbcc.txt 1
-data.zbes.txt 1
-data.zbfz.txt 1
-data.zbkj.txt 1
-data.zblq.txt 1
-data.zdof.txt 1
-data.zene.txt 2
+data.en.txt 2.6885433903988862
+data.ok.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbes.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zene.txt 4.261240455343955

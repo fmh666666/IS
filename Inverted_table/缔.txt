@@ -1,6 +1,6 @@
 5
-data.zccu.txt 3
-data.zcdz.txt 1
-data.zckd.txt 2
-data.zdpf.txt 1
-data.zevl.txt 3
+data.zccu.txt 6.470120773454234
+data.zcdz.txt 3.235060386727117
+data.zckd.txt 5.1274494005309625
+data.zdpf.txt 3.235060386727117
+data.zevl.txt 6.470120773454234

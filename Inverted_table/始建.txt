@@ -1,12 +1,12 @@
 11
-data.qb.txt 1
-data.zaop.txt 1
-data.zazn.txt 1
-data.zazo.txt 1
-data.zbqu.txt 1
-data.zbrd.txt 1
-data.zbrj.txt 2
-data.zcdv.txt 1
-data.zdgo.txt 1
-data.zdqz.txt 1
-data.zeik.txt 1
+data.qb.txt 2.6885433903988862
+data.zaop.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zbrd.txt 2.6885433903988862
+data.zbrj.txt 4.261240455343955
+data.zcdv.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zdqz.txt 2.6885433903988862
+data.zeik.txt 2.6885433903988862

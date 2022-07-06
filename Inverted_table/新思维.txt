@@ -1,4 +1,4 @@
 3
-data.zalj.txt 1
-data.zcdy.txt 1
-data.zebn.txt 4
+data.zalj.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zebn.txt 8.333719726130651

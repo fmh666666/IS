@@ -1,9 +1,9 @@
 8
-data.ff.txt 1
-data.zagb.txt 1
-data.zaqf.txt 1
-data.zbmw.txt 1
-data.zcda.txt 1
-data.zdib.txt 1
-data.zdof.txt 1
-data.zeos.txt 2
+data.ff.txt 2.9092786962624935
+data.zagb.txt 2.9092786962624935
+data.zaqf.txt 2.9092786962624935
+data.zbmw.txt 2.9092786962624935
+data.zcda.txt 2.9092786962624935
+data.zdib.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zeos.txt 4.611097637722987

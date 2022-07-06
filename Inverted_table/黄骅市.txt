@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.zabe.txt 2
-data.zeyy.txt 1
+data.hp.txt 3.5891377275982888
+data.zabe.txt 5.688648708166832
+data.zeyy.txt 3.5891377275982888

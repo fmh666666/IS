@@ -1,9 +1,9 @@
 8
-data.zacd.txt 1
-data.zahd.txt 2
-data.zbpc.txt 1
-data.zczp.txt 1
-data.zddx.txt 1
-data.zdme.txt 2
-data.zdzi.txt 1
-data.zeec.txt 1
+data.zacd.txt 2.9092786962624935
+data.zahd.txt 4.611097637722987
+data.zbpc.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zdme.txt 4.611097637722987
+data.zdzi.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935

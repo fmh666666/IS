@@ -1,14 +1,14 @@
 13
-data.mo.txt 4
-data.zafq.txt 1
-data.zaic.txt 1
-data.zajr.txt 1
-data.zavg.txt 1
-data.zawc.txt 1
-data.zazx.txt 1
-data.zbnp.txt 1
-data.zdby.txt 1
-data.zdrq.txt 1
-data.zewp.txt 1
-data.zeyu.txt 1
-data.zfai.txt 1
+data.mo.txt 5.97374125520702
+data.zafq.txt 2.5727503226135906
+data.zaic.txt 2.5727503226135906
+data.zajr.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zazx.txt 2.5727503226135906
+data.zbnp.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zdrq.txt 2.5727503226135906
+data.zewp.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

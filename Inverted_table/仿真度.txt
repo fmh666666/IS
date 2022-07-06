@@ -1,9 +1,9 @@
 8
-data.zbbt.txt 1
-data.zcdz.txt 1
-data.zdlo.txt 1
-data.zdpg.txt 1
-data.zefw.txt 1
-data.zelt.txt 3
-data.zevt.txt 1
-data.zfaj.txt 1
+data.zbbt.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zdpg.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935
+data.zelt.txt 5.818557392524987
+data.zevt.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

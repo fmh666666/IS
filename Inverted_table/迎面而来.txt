@@ -1,13 +1,13 @@
 12
-data.hc.txt 2
-data.hz.txt 1
-data.pq.txt 1
-data.zafk.txt 2
-data.zamr.txt 1
-data.zasd.txt 1
-data.zasr.txt 1
-data.zauy.txt 2
-data.zbvm.txt 1
-data.zcao.txt 1
-data.zcts.txt 2
-data.zehj.txt 1
+data.hc.txt 4.165648687329214
+data.hz.txt 2.628231699761886
+data.pq.txt 2.628231699761886
+data.zafk.txt 4.165648687329214
+data.zamr.txt 2.628231699761886
+data.zasd.txt 2.628231699761886
+data.zasr.txt 2.628231699761886
+data.zauy.txt 4.165648687329214
+data.zbvm.txt 2.628231699761886
+data.zcao.txt 2.628231699761886
+data.zcts.txt 4.165648687329214
+data.zehj.txt 2.628231699761886

@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.ye.txt 2
-data.yx.txt 2
-data.zafy.txt 1
-data.zawb.txt 6
-data.zawc.txt 3
-data.zbfz.txt 5
-data.zbgw.txt 2
-data.zbut.txt 1
-data.zcse.txt 1
-data.zdlo.txt 1
-data.zdzm.txt 2
-data.zene.txt 1
+data.fp.txt 2.5727503226135906
+data.ye.txt 4.077712785060798
+data.yx.txt 4.077712785060798
+data.zafy.txt 2.5727503226135906
+data.zawb.txt 7.222623281414552
+data.zawc.txt 5.145500645227181
+data.zbfz.txt 6.650463107674388
+data.zbgw.txt 4.077712785060798
+data.zbut.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zdlo.txt 2.5727503226135906
+data.zdzm.txt 4.077712785060798
+data.zene.txt 2.5727503226135906

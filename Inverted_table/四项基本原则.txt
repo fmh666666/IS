@@ -1,10 +1,10 @@
 9
-data.ff.txt 1
-data.zapf.txt 2
-data.zapl.txt 1
-data.zasw.txt 1
-data.zayd.txt 1
-data.zbkv.txt 1
-data.zdpw.txt 1
-data.zeew.txt 1
-data.zewp.txt 1
+data.ff.txt 2.82763771717948
+data.zapf.txt 4.48169974735425
+data.zapl.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zayd.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zeew.txt 2.82763771717948
+data.zewp.txt 2.82763771717948

@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.zbhv.txt 1
-data.zbvf.txt 2
-data.zcic.txt 1
-data.zduo.txt 1
-data.zezn.txt 2
+data.ft.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zbvf.txt 4.927148697748023
+data.zcic.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873
+data.zezn.txt 4.927148697748023

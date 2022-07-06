@@ -1,11 +1,11 @@
 10
-data.zazn.txt 1
-data.zbhe.txt 1
-data.zbla.txt 1
-data.zbnx.txt 1
-data.zbzo.txt 3
-data.zcwn.txt 1
-data.zdkc.txt 1
-data.zdme.txt 1
-data.zeyg.txt 1
-data.zezy.txt 1
+data.zazn.txt 2.7546073728089153
+data.zbhe.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zbzo.txt 5.509214745617831
+data.zcwn.txt 2.7546073728089153
+data.zdkc.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zeyg.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153

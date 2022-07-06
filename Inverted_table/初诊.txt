@@ -1,6 +1,6 @@
 5
-data.zawu.txt 1
-data.zblq.txt 1
-data.zcxp.txt 1
-data.zcxr.txt 1
-data.zdof.txt 1
+data.zawu.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zcxp.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zdof.txt 3.235060386727117

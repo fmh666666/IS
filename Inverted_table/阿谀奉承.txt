@@ -1,14 +1,14 @@
 13
-data.jd.txt 1
-data.nh.txt 2
-data.op.txt 1
-data.zacw.txt 1
-data.zalc.txt 1
-data.zane.txt 1
-data.zapl.txt 1
-data.zayc.txt 1
-data.zcls.txt 1
-data.zcmn.txt 1
-data.zefs.txt 1
-data.zeoh.txt 1
-data.zeta.txt 1
+data.jd.txt 2.5727503226135906
+data.nh.txt 4.077712785060798
+data.op.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zalc.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zayc.txt 2.5727503226135906
+data.zcls.txt 2.5727503226135906
+data.zcmn.txt 2.5727503226135906
+data.zefs.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zeta.txt 2.5727503226135906

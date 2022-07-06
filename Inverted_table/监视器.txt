@@ -1,12 +1,12 @@
 11
-data.tz.txt 1
-data.zake.txt 1
-data.zbkj.txt 1
-data.zblr.txt 4
-data.zbmw.txt 1
-data.zbnp.txt 1
-data.zcmx.txt 1
-data.zcqe.txt 1
-data.zdhw.txt 1
-data.zdme.txt 1
-data.zfas.txt 1
+data.tz.txt 2.6885433903988862
+data.zake.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zblr.txt 6.2426044324908965
+data.zbmw.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zcqe.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

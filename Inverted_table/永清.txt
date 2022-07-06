@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.zbcj.txt 2
-data.zbhe.txt 1
-data.zcdy.txt 1
-data.zcuh.txt 1
-data.zdcy.txt 1
-data.zdpg.txt 1
-data.zefp.txt 1
-data.zexu.txt 1
+data.ga.txt 2.82763771717948
+data.zbcj.txt 4.48169974735425
+data.zbhe.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcuh.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zdpg.txt 2.82763771717948
+data.zefp.txt 2.82763771717948
+data.zexu.txt 2.82763771717948

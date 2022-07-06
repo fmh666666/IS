@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.pn.txt 1
-data.zaim.txt 1
-data.zcpa.txt 1
-data.zdux.txt 1
+data.dg.txt 3.235060386727117
+data.pn.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zcpa.txt 3.235060386727117
+data.zdux.txt 3.235060386727117

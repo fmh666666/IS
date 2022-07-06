@@ -1,9 +1,9 @@
 8
-data.zapl.txt 1
-data.zarc.txt 2
-data.zbpx.txt 1
-data.zcni.txt 1
-data.zcts.txt 1
-data.zduc.txt 1
-data.zeik.txt 1
-data.zeyg.txt 2
+data.zapl.txt 2.9092786962624935
+data.zarc.txt 4.611097637722987
+data.zbpx.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zcts.txt 2.9092786962624935
+data.zduc.txt 2.9092786962624935
+data.zeik.txt 2.9092786962624935
+data.zeyg.txt 4.611097637722987

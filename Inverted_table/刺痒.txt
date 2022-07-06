@@ -1,6 +1,6 @@
 5
-data.zcic.txt 1
-data.zcql.txt 1
-data.zcts.txt 1
-data.zdod.txt 1
-data.zdpz.txt 1
+data.zcic.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdod.txt 3.235060386727117
+data.zdpz.txt 3.235060386727117

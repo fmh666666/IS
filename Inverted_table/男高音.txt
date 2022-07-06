@@ -1,4 +1,4 @@
 3
-data.fp.txt 2
-data.vm.txt 1
-data.zcrv.txt 1
+data.fp.txt 5.688648708166832
+data.vm.txt 3.5891377275982888
+data.zcrv.txt 3.5891377275982888

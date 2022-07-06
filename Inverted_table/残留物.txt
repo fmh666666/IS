@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.zcem.txt 1
-data.zcpa.txt 1
-data.zeqn.txt 2
-data.zerw.txt 3
+data.ft.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zcpa.txt 3.235060386727117
+data.zeqn.txt 5.1274494005309625
+data.zerw.txt 6.470120773454234

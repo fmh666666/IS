@@ -1,6 +1,6 @@
 5
-data.zass.txt 1
-data.zbkv.txt 1
-data.zcmv.txt 1
-data.zdlo.txt 1
-data.zeva.txt 1
+data.zass.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zcmv.txt 3.235060386727117
+data.zdlo.txt 3.235060386727117
+data.zeva.txt 3.235060386727117

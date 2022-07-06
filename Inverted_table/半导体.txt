@@ -1,4 +1,4 @@
 3
-data.vi.txt 4
-data.zapr.txt 1
-data.zcdg.txt 1
+data.vi.txt 8.333719726130651
+data.zapr.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888

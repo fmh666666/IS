@@ -1,7 +1,7 @@
 6
-data.ok.txt 1
-data.ud.txt 1
-data.zcqp.txt 1
-data.zdey.txt 1
-data.zdsh.txt 1
-data.zdwz.txt 2
+data.ok.txt 3.1086847136800873
+data.ud.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zdsh.txt 3.1086847136800873
+data.zdwz.txt 4.927148697748023

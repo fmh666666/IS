@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zauy.txt 1
-data.zbeb.txt 1
-data.zdhw.txt 2
-data.zeay.txt 1
+data.op.txt 3.235060386727117
+data.zauy.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zdhw.txt 5.1274494005309625
+data.zeay.txt 3.235060386727117

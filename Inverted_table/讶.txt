@@ -1,4 +1,4 @@
 3
-data.zamp.txt 1
-data.zblr.txt 1
-data.zedo.txt 1
+data.zamp.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888
+data.zedo.txt 3.5891377275982888

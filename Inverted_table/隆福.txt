@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.zank.txt 1
-data.zaop.txt 1
-data.zcaq.txt 1
+data.fp.txt 3.389731710180695
+data.zank.txt 3.389731710180695
+data.zaop.txt 3.389731710180695
+data.zcaq.txt 3.389731710180695

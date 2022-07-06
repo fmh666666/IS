@@ -1,13 +1,13 @@
 12
-data.ka.txt 2
-data.op.txt 1
-data.xe.txt 1
-data.zavg.txt 1
-data.zbil.txt 1
-data.zcdv.txt 1
-data.zcvt.txt 1
-data.zczj.txt 1
-data.zefp.txt 1
-data.zene.txt 1
-data.zeqn.txt 1
-data.zexv.txt 1
+data.ka.txt 4.165648687329214
+data.op.txt 2.628231699761886
+data.xe.txt 2.628231699761886
+data.zavg.txt 2.628231699761886
+data.zbil.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcvt.txt 2.628231699761886
+data.zczj.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zexv.txt 2.628231699761886

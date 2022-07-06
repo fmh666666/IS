@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.zabe.txt 1
-data.zbzf.txt 1
-data.zeec.txt 1
-data.zfcg.txt 1
+data.ft.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zeec.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

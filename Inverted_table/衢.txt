@@ -1,7 +1,7 @@
 6
-data.by.txt 1
-data.zadv.txt 20
-data.zaqp.txt 1
-data.zbaq.txt 2
-data.zcqp.txt 1
-data.zeoh.txt 1
+data.by.txt 3.1086847136800873
+data.zadv.txt 13.654330029823049
+data.zaqp.txt 3.1086847136800873
+data.zbaq.txt 4.927148697748023
+data.zcqp.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

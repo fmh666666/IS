@@ -1,10 +1,10 @@
 9
-data.mt.txt 2
-data.zaoo.txt 2
-data.zavx.txt 1
-data.zbut.txt 6
-data.zczp.txt 2
-data.zdep.txt 1
-data.zduc.txt 2
-data.zefd.txt 2
-data.zefv.txt 1
+data.mt.txt 4.48169974735425
+data.zaoo.txt 4.48169974735425
+data.zavx.txt 2.82763771717948
+data.zbut.txt 7.938182663119541
+data.zczp.txt 4.48169974735425
+data.zdep.txt 2.82763771717948
+data.zduc.txt 4.48169974735425
+data.zefd.txt 4.48169974735425
+data.zefv.txt 2.82763771717948

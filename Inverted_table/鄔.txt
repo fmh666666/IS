@@ -1,2 +1,2 @@
 1
-data.jf.txt 3
+data.jf.txt 8.701275476034196

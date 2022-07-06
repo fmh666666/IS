@@ -1,13 +1,13 @@
 12
-data.jf.txt 1
-data.ud.txt 1
-data.ye.txt 2
-data.zacd.txt 1
-data.zbts.txt 1
-data.zccu.txt 1
-data.zcdy.txt 1
-data.zcmy.txt 1
-data.zcvt.txt 1
-data.zdwv.txt 1
-data.zeam.txt 1
-data.zeta.txt 1
+data.jf.txt 2.628231699761886
+data.ud.txt 2.628231699761886
+data.ye.txt 4.165648687329214
+data.zacd.txt 2.628231699761886
+data.zbts.txt 2.628231699761886
+data.zccu.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zcvt.txt 2.628231699761886
+data.zdwv.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zeta.txt 2.628231699761886

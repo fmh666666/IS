@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.mx.txt 1
-data.zabx.txt 2
-data.zazw.txt 2
-data.zcpx.txt 4
-data.zcts.txt 1
+data.jf.txt 3.1086847136800873
+data.mx.txt 3.1086847136800873
+data.zabx.txt 4.927148697748023
+data.zazw.txt 4.927148697748023
+data.zcpx.txt 7.21814237484067
+data.zcts.txt 3.1086847136800873

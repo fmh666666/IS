@@ -1,6 +1,6 @@
 5
-data.fp.txt 2
-data.tz.txt 1
-data.zajo.txt 1
-data.zawu.txt 1
-data.zdkv.txt 1
+data.fp.txt 5.1274494005309625
+data.tz.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117

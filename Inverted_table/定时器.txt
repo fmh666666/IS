@@ -1,5 +1,5 @@
 4
-data.ry.txt 1
-data.zcqs.txt 1
-data.zeeq.txt 1
-data.zfaw.txt 1
+data.ry.txt 3.389731710180695
+data.zcqs.txt 3.389731710180695
+data.zeeq.txt 3.389731710180695
+data.zfaw.txt 3.389731710180695

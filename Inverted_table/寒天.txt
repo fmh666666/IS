@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.gw.txt 1
-data.zaqw.txt 1
-data.zawb.txt 1
-data.zaxk.txt 1
-data.zaxp.txt 1
-data.zblr.txt 1
-data.zcon.txt 1
-data.zdil.txt 1
-data.zebv.txt 1
-data.zeec.txt 1
+data.cq.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.zaqw.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zdil.txt 2.6885433903988862
+data.zebv.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862

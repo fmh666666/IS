@@ -1,12 +1,12 @@
 11
-data.gw.txt 3
-data.qn.txt 1
-data.zaqf.txt 1
-data.zcao.txt 1
-data.zcjy.txt 1
-data.zcls.txt 1
-data.zdib.txt 1
-data.zdkk.txt 1
-data.zedx.txt 1
-data.zeos.txt 1
-data.zevq.txt 1
+data.gw.txt 5.3770867807977725
+data.qn.txt 2.6885433903988862
+data.zaqf.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcjy.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zdib.txt 2.6885433903988862
+data.zdkk.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862
+data.zeos.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862

@@ -1,10 +1,10 @@
 9
-data.ok.txt 1
-data.zagr.txt 4
-data.zavg.txt 1
-data.zdby.txt 1
-data.zdeb.txt 1
-data.zdgt.txt 2
-data.zene.txt 1
-data.zewp.txt 1
-data.zfaw.txt 1
+data.ok.txt 2.82763771717948
+data.zagr.txt 6.565571457682201
+data.zavg.txt 2.82763771717948
+data.zdby.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zdgt.txt 4.48169974735425
+data.zene.txt 2.82763771717948
+data.zewp.txt 2.82763771717948
+data.zfaw.txt 2.82763771717948

@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.tj.txt 1
-data.zbla.txt 1
-data.zbmw.txt 1
-data.zbsl.txt 1
-data.zctm.txt 1
-data.zelj.txt 1
-data.zemb.txt 1
-data.zevl.txt 1
+data.bb.txt 2.82763771717948
+data.tj.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zbmw.txt 2.82763771717948
+data.zbsl.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zelj.txt 2.82763771717948
+data.zemb.txt 2.82763771717948
+data.zevl.txt 2.82763771717948

@@ -1,9 +1,9 @@
 8
-data.hu.txt 1
-data.zacd.txt 2
-data.zail.txt 1
-data.zbgd.txt 1
-data.zblr.txt 2
-data.zcpc.txt 1
-data.zehb.txt 1
-data.zeqv.txt 1
+data.hu.txt 2.9092786962624935
+data.zacd.txt 4.611097637722987
+data.zail.txt 2.9092786962624935
+data.zbgd.txt 2.9092786962624935
+data.zblr.txt 4.611097637722987
+data.zcpc.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

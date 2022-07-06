@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.ha.txt 1
-data.kt.txt 1
-data.op.txt 1
-data.zaxk.txt 1
-data.zcrk.txt 1
-data.zcuh.txt 1
-data.zeai.txt 1
-data.zebv.txt 1
+data.fp.txt 2.82763771717948
+data.ha.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zcrk.txt 2.82763771717948
+data.zcuh.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zebv.txt 2.82763771717948

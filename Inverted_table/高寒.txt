@@ -1,9 +1,9 @@
 8
-data.co.txt 1
-data.zajr.txt 1
-data.zaqw.txt 2
-data.zbqu.txt 1
-data.zcdl.txt 1
-data.zczp.txt 1
-data.zdlo.txt 1
-data.zduk.txt 1
+data.co.txt 2.9092786962624935
+data.zajr.txt 2.9092786962624935
+data.zaqw.txt 4.611097637722987
+data.zbqu.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935

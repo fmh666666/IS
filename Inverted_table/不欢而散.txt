@@ -1,11 +1,11 @@
 10
-data.zaeh.txt 1
-data.zane.txt 1
-data.zawc.txt 1
-data.zbfr.txt 1
-data.zbfz.txt 1
-data.zbjq.txt 1
-data.zbpc.txt 1
-data.zbvm.txt 1
-data.zbyv.txt 1
-data.zezh.txt 1
+data.zaeh.txt 2.7546073728089153
+data.zane.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbfr.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zbjq.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zbvm.txt 2.7546073728089153
+data.zbyv.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153

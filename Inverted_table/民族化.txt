@@ -1,3 +1,3 @@
 2
-data.zcrn.txt 1
-data.zfaj.txt 2
+data.zcrn.txt 3.8701847240988965
+data.zfaj.txt 6.134097658560606

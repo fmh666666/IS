@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.ok.txt 1
-data.wg.txt 1
-data.zawb.txt 1
-data.zdeb.txt 2
-data.zdst.txt 1
-data.zdwl.txt 1
-data.zfaj.txt 1
+data.fp.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.wg.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zdeb.txt 4.611097637722987
+data.zdst.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

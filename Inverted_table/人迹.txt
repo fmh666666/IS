@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zbpp.txt 1
-data.zbrj.txt 1
-data.zcjo.txt 1
-data.zcrk.txt 1
+data.to.txt 3.235060386727117
+data.zbpp.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zcjo.txt 3.235060386727117
+data.zcrk.txt 3.235060386727117

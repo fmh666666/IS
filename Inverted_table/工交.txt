@@ -1,2 +1,2 @@
 1
-data.wc.txt 3
+data.wc.txt 8.701275476034196

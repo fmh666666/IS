@@ -1,9 +1,9 @@
 8
-data.jf.txt 2
-data.op.txt 1
-data.zapf.txt 1
-data.zbpx.txt 1
-data.zcgo.txt 1
-data.zcjo.txt 1
-data.zcse.txt 1
-data.zfcp.txt 3
+data.jf.txt 4.611097637722987
+data.op.txt 2.9092786962624935
+data.zapf.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zcjo.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zfcp.txt 5.818557392524987

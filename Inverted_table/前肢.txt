@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.hp.txt 1
-data.zafe.txt 1
-data.zchd.txt 3
-data.zcmx.txt 1
-data.zcqs.txt 1
+data.cz.txt 3.1086847136800873
+data.hp.txt 3.1086847136800873
+data.zafe.txt 3.1086847136800873
+data.zchd.txt 6.2173694273601745
+data.zcmx.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873

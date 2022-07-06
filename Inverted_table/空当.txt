@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zbkj.txt 1
-data.zdou.txt 1
-data.zeez.txt 1
-data.zexk.txt 1
+data.op.txt 3.235060386727117
+data.zbkj.txt 3.235060386727117
+data.zdou.txt 3.235060386727117
+data.zeez.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

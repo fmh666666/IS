@@ -1,2 +1,2 @@
 1
-data.zate.txt 5
+data.zate.txt 11.246235406996512

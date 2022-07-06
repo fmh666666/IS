@@ -1,13 +1,13 @@
 12
-data.zamp.txt 1
-data.zawc.txt 1
-data.zchd.txt 2
-data.zcls.txt 1
-data.zcnn.txt 1
-data.zcpc.txt 1
-data.zczj.txt 4
-data.zdgt.txt 5
-data.zdkc.txt 1
-data.zebc.txt 1
-data.zemb.txt 1
-data.zfaz.txt 1
+data.zamp.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zchd.txt 4.165648687329214
+data.zcls.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zcpc.txt 2.628231699761886
+data.zczj.txt 6.1025650235506905
+data.zdgt.txt 6.7938803870911
+data.zdkc.txt 2.628231699761886
+data.zebc.txt 2.628231699761886
+data.zemb.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

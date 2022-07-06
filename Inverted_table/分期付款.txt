@@ -1,9 +1,9 @@
 8
-data.to.txt 1
-data.zafi.txt 1
-data.zbhv.txt 1
-data.zbkf.txt 1
-data.zbpm.txt 1
-data.zcql.txt 1
-data.zdou.txt 1
-data.zeqv.txt 1
+data.to.txt 2.9092786962624935
+data.zafi.txt 2.9092786962624935
+data.zbhv.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zbpm.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

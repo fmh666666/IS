@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.zalj.txt 1
-data.zctp.txt 1
-data.zdds.txt 1
-data.zebf.txt 1
+data.mo.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zdds.txt 3.235060386727117
+data.zebf.txt 3.235060386727117

@@ -1,8 +1,8 @@
 7
-data.ud.txt 1
-data.zalm.txt 1
-data.zawc.txt 1
-data.zazo.txt 1
-data.zbdx.txt 1
-data.zbxy.txt 1
-data.zesq.txt 1
+data.ud.txt 3.0018356045764243
+data.zalm.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zazo.txt 3.0018356045764243
+data.zbdx.txt 3.0018356045764243
+data.zbxy.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243

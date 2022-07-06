@@ -1,6 +1,6 @@
 5
-data.zaqp.txt 1
-data.zckd.txt 1
-data.zcmy.txt 1
-data.zeyg.txt 1
-data.zfaz.txt 1
+data.zaqp.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

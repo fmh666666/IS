@@ -1,11 +1,11 @@
 10
-data.by.txt 1
-data.zake.txt 1
-data.zazw.txt 1
-data.zbtx.txt 1
-data.zcrv.txt 1
-data.zdic.txt 1
-data.zduk.txt 2
-data.zdvl.txt 1
-data.zevy.txt 2
-data.zewd.txt 2
+data.by.txt 2.7546073728089153
+data.zake.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zbtx.txt 2.7546073728089153
+data.zcrv.txt 2.7546073728089153
+data.zdic.txt 2.7546073728089153
+data.zduk.txt 4.365949390112154
+data.zdvl.txt 2.7546073728089153
+data.zevy.txt 4.365949390112154
+data.zewd.txt 4.365949390112154

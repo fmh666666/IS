@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.tz.txt 1
-data.zabe.txt 1
-data.zafv.txt 1
-data.zaxk.txt 1
-data.zcdg.txt 1
-data.zcku.txt 1
-data.zcse.txt 1
-data.zczl.txt 1
-data.zdlg.txt 1
-data.zeqh.txt 1
-data.zeqv.txt 1
+data.bb.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zafv.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcku.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zdlg.txt 2.628231699761886
+data.zeqh.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886

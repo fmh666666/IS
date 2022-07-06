@@ -1,7 +1,7 @@
 6
-data.mt.txt 3
-data.zahd.txt 1
-data.zate.txt 2
-data.zbcj.txt 2
-data.zewg.txt 2
-data.zfai.txt 3
+data.mt.txt 6.2173694273601745
+data.zahd.txt 3.1086847136800873
+data.zate.txt 4.927148697748023
+data.zbcj.txt 4.927148697748023
+data.zewg.txt 4.927148697748023
+data.zfai.txt 6.2173694273601745

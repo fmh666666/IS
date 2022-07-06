@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.zciy.txt 1
-data.zcrg.txt 1
-data.zdof.txt 1
-data.zedo.txt 3
-data.zeid.txt 1
-data.zeqn.txt 1
-data.zesi.txt 1
+data.be.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zcrg.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zedo.txt 5.818557392524987
+data.zeid.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935
+data.zesi.txt 2.9092786962624935

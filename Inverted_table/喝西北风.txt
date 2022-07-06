@@ -1,10 +1,10 @@
 9
-data.tz.txt 1
-data.zbeb.txt 2
-data.zcbe.txt 1
-data.zcdz.txt 1
-data.zdhv.txt 1
-data.zdqx.txt 1
-data.zdzn.txt 1
-data.zene.txt 1
-data.zeqn.txt 1
+data.tz.txt 2.82763771717948
+data.zbeb.txt 4.48169974735425
+data.zcbe.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zdhv.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zeqn.txt 2.82763771717948

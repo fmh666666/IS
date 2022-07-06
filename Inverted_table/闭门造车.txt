@@ -1,4 +1,4 @@
 3
-data.zcdy.txt 1
-data.zeob.txt 1
-data.zexv.txt 2
+data.zcdy.txt 3.5891377275982888
+data.zeob.txt 3.5891377275982888
+data.zexv.txt 5.688648708166832

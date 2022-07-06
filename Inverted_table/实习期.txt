@@ -1,11 +1,11 @@
 10
-data.zalt.txt 1
-data.zbpx.txt 1
-data.zcdg.txt 1
-data.zcdz.txt 1
-data.zcpa.txt 1
-data.zddb.txt 4
-data.zdeq.txt 1
-data.zdkp.txt 1
-data.zdme.txt 1
-data.zdoq.txt 1
+data.zalt.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zddb.txt 6.396000249308887
+data.zdeq.txt 2.7546073728089153
+data.zdkp.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153

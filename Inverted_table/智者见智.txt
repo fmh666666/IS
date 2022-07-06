@@ -1,6 +1,6 @@
 5
-data.jj.txt 1
-data.op.txt 1
-data.ry.txt 1
-data.zbhe.txt 1
-data.zeun.txt 1
+data.jj.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.ry.txt 3.235060386727117
+data.zbhe.txt 3.235060386727117
+data.zeun.txt 3.235060386727117

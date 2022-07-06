@@ -1,4 +1,4 @@
 3
-data.zbpm.txt 1
-data.zbpx.txt 1
-data.zdsh.txt 2
+data.zbpm.txt 3.5891377275982888
+data.zbpx.txt 3.5891377275982888
+data.zdsh.txt 5.688648708166832

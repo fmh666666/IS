@@ -1,2 +1,2 @@
 1
-data.zbga.txt 5
+data.zbga.txt 11.246235406996512

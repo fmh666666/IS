@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.kq.txt 1
-data.zard.txt 1
-data.zaub.txt 1
-data.zbsl.txt 1
-data.zcef.txt 1
-data.zcfn.txt 1
-data.zedk.txt 1
+data.cf.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zbsl.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935

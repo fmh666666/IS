@@ -1,7 +1,7 @@
 6
-data.zaip.txt 1
-data.zbjk.txt 1
-data.zbyb.txt 1
-data.zcis.txt 1
-data.zcts.txt 1
-data.zexm.txt 1
+data.zaip.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

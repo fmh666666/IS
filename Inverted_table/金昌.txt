@@ -1,7 +1,7 @@
 6
-data.zarc.txt 5
-data.zcll.txt 3
-data.zdcy.txt 3
-data.zeag.txt 1
-data.zeqv.txt 1
-data.zewp.txt 1
+data.zarc.txt 8.03583341142811
+data.zcll.txt 6.2173694273601745
+data.zdcy.txt 6.2173694273601745
+data.zeag.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873
+data.zewp.txt 3.1086847136800873

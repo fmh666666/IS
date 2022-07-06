@@ -1,6 +1,6 @@
 5
-data.sq.txt 1
-data.zaic.txt 1
-data.zasj.txt 1
-data.zcon.txt 1
-data.zcts.txt 1
+data.sq.txt 3.235060386727117
+data.zaic.txt 3.235060386727117
+data.zasj.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zcts.txt 3.235060386727117

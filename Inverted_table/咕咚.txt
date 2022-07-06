@@ -1,10 +1,10 @@
 9
-data.ee.txt 1
-data.pq.txt 4
-data.zakb.txt 1
-data.zazo.txt 1
-data.zbjk.txt 1
-data.zcbe.txt 1
-data.zcqg.txt 4
-data.zcsr.txt 1
-data.zedo.txt 2
+data.ee.txt 2.82763771717948
+data.pq.txt 6.565571457682201
+data.zakb.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zcqg.txt 6.565571457682201
+data.zcsr.txt 2.82763771717948
+data.zedo.txt 4.48169974735425

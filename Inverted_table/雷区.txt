@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.gw.txt 2
-data.tv.txt 1
-data.zbdb.txt 2
-data.zefs.txt 2
-data.zexx.txt 1
+data.dg.txt 3.1086847136800873
+data.gw.txt 4.927148697748023
+data.tv.txt 3.1086847136800873
+data.zbdb.txt 4.927148697748023
+data.zefs.txt 4.927148697748023
+data.zexx.txt 3.1086847136800873

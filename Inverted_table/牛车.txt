@@ -1,13 +1,13 @@
 12
-data.cq.txt 3
-data.hp.txt 1
-data.zabx.txt 2
-data.zakb.txt 2
-data.zbfz.txt 1
-data.zbhe.txt 1
-data.zbua.txt 1
-data.zcee.txt 1
-data.zcqg.txt 1
-data.zcqs.txt 1
-data.zejn.txt 1
-data.zesq.txt 1
+data.cq.txt 5.256463399523772
+data.hp.txt 2.628231699761886
+data.zabx.txt 4.165648687329214
+data.zakb.txt 4.165648687329214
+data.zbfz.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbua.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcqg.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zejn.txt 2.628231699761886
+data.zesq.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.pq.txt 1
-data.zabe.txt 1
-data.zasq.txt 1
-data.zbor.txt 2
-data.zcdy.txt 1
-data.zcjy.txt 1
-data.zcqs.txt 1
-data.zezn.txt 1
+data.hp.txt 2.82763771717948
+data.pq.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zasq.txt 2.82763771717948
+data.zbor.txt 4.48169974735425
+data.zcdy.txt 2.82763771717948
+data.zcjy.txt 2.82763771717948
+data.zcqs.txt 2.82763771717948
+data.zezn.txt 2.82763771717948

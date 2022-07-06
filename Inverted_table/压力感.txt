@@ -1,4 +1,4 @@
 3
-data.zcbe.txt 2
-data.zdaw.txt 1
-data.zddv.txt 1
+data.zcbe.txt 5.688648708166832
+data.zdaw.txt 3.5891377275982888
+data.zddv.txt 3.5891377275982888

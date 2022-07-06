@@ -1,8 +1,8 @@
 7
-data.ff.txt 1
-data.mo.txt 1
-data.tv.txt 1
-data.zawo.txt 1
-data.zbjh.txt 1
-data.zdgv.txt 1
-data.zdle.txt 1
+data.ff.txt 3.0018356045764243
+data.mo.txt 3.0018356045764243
+data.tv.txt 3.0018356045764243
+data.zawo.txt 3.0018356045764243
+data.zbjh.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdle.txt 3.0018356045764243

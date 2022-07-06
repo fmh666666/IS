@@ -1,14 +1,14 @@
 13
-data.zafy.txt 1
-data.zane.txt 1
-data.zbbt.txt 1
-data.zbpc.txt 1
-data.zcln.txt 1
-data.zcqs.txt 1
-data.zdcj.txt 1
-data.zdod.txt 3
-data.zdtr.txt 3
-data.zduk.txt 1
-data.zdwl.txt 4
-data.zeqh.txt 2
-data.zesi.txt 5
+data.zafy.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zbbt.txt 2.5727503226135906
+data.zbpc.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zcqs.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zdod.txt 5.145500645227181
+data.zdtr.txt 5.145500645227181
+data.zduk.txt 2.5727503226135906
+data.zdwl.txt 5.97374125520702
+data.zeqh.txt 4.077712785060798
+data.zesi.txt 6.650463107674388

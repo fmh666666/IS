@@ -1,4 +1,4 @@
 3
-data.xe.txt 1
-data.zcxp.txt 1
-data.zegz.txt 1
+data.xe.txt 3.5891377275982888
+data.zcxp.txt 3.5891377275982888
+data.zegz.txt 3.5891377275982888

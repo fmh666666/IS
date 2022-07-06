@@ -1,14 +1,14 @@
 13
-data.kq.txt 1
-data.qn.txt 1
-data.ud.txt 1
-data.zadv.txt 1
-data.zaqr.txt 1
-data.zasd.txt 1
-data.zawb.txt 1
-data.zbrj.txt 1
-data.zbru.txt 1
-data.zbsl.txt 2
-data.zbua.txt 1
-data.zctn.txt 3
-data.zdzg.txt 1
+data.kq.txt 2.5727503226135906
+data.qn.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zaqr.txt 2.5727503226135906
+data.zasd.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zbrj.txt 2.5727503226135906
+data.zbru.txt 2.5727503226135906
+data.zbsl.txt 4.077712785060798
+data.zbua.txt 2.5727503226135906
+data.zctn.txt 5.145500645227181
+data.zdzg.txt 2.5727503226135906

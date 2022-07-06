@@ -1,11 +1,11 @@
 10
-data.cz.txt 1
-data.zalj.txt 1
-data.zall.txt 1
-data.zarr.txt 1
-data.zbbt.txt 2
-data.zcdg.txt 1
-data.zctp.txt 1
-data.zdhw.txt 1
-data.zdic.txt 1
-data.zeyg.txt 1
+data.cz.txt 2.7546073728089153
+data.zalj.txt 2.7546073728089153
+data.zall.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zbbt.txt 4.365949390112154
+data.zcdg.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdhw.txt 2.7546073728089153
+data.zdic.txt 2.7546073728089153
+data.zeyg.txt 2.7546073728089153

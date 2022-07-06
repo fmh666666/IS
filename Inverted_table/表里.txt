@@ -1,10 +1,10 @@
 9
-data.jj.txt 3
-data.mo.txt 1
-data.zabe.txt 1
-data.zalm.txt 1
-data.zaql.txt 1
-data.zawb.txt 1
-data.zddb.txt 2
-data.zdkc.txt 1
-data.zexk.txt 1
+data.jj.txt 5.65527543435896
+data.mo.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zaql.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zddb.txt 4.48169974735425
+data.zdkc.txt 2.82763771717948
+data.zexk.txt 2.82763771717948

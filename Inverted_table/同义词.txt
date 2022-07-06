@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.zakb.txt 1
-data.zank.txt 1
-data.zctn.txt 1
-data.zdgp.txt 1
-data.zdzm.txt 1
+data.gw.txt 3.1086847136800873
+data.zakb.txt 3.1086847136800873
+data.zank.txt 3.1086847136800873
+data.zctn.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873

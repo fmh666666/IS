@@ -1,4 +1,4 @@
 3
-data.zbfr.txt 1
-data.zeam.txt 1
-data.zelt.txt 2
+data.zbfr.txt 3.5891377275982888
+data.zeam.txt 3.5891377275982888
+data.zelt.txt 5.688648708166832

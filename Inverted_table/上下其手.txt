@@ -1,4 +1,4 @@
 3
-data.yx.txt 1
-data.zbwq.txt 1
-data.zdil.txt 1
+data.yx.txt 3.5891377275982888
+data.zbwq.txt 3.5891377275982888
+data.zdil.txt 3.5891377275982888

@@ -1,11 +1,11 @@
 10
-data.fz.txt 1
-data.zafy.txt 1
-data.zavx.txt 1
-data.zawo.txt 1
-data.zblr.txt 1
-data.zbut.txt 1
-data.zbvn.txt 2
-data.zbvp.txt 1
-data.zeac.txt 2
-data.zerh.txt 2
+data.fz.txt 2.7546073728089153
+data.zafy.txt 2.7546073728089153
+data.zavx.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zblr.txt 2.7546073728089153
+data.zbut.txt 2.7546073728089153
+data.zbvn.txt 4.365949390112154
+data.zbvp.txt 2.7546073728089153
+data.zeac.txt 4.365949390112154
+data.zerh.txt 4.365949390112154

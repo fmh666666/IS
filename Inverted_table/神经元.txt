@@ -1,5 +1,5 @@
 4
-data.zbds.txt 1
-data.zbwa.txt 1
-data.zcak.txt 2
-data.zegk.txt 1
+data.zbds.txt 3.389731710180695
+data.zbwa.txt 3.389731710180695
+data.zcak.txt 5.372597648141796
+data.zegk.txt 3.389731710180695

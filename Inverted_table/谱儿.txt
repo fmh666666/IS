@@ -1,9 +1,9 @@
 8
-data.zajo.txt 2
-data.zbuj.txt 1
-data.zcee.txt 1
-data.zdep.txt 1
-data.zdhv.txt 1
-data.zduo.txt 1
-data.zexu.txt 22
-data.zexv.txt 10
+data.zajo.txt 4.611097637722987
+data.zbuj.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zexu.txt 13.160302429980161
+data.zexv.txt 10.064450709278365

@@ -1,5 +1,5 @@
 4
-data.fp.txt 2
-data.zbts.txt 1
-data.zbua.txt 1
-data.zcel.txt 1
+data.fp.txt 5.372597648141796
+data.zbts.txt 3.389731710180695
+data.zbua.txt 3.389731710180695
+data.zcel.txt 3.389731710180695

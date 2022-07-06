@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.op.txt 1
-data.zdro.txt 1
-data.zevq.txt 1
-data.zexm.txt 1
+data.bf.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.zdro.txt 3.235060386727117
+data.zevq.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

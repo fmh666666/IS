@@ -1,8 +1,8 @@
 7
-data.gw.txt 1
-data.tv.txt 1
-data.zasy.txt 1
-data.zazx.txt 1
-data.zdaq.txt 2
-data.zdar.txt 4
-data.zdtr.txt 1
+data.gw.txt 3.0018356045764243
+data.tv.txt 3.0018356045764243
+data.zasy.txt 3.0018356045764243
+data.zazx.txt 3.0018356045764243
+data.zdaq.txt 4.757796866583254
+data.zdar.txt 6.970046426499191
+data.zdtr.txt 3.0018356045764243

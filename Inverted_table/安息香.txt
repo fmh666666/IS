@@ -1,4 +1,4 @@
 3
-data.kt.txt 2
-data.zcdg.txt 1
-data.zduc.txt 3
+data.kt.txt 5.688648708166832
+data.zcdg.txt 3.5891377275982888
+data.zduc.txt 7.1782754551965775

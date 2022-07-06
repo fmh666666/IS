@@ -1,4 +1,4 @@
 3
-data.zbnp.txt 2
-data.zcih.txt 1
-data.zcqs.txt 1
+data.zbnp.txt 5.688648708166832
+data.zcih.txt 3.5891377275982888
+data.zcqs.txt 3.5891377275982888

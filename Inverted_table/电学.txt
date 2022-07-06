@@ -1,5 +1,5 @@
 4
-data.zazo.txt 1
-data.zcll.txt 1
-data.zdgt.txt 2
-data.zeqh.txt 3
+data.zazo.txt 3.389731710180695
+data.zcll.txt 3.389731710180695
+data.zdgt.txt 5.372597648141796
+data.zeqh.txt 6.77946342036139

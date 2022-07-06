@@ -1,10 +1,10 @@
 9
-data.ry.txt 1
-data.ye.txt 1
-data.zajo.txt 1
-data.zbse.txt 1
-data.zbvn.txt 1
-data.zcdy.txt 1
-data.zcko.txt 1
-data.zdeq.txt 1
-data.zegk.txt 1
+data.ry.txt 2.82763771717948
+data.ye.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zbse.txt 2.82763771717948
+data.zbvn.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcko.txt 2.82763771717948
+data.zdeq.txt 2.82763771717948
+data.zegk.txt 2.82763771717948

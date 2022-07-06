@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.tv.txt 1
-data.yx.txt 1
-data.zaop.txt 1
-data.zapf.txt 1
-data.zazn.txt 1
-data.zbfr.txt 1
-data.zbhv.txt 1
-data.zbkj.txt 1
-data.zbvm.txt 1
-data.zddm.txt 1
-data.zdsh.txt 1
+data.bf.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.yx.txt 2.628231699761886
+data.zaop.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbfr.txt 2.628231699761886
+data.zbhv.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zddm.txt 2.628231699761886
+data.zdsh.txt 2.628231699761886

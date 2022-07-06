@@ -1,9 +1,9 @@
 8
-data.op.txt 2
-data.zciq.txt 1
-data.zcni.txt 1
-data.zdll.txt 1
-data.zeag.txt 1
-data.zene.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.op.txt 4.611097637722987
+data.zciq.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdll.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

@@ -1,8 +1,8 @@
 7
-data.zbbt.txt 16
-data.zbcj.txt 1
-data.zciy.txt 2
-data.zdgt.txt 1
-data.zdgv.txt 1
-data.zdll.txt 11
-data.zdlm.txt 3
+data.zbbt.txt 12.269891489248383
+data.zbcj.txt 3.0018356045764243
+data.zciy.txt 4.757796866583254
+data.zdgt.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdll.txt 10.761468075736103
+data.zdlm.txt 6.003671209152849

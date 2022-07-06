@@ -1,10 +1,10 @@
 9
-data.ew.txt 2
-data.zacd.txt 1
-data.zbel.txt 1
-data.zbsl.txt 4
-data.zcsu.txt 1
-data.zdlg.txt 1
-data.zdlw.txt 1
-data.zdwk.txt 1
-data.zekw.txt 3
+data.ew.txt 4.48169974735425
+data.zacd.txt 2.82763771717948
+data.zbel.txt 2.82763771717948
+data.zbsl.txt 6.565571457682201
+data.zcsu.txt 2.82763771717948
+data.zdlg.txt 2.82763771717948
+data.zdlw.txt 2.82763771717948
+data.zdwk.txt 2.82763771717948
+data.zekw.txt 5.65527543435896

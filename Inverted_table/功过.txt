@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.kq.txt 1
-data.mt.txt 1
-data.zafi.txt 1
-data.zapl.txt 1
-data.zcdz.txt 1
-data.zess.txt 2
-data.zezy.txt 1
+data.jf.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.zafi.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zess.txt 4.611097637722987
+data.zezy.txt 2.9092786962624935

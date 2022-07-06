@@ -1,11 +1,11 @@
 10
-data.fj.txt 1
-data.ga.txt 1
-data.zacw.txt 1
-data.zaim.txt 1
-data.zane.txt 1
-data.zbor.txt 1
-data.zbye.txt 1
-data.zcdz.txt 3
-data.zcvq.txt 1
-data.zeyg.txt 1
+data.fj.txt 2.7546073728089153
+data.ga.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zane.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbye.txt 2.7546073728089153
+data.zcdz.txt 5.509214745617831
+data.zcvq.txt 2.7546073728089153
+data.zeyg.txt 2.7546073728089153

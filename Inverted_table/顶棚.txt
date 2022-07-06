@@ -1,7 +1,7 @@
 6
-data.zakb.txt 1
-data.zbfg.txt 1
-data.zcis.txt 1
-data.zduk.txt 2
-data.zeik.txt 3
-data.zeqv.txt 1
+data.zakb.txt 3.1086847136800873
+data.zbfg.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zduk.txt 4.927148697748023
+data.zeik.txt 6.2173694273601745
+data.zeqv.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.fj.txt 2
-data.zacd.txt 1
-data.zasy.txt 1
-data.zcee.txt 1
-data.zcej.txt 1
-data.zctm.txt 1
-data.zddp.txt 1
-data.zeeh.txt 4
-data.zeos.txt 1
+data.fj.txt 4.48169974735425
+data.zacd.txt 2.82763771717948
+data.zasy.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zcej.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zeeh.txt 6.565571457682201
+data.zeos.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.ok.txt 1
-data.zafk.txt 2
-data.zaub.txt 1
-data.zawb.txt 1
-data.zbgu.txt 1
-data.zcdv.txt 1
-data.zctn.txt 1
-data.zczb.txt 1
-data.zdzm.txt 3
-data.zedk.txt 1
-data.zenw.txt 2
+data.ok.txt 2.6885433903988862
+data.zafk.txt 4.261240455343955
+data.zaub.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbgu.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zctn.txt 2.6885433903988862
+data.zczb.txt 2.6885433903988862
+data.zdzm.txt 5.3770867807977725
+data.zedk.txt 2.6885433903988862
+data.zenw.txt 4.261240455343955

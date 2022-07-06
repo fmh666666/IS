@@ -1,5 +1,5 @@
 4
-data.mu.txt 1
-data.zaxj.txt 1
-data.zbqu.txt 1
-data.zess.txt 1
+data.mu.txt 3.389731710180695
+data.zaxj.txt 3.389731710180695
+data.zbqu.txt 3.389731710180695
+data.zess.txt 3.389731710180695

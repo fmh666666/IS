@@ -1,6 +1,6 @@
 5
-data.zcdv.txt 1
-data.zcjy.txt 1
-data.zduo.txt 1
-data.zdzn.txt 2
-data.zehb.txt 1
+data.zcdv.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zdzn.txt 5.1274494005309625
+data.zehb.txt 3.235060386727117

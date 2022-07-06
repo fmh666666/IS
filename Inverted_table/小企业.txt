@@ -1,7 +1,7 @@
 6
-data.zaim.txt 1
-data.zbzf.txt 1
-data.zcdz.txt 5
-data.zcsu.txt 1
-data.zebn.txt 14
-data.zfae.txt 1
+data.zaim.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcdz.txt 8.03583341142811
+data.zcsu.txt 3.1086847136800873
+data.zebn.txt 12.145291072588693
+data.zfae.txt 3.1086847136800873

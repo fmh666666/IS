@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.bf.txt 1
-data.zbjc.txt 1
-data.zbye.txt 1
-data.zcjy.txt 1
+data.bb.txt 3.235060386727117
+data.bf.txt 3.235060386727117
+data.zbjc.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117

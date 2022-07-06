@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.qn.txt 1
-data.vm.txt 1
-data.zaic.txt 1
-data.zedo.txt 1
-data.zefw.txt 1
+data.hp.txt 3.1086847136800873
+data.qn.txt 3.1086847136800873
+data.vm.txt 3.1086847136800873
+data.zaic.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zefw.txt 3.1086847136800873

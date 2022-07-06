@@ -1,6 +1,6 @@
 5
-data.hp.txt 2
-data.zafl.txt 1
-data.zcvq.txt 1
-data.zdaa.txt 2
-data.zeoh.txt 1
+data.hp.txt 5.1274494005309625
+data.zafl.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zdaa.txt 5.1274494005309625
+data.zeoh.txt 3.235060386727117

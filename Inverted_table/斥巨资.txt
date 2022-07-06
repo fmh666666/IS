@@ -1,4 +1,4 @@
 3
-data.zayd.txt 2
-data.zcis.txt 1
-data.zeyu.txt 1
+data.zayd.txt 5.688648708166832
+data.zcis.txt 3.5891377275982888
+data.zeyu.txt 3.5891377275982888

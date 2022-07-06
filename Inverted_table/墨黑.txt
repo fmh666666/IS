@@ -1,7 +1,7 @@
 6
-data.aj.txt 1
-data.zadv.txt 3
-data.zcmn.txt 1
-data.zcpx.txt 2
-data.zdro.txt 1
-data.zdzn.txt 1
+data.aj.txt 3.1086847136800873
+data.zadv.txt 6.2173694273601745
+data.zcmn.txt 3.1086847136800873
+data.zcpx.txt 4.927148697748023
+data.zdro.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873

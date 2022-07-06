@@ -1,4 +1,4 @@
 3
-data.zawc.txt 1
-data.zbkv.txt 1
-data.zcbe.txt 1
+data.zawc.txt 3.5891377275982888
+data.zbkv.txt 3.5891377275982888
+data.zcbe.txt 3.5891377275982888

@@ -1,14 +1,14 @@
 13
-data.ee.txt 1
-data.mk.txt 1
-data.zabx.txt 1
-data.zapl.txt 1
-data.zazn.txt 1
-data.zbfr.txt 1
-data.zbkf.txt 1
-data.zczj.txt 1
-data.zdkc.txt 1
-data.zdtr.txt 1
-data.zdud.txt 1
-data.zeeq.txt 1
-data.zevt.txt 2
+data.ee.txt 2.5727503226135906
+data.mk.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zazn.txt 2.5727503226135906
+data.zbfr.txt 2.5727503226135906
+data.zbkf.txt 2.5727503226135906
+data.zczj.txt 2.5727503226135906
+data.zdkc.txt 2.5727503226135906
+data.zdtr.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zeeq.txt 2.5727503226135906
+data.zevt.txt 4.077712785060798

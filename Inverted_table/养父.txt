@@ -1,9 +1,9 @@
 8
-data.zako.txt 1
-data.zbfz.txt 1
-data.zbof.txt 1
-data.zcqe.txt 1
-data.zdme.txt 2
-data.zdod.txt 4
-data.zenw.txt 1
-data.zfae.txt 2
+data.zako.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zdme.txt 4.611097637722987
+data.zdod.txt 6.7551359407091605
+data.zenw.txt 2.9092786962624935
+data.zfae.txt 4.611097637722987

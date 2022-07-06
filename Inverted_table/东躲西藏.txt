@@ -1,8 +1,8 @@
 7
-data.jj.txt 1
-data.zaoy.txt 1
-data.zbds.txt 1
-data.zbsl.txt 1
-data.zcni.txt 1
-data.zcon.txt 1
-data.zcve.txt 1
+data.jj.txt 3.0018356045764243
+data.zaoy.txt 3.0018356045764243
+data.zbds.txt 3.0018356045764243
+data.zbsl.txt 3.0018356045764243
+data.zcni.txt 3.0018356045764243
+data.zcon.txt 3.0018356045764243
+data.zcve.txt 3.0018356045764243

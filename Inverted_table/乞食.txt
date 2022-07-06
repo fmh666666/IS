@@ -1,7 +1,7 @@
 6
-data.mx.txt 1
-data.nh.txt 1
-data.zabe.txt 1
-data.zciy.txt 1
-data.zczp.txt 1
-data.zdkk.txt 1
+data.mx.txt 3.1086847136800873
+data.nh.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zciy.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873

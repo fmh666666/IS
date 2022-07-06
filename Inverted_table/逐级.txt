@@ -1,9 +1,9 @@
 8
-data.zarr.txt 1
-data.zawc.txt 1
-data.zbfx.txt 1
-data.zcdl.txt 1
-data.zcdz.txt 1
-data.zdil.txt 1
-data.zeec.txt 1
-data.zezy.txt 1
+data.zarr.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

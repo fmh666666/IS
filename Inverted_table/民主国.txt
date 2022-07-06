@@ -1,7 +1,7 @@
 6
-data.op.txt 7
-data.zawb.txt 2
-data.zbjk.txt 1
-data.zefw.txt 1
-data.zevq.txt 1
-data.zfbr.txt 1
+data.op.txt 9.326054141040261
+data.zawb.txt 4.927148697748023
+data.zbjk.txt 3.1086847136800873
+data.zefw.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873
+data.zfbr.txt 3.1086847136800873

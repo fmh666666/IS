@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.pn.txt 1
-data.zawb.txt 1
-data.zbua.txt 1
-data.zczp.txt 1
-data.zdaq.txt 1
-data.zdic.txt 1
-data.zdpf.txt 1
+data.kt.txt 2.9092786962624935
+data.pn.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbua.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdaq.txt 2.9092786962624935
+data.zdic.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935

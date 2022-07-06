@@ -1,7 +1,7 @@
 6
-data.en.txt 1
-data.ep.txt 1
-data.fp.txt 1
-data.zafi.txt 1
-data.zaqp.txt 1
-data.zasr.txt 1
+data.en.txt 3.1086847136800873
+data.ep.txt 3.1086847136800873
+data.fp.txt 3.1086847136800873
+data.zafi.txt 3.1086847136800873
+data.zaqp.txt 3.1086847136800873
+data.zasr.txt 3.1086847136800873

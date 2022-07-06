@@ -1,12 +1,12 @@
 11
-data.xk.txt 1
-data.zadv.txt 1
-data.zalt.txt 1
-data.zavg.txt 1
-data.zaxk.txt 1
-data.zcni.txt 1
-data.zdcj.txt 2
-data.zddb.txt 2
-data.zeaj.txt 1
-data.zeyu.txt 2
-data.zfai.txt 1
+data.xk.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zalt.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zdcj.txt 4.261240455343955
+data.zddb.txt 4.261240455343955
+data.zeaj.txt 2.6885433903988862
+data.zeyu.txt 4.261240455343955
+data.zfai.txt 2.6885433903988862

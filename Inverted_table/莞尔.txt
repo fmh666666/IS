@@ -1,7 +1,7 @@
 6
-data.zbhd.txt 1
-data.zbkr.txt 1
-data.zbpp.txt 1
-data.zbre.txt 1
-data.zcmv.txt 1
-data.zeqn.txt 1
+data.zbhd.txt 3.1086847136800873
+data.zbkr.txt 3.1086847136800873
+data.zbpp.txt 3.1086847136800873
+data.zbre.txt 3.1086847136800873
+data.zcmv.txt 3.1086847136800873
+data.zeqn.txt 3.1086847136800873

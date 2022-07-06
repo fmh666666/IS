@@ -1,6 +1,6 @@
 5
-data.hz.txt 18
-data.zasq.txt 4
-data.zbhe.txt 1
-data.zbjq.txt 1
-data.zdaw.txt 1
+data.hz.txt 13.742302024429566
+data.zasq.txt 7.511577600598868
+data.zbhe.txt 3.235060386727117
+data.zbjq.txt 3.235060386727117
+data.zdaw.txt 3.235060386727117

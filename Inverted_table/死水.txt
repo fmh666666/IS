@@ -1,8 +1,8 @@
 7
-data.zbcc.txt 1
-data.zciy.txt 1
-data.zdsh.txt 1
-data.zdud.txt 1
-data.zdwl.txt 2
-data.zefv.txt 1
-data.zehb.txt 15
+data.zbcc.txt 3.0018356045764243
+data.zciy.txt 3.0018356045764243
+data.zdsh.txt 3.0018356045764243
+data.zdud.txt 3.0018356045764243
+data.zdwl.txt 4.757796866583254
+data.zefv.txt 3.0018356045764243
+data.zehb.txt 12.007342418305697

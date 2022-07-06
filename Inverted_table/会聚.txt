@@ -1,9 +1,9 @@
 8
-data.zchw.txt 1
-data.zcpb.txt 1
-data.zcrk.txt 1
-data.zcrn.txt 1
-data.zdeb.txt 1
-data.zdud.txt 1
-data.zdzm.txt 1
-data.zezh.txt 3
+data.zchw.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zcrn.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zezh.txt 5.818557392524987

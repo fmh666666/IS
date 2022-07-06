@@ -1,6 +1,6 @@
 5
-data.zabx.txt 1
-data.zafq.txt 1
-data.zbpm.txt 1
-data.zeyu.txt 1
-data.zfai.txt 2
+data.zabx.txt 3.235060386727117
+data.zafq.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

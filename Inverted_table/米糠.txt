@@ -1,7 +1,7 @@
 6
-data.zcpc.txt 1
-data.zcxq.txt 1
-data.zdju.txt 1
-data.zefd.txt 1
-data.zeyg.txt 1
-data.zeyy.txt 1
+data.zcpc.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zefd.txt 3.1086847136800873
+data.zeyg.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873

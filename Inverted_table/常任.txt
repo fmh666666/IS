@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.zasj.txt 2
-data.zaxx.txt 1
-data.zene.txt 1
-data.zezy.txt 1
-data.zfae.txt 1
+data.ha.txt 3.1086847136800873
+data.zasj.txt 4.927148697748023
+data.zaxx.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

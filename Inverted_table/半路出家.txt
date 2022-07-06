@@ -1,5 +1,5 @@
 4
-data.zcaq.txt 1
-data.zdqz.txt 1
-data.zebf.txt 1
-data.zfcp.txt 1
+data.zcaq.txt 3.389731710180695
+data.zdqz.txt 3.389731710180695
+data.zebf.txt 3.389731710180695
+data.zfcp.txt 3.389731710180695

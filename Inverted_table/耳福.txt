@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.zane.txt 1
-data.zaoc.txt 1
-data.zaxx.txt 1
-data.zbem.txt 1
-data.zcbm.txt 1
-data.zctm.txt 1
-data.zdkk.txt 1
-data.zeta.txt 1
+data.fe.txt 2.82763771717948
+data.zane.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zaxx.txt 2.82763771717948
+data.zbem.txt 2.82763771717948
+data.zcbm.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zdkk.txt 2.82763771717948
+data.zeta.txt 2.82763771717948

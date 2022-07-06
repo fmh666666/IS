@@ -1,6 +1,6 @@
 5
-data.ok.txt 1
-data.qn.txt 1
-data.zcpc.txt 1
-data.zddx.txt 1
-data.zeeq.txt 2
+data.ok.txt 3.235060386727117
+data.qn.txt 3.235060386727117
+data.zcpc.txt 3.235060386727117
+data.zddx.txt 3.235060386727117
+data.zeeq.txt 5.1274494005309625

@@ -1,4 +1,4 @@
 3
-data.zalm.txt 1
-data.zbux.txt 1
-data.zfas.txt 1
+data.zalm.txt 3.5891377275982888
+data.zbux.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zaxj.txt 2
-data.zcqp.txt 2
-data.zexx.txt 4
+data.zaxj.txt 5.688648708166832
+data.zcqp.txt 5.688648708166832
+data.zexx.txt 8.333719726130651

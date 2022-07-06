@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zarc.txt 1
-data.zbfd.txt 2
-data.zdrq.txt 1
-data.zfae.txt 1
+data.zajh.txt 3.235060386727117
+data.zarc.txt 3.235060386727117
+data.zbfd.txt 5.1274494005309625
+data.zdrq.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

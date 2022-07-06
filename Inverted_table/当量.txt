@@ -1,4 +1,4 @@
 3
-data.zbsm.txt 1
-data.zdzm.txt 1
-data.zfaj.txt 1
+data.zbsm.txt 3.5891377275982888
+data.zdzm.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888

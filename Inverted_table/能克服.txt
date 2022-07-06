@@ -1,11 +1,11 @@
 10
-data.mx.txt 1
-data.wc.txt 1
-data.yx.txt 1
-data.zacd.txt 1
-data.zacw.txt 1
-data.zafi.txt 1
-data.zaoy.txt 1
-data.zaxk.txt 1
-data.zddx.txt 1
-data.zduk.txt 1
+data.mx.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zacd.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zafi.txt 2.7546073728089153
+data.zaoy.txt 2.7546073728089153
+data.zaxk.txt 2.7546073728089153
+data.zddx.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153

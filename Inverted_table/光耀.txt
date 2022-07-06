@@ -1,14 +1,14 @@
 13
-data.qn.txt 1
-data.zako.txt 1
-data.zaxp.txt 1
-data.zbjh.txt 1
-data.zbpc.txt 1
-data.zbsf.txt 2
-data.zciq.txt 1
-data.zcmy.txt 1
-data.zdeb.txt 1
-data.zdmw.txt 1
-data.zeag.txt 1
-data.zeqn.txt 1
-data.zexv.txt 2
+data.qn.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zbpc.txt 2.5727503226135906
+data.zbsf.txt 4.077712785060798
+data.zciq.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zeag.txt 2.5727503226135906
+data.zeqn.txt 2.5727503226135906
+data.zexv.txt 4.077712785060798

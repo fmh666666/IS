@@ -1,6 +1,6 @@
 5
-data.ee.txt 2
-data.fp.txt 1
-data.zccu.txt 1
-data.zdeb.txt 1
-data.zefp.txt 2
+data.ee.txt 5.1274494005309625
+data.fp.txt 3.235060386727117
+data.zccu.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zefp.txt 5.1274494005309625

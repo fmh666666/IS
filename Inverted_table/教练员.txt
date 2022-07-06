@@ -1,9 +1,9 @@
 8
-data.gz.txt 1
-data.hz.txt 2
-data.zapf.txt 1
-data.zbzf.txt 1
-data.zcon.txt 1
-data.zdep.txt 3
-data.zdji.txt 1
-data.zenw.txt 1
+data.gz.txt 2.9092786962624935
+data.hz.txt 4.611097637722987
+data.zapf.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdep.txt 5.818557392524987
+data.zdji.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935

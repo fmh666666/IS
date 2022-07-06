@@ -1,11 +1,11 @@
 10
-data.zbaf.txt 1
-data.zbfz.txt 1
-data.zcrg.txt 1
-data.zdgv.txt 1
-data.zdwv.txt 1
-data.zdzi.txt 1
-data.zefs.txt 1
-data.zene.txt 1
-data.zenw.txt 1
-data.zfas.txt 1
+data.zbaf.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zcrg.txt 2.7546073728089153
+data.zdgv.txt 2.7546073728089153
+data.zdwv.txt 2.7546073728089153
+data.zdzi.txt 2.7546073728089153
+data.zefs.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zenw.txt 2.7546073728089153
+data.zfas.txt 2.7546073728089153

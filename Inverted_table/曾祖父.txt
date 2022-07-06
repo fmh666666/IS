@@ -1,10 +1,10 @@
 9
-data.tv.txt 2
-data.zadv.txt 2
-data.zasw.txt 1
-data.zawu.txt 1
-data.zcej.txt 1
-data.zcts.txt 1
-data.zdju.txt 1
-data.zdro.txt 1
-data.zezy.txt 2
+data.tv.txt 4.48169974735425
+data.zadv.txt 4.48169974735425
+data.zasw.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zcej.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zdju.txt 2.82763771717948
+data.zdro.txt 2.82763771717948
+data.zezy.txt 4.48169974735425

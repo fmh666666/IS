@@ -1,11 +1,11 @@
 10
-data.fz.txt 1
-data.ye.txt 1
-data.zajo.txt 2
-data.zapl.txt 1
-data.zbla.txt 1
-data.zcxq.txt 1
-data.zdju.txt 1
-data.zedx.txt 3
-data.zeqv.txt 1
-data.zewd.txt 1
+data.fz.txt 2.7546073728089153
+data.ye.txt 2.7546073728089153
+data.zajo.txt 4.365949390112154
+data.zapl.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zdju.txt 2.7546073728089153
+data.zedx.txt 5.509214745617831
+data.zeqv.txt 2.7546073728089153
+data.zewd.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.zcqe.txt 1
-data.zcrg.txt 1
-data.zdhv.txt 1
+data.zcqe.txt 3.5891377275982888
+data.zcrg.txt 3.5891377275982888
+data.zdhv.txt 3.5891377275982888

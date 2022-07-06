@@ -1,10 +1,10 @@
 9
-data.ha.txt 1
-data.tv.txt 1
-data.zbre.txt 1
-data.zchd.txt 2
-data.zcql.txt 1
-data.zcqp.txt 1
-data.zczp.txt 1
-data.zeds.txt 1
-data.zeoh.txt 1
+data.ha.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zbre.txt 2.82763771717948
+data.zchd.txt 4.48169974735425
+data.zcql.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zeds.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

@@ -1,10 +1,10 @@
 9
-data.zaip.txt 1
-data.zbcj.txt 1
-data.zbpm.txt 1
-data.zcsu.txt 2
-data.zcts.txt 1
-data.zdlo.txt 2
-data.zefu.txt 1
-data.zevq.txt 2
-data.zfai.txt 1
+data.zaip.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbpm.txt 2.82763771717948
+data.zcsu.txt 4.48169974735425
+data.zcts.txt 2.82763771717948
+data.zdlo.txt 4.48169974735425
+data.zefu.txt 2.82763771717948
+data.zevq.txt 4.48169974735425
+data.zfai.txt 2.82763771717948

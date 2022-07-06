@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.tz.txt 1
-data.zbrd.txt 2
-data.zbre.txt 4
-data.zcic.txt 1
-data.zdby.txt 1
+data.tv.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zbrd.txt 4.927148697748023
+data.zbre.txt 7.21814237484067
+data.zcic.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873

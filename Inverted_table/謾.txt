@@ -1,4 +1,4 @@
 3
-data.zalc.txt 1
-data.zbcc.txt 1
-data.zcaq.txt 5
+data.zalc.txt 3.5891377275982888
+data.zbcc.txt 3.5891377275982888
+data.zcaq.txt 9.27778643576512

@@ -1,4 +1,4 @@
 3
-data.ev.txt 1
-data.zbvp.txt 1
-data.zcmn.txt 1
+data.ev.txt 3.5891377275982888
+data.zbvp.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888

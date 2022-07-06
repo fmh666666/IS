@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.fp.txt 1
-data.to.txt 1
-data.zapf.txt 1
-data.zbdb.txt 3
-data.zbpx.txt 2
-data.zfdk.txt 1
+data.bs.txt 3.0018356045764243
+data.fp.txt 3.0018356045764243
+data.to.txt 3.0018356045764243
+data.zapf.txt 3.0018356045764243
+data.zbdb.txt 6.003671209152849
+data.zbpx.txt 4.757796866583254
+data.zfdk.txt 3.0018356045764243

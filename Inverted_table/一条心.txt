@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.en.txt 1
-data.zdoq.txt 1
-data.zdwn.txt 1
-data.zehb.txt 1
+data.be.txt 3.235060386727117
+data.en.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117
+data.zehb.txt 3.235060386727117

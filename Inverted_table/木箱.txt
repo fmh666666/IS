@@ -1,5 +1,5 @@
 4
-data.ft.txt 1
-data.tz.txt 1
-data.zctp.txt 2
-data.zdxw.txt 1
+data.ft.txt 3.389731710180695
+data.tz.txt 3.389731710180695
+data.zctp.txt 5.372597648141796
+data.zdxw.txt 3.389731710180695

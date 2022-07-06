@@ -1,9 +1,9 @@
 8
-data.zbfz.txt 2
-data.zbre.txt 1
-data.zbvg.txt 1
-data.zcpb.txt 1
-data.zczp.txt 2
-data.zdro.txt 2
-data.zelt.txt 2
-data.zeqv.txt 1
+data.zbfz.txt 4.611097637722987
+data.zbre.txt 2.9092786962624935
+data.zbvg.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zczp.txt 4.611097637722987
+data.zdro.txt 4.611097637722987
+data.zelt.txt 4.611097637722987
+data.zeqv.txt 2.9092786962624935

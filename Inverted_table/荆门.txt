@@ -1,13 +1,13 @@
 12
-data.hz.txt 2
-data.ud.txt 1
-data.wc.txt 1
-data.yx.txt 2
-data.zbpp.txt 1
-data.zbzf.txt 1
-data.zbzg.txt 1
-data.zbzo.txt 2
-data.zeid.txt 1
-data.zene.txt 1
-data.zexk.txt 1
-data.zfcj.txt 1
+data.hz.txt 4.165648687329214
+data.ud.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.yx.txt 4.165648687329214
+data.zbpp.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zbzg.txt 2.628231699761886
+data.zbzo.txt 4.165648687329214
+data.zeid.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zexk.txt 2.628231699761886
+data.zfcj.txt 2.628231699761886

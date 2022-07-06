@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zbil.txt 1
-data.zbsf.txt 1
-data.zcqs.txt 1
-data.zcxr.txt 1
+data.tz.txt 3.235060386727117
+data.zbil.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zcqs.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117

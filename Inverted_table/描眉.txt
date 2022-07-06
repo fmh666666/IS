@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.zdqx.txt 1
-data.zedx.txt 1
-data.zeta.txt 1
+data.fp.txt 3.389731710180695
+data.zdqx.txt 3.389731710180695
+data.zedx.txt 3.389731710180695
+data.zeta.txt 3.389731710180695

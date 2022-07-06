@@ -1,11 +1,11 @@
 10
-data.cn.txt 1
-data.hc.txt 1
-data.zacw.txt 1
-data.zaet.txt 1
-data.zbsl.txt 1
-data.zchw.txt 1
-data.zcyv.txt 1
-data.zdbf.txt 2
-data.zedk.txt 1
-data.zeew.txt 2
+data.cn.txt 2.7546073728089153
+data.hc.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zaet.txt 2.7546073728089153
+data.zbsl.txt 2.7546073728089153
+data.zchw.txt 2.7546073728089153
+data.zcyv.txt 2.7546073728089153
+data.zdbf.txt 4.365949390112154
+data.zedk.txt 2.7546073728089153
+data.zeew.txt 4.365949390112154

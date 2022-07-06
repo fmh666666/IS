@@ -1,9 +1,9 @@
 8
-data.ng.txt 2
-data.zass.txt 3
-data.zavx.txt 3
-data.zccu.txt 4
-data.zdeq.txt 1
-data.zdgp.txt 1
-data.zdou.txt 1
-data.zerv.txt 1
+data.ng.txt 4.611097637722987
+data.zass.txt 5.818557392524987
+data.zavx.txt 5.818557392524987
+data.zccu.txt 6.7551359407091605
+data.zdeq.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935

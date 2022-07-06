@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.kq.txt 1
-data.zctp.txt 1
+data.hz.txt 3.5891377275982888
+data.kq.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888

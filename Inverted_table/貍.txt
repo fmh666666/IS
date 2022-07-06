@@ -1,13 +1,13 @@
 12
-data.bb.txt 8
-data.to.txt 1
-data.zaic.txt 1
-data.zajh.txt 1
-data.zaxj.txt 2
-data.zbdx.txt 5
-data.zbeb.txt 1
-data.zbkv.txt 1
-data.zcku.txt 1
-data.zcmn.txt 5
-data.zduo.txt 2
-data.zdxw.txt 5
+data.bb.txt 8.331297374658428
+data.to.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zajh.txt 2.628231699761886
+data.zaxj.txt 4.165648687329214
+data.zbdx.txt 6.7938803870911
+data.zbeb.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zcku.txt 2.628231699761886
+data.zcmn.txt 6.7938803870911
+data.zduo.txt 4.165648687329214
+data.zdxw.txt 6.7938803870911

@@ -1,4 +1,4 @@
 3
-data.zate.txt 1
-data.zbeb.txt 3
-data.zcis.txt 1
+data.zate.txt 3.5891377275982888
+data.zbeb.txt 7.1782754551965775
+data.zcis.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.zaqp.txt 1
-data.zawb.txt 1
-data.zdrq.txt 1
-data.zelj.txt 1
+data.zaqp.txt 3.389731710180695
+data.zawb.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695
+data.zelj.txt 3.389731710180695

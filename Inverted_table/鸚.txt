@@ -1,2 +1,2 @@
 1
-data.qb.txt 1
+data.qb.txt 4.350637738017098

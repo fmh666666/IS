@@ -1,13 +1,13 @@
 12
-data.cz.txt 6
-data.gw.txt 2
-data.to.txt 1
-data.zaqr.txt 1
-data.zbvm.txt 1
-data.zcef.txt 1
-data.zcon.txt 1
-data.zdgt.txt 5
-data.zdmw.txt 1
-data.zdro.txt 1
-data.zdwn.txt 2
-data.zelt.txt 1
+data.cz.txt 7.378379198634354
+data.gw.txt 4.165648687329214
+data.to.txt 2.628231699761886
+data.zaqr.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zcef.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdgt.txt 6.7938803870911
+data.zdmw.txt 2.628231699761886
+data.zdro.txt 2.628231699761886
+data.zdwn.txt 4.165648687329214
+data.zelt.txt 2.628231699761886

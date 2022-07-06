@@ -1,7 +1,7 @@
 6
-data.zcmv.txt 1
-data.zcpa.txt 2
-data.zdlm.txt 1
-data.zdwv.txt 2
-data.zeos.txt 1
-data.zeta.txt 1
+data.zcmv.txt 3.1086847136800873
+data.zcpa.txt 4.927148697748023
+data.zdlm.txt 3.1086847136800873
+data.zdwv.txt 4.927148697748023
+data.zeos.txt 3.1086847136800873
+data.zeta.txt 3.1086847136800873

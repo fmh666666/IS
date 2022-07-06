@@ -1,6 +1,6 @@
 5
-data.zapl.txt 1
-data.zavg.txt 1
-data.zbvf.txt 1
-data.zcon.txt 1
-data.zdkc.txt 1
+data.zapl.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zbvf.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zdkc.txt 3.235060386727117

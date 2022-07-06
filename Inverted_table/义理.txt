@@ -1,4 +1,4 @@
 3
-data.jf.txt 2
-data.zabe.txt 1
-data.zbrj.txt 3
+data.jf.txt 5.688648708166832
+data.zabe.txt 3.5891377275982888
+data.zbrj.txt 7.1782754551965775

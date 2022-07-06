@@ -1,14 +1,14 @@
 13
-data.ka.txt 2
-data.nh.txt 1
-data.vi.txt 1
-data.wg.txt 1
-data.zanm.txt 1
-data.zapf.txt 2
-data.zawo.txt 1
-data.zbut.txt 3
-data.zcel.txt 1
-data.zdnh.txt 3
-data.zdwl.txt 1
-data.zegk.txt 1
-data.zeqh.txt 1
+data.ka.txt 4.077712785060798
+data.nh.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.wg.txt 2.5727503226135906
+data.zanm.txt 2.5727503226135906
+data.zapf.txt 4.077712785060798
+data.zawo.txt 2.5727503226135906
+data.zbut.txt 5.145500645227181
+data.zcel.txt 2.5727503226135906
+data.zdnh.txt 5.145500645227181
+data.zdwl.txt 2.5727503226135906
+data.zegk.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906

@@ -1,10 +1,10 @@
 9
-data.hz.txt 1
-data.jj.txt 1
-data.zabe.txt 1
-data.zafi.txt 1
-data.zafl.txt 1
-data.zbga.txt 2
-data.zbnx.txt 1
-data.zcuh.txt 1
-data.zdou.txt 1
+data.hz.txt 2.82763771717948
+data.jj.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zafi.txt 2.82763771717948
+data.zafl.txt 2.82763771717948
+data.zbga.txt 4.48169974735425
+data.zbnx.txt 2.82763771717948
+data.zcuh.txt 2.82763771717948
+data.zdou.txt 2.82763771717948

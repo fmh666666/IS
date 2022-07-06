@@ -1,8 +1,8 @@
 7
-data.op.txt 1
-data.vm.txt 1
-data.zawc.txt 1
-data.zcdl.txt 1
-data.zcsu.txt 2
-data.zdgp.txt 1
-data.zehb.txt 1
+data.op.txt 3.0018356045764243
+data.vm.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zcdl.txt 3.0018356045764243
+data.zcsu.txt 4.757796866583254
+data.zdgp.txt 3.0018356045764243
+data.zehb.txt 3.0018356045764243

@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.zafv.txt 1
-data.zair.txt 1
-data.zalt.txt 1
-data.zbha.txt 1
-data.zbpx.txt 1
-data.zdof.txt 1
-data.zdxw.txt 1
-data.zebc.txt 1
-data.zejk.txt 1
-data.zexx.txt 1
+data.ga.txt 2.6885433903988862
+data.zafv.txt 2.6885433903988862
+data.zair.txt 2.6885433903988862
+data.zalt.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zejk.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

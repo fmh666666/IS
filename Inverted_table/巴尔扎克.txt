@@ -1,4 +1,4 @@
 3
-data.vi.txt 1
-data.zbyv.txt 1
-data.zdcj.txt 2
+data.vi.txt 3.5891377275982888
+data.zbyv.txt 3.5891377275982888
+data.zdcj.txt 5.688648708166832

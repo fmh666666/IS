@@ -1,14 +1,14 @@
 13
-data.co.txt 1
-data.ft.txt 1
-data.mt.txt 2
-data.zadv.txt 1
-data.zapl.txt 1
-data.zawo.txt 1
-data.zbgw.txt 1
-data.zbsl.txt 1
-data.zbtx.txt 1
-data.zcrk.txt 1
-data.zeam.txt 1
-data.zedo.txt 1
-data.zezn.txt 1
+data.co.txt 2.5727503226135906
+data.ft.txt 2.5727503226135906
+data.mt.txt 4.077712785060798
+data.zadv.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zawo.txt 2.5727503226135906
+data.zbgw.txt 2.5727503226135906
+data.zbsl.txt 2.5727503226135906
+data.zbtx.txt 2.5727503226135906
+data.zcrk.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zezn.txt 2.5727503226135906

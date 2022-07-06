@@ -1,2 +1,2 @@
 1
-data.zdpf.txt 1
+data.zdpf.txt 4.350637738017098

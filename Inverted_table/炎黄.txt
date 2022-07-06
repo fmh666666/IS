@@ -1,7 +1,7 @@
 6
-data.zcts.txt 1
-data.zdkk.txt 1
-data.zdof.txt 1
-data.zeaj.txt 1
-data.zeoh.txt 1
-data.zfae.txt 5
+data.zcts.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zfae.txt 8.03583341142811

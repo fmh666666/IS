@@ -1,6 +1,6 @@
 5
-data.zbha.txt 1
-data.zbua.txt 1
-data.zcmx.txt 1
-data.zcvt.txt 1
-data.zfbr.txt 1
+data.zbha.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zcvt.txt 3.235060386727117
+data.zfbr.txt 3.235060386727117

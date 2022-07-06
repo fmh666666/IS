@@ -1,5 +1,5 @@
 4
-data.zbrj.txt 1
-data.zejk.txt 6
-data.zejn.txt 6
-data.zeva.txt 1
+data.zbrj.txt 3.389731710180695
+data.zejk.txt 9.516180001030515
+data.zejn.txt 9.516180001030515
+data.zeva.txt 3.389731710180695

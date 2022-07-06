@@ -1,11 +1,11 @@
 10
-data.op.txt 1
-data.zadv.txt 1
-data.zaic.txt 1
-data.zauy.txt 1
-data.zbkj.txt 1
-data.zbsu.txt 1
-data.zcdz.txt 1
-data.zcll.txt 1
-data.zdji.txt 1
-data.zety.txt 1
+data.op.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zauy.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zbsu.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcll.txt 2.7546073728089153
+data.zdji.txt 2.7546073728089153
+data.zety.txt 2.7546073728089153

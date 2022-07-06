@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.mu.txt 1
-data.zaoo.txt 1
-data.zbfx.txt 2
-data.zbla.txt 1
-data.zbzo.txt 1
-data.zcis.txt 1
-data.zemf.txt 1
-data.zeqh.txt 4
-data.zewp.txt 1
+data.hp.txt 2.7546073728089153
+data.mu.txt 2.7546073728089153
+data.zaoo.txt 2.7546073728089153
+data.zbfx.txt 4.365949390112154
+data.zbla.txt 2.7546073728089153
+data.zbzo.txt 2.7546073728089153
+data.zcis.txt 2.7546073728089153
+data.zemf.txt 2.7546073728089153
+data.zeqh.txt 6.396000249308887
+data.zewp.txt 2.7546073728089153

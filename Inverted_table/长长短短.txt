@@ -1,2 +1,2 @@
 1
-data.zefd.txt 1
+data.zefd.txt 4.350637738017098

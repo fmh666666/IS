@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zaql.txt 1
-data.zawb.txt 1
-data.zbeb.txt 1
-data.zczl.txt 2
+data.fp.txt 3.235060386727117
+data.zaql.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zczl.txt 5.1274494005309625

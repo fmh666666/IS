@@ -1,7 +1,7 @@
 6
-data.xe.txt 1
-data.zajh.txt 1
-data.zazw.txt 1
-data.zbdb.txt 1
-data.zcgo.txt 1
-data.zclh.txt 1
+data.xe.txt 3.1086847136800873
+data.zajh.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zclh.txt 3.1086847136800873

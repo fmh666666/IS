@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.zddx.txt 1
-data.zdme.txt 3
-data.zebc.txt 1
-data.zeeq.txt 2
-data.zeos.txt 4
+data.jf.txt 3.1086847136800873
+data.zddx.txt 3.1086847136800873
+data.zdme.txt 6.2173694273601745
+data.zebc.txt 3.1086847136800873
+data.zeeq.txt 4.927148697748023
+data.zeos.txt 7.21814237484067

@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zdaw.txt 1
-data.zdlm.txt 1
-data.zeoo.txt 1
-data.zezy.txt 1
+data.zajh.txt 3.235060386727117
+data.zdaw.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

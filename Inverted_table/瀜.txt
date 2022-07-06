@@ -1,4 +1,4 @@
 3
-data.zanh.txt 22
-data.zbzf.txt 64
-data.zbzg.txt 77
+data.zanh.txt 16.235686879612537
+data.zbzf.txt 21.615107527214022
+data.zbzg.txt 22.55917423684849

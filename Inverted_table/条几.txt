@@ -1,3 +1,3 @@
 2
-data.zbga.txt 1
-data.zcxp.txt 1
+data.zbga.txt 3.8701847240988965
+data.zcxp.txt 3.8701847240988965

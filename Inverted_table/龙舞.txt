@@ -1,10 +1,10 @@
 9
-data.mx.txt 3
-data.ud.txt 1
-data.zafi.txt 4
-data.zajh.txt 1
-data.zaxj.txt 1
-data.zbua.txt 22
-data.zcby.txt 1
-data.zcdv.txt 8
-data.zdqx.txt 1
+data.mx.txt 5.65527543435896
+data.ud.txt 2.82763771717948
+data.zafi.txt 6.565571457682201
+data.zajh.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbua.txt 12.790994402944996
+data.zcby.txt 2.82763771717948
+data.zcdv.txt 8.9633994947085
+data.zdqx.txt 2.82763771717948

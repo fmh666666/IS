@@ -1,14 +1,14 @@
 13
-data.co.txt 1
-data.tz.txt 1
-data.zadv.txt 1
-data.zalc.txt 2
-data.zawz.txt 16
-data.zdgt.txt 1
-data.zdic.txt 1
-data.zdpw.txt 1
-data.zeoo.txt 2
-data.zeqv.txt 1
-data.zexk.txt 1
-data.zexu.txt 1
-data.zfai.txt 2
+data.co.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zalc.txt 4.077712785060798
+data.zawz.txt 10.516021343497874
+data.zdgt.txt 2.5727503226135906
+data.zdic.txt 2.5727503226135906
+data.zdpw.txt 2.5727503226135906
+data.zeoo.txt 4.077712785060798
+data.zeqv.txt 2.5727503226135906
+data.zexk.txt 2.5727503226135906
+data.zexu.txt 2.5727503226135906
+data.zfai.txt 4.077712785060798

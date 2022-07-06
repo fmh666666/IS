@@ -1,4 +1,4 @@
 3
-data.zbse.txt 3
-data.zcww.txt 1
-data.zdwl.txt 1
+data.zbse.txt 7.1782754551965775
+data.zcww.txt 3.5891377275982888
+data.zdwl.txt 3.5891377275982888

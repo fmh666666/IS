@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zafy.txt 1
-data.zawc.txt 1
-data.zbpm.txt 1
-data.zbqu.txt 3
-data.zbvm.txt 1
-data.zcmy.txt 1
-data.zelt.txt 1
-data.zfaw.txt 3
+data.fp.txt 2.82763771717948
+data.zafy.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbpm.txt 2.82763771717948
+data.zbqu.txt 5.65527543435896
+data.zbvm.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zfaw.txt 5.65527543435896

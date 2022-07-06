@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.jf.txt 12
-data.zasd.txt 1
-data.zblq.txt 1
-data.zcej.txt 2
-data.zcfn.txt 1
-data.zclm.txt 1
-data.zcrv.txt 1
-data.zcsu.txt 1
-data.zeos.txt 1
-data.zezn.txt 1
+data.hu.txt 2.6885433903988862
+data.jf.txt 9.948792745777752
+data.zasd.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zcej.txt 4.261240455343955
+data.zcfn.txt 2.6885433903988862
+data.zclm.txt 2.6885433903988862
+data.zcrv.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zeos.txt 2.6885433903988862
+data.zezn.txt 2.6885433903988862

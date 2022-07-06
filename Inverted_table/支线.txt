@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.ev.txt 1
-data.tv.txt 2
-data.tz.txt 1
-data.zciq.txt 1
-data.zddp.txt 1
-data.zeel.txt 1
-data.zeqv.txt 2
+data.cq.txt 2.9092786962624935
+data.ev.txt 2.9092786962624935
+data.tv.txt 4.611097637722987
+data.tz.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935
+data.zeqv.txt 4.611097637722987

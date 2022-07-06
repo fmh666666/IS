@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zafk.txt 1
-data.zeta.txt 1
+data.hg.txt 3.5891377275982888
+data.zafk.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

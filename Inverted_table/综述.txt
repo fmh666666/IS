@@ -1,10 +1,10 @@
 9
-data.xk.txt 1
-data.zakb.txt 1
-data.zaxj.txt 1
-data.zbds.txt 1
-data.zcgi.txt 2
-data.zdfl.txt 1
-data.zdgp.txt 1
-data.zebf.txt 1
-data.zesq.txt 1
+data.xk.txt 2.82763771717948
+data.zakb.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zcgi.txt 4.48169974735425
+data.zdfl.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zebf.txt 2.82763771717948
+data.zesq.txt 2.82763771717948

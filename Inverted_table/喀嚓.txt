@@ -1,9 +1,9 @@
 8
-data.mo.txt 3
-data.zbjk.txt 3
-data.zbyb.txt 3
-data.zcuh.txt 3
-data.zdil.txt 2
-data.zdlw.txt 3
-data.zeoo.txt 3
-data.zexk.txt 3
+data.mo.txt 5.818557392524987
+data.zbjk.txt 5.818557392524987
+data.zbyb.txt 5.818557392524987
+data.zcuh.txt 5.818557392524987
+data.zdil.txt 4.611097637722987
+data.zdlw.txt 5.818557392524987
+data.zeoo.txt 5.818557392524987
+data.zexk.txt 5.818557392524987

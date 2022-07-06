@@ -1,13 +1,13 @@
 12
-data.tv.txt 5
-data.zafl.txt 1
-data.zafq.txt 1
-data.zbdb.txt 1
-data.zczl.txt 2
-data.zdji.txt 3
-data.zdpf.txt 1
-data.zefd.txt 4
-data.zene.txt 1
-data.zevy.txt 1
-data.zewv.txt 4
-data.zfaj.txt 1
+data.tv.txt 6.7938803870911
+data.zafl.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zczl.txt 4.165648687329214
+data.zdji.txt 5.256463399523772
+data.zdpf.txt 2.628231699761886
+data.zefd.txt 6.1025650235506905
+data.zene.txt 2.628231699761886
+data.zevy.txt 2.628231699761886
+data.zewv.txt 6.1025650235506905
+data.zfaj.txt 2.628231699761886

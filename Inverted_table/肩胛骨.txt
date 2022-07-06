@@ -1,6 +1,6 @@
 5
-data.zaeh.txt 1
-data.zazx.txt 1
-data.zbph.txt 2
-data.zbpx.txt 1
-data.zbwa.txt 1
+data.zaeh.txt 3.235060386727117
+data.zazx.txt 3.235060386727117
+data.zbph.txt 5.1274494005309625
+data.zbpx.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117

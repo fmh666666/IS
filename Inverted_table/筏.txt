@@ -1,6 +1,6 @@
 5
-data.zalj.txt 5
-data.zasr.txt 1
-data.zczl.txt 1
-data.zdeb.txt 2
-data.zezf.txt 1
+data.zalj.txt 8.362509787258078
+data.zasr.txt 3.235060386727117
+data.zczl.txt 3.235060386727117
+data.zdeb.txt 5.1274494005309625
+data.zezf.txt 3.235060386727117

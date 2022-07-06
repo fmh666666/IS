@@ -1,6 +1,6 @@
 5
-data.ye.txt 1
-data.zbla.txt 1
-data.zcdv.txt 7
-data.zcxp.txt 1
-data.zduk.txt 1
+data.ye.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zcdv.txt 9.70518116018135
+data.zcxp.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

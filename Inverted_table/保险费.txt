@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zaim.txt 1
-data.zawb.txt 1
-data.zbdx.txt 1
-data.zbor.txt 2
-data.zdar.txt 1
+data.zabe.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zbdx.txt 3.1086847136800873
+data.zbor.txt 4.927148697748023
+data.zdar.txt 3.1086847136800873

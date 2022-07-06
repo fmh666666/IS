@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zaxk.txt 1
-data.zcrg.txt 1
+data.op.txt 3.5891377275982888
+data.zaxk.txt 3.5891377275982888
+data.zcrg.txt 3.5891377275982888

@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.fz.txt 1
-data.zabe.txt 1
-data.zako.txt 1
-data.zamp.txt 1
-data.zarr.txt 1
-data.zbhd.txt 1
-data.zcee.txt 1
-data.zfaj.txt 2
+data.bs.txt 2.82763771717948
+data.fz.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zamp.txt 2.82763771717948
+data.zarr.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425

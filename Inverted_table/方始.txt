@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zbpx.txt 2
-data.zeeh.txt 1
+data.ud.txt 3.5891377275982888
+data.zbpx.txt 5.688648708166832
+data.zeeh.txt 3.5891377275982888

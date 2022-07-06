@@ -1,11 +1,11 @@
 10
-data.zafk.txt 1
-data.zane.txt 1
-data.zbfr.txt 1
-data.zcql.txt 1
-data.zcue.txt 1
-data.zddv.txt 1
-data.zdyv.txt 1
-data.zdzn.txt 1
-data.zefd.txt 1
-data.zeoh.txt 1
+data.zafk.txt 2.7546073728089153
+data.zane.txt 2.7546073728089153
+data.zbfr.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zddv.txt 2.7546073728089153
+data.zdyv.txt 2.7546073728089153
+data.zdzn.txt 2.7546073728089153
+data.zefd.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

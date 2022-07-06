@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zacw.txt 2
-data.zard.txt 1
-data.zaub.txt 1
-data.zawu.txt 1
-data.zcdg.txt 1
-data.zcgi.txt 1
-data.zegk.txt 2
+data.yx.txt 2.9092786962624935
+data.zacw.txt 4.611097637722987
+data.zard.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcgi.txt 2.9092786962624935
+data.zegk.txt 4.611097637722987

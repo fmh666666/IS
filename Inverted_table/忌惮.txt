@@ -1,8 +1,8 @@
 7
-data.mt.txt 1
-data.zabx.txt 1
-data.zbkj.txt 1
-data.zdju.txt 1
-data.zdlw.txt 1
-data.zeaj.txt 1
-data.zezf.txt 1
+data.mt.txt 3.0018356045764243
+data.zabx.txt 3.0018356045764243
+data.zbkj.txt 3.0018356045764243
+data.zdju.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zeaj.txt 3.0018356045764243
+data.zezf.txt 3.0018356045764243

@@ -1,10 +1,10 @@
 9
-data.zbre.txt 1
-data.zcel.txt 1
-data.zcjo.txt 1
-data.zdlo.txt 1
-data.zdqk.txt 5
-data.zdzi.txt 1
-data.zefw.txt 1
-data.zeqh.txt 1
-data.zfai.txt 1
+data.zbre.txt 2.82763771717948
+data.zcel.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948
+data.zdqk.txt 7.309337464533731
+data.zdzi.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zeqh.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

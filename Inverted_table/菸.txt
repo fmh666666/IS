@@ -1,4 +1,4 @@
 3
-data.zaxk.txt 1
-data.zclh.txt 1
-data.zctp.txt 2
+data.zaxk.txt 3.5891377275982888
+data.zclh.txt 3.5891377275982888
+data.zctp.txt 5.688648708166832

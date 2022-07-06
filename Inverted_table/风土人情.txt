@@ -1,8 +1,8 @@
 7
-data.zabx.txt 1
-data.zaxx.txt 1
-data.zbvn.txt 1
-data.zdud.txt 2
-data.zdwl.txt 1
-data.zedx.txt 1
-data.zeqn.txt 1
+data.zabx.txt 3.0018356045764243
+data.zaxx.txt 3.0018356045764243
+data.zbvn.txt 3.0018356045764243
+data.zdud.txt 4.757796866583254
+data.zdwl.txt 3.0018356045764243
+data.zedx.txt 3.0018356045764243
+data.zeqn.txt 3.0018356045764243

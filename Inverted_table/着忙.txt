@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.zcak.txt 1
-data.zcdy.txt 1
-data.zcih.txt 1
-data.zcpx.txt 1
-data.zczl.txt 1
-data.zdpg.txt 1
-data.zegk.txt 1
-data.zevy.txt 1
+data.hp.txt 2.82763771717948
+data.zcak.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zcpx.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdpg.txt 2.82763771717948
+data.zegk.txt 2.82763771717948
+data.zevy.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zawc.txt 1
-data.zbjq.txt 1
-data.zbpc.txt 1
-data.zdic.txt 1
+data.zawb.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbjq.txt 3.235060386727117
+data.zbpc.txt 3.235060386727117
+data.zdic.txt 3.235060386727117

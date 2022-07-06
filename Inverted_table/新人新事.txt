@@ -1,4 +1,4 @@
 3
-data.zbil.txt 1
-data.zblr.txt 1
-data.zcem.txt 1
+data.zbil.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888
+data.zcem.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.bb.txt 1
-data.zciy.txt 1
-data.zdgo.txt 2
-data.zeez.txt 1
+data.bb.txt 3.389731710180695
+data.zciy.txt 3.389731710180695
+data.zdgo.txt 5.372597648141796
+data.zeez.txt 3.389731710180695

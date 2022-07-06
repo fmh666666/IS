@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.zbgw.txt 1
-data.zbph.txt 2
-data.zbre.txt 2
-data.zcem.txt 1
-data.zcpc.txt 1
-data.zdme.txt 1
-data.zdnc.txt 1
-data.zdpg.txt 1
-data.zeag.txt 1
-data.zfae.txt 1
+data.hu.txt 2.6885433903988862
+data.zbgw.txt 2.6885433903988862
+data.zbph.txt 4.261240455343955
+data.zbre.txt 4.261240455343955
+data.zcem.txt 2.6885433903988862
+data.zcpc.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zdnc.txt 2.6885433903988862
+data.zdpg.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

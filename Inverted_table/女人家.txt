@@ -1,5 +1,5 @@
 4
-data.bs.txt 2
-data.zbia.txt 1
-data.zdnc.txt 1
-data.zdzg.txt 1
+data.bs.txt 5.372597648141796
+data.zbia.txt 3.389731710180695
+data.zdnc.txt 3.389731710180695
+data.zdzg.txt 3.389731710180695

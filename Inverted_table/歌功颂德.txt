@@ -1,7 +1,7 @@
 6
-data.zbye.txt 1
-data.zcdz.txt 1
-data.zcmy.txt 1
-data.zefv.txt 1
-data.zezn.txt 1
-data.zfas.txt 1
+data.zbye.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873
+data.zfas.txt 3.1086847136800873

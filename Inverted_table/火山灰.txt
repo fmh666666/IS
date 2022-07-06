@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.zawc.txt 1
-data.zawm.txt 1
-data.zbkv.txt 1
-data.zbyv.txt 1
-data.zdey.txt 1
-data.zdgp.txt 4
-data.zdwl.txt 1
-data.zeeq.txt 2
-data.zefw.txt 1
-data.zelt.txt 2
+data.bs.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zawm.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbyv.txt 2.6885433903988862
+data.zdey.txt 2.6885433903988862
+data.zdgp.txt 6.2426044324908965
+data.zdwl.txt 2.6885433903988862
+data.zeeq.txt 4.261240455343955
+data.zefw.txt 2.6885433903988862
+data.zelt.txt 4.261240455343955

@@ -1,4 +1,4 @@
 3
-data.zbta.txt 1
-data.zccu.txt 1
-data.zdji.txt 1
+data.zbta.txt 3.5891377275982888
+data.zccu.txt 3.5891377275982888
+data.zdji.txt 3.5891377275982888

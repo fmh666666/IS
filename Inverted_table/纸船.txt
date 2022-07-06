@@ -1,5 +1,5 @@
 4
-data.by.txt 1
-data.vz.txt 1
-data.zbfx.txt 1
-data.zctn.txt 1
+data.by.txt 3.389731710180695
+data.vz.txt 3.389731710180695
+data.zbfx.txt 3.389731710180695
+data.zctn.txt 3.389731710180695

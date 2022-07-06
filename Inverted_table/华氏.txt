@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zadv.txt 2
-data.zawb.txt 1
-data.zbfx.txt 1
-data.zezn.txt 1
+data.vm.txt 3.235060386727117
+data.zadv.txt 5.1274494005309625
+data.zawb.txt 3.235060386727117
+data.zbfx.txt 3.235060386727117
+data.zezn.txt 3.235060386727117

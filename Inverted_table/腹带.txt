@@ -1,4 +1,4 @@
 3
-data.pa.txt 1
-data.zbpx.txt 1
-data.zdzm.txt 1
+data.pa.txt 3.5891377275982888
+data.zbpx.txt 3.5891377275982888
+data.zdzm.txt 3.5891377275982888

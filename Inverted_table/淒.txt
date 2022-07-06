@@ -1,9 +1,9 @@
 8
-data.by.txt 2
-data.qn.txt 1
-data.zail.txt 2
-data.zalm.txt 1
-data.zbvn.txt 1
-data.zcku.txt 1
-data.zclh.txt 1
-data.zdrq.txt 4
+data.by.txt 4.611097637722987
+data.qn.txt 2.9092786962624935
+data.zail.txt 4.611097637722987
+data.zalm.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zclh.txt 2.9092786962624935
+data.zdrq.txt 6.7551359407091605

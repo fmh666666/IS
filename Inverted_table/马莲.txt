@@ -1,4 +1,4 @@
 3
-data.zbpm.txt 1
-data.zbyv.txt 2
-data.zeeh.txt 38
+data.zbpm.txt 3.5891377275982888
+data.zbyv.txt 5.688648708166832
+data.zeeh.txt 18.970036509250203

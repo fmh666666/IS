@@ -1,4 +1,4 @@
 3
-data.zawz.txt 1
-data.zdqk.txt 47
-data.zdqq.txt 43
+data.zawz.txt 3.5891377275982888
+data.zdqk.txt 20.045199618559987
+data.zdqq.txt 19.594651993694114

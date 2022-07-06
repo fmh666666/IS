@@ -1,9 +1,9 @@
 8
-data.mu.txt 1
-data.tz.txt 1
-data.zbsu.txt 1
-data.zcxh.txt 1
-data.zdrq.txt 1
-data.zegl.txt 2
-data.zegn.txt 2
-data.zezh.txt 1
+data.mu.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zcxh.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935
+data.zegl.txt 4.611097637722987
+data.zegn.txt 4.611097637722987
+data.zezh.txt 2.9092786962624935

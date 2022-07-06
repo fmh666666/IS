@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.sq.txt 2
-data.zapr.txt 1
-data.zawc.txt 2
-data.zcqe.txt 1
-data.zcse.txt 2
-data.zcue.txt 1
-data.zebn.txt 1
-data.zelt.txt 1
-data.zfae.txt 1
-data.zfai.txt 2
-data.zfaj.txt 2
+data.fp.txt 2.628231699761886
+data.sq.txt 4.165648687329214
+data.zapr.txt 2.628231699761886
+data.zawc.txt 4.165648687329214
+data.zcqe.txt 2.628231699761886
+data.zcse.txt 4.165648687329214
+data.zcue.txt 2.628231699761886
+data.zebn.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zfae.txt 2.628231699761886
+data.zfai.txt 4.165648687329214
+data.zfaj.txt 4.165648687329214

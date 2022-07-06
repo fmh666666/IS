@@ -1,7 +1,7 @@
 6
-data.pq.txt 1
-data.zbds.txt 1
-data.zcmy.txt 1
-data.zcrg.txt 1
-data.zctp.txt 1
-data.zety.txt 1
+data.pq.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zety.txt 3.1086847136800873

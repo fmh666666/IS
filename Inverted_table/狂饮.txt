@@ -1,5 +1,5 @@
 4
-data.zbfr.txt 1
-data.zbof.txt 1
-data.zcgi.txt 1
-data.zdgp.txt 1
+data.zbfr.txt 3.389731710180695
+data.zbof.txt 3.389731710180695
+data.zcgi.txt 3.389731710180695
+data.zdgp.txt 3.389731710180695

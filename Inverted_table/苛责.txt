@@ -1,10 +1,10 @@
 9
-data.ee.txt 1
-data.zaeh.txt 1
-data.zane.txt 1
-data.zard.txt 1
-data.zcdl.txt 1
-data.zcem.txt 1
-data.zcmy.txt 1
-data.zdgt.txt 1
-data.zdqx.txt 1
+data.ee.txt 2.82763771717948
+data.zaeh.txt 2.82763771717948
+data.zane.txt 2.82763771717948
+data.zard.txt 2.82763771717948
+data.zcdl.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948

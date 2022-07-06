@@ -1,6 +1,6 @@
 5
-data.zbgu.txt 1
-data.zbpx.txt 1
-data.zcon.txt 1
-data.zebn.txt 1
-data.zelt.txt 1
+data.zbgu.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zebn.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

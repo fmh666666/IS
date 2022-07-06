@@ -1,4 +1,4 @@
 3
-data.zcao.txt 1
-data.zcdy.txt 1
-data.zctm.txt 1
+data.zcao.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zctm.txt 3.5891377275982888

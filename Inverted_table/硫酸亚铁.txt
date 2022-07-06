@@ -1,9 +1,9 @@
 8
-data.ep.txt 1
-data.zadv.txt 1
-data.zaxk.txt 1
-data.zbcj.txt 1
-data.zcpa.txt 1
-data.zdey.txt 1
-data.zefw.txt 1
-data.zeos.txt 1
+data.ep.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaxk.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcpa.txt 2.9092786962624935
+data.zdey.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935
+data.zeos.txt 2.9092786962624935

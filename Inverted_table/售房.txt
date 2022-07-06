@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zapf.txt 1
-data.zduk.txt 1
-data.zedd.txt 1
-data.zedk.txt 1
+data.zalm.txt 3.235060386727117
+data.zapf.txt 3.235060386727117
+data.zduk.txt 3.235060386727117
+data.zedd.txt 3.235060386727117
+data.zedk.txt 3.235060386727117

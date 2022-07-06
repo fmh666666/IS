@@ -1,4 +1,4 @@
 3
-data.zall.txt 1
-data.zctm.txt 1
-data.zdgv.txt 1
+data.zall.txt 3.5891377275982888
+data.zctm.txt 3.5891377275982888
+data.zdgv.txt 3.5891377275982888

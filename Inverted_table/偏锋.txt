@@ -1,9 +1,9 @@
 8
-data.zavg.txt 1
-data.zbwa.txt 1
-data.zdaa.txt 1
-data.zduo.txt 1
-data.zebc.txt 1
-data.zeew.txt 1
-data.zegz.txt 1
-data.zfai.txt 1
+data.zavg.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zdaa.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

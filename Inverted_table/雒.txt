@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.xk.txt 1
-data.zafl.txt 3
-data.zcel.txt 1
-data.zfcj.txt 1
+data.tv.txt 3.235060386727117
+data.xk.txt 3.235060386727117
+data.zafl.txt 6.470120773454234
+data.zcel.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

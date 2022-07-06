@@ -1,9 +1,9 @@
 8
-data.mu.txt 1
-data.zafi.txt 1
-data.zbfd.txt 1
-data.zdbf.txt 1
-data.zddl.txt 3
-data.zelt.txt 1
-data.zeqh.txt 1
-data.zeyu.txt 1
+data.mu.txt 2.9092786962624935
+data.zafi.txt 2.9092786962624935
+data.zbfd.txt 2.9092786962624935
+data.zdbf.txt 2.9092786962624935
+data.zddl.txt 5.818557392524987
+data.zelt.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

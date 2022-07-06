@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.qn.txt 3
-data.zcse.txt 1
+data.op.txt 3.5891377275982888
+data.qn.txt 7.1782754551965775
+data.zcse.txt 3.5891377275982888

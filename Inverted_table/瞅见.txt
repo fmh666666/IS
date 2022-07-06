@@ -1,10 +1,10 @@
 9
-data.ff.txt 1
-data.zail.txt 1
-data.zass.txt 1
-data.zbdb.txt 1
-data.zcrn.txt 1
-data.zcue.txt 1
-data.zdgp.txt 1
-data.zeds.txt 1
-data.zegz.txt 1
+data.ff.txt 2.82763771717948
+data.zail.txt 2.82763771717948
+data.zass.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zeds.txt 2.82763771717948
+data.zegz.txt 2.82763771717948

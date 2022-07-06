@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zbfr.txt 8
-data.zcve.txt 1
+data.hz.txt 3.5891377275982888
+data.zbfr.txt 11.377297416333665
+data.zcve.txt 3.5891377275982888

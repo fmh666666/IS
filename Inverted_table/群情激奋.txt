@@ -1,6 +1,6 @@
 5
-data.zbdb.txt 2
-data.zcxr.txt 1
-data.zevy.txt 2
-data.zfcp.txt 1
-data.zfdk.txt 1
+data.zbdb.txt 5.1274494005309625
+data.zcxr.txt 3.235060386727117
+data.zevy.txt 5.1274494005309625
+data.zfcp.txt 3.235060386727117
+data.zfdk.txt 3.235060386727117

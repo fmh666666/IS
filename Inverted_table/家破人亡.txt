@@ -1,9 +1,9 @@
 8
-data.ff.txt 1
-data.op.txt 1
-data.zapl.txt 1
-data.zaql.txt 2
-data.zasq.txt 1
-data.zawb.txt 1
-data.zbem.txt 1
-data.zbil.txt 1
+data.ff.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zaql.txt 4.611097637722987
+data.zasq.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbem.txt 2.9092786962624935
+data.zbil.txt 2.9092786962624935

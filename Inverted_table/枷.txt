@@ -1,13 +1,13 @@
 12
-data.qn.txt 1
-data.zacw.txt 1
-data.zafq.txt 1
-data.zawb.txt 1
-data.zaxk.txt 1
-data.zaxp.txt 8
-data.zbye.txt 1
-data.zcic.txt 2
-data.zduc.txt 1
-data.zefu.txt 1
-data.zeqh.txt 1
-data.zevt.txt 1
+data.qn.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zaxp.txt 8.331297374658428
+data.zbye.txt 2.628231699761886
+data.zcic.txt 4.165648687329214
+data.zduc.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zeqh.txt 2.628231699761886
+data.zevt.txt 2.628231699761886

@@ -1,8 +1,8 @@
 7
-data.tz.txt 1
-data.zbux.txt 1
-data.zcdg.txt 1
-data.zcfn.txt 1
-data.zdil.txt 2
-data.zdwv.txt 1
-data.zess.txt 1
+data.tz.txt 3.0018356045764243
+data.zbux.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zcfn.txt 3.0018356045764243
+data.zdil.txt 4.757796866583254
+data.zdwv.txt 3.0018356045764243
+data.zess.txt 3.0018356045764243

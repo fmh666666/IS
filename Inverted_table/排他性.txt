@@ -1,7 +1,7 @@
 6
-data.hg.txt 1
-data.zawm.txt 1
-data.zbds.txt 1
-data.zedx.txt 1
-data.zegz.txt 1
-data.zfaw.txt 1
+data.hg.txt 3.1086847136800873
+data.zawm.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zfaw.txt 3.1086847136800873

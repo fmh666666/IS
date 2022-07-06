@@ -1,4 +1,4 @@
 3
-data.zbbt.txt 1
-data.zbcc.txt 1
-data.zcnn.txt 1
+data.zbbt.txt 3.5891377275982888
+data.zbcc.txt 3.5891377275982888
+data.zcnn.txt 3.5891377275982888

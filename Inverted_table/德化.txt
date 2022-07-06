@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zcvq.txt 1
-data.zdbf.txt 1
+data.hg.txt 3.5891377275982888
+data.zcvq.txt 3.5891377275982888
+data.zdbf.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.zane.txt 1
-data.zaqw.txt 2
-data.zchw.txt 1
-data.zcqs.txt 1
-data.zdsh.txt 1
-data.zegz.txt 1
-data.zehp.txt 1
-data.zekw.txt 1
+data.zane.txt 2.9092786962624935
+data.zaqw.txt 4.611097637722987
+data.zchw.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zdsh.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935

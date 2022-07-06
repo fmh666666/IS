@@ -1,5 +1,5 @@
 4
-data.cq.txt 1
-data.mu.txt 2
-data.zayd.txt 1
-data.zczl.txt 1
+data.cq.txt 3.389731710180695
+data.mu.txt 5.372597648141796
+data.zayd.txt 3.389731710180695
+data.zczl.txt 3.389731710180695

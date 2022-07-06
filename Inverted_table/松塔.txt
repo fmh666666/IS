@@ -1,4 +1,4 @@
 3
-data.zdfl.txt 2
-data.zdof.txt 1
-data.zeqh.txt 1
+data.zdfl.txt 5.688648708166832
+data.zdof.txt 3.5891377275982888
+data.zeqh.txt 3.5891377275982888

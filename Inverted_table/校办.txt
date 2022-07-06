@@ -1,4 +1,4 @@
 3
-data.jj.txt 1
-data.vm.txt 1
-data.zcmv.txt 1
+data.jj.txt 3.5891377275982888
+data.vm.txt 3.5891377275982888
+data.zcmv.txt 3.5891377275982888

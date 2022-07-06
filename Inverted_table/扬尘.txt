@@ -1,8 +1,8 @@
 7
-data.dg.txt 1
-data.zabx.txt 2
-data.zalm.txt 1
-data.zblq.txt 1
-data.zcts.txt 1
-data.zess.txt 18
-data.zewn.txt 1
+data.dg.txt 3.0018356045764243
+data.zabx.txt 4.757796866583254
+data.zalm.txt 3.0018356045764243
+data.zblq.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zess.txt 12.751580055514752
+data.zewn.txt 3.0018356045764243

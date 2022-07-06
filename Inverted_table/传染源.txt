@@ -1,4 +1,4 @@
 3
-data.zaxj.txt 1
-data.zcts.txt 1
-data.zedk.txt 1
+data.zaxj.txt 3.5891377275982888
+data.zcts.txt 3.5891377275982888
+data.zedk.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zdqq.txt 1
-data.zdzm.txt 4
-data.zeag.txt 1
-data.zeai.txt 1
+data.zako.txt 3.235060386727117
+data.zdqq.txt 3.235060386727117
+data.zdzm.txt 7.511577600598868
+data.zeag.txt 3.235060386727117
+data.zeai.txt 3.235060386727117

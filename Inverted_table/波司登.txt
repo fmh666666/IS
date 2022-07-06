@@ -1,5 +1,5 @@
 4
-data.pn.txt 4
-data.zbhd.txt 4
-data.zbqu.txt 4
-data.zerv.txt 2
+data.pn.txt 7.870713291999142
+data.zbhd.txt 7.870713291999142
+data.zbqu.txt 7.870713291999142
+data.zerv.txt 5.372597648141796

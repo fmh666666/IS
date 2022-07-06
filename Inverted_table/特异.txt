@@ -1,13 +1,13 @@
 12
-data.pa.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.vm.txt 1
-data.zapl.txt 1
-data.zcue.txt 1
-data.zdod.txt 1
-data.zdqx.txt 2
-data.zdvl.txt 1
-data.zeve.txt 1
-data.zewv.txt 2
-data.zfby.txt 1
+data.pa.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdqx.txt 4.165648687329214
+data.zdvl.txt 2.628231699761886
+data.zeve.txt 2.628231699761886
+data.zewv.txt 4.165648687329214
+data.zfby.txt 2.628231699761886

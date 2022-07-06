@@ -1,2 +1,2 @@
 1
-data.zctp.txt 5
+data.zctp.txt 11.246235406996512

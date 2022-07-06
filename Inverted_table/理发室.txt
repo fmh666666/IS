@@ -1,3 +1,3 @@
 2
-data.zajr.txt 3
-data.zdwk.txt 2
+data.zajr.txt 7.740369448197793
+data.zdwk.txt 6.134097658560606

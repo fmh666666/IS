@@ -1,5 +1,5 @@
 4
-data.zdnh.txt 1
-data.zdqx.txt 1
-data.zeqv.txt 1
-data.zexv.txt 1
+data.zdnh.txt 3.389731710180695
+data.zdqx.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695
+data.zexv.txt 3.389731710180695

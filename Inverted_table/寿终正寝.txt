@@ -1,7 +1,7 @@
 6
-data.kq.txt 1
-data.zbkr.txt 1
-data.zcdg.txt 1
-data.zcjo.txt 1
-data.zeec.txt 1
-data.zevq.txt 1
+data.kq.txt 3.1086847136800873
+data.zbkr.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

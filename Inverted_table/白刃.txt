@@ -1,4 +1,4 @@
 3
-data.zadv.txt 4
-data.zcql.txt 2
-data.zcve.txt 1
+data.zadv.txt 8.333719726130651
+data.zcql.txt 5.688648708166832
+data.zcve.txt 3.5891377275982888

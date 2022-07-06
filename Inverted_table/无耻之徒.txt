@@ -1,9 +1,9 @@
 8
-data.ha.txt 1
-data.zaeh.txt 1
-data.zako.txt 1
-data.zanh.txt 1
-data.zbha.txt 1
-data.zbmt.txt 1
-data.zbvf.txt 1
-data.zcee.txt 1
+data.ha.txt 2.9092786962624935
+data.zaeh.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zanh.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbmt.txt 2.9092786962624935
+data.zbvf.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935

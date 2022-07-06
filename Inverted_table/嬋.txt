@@ -1,5 +1,5 @@
 4
-data.zbhd.txt 1
-data.zchw.txt 1
-data.zcko.txt 6
-data.zdwv.txt 7
+data.zbhd.txt 3.389731710180695
+data.zchw.txt 3.389731710180695
+data.zcko.txt 9.516180001030515
+data.zdwv.txt 10.169195130542084

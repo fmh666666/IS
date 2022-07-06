@@ -1,6 +1,6 @@
 5
-data.bs.txt 2
-data.by.txt 1
-data.zahp.txt 8
-data.zbfr.txt 1
-data.zdkp.txt 2
+data.bs.txt 5.1274494005309625
+data.by.txt 3.235060386727117
+data.zahp.txt 10.254898801061925
+data.zbfr.txt 3.235060386727117
+data.zdkp.txt 5.1274494005309625

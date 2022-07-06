@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.zaim.txt 1
-data.zalt.txt 1
-data.zawm.txt 1
-data.zbzf.txt 1
-data.zdkk.txt 1
-data.zdod.txt 1
-data.zebf.txt 1
+data.cq.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zalt.txt 2.9092786962624935
+data.zawm.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.ga.txt 2
-data.ok.txt 1
-data.zaim.txt 1
-data.zawc.txt 1
-data.zbvm.txt 1
-data.zcgo.txt 1
-data.zcon.txt 1
-data.zcve.txt 1
-data.zddp.txt 1
-data.zdgp.txt 1
-data.zeoh.txt 2
-data.zexm.txt 4
+data.fp.txt 2.5727503226135906
+data.ga.txt 4.077712785060798
+data.ok.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zbvm.txt 2.5727503226135906
+data.zcgo.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcve.txt 2.5727503226135906
+data.zddp.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zeoh.txt 4.077712785060798
+data.zexm.txt 5.97374125520702

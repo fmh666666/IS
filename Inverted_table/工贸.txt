@@ -1,10 +1,10 @@
 9
-data.co.txt 30
-data.zbph.txt 24
-data.zbts.txt 4
-data.zbvf.txt 2
-data.zcaq.txt 2
-data.zcls.txt 2
-data.zcrg.txt 2
-data.zctn.txt 2
-data.zeva.txt 8
+data.co.txt 14.008672345561347
+data.zbph.txt 13.131142915364402
+data.zbts.txt 6.565571457682201
+data.zbvf.txt 4.48169974735425
+data.zcaq.txt 4.48169974735425
+data.zcls.txt 4.48169974735425
+data.zcrg.txt 4.48169974735425
+data.zctn.txt 4.48169974735425
+data.zeva.txt 8.9633994947085

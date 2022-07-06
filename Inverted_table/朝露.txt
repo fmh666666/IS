@@ -1,10 +1,10 @@
 9
-data.hg.txt 1
-data.kq.txt 1
-data.ng.txt 2
-data.zahd.txt 1
-data.zbht.txt 1
-data.zbla.txt 1
-data.zblh.txt 1
-data.zcis.txt 1
-data.zdqz.txt 1
+data.hg.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.ng.txt 4.48169974735425
+data.zahd.txt 2.82763771717948
+data.zbht.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zblh.txt 2.82763771717948
+data.zcis.txt 2.82763771717948
+data.zdqz.txt 2.82763771717948

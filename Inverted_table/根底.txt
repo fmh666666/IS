@@ -1,3 +1,3 @@
 2
-data.zahd.txt 1
-data.zevq.txt 1
+data.zahd.txt 3.8701847240988965
+data.zevq.txt 3.8701847240988965

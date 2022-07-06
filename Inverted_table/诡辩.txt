@@ -1,8 +1,8 @@
 7
-data.hp.txt 1
-data.zank.txt 1
-data.zaqw.txt 1
-data.zbgw.txt 1
-data.zdaa.txt 1
-data.zdgv.txt 1
-data.zdkc.txt 1
+data.hp.txt 3.0018356045764243
+data.zank.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zbgw.txt 3.0018356045764243
+data.zdaa.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdkc.txt 3.0018356045764243

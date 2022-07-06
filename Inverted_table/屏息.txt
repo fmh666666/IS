@@ -1,12 +1,12 @@
 11
-data.mo.txt 1
-data.zafq.txt 1
-data.zaic.txt 1
-data.zail.txt 1
-data.zbil.txt 1
-data.zbmw.txt 1
-data.zcem.txt 1
-data.zdwl.txt 1
-data.zdyv.txt 1
-data.zehb.txt 1
-data.zeyy.txt 1
+data.mo.txt 2.6885433903988862
+data.zafq.txt 2.6885433903988862
+data.zaic.txt 2.6885433903988862
+data.zail.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbmw.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zdyv.txt 2.6885433903988862
+data.zehb.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

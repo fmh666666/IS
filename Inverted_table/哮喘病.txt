@@ -1,5 +1,5 @@
 4
-data.ga.txt 2
-data.jj.txt 1
-data.zayv.txt 1
-data.zdlw.txt 1
+data.ga.txt 5.372597648141796
+data.jj.txt 3.389731710180695
+data.zayv.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695

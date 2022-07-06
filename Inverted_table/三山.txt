@@ -1,10 +1,10 @@
 9
-data.hg.txt 1
-data.nh.txt 2
-data.zalj.txt 1
-data.zbbt.txt 1
-data.zbeb.txt 1
-data.zczl.txt 1
-data.zdep.txt 1
-data.zdof.txt 2
-data.zexv.txt 2
+data.hg.txt 2.82763771717948
+data.nh.txt 4.48169974735425
+data.zalj.txt 2.82763771717948
+data.zbbt.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zdof.txt 4.48169974735425
+data.zexv.txt 4.48169974735425

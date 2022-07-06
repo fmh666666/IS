@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.jf.txt 3
-data.tj.txt 1
-data.wg.txt 1
-data.zbeb.txt 1
-data.zbjh.txt 1
-data.zbts.txt 2
-data.zeeh.txt 1
-data.zelj.txt 1
-data.zene.txt 1
+data.bb.txt 2.7546073728089153
+data.jf.txt 5.509214745617831
+data.tj.txt 2.7546073728089153
+data.wg.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbjh.txt 2.7546073728089153
+data.zbts.txt 4.365949390112154
+data.zeeh.txt 2.7546073728089153
+data.zelj.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

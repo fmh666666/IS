@@ -1,9 +1,9 @@
 8
-data.ha.txt 1
-data.kq.txt 1
-data.zbdb.txt 1
-data.zcbe.txt 1
-data.zdpw.txt 1
-data.zdwv.txt 1
-data.zfai.txt 1
-data.zfcg.txt 1
+data.ha.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zcbe.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zdwv.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

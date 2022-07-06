@@ -1,7 +1,7 @@
 6
-data.zaoc.txt 1
-data.zblq.txt 1
-data.zcon.txt 1
-data.zdtr.txt 1
-data.zesi.txt 2
-data.zevq.txt 1
+data.zaoc.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873
+data.zesi.txt 4.927148697748023
+data.zevq.txt 3.1086847136800873

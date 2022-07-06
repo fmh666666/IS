@@ -1,14 +1,14 @@
 13
-data.gw.txt 1
-data.mt.txt 1
-data.ok.txt 1
-data.zaop.txt 1
-data.zapr.txt 1
-data.zawc.txt 1
-data.zbfx.txt 1
-data.zbia.txt 1
-data.zcdv.txt 1
-data.zcql.txt 1
-data.zduk.txt 1
-data.zdzn.txt 1
-data.zeqv.txt 1
+data.gw.txt 2.5727503226135906
+data.mt.txt 2.5727503226135906
+data.ok.txt 2.5727503226135906
+data.zaop.txt 2.5727503226135906
+data.zapr.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zbfx.txt 2.5727503226135906
+data.zbia.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zcql.txt 2.5727503226135906
+data.zduk.txt 2.5727503226135906
+data.zdzn.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906

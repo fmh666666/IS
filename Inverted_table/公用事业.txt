@@ -1,4 +1,4 @@
 3
-data.zcdz.txt 1
-data.zcrv.txt 1
-data.zeoh.txt 1
+data.zcdz.txt 3.5891377275982888
+data.zcrv.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888

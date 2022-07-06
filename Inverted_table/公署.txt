@@ -1,6 +1,6 @@
 5
-data.zafl.txt 3
-data.zbpx.txt 1
-data.zcse.txt 1
-data.zcue.txt 2
-data.zcxr.txt 1
+data.zafl.txt 6.470120773454234
+data.zbpx.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zcue.txt 5.1274494005309625
+data.zcxr.txt 3.235060386727117

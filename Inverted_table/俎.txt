@@ -1,5 +1,5 @@
 4
-data.zawz.txt 1
-data.zdle.txt 5
-data.zdlg.txt 6
-data.zeaf.txt 2
+data.zawz.txt 3.389731710180695
+data.zdle.txt 8.762329358322491
+data.zdlg.txt 9.516180001030515
+data.zeaf.txt 5.372597648141796

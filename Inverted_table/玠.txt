@@ -1,3 +1,3 @@
 2
-data.zaoc.txt 2
-data.zewd.txt 1
+data.zaoc.txt 6.134097658560606
+data.zewd.txt 3.8701847240988965

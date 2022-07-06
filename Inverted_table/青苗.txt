@@ -1,4 +1,4 @@
 3
-data.zdpf.txt 3
-data.zedy.txt 1
-data.zeqh.txt 1
+data.zdpf.txt 7.1782754551965775
+data.zedy.txt 3.5891377275982888
+data.zeqh.txt 3.5891377275982888

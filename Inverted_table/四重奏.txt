@@ -1,9 +1,9 @@
 8
-data.fe.txt 3
-data.fp.txt 2
-data.zbts.txt 4
-data.zcjo.txt 1
-data.zdkk.txt 2
-data.zdrq.txt 2
-data.zdzm.txt 2
-data.zevt.txt 1
+data.fe.txt 5.818557392524987
+data.fp.txt 4.611097637722987
+data.zbts.txt 6.7551359407091605
+data.zcjo.txt 2.9092786962624935
+data.zdkk.txt 4.611097637722987
+data.zdrq.txt 4.611097637722987
+data.zdzm.txt 4.611097637722987
+data.zevt.txt 2.9092786962624935

@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.pa.txt 1
-data.zamp.txt 2
-data.zawc.txt 1
-data.zcll.txt 1
-data.zcni.txt 1
-data.zdgp.txt 1
-data.zdou.txt 1
-data.zdzm.txt 1
-data.zeyg.txt 1
-data.zfby.txt 3
+data.ga.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zamp.txt 4.261240455343955
+data.zawc.txt 2.6885433903988862
+data.zcll.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zdgp.txt 2.6885433903988862
+data.zdou.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862
+data.zeyg.txt 2.6885433903988862
+data.zfby.txt 5.3770867807977725

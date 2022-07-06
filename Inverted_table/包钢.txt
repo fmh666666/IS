@@ -1,4 +1,4 @@
 3
-data.zaip.txt 2
-data.zczp.txt 1
-data.zelt.txt 1
+data.zaip.txt 5.688648708166832
+data.zczp.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

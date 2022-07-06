@@ -1,9 +1,9 @@
 8
-data.gw.txt 2
-data.kt.txt 1
-data.zafe.txt 1
-data.zawc.txt 1
-data.zbga.txt 1
-data.zcmy.txt 1
-data.zcsu.txt 2
-data.zdwl.txt 1
+data.gw.txt 4.611097637722987
+data.kt.txt 2.9092786962624935
+data.zafe.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcsu.txt 4.611097637722987
+data.zdwl.txt 2.9092786962624935

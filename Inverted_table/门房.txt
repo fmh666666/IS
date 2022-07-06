@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.kq.txt 1
-data.zbjk.txt 1
-data.zbpm.txt 2
+data.fp.txt 3.389731710180695
+data.kq.txt 3.389731710180695
+data.zbjk.txt 3.389731710180695
+data.zbpm.txt 5.372597648141796

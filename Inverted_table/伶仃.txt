@@ -1,4 +1,4 @@
 3
-data.zadv.txt 3
-data.zawu.txt 4
-data.zbux.txt 1
+data.zadv.txt 7.1782754551965775
+data.zawu.txt 8.333719726130651
+data.zbux.txt 3.5891377275982888

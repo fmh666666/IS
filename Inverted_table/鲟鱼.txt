@@ -1,2 +1,2 @@
 1
-data.wg.txt 1
+data.wg.txt 4.350637738017098

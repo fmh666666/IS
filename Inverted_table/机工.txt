@@ -1,7 +1,7 @@
 6
-data.mx.txt 3
-data.ud.txt 1
-data.zazg.txt 2
-data.zcts.txt 1
-data.zdcy.txt 2
-data.zeob.txt 1
+data.mx.txt 6.2173694273601745
+data.ud.txt 3.1086847136800873
+data.zazg.txt 4.927148697748023
+data.zcts.txt 3.1086847136800873
+data.zdcy.txt 4.927148697748023
+data.zeob.txt 3.1086847136800873

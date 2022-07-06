@@ -1,9 +1,9 @@
 8
-data.mo.txt 1
-data.to.txt 3
-data.zbjq.txt 4
-data.zcxh.txt 6
-data.zeaf.txt 201
-data.zeag.txt 62
-data.zerv.txt 10
-data.zerw.txt 16
+data.mo.txt 2.9092786962624935
+data.to.txt 5.818557392524987
+data.zbjq.txt 6.7551359407091605
+data.zcxh.txt 8.16737786758984
+data.zeaf.txt 22.2798715182426
+data.zeag.txt 17.389573143035815
+data.zerv.txt 10.064450709278365
+data.zerw.txt 11.891568565814175

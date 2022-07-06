@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zbrj.txt 1
-data.zbzg.txt 3
-data.zcrk.txt 1
-data.zdkp.txt 1
+data.bb.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zbzg.txt 6.470120773454234
+data.zcrk.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117

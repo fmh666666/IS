@@ -1,5 +1,5 @@
 4
-data.ff.txt 1
-data.ok.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
+data.ff.txt 3.389731710180695
+data.ok.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695

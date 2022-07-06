@@ -1,4 +1,4 @@
 3
-data.to.txt 1
-data.zegn.txt 1
-data.zewp.txt 1
+data.to.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888
+data.zewp.txt 3.5891377275982888

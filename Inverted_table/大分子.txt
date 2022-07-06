@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zawo.txt 2
-data.zbrj.txt 2
-data.zbyv.txt 1
-data.zcbe.txt 1
-data.zccu.txt 1
-data.zcpx.txt 1
-data.zenn.txt 1
+data.gw.txt 2.9092786962624935
+data.zawo.txt 4.611097637722987
+data.zbrj.txt 4.611097637722987
+data.zbyv.txt 2.9092786962624935
+data.zcbe.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zenn.txt 2.9092786962624935

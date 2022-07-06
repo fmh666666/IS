@@ -1,7 +1,7 @@
 6
-data.op.txt 2
-data.zbpm.txt 2
-data.zcon.txt 1
-data.zcse.txt 1
-data.zcue.txt 1
-data.zfae.txt 1
+data.op.txt 4.927148697748023
+data.zbpm.txt 4.927148697748023
+data.zcon.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

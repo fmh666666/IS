@@ -1,14 +1,14 @@
 13
-data.fe.txt 1
-data.tv.txt 1
-data.xk.txt 1
-data.zasw.txt 1
-data.zcej.txt 1
-data.zcft.txt 1
-data.zdga.txt 1
-data.zebf.txt 1
-data.zeds.txt 3
-data.zelt.txt 1
-data.zenw.txt 1
-data.zeqv.txt 1
-data.zfai.txt 2
+data.fe.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.xk.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zcej.txt 2.5727503226135906
+data.zcft.txt 2.5727503226135906
+data.zdga.txt 2.5727503226135906
+data.zebf.txt 2.5727503226135906
+data.zeds.txt 5.145500645227181
+data.zelt.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906
+data.zfai.txt 4.077712785060798

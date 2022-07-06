@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zbvn.txt 2
-data.zdtr.txt 1
-data.zedk.txt 1
-data.zeoh.txt 1
+data.zacd.txt 3.235060386727117
+data.zbvn.txt 5.1274494005309625
+data.zdtr.txt 3.235060386727117
+data.zedk.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

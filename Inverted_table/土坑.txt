@@ -1,4 +1,4 @@
 3
-data.zanm.txt 1
-data.zaqw.txt 1
-data.zaub.txt 1
+data.zanm.txt 3.5891377275982888
+data.zaqw.txt 3.5891377275982888
+data.zaub.txt 3.5891377275982888

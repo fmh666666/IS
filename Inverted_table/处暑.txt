@@ -1,6 +1,6 @@
 5
-data.mt.txt 2
-data.zbjh.txt 1
-data.zbzg.txt 1
-data.zcll.txt 1
-data.zelt.txt 2
+data.mt.txt 5.1274494005309625
+data.zbjh.txt 3.235060386727117
+data.zbzg.txt 3.235060386727117
+data.zcll.txt 3.235060386727117
+data.zelt.txt 5.1274494005309625

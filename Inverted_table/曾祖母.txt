@@ -1,3 +1,3 @@
 2
-data.zawm.txt 2
-data.zciq.txt 1
+data.zawm.txt 6.134097658560606
+data.zciq.txt 3.8701847240988965

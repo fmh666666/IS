@@ -1,9 +1,9 @@
 8
-data.zalc.txt 1
-data.zbfz.txt 1
-data.zbvn.txt 7
-data.zbvp.txt 2
-data.zcrg.txt 1
-data.zdle.txt 1
-data.zdoq.txt 2
-data.zfcj.txt 2
+data.zalc.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zbvn.txt 8.72783608878748
+data.zbvp.txt 4.611097637722987
+data.zcrg.txt 2.9092786962624935
+data.zdle.txt 2.9092786962624935
+data.zdoq.txt 4.611097637722987
+data.zfcj.txt 4.611097637722987

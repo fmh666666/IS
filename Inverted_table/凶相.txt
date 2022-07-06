@@ -1,4 +1,4 @@
 3
-data.mt.txt 1
-data.zdtr.txt 1
-data.zeez.txt 1
+data.mt.txt 3.5891377275982888
+data.zdtr.txt 3.5891377275982888
+data.zeez.txt 3.5891377275982888

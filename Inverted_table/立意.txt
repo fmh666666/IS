@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.vm.txt 1
-data.zawu.txt 1
-data.zbcc.txt 1
-data.zbfz.txt 1
-data.zbor.txt 3
-data.zcdl.txt 1
-data.zdep.txt 1
-data.zdkk.txt 1
-data.zdlw.txt 1
-data.zeqv.txt 1
+data.fj.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbor.txt 5.3770867807977725
+data.zcdl.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zdkk.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zeqv.txt 2.6885433903988862

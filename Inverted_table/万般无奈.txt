@@ -1,11 +1,11 @@
 10
-data.zaxx.txt 1
-data.zbot.txt 1
-data.zbts.txt 1
-data.zcuh.txt 1
-data.zeid.txt 1
-data.zeoh.txt 1
-data.zevt.txt 1
-data.zevy.txt 1
-data.zewd.txt 1
-data.zexk.txt 1
+data.zaxx.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zbts.txt 2.7546073728089153
+data.zcuh.txt 2.7546073728089153
+data.zeid.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zevt.txt 2.7546073728089153
+data.zevy.txt 2.7546073728089153
+data.zewd.txt 2.7546073728089153
+data.zexk.txt 2.7546073728089153

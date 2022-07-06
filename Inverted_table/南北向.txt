@@ -1,3 +1,3 @@
 2
-data.zedo.txt 2
-data.zesi.txt 1
+data.zedo.txt 6.134097658560606
+data.zesi.txt 3.8701847240988965

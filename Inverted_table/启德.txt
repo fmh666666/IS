@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.jj.txt 1
-data.zayv.txt 7
-data.zbru.txt 2
-data.zbyv.txt 1
-data.zchd.txt 1
-data.zcln.txt 1
-data.zcls.txt 3
-data.zcts.txt 3
-data.zdqx.txt 3
-data.zeob.txt 2
-data.zety.txt 5
-data.zewv.txt 3
+data.be.txt 2.5727503226135906
+data.jj.txt 2.5727503226135906
+data.zayv.txt 7.7182509678407705
+data.zbru.txt 4.077712785060798
+data.zbyv.txt 2.5727503226135906
+data.zchd.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zcls.txt 5.145500645227181
+data.zcts.txt 5.145500645227181
+data.zdqx.txt 5.145500645227181
+data.zeob.txt 4.077712785060798
+data.zety.txt 6.650463107674388
+data.zewv.txt 5.145500645227181

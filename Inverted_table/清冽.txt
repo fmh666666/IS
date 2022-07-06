@@ -1,6 +1,6 @@
 5
-data.bs.txt 2
-data.zbor.txt 3
-data.zefs.txt 1
-data.zeoh.txt 1
-data.zevq.txt 1
+data.bs.txt 5.1274494005309625
+data.zbor.txt 6.470120773454234
+data.zefs.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

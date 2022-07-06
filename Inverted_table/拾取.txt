@@ -1,14 +1,14 @@
 13
-data.cq.txt 1
-data.mx.txt 1
-data.nh.txt 1
-data.zacd.txt 1
-data.zafy.txt 3
-data.zaoc.txt 2
-data.zasq.txt 1
-data.zbfg.txt 1
-data.zcdz.txt 1
-data.zcjy.txt 1
-data.zedo.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
+data.cq.txt 2.5727503226135906
+data.mx.txt 2.5727503226135906
+data.nh.txt 2.5727503226135906
+data.zacd.txt 2.5727503226135906
+data.zafy.txt 5.145500645227181
+data.zaoc.txt 4.077712785060798
+data.zasq.txt 2.5727503226135906
+data.zbfg.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcjy.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906

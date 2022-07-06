@@ -1,13 +1,13 @@
 12
-data.mo.txt 1
-data.mx.txt 1
-data.zacp.txt 1
-data.zaic.txt 1
-data.zamr.txt 1
-data.zbqu.txt 1
-data.zbrj.txt 1
-data.zcgi.txt 1
-data.zddm.txt 1
-data.zdud.txt 2
-data.zenw.txt 1
-data.zeqv.txt 1
+data.mo.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zacp.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zamr.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zddm.txt 2.628231699761886
+data.zdud.txt 4.165648687329214
+data.zenw.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886

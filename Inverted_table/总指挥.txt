@@ -1,12 +1,12 @@
 11
-data.gk.txt 2
-data.ha.txt 1
-data.zanh.txt 1
-data.zatz.txt 1
-data.zbdx.txt 1
-data.zcdg.txt 1
-data.zcnn.txt 2
-data.zczp.txt 1
-data.zelt.txt 6
-data.zenw.txt 1
-data.zfdk.txt 1
+data.gk.txt 4.261240455343955
+data.ha.txt 2.6885433903988862
+data.zanh.txt 2.6885433903988862
+data.zatz.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zcdg.txt 2.6885433903988862
+data.zcnn.txt 4.261240455343955
+data.zczp.txt 2.6885433903988862
+data.zelt.txt 7.547695520201752
+data.zenw.txt 2.6885433903988862
+data.zfdk.txt 2.6885433903988862

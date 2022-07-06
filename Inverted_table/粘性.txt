@@ -1,6 +1,6 @@
 5
-data.zake.txt 1
-data.zcrg.txt 1
-data.zcsu.txt 2
-data.zdou.txt 1
-data.zedy.txt 1
+data.zake.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zcsu.txt 5.1274494005309625
+data.zdou.txt 3.235060386727117
+data.zedy.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.zafe.txt 1
-data.zajn.txt 1
-data.zbdb.txt 1
-data.zduk.txt 2
-data.zefw.txt 1
-data.zehp.txt 1
-data.zezy.txt 1
+data.jf.txt 2.9092786962624935
+data.zafe.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zduk.txt 4.611097637722987
+data.zefw.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

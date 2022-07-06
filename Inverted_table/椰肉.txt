@@ -1,4 +1,4 @@
 3
-data.vm.txt 1
-data.zall.txt 1
-data.zefp.txt 1
+data.vm.txt 3.5891377275982888
+data.zall.txt 3.5891377275982888
+data.zefp.txt 3.5891377275982888

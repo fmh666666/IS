@@ -1,4 +1,4 @@
 3
-data.zasq.txt 2
-data.zdqz.txt 2
-data.zfaj.txt 1
+data.zasq.txt 5.688648708166832
+data.zdqz.txt 5.688648708166832
+data.zfaj.txt 3.5891377275982888

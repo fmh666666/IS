@@ -1,7 +1,7 @@
 6
-data.zawo.txt 1
-data.zbrd.txt 1
-data.zbuj.txt 1
-data.zdhv.txt 1
-data.zdzm.txt 1
-data.zeoo.txt 1
+data.zawo.txt 3.1086847136800873
+data.zbrd.txt 3.1086847136800873
+data.zbuj.txt 3.1086847136800873
+data.zdhv.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zeoo.txt 3.1086847136800873

@@ -1,13 +1,13 @@
 12
-data.zadv.txt 2
-data.zahd.txt 1
-data.zajh.txt 1
-data.zbjk.txt 1
-data.zbkj.txt 1
-data.zbux.txt 2
-data.zcef.txt 1
-data.zegk.txt 1
-data.zehj.txt 1
-data.zerh.txt 8
-data.zeva.txt 5
-data.zfaj.txt 1
+data.zadv.txt 4.165648687329214
+data.zahd.txt 2.628231699761886
+data.zajh.txt 2.628231699761886
+data.zbjk.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zbux.txt 4.165648687329214
+data.zcef.txt 2.628231699761886
+data.zegk.txt 2.628231699761886
+data.zehj.txt 2.628231699761886
+data.zerh.txt 8.331297374658428
+data.zeva.txt 6.7938803870911
+data.zfaj.txt 2.628231699761886

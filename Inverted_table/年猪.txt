@@ -1,6 +1,6 @@
 5
-data.ud.txt 1
-data.zagb.txt 1
-data.zeai.txt 1
-data.zene.txt 1
-data.zeoo.txt 1
+data.ud.txt 3.235060386727117
+data.zagb.txt 3.235060386727117
+data.zeai.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

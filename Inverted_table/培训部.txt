@@ -1,9 +1,9 @@
 8
-data.mk.txt 1
-data.zbts.txt 1
-data.zcdg.txt 1
-data.zdhv.txt 1
-data.zdod.txt 4
-data.zdof.txt 1
-data.zebn.txt 1
-data.zess.txt 4
+data.mk.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zdod.txt 6.7551359407091605
+data.zdof.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zess.txt 6.7551359407091605

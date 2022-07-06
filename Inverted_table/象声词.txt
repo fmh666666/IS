@@ -1,8 +1,8 @@
 7
-data.zafl.txt 1
-data.zajh.txt 1
-data.zcef.txt 1
-data.zddl.txt 1
-data.zdey.txt 1
-data.zduo.txt 1
-data.zerv.txt 1
+data.zafl.txt 3.0018356045764243
+data.zajh.txt 3.0018356045764243
+data.zcef.txt 3.0018356045764243
+data.zddl.txt 3.0018356045764243
+data.zdey.txt 3.0018356045764243
+data.zduo.txt 3.0018356045764243
+data.zerv.txt 3.0018356045764243

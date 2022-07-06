@@ -1,5 +1,5 @@
 4
-data.zass.txt 1
-data.zehp.txt 1
-data.zeqn.txt 1
-data.zeqv.txt 1
+data.zass.txt 3.389731710180695
+data.zehp.txt 3.389731710180695
+data.zeqn.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695

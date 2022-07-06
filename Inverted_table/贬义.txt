@@ -1,4 +1,4 @@
 3
-data.vm.txt 1
-data.zaeh.txt 1
-data.zbor.txt 1
+data.vm.txt 3.5891377275982888
+data.zaeh.txt 3.5891377275982888
+data.zbor.txt 3.5891377275982888

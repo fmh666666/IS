@@ -1,14 +1,14 @@
 13
-data.cn.txt 1
-data.co.txt 1
-data.ry.txt 1
-data.wc.txt 1
-data.zafl.txt 1
-data.zafu.txt 1
-data.zaoo.txt 1
-data.zbel.txt 1
-data.zbgw.txt 1
-data.zbpc.txt 1
-data.zcdg.txt 1
-data.zdzn.txt 1
-data.zedk.txt 1
+data.cn.txt 2.5727503226135906
+data.co.txt 2.5727503226135906
+data.ry.txt 2.5727503226135906
+data.wc.txt 2.5727503226135906
+data.zafl.txt 2.5727503226135906
+data.zafu.txt 2.5727503226135906
+data.zaoo.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zbgw.txt 2.5727503226135906
+data.zbpc.txt 2.5727503226135906
+data.zcdg.txt 2.5727503226135906
+data.zdzn.txt 2.5727503226135906
+data.zedk.txt 2.5727503226135906

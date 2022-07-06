@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.hg.txt 1
-data.zagr.txt 4
-data.zbkr.txt 1
-data.zbye.txt 1
-data.zctn.txt 1
-data.zdlm.txt 1
-data.zdmw.txt 1
-data.zfdk.txt 1
+data.bs.txt 2.82763771717948
+data.hg.txt 2.82763771717948
+data.zagr.txt 6.565571457682201
+data.zbkr.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zdlm.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zfdk.txt 2.82763771717948

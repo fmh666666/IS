@@ -1,4 +1,4 @@
 3
-data.zcko.txt 3
-data.zeeh.txt 1
-data.zewp.txt 2
+data.zcko.txt 7.1782754551965775
+data.zeeh.txt 3.5891377275982888
+data.zewp.txt 5.688648708166832

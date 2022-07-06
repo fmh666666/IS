@@ -1,9 +1,9 @@
 8
-data.zavx.txt 1
-data.zbjh.txt 1
-data.zciq.txt 1
-data.zclh.txt 1
-data.zcmx.txt 1
-data.zczp.txt 1
-data.zeaj.txt 1
-data.zeoo.txt 3
+data.zavx.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zclh.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935
+data.zeoo.txt 5.818557392524987

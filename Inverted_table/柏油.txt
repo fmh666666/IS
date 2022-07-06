@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.ok.txt 1
-data.zdlw.txt 1
+data.ga.txt 3.5891377275982888
+data.ok.txt 3.5891377275982888
+data.zdlw.txt 3.5891377275982888

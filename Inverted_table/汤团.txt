@@ -1,11 +1,11 @@
 10
-data.ye.txt 1
-data.zcao.txt 2
-data.zcic.txt 1
-data.zctn.txt 1
-data.zdds.txt 5
-data.zddv.txt 3
-data.zdzi.txt 1
-data.zegk.txt 1
-data.zeqv.txt 1
-data.zezn.txt 3
+data.ye.txt 2.7546073728089153
+data.zcao.txt 4.365949390112154
+data.zcic.txt 2.7546073728089153
+data.zctn.txt 2.7546073728089153
+data.zdds.txt 7.120556762921068
+data.zddv.txt 5.509214745617831
+data.zdzi.txt 2.7546073728089153
+data.zegk.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153
+data.zezn.txt 5.509214745617831

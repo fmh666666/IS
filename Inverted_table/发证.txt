@@ -1,4 +1,4 @@
 3
-data.cq.txt 1
-data.zafl.txt 1
-data.zbnx.txt 1
+data.cq.txt 3.5891377275982888
+data.zafl.txt 3.5891377275982888
+data.zbnx.txt 3.5891377275982888

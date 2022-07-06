@@ -1,9 +1,9 @@
 8
-data.zawb.txt 1
-data.zbbt.txt 2
-data.zcpa.txt 1
-data.zcue.txt 1
-data.zcxr.txt 1
-data.zdle.txt 4
-data.zess.txt 2
-data.zewp.txt 1
+data.zawb.txt 2.9092786962624935
+data.zbbt.txt 4.611097637722987
+data.zcpa.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdle.txt 6.7551359407091605
+data.zess.txt 4.611097637722987
+data.zewp.txt 2.9092786962624935

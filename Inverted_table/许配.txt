@@ -1,11 +1,11 @@
 10
-data.fz.txt 1
-data.mx.txt 1
-data.zajh.txt 1
-data.zaub.txt 1
-data.zbia.txt 2
-data.zbpx.txt 1
-data.zchw.txt 1
-data.zdtr.txt 1
-data.zduo.txt 1
-data.zedo.txt 1
+data.fz.txt 2.7546073728089153
+data.mx.txt 2.7546073728089153
+data.zajh.txt 2.7546073728089153
+data.zaub.txt 2.7546073728089153
+data.zbia.txt 4.365949390112154
+data.zbpx.txt 2.7546073728089153
+data.zchw.txt 2.7546073728089153
+data.zdtr.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153

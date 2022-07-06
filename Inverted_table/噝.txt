@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zaeh.txt 1
-data.zbjc.txt 7
+data.tz.txt 3.5891377275982888
+data.zaeh.txt 3.5891377275982888
+data.zbjc.txt 10.767413182794865

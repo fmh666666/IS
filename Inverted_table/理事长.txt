@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.ka.txt 1
-data.zbeb.txt 1
-data.zbnx.txt 1
-data.zcdz.txt 1
-data.zdqq.txt 1
-data.zdrq.txt 4
-data.zeec.txt 1
-data.zelt.txt 5
-data.zfai.txt 1
-data.zfaj.txt 1
-data.zfdk.txt 1
+data.bs.txt 2.628231699761886
+data.ka.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbnx.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zdqq.txt 2.628231699761886
+data.zdrq.txt 6.1025650235506905
+data.zeec.txt 2.628231699761886
+data.zelt.txt 6.7938803870911
+data.zfai.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886
+data.zfdk.txt 2.628231699761886

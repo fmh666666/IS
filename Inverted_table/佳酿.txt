@@ -1,7 +1,7 @@
 6
-data.ok.txt 1
-data.tj.txt 1
-data.zaip.txt 1
-data.zcls.txt 2
-data.zdwk.txt 2
-data.zeoh.txt 1
+data.ok.txt 3.1086847136800873
+data.tj.txt 3.1086847136800873
+data.zaip.txt 3.1086847136800873
+data.zcls.txt 4.927148697748023
+data.zdwk.txt 4.927148697748023
+data.zeoh.txt 3.1086847136800873

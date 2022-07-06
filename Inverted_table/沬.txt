@@ -1,6 +1,6 @@
 5
-data.zbut.txt 1
-data.zcdl.txt 1
-data.zcql.txt 1
-data.zdof.txt 1
-data.zevq.txt 1
+data.zbut.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

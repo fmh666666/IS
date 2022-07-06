@@ -1,4 +1,4 @@
 3
-data.zafq.txt 2
-data.zalj.txt 1
-data.zdpw.txt 2
+data.zafq.txt 5.688648708166832
+data.zalj.txt 3.5891377275982888
+data.zdpw.txt 5.688648708166832

@@ -1,2 +1,2 @@
 1
-data.hz.txt 4
+data.hz.txt 10.101867994579104

@@ -1,14 +1,14 @@
 13
-data.fp.txt 2
-data.mu.txt 1
-data.pa.txt 1
-data.pn.txt 1
-data.zasw.txt 102
-data.zcao.txt 1
-data.zcbe.txt 1
-data.zcdz.txt 1
-data.zcls.txt 1
-data.zdyv.txt 1
-data.zebv.txt 1
-data.zedk.txt 1
-data.zeos.txt 1
+data.fp.txt 4.077712785060798
+data.mu.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.pn.txt 2.5727503226135906
+data.zasw.txt 17.202696388466567
+data.zcao.txt 2.5727503226135906
+data.zcbe.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcls.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zebv.txt 2.5727503226135906
+data.zedk.txt 2.5727503226135906
+data.zeos.txt 2.5727503226135906

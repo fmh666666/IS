@@ -1,10 +1,10 @@
 9
-data.zacp.txt 2
-data.zakb.txt 1
-data.zcqp.txt 3
-data.zctm.txt 1
-data.zdgo.txt 1
-data.zeds.txt 2
-data.zehp.txt 1
-data.zeob.txt 2
-data.zfaj.txt 1
+data.zacp.txt 4.48169974735425
+data.zakb.txt 2.82763771717948
+data.zcqp.txt 5.65527543435896
+data.zctm.txt 2.82763771717948
+data.zdgo.txt 2.82763771717948
+data.zeds.txt 4.48169974735425
+data.zehp.txt 2.82763771717948
+data.zeob.txt 4.48169974735425
+data.zfaj.txt 2.82763771717948

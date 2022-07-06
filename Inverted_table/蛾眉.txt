@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.be.txt 1
-data.zaeh.txt 1
-data.zbdb.txt 2
-data.zcdv.txt 2
+data.bb.txt 3.235060386727117
+data.be.txt 3.235060386727117
+data.zaeh.txt 3.235060386727117
+data.zbdb.txt 5.1274494005309625
+data.zcdv.txt 5.1274494005309625

@@ -1,8 +1,8 @@
 7
-data.op.txt 1
-data.zadv.txt 1
-data.zaxj.txt 2
-data.zbla.txt 1
-data.zblq.txt 2
-data.zcpa.txt 1
-data.zdeb.txt 1
+data.op.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zaxj.txt 4.757796866583254
+data.zbla.txt 3.0018356045764243
+data.zblq.txt 4.757796866583254
+data.zcpa.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243

@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.zafq.txt 1
-data.zbbt.txt 1
-data.zcee.txt 1
-data.zdgo.txt 1
-data.zefs.txt 1
-data.zenw.txt 1
-data.zesi.txt 1
-data.zfcp.txt 1
+data.kt.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zbbt.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zdgo.txt 2.82763771717948
+data.zefs.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zesi.txt 2.82763771717948
+data.zfcp.txt 2.82763771717948

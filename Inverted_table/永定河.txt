@@ -1,5 +1,5 @@
 4
-data.zbdb.txt 1
-data.zbsm.txt 1
-data.zcsu.txt 1
-data.zdpf.txt 2
+data.zbdb.txt 3.389731710180695
+data.zbsm.txt 3.389731710180695
+data.zcsu.txt 3.389731710180695
+data.zdpf.txt 5.372597648141796

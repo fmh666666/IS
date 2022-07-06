@@ -1,4 +1,4 @@
 3
-data.mt.txt 2
-data.zbdb.txt 4
-data.zefv.txt 1
+data.mt.txt 5.688648708166832
+data.zbdb.txt 8.333719726130651
+data.zefv.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zasy.txt 1
-data.zdqz.txt 1
-data.zebv.txt 1
-data.zeyg.txt 1
-data.zfaj.txt 1
+data.zasy.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117
+data.zebv.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

@@ -1,3 +1,3 @@
 2
-data.zaoc.txt 1
-data.zcee.txt 1
+data.zaoc.txt 3.8701847240988965
+data.zcee.txt 3.8701847240988965

@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.op.txt 1
-data.zcmy.txt 1
-data.zcue.txt 1
-data.zdro.txt 1
-data.zdwn.txt 1
-data.zexx.txt 1
-data.zfaj.txt 4
+data.ev.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdro.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zexx.txt 2.9092786962624935
+data.zfaj.txt 6.7551359407091605

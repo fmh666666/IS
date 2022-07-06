@@ -1,4 +1,4 @@
 3
-data.zeeh.txt 1
-data.zeoh.txt 1
-data.zexx.txt 1
+data.zeeh.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888
+data.zexx.txt 3.5891377275982888

@@ -1,11 +1,11 @@
 10
-data.jd.txt 1
-data.pa.txt 1
-data.zaqp.txt 1
-data.zcoy.txt 1
-data.zczl.txt 1
-data.zdpz.txt 2
-data.zdwl.txt 1
-data.zejn.txt 1
-data.zeqn.txt 1
-data.zeyu.txt 1
+data.jd.txt 2.7546073728089153
+data.pa.txt 2.7546073728089153
+data.zaqp.txt 2.7546073728089153
+data.zcoy.txt 2.7546073728089153
+data.zczl.txt 2.7546073728089153
+data.zdpz.txt 4.365949390112154
+data.zdwl.txt 2.7546073728089153
+data.zejn.txt 2.7546073728089153
+data.zeqn.txt 2.7546073728089153
+data.zeyu.txt 2.7546073728089153

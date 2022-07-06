@@ -1,13 +1,13 @@
 12
-data.be.txt 2
-data.fp.txt 2
-data.jd.txt 1
-data.zabe.txt 1
-data.zbpp.txt 1
-data.zcef.txt 1
-data.zcnn.txt 1
-data.zcon.txt 1
-data.zdoq.txt 4
-data.zefv.txt 1
-data.zegk.txt 1
-data.zfaw.txt 2
+data.be.txt 4.165648687329214
+data.fp.txt 4.165648687329214
+data.jd.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zcef.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdoq.txt 6.1025650235506905
+data.zefv.txt 2.628231699761886
+data.zegk.txt 2.628231699761886
+data.zfaw.txt 4.165648687329214

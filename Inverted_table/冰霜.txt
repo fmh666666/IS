@@ -1,10 +1,10 @@
 9
-data.zbla.txt 1
-data.zcih.txt 1
-data.zcjd.txt 2
-data.zcsu.txt 1
-data.zdof.txt 1
-data.zduc.txt 1
-data.zdud.txt 1
-data.zesi.txt 2
-data.zfbr.txt 8
+data.zbla.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zcjd.txt 4.48169974735425
+data.zcsu.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zdud.txt 2.82763771717948
+data.zesi.txt 4.48169974735425
+data.zfbr.txt 8.9633994947085

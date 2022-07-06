@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.mt.txt 1
-data.zasw.txt 1
-data.zblq.txt 1
-data.zcjo.txt 1
-data.zdzg.txt 1
+data.fp.txt 3.1086847136800873
+data.mt.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zdzg.txt 3.1086847136800873

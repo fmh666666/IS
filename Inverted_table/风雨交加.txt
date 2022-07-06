@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.fp.txt 2
-data.pa.txt 1
-data.qn.txt 1
-data.zapl.txt 1
-data.zbye.txt 1
-data.zciq.txt 1
-data.zdcj.txt 1
-data.zdgp.txt 1
-data.zdxw.txt 1
-data.zegk.txt 1
-data.zemb.txt 1
-data.zeos.txt 2
+data.be.txt 2.5727503226135906
+data.fp.txt 4.077712785060798
+data.pa.txt 2.5727503226135906
+data.qn.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zbye.txt 2.5727503226135906
+data.zciq.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zdxw.txt 2.5727503226135906
+data.zegk.txt 2.5727503226135906
+data.zemb.txt 2.5727503226135906
+data.zeos.txt 4.077712785060798

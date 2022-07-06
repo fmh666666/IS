@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.mu.txt 1
-data.zall.txt 1
-data.zbvn.txt 1
-data.zbvp.txt 1
-data.zdkk.txt 1
+data.kt.txt 3.1086847136800873
+data.mu.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zbvn.txt 3.1086847136800873
+data.zbvp.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873

@@ -1,8 +1,8 @@
 7
-data.zawu.txt 1
-data.zbht.txt 1
-data.zbpc.txt 1
-data.zcdg.txt 1
-data.zcon.txt 1
-data.zcts.txt 2
-data.zedo.txt 1
+data.zawu.txt 3.0018356045764243
+data.zbht.txt 3.0018356045764243
+data.zbpc.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zcon.txt 3.0018356045764243
+data.zcts.txt 4.757796866583254
+data.zedo.txt 3.0018356045764243

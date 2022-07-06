@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.fz.txt 1
-data.hp.txt 1
-data.zbhd.txt 1
-data.zcmy.txt 1
-data.zcnn.txt 1
-data.zczp.txt 1
-data.zdzg.txt 1
-data.zeaf.txt 1
-data.zeec.txt 1
-data.zelt.txt 1
-data.zfai.txt 1
+data.cf.txt 2.628231699761886
+data.fz.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zeaf.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

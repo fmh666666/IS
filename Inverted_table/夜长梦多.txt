@@ -1,3 +1,3 @@
 2
-data.zebf.txt 2
-data.zewd.txt 2
+data.zebf.txt 6.134097658560606
+data.zewd.txt 6.134097658560606

@@ -1,2 +1,2 @@
 1
-data.zaqp.txt 1
+data.zaqp.txt 4.350637738017098

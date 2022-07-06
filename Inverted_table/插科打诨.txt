@@ -1,6 +1,6 @@
 5
-data.jd.txt 1
-data.zard.txt 1
-data.zcee.txt 1
-data.zdju.txt 1
-data.zfaz.txt 1
+data.jd.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

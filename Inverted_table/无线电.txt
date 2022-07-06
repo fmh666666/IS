@@ -1,10 +1,10 @@
 9
-data.ha.txt 2
-data.ud.txt 2
-data.vm.txt 1
-data.zaqf.txt 2
-data.zasq.txt 1
-data.zbnx.txt 1
-data.zciq.txt 2
-data.zcvi.txt 1
-data.zfcg.txt 1
+data.ha.txt 4.48169974735425
+data.ud.txt 4.48169974735425
+data.vm.txt 2.82763771717948
+data.zaqf.txt 4.48169974735425
+data.zasq.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zciq.txt 4.48169974735425
+data.zcvi.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

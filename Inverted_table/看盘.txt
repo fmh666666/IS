@@ -1,5 +1,5 @@
 4
-data.cf.txt 1
-data.zapr.txt 1
-data.zbaq.txt 1
-data.zeaf.txt 1
+data.cf.txt 3.389731710180695
+data.zapr.txt 3.389731710180695
+data.zbaq.txt 3.389731710180695
+data.zeaf.txt 3.389731710180695

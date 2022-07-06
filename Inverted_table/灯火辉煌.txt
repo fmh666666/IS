@@ -1,6 +1,6 @@
 5
-data.co.txt 2
-data.kq.txt 1
-data.zdeb.txt 1
-data.zeeh.txt 1
-data.zfcg.txt 1
+data.co.txt 5.1274494005309625
+data.kq.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

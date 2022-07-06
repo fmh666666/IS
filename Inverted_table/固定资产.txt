@@ -1,11 +1,11 @@
 10
-data.hp.txt 2
-data.op.txt 1
-data.uz.txt 1
-data.zbds.txt 1
-data.zbtx.txt 1
-data.zcdv.txt 1
-data.zcdy.txt 1
-data.zciy.txt 1
-data.zcon.txt 2
-data.zdud.txt 1
+data.hp.txt 4.365949390112154
+data.op.txt 2.7546073728089153
+data.uz.txt 2.7546073728089153
+data.zbds.txt 2.7546073728089153
+data.zbtx.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zcon.txt 4.365949390112154
+data.zdud.txt 2.7546073728089153

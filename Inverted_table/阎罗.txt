@@ -1,6 +1,6 @@
 5
-data.zajn.txt 1
-data.zbot.txt 1
-data.zchd.txt 1
-data.zene.txt 1
-data.zeqn.txt 2
+data.zajn.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zchd.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zeqn.txt 5.1274494005309625

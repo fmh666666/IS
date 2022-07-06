@@ -1,9 +1,9 @@
 8
-data.kq.txt 2
-data.zahp.txt 1
-data.zawc.txt 1
-data.zaxk.txt 1
-data.zcon.txt 2
-data.zdgp.txt 1
-data.zdgv.txt 1
-data.zfcg.txt 2
+data.kq.txt 4.611097637722987
+data.zahp.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zaxk.txt 2.9092786962624935
+data.zcon.txt 4.611097637722987
+data.zdgp.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zfcg.txt 4.611097637722987

@@ -1,10 +1,10 @@
 9
-data.zaet.txt 1
-data.zahd.txt 1
-data.zamp.txt 1
-data.zbpx.txt 2
-data.zcbe.txt 1
-data.zcdy.txt 2
-data.zdaw.txt 1
-data.zdgt.txt 1
-data.zdic.txt 1
+data.zaet.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zamp.txt 2.82763771717948
+data.zbpx.txt 4.48169974735425
+data.zcbe.txt 2.82763771717948
+data.zcdy.txt 4.48169974735425
+data.zdaw.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdic.txt 2.82763771717948

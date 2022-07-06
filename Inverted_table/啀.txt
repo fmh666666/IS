@@ -1,2 +1,2 @@
 1
-data.jd.txt 1
+data.jd.txt 4.350637738017098

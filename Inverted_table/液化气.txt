@@ -1,6 +1,6 @@
 5
-data.zall.txt 1
-data.zazg.txt 3
-data.zcxr.txt 1
-data.zdcy.txt 1
-data.zfas.txt 1
+data.zall.txt 3.235060386727117
+data.zazg.txt 6.470120773454234
+data.zcxr.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

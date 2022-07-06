@@ -1,5 +1,5 @@
 4
-data.zass.txt 1
-data.zbgd.txt 1
-data.zdod.txt 1
-data.zdrq.txt 1
+data.zass.txt 3.389731710180695
+data.zbgd.txt 3.389731710180695
+data.zdod.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695

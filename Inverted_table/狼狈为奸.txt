@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zawu.txt 1
-data.zaxj.txt 1
-data.zczp.txt 1
-data.zfaj.txt 1
+data.zako.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

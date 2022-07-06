@@ -1,12 +1,12 @@
 11
-data.co.txt 2
-data.fp.txt 1
-data.zazw.txt 1
-data.zbds.txt 1
-data.zbia.txt 1
-data.zbil.txt 1
-data.zbyb.txt 1
-data.zcgi.txt 1
-data.zdby.txt 1
-data.zdtv.txt 1
-data.zevy.txt 1
+data.co.txt 4.261240455343955
+data.fp.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbia.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbyb.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zdby.txt 2.6885433903988862
+data.zdtv.txt 2.6885433903988862
+data.zevy.txt 2.6885433903988862

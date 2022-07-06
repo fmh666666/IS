@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.ga.txt 1
-data.mi.txt 1
-data.vm.txt 1
-data.zbcc.txt 1
-data.zbhe.txt 1
-data.zbpx.txt 1
-data.zcrk.txt 1
-data.zcvt.txt 1
-data.zdpf.txt 2
-data.zdtr.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.fp.txt 2.5727503226135906
+data.ga.txt 2.5727503226135906
+data.mi.txt 2.5727503226135906
+data.vm.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcrk.txt 2.5727503226135906
+data.zcvt.txt 2.5727503226135906
+data.zdpf.txt 4.077712785060798
+data.zdtr.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

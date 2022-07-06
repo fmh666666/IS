@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.tz.txt 1
-data.zdby.txt 1
-data.zddv.txt 1
-data.zewg.txt 1
+data.pa.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zdby.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zewg.txt 3.235060386727117

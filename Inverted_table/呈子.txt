@@ -1,2 +1,2 @@
 1
-data.zdpw.txt 3
+data.zdpw.txt 8.701275476034196

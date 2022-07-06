@@ -1,2 +1,2 @@
 1
-data.zdle.txt 4
+data.zdle.txt 10.101867994579104

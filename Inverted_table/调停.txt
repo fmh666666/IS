@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zapl.txt 1
-data.zazw.txt 1
-data.zbeb.txt 1
-data.zdgt.txt 3
+data.ga.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zdgt.txt 6.470120773454234

@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.ga.txt 1
-data.nh.txt 1
-data.zayd.txt 1
-data.zazo.txt 1
-data.zbts.txt 1
-data.zbwa.txt 1
-data.zcel.txt 1
-data.zcic.txt 1
-data.zeam.txt 1
-data.zexx.txt 1
+data.fp.txt 2.6885433903988862
+data.ga.txt 2.6885433903988862
+data.nh.txt 2.6885433903988862
+data.zayd.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zbwa.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zeam.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

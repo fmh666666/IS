@@ -1,4 +1,4 @@
 3
-data.zbgd.txt 1
-data.zcse.txt 1
-data.zfaj.txt 2
+data.zbgd.txt 3.5891377275982888
+data.zcse.txt 3.5891377275982888
+data.zfaj.txt 5.688648708166832

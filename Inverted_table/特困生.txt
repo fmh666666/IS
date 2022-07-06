@@ -1,6 +1,6 @@
 5
-data.zcql.txt 1
-data.zdlo.txt 2
-data.zegn.txt 1
-data.zehp.txt 1
-data.zejk.txt 1
+data.zcql.txt 3.235060386727117
+data.zdlo.txt 5.1274494005309625
+data.zegn.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
+data.zejk.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.vz.txt 1
-data.zanh.txt 1
-data.zdux.txt 1
-data.zebv.txt 1
-data.zedd.txt 1
+data.fp.txt 3.1086847136800873
+data.vz.txt 3.1086847136800873
+data.zanh.txt 3.1086847136800873
+data.zdux.txt 3.1086847136800873
+data.zebv.txt 3.1086847136800873
+data.zedd.txt 3.1086847136800873

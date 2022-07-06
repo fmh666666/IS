@@ -1,9 +1,9 @@
 8
-data.zalj.txt 2
-data.zbcc.txt 1
-data.zbcj.txt 1
-data.zbhd.txt 2
-data.zcdv.txt 6
-data.zcdy.txt 4
-data.zcdz.txt 1
-data.zcse.txt 1
+data.zalj.txt 4.611097637722987
+data.zbcc.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbhd.txt 4.611097637722987
+data.zcdv.txt 8.16737786758984
+data.zcdy.txt 6.7551359407091605
+data.zcdz.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935

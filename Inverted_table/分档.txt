@@ -1,5 +1,5 @@
 4
-data.pq.txt 4
-data.zcdy.txt 1
-data.zdga.txt 2
-data.zene.txt 6
+data.pq.txt 7.870713291999142
+data.zcdy.txt 3.389731710180695
+data.zdga.txt 5.372597648141796
+data.zene.txt 9.516180001030515

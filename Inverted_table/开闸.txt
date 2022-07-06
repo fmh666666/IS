@@ -1,9 +1,9 @@
 8
-data.ud.txt 2
-data.zaxp.txt 1
-data.zazo.txt 1
-data.zbkv.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcrn.txt 1
-data.zcue.txt 1
+data.ud.txt 4.611097637722987
+data.zaxp.txt 2.9092786962624935
+data.zazo.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 4.611097637722987
+data.zcrn.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935

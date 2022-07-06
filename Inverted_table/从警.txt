@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zawc.txt 1
-data.zbfr.txt 1
-data.zdgt.txt 1
-data.zduk.txt 1
+data.pa.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbfr.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

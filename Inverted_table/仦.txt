@@ -1,7 +1,7 @@
 6
-data.zaej.txt 1
-data.zcoy.txt 1
-data.zdkk.txt 1
-data.zdnh.txt 1
-data.zejn.txt 1
-data.zenw.txt 1
+data.zaej.txt 3.1086847136800873
+data.zcoy.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873
+data.zejn.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873

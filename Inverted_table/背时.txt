@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.zagr.txt 1
-data.zaic.txt 1
-data.zaoo.txt 1
-data.zasj.txt 1
-data.zblr.txt 1
-data.zcef.txt 1
-data.zdzm.txt 1
-data.zfaj.txt 1
+data.aj.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zasj.txt 2.82763771717948
+data.zblr.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zdzm.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

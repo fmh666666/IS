@@ -1,5 +1,5 @@
 4
-data.hz.txt 1
-data.zbfg.txt 2
-data.zccu.txt 1
-data.zcsu.txt 2
+data.hz.txt 3.389731710180695
+data.zbfg.txt 5.372597648141796
+data.zccu.txt 3.389731710180695
+data.zcsu.txt 5.372597648141796

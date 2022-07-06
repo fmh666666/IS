@@ -1,5 +1,5 @@
 4
-data.ev.txt 1
-data.zasy.txt 1
-data.zdaq.txt 1
-data.zdlw.txt 1
+data.ev.txt 3.389731710180695
+data.zasy.txt 3.389731710180695
+data.zdaq.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695

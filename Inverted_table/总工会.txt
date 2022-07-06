@@ -1,13 +1,13 @@
 12
-data.gw.txt 2
-data.hg.txt 1
-data.zbeb.txt 1
-data.zbhd.txt 2
-data.zbwq.txt 1
-data.zcvq.txt 2
-data.zdga.txt 1
-data.zdkv.txt 1
-data.zdwz.txt 2
-data.zekw.txt 1
-data.zewv.txt 1
-data.zfaj.txt 2
+data.gw.txt 4.165648687329214
+data.hg.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbhd.txt 4.165648687329214
+data.zbwq.txt 2.628231699761886
+data.zcvq.txt 4.165648687329214
+data.zdga.txt 2.628231699761886
+data.zdkv.txt 2.628231699761886
+data.zdwz.txt 4.165648687329214
+data.zekw.txt 2.628231699761886
+data.zewv.txt 2.628231699761886
+data.zfaj.txt 4.165648687329214

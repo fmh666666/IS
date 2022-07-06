@@ -1,7 +1,7 @@
 6
-data.mk.txt 1
-data.zane.txt 2
-data.zatz.txt 2
-data.zbfz.txt 2
-data.zcgo.txt 2
-data.zdll.txt 2
+data.mk.txt 3.1086847136800873
+data.zane.txt 4.927148697748023
+data.zatz.txt 4.927148697748023
+data.zbfz.txt 4.927148697748023
+data.zcgo.txt 4.927148697748023
+data.zdll.txt 4.927148697748023

@@ -1,2 +1,2 @@
 1
-data.zenn.txt 2
+data.zenn.txt 6.8955976689794145

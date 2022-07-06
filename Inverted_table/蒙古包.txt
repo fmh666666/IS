@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.nh.txt 1
-data.op.txt 1
-data.zaim.txt 4
-data.zaqp.txt 3
+data.hp.txt 3.235060386727117
+data.nh.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.zaim.txt 7.511577600598868
+data.zaqp.txt 6.470120773454234

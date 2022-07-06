@@ -1,14 +1,14 @@
 13
-data.tv.txt 1
-data.tz.txt 1
-data.zaop.txt 1
-data.zblq.txt 1
-data.zbsu.txt 1
-data.zczj.txt 1
-data.zdod.txt 1
-data.zdxw.txt 1
-data.zegl.txt 1
-data.zehp.txt 1
-data.zemb.txt 1
-data.zeqh.txt 1
-data.zeva.txt 1
+data.tv.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.zaop.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zczj.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zdxw.txt 2.5727503226135906
+data.zegl.txt 2.5727503226135906
+data.zehp.txt 2.5727503226135906
+data.zemb.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906
+data.zeva.txt 2.5727503226135906

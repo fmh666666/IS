@@ -1,14 +1,14 @@
 13
-data.bb.txt 1
-data.ev.txt 1
-data.zane.txt 1
-data.zank.txt 1
-data.zatz.txt 1
-data.zazw.txt 1
-data.zbkf.txt 2
-data.zbnx.txt 1
-data.zcpc.txt 1
-data.zcts.txt 2
-data.zecf.txt 2
-data.zeoh.txt 1
-data.zewd.txt 1
+data.bb.txt 2.5727503226135906
+data.ev.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zank.txt 2.5727503226135906
+data.zatz.txt 2.5727503226135906
+data.zazw.txt 2.5727503226135906
+data.zbkf.txt 4.077712785060798
+data.zbnx.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zcts.txt 4.077712785060798
+data.zecf.txt 4.077712785060798
+data.zeoh.txt 2.5727503226135906
+data.zewd.txt 2.5727503226135906

@@ -1,3 +1,3 @@
 2
-data.zbye.txt 1
-data.zddm.txt 1
+data.zbye.txt 3.8701847240988965
+data.zddm.txt 3.8701847240988965

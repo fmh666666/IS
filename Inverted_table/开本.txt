@@ -1,5 +1,5 @@
 4
-data.zahd.txt 1
-data.zasd.txt 7
-data.zcts.txt 1
-data.zdds.txt 1
+data.zahd.txt 3.389731710180695
+data.zasd.txt 10.169195130542084
+data.zcts.txt 3.389731710180695
+data.zdds.txt 3.389731710180695

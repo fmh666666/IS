@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.zaet.txt 1
-data.zbut.txt 1
-data.zbyv.txt 1
-data.zeik.txt 1
+data.mt.txt 3.235060386727117
+data.zaet.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zbyv.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

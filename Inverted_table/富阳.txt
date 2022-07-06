@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.op.txt 1
-data.zamr.txt 5
-data.zauy.txt 1
-data.zbnp.txt 4
-data.zcbe.txt 28
-data.zcuh.txt 1
-data.zdsh.txt 1
-data.zeay.txt 1
+data.ga.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zamr.txt 7.309337464533731
+data.zauy.txt 2.82763771717948
+data.zbnp.txt 6.565571457682201
+data.zcbe.txt 13.736610291163828
+data.zcuh.txt 2.82763771717948
+data.zdsh.txt 2.82763771717948
+data.zeay.txt 2.82763771717948

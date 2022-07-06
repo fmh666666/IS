@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.tz.txt 1
-data.zbdb.txt 1
-data.zdpw.txt 1
-data.zeqh.txt 1
-data.zeva.txt 1
+data.tv.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zdpw.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873
+data.zeva.txt 3.1086847136800873

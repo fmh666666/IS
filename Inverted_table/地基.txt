@@ -1,10 +1,10 @@
 9
-data.ew.txt 1
-data.jf.txt 1
-data.zalt.txt 2
-data.zbcj.txt 1
-data.zbvf.txt 1
-data.zcdv.txt 1
-data.zddp.txt 1
-data.zdwl.txt 1
-data.zfas.txt 3
+data.ew.txt 2.82763771717948
+data.jf.txt 2.82763771717948
+data.zalt.txt 4.48169974735425
+data.zbcj.txt 2.82763771717948
+data.zbvf.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948
+data.zfas.txt 5.65527543435896

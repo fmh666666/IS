@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zavg.txt 1
-data.zawu.txt 1
-data.zbzf.txt 1
-data.zeam.txt 1
-data.zenw.txt 15
+data.tv.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zenw.txt 12.434738854720349

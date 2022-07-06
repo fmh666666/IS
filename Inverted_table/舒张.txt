@@ -1,10 +1,10 @@
 9
-data.zabx.txt 1
-data.zawo.txt 1
-data.zcmx.txt 1
-data.zcts.txt 2
-data.zdlo.txt 2
-data.zdmw.txt 1
-data.zdwv.txt 1
-data.zeeq.txt 2
-data.zeta.txt 1
+data.zabx.txt 2.82763771717948
+data.zawo.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcts.txt 4.48169974735425
+data.zdlo.txt 4.48169974735425
+data.zdmw.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zeeq.txt 4.48169974735425
+data.zeta.txt 2.82763771717948

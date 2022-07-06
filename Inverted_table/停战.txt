@@ -1,6 +1,6 @@
 5
-data.ga.txt 2
-data.zabe.txt 1
-data.zawc.txt 1
-data.zaxp.txt 2
-data.zbeb.txt 1
+data.ga.txt 5.1274494005309625
+data.zabe.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zaxp.txt 5.1274494005309625
+data.zbeb.txt 3.235060386727117

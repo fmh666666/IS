@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zcdy.txt 1
-data.zcts.txt 1
-data.zdpf.txt 1
-data.zerh.txt 1
+data.zabe.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

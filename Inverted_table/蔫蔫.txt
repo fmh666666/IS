@@ -1,4 +1,4 @@
 3
-data.zajo.txt 1
-data.zcpx.txt 1
-data.zevt.txt 1
+data.zajo.txt 3.5891377275982888
+data.zcpx.txt 3.5891377275982888
+data.zevt.txt 3.5891377275982888

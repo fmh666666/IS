@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.pa.txt 2
-data.zcdz.txt 4
+data.op.txt 3.5891377275982888
+data.pa.txt 5.688648708166832
+data.zcdz.txt 8.333719726130651

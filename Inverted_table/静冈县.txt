@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zajh.txt 1
-data.zake.txt 1
-data.zcic.txt 2
-data.zedy.txt 1
+data.zacd.txt 3.235060386727117
+data.zajh.txt 3.235060386727117
+data.zake.txt 3.235060386727117
+data.zcic.txt 5.1274494005309625
+data.zedy.txt 3.235060386727117

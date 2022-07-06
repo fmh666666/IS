@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.kt.txt 1
-data.mu.txt 1
-data.zacd.txt 1
-data.zaeh.txt 1
-data.zavg.txt 1
-data.zcfx.txt 1
-data.zcic.txt 1
-data.zckd.txt 1
-data.zcpc.txt 1
-data.zcue.txt 1
-data.zdil.txt 1
-data.zdwv.txt 2
+data.ew.txt 2.5727503226135906
+data.kt.txt 2.5727503226135906
+data.mu.txt 2.5727503226135906
+data.zacd.txt 2.5727503226135906
+data.zaeh.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zcfx.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zckd.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zdil.txt 2.5727503226135906
+data.zdwv.txt 4.077712785060798

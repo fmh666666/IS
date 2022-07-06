@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.zajh.txt 6
-data.zavx.txt 1
-data.zbfd.txt 1
-data.zeyu.txt 1
-data.zfae.txt 2
+data.ev.txt 3.1086847136800873
+data.zajh.txt 8.727181332075027
+data.zavx.txt 3.1086847136800873
+data.zbfd.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873
+data.zfae.txt 4.927148697748023

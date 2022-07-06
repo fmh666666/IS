@@ -1,6 +1,6 @@
 5
-data.hc.txt 2
-data.zbvp.txt 1
-data.zcse.txt 1
-data.zedo.txt 1
-data.zexx.txt 2
+data.hc.txt 5.1274494005309625
+data.zbvp.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zexx.txt 5.1274494005309625

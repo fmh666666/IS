@@ -1,13 +1,13 @@
 12
-data.mu.txt 2
-data.pa.txt 2
-data.zako.txt 1
-data.zbcv.txt 2
-data.zbmt.txt 1
-data.zccu.txt 1
-data.zddp.txt 1
-data.zdgo.txt 1
-data.zdgp.txt 1
-data.zdpg.txt 1
-data.zduk.txt 1
-data.zfas.txt 1
+data.mu.txt 4.165648687329214
+data.pa.txt 4.165648687329214
+data.zako.txt 2.628231699761886
+data.zbcv.txt 4.165648687329214
+data.zbmt.txt 2.628231699761886
+data.zccu.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdgo.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886
+data.zduk.txt 2.628231699761886
+data.zfas.txt 2.628231699761886

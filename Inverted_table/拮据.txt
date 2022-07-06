@@ -1,14 +1,14 @@
 13
-data.cq.txt 2
-data.gw.txt 1
-data.to.txt 1
-data.tv.txt 1
-data.zabe.txt 1
-data.zane.txt 2
-data.zawu.txt 1
-data.zbfr.txt 2
-data.zbfx.txt 1
-data.zbfz.txt 1
-data.zcsu.txt 1
-data.zene.txt 1
-data.zeyy.txt 1
+data.cq.txt 4.077712785060798
+data.gw.txt 2.5727503226135906
+data.to.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zane.txt 4.077712785060798
+data.zawu.txt 2.5727503226135906
+data.zbfr.txt 4.077712785060798
+data.zbfx.txt 2.5727503226135906
+data.zbfz.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zeyy.txt 2.5727503226135906

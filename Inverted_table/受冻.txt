@@ -1,8 +1,8 @@
 7
-data.zaxk.txt 2
-data.zblq.txt 1
-data.zcsu.txt 2
-data.zcvi.txt 1
-data.zdeb.txt 1
-data.zdgv.txt 2
-data.zfcp.txt 1
+data.zaxk.txt 4.757796866583254
+data.zblq.txt 3.0018356045764243
+data.zcsu.txt 4.757796866583254
+data.zcvi.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zdgv.txt 4.757796866583254
+data.zfcp.txt 3.0018356045764243

@@ -1,4 +1,4 @@
 3
-data.zbrj.txt 1
-data.zdou.txt 1
-data.zdwz.txt 2
+data.zbrj.txt 3.5891377275982888
+data.zdou.txt 3.5891377275982888
+data.zdwz.txt 5.688648708166832

@@ -1,7 +1,7 @@
 6
-data.zalm.txt 1
-data.zbcc.txt 1
-data.zbia.txt 2
-data.zcvq.txt 1
-data.zeta.txt 1
-data.zfdk.txt 1
+data.zalm.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zbia.txt 4.927148697748023
+data.zcvq.txt 3.1086847136800873
+data.zeta.txt 3.1086847136800873
+data.zfdk.txt 3.1086847136800873

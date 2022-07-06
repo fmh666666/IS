@@ -1,5 +1,5 @@
 4
-data.yx.txt 1
-data.zaxj.txt 1
-data.zbga.txt 3
-data.zdby.txt 1
+data.yx.txt 3.389731710180695
+data.zaxj.txt 3.389731710180695
+data.zbga.txt 6.77946342036139
+data.zdby.txt 3.389731710180695

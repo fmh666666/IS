@@ -1,2 +1,2 @@
 1
-data.zafy.txt 2
+data.zafy.txt 6.8955976689794145

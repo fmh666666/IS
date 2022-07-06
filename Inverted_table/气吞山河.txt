@@ -1,6 +1,6 @@
 5
-data.ev.txt 3
-data.zaxx.txt 1
-data.zcuh.txt 1
-data.zdud.txt 1
-data.zezn.txt 2
+data.ev.txt 6.470120773454234
+data.zaxx.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zezn.txt 5.1274494005309625

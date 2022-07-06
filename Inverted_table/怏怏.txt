@@ -1,4 +1,4 @@
 3
-data.co.txt 6
-data.zebv.txt 1
-data.zerv.txt 1
+data.co.txt 10.0759834655157
+data.zebv.txt 3.5891377275982888
+data.zerv.txt 3.5891377275982888

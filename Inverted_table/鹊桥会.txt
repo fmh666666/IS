@@ -1,6 +1,6 @@
 5
-data.gw.txt 2
-data.hg.txt 1
-data.zbfd.txt 1
-data.zcaq.txt 1
-data.zcft.txt 1
+data.gw.txt 5.1274494005309625
+data.hg.txt 3.235060386727117
+data.zbfd.txt 3.235060386727117
+data.zcaq.txt 3.235060386727117
+data.zcft.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.tz.txt 1
-data.zcfn.txt 2
-data.zdrq.txt 1
-data.zeoo.txt 1
+data.tz.txt 3.389731710180695
+data.zcfn.txt 5.372597648141796
+data.zdrq.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

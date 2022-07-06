@@ -1,8 +1,8 @@
 7
-data.zadv.txt 1
-data.zbjh.txt 1
-data.zcxr.txt 1
-data.zdar.txt 1
-data.zdof.txt 1
-data.zdtr.txt 1
-data.zeeq.txt 3
+data.zadv.txt 3.0018356045764243
+data.zbjh.txt 3.0018356045764243
+data.zcxr.txt 3.0018356045764243
+data.zdar.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zeeq.txt 6.003671209152849

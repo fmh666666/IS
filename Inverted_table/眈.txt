@@ -1,5 +1,5 @@
 4
-data.fp.txt 2
-data.zbnp.txt 2
-data.zdcy.txt 1
-data.zdzn.txt 2
+data.fp.txt 5.372597648141796
+data.zbnp.txt 5.372597648141796
+data.zdcy.txt 3.389731710180695
+data.zdzn.txt 5.372597648141796

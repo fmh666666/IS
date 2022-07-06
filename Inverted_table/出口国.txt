@@ -1,9 +1,9 @@
 8
-data.zacd.txt 1
-data.zasd.txt 24
-data.zawo.txt 1
-data.zbhd.txt 1
-data.zbkr.txt 1
-data.zbpx.txt 1
-data.zcej.txt 1
-data.zdud.txt 1
+data.zacd.txt 2.9092786962624935
+data.zasd.txt 13.510271881418321
+data.zawo.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcej.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935

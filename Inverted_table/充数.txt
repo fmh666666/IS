@@ -1,8 +1,8 @@
 7
-data.zasd.txt 1
-data.zawc.txt 1
-data.zaxj.txt 1
-data.zbhd.txt 2
-data.zcrv.txt 2
-data.zdyv.txt 1
-data.zdzg.txt 1
+data.zasd.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zaxj.txt 3.0018356045764243
+data.zbhd.txt 4.757796866583254
+data.zcrv.txt 4.757796866583254
+data.zdyv.txt 3.0018356045764243
+data.zdzg.txt 3.0018356045764243

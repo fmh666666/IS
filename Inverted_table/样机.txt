@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.mt.txt 1
-data.zakb.txt 1
-data.zdud.txt 1
-data.zdwl.txt 1
-data.zefp.txt 1
+data.kt.txt 3.1086847136800873
+data.mt.txt 3.1086847136800873
+data.zakb.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zdwl.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873

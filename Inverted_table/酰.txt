@@ -1,11 +1,11 @@
 10
-data.pa.txt 1
-data.zabx.txt 1
-data.zadv.txt 1
-data.zawm.txt 1
-data.zbcj.txt 1
-data.zdmw.txt 1
-data.zduk.txt 5
-data.zewg.txt 1
-data.zfai.txt 1
-data.zfaz.txt 1
+data.pa.txt 2.7546073728089153
+data.zabx.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zawm.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153
+data.zduk.txt 7.120556762921068
+data.zewg.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

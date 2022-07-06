@@ -1,14 +1,14 @@
 13
-data.mt.txt 1
-data.zbfd.txt 28
-data.zbgd.txt 1
-data.zbgw.txt 1
-data.zblq.txt 1
-data.zbyb.txt 2
-data.zcfx.txt 3
-data.zdlm.txt 1
-data.zdnc.txt 2
-data.zeai.txt 1
-data.zeyu.txt 1
-data.zezm.txt 1
-data.zfaj.txt 1
+data.mt.txt 2.5727503226135906
+data.zbfd.txt 12.498372172465153
+data.zbgd.txt 2.5727503226135906
+data.zbgw.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zbyb.txt 4.077712785060798
+data.zcfx.txt 5.145500645227181
+data.zdlm.txt 2.5727503226135906
+data.zdnc.txt 4.077712785060798
+data.zeai.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906
+data.zezm.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

@@ -1,4 +1,4 @@
 3
-data.cz.txt 1
-data.zbga.txt 1
-data.zbkv.txt 1
+data.cz.txt 3.5891377275982888
+data.zbga.txt 3.5891377275982888
+data.zbkv.txt 3.5891377275982888

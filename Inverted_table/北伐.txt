@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zasq.txt 1
-data.zcvt.txt 1
-data.zeez.txt 1
-data.zeqv.txt 1
-data.zfdk.txt 1
+data.bb.txt 3.1086847136800873
+data.zasq.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873
+data.zfdk.txt 3.1086847136800873

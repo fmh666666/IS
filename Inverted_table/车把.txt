@@ -1,13 +1,13 @@
 12
-data.hg.txt 1
-data.zaxp.txt 1
-data.zbhe.txt 1
-data.zbsl.txt 2
-data.zbta.txt 1
-data.zbyb.txt 1
-data.zcjy.txt 1
-data.zedo.txt 1
-data.zeez.txt 1
-data.zejk.txt 1
-data.zejn.txt 4
-data.zeva.txt 1
+data.hg.txt 2.628231699761886
+data.zaxp.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbsl.txt 4.165648687329214
+data.zbta.txt 2.628231699761886
+data.zbyb.txt 2.628231699761886
+data.zcjy.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zeez.txt 2.628231699761886
+data.zejk.txt 2.628231699761886
+data.zejn.txt 6.1025650235506905
+data.zeva.txt 2.628231699761886

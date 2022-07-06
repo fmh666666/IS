@@ -1,7 +1,7 @@
 6
-data.zasj.txt 1
-data.zbdb.txt 1
-data.zbds.txt 1
-data.zbzf.txt 1
-data.zcjd.txt 1
-data.zduk.txt 1
+data.zasj.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcjd.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873

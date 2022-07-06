@@ -1,6 +1,6 @@
 5
-data.pq.txt 1
-data.zefs.txt 1
-data.zehj.txt 1
-data.zelj.txt 1
-data.zfaj.txt 1
+data.pq.txt 3.235060386727117
+data.zefs.txt 3.235060386727117
+data.zehj.txt 3.235060386727117
+data.zelj.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

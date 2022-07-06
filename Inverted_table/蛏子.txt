@@ -1,6 +1,6 @@
 5
-data.qn.txt 2
-data.zalj.txt 1
-data.zbfr.txt 4
-data.zcts.txt 1
-data.zebc.txt 1
+data.qn.txt 5.1274494005309625
+data.zalj.txt 3.235060386727117
+data.zbfr.txt 7.511577600598868
+data.zcts.txt 3.235060386727117
+data.zebc.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.tj.txt 1
-data.zajh.txt 2
-data.zaqw.txt 1
-data.zdib.txt 1
-data.zefw.txt 1
+data.gw.txt 3.1086847136800873
+data.tj.txt 3.1086847136800873
+data.zajh.txt 4.927148697748023
+data.zaqw.txt 3.1086847136800873
+data.zdib.txt 3.1086847136800873
+data.zefw.txt 3.1086847136800873

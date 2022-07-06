@@ -1,9 +1,9 @@
 8
-data.zaic.txt 1
-data.zbkv.txt 1
-data.zcgi.txt 1
-data.zcni.txt 1
-data.zctm.txt 1
-data.zddb.txt 1
-data.zene.txt 1
-data.zerv.txt 1
+data.zaic.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zcgi.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zctm.txt 2.9092786962624935
+data.zddb.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935

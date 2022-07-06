@@ -1,4 +1,4 @@
 3
-data.by.txt 1
-data.zcej.txt 3
-data.zddv.txt 2
+data.by.txt 3.5891377275982888
+data.zcej.txt 7.1782754551965775
+data.zddv.txt 5.688648708166832

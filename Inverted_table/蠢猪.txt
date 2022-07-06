@@ -1,8 +1,8 @@
 7
-data.zako.txt 1
-data.zbkv.txt 1
-data.zcon.txt 3
-data.zcse.txt 1
-data.zdfl.txt 1
-data.zdnc.txt 1
-data.zewn.txt 1
+data.zako.txt 3.0018356045764243
+data.zbkv.txt 3.0018356045764243
+data.zcon.txt 6.003671209152849
+data.zcse.txt 3.0018356045764243
+data.zdfl.txt 3.0018356045764243
+data.zdnc.txt 3.0018356045764243
+data.zewn.txt 3.0018356045764243

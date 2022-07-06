@@ -1,7 +1,7 @@
 6
-data.co.txt 2
-data.mk.txt 1
-data.mo.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zccx.txt 1
+data.co.txt 4.927148697748023
+data.mk.txt 3.1086847136800873
+data.mo.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zbhe.txt 3.1086847136800873
+data.zccx.txt 3.1086847136800873

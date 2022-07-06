@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.zaxx.txt 1
-data.zbvg.txt 1
-data.zbwq.txt 1
-data.zcts.txt 1
-data.zcve.txt 1
-data.zebv.txt 1
-data.zenw.txt 1
-data.zezy.txt 1
+data.ga.txt 2.82763771717948
+data.zaxx.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zezy.txt 2.82763771717948

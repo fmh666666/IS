@@ -1,6 +1,6 @@
 5
-data.mu.txt 1
-data.zazx.txt 1
-data.zbem.txt 1
-data.zblh.txt 1
-data.zeam.txt 1
+data.mu.txt 3.235060386727117
+data.zazx.txt 3.235060386727117
+data.zbem.txt 3.235060386727117
+data.zblh.txt 3.235060386727117
+data.zeam.txt 3.235060386727117

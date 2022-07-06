@@ -1,11 +1,11 @@
 10
-data.kt.txt 1
-data.zate.txt 1
-data.zbsf.txt 1
-data.zbsm.txt 1
-data.zcko.txt 1
-data.zcll.txt 1
-data.zctp.txt 1
-data.zcww.txt 1
-data.zdme.txt 1
-data.zeqh.txt 1
+data.kt.txt 2.7546073728089153
+data.zate.txt 2.7546073728089153
+data.zbsf.txt 2.7546073728089153
+data.zbsm.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zcll.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zcww.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153

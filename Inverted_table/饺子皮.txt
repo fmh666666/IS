@@ -1,6 +1,6 @@
 5
-data.zaqw.txt 2
-data.zbpx.txt 1
-data.zdeb.txt 4
-data.zdpz.txt 1
-data.zeew.txt 1
+data.zaqw.txt 5.1274494005309625
+data.zbpx.txt 3.235060386727117
+data.zdeb.txt 7.511577600598868
+data.zdpz.txt 3.235060386727117
+data.zeew.txt 3.235060386727117

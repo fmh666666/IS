@@ -1,10 +1,10 @@
 9
-data.ew.txt 1
-data.kt.txt 1
-data.zapf.txt 1
-data.zbaq.txt 1
-data.zcmy.txt 1
-data.zcve.txt 1
-data.zczp.txt 1
-data.zdgo.txt 1
-data.zedx.txt 1
+data.ew.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zapf.txt 2.82763771717948
+data.zbaq.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zdgo.txt 2.82763771717948
+data.zedx.txt 2.82763771717948

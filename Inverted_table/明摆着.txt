@@ -1,9 +1,9 @@
 8
-data.hu.txt 1
-data.op.txt 1
-data.zawc.txt 1
-data.zaxx.txt 1
-data.zcdv.txt 1
-data.zdqq.txt 1
-data.zdzn.txt 1
-data.zfaj.txt 1
+data.hu.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zdqq.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.cn.txt 2
-data.tz.txt 1
-data.zayd.txt 1
-data.zcvq.txt 1
-data.zerv.txt 1
-data.zezf.txt 1
+data.cn.txt 4.927148697748023
+data.tz.txt 3.1086847136800873
+data.zayd.txt 3.1086847136800873
+data.zcvq.txt 3.1086847136800873
+data.zerv.txt 3.1086847136800873
+data.zezf.txt 3.1086847136800873

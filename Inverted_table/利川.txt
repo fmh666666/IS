@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.zaim.txt 2
-data.zajh.txt 1
-data.zawb.txt 1
-data.zbpx.txt 1
-data.zbvf.txt 1
-data.zcmx.txt 1
-data.zcxr.txt 1
+data.hz.txt 2.9092786962624935
+data.zaim.txt 4.611097637722987
+data.zajh.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zbvf.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935

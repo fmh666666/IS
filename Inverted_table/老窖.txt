@@ -1,6 +1,6 @@
 5
-data.cn.txt 1
-data.zbmt.txt 4
-data.zckd.txt 1
-data.zcrg.txt 1
-data.zedd.txt 2
+data.cn.txt 3.235060386727117
+data.zbmt.txt 7.511577600598868
+data.zckd.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zedd.txt 5.1274494005309625

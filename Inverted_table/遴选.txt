@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.gw.txt 1
-data.kt.txt 1
-data.zaxj.txt 1
-data.zbdx.txt 2
-data.zbor.txt 1
-data.zdst.txt 1
-data.zeoh.txt 1
+data.bf.txt 2.9092786962624935
+data.gw.txt 2.9092786962624935
+data.kt.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbdx.txt 4.611097637722987
+data.zbor.txt 2.9092786962624935
+data.zdst.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

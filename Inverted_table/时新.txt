@@ -1,6 +1,6 @@
 5
-data.zbux.txt 1
-data.zbwq.txt 1
-data.zcfx.txt 1
-data.zdic.txt 1
-data.zdkc.txt 1
+data.zbux.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zcfx.txt 3.235060386727117
+data.zdic.txt 3.235060386727117
+data.zdkc.txt 3.235060386727117

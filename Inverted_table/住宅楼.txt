@@ -1,12 +1,12 @@
 11
-data.zawc.txt 1
-data.zbeb.txt 3
-data.zbkv.txt 1
-data.zbsf.txt 1
-data.zcem.txt 1
-data.zcgo.txt 1
-data.zdgt.txt 2
-data.zene.txt 1
-data.zeqh.txt 1
-data.zezm.txt 1
-data.zezn.txt 1
+data.zawc.txt 2.6885433903988862
+data.zbeb.txt 5.3770867807977725
+data.zbkv.txt 2.6885433903988862
+data.zbsf.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcgo.txt 2.6885433903988862
+data.zdgt.txt 4.261240455343955
+data.zene.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862
+data.zezm.txt 2.6885433903988862
+data.zezn.txt 2.6885433903988862

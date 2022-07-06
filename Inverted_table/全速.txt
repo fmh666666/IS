@@ -1,10 +1,10 @@
 9
-data.zdey.txt 1
-data.zdji.txt 2
-data.zdqq.txt 1
-data.zebv.txt 1
-data.zenw.txt 1
-data.zeqn.txt 1
-data.zexv.txt 1
-data.zfai.txt 3
-data.zfcp.txt 1
+data.zdey.txt 2.82763771717948
+data.zdji.txt 4.48169974735425
+data.zdqq.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zeqn.txt 2.82763771717948
+data.zexv.txt 2.82763771717948
+data.zfai.txt 5.65527543435896
+data.zfcp.txt 2.82763771717948

@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.vz.txt 1
-data.zayv.txt 1
-data.zbkj.txt 1
-data.zbmt.txt 1
-data.zcao.txt 1
-data.zcql.txt 1
-data.zedk.txt 1
-data.zeec.txt 1
-data.zefw.txt 1
+data.ga.txt 2.7546073728089153
+data.vz.txt 2.7546073728089153
+data.zayv.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zbmt.txt 2.7546073728089153
+data.zcao.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153
+data.zefw.txt 2.7546073728089153

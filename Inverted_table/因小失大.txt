@@ -1,9 +1,9 @@
 8
-data.zajn.txt 2
-data.zaoc.txt 2
-data.zasy.txt 1
-data.zblr.txt 1
-data.zbxw.txt 1
-data.zcjy.txt 1
-data.zdju.txt 1
-data.zdwz.txt 1
+data.zajn.txt 4.611097637722987
+data.zaoc.txt 4.611097637722987
+data.zasy.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zbxw.txt 2.9092786962624935
+data.zcjy.txt 2.9092786962624935
+data.zdju.txt 2.9092786962624935
+data.zdwz.txt 2.9092786962624935

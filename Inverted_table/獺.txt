@@ -1,2 +1,2 @@
 1
-data.zcrv.txt 3
+data.zcrv.txt 8.701275476034196

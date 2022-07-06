@@ -1,5 +1,5 @@
 4
-data.zawb.txt 1
-data.zcef.txt 1
-data.zdkk.txt 1
-data.zefw.txt 1
+data.zawb.txt 3.389731710180695
+data.zcef.txt 3.389731710180695
+data.zdkk.txt 3.389731710180695
+data.zefw.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.zaeh.txt 1
-data.zate.txt 1
-data.zcon.txt 1
-data.zecf.txt 1
-data.zedo.txt 1
-data.zewd.txt 1
+data.zaeh.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zecf.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zewd.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zaun.txt 5
-data.zevq.txt 1
+data.ry.txt 3.5891377275982888
+data.zaun.txt 9.27778643576512
+data.zevq.txt 3.5891377275982888

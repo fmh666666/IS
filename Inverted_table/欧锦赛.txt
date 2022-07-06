@@ -1,4 +1,4 @@
 3
-data.zdaw.txt 15
-data.zddb.txt 1
-data.zess.txt 1
+data.zdaw.txt 14.356550910393155
+data.zddb.txt 3.5891377275982888
+data.zess.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.bs.txt 2
-data.zadv.txt 1
-data.zawo.txt 1
-data.zawz.txt 1
-data.zdme.txt 1
+data.bs.txt 5.1274494005309625
+data.zadv.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zdme.txt 3.235060386727117

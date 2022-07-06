@@ -1,13 +1,13 @@
 12
-data.mx.txt 1
-data.uz.txt 7
-data.zawb.txt 1
-data.zbfr.txt 1
-data.zcdv.txt 1
-data.zcee.txt 1
-data.zcvq.txt 1
-data.zdcw.txt 1
-data.zdey.txt 1
-data.zdfl.txt 1
-data.zeta.txt 1
-data.zexx.txt 1
+data.mx.txt 2.628231699761886
+data.uz.txt 7.884695099285658
+data.zawb.txt 2.628231699761886
+data.zbfr.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zdcw.txt 2.628231699761886
+data.zdey.txt 2.628231699761886
+data.zdfl.txt 2.628231699761886
+data.zeta.txt 2.628231699761886
+data.zexx.txt 2.628231699761886

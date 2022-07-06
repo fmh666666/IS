@@ -1,11 +1,11 @@
 10
-data.zadv.txt 1
-data.zbnp.txt 1
-data.zbpx.txt 1
-data.zdzg.txt 1
-data.zegk.txt 6
-data.zegl.txt 5
-data.zegn.txt 3
-data.zeqn.txt 1
-data.zfby.txt 1
-data.zfcj.txt 1
+data.zadv.txt 2.7546073728089153
+data.zbnp.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zegk.txt 7.733160566391275
+data.zegl.txt 7.120556762921068
+data.zegn.txt 5.509214745617831
+data.zeqn.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153
+data.zfcj.txt 2.7546073728089153

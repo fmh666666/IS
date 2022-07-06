@@ -1,5 +1,5 @@
 4
-data.zard.txt 1
-data.zctp.txt 4
-data.zdlm.txt 1
-data.zfae.txt 2
+data.zard.txt 3.389731710180695
+data.zctp.txt 7.870713291999142
+data.zdlm.txt 3.389731710180695
+data.zfae.txt 5.372597648141796

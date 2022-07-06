@@ -1,14 +1,14 @@
 13
-data.ek.txt 1
-data.en.txt 2
-data.zass.txt 2
-data.zavg.txt 1
-data.zaxj.txt 1
-data.zbia.txt 1
-data.zbse.txt 1
-data.zcdv.txt 2
-data.zcgi.txt 2
-data.zcrg.txt 1
-data.zdou.txt 1
-data.zdwd.txt 1
-data.zfcp.txt 1
+data.ek.txt 2.5727503226135906
+data.en.txt 4.077712785060798
+data.zass.txt 4.077712785060798
+data.zavg.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zbia.txt 2.5727503226135906
+data.zbse.txt 2.5727503226135906
+data.zcdv.txt 4.077712785060798
+data.zcgi.txt 4.077712785060798
+data.zcrg.txt 2.5727503226135906
+data.zdou.txt 2.5727503226135906
+data.zdwd.txt 2.5727503226135906
+data.zfcp.txt 2.5727503226135906

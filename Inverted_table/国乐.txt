@@ -1,9 +1,9 @@
 8
-data.tz.txt 1
-data.ye.txt 1
-data.zate.txt 4
-data.zbgu.txt 1
-data.zblq.txt 1
-data.zcdv.txt 1
-data.zcjo.txt 2
-data.zeqv.txt 1
+data.tz.txt 2.9092786962624935
+data.ye.txt 2.9092786962624935
+data.zate.txt 6.7551359407091605
+data.zbgu.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcjo.txt 4.611097637722987
+data.zeqv.txt 2.9092786962624935

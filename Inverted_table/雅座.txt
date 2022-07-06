@@ -1,6 +1,6 @@
 5
-data.zbhv.txt 1
-data.zbil.txt 1
-data.zbwa.txt 1
-data.zbzo.txt 1
-data.zefs.txt 1
+data.zbhv.txt 3.235060386727117
+data.zbil.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117
+data.zbzo.txt 3.235060386727117
+data.zefs.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zahd.txt 1
-data.zddp.txt 1
-data.zezn.txt 2
+data.zahd.txt 3.5891377275982888
+data.zddp.txt 3.5891377275982888
+data.zezn.txt 5.688648708166832

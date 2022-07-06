@@ -1,8 +1,8 @@
 7
-data.ye.txt 3
-data.zcbm.txt 2
-data.zciq.txt 1
-data.zcve.txt 1
-data.zdga.txt 1
-data.zeeq.txt 1
-data.zfaw.txt 1
+data.ye.txt 6.003671209152849
+data.zcbm.txt 4.757796866583254
+data.zciq.txt 3.0018356045764243
+data.zcve.txt 3.0018356045764243
+data.zdga.txt 3.0018356045764243
+data.zeeq.txt 3.0018356045764243
+data.zfaw.txt 3.0018356045764243

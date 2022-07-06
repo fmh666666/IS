@@ -1,3 +1,3 @@
 2
-data.fp.txt 3
-data.zcli.txt 2
+data.fp.txt 7.740369448197793
+data.zcli.txt 6.134097658560606

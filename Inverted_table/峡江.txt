@@ -1,6 +1,6 @@
 5
-data.zane.txt 1
-data.zddb.txt 7
-data.zelt.txt 1
-data.zeoo.txt 1
-data.zexk.txt 1
+data.zane.txt 3.235060386727117
+data.zddb.txt 9.70518116018135
+data.zelt.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

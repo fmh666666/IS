@@ -1,2 +1,2 @@
 1
-data.zfae.txt 2
+data.zfae.txt 6.8955976689794145

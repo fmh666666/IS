@@ -1,10 +1,10 @@
 9
-data.zahd.txt 1
-data.zaxp.txt 3
-data.zazn.txt 3
-data.zbcc.txt 1
-data.zbcv.txt 1
-data.zbnp.txt 1
-data.zcdz.txt 1
-data.zcxq.txt 1
-data.zesi.txt 1
+data.zahd.txt 2.82763771717948
+data.zaxp.txt 5.65527543435896
+data.zazn.txt 5.65527543435896
+data.zbcc.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zbnp.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zesi.txt 2.82763771717948

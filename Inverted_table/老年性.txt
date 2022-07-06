@@ -1,6 +1,6 @@
 5
-data.en.txt 1
-data.zcue.txt 1
-data.zdaq.txt 2
-data.zdar.txt 1
-data.zeeq.txt 1
+data.en.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zdaq.txt 5.1274494005309625
+data.zdar.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

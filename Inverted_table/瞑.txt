@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.zazn.txt 1
-data.zdep.txt 1
-data.zdmw.txt 1
-data.zeeq.txt 1
+data.cq.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

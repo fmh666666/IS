@@ -1,6 +1,6 @@
 5
-data.vz.txt 1
-data.zbeb.txt 1
-data.zcao.txt 1
-data.zcem.txt 1
-data.zdzn.txt 1
+data.vz.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zcao.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117

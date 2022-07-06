@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zbye.txt 2
-data.zcdy.txt 1
-data.zevl.txt 2
+data.zaim.txt 3.389731710180695
+data.zbye.txt 5.372597648141796
+data.zcdy.txt 3.389731710180695
+data.zevl.txt 5.372597648141796

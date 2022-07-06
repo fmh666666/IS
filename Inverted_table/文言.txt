@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.ew.txt 1
-data.ka.txt 1
-data.tv.txt 1
-data.zakb.txt 1
-data.zbcc.txt 1
-data.zbil.txt 1
-data.zbof.txt 1
-data.zcvq.txt 1
-data.zdnc.txt 1
+data.aj.txt 2.7546073728089153
+data.ew.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.tv.txt 2.7546073728089153
+data.zakb.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zbof.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zdnc.txt 2.7546073728089153

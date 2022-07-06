@@ -1,7 +1,7 @@
 6
-data.to.txt 1
-data.zabe.txt 1
-data.zalc.txt 1
-data.zawb.txt 2
-data.zdgt.txt 1
-data.zeam.txt 3
+data.to.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zalc.txt 3.1086847136800873
+data.zawb.txt 4.927148697748023
+data.zdgt.txt 3.1086847136800873
+data.zeam.txt 6.2173694273601745

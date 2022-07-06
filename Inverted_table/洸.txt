@@ -1,5 +1,5 @@
 4
-data.tv.txt 1
-data.zcic.txt 1
-data.zdlw.txt 1
-data.zfaj.txt 2
+data.tv.txt 3.389731710180695
+data.zcic.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695
+data.zfaj.txt 5.372597648141796

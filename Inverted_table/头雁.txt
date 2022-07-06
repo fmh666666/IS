@@ -1,2 +1,2 @@
 1
-data.zeam.txt 4
+data.zeam.txt 10.101867994579104

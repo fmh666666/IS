@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.dg.txt 1
-data.zagb.txt 1
-data.zbwa.txt 1
-data.zcon.txt 1
-data.zdfl.txt 1
-data.zduo.txt 1
-data.zeoo.txt 1
-data.zewp.txt 1
+data.cq.txt 2.82763771717948
+data.dg.txt 2.82763771717948
+data.zagb.txt 2.82763771717948
+data.zbwa.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zduo.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948
+data.zewp.txt 2.82763771717948

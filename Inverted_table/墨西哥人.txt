@@ -1,4 +1,4 @@
 3
-data.kt.txt 1
-data.zaic.txt 1
-data.zexx.txt 1
+data.kt.txt 3.5891377275982888
+data.zaic.txt 3.5891377275982888
+data.zexx.txt 3.5891377275982888

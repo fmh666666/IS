@@ -1,7 +1,7 @@
 6
-data.zalt.txt 1
-data.zbkj.txt 1
-data.zcrg.txt 1
-data.zcww.txt 1
-data.zdgo.txt 1
-data.zdgp.txt 1
+data.zalt.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873
+data.zcww.txt 3.1086847136800873
+data.zdgo.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.pn.txt 1
-data.zbcc.txt 1
-data.zbmw.txt 1
-data.zcts.txt 2
-data.zdmw.txt 1
-data.zdod.txt 1
+data.pn.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zbmw.txt 3.1086847136800873
+data.zcts.txt 4.927148697748023
+data.zdmw.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873

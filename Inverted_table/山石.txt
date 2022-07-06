@@ -1,13 +1,13 @@
 12
-data.xe.txt 1
-data.zabe.txt 2
-data.zall.txt 1
-data.zbds.txt 1
-data.zbil.txt 1
-data.zbua.txt 1
-data.zcis.txt 1
-data.zcxq.txt 1
-data.zddb.txt 1
-data.zegz.txt 1
-data.zeid.txt 1
-data.zezn.txt 1
+data.xe.txt 2.628231699761886
+data.zabe.txt 4.165648687329214
+data.zall.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbil.txt 2.628231699761886
+data.zbua.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zcxq.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zegz.txt 2.628231699761886
+data.zeid.txt 2.628231699761886
+data.zezn.txt 2.628231699761886

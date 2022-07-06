@@ -1,10 +1,10 @@
 9
-data.aj.txt 3
-data.pa.txt 1
-data.zahd.txt 2
-data.zamp.txt 1
-data.zbhd.txt 2
-data.zbjk.txt 1
-data.zbmw.txt 1
-data.zcxr.txt 1
-data.zevt.txt 2
+data.aj.txt 5.65527543435896
+data.pa.txt 2.82763771717948
+data.zahd.txt 4.48169974735425
+data.zamp.txt 2.82763771717948
+data.zbhd.txt 4.48169974735425
+data.zbjk.txt 2.82763771717948
+data.zbmw.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zevt.txt 4.48169974735425

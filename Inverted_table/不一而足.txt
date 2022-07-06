@@ -1,4 +1,4 @@
 3
-data.yx.txt 1
-data.zazn.txt 1
-data.zbvm.txt 1
+data.yx.txt 3.5891377275982888
+data.zazn.txt 3.5891377275982888
+data.zbvm.txt 3.5891377275982888

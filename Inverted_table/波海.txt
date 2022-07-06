@@ -1,4 +1,4 @@
 3
-data.zbpx.txt 1
-data.zcue.txt 1
-data.zeva.txt 1
+data.zbpx.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888
+data.zeva.txt 3.5891377275982888

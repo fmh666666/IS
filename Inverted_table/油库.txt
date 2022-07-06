@@ -1,4 +1,4 @@
 3
-data.zahd.txt 3
-data.zasr.txt 1
-data.zbkr.txt 1
+data.zahd.txt 7.1782754551965775
+data.zasr.txt 3.5891377275982888
+data.zbkr.txt 3.5891377275982888

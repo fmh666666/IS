@@ -1,9 +1,9 @@
 8
-data.ew.txt 2
-data.ga.txt 1
-data.zabx.txt 1
-data.zail.txt 1
-data.zasj.txt 1
-data.zdcw.txt 1
-data.zdlo.txt 1
-data.zfaj.txt 1
+data.ew.txt 4.611097637722987
+data.ga.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zasj.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

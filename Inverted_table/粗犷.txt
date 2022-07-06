@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.xe.txt 1
-data.zaeh.txt 1
-data.zake.txt 1
-data.zbcc.txt 1
-data.zbeb.txt 1
-data.zbut.txt 1
-data.zdkc.txt 3
-data.zdqx.txt 1
-data.zdux.txt 1
-data.zenn.txt 1
-data.zewv.txt 1
+data.kq.txt 2.628231699761886
+data.xe.txt 2.628231699761886
+data.zaeh.txt 2.628231699761886
+data.zake.txt 2.628231699761886
+data.zbcc.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbut.txt 2.628231699761886
+data.zdkc.txt 5.256463399523772
+data.zdqx.txt 2.628231699761886
+data.zdux.txt 2.628231699761886
+data.zenn.txt 2.628231699761886
+data.zewv.txt 2.628231699761886

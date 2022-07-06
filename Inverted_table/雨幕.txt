@@ -1,5 +1,5 @@
 4
-data.zadv.txt 1
-data.zcef.txt 1
-data.zcft.txt 1
-data.zdfl.txt 1
+data.zadv.txt 3.389731710180695
+data.zcef.txt 3.389731710180695
+data.zcft.txt 3.389731710180695
+data.zdfl.txt 3.389731710180695

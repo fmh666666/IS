@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.ng.txt 1
-data.zagr.txt 1
-data.zbcv.txt 1
-data.zbjk.txt 1
-data.zcef.txt 1
-data.zcts.txt 1
-data.zdkp.txt 1
-data.zenw.txt 1
+data.kt.txt 2.82763771717948
+data.ng.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zdkp.txt 2.82763771717948
+data.zenw.txt 2.82763771717948

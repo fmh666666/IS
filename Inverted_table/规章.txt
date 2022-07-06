@@ -1,7 +1,7 @@
 6
-data.hz.txt 1
-data.ka.txt 1
-data.zarr.txt 2
-data.zasq.txt 1
-data.zbaq.txt 1
-data.zbhd.txt 1
+data.hz.txt 3.1086847136800873
+data.ka.txt 3.1086847136800873
+data.zarr.txt 4.927148697748023
+data.zasq.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.zayc.txt 1
-data.zbpx.txt 1
-data.zciy.txt 1
-data.zfai.txt 1
+data.zayc.txt 3.389731710180695
+data.zbpx.txt 3.389731710180695
+data.zciy.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zafu.txt 1
-data.zako.txt 1
-data.zalj.txt 1
-data.zaxp.txt 2
-data.zcsu.txt 1
-data.zcts.txt 4
-data.zdbf.txt 1
+data.ry.txt 2.9092786962624935
+data.zafu.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zaxp.txt 4.611097637722987
+data.zcsu.txt 2.9092786962624935
+data.zcts.txt 6.7551359407091605
+data.zdbf.txt 2.9092786962624935

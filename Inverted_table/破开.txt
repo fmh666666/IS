@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zahp.txt 2
-data.zcpc.txt 2
-data.zcvi.txt 1
-data.zdaq.txt 3
-data.zdib.txt 2
-data.zefp.txt 1
-data.zfcp.txt 1
-data.zfdk.txt 2
+data.fp.txt 2.82763771717948
+data.zahp.txt 4.48169974735425
+data.zcpc.txt 4.48169974735425
+data.zcvi.txt 2.82763771717948
+data.zdaq.txt 5.65527543435896
+data.zdib.txt 4.48169974735425
+data.zefp.txt 2.82763771717948
+data.zfcp.txt 2.82763771717948
+data.zfdk.txt 4.48169974735425

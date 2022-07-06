@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.zafe.txt 1
-data.zaoy.txt 1
-data.zayd.txt 1
-data.zcsu.txt 1
+data.ew.txt 3.235060386727117
+data.zafe.txt 3.235060386727117
+data.zaoy.txt 3.235060386727117
+data.zayd.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117

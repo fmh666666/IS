@@ -1,6 +1,6 @@
 5
-data.co.txt 2
-data.zarc.txt 1
-data.zauy.txt 1
-data.zcue.txt 2
-data.zewg.txt 1
+data.co.txt 5.1274494005309625
+data.zarc.txt 3.235060386727117
+data.zauy.txt 3.235060386727117
+data.zcue.txt 5.1274494005309625
+data.zewg.txt 3.235060386727117

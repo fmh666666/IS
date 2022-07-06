@@ -1,13 +1,13 @@
 12
-data.yx.txt 1
-data.zaoo.txt 1
-data.zard.txt 1
-data.zaxp.txt 1
-data.zblq.txt 1
-data.zbts.txt 1
-data.zbvp.txt 1
-data.zcdy.txt 2
-data.zcjd.txt 1
-data.zdgp.txt 1
-data.zdoq.txt 1
-data.zdpw.txt 1
+data.yx.txt 2.628231699761886
+data.zaoo.txt 2.628231699761886
+data.zard.txt 2.628231699761886
+data.zaxp.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zbts.txt 2.628231699761886
+data.zbvp.txt 2.628231699761886
+data.zcdy.txt 4.165648687329214
+data.zcjd.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zdoq.txt 2.628231699761886
+data.zdpw.txt 2.628231699761886

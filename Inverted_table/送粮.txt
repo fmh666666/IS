@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.pn.txt 1
-data.zeva.txt 1
+data.fp.txt 3.5891377275982888
+data.pn.txt 3.5891377275982888
+data.zeva.txt 3.5891377275982888

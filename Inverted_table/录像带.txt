@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zbgd.txt 1
-data.zcdv.txt 1
-data.zeam.txt 1
-data.zfai.txt 3
+data.kt.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zfai.txt 6.470120773454234

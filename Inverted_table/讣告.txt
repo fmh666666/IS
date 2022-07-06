@@ -1,5 +1,5 @@
 4
-data.zaic.txt 1
-data.zaop.txt 1
-data.zddm.txt 1
-data.zdpw.txt 1
+data.zaic.txt 3.389731710180695
+data.zaop.txt 3.389731710180695
+data.zddm.txt 3.389731710180695
+data.zdpw.txt 3.389731710180695

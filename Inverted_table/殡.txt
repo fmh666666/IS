@@ -1,4 +1,4 @@
 3
-data.zbla.txt 1
-data.zcxr.txt 1
-data.zenw.txt 1
+data.zbla.txt 3.5891377275982888
+data.zcxr.txt 3.5891377275982888
+data.zenw.txt 3.5891377275982888

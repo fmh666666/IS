@@ -1,2 +1,2 @@
 1
-data.zalt.txt 2
+data.zalt.txt 6.8955976689794145

@@ -1,13 +1,13 @@
 12
-data.ga.txt 2
-data.zamr.txt 1
-data.zaxj.txt 1
-data.zbcj.txt 1
-data.zcao.txt 1
-data.zcrn.txt 2
-data.zczl.txt 1
-data.zdey.txt 2
-data.zdlw.txt 1
-data.zeeq.txt 2
-data.zeqv.txt 1
-data.zeun.txt 1
+data.ga.txt 4.165648687329214
+data.zamr.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zcao.txt 2.628231699761886
+data.zcrn.txt 4.165648687329214
+data.zczl.txt 2.628231699761886
+data.zdey.txt 4.165648687329214
+data.zdlw.txt 2.628231699761886
+data.zeeq.txt 4.165648687329214
+data.zeqv.txt 2.628231699761886
+data.zeun.txt 2.628231699761886

@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.zbcj.txt 1
-data.zbxy.txt 1
-data.zdaq.txt 1
-data.zeac.txt 1
-data.zfai.txt 1
+data.gw.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zbxy.txt 3.1086847136800873
+data.zdaq.txt 3.1086847136800873
+data.zeac.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

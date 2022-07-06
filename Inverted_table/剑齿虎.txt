@@ -1,8 +1,8 @@
 7
-data.xe.txt 1
-data.zbbt.txt 1
-data.zcwn.txt 1
-data.zdds.txt 4
-data.zddv.txt 1
-data.zdil.txt 1
-data.zejn.txt 1
+data.xe.txt 3.0018356045764243
+data.zbbt.txt 3.0018356045764243
+data.zcwn.txt 3.0018356045764243
+data.zdds.txt 6.970046426499191
+data.zddv.txt 3.0018356045764243
+data.zdil.txt 3.0018356045764243
+data.zejn.txt 3.0018356045764243

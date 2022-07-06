@@ -1,2 +1,2 @@
 1
-data.zeeh.txt 5
+data.zeeh.txt 11.246235406996512

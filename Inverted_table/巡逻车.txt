@@ -1,5 +1,5 @@
 4
-data.be.txt 2
-data.zaqf.txt 1
-data.zemf.txt 1
-data.zeyg.txt 1
+data.be.txt 5.372597648141796
+data.zaqf.txt 3.389731710180695
+data.zemf.txt 3.389731710180695
+data.zeyg.txt 3.389731710180695

@@ -1,5 +1,5 @@
 4
-data.zbor.txt 1
-data.zcts.txt 1
-data.zduo.txt 2
-data.zelt.txt 1
+data.zbor.txt 3.389731710180695
+data.zcts.txt 3.389731710180695
+data.zduo.txt 5.372597648141796
+data.zelt.txt 3.389731710180695

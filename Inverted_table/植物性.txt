@@ -1,8 +1,8 @@
 7
-data.zahd.txt 1
-data.zcsu.txt 1
-data.zctp.txt 2
-data.zczl.txt 1
-data.zdcj.txt 1
-data.zdnh.txt 1
-data.zduk.txt 1
+data.zahd.txt 3.0018356045764243
+data.zcsu.txt 3.0018356045764243
+data.zctp.txt 4.757796866583254
+data.zczl.txt 3.0018356045764243
+data.zdcj.txt 3.0018356045764243
+data.zdnh.txt 3.0018356045764243
+data.zduk.txt 3.0018356045764243

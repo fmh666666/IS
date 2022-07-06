@@ -1,10 +1,10 @@
 9
-data.pn.txt 3
-data.xe.txt 1
-data.zaop.txt 1
-data.zasd.txt 1
-data.zbhe.txt 7
-data.zcdg.txt 1
-data.zdtr.txt 1
-data.zezn.txt 1
-data.zfaj.txt 1
+data.pn.txt 5.65527543435896
+data.xe.txt 2.82763771717948
+data.zaop.txt 2.82763771717948
+data.zasd.txt 2.82763771717948
+data.zbhe.txt 8.48291315153844
+data.zcdg.txt 2.82763771717948
+data.zdtr.txt 2.82763771717948
+data.zezn.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

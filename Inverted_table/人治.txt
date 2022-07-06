@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.zafq.txt 2
-data.zawb.txt 1
-data.zawo.txt 1
-data.zblr.txt 1
-data.zbtx.txt 2
-data.zcdy.txt 1
-data.zcse.txt 2
-data.zczl.txt 1
-data.zdeb.txt 1
-data.zdlm.txt 1
-data.zeay.txt 1
-data.zebn.txt 2
+data.ga.txt 2.5727503226135906
+data.zafq.txt 4.077712785060798
+data.zawb.txt 2.5727503226135906
+data.zawo.txt 2.5727503226135906
+data.zblr.txt 2.5727503226135906
+data.zbtx.txt 4.077712785060798
+data.zcdy.txt 2.5727503226135906
+data.zcse.txt 4.077712785060798
+data.zczl.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdlm.txt 2.5727503226135906
+data.zeay.txt 2.5727503226135906
+data.zebn.txt 4.077712785060798

@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.zafu.txt 1
-data.zall.txt 1
-data.zbbt.txt 1
-data.zciq.txt 1
-data.zdaq.txt 3
+data.kt.txt 3.1086847136800873
+data.zafu.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zbbt.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zdaq.txt 6.2173694273601745

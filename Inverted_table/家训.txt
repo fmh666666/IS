@@ -1,10 +1,10 @@
 9
-data.fz.txt 2
-data.mt.txt 1
-data.vi.txt 1
-data.zanh.txt 1
-data.zbia.txt 1
-data.zcdl.txt 1
-data.zcdy.txt 1
-data.zctp.txt 1
-data.zezm.txt 1
+data.fz.txt 4.48169974735425
+data.mt.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zanh.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zcdl.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zezm.txt 2.82763771717948

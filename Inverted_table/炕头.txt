@@ -1,4 +1,4 @@
 3
-data.zawu.txt 1
-data.zcdy.txt 1
-data.zeam.txt 1
+data.zawu.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zeam.txt 3.5891377275982888

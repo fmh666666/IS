@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.vm.txt 1
-data.zazw.txt 1
-data.zazx.txt 2
-data.zczl.txt 1
-data.zess.txt 1
+data.bs.txt 3.1086847136800873
+data.vm.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zazx.txt 4.927148697748023
+data.zczl.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873

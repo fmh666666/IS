@@ -1,9 +1,9 @@
 8
-data.zake.txt 1
-data.zbcc.txt 1
-data.zbut.txt 1
-data.zbvp.txt 1
-data.zddp.txt 1
-data.zdme.txt 1
-data.zdzg.txt 1
-data.zfaz.txt 1
+data.zake.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbut.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

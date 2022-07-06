@@ -1,9 +1,9 @@
 8
-data.mt.txt 1
-data.zaqp.txt 1
-data.zazg.txt 4
-data.zbua.txt 2
-data.zbxy.txt 1
-data.zccu.txt 1
-data.zdcw.txt 1
-data.zeai.txt 2
+data.mt.txt 2.9092786962624935
+data.zaqp.txt 2.9092786962624935
+data.zazg.txt 6.7551359407091605
+data.zbua.txt 4.611097637722987
+data.zbxy.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zeai.txt 4.611097637722987

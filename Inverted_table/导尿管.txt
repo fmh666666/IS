@@ -1,4 +1,4 @@
 3
-data.zbot.txt 1
-data.zenn.txt 1
-data.zeyy.txt 1
+data.zbot.txt 3.5891377275982888
+data.zenn.txt 3.5891377275982888
+data.zeyy.txt 3.5891377275982888

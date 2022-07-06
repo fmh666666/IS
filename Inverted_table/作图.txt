@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.zajr.txt 1
-data.zate.txt 1
-data.zbcc.txt 1
-data.zbfz.txt 1
-data.zbga.txt 1
-data.zcdv.txt 1
-data.zcrn.txt 1
-data.zdst.txt 1
-data.zduo.txt 1
-data.zdwn.txt 1
-data.zeoo.txt 1
-data.zerh.txt 1
+data.ew.txt 2.5727503226135906
+data.zajr.txt 2.5727503226135906
+data.zate.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zbfz.txt 2.5727503226135906
+data.zbga.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zcrn.txt 2.5727503226135906
+data.zdst.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zdwn.txt 2.5727503226135906
+data.zeoo.txt 2.5727503226135906
+data.zerh.txt 2.5727503226135906

@@ -1,7 +1,7 @@
 6
-data.zazn.txt 1
-data.zbil.txt 1
-data.zcjy.txt 1
-data.zcvt.txt 1
-data.zejn.txt 1
-data.zeyg.txt 1
+data.zazn.txt 3.1086847136800873
+data.zbil.txt 3.1086847136800873
+data.zcjy.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zejn.txt 3.1086847136800873
+data.zeyg.txt 3.1086847136800873

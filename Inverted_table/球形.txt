@@ -1,10 +1,10 @@
 9
-data.zaoc.txt 1
-data.zbfp.txt 1
-data.zbfz.txt 2
-data.zbsu.txt 2
-data.zcpb.txt 1
-data.zdzg.txt 1
-data.zehp.txt 1
-data.zeik.txt 1
-data.zeyy.txt 1
+data.zaoc.txt 2.82763771717948
+data.zbfp.txt 2.82763771717948
+data.zbfz.txt 4.48169974735425
+data.zbsu.txt 4.48169974735425
+data.zcpb.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zeik.txt 2.82763771717948
+data.zeyy.txt 2.82763771717948

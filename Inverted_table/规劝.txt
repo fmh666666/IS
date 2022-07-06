@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zayd.txt 1
-data.zcef.txt 1
-data.zcls.txt 1
-data.zcse.txt 1
+data.hp.txt 3.235060386727117
+data.zayd.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zcls.txt 3.235060386727117
+data.zcse.txt 3.235060386727117

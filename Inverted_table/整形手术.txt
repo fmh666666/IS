@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zaic.txt 1
-data.zcvt.txt 1
-data.zdeb.txt 1
-data.zdqk.txt 5
+data.zacd.txt 3.235060386727117
+data.zaic.txt 3.235060386727117
+data.zcvt.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zdqk.txt 8.362509787258078

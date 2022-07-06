@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zbdx.txt 2
-data.zduk.txt 1
+data.op.txt 3.5891377275982888
+data.zbdx.txt 5.688648708166832
+data.zduk.txt 3.5891377275982888

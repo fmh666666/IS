@@ -1,5 +1,5 @@
 4
-data.vz.txt 1
-data.zauy.txt 1
-data.zbmt.txt 1
-data.zcls.txt 1
+data.vz.txt 3.389731710180695
+data.zauy.txt 3.389731710180695
+data.zbmt.txt 3.389731710180695
+data.zcls.txt 3.389731710180695

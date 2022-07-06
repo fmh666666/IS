@@ -1,6 +1,6 @@
 5
-data.zapf.txt 1
-data.zasr.txt 1
-data.zcql.txt 2
-data.zctp.txt 2
-data.zcts.txt 11
+data.zapf.txt 3.235060386727117
+data.zasr.txt 3.235060386727117
+data.zcql.txt 5.1274494005309625
+data.zctp.txt 5.1274494005309625
+data.zcts.txt 11.597570173985197

@@ -1,11 +1,11 @@
 10
-data.kt.txt 1
-data.pa.txt 1
-data.zaop.txt 1
-data.zazg.txt 1
-data.zcoy.txt 1
-data.zczp.txt 1
-data.zdcw.txt 1
-data.zddl.txt 1
-data.zexx.txt 1
-data.zfdk.txt 1
+data.kt.txt 2.7546073728089153
+data.pa.txt 2.7546073728089153
+data.zaop.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zcoy.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zddl.txt 2.7546073728089153
+data.zexx.txt 2.7546073728089153
+data.zfdk.txt 2.7546073728089153

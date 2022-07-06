@@ -1,4 +1,4 @@
 3
-data.kt.txt 1
-data.zalj.txt 2
-data.zaxp.txt 1
+data.kt.txt 3.5891377275982888
+data.zalj.txt 5.688648708166832
+data.zaxp.txt 3.5891377275982888

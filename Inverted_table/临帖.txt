@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.en.txt 1
-data.zcql.txt 1
-data.zdgt.txt 1
-data.zdkk.txt 1
-data.zeoh.txt 1
+data.cz.txt 3.1086847136800873
+data.en.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

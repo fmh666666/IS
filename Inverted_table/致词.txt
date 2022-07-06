@@ -1,8 +1,8 @@
 7
-data.zafi.txt 1
-data.zaoy.txt 1
-data.zbeb.txt 1
-data.zcdg.txt 1
-data.zcdz.txt 1
-data.zdgv.txt 1
-data.zdtr.txt 1
+data.zafi.txt 3.0018356045764243
+data.zaoy.txt 3.0018356045764243
+data.zbeb.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243

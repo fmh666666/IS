@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.en.txt 1
-data.zaxj.txt 2
-data.zaxk.txt 1
-data.zbds.txt 1
-data.zczl.txt 1
-data.zdic.txt 1
-data.zeqh.txt 1
+data.bb.txt 2.9092786962624935
+data.en.txt 2.9092786962624935
+data.zaxj.txt 4.611097637722987
+data.zaxk.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zdic.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935

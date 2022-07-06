@@ -1,6 +1,6 @@
 5
-data.ud.txt 1
-data.zbdb.txt 1
-data.zeam.txt 1
-data.zeyu.txt 2
-data.zeyy.txt 1
+data.ud.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zeyu.txt 5.1274494005309625
+data.zeyy.txt 3.235060386727117

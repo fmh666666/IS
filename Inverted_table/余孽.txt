@@ -1,10 +1,10 @@
 9
-data.pq.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zccx.txt 1
-data.zcdv.txt 1
-data.zdlw.txt 1
-data.zdoc.txt 1
-data.zexx.txt 1
-data.zfaj.txt 4
+data.pq.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zccx.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zdlw.txt 2.82763771717948
+data.zdoc.txt 2.82763771717948
+data.zexx.txt 2.82763771717948
+data.zfaj.txt 6.565571457682201

@@ -1,11 +1,11 @@
 10
-data.mk.txt 1
-data.zbfr.txt 2
-data.zbsm.txt 1
-data.zcjo.txt 1
-data.zctp.txt 3
-data.zcts.txt 1
-data.zdsh.txt 1
-data.zegl.txt 1
-data.zeve.txt 9
-data.zezn.txt 2
+data.mk.txt 2.7546073728089153
+data.zbfr.txt 4.365949390112154
+data.zbsm.txt 2.7546073728089153
+data.zcjo.txt 2.7546073728089153
+data.zctp.txt 5.509214745617831
+data.zcts.txt 2.7546073728089153
+data.zdsh.txt 2.7546073728089153
+data.zegl.txt 2.7546073728089153
+data.zeve.txt 9.150607622117803
+data.zezn.txt 4.365949390112154

@@ -1,3 +1,3 @@
 2
-data.zazw.txt 7
-data.zazx.txt 2
+data.zazw.txt 11.61055417229669
+data.zazx.txt 6.134097658560606

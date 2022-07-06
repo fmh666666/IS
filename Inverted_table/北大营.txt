@@ -1,6 +1,6 @@
 5
-data.zbcv.txt 1
-data.zbot.txt 1
-data.zbsm.txt 1
-data.zdyv.txt 1
-data.zfai.txt 1
+data.zbcv.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zdyv.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

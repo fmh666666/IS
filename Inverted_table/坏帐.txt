@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.zbds.txt 1
-data.zbtx.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zciy.txt 1
-data.zcjo.txt 1
-data.zcon.txt 2
+data.kt.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zbtx.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zcjo.txt 2.9092786962624935
+data.zcon.txt 4.611097637722987

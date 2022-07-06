@@ -1,6 +1,6 @@
 5
-data.cf.txt 2
-data.zadv.txt 4
-data.zblr.txt 1
-data.zfai.txt 1
-data.zfbr.txt 2
+data.cf.txt 5.1274494005309625
+data.zadv.txt 7.511577600598868
+data.zblr.txt 3.235060386727117
+data.zfai.txt 3.235060386727117
+data.zfbr.txt 5.1274494005309625

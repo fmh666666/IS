@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.zafy.txt 1
-data.zdoq.txt 1
-data.zejk.txt 1
+data.ga.txt 3.389731710180695
+data.zafy.txt 3.389731710180695
+data.zdoq.txt 3.389731710180695
+data.zejk.txt 3.389731710180695

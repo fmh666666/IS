@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zayv.txt 3
-data.zcao.txt 2
-data.zcli.txt 1
-data.zezy.txt 1
+data.to.txt 3.235060386727117
+data.zayv.txt 6.470120773454234
+data.zcao.txt 5.1274494005309625
+data.zcli.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

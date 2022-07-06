@@ -1,6 +1,6 @@
 5
-data.yx.txt 1
-data.zafq.txt 1
-data.zcdy.txt 4
-data.zcdz.txt 7
-data.zcsr.txt 1
+data.yx.txt 3.235060386727117
+data.zafq.txt 3.235060386727117
+data.zcdy.txt 7.511577600598868
+data.zcdz.txt 9.70518116018135
+data.zcsr.txt 3.235060386727117

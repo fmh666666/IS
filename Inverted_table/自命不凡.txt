@@ -1,7 +1,7 @@
 6
-data.zbvp.txt 1
-data.zdeb.txt 1
-data.zdgo.txt 1
-data.zdll.txt 1
-data.zdzm.txt 1
-data.zexm.txt 1
+data.zbvp.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zdgo.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

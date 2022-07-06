@@ -1,3 +1,3 @@
 2
-data.zaqw.txt 1
-data.zbkr.txt 1
+data.zaqw.txt 3.8701847240988965
+data.zbkr.txt 3.8701847240988965

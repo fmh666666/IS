@@ -1,14 +1,14 @@
 13
-data.aj.txt 1
-data.bf.txt 6
-data.mi.txt 1
-data.ng.txt 1
-data.zaim.txt 1
-data.zbdb.txt 1
-data.zchw.txt 13
-data.zcjy.txt 44
-data.zcvt.txt 1
-data.zcxr.txt 2
-data.zdeq.txt 2
-data.zedo.txt 18
-data.zeds.txt 5
+data.aj.txt 2.5727503226135906
+data.bf.txt 7.222623281414552
+data.mi.txt 2.5727503226135906
+data.ng.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zbdb.txt 2.5727503226135906
+data.zchw.txt 9.795373604028143
+data.zcjy.txt 14.129166825328616
+data.zcvt.txt 2.5727503226135906
+data.zcxr.txt 4.077712785060798
+data.zdeq.txt 4.077712785060798
+data.zedo.txt 10.92885688065113
+data.zeds.txt 6.650463107674388

@@ -1,4 +1,4 @@
 3
-data.vz.txt 2
-data.zdji.txt 3
-data.zedd.txt 2
+data.vz.txt 5.688648708166832
+data.zdji.txt 7.1782754551965775
+data.zedd.txt 5.688648708166832

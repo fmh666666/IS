@@ -1,9 +1,9 @@
 8
-data.vi.txt 1
-data.zaoy.txt 1
-data.zawb.txt 1
-data.zcxr.txt 4
-data.zdep.txt 1
-data.zeob.txt 3
-data.zess.txt 1
-data.zfae.txt 1
+data.vi.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zcxr.txt 6.7551359407091605
+data.zdep.txt 2.9092786962624935
+data.zeob.txt 5.818557392524987
+data.zess.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

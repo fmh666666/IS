@@ -1,8 +1,8 @@
 7
-data.dg.txt 1
-data.fp.txt 1
-data.zasw.txt 1
-data.zcpx.txt 1
-data.zdlm.txt 1
-data.zdwl.txt 3
-data.zefs.txt 1
+data.dg.txt 3.0018356045764243
+data.fp.txt 3.0018356045764243
+data.zasw.txt 3.0018356045764243
+data.zcpx.txt 3.0018356045764243
+data.zdlm.txt 3.0018356045764243
+data.zdwl.txt 6.003671209152849
+data.zefs.txt 3.0018356045764243

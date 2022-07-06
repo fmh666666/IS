@@ -1,5 +1,5 @@
 4
-data.by.txt 1
-data.zcao.txt 1
-data.zctm.txt 1
-data.zdlw.txt 1
+data.by.txt 3.389731710180695
+data.zcao.txt 3.389731710180695
+data.zctm.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695

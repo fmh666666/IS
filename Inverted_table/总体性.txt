@@ -1,5 +1,5 @@
 4
-data.cz.txt 1
-data.zbut.txt 1
-data.zcue.txt 1
-data.zdnh.txt 1
+data.cz.txt 3.389731710180695
+data.zbut.txt 3.389731710180695
+data.zcue.txt 3.389731710180695
+data.zdnh.txt 3.389731710180695

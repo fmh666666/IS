@@ -1,13 +1,13 @@
 12
-data.dg.txt 2
-data.mt.txt 1
-data.pn.txt 1
-data.zafy.txt 1
-data.zamr.txt 1
-data.zarc.txt 1
-data.zbqu.txt 1
-data.zckd.txt 1
-data.zcls.txt 1
-data.zcqp.txt 1
-data.zczp.txt 2
-data.zdux.txt 1
+data.dg.txt 4.165648687329214
+data.mt.txt 2.628231699761886
+data.pn.txt 2.628231699761886
+data.zafy.txt 2.628231699761886
+data.zamr.txt 2.628231699761886
+data.zarc.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zckd.txt 2.628231699761886
+data.zcls.txt 2.628231699761886
+data.zcqp.txt 2.628231699761886
+data.zczp.txt 4.165648687329214
+data.zdux.txt 2.628231699761886

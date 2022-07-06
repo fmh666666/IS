@@ -1,10 +1,10 @@
 9
-data.zaim.txt 1
-data.zazn.txt 1
-data.zciy.txt 1
-data.zddp.txt 1
-data.zdst.txt 1
-data.zene.txt 3
-data.zeyu.txt 1
-data.zeyy.txt 4
-data.zfbr.txt 4
+data.zaim.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zdst.txt 2.82763771717948
+data.zene.txt 5.65527543435896
+data.zeyu.txt 2.82763771717948
+data.zeyy.txt 6.565571457682201
+data.zfbr.txt 6.565571457682201

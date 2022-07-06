@@ -1,5 +1,5 @@
 4
-data.zbkf.txt 5
-data.zbpp.txt 2
-data.zdji.txt 3
-data.zeeh.txt 1
+data.zbkf.txt 8.762329358322491
+data.zbpp.txt 5.372597648141796
+data.zdji.txt 6.77946342036139
+data.zeeh.txt 3.389731710180695

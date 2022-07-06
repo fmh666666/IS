@@ -1,9 +1,9 @@
 8
-data.xk.txt 1
-data.zaip.txt 1
-data.zasd.txt 1
-data.zbup.txt 1
-data.zcxq.txt 1
-data.zeai.txt 1
-data.zeeq.txt 2
-data.zeoo.txt 1
+data.xk.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zbup.txt 2.9092786962624935
+data.zcxq.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zeeq.txt 4.611097637722987
+data.zeoo.txt 2.9092786962624935

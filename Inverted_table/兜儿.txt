@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zbaq.txt 1
-data.zeel.txt 1
+data.mk.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zeel.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.gk.txt 1
-data.zcee.txt 1
-data.zddl.txt 1
-data.zdoc.txt 1
+data.ek.txt 3.235060386727117
+data.gk.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zddl.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117

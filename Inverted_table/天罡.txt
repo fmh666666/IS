@@ -1,12 +1,12 @@
 11
-data.kq.txt 1
-data.pa.txt 1
-data.ry.txt 1
-data.tv.txt 3
-data.tz.txt 2
-data.zank.txt 1
-data.zazn.txt 1
-data.zdaa.txt 2
-data.zdcy.txt 4
-data.zdgv.txt 1
-data.zewn.txt 1
+data.kq.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.ry.txt 2.6885433903988862
+data.tv.txt 5.3770867807977725
+data.tz.txt 4.261240455343955
+data.zank.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zdaa.txt 4.261240455343955
+data.zdcy.txt 6.2426044324908965
+data.zdgv.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862

@@ -1,7 +1,7 @@
 6
-data.hz.txt 12
-data.pa.txt 4
-data.zbcj.txt 7
-data.zbha.txt 1
-data.zdou.txt 2
-data.zess.txt 1
+data.hz.txt 11.503500385679864
+data.pa.txt 7.21814237484067
+data.zbcj.txt 9.326054141040261
+data.zbha.txt 3.1086847136800873
+data.zdou.txt 4.927148697748023
+data.zess.txt 3.1086847136800873

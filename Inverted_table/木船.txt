@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zaqp.txt 1
-data.zcfx.txt 1
+data.jf.txt 3.5891377275982888
+data.zaqp.txt 3.5891377275982888
+data.zcfx.txt 3.5891377275982888

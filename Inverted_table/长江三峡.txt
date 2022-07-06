@@ -1,5 +1,5 @@
 4
-data.to.txt 1
-data.zaej.txt 1
-data.zatz.txt 1
-data.zexx.txt 1
+data.to.txt 3.389731710180695
+data.zaej.txt 3.389731710180695
+data.zatz.txt 3.389731710180695
+data.zexx.txt 3.389731710180695

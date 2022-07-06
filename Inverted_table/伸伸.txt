@@ -1,5 +1,5 @@
 4
-data.wg.txt 1
-data.zaqf.txt 1
-data.zbes.txt 3
-data.zcdl.txt 1
+data.wg.txt 3.389731710180695
+data.zaqf.txt 3.389731710180695
+data.zbes.txt 6.77946342036139
+data.zcdl.txt 3.389731710180695

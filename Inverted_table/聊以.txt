@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.hg.txt 1
-data.zaqr.txt 2
-data.zcic.txt 1
-data.zcmn.txt 1
-data.zcrk.txt 1
-data.zdep.txt 1
-data.zdey.txt 2
-data.zduk.txt 1
-data.zeaf.txt 1
+data.bf.txt 2.7546073728089153
+data.hg.txt 2.7546073728089153
+data.zaqr.txt 4.365949390112154
+data.zcic.txt 2.7546073728089153
+data.zcmn.txt 2.7546073728089153
+data.zcrk.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153
+data.zdey.txt 4.365949390112154
+data.zduk.txt 2.7546073728089153
+data.zeaf.txt 2.7546073728089153

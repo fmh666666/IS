@@ -1,6 +1,6 @@
 5
-data.zaoo.txt 1
-data.zbxy.txt 2
-data.zcic.txt 1
-data.zdby.txt 1
-data.zeik.txt 1
+data.zaoo.txt 3.235060386727117
+data.zbxy.txt 5.1274494005309625
+data.zcic.txt 3.235060386727117
+data.zdby.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

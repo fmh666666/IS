@@ -1,4 +1,4 @@
 3
-data.nh.txt 1
-data.zbmt.txt 1
-data.zbsm.txt 1
+data.nh.txt 3.5891377275982888
+data.zbmt.txt 3.5891377275982888
+data.zbsm.txt 3.5891377275982888

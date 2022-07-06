@@ -1,4 +1,4 @@
 3
-data.zbsl.txt 2
-data.zcqp.txt 1
-data.zdcy.txt 1
+data.zbsl.txt 5.688648708166832
+data.zcqp.txt 3.5891377275982888
+data.zdcy.txt 3.5891377275982888

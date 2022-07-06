@@ -1,11 +1,11 @@
 10
-data.dg.txt 1
-data.pn.txt 1
-data.zbgu.txt 1
-data.zbts.txt 1
-data.zdlw.txt 1
-data.zdud.txt 1
-data.zduk.txt 1
-data.zdux.txt 1
-data.zdyv.txt 1
-data.zdzg.txt 1
+data.dg.txt 2.7546073728089153
+data.pn.txt 2.7546073728089153
+data.zbgu.txt 2.7546073728089153
+data.zbts.txt 2.7546073728089153
+data.zdlw.txt 2.7546073728089153
+data.zdud.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zdux.txt 2.7546073728089153
+data.zdyv.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153

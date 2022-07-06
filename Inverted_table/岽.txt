@@ -1,8 +1,8 @@
 7
-data.zbem.txt 1
-data.zbph.txt 1
-data.zbsm.txt 2
-data.zcda.txt 1
-data.zcxh.txt 2
-data.zdeb.txt 1
-data.zenw.txt 1
+data.zbem.txt 3.0018356045764243
+data.zbph.txt 3.0018356045764243
+data.zbsm.txt 4.757796866583254
+data.zcda.txt 3.0018356045764243
+data.zcxh.txt 4.757796866583254
+data.zdeb.txt 3.0018356045764243
+data.zenw.txt 3.0018356045764243

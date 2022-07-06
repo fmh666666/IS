@@ -1,2 +1,2 @@
 1
-data.gw.txt 2
+data.gw.txt 6.8955976689794145

@@ -1,6 +1,6 @@
 5
-data.zail.txt 1
-data.zbzf.txt 1
-data.zcgi.txt 1
-data.zcue.txt 1
-data.zfbr.txt 3
+data.zail.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcgi.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zfbr.txt 6.470120773454234

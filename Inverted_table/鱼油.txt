@@ -1,9 +1,9 @@
 8
-data.zafk.txt 3
-data.zcts.txt 1
-data.zddx.txt 2
-data.zdga.txt 1
-data.zeqn.txt 1
-data.zeqv.txt 2
-data.zfaw.txt 2
-data.zfcp.txt 1
+data.zafk.txt 5.818557392524987
+data.zcts.txt 2.9092786962624935
+data.zddx.txt 4.611097637722987
+data.zdga.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935
+data.zeqv.txt 4.611097637722987
+data.zfaw.txt 4.611097637722987
+data.zfcp.txt 2.9092786962624935

@@ -1,10 +1,10 @@
 9
-data.hz.txt 2
-data.zabe.txt 1
-data.zaxp.txt 1
-data.zbfp.txt 1
-data.zbjk.txt 1
-data.zdbf.txt 2
-data.zdzg.txt 1
-data.zfai.txt 1
-data.zfcg.txt 1
+data.hz.txt 4.48169974735425
+data.zabe.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zbfp.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zdbf.txt 4.48169974735425
+data.zdzg.txt 2.82763771717948
+data.zfai.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

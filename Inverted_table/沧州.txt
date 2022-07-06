@@ -1,10 +1,10 @@
 9
-data.zabx.txt 2
-data.zbzo.txt 5
-data.zckd.txt 5
-data.zcls.txt 6
-data.zcql.txt 1
-data.zcrg.txt 2
-data.zcwq.txt 1
-data.zdar.txt 1
-data.zeoh.txt 1
+data.zabx.txt 4.48169974735425
+data.zbzo.txt 7.309337464533731
+data.zckd.txt 7.309337464533731
+data.zcls.txt 7.938182663119541
+data.zcql.txt 2.82763771717948
+data.zcrg.txt 4.48169974735425
+data.zcwq.txt 2.82763771717948
+data.zdar.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

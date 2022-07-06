@@ -1,7 +1,7 @@
 6
-data.vz.txt 1
-data.zavx.txt 1
-data.zbhv.txt 2
-data.zeam.txt 3
-data.zedk.txt 1
-data.zewg.txt 1
+data.vz.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zbhv.txt 4.927148697748023
+data.zeam.txt 6.2173694273601745
+data.zedk.txt 3.1086847136800873
+data.zewg.txt 3.1086847136800873

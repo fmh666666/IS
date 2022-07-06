@@ -1,4 +1,4 @@
 3
-data.zcda.txt 1
-data.zcjo.txt 1
-data.zcve.txt 1
+data.zcda.txt 3.5891377275982888
+data.zcjo.txt 3.5891377275982888
+data.zcve.txt 3.5891377275982888

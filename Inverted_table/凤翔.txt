@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.zbjk.txt 1
-data.zbnp.txt 1
-data.zcvt.txt 1
-data.zcyv.txt 1
-data.zemf.txt 2
+data.be.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbnp.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zcyv.txt 3.1086847136800873
+data.zemf.txt 4.927148697748023

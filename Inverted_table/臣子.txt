@@ -1,4 +1,4 @@
 3
-data.zawb.txt 1
-data.zduo.txt 3
-data.zeoh.txt 1
+data.zawb.txt 3.5891377275982888
+data.zduo.txt 7.1782754551965775
+data.zeoh.txt 3.5891377275982888

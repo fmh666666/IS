@@ -1,12 +1,12 @@
 11
-data.fe.txt 1
-data.zadv.txt 1
-data.zaim.txt 1
-data.zcxh.txt 1
-data.zczp.txt 1
-data.zdji.txt 1
-data.zdou.txt 1
-data.zdux.txt 1
-data.zdwv.txt 1
-data.zehp.txt 1
-data.zewg.txt 1
+data.fe.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zcxh.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdji.txt 2.6885433903988862
+data.zdou.txt 2.6885433903988862
+data.zdux.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zewg.txt 2.6885433903988862

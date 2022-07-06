@@ -1,3 +1,3 @@
 2
-data.bb.txt 2
-data.zbrj.txt 2
+data.bb.txt 6.134097658560606
+data.zbrj.txt 6.134097658560606

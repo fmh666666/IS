@@ -1,11 +1,11 @@
 10
-data.en.txt 1
-data.pa.txt 1
-data.xk.txt 1
-data.zazg.txt 1
-data.zbpp.txt 1
-data.zbzf.txt 1
-data.zcjo.txt 1
-data.zdaq.txt 6
-data.zdar.txt 14
-data.zddm.txt 1
+data.en.txt 2.7546073728089153
+data.pa.txt 2.7546073728089153
+data.xk.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zbpp.txt 2.7546073728089153
+data.zbzf.txt 2.7546073728089153
+data.zcjo.txt 2.7546073728089153
+data.zdaq.txt 7.733160566391275
+data.zdar.txt 10.76194963942104
+data.zddm.txt 2.7546073728089153

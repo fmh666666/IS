@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zbdb.txt 1
-data.zbkf.txt 1
+data.mo.txt 3.5891377275982888
+data.zbdb.txt 3.5891377275982888
+data.zbkf.txt 3.5891377275982888

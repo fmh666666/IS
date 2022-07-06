@@ -1,4 +1,4 @@
 3
-data.zcih.txt 1
-data.zcsu.txt 2
-data.zfaj.txt 1
+data.zcih.txt 3.5891377275982888
+data.zcsu.txt 5.688648708166832
+data.zfaj.txt 3.5891377275982888

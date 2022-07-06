@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zazo.txt 1
-data.zbgd.txt 1
-data.zbph.txt 1
-data.zciy.txt 2
-data.zddx.txt 1
-data.zdgo.txt 1
-data.zdzn.txt 1
+data.ry.txt 2.9092786962624935
+data.zazo.txt 2.9092786962624935
+data.zbgd.txt 2.9092786962624935
+data.zbph.txt 2.9092786962624935
+data.zciy.txt 4.611097637722987
+data.zddx.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935

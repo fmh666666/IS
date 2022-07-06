@@ -1,5 +1,5 @@
 4
-data.qn.txt 1
-data.zapl.txt 2
-data.zdro.txt 3
-data.zfcp.txt 1
+data.qn.txt 3.389731710180695
+data.zapl.txt 5.372597648141796
+data.zdro.txt 6.77946342036139
+data.zfcp.txt 3.389731710180695

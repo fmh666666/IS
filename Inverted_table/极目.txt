@@ -1,4 +1,4 @@
 3
-data.zbkv.txt 1
-data.zcmn.txt 1
-data.zdro.txt 1
+data.zbkv.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888
+data.zdro.txt 3.5891377275982888

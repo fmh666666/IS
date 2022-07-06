@@ -1,11 +1,11 @@
 10
-data.zaoy.txt 1
-data.zavx.txt 1
-data.zawo.txt 1
-data.zcls.txt 1
-data.zdkk.txt 2
-data.zdou.txt 2
-data.zdqz.txt 4
-data.zeaf.txt 1
-data.zeos.txt 1
-data.zewv.txt 1
+data.zaoy.txt 2.7546073728089153
+data.zavx.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zcls.txt 2.7546073728089153
+data.zdkk.txt 4.365949390112154
+data.zdou.txt 4.365949390112154
+data.zdqz.txt 6.396000249308887
+data.zeaf.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153
+data.zewv.txt 2.7546073728089153

@@ -1,6 +1,6 @@
 5
-data.zaqf.txt 1
-data.zbdb.txt 1
-data.zbhd.txt 1
-data.zdmw.txt 1
-data.zeeh.txt 1
+data.zaqf.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117

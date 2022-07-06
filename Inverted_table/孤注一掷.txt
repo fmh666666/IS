@@ -1,12 +1,12 @@
 11
-data.en.txt 1
-data.vi.txt 1
-data.zarr.txt 1
-data.zbds.txt 1
-data.zbdx.txt 1
-data.zbph.txt 1
-data.zciy.txt 1
-data.zcmx.txt 1
-data.zdwn.txt 1
-data.zemb.txt 1
-data.zexx.txt 1
+data.en.txt 2.6885433903988862
+data.vi.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zciy.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

@@ -1,11 +1,11 @@
 10
-data.qn.txt 2
-data.zazo.txt 1
-data.zccx.txt 1
-data.zcem.txt 1
-data.zcpa.txt 1
-data.zcue.txt 1
-data.zdqx.txt 1
-data.zefd.txt 1
-data.zewv.txt 1
-data.zfai.txt 1
+data.qn.txt 4.365949390112154
+data.zazo.txt 2.7546073728089153
+data.zccx.txt 2.7546073728089153
+data.zcem.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zdqx.txt 2.7546073728089153
+data.zefd.txt 2.7546073728089153
+data.zewv.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

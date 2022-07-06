@@ -1,7 +1,7 @@
 6
-data.bb.txt 4
-data.ft.txt 2
-data.hz.txt 1
-data.zbcj.txt 1
-data.zeob.txt 1
-data.zfai.txt 2
+data.bb.txt 7.21814237484067
+data.ft.txt 4.927148697748023
+data.hz.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zeob.txt 3.1086847136800873
+data.zfai.txt 4.927148697748023

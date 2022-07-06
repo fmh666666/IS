@@ -1,5 +1,5 @@
 4
-data.vz.txt 1
-data.zbpp.txt 1
-data.zemb.txt 5
-data.zewv.txt 1
+data.vz.txt 3.389731710180695
+data.zbpp.txt 3.389731710180695
+data.zemb.txt 8.762329358322491
+data.zewv.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.hz.txt 1
-data.tv.txt 1
-data.zacd.txt 1
-data.zalm.txt 1
-data.zcni.txt 1
-data.zdhv.txt 2
+data.hz.txt 3.1086847136800873
+data.tv.txt 3.1086847136800873
+data.zacd.txt 3.1086847136800873
+data.zalm.txt 3.1086847136800873
+data.zcni.txt 3.1086847136800873
+data.zdhv.txt 4.927148697748023

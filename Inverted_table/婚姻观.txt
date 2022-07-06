@@ -1,4 +1,4 @@
 3
-data.xk.txt 1
-data.zbaf.txt 1
-data.zdle.txt 1
+data.xk.txt 3.5891377275982888
+data.zbaf.txt 3.5891377275982888
+data.zdle.txt 3.5891377275982888

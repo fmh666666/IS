@@ -1,10 +1,10 @@
 9
-data.ev.txt 2
-data.ew.txt 4
-data.pa.txt 1
-data.zabe.txt 1
-data.zaim.txt 1
-data.zasr.txt 1
-data.zbjh.txt 1
-data.zblq.txt 5
-data.zcrk.txt 1
+data.ev.txt 4.48169974735425
+data.ew.txt 6.565571457682201
+data.pa.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zasr.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zblq.txt 7.309337464533731
+data.zcrk.txt 2.82763771717948

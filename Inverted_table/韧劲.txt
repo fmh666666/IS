@@ -1,7 +1,7 @@
 6
-data.nh.txt 1
-data.zayd.txt 1
-data.zcdz.txt 1
-data.zctm.txt 1
-data.zddl.txt 1
-data.zfae.txt 1
+data.nh.txt 3.1086847136800873
+data.zayd.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zddl.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

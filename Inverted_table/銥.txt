@@ -1,5 +1,5 @@
 4
-data.zbgw.txt 2
-data.zcpa.txt 1
-data.zdpf.txt 3
-data.zdpg.txt 4
+data.zbgw.txt 5.372597648141796
+data.zcpa.txt 3.389731710180695
+data.zdpf.txt 6.77946342036139
+data.zdpg.txt 7.870713291999142

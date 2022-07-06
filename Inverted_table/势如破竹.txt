@@ -1,5 +1,5 @@
 4
-data.yx.txt 1
-data.zbzo.txt 2
-data.zcel.txt 1
-data.zehp.txt 1
+data.yx.txt 3.389731710180695
+data.zbzo.txt 5.372597648141796
+data.zcel.txt 3.389731710180695
+data.zehp.txt 3.389731710180695

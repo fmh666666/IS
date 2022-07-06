@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zalj.txt 1
-data.zcdv.txt 3
-data.zdgv.txt 1
-data.zdwv.txt 2
-data.zess.txt 1
+data.bb.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zcdv.txt 6.2173694273601745
+data.zdgv.txt 3.1086847136800873
+data.zdwv.txt 4.927148697748023
+data.zess.txt 3.1086847136800873

@@ -1,14 +1,14 @@
 13
-data.bf.txt 1
-data.bs.txt 1
-data.tv.txt 1
-data.zajo.txt 1
-data.zbvn.txt 1
-data.zcdz.txt 1
-data.zcue.txt 1
-data.zeez.txt 1
-data.zeid.txt 1
-data.zelt.txt 1
-data.zevq.txt 1
-data.zfai.txt 1
-data.zfcp.txt 1
+data.bf.txt 2.5727503226135906
+data.bs.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zbvn.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zeez.txt 2.5727503226135906
+data.zeid.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfcp.txt 2.5727503226135906

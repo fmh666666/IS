@@ -1,11 +1,11 @@
 10
-data.hz.txt 1
-data.ry.txt 2
-data.zapl.txt 1
-data.zawc.txt 1
-data.zbjc.txt 2
-data.zcdv.txt 1
-data.zcwq.txt 1
-data.zefv.txt 2
-data.zegl.txt 1
-data.zejk.txt 1
+data.hz.txt 2.7546073728089153
+data.ry.txt 4.365949390112154
+data.zapl.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbjc.txt 4.365949390112154
+data.zcdv.txt 2.7546073728089153
+data.zcwq.txt 2.7546073728089153
+data.zefv.txt 4.365949390112154
+data.zegl.txt 2.7546073728089153
+data.zejk.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.zasq.txt 1
-data.zeam.txt 1
+data.mx.txt 3.5891377275982888
+data.zasq.txt 3.5891377275982888
+data.zeam.txt 3.5891377275982888

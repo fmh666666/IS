@@ -1,7 +1,7 @@
 6
-data.jj.txt 1
-data.zbfz.txt 1
-data.zdlm.txt 1
-data.zehp.txt 1
-data.zeos.txt 1
-data.zfae.txt 1
+data.jj.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zdlm.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

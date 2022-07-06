@@ -1,10 +1,10 @@
 9
-data.ga.txt 5
-data.zapf.txt 1
-data.zcao.txt 1
-data.zdgv.txt 1
-data.zdux.txt 1
-data.zesq.txt 1
-data.zeta.txt 1
-data.zeva.txt 2
-data.zfae.txt 2
+data.ga.txt 7.309337464533731
+data.zapf.txt 2.82763771717948
+data.zcao.txt 2.82763771717948
+data.zdgv.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zesq.txt 2.82763771717948
+data.zeta.txt 2.82763771717948
+data.zeva.txt 4.48169974735425
+data.zfae.txt 4.48169974735425

@@ -1,5 +1,5 @@
 4
-data.kq.txt 1
-data.zazg.txt 2
-data.zazw.txt 3
-data.zdrq.txt 2
+data.kq.txt 3.389731710180695
+data.zazg.txt 5.372597648141796
+data.zazw.txt 6.77946342036139
+data.zdrq.txt 5.372597648141796

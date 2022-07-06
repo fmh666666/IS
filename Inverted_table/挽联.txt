@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zaim.txt 1
-data.zbut.txt 4
+data.fp.txt 3.5891377275982888
+data.zaim.txt 3.5891377275982888
+data.zbut.txt 8.333719726130651

@@ -1,9 +1,9 @@
 8
-data.mk.txt 1
-data.zasd.txt 1
-data.zbdb.txt 1
-data.zbsu.txt 1
-data.zcef.txt 1
-data.zclm.txt 1
-data.zebn.txt 1
-data.zeqv.txt 1
+data.mk.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zclm.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

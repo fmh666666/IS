@@ -1,7 +1,7 @@
 6
-data.ek.txt 1
-data.zaoy.txt 1
-data.zbsu.txt 3
-data.zcrn.txt 1
-data.zdxw.txt 1
-data.zexm.txt 1
+data.ek.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zbsu.txt 6.2173694273601745
+data.zcrn.txt 3.1086847136800873
+data.zdxw.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

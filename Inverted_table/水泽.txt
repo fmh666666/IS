@@ -1,5 +1,5 @@
 4
-data.zcdv.txt 2
-data.zduo.txt 2
-data.zegn.txt 1
-data.zeqv.txt 1
+data.zcdv.txt 5.372597648141796
+data.zduo.txt 5.372597648141796
+data.zegn.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695

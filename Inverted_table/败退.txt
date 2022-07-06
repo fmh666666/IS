@@ -1,8 +1,8 @@
 7
-data.bb.txt 1
-data.ft.txt 1
-data.zaim.txt 1
-data.zbzo.txt 1
-data.zcku.txt 1
-data.zddm.txt 1
-data.zdju.txt 1
+data.bb.txt 3.0018356045764243
+data.ft.txt 3.0018356045764243
+data.zaim.txt 3.0018356045764243
+data.zbzo.txt 3.0018356045764243
+data.zcku.txt 3.0018356045764243
+data.zddm.txt 3.0018356045764243
+data.zdju.txt 3.0018356045764243

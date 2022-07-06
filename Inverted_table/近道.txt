@@ -1,7 +1,7 @@
 6
-data.zasq.txt 1
-data.zcis.txt 1
-data.zcon.txt 1
-data.zdcy.txt 1
-data.zdwl.txt 2
-data.zebf.txt 1
+data.zasq.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zdcy.txt 3.1086847136800873
+data.zdwl.txt 4.927148697748023
+data.zebf.txt 3.1086847136800873

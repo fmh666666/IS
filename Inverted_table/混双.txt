@@ -1,13 +1,13 @@
 12
-data.zair.txt 3
-data.zaun.txt 1
-data.zbcj.txt 2
-data.zcmx.txt 4
-data.zdcw.txt 1
-data.zdlw.txt 2
-data.zdmw.txt 1
-data.zduk.txt 4
-data.zdwl.txt 4
-data.zebv.txt 1
-data.zeqv.txt 1
-data.zexm.txt 2
+data.zair.txt 5.256463399523772
+data.zaun.txt 2.628231699761886
+data.zbcj.txt 4.165648687329214
+data.zcmx.txt 6.1025650235506905
+data.zdcw.txt 2.628231699761886
+data.zdlw.txt 4.165648687329214
+data.zdmw.txt 2.628231699761886
+data.zduk.txt 6.1025650235506905
+data.zdwl.txt 6.1025650235506905
+data.zebv.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886
+data.zexm.txt 4.165648687329214

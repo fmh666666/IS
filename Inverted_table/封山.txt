@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.op.txt 1
-data.zail.txt 1
-data.zbeb.txt 1
-data.zcjy.txt 1
-data.zcko.txt 1
+data.bf.txt 3.1086847136800873
+data.op.txt 3.1086847136800873
+data.zail.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zcjy.txt 3.1086847136800873
+data.zcko.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zazn.txt 1
-data.zbfz.txt 3
-data.zcts.txt 1
+data.zazn.txt 3.5891377275982888
+data.zbfz.txt 7.1782754551965775
+data.zcts.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.cq.txt 3
-data.zasw.txt 1
-data.zcee.txt 1
-data.zcfn.txt 1
+data.cq.txt 6.77946342036139
+data.zasw.txt 3.389731710180695
+data.zcee.txt 3.389731710180695
+data.zcfn.txt 3.389731710180695

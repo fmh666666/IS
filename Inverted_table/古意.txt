@@ -1,7 +1,7 @@
 6
-data.ew.txt 1
-data.zabx.txt 1
-data.zaxj.txt 2
-data.zaxk.txt 1
-data.zdpw.txt 3
-data.zezn.txt 1
+data.ew.txt 3.1086847136800873
+data.zabx.txt 3.1086847136800873
+data.zaxj.txt 4.927148697748023
+data.zaxk.txt 3.1086847136800873
+data.zdpw.txt 6.2173694273601745
+data.zezn.txt 3.1086847136800873

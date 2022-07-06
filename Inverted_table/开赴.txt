@@ -1,6 +1,6 @@
 5
-data.zane.txt 1
-data.zaxj.txt 1
-data.zbel.txt 1
-data.zcve.txt 1
-data.zdpw.txt 1
+data.zane.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117

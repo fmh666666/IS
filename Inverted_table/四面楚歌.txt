@@ -1,8 +1,8 @@
 7
-data.ew.txt 1
-data.qb.txt 1
-data.zciy.txt 1
-data.zdfl.txt 1
-data.zdwl.txt 1
-data.zefv.txt 1
-data.zfai.txt 2
+data.ew.txt 3.0018356045764243
+data.qb.txt 3.0018356045764243
+data.zciy.txt 3.0018356045764243
+data.zdfl.txt 3.0018356045764243
+data.zdwl.txt 3.0018356045764243
+data.zefv.txt 3.0018356045764243
+data.zfai.txt 4.757796866583254

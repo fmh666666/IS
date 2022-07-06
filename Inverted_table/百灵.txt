@@ -1,9 +1,9 @@
 8
-data.zako.txt 1
-data.zauy.txt 1
-data.zbeb.txt 1
-data.zclh.txt 1
-data.zczp.txt 1
-data.zdga.txt 1
-data.zdou.txt 1
-data.zdvl.txt 1
+data.zako.txt 2.9092786962624935
+data.zauy.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zclh.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdga.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zdvl.txt 2.9092786962624935

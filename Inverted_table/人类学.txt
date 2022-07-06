@@ -1,10 +1,10 @@
 9
-data.ng.txt 1
-data.xe.txt 1
-data.zbdb.txt 1
-data.zbgu.txt 1
-data.zbhd.txt 5
-data.zdgt.txt 1
-data.zdwv.txt 1
-data.zewd.txt 1
-data.zfaj.txt 1
+data.ng.txt 2.82763771717948
+data.xe.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zbhd.txt 7.309337464533731
+data.zdgt.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zewd.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

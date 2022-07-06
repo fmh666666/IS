@@ -1,4 +1,4 @@
 3
-data.fz.txt 1
-data.zasw.txt 1
-data.zczp.txt 1
+data.fz.txt 3.5891377275982888
+data.zasw.txt 3.5891377275982888
+data.zczp.txt 3.5891377275982888

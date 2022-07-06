@@ -1,7 +1,7 @@
 6
-data.zbfr.txt 1
-data.zcdg.txt 2
-data.zciy.txt 1
-data.zctp.txt 3
-data.zeec.txt 1
-data.zfcg.txt 2
+data.zbfr.txt 3.1086847136800873
+data.zcdg.txt 4.927148697748023
+data.zciy.txt 3.1086847136800873
+data.zctp.txt 6.2173694273601745
+data.zeec.txt 3.1086847136800873
+data.zfcg.txt 4.927148697748023

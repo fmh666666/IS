@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.op.txt 2
-data.zaim.txt 1
-data.zbhd.txt 1
-data.zbkv.txt 1
-data.zcdz.txt 1
-data.zcni.txt 1
-data.zdoq.txt 1
-data.zeam.txt 1
-data.zeay.txt 2
-data.zeoo.txt 1
-data.zevt.txt 1
-data.zfai.txt 2
+data.ga.txt 2.5727503226135906
+data.op.txt 4.077712785060798
+data.zaim.txt 2.5727503226135906
+data.zbhd.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcni.txt 2.5727503226135906
+data.zdoq.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zeay.txt 4.077712785060798
+data.zeoo.txt 2.5727503226135906
+data.zevt.txt 2.5727503226135906
+data.zfai.txt 4.077712785060798

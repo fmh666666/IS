@@ -1,5 +1,5 @@
 4
-data.ek.txt 1
-data.vz.txt 3
-data.zcxr.txt 1
-data.zdkk.txt 1
+data.ek.txt 3.389731710180695
+data.vz.txt 6.77946342036139
+data.zcxr.txt 3.389731710180695
+data.zdkk.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zaoc.txt 1
-data.zapl.txt 1
-data.zbpc.txt 1
-data.zdlw.txt 1
+data.vi.txt 3.235060386727117
+data.zaoc.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zbpc.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.op.txt 4
-data.pa.txt 1
-data.zaic.txt 1
-data.zauy.txt 1
-data.zbrj.txt 1
-data.zcdz.txt 1
-data.zewn.txt 1
+data.bs.txt 2.9092786962624935
+data.op.txt 6.7551359407091605
+data.pa.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zauy.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zewn.txt 2.9092786962624935

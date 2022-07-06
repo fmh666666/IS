@@ -1,4 +1,4 @@
 3
-data.uz.txt 1
-data.zdwv.txt 1
-data.zeaj.txt 1
+data.uz.txt 3.5891377275982888
+data.zdwv.txt 3.5891377275982888
+data.zeaj.txt 3.5891377275982888

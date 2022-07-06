@@ -1,9 +1,9 @@
 8
-data.zaim.txt 1
-data.zbcj.txt 1
-data.zciq.txt 1
-data.zdaw.txt 1
-data.zdou.txt 1
-data.zdwz.txt 1
-data.zehj.txt 1
-data.zfai.txt 2
+data.zaim.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zdaw.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zdwz.txt 2.9092786962624935
+data.zehj.txt 2.9092786962624935
+data.zfai.txt 4.611097637722987

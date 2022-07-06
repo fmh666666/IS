@@ -1,5 +1,5 @@
 4
-data.fp.txt 2
-data.hz.txt 1
-data.mi.txt 1
-data.zall.txt 1
+data.fp.txt 5.372597648141796
+data.hz.txt 3.389731710180695
+data.mi.txt 3.389731710180695
+data.zall.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.zasj.txt 1
-data.zcem.txt 1
-data.zcgi.txt 1
-data.zfcj.txt 1
+data.be.txt 3.235060386727117
+data.zasj.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zcgi.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

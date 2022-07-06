@@ -1,6 +1,6 @@
 5
-data.nh.txt 1
-data.zawo.txt 2
-data.zcem.txt 1
-data.zdbf.txt 1
-data.zdll.txt 1
+data.nh.txt 3.235060386727117
+data.zawo.txt 5.1274494005309625
+data.zcem.txt 3.235060386727117
+data.zdbf.txt 3.235060386727117
+data.zdll.txt 3.235060386727117

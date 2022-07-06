@@ -1,2 +1,2 @@
 1
-data.zbmt.txt 2
+data.zbmt.txt 6.8955976689794145

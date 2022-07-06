@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zbcv.txt 1
-data.zbup.txt 3
-data.zdzi.txt 1
-data.zejn.txt 1
+data.ka.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zbup.txt 6.470120773454234
+data.zdzi.txt 3.235060386727117
+data.zejn.txt 3.235060386727117

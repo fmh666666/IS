@@ -1,5 +1,5 @@
 4
-data.zbgd.txt 1
-data.zbzg.txt 3
-data.zchd.txt 2
-data.zeqh.txt 1
+data.zbgd.txt 3.389731710180695
+data.zbzg.txt 6.77946342036139
+data.zchd.txt 5.372597648141796
+data.zeqh.txt 3.389731710180695

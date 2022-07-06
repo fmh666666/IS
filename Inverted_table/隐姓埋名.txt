@@ -1,9 +1,9 @@
 8
-data.ng.txt 2
-data.tz.txt 1
-data.zacd.txt 1
-data.zcdv.txt 1
-data.zcpb.txt 1
-data.zcse.txt 1
-data.zdlw.txt 1
-data.zezn.txt 3
+data.ng.txt 4.611097637722987
+data.tz.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zezn.txt 5.818557392524987

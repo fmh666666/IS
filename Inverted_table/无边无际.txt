@@ -1,13 +1,13 @@
 12
-data.ff.txt 1
-data.jf.txt 2
-data.pq.txt 1
-data.qb.txt 1
-data.zajo.txt 2
-data.zalt.txt 1
-data.zasw.txt 2
-data.zawo.txt 1
-data.zbjh.txt 1
-data.zbpc.txt 1
-data.zchw.txt 2
-data.zddm.txt 2
+data.ff.txt 2.628231699761886
+data.jf.txt 4.165648687329214
+data.pq.txt 2.628231699761886
+data.qb.txt 2.628231699761886
+data.zajo.txt 4.165648687329214
+data.zalt.txt 2.628231699761886
+data.zasw.txt 4.165648687329214
+data.zawo.txt 2.628231699761886
+data.zbjh.txt 2.628231699761886
+data.zbpc.txt 2.628231699761886
+data.zchw.txt 4.165648687329214
+data.zddm.txt 4.165648687329214

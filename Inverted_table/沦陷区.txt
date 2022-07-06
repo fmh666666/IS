@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.zavx.txt 1
-data.zerw.txt 1
+data.ga.txt 3.5891377275982888
+data.zavx.txt 3.5891377275982888
+data.zerw.txt 3.5891377275982888

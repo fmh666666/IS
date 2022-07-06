@@ -1,7 +1,7 @@
 6
-data.ff.txt 1
-data.zavg.txt 1
-data.zbem.txt 1
-data.zbnx.txt 1
-data.zcic.txt 1
-data.zdcj.txt 1
+data.ff.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zbem.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873

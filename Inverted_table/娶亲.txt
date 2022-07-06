@@ -1,5 +1,5 @@
 4
-data.bb.txt 1
-data.ev.txt 1
-data.zbdx.txt 2
-data.zexk.txt 1
+data.bb.txt 3.389731710180695
+data.ev.txt 3.389731710180695
+data.zbdx.txt 5.372597648141796
+data.zexk.txt 3.389731710180695

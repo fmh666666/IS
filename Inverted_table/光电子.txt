@@ -1,4 +1,4 @@
 3
-data.zclm.txt 2
-data.zcln.txt 2
-data.zdds.txt 1
+data.zclm.txt 5.688648708166832
+data.zcln.txt 5.688648708166832
+data.zdds.txt 3.5891377275982888

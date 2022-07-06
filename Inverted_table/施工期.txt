@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zbux.txt 1
-data.zcsu.txt 1
+data.hz.txt 3.5891377275982888
+data.zbux.txt 3.5891377275982888
+data.zcsu.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.ep.txt 5
-data.kt.txt 2
-data.op.txt 1
-data.zbsd.txt 229
-data.zbsm.txt 1
-data.zbua.txt 1
-data.zcni.txt 1
-data.zcpc.txt 1
-data.zdgv.txt 1
-data.zeew.txt 1
-data.zeid.txt 1
+data.ep.txt 6.949783845742841
+data.kt.txt 4.261240455343955
+data.op.txt 2.6885433903988862
+data.zbsd.txt 21.092940420906725
+data.zbsm.txt 2.6885433903988862
+data.zbua.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zcpc.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zeew.txt 2.6885433903988862
+data.zeid.txt 2.6885433903988862

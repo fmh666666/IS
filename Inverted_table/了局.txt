@@ -1,7 +1,7 @@
 6
-data.zalm.txt 1
-data.zbuj.txt 1
-data.zcuh.txt 1
-data.zdod.txt 2
-data.zdwl.txt 1
-data.zeeq.txt 1
+data.zalm.txt 3.1086847136800873
+data.zbuj.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873
+data.zdod.txt 4.927148697748023
+data.zdwl.txt 3.1086847136800873
+data.zeeq.txt 3.1086847136800873

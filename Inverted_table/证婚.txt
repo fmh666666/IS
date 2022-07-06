@@ -1,10 +1,10 @@
 9
-data.zbua.txt 1
-data.zcku.txt 1
-data.zdwz.txt 1
-data.zeaj.txt 2
-data.zebc.txt 1
-data.zeez.txt 2
-data.zelt.txt 2
-data.zeqv.txt 1
-data.zewp.txt 1
+data.zbua.txt 2.82763771717948
+data.zcku.txt 2.82763771717948
+data.zdwz.txt 2.82763771717948
+data.zeaj.txt 4.48169974735425
+data.zebc.txt 2.82763771717948
+data.zeez.txt 4.48169974735425
+data.zelt.txt 4.48169974735425
+data.zeqv.txt 2.82763771717948
+data.zewp.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zazx.txt 1
-data.zcis.txt 1
-data.zcko.txt 1
-data.zdme.txt 2
+data.zako.txt 3.235060386727117
+data.zazx.txt 3.235060386727117
+data.zcis.txt 3.235060386727117
+data.zcko.txt 3.235060386727117
+data.zdme.txt 5.1274494005309625

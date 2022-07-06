@@ -1,7 +1,7 @@
 6
-data.ok.txt 1
-data.tz.txt 1
-data.zcon.txt 1
-data.zcse.txt 1
-data.zdeb.txt 1
-data.zduo.txt 1
+data.ok.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873

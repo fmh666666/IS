@@ -1,5 +1,5 @@
 4
-data.mt.txt 1
-data.zair.txt 2
-data.zayd.txt 1
-data.zcko.txt 3
+data.mt.txt 3.389731710180695
+data.zair.txt 5.372597648141796
+data.zayd.txt 3.389731710180695
+data.zcko.txt 6.77946342036139

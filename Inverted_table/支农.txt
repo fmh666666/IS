@@ -1,4 +1,4 @@
 3
-data.zaxx.txt 1
-data.zcuh.txt 1
-data.zeoh.txt 6
+data.zaxx.txt 3.5891377275982888
+data.zcuh.txt 3.5891377275982888
+data.zeoh.txt 10.0759834655157

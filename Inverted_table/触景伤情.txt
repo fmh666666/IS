@@ -1,4 +1,4 @@
 3
-data.en.txt 1
-data.zcon.txt 1
-data.zdaa.txt 1
+data.en.txt 3.5891377275982888
+data.zcon.txt 3.5891377275982888
+data.zdaa.txt 3.5891377275982888

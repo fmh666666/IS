@@ -1,2 +1,2 @@
 1
-data.zctm.txt 1
+data.zctm.txt 4.350637738017098

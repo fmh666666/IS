@@ -1,11 +1,11 @@
 10
-data.mt.txt 1
-data.zafq.txt 1
-data.zajo.txt 8
-data.zapl.txt 1
-data.zbfz.txt 1
-data.zcve.txt 1
-data.zedo.txt 1
-data.zene.txt 1
-data.zexk.txt 2
-data.zezy.txt 1
+data.mt.txt 2.7546073728089153
+data.zafq.txt 2.7546073728089153
+data.zajo.txt 8.731898780224308
+data.zapl.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zcve.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zexk.txt 4.365949390112154
+data.zezy.txt 2.7546073728089153

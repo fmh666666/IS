@@ -1,11 +1,11 @@
 10
-data.hg.txt 1
-data.hu.txt 1
-data.xe.txt 1
-data.zafu.txt 1
-data.zccl.txt 1
-data.zcls.txt 1
-data.zctp.txt 1
-data.zdod.txt 1
-data.zedy.txt 1
-data.zfas.txt 1
+data.hg.txt 2.7546073728089153
+data.hu.txt 2.7546073728089153
+data.xe.txt 2.7546073728089153
+data.zafu.txt 2.7546073728089153
+data.zccl.txt 2.7546073728089153
+data.zcls.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153
+data.zfas.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zdgo.txt 1
-data.zdud.txt 1
+data.op.txt 3.5891377275982888
+data.zdgo.txt 3.5891377275982888
+data.zdud.txt 3.5891377275982888

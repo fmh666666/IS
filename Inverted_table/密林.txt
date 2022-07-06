@@ -1,10 +1,10 @@
 9
-data.zadv.txt 4
-data.zalj.txt 1
-data.zbcc.txt 1
-data.zcfn.txt 1
-data.zeec.txt 1
-data.zeel.txt 1
-data.zeik.txt 1
-data.zeqv.txt 1
-data.zfai.txt 1
+data.zadv.txt 6.565571457682201
+data.zalj.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zeec.txt 2.82763771717948
+data.zeel.txt 2.82763771717948
+data.zeik.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

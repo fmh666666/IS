@@ -1,12 +1,12 @@
 11
-data.zako.txt 1
-data.zaxp.txt 1
-data.zbnp.txt 2
-data.zcda.txt 2
-data.zczj.txt 2
-data.zdkp.txt 1
-data.zdlw.txt 1
-data.zdwv.txt 1
-data.zeoo.txt 1
-data.zeve.txt 2
-data.zfai.txt 1
+data.zako.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zbnp.txt 4.261240455343955
+data.zcda.txt 4.261240455343955
+data.zczj.txt 4.261240455343955
+data.zdkp.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zeoo.txt 2.6885433903988862
+data.zeve.txt 4.261240455343955
+data.zfai.txt 2.6885433903988862

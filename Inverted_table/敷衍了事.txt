@@ -1,6 +1,6 @@
 5
-data.zaet.txt 1
-data.zasw.txt 1
-data.zbaq.txt 1
-data.zcni.txt 1
-data.zejk.txt 1
+data.zaet.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zejk.txt 3.235060386727117

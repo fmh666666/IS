@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.hu.txt 1
-data.zawo.txt 1
-data.zbdb.txt 1
-data.zbds.txt 1
-data.zdoc.txt 1
-data.zeoh.txt 2
-data.zfcj.txt 2
+data.be.txt 2.9092786962624935
+data.hu.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zeoh.txt 4.611097637722987
+data.zfcj.txt 4.611097637722987

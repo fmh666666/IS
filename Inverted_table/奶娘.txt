@@ -1,5 +1,5 @@
 4
-data.zadv.txt 2
-data.zbre.txt 1
-data.zdey.txt 1
-data.zdhv.txt 2
+data.zadv.txt 5.372597648141796
+data.zbre.txt 3.389731710180695
+data.zdey.txt 3.389731710180695
+data.zdhv.txt 5.372597648141796

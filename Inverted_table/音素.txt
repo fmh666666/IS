@@ -1,4 +1,4 @@
 3
-data.zaun.txt 3
-data.zayc.txt 1
-data.zbfx.txt 1
+data.zaun.txt 7.1782754551965775
+data.zayc.txt 3.5891377275982888
+data.zbfx.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.zbfx.txt 1
-data.zbpc.txt 1
-data.zbvf.txt 1
-data.zezh.txt 1
+data.jf.txt 3.235060386727117
+data.zbfx.txt 3.235060386727117
+data.zbpc.txt 3.235060386727117
+data.zbvf.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

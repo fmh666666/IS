@@ -1,7 +1,7 @@
 6
-data.jj.txt 1
-data.xe.txt 1
-data.zaoc.txt 1
-data.zcef.txt 1
-data.zegz.txt 1
-data.zfcj.txt 1
+data.jj.txt 3.1086847136800873
+data.xe.txt 3.1086847136800873
+data.zaoc.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

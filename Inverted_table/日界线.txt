@@ -1,2 +1,2 @@
 1
-data.hu.txt 36
+data.hu.txt 22.664444406945492

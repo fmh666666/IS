@@ -1,13 +1,13 @@
 12
-data.mx.txt 1
-data.zaim.txt 4
-data.zajh.txt 1
-data.zbkj.txt 1
-data.zbmw.txt 1
-data.zciy.txt 1
-data.zcjd.txt 2
-data.zcmx.txt 1
-data.zctm.txt 1
-data.zeez.txt 2
-data.zehb.txt 1
-data.zfae.txt 1
+data.mx.txt 2.628231699761886
+data.zaim.txt 6.1025650235506905
+data.zajh.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zbmw.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcjd.txt 4.165648687329214
+data.zcmx.txt 2.628231699761886
+data.zctm.txt 2.628231699761886
+data.zeez.txt 4.165648687329214
+data.zehb.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

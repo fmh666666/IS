@@ -1,5 +1,5 @@
 4
-data.zcse.txt 1
-data.zcsu.txt 2
-data.zegk.txt 1
-data.zelj.txt 1
+data.zcse.txt 3.389731710180695
+data.zcsu.txt 5.372597648141796
+data.zegk.txt 3.389731710180695
+data.zelj.txt 3.389731710180695

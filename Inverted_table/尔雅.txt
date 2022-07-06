@@ -1,8 +1,8 @@
 7
-data.zacd.txt 1
-data.zavg.txt 1
-data.zbfg.txt 4
-data.zbfx.txt 1
-data.zbrd.txt 1
-data.zdzn.txt 1
-data.zesq.txt 1
+data.zacd.txt 3.0018356045764243
+data.zavg.txt 3.0018356045764243
+data.zbfg.txt 6.970046426499191
+data.zbfx.txt 3.0018356045764243
+data.zbrd.txt 3.0018356045764243
+data.zdzn.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243

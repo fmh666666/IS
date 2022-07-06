@@ -1,4 +1,4 @@
 3
-data.zbxw.txt 1
-data.zcdg.txt 1
-data.zehp.txt 1
+data.zbxw.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888
+data.zehp.txt 3.5891377275982888

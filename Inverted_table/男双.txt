@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.vm.txt 1
-data.zbjk.txt 2
-data.zbnx.txt 1
-data.zdgp.txt 3
-data.zduk.txt 2
-data.zdwl.txt 7
-data.zebv.txt 3
-data.zeik.txt 1
-data.zene.txt 1
+data.ek.txt 2.7546073728089153
+data.vm.txt 2.7546073728089153
+data.zbjk.txt 4.365949390112154
+data.zbnx.txt 2.7546073728089153
+data.zdgp.txt 5.509214745617831
+data.zduk.txt 4.365949390112154
+data.zdwl.txt 8.263822118426747
+data.zebv.txt 5.509214745617831
+data.zeik.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

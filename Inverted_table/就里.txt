@@ -1,13 +1,13 @@
 12
-data.mk.txt 1
-data.zacw.txt 1
-data.zail.txt 1
-data.zbfz.txt 1
-data.zblr.txt 1
-data.zbmw.txt 1
-data.zbta.txt 1
-data.zcdv.txt 1
-data.zcjo.txt 1
-data.zdcj.txt 1
-data.zebn.txt 2
-data.zeew.txt 1
+data.mk.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zail.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbmw.txt 2.628231699761886
+data.zbta.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zdcj.txt 2.628231699761886
+data.zebn.txt 4.165648687329214
+data.zeew.txt 2.628231699761886

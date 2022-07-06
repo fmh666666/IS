@@ -1,5 +1,5 @@
 4
-data.yx.txt 2
-data.zawc.txt 2
-data.zbfz.txt 2
-data.zeoh.txt 2
+data.yx.txt 5.372597648141796
+data.zawc.txt 5.372597648141796
+data.zbfz.txt 5.372597648141796
+data.zeoh.txt 5.372597648141796

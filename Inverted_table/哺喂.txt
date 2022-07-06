@@ -1,6 +1,6 @@
 5
-data.zcbe.txt 1
-data.zctp.txt 5
-data.zcts.txt 2
-data.zcue.txt 1
-data.zehp.txt 1
+data.zcbe.txt 3.235060386727117
+data.zctp.txt 8.362509787258078
+data.zcts.txt 5.1274494005309625
+data.zcue.txt 3.235060386727117
+data.zehp.txt 3.235060386727117

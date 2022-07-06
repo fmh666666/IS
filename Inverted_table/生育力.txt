@@ -1,5 +1,5 @@
 4
-data.zbjk.txt 2
-data.zdfl.txt 2
-data.zety.txt 4
-data.zewv.txt 5
+data.zbjk.txt 5.372597648141796
+data.zdfl.txt 5.372597648141796
+data.zety.txt 7.870713291999142
+data.zewv.txt 8.762329358322491

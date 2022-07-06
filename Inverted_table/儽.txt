@@ -1,2 +1,2 @@
 1
-data.cf.txt 33
+data.cf.txt 22.133707827903418

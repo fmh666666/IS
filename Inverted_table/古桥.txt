@@ -1,5 +1,5 @@
 4
-data.zalj.txt 1
-data.zcfn.txt 3
-data.zdpw.txt 1
-data.zeeh.txt 1
+data.zalj.txt 3.389731710180695
+data.zcfn.txt 6.77946342036139
+data.zdpw.txt 3.389731710180695
+data.zeeh.txt 3.389731710180695

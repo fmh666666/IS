@@ -1,4 +1,4 @@
 3
-data.gk.txt 1
-data.kt.txt 1
-data.zbfz.txt 1
+data.gk.txt 3.5891377275982888
+data.kt.txt 3.5891377275982888
+data.zbfz.txt 3.5891377275982888

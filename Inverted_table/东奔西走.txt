@@ -1,11 +1,11 @@
 10
-data.pn.txt 1
-data.vz.txt 1
-data.zawu.txt 1
-data.zaxx.txt 1
-data.zazn.txt 1
-data.zcse.txt 1
-data.zdey.txt 1
-data.zeac.txt 1
-data.zevl.txt 1
-data.zevy.txt 1
+data.pn.txt 2.7546073728089153
+data.vz.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zaxx.txt 2.7546073728089153
+data.zazn.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zdey.txt 2.7546073728089153
+data.zeac.txt 2.7546073728089153
+data.zevl.txt 2.7546073728089153
+data.zevy.txt 2.7546073728089153

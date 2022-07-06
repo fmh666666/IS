@@ -1,4 +1,4 @@
 3
-data.zall.txt 1
-data.zasy.txt 2
-data.zawo.txt 1
+data.zall.txt 3.5891377275982888
+data.zasy.txt 5.688648708166832
+data.zawo.txt 3.5891377275982888

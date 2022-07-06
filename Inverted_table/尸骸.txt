@@ -1,4 +1,4 @@
 3
-data.uz.txt 1
-data.zawo.txt 2
-data.zdod.txt 1
+data.uz.txt 3.5891377275982888
+data.zawo.txt 5.688648708166832
+data.zdod.txt 3.5891377275982888

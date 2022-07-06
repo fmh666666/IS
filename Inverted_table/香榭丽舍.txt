@@ -1,9 +1,9 @@
 8
-data.nh.txt 1
-data.zahd.txt 1
-data.zaoc.txt 1
-data.zasd.txt 1
-data.zaxp.txt 1
-data.zazg.txt 1
-data.zazw.txt 1
-data.zdlo.txt 1
+data.nh.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zazw.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935

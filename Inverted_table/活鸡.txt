@@ -1,9 +1,9 @@
 8
-data.pa.txt 2
-data.ud.txt 1
-data.zagr.txt 1
-data.zcon.txt 1
-data.zdil.txt 1
-data.zdwn.txt 1
-data.zeaf.txt 1
-data.zedk.txt 1
+data.pa.txt 4.611097637722987
+data.ud.txt 2.9092786962624935
+data.zagr.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935

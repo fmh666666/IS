@@ -1,8 +1,8 @@
 7
-data.ga.txt 2
-data.op.txt 2
-data.zawb.txt 2
-data.zawc.txt 1
-data.zcem.txt 1
-data.zcmn.txt 1
-data.zerh.txt 1
+data.ga.txt 4.757796866583254
+data.op.txt 4.757796866583254
+data.zawb.txt 4.757796866583254
+data.zawc.txt 3.0018356045764243
+data.zcem.txt 3.0018356045764243
+data.zcmn.txt 3.0018356045764243
+data.zerh.txt 3.0018356045764243

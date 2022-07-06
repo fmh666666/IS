@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.jj.txt 1
-data.wg.txt 1
-data.zapf.txt 1
-data.zbnx.txt 1
-data.zcxr.txt 1
-data.zczp.txt 1
-data.zdpg.txt 1
-data.zdqz.txt 1
-data.zelt.txt 1
+data.cf.txt 2.7546073728089153
+data.jj.txt 2.7546073728089153
+data.wg.txt 2.7546073728089153
+data.zapf.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zdpg.txt 2.7546073728089153
+data.zdqz.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

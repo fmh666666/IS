@@ -1,13 +1,13 @@
 12
-data.dg.txt 4
-data.pn.txt 1
-data.zapl.txt 1
-data.zazn.txt 1
-data.zbhe.txt 1
-data.zbhv.txt 2
-data.zbmt.txt 2
-data.zbqu.txt 1
-data.zcdy.txt 1
-data.zdux.txt 1
-data.zdvl.txt 1
-data.zedx.txt 1
+data.dg.txt 6.1025650235506905
+data.pn.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbhv.txt 4.165648687329214
+data.zbmt.txt 4.165648687329214
+data.zbqu.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zdux.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zedx.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.tv.txt 2
-data.tz.txt 1
-data.zaxj.txt 1
-data.zbkj.txt 1
-data.zcfn.txt 1
-data.zcqs.txt 1
-data.zdby.txt 2
-data.zdkp.txt 1
-data.zdod.txt 1
+data.tv.txt 4.48169974735425
+data.tz.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcqs.txt 2.82763771717948
+data.zdby.txt 4.48169974735425
+data.zdkp.txt 2.82763771717948
+data.zdod.txt 2.82763771717948

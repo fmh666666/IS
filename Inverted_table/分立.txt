@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.zabe.txt 1
-data.zajo.txt 2
-data.zawb.txt 1
-data.zawc.txt 1
-data.zbpx.txt 3
-data.zcfx.txt 1
-data.zcue.txt 1
-data.zdgo.txt 2
-data.zeoh.txt 1
+data.ga.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zajo.txt 4.365949390112154
+data.zawb.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbpx.txt 5.509214745617831
+data.zcfx.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zdgo.txt 4.365949390112154
+data.zeoh.txt 2.7546073728089153

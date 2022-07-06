@@ -1,7 +1,7 @@
 6
-data.zahd.txt 1
-data.zaim.txt 1
-data.zawc.txt 1
-data.zbpx.txt 1
-data.zcli.txt 1
-data.zdzm.txt 1
+data.zahd.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zcli.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873

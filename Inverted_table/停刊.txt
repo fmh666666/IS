@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.hg.txt 1
-data.ry.txt 1
-data.tz.txt 1
-data.zawu.txt 1
-data.zbpx.txt 4
-data.zdnc.txt 1
-data.zeun.txt 1
+data.fp.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.ry.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zbpx.txt 6.7551359407091605
+data.zdnc.txt 2.9092786962624935
+data.zeun.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.ud.txt 1
-data.xe.txt 1
-data.zako.txt 1
-data.zcel.txt 1
-data.zcon.txt 1
-data.zcww.txt 1
-data.zdrq.txt 1
-data.zfcp.txt 1
+data.ud.txt 2.9092786962624935
+data.xe.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zcww.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935
+data.zfcp.txt 2.9092786962624935

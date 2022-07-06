@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zajo.txt 1
-data.zaoc.txt 1
-data.zcqg.txt 1
-data.zeoo.txt 1
+data.zabe.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zaoc.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

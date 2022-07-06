@@ -1,9 +1,9 @@
 8
-data.hc.txt 1
-data.jj.txt 1
-data.ud.txt 1
-data.zbsd.txt 1
-data.zcmn.txt 1
-data.zcpc.txt 1
-data.zdpg.txt 2
-data.zdud.txt 2
+data.hc.txt 2.9092786962624935
+data.jj.txt 2.9092786962624935
+data.ud.txt 2.9092786962624935
+data.zbsd.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935
+data.zcpc.txt 2.9092786962624935
+data.zdpg.txt 4.611097637722987
+data.zdud.txt 4.611097637722987

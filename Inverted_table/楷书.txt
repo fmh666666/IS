@@ -1,9 +1,9 @@
 8
-data.cz.txt 1
-data.mi.txt 1
-data.zadv.txt 1
-data.zcjy.txt 1
-data.zcmn.txt 1
-data.zcpb.txt 1
-data.zdlo.txt 1
-data.zdod.txt 1
+data.cz.txt 2.9092786962624935
+data.mi.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zcjy.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935

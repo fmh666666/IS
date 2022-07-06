@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zalm.txt 1
-data.zdgp.txt 1
-data.zdod.txt 3
-data.zdof.txt 2
+data.zadv.txt 3.235060386727117
+data.zalm.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zdod.txt 6.470120773454234
+data.zdof.txt 5.1274494005309625

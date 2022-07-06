@@ -1,5 +1,5 @@
 4
-data.zapl.txt 1
-data.zcdv.txt 1
-data.zcdy.txt 1
-data.zesi.txt 1
+data.zapl.txt 3.389731710180695
+data.zcdv.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zesi.txt 3.389731710180695

@@ -1,5 +1,5 @@
 4
-data.zawu.txt 2
-data.zayv.txt 1
-data.zcaq.txt 1
-data.zcbm.txt 3
+data.zawu.txt 5.372597648141796
+data.zayv.txt 3.389731710180695
+data.zcaq.txt 3.389731710180695
+data.zcbm.txt 6.77946342036139

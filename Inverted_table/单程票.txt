@@ -1,6 +1,6 @@
 5
-data.mx.txt 2
-data.zbeb.txt 1
-data.zdcy.txt 2
-data.zddm.txt 1
-data.zdwn.txt 1
+data.mx.txt 5.1274494005309625
+data.zbeb.txt 3.235060386727117
+data.zdcy.txt 5.1274494005309625
+data.zddm.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117

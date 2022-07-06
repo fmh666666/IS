@@ -1,13 +1,13 @@
 12
-data.cq.txt 4
-data.hp.txt 2
-data.jf.txt 2
-data.mo.txt 1
-data.ye.txt 10
-data.zafu.txt 1
-data.zaqf.txt 3
-data.zasr.txt 1
-data.zbdb.txt 1
-data.zbhe.txt 2
-data.zdar.txt 2
-data.zdnh.txt 5
+data.cq.txt 6.1025650235506905
+data.hp.txt 4.165648687329214
+data.jf.txt 4.165648687329214
+data.mo.txt 2.628231699761886
+data.ye.txt 9.092187843261117
+data.zafu.txt 2.628231699761886
+data.zaqf.txt 5.256463399523772
+data.zasr.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbhe.txt 4.165648687329214
+data.zdar.txt 4.165648687329214
+data.zdnh.txt 6.7938803870911

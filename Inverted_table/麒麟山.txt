@@ -1,2 +1,2 @@
 1
-data.zbux.txt 4
+data.zbux.txt 10.101867994579104

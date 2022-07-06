@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.pa.txt 1
-data.wg.txt 3
-data.zcfn.txt 1
-data.zdnh.txt 1
+data.cz.txt 3.235060386727117
+data.pa.txt 3.235060386727117
+data.wg.txt 6.470120773454234
+data.zcfn.txt 3.235060386727117
+data.zdnh.txt 3.235060386727117

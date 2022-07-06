@@ -1,9 +1,9 @@
 8
-data.zanh.txt 1
-data.zapf.txt 1
-data.zbtx.txt 1
-data.zbzg.txt 1
-data.zeeq.txt 2
-data.zexm.txt 1
-data.zfae.txt 1
-data.zfby.txt 1
+data.zanh.txt 2.9092786962624935
+data.zapf.txt 2.9092786962624935
+data.zbtx.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zeeq.txt 4.611097637722987
+data.zexm.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935
+data.zfby.txt 2.9092786962624935

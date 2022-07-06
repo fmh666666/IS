@@ -1,7 +1,7 @@
 6
-data.zaoo.txt 1
-data.zarr.txt 1
-data.zbnx.txt 1
-data.zcdg.txt 1
-data.zcvt.txt 1
-data.zeqn.txt 1
+data.zaoo.txt 3.1086847136800873
+data.zarr.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zeqn.txt 3.1086847136800873

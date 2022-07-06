@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.zbuj.txt 1
-data.zcxq.txt 1
-data.zebf.txt 1
-data.zefu.txt 1
+data.ft.txt 3.235060386727117
+data.zbuj.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zebf.txt 3.235060386727117
+data.zefu.txt 3.235060386727117

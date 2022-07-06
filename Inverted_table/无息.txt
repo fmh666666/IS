@@ -1,5 +1,5 @@
 4
-data.zcda.txt 1
-data.zcis.txt 1
-data.zefs.txt 1
-data.zemb.txt 1
+data.zcda.txt 3.389731710180695
+data.zcis.txt 3.389731710180695
+data.zefs.txt 3.389731710180695
+data.zemb.txt 3.389731710180695

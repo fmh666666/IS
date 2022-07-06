@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.zbkj.txt 1
-data.zbut.txt 1
-data.zcue.txt 1
-data.zdrq.txt 1
+data.mt.txt 3.235060386727117
+data.zbkj.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117

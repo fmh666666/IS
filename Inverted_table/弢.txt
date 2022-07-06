@@ -1,5 +1,5 @@
 4
-data.zbvn.txt 2
-data.zbvp.txt 2
-data.zdzm.txt 1
-data.zehb.txt 3
+data.zbvn.txt 5.372597648141796
+data.zbvp.txt 5.372597648141796
+data.zdzm.txt 3.389731710180695
+data.zehb.txt 6.77946342036139

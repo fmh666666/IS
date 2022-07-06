@@ -1,4 +1,4 @@
 3
-data.zbpp.txt 1
-data.zeaj.txt 1
-data.zeqh.txt 1
+data.zbpp.txt 3.5891377275982888
+data.zeaj.txt 3.5891377275982888
+data.zeqh.txt 3.5891377275982888

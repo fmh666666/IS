@@ -1,9 +1,9 @@
 8
-data.mu.txt 1
-data.ng.txt 1
-data.yx.txt 1
-data.zacd.txt 1
-data.zawo.txt 1
-data.zcjd.txt 1
-data.zeec.txt 1
-data.zekw.txt 1
+data.mu.txt 2.9092786962624935
+data.ng.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935

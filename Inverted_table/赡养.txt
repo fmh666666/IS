@@ -1,14 +1,14 @@
 13
-data.ff.txt 1
-data.op.txt 3
-data.zanm.txt 1
-data.zawb.txt 2
-data.zbhd.txt 1
-data.zcdy.txt 1
-data.zcon.txt 1
-data.zcqp.txt 1
-data.zdgt.txt 1
-data.zdyv.txt 1
-data.zevl.txt 1
-data.zevq.txt 1
-data.zezm.txt 1
+data.ff.txt 2.5727503226135906
+data.op.txt 5.145500645227181
+data.zanm.txt 2.5727503226135906
+data.zawb.txt 4.077712785060798
+data.zbhd.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcqp.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zevl.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906
+data.zezm.txt 2.5727503226135906

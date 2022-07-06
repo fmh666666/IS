@@ -1,3 +1,3 @@
 2
-data.bf.txt 1
-data.zdwv.txt 1
+data.bf.txt 3.8701847240988965
+data.zdwv.txt 3.8701847240988965

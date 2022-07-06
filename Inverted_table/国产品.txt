@@ -1,10 +1,10 @@
 9
-data.ep.txt 1
-data.vm.txt 1
-data.zadv.txt 1
-data.zaeh.txt 1
-data.zbeb.txt 1
-data.zbhd.txt 3
-data.zbyb.txt 1
-data.zcpb.txt 1
-data.zcqe.txt 1
+data.ep.txt 2.82763771717948
+data.vm.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zaeh.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zbhd.txt 5.65527543435896
+data.zbyb.txt 2.82763771717948
+data.zcpb.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948

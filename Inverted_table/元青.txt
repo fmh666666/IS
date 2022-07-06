@@ -1,11 +1,11 @@
 10
-data.dg.txt 1
-data.zbkv.txt 1
-data.zbla.txt 1
-data.zcln.txt 1
-data.zczl.txt 4
-data.zddl.txt 1
-data.zdji.txt 1
-data.zdrq.txt 1
-data.zeqn.txt 1
-data.zevl.txt 1
+data.dg.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zcln.txt 2.7546073728089153
+data.zczl.txt 6.396000249308887
+data.zddl.txt 2.7546073728089153
+data.zdji.txt 2.7546073728089153
+data.zdrq.txt 2.7546073728089153
+data.zeqn.txt 2.7546073728089153
+data.zevl.txt 2.7546073728089153

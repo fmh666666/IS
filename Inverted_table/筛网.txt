@@ -1,10 +1,10 @@
 9
-data.sq.txt 1
-data.zajo.txt 1
-data.zblh.txt 2
-data.zbph.txt 1
-data.zcqe.txt 2
-data.zdwk.txt 2
-data.zedk.txt 2
-data.zegz.txt 2
-data.zewn.txt 2
+data.sq.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zblh.txt 4.48169974735425
+data.zbph.txt 2.82763771717948
+data.zcqe.txt 4.48169974735425
+data.zdwk.txt 4.48169974735425
+data.zedk.txt 4.48169974735425
+data.zegz.txt 4.48169974735425
+data.zewn.txt 4.48169974735425

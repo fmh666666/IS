@@ -1,4 +1,4 @@
 3
-data.to.txt 1
-data.zafq.txt 1
-data.zazw.txt 1
+data.to.txt 3.5891377275982888
+data.zafq.txt 3.5891377275982888
+data.zazw.txt 3.5891377275982888

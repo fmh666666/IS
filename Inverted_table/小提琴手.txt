@@ -1,7 +1,7 @@
 6
-data.zalm.txt 1
-data.zasw.txt 1
-data.zazn.txt 1
-data.zdwv.txt 1
-data.zeaj.txt 1
-data.zebn.txt 1
+data.zalm.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zdwv.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873
+data.zebn.txt 3.1086847136800873

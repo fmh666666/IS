@@ -1,3 +1,3 @@
 2
-data.en.txt 1
-data.zexm.txt 1
+data.en.txt 3.8701847240988965
+data.zexm.txt 3.8701847240988965

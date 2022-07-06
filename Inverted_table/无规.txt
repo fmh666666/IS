@@ -1,7 +1,7 @@
 6
-data.zbdx.txt 1
-data.zbjk.txt 1
-data.zbph.txt 1
-data.zdkk.txt 1
-data.zdmw.txt 1
-data.zdpf.txt 1
+data.zbdx.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbph.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zdpf.txt 3.1086847136800873

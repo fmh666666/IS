@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.gk.txt 1
-data.zank.txt 1
-data.zbdb.txt 1
-data.zbnp.txt 1
-data.zcdz.txt 1
-data.zdpz.txt 1
-data.zeay.txt 1
-data.zedo.txt 1
-data.zene.txt 1
-data.zeva.txt 1
+data.bs.txt 2.6885433903988862
+data.gk.txt 2.6885433903988862
+data.zank.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zdpz.txt 2.6885433903988862
+data.zeay.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zeva.txt 2.6885433903988862

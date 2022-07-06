@@ -1,6 +1,6 @@
 5
-data.zarc.txt 1
-data.zard.txt 1
-data.zbia.txt 1
-data.zblr.txt 1
-data.zeac.txt 1
+data.zarc.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zbia.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zeac.txt 3.235060386727117

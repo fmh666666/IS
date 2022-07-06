@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.bf.txt 1
-data.jf.txt 2
-data.zacw.txt 1
-data.zaxk.txt 1
-data.zbaf.txt 1
-data.zcem.txt 1
-data.zdyv.txt 1
-data.zefu.txt 1
-data.zehj.txt 1
-data.zeyu.txt 1
+data.bb.txt 2.6885433903988862
+data.bf.txt 2.6885433903988862
+data.jf.txt 4.261240455343955
+data.zacw.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zdyv.txt 2.6885433903988862
+data.zefu.txt 2.6885433903988862
+data.zehj.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862

@@ -1,7 +1,7 @@
 6
-data.op.txt 2
-data.qn.txt 2
-data.zawc.txt 1
-data.zawu.txt 1
-data.zblh.txt 2
-data.zbot.txt 1
+data.op.txt 4.927148697748023
+data.qn.txt 4.927148697748023
+data.zawc.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zblh.txt 4.927148697748023
+data.zbot.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zajo.txt 1
-data.zavg.txt 1
-data.zciq.txt 1
-data.zcww.txt 1
-data.zeam.txt 1
+data.zajo.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zcww.txt 3.235060386727117
+data.zeam.txt 3.235060386727117

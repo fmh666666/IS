@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zcko.txt 1
-data.zcsu.txt 1
+data.hg.txt 3.5891377275982888
+data.zcko.txt 3.5891377275982888
+data.zcsu.txt 3.5891377275982888

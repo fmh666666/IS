@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.ga.txt 1
-data.mi.txt 1
-data.tv.txt 1
-data.zapf.txt 1
-data.zbpm.txt 1
-data.zcxq.txt 1
-data.zczb.txt 1
-data.zduo.txt 1
-data.zdzi.txt 2
-data.zebc.txt 1
-data.zefu.txt 1
-data.zeqn.txt 2
+data.fp.txt 2.5727503226135906
+data.ga.txt 2.5727503226135906
+data.mi.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zapf.txt 2.5727503226135906
+data.zbpm.txt 2.5727503226135906
+data.zcxq.txt 2.5727503226135906
+data.zczb.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zdzi.txt 4.077712785060798
+data.zebc.txt 2.5727503226135906
+data.zefu.txt 2.5727503226135906
+data.zeqn.txt 4.077712785060798

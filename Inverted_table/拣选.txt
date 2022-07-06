@@ -1,10 +1,10 @@
 9
-data.ek.txt 1
-data.zasr.txt 1
-data.zbaf.txt 1
-data.zbcv.txt 1
-data.zcaq.txt 2
-data.zcjd.txt 1
-data.zdvl.txt 1
-data.zdzi.txt 1
-data.zefw.txt 1
+data.ek.txt 2.82763771717948
+data.zasr.txt 2.82763771717948
+data.zbaf.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zcaq.txt 4.48169974735425
+data.zcjd.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zdzi.txt 2.82763771717948
+data.zefw.txt 2.82763771717948

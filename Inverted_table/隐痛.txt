@@ -1,10 +1,10 @@
 9
-data.zaqf.txt 1
-data.zbem.txt 1
-data.zbot.txt 1
-data.zcis.txt 1
-data.zeam.txt 1
-data.zeoh.txt 1
-data.zeva.txt 1
-data.zevl.txt 2
-data.zezh.txt 1
+data.zaqf.txt 2.82763771717948
+data.zbem.txt 2.82763771717948
+data.zbot.txt 2.82763771717948
+data.zcis.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zeva.txt 2.82763771717948
+data.zevl.txt 4.48169974735425
+data.zezh.txt 2.82763771717948

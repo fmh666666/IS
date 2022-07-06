@@ -1,4 +1,4 @@
 3
-data.gk.txt 1
-data.zcdz.txt 1
-data.zeqh.txt 1
+data.gk.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zeqh.txt 3.5891377275982888

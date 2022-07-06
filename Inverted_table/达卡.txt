@@ -1,7 +1,7 @@
 6
-data.zbeb.txt 2
-data.zbqu.txt 3
-data.zbtj.txt 1
-data.zctn.txt 1
-data.zdqx.txt 1
-data.zedd.txt 1
+data.zbeb.txt 4.927148697748023
+data.zbqu.txt 6.2173694273601745
+data.zbtj.txt 3.1086847136800873
+data.zctn.txt 3.1086847136800873
+data.zdqx.txt 3.1086847136800873
+data.zedd.txt 3.1086847136800873

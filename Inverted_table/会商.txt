@@ -1,6 +1,6 @@
 5
-data.gw.txt 3
-data.hz.txt 2
-data.zbfz.txt 1
-data.zbhd.txt 1
-data.zczl.txt 1
+data.gw.txt 6.470120773454234
+data.hz.txt 5.1274494005309625
+data.zbfz.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zczl.txt 3.235060386727117

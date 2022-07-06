@@ -1,11 +1,11 @@
 10
-data.gk.txt 1
-data.ye.txt 1
-data.zajh.txt 1
-data.zbdx.txt 1
-data.zbhd.txt 2
-data.zbre.txt 1
-data.zdby.txt 1
-data.zdhv.txt 1
-data.zdof.txt 2
-data.zeqn.txt 2
+data.gk.txt 2.7546073728089153
+data.ye.txt 2.7546073728089153
+data.zajh.txt 2.7546073728089153
+data.zbdx.txt 2.7546073728089153
+data.zbhd.txt 4.365949390112154
+data.zbre.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zdhv.txt 2.7546073728089153
+data.zdof.txt 4.365949390112154
+data.zeqn.txt 4.365949390112154

@@ -1,11 +1,11 @@
 10
-data.gz.txt 1
-data.hu.txt 1
-data.zajo.txt 1
-data.zawc.txt 3
-data.zbfx.txt 1
-data.zbjc.txt 1
-data.zeac.txt 1
-data.zene.txt 1
-data.zevq.txt 1
-data.zezy.txt 1
+data.gz.txt 2.7546073728089153
+data.hu.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zawc.txt 5.509214745617831
+data.zbfx.txt 2.7546073728089153
+data.zbjc.txt 2.7546073728089153
+data.zeac.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153

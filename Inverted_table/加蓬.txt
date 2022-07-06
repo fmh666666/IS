@@ -1,2 +1,2 @@
 1
-data.zbpx.txt 3
+data.zbpx.txt 8.701275476034196

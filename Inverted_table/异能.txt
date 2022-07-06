@@ -1,14 +1,14 @@
 13
-data.fe.txt 2
-data.ff.txt 1
-data.fp.txt 1
-data.gz.txt 1
-data.zasj.txt 1
-data.zbcc.txt 1
-data.zcao.txt 3
-data.zckd.txt 2
-data.zcse.txt 1
-data.zdux.txt 1
-data.zeva.txt 2
-data.zeve.txt 1
-data.zeyu.txt 1
+data.fe.txt 4.077712785060798
+data.ff.txt 2.5727503226135906
+data.fp.txt 2.5727503226135906
+data.gz.txt 2.5727503226135906
+data.zasj.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zcao.txt 5.145500645227181
+data.zckd.txt 4.077712785060798
+data.zcse.txt 2.5727503226135906
+data.zdux.txt 2.5727503226135906
+data.zeva.txt 4.077712785060798
+data.zeve.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906

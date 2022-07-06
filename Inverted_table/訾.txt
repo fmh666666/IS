@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.ok.txt 1
-data.zawb.txt 1
-data.zcdv.txt 1
-data.zenn.txt 1
+data.ga.txt 3.235060386727117
+data.ok.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zenn.txt 3.235060386727117

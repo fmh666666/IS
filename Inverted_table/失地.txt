@@ -1,10 +1,10 @@
 9
-data.op.txt 2
-data.sq.txt 1
-data.zagr.txt 1
-data.zawm.txt 1
-data.zbkr.txt 1
-data.zdtr.txt 1
-data.zfai.txt 1
-data.zfaj.txt 3
-data.zfbr.txt 1
+data.op.txt 4.48169974735425
+data.sq.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zawm.txt 2.82763771717948
+data.zbkr.txt 2.82763771717948
+data.zdtr.txt 2.82763771717948
+data.zfai.txt 2.82763771717948
+data.zfaj.txt 5.65527543435896
+data.zfbr.txt 2.82763771717948

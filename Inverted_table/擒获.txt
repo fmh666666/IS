@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.kt.txt 1
-data.zadv.txt 1
-data.zafv.txt 1
-data.zcln.txt 1
-data.zctm.txt 1
-data.zddx.txt 1
-data.zdod.txt 1
+data.cq.txt 2.9092786962624935
+data.kt.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zafv.txt 2.9092786962624935
+data.zcln.txt 2.9092786962624935
+data.zctm.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935

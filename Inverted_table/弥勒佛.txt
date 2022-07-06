@@ -1,14 +1,14 @@
 13
-data.cz.txt 1
-data.zbjh.txt 1
-data.zbmw.txt 2
-data.zcon.txt 1
-data.zcsu.txt 1
-data.zcue.txt 1
-data.zdeb.txt 1
-data.zdoq.txt 1
-data.zdwz.txt 1
-data.zerh.txt 2
-data.zeva.txt 1
-data.zfae.txt 1
-data.zfby.txt 1
+data.cz.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zbmw.txt 4.077712785060798
+data.zcon.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdoq.txt 2.5727503226135906
+data.zdwz.txt 2.5727503226135906
+data.zerh.txt 4.077712785060798
+data.zeva.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906
+data.zfby.txt 2.5727503226135906

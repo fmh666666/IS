@@ -1,14 +1,14 @@
 13
-data.fj.txt 1
-data.jj.txt 1
-data.pq.txt 1
-data.zaoy.txt 2
-data.zapl.txt 2
-data.zaxx.txt 1
-data.zbyb.txt 1
-data.zcon.txt 1
-data.zcvi.txt 1
-data.zcvt.txt 1
-data.zdhw.txt 1
-data.zdnh.txt 1
-data.zfas.txt 1
+data.fj.txt 2.5727503226135906
+data.jj.txt 2.5727503226135906
+data.pq.txt 2.5727503226135906
+data.zaoy.txt 4.077712785060798
+data.zapl.txt 4.077712785060798
+data.zaxx.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcvi.txt 2.5727503226135906
+data.zcvt.txt 2.5727503226135906
+data.zdhw.txt 2.5727503226135906
+data.zdnh.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906

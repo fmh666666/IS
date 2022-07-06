@@ -1,6 +1,6 @@
 5
-data.zalt.txt 2
-data.zblq.txt 1
-data.zeam.txt 1
-data.zeay.txt 1
-data.zegk.txt 1
+data.zalt.txt 5.1274494005309625
+data.zblq.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zegk.txt 3.235060386727117

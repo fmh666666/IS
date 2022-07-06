@@ -1,12 +1,12 @@
 11
-data.hc.txt 1
-data.ng.txt 1
-data.zair.txt 2
-data.zarc.txt 3
-data.zbhv.txt 1
-data.zbkf.txt 1
-data.zbpc.txt 2
-data.zcni.txt 1
-data.zcvq.txt 1
-data.zdeb.txt 1
-data.zedd.txt 1
+data.hc.txt 2.6885433903988862
+data.ng.txt 2.6885433903988862
+data.zair.txt 4.261240455343955
+data.zarc.txt 5.3770867807977725
+data.zbhv.txt 2.6885433903988862
+data.zbkf.txt 2.6885433903988862
+data.zbpc.txt 4.261240455343955
+data.zcni.txt 2.6885433903988862
+data.zcvq.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862

@@ -1,7 +1,7 @@
 6
-data.zasq.txt 2
-data.zbes.txt 1
-data.zbwq.txt 1
-data.zcqg.txt 1
-data.zcyv.txt 1
-data.zcyx.txt 1
+data.zasq.txt 4.927148697748023
+data.zbes.txt 3.1086847136800873
+data.zbwq.txt 3.1086847136800873
+data.zcqg.txt 3.1086847136800873
+data.zcyv.txt 3.1086847136800873
+data.zcyx.txt 3.1086847136800873

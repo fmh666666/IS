@@ -1,7 +1,7 @@
 6
-data.vz.txt 1
-data.zamr.txt 1
-data.zazo.txt 1
-data.zcdy.txt 1
-data.zdtr.txt 1
-data.zenn.txt 1
+data.vz.txt 3.1086847136800873
+data.zamr.txt 3.1086847136800873
+data.zazo.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873
+data.zenn.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zbhd.txt 5
-data.zbil.txt 2
-data.zcqe.txt 10
-data.zdoc.txt 1
-data.zexk.txt 1
+data.zbhd.txt 8.362509787258078
+data.zbil.txt 5.1274494005309625
+data.zcqe.txt 11.191470190044793
+data.zdoc.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

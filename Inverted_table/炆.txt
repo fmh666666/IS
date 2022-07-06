@@ -1,5 +1,5 @@
 4
-data.ud.txt 1
-data.zawb.txt 1
-data.zexu.txt 6
-data.zexv.txt 1
+data.ud.txt 3.389731710180695
+data.zawb.txt 3.389731710180695
+data.zexu.txt 9.516180001030515
+data.zexv.txt 3.389731710180695

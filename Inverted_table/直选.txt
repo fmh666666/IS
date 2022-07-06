@@ -1,7 +1,7 @@
 6
-data.co.txt 2
-data.zbpx.txt 3
-data.zcue.txt 1
-data.zdcw.txt 1
-data.zdou.txt 1
-data.zfaj.txt 1
+data.co.txt 4.927148697748023
+data.zbpx.txt 6.2173694273601745
+data.zcue.txt 3.1086847136800873
+data.zdcw.txt 3.1086847136800873
+data.zdou.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

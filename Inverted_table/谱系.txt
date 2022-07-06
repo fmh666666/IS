@@ -1,4 +1,4 @@
 3
-data.zbkv.txt 1
-data.zcdy.txt 1
-data.zctp.txt 1
+data.zbkv.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888

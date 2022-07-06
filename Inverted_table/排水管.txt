@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.op.txt 2
-data.zank.txt 1
-data.zbdx.txt 2
-data.zelt.txt 1
+data.hz.txt 3.235060386727117
+data.op.txt 5.1274494005309625
+data.zank.txt 3.235060386727117
+data.zbdx.txt 5.1274494005309625
+data.zelt.txt 3.235060386727117

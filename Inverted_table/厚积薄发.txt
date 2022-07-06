@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.zaim.txt 1
-data.zalt.txt 1
-data.zbha.txt 1
-data.zbht.txt 1
-data.zcaq.txt 1
-data.zcic.txt 1
-data.zcxp.txt 2
-data.zdcy.txt 8
-data.zecf.txt 1
-data.zexv.txt 2
+data.cz.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zalt.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zbht.txt 2.6885433903988862
+data.zcaq.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zcxp.txt 4.261240455343955
+data.zdcy.txt 8.52248091068791
+data.zecf.txt 2.6885433903988862
+data.zexv.txt 4.261240455343955

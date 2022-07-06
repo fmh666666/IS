@@ -1,10 +1,10 @@
 9
-data.zaet.txt 10
-data.zafy.txt 2
-data.zagr.txt 1
-data.zcda.txt 1
-data.zcdl.txt 1
-data.zcku.txt 2
-data.zcts.txt 1
-data.zesi.txt 1
-data.zevy.txt 1
+data.zaet.txt 9.782019324862082
+data.zafy.txt 4.48169974735425
+data.zagr.txt 2.82763771717948
+data.zcda.txt 2.82763771717948
+data.zcdl.txt 2.82763771717948
+data.zcku.txt 4.48169974735425
+data.zcts.txt 2.82763771717948
+data.zesi.txt 2.82763771717948
+data.zevy.txt 2.82763771717948

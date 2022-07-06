@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.zcqs.txt 1
-data.zdey.txt 1
-data.zdnc.txt 1
-data.zdpg.txt 1
+data.bs.txt 3.235060386727117
+data.zcqs.txt 3.235060386727117
+data.zdey.txt 3.235060386727117
+data.zdnc.txt 3.235060386727117
+data.zdpg.txt 3.235060386727117

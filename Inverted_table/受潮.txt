@@ -1,12 +1,12 @@
 11
-data.ee.txt 1
-data.hz.txt 2
-data.ye.txt 1
-data.zahd.txt 1
-data.zbhd.txt 1
-data.zbot.txt 1
-data.zbts.txt 1
-data.zbvm.txt 2
-data.zcdy.txt 1
-data.zcmx.txt 1
-data.zcue.txt 1
+data.ee.txt 2.6885433903988862
+data.hz.txt 4.261240455343955
+data.ye.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbot.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zbvm.txt 4.261240455343955
+data.zcdy.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862

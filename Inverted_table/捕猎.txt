@@ -1,10 +1,10 @@
 9
-data.pa.txt 1
-data.wg.txt 1
-data.zatz.txt 1
-data.zayc.txt 1
-data.zbfz.txt 1
-data.zblq.txt 1
-data.zbwq.txt 1
-data.zcdg.txt 1
-data.zchd.txt 1
+data.pa.txt 2.82763771717948
+data.wg.txt 2.82763771717948
+data.zatz.txt 2.82763771717948
+data.zayc.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zchd.txt 2.82763771717948

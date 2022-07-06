@@ -1,9 +1,9 @@
 8
-data.zafq.txt 1
-data.zbhd.txt 1
-data.zblq.txt 1
-data.zcdl.txt 3
-data.zcdz.txt 2
-data.zcue.txt 1
-data.zczp.txt 1
-data.zdod.txt 1
+data.zafq.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcdl.txt 5.818557392524987
+data.zcdz.txt 4.611097637722987
+data.zcue.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935

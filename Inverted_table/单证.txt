@@ -1,4 +1,4 @@
 3
-data.zbjk.txt 1
-data.zczp.txt 1
-data.zdpz.txt 1
+data.zbjk.txt 3.5891377275982888
+data.zczp.txt 3.5891377275982888
+data.zdpz.txt 3.5891377275982888

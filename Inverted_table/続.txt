@@ -1,7 +1,7 @@
 6
-data.zake.txt 1
-data.zbcc.txt 1
-data.zbsu.txt 1
-data.zdgt.txt 1
-data.zegl.txt 9
-data.zegn.txt 4
+data.zake.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zbsu.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zegl.txt 10.326827088520758
+data.zegn.txt 7.21814237484067

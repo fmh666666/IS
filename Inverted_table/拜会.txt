@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.hg.txt 1
-data.mi.txt 1
-data.zalc.txt 1
-data.zblr.txt 2
-data.zcdz.txt 1
-data.zciy.txt 1
-data.zcmx.txt 1
-data.zeqv.txt 1
+data.gw.txt 2.82763771717948
+data.hg.txt 2.82763771717948
+data.mi.txt 2.82763771717948
+data.zalc.txt 2.82763771717948
+data.zblr.txt 4.48169974735425
+data.zcdz.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

@@ -1,7 +1,7 @@
 6
-data.zaet.txt 1
-data.zapl.txt 1
-data.zazx.txt 1
-data.zcpc.txt 1
-data.zebv.txt 1
-data.zfby.txt 1
+data.zaet.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zazx.txt 3.1086847136800873
+data.zcpc.txt 3.1086847136800873
+data.zebv.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

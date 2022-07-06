@@ -1,8 +1,8 @@
 7
-data.zafq.txt 1
-data.zane.txt 1
-data.zawz.txt 1
-data.zbfg.txt 1
-data.zdtr.txt 1
-data.zeeq.txt 1
-data.zeob.txt 3
+data.zafq.txt 3.0018356045764243
+data.zane.txt 3.0018356045764243
+data.zawz.txt 3.0018356045764243
+data.zbfg.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zeeq.txt 3.0018356045764243
+data.zeob.txt 6.003671209152849

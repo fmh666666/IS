@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.vm.txt 1
-data.zalm.txt 1
-data.zblq.txt 1
-data.zdrq.txt 1
+data.dg.txt 3.235060386727117
+data.vm.txt 3.235060386727117
+data.zalm.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117

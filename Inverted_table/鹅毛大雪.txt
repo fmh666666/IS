@@ -1,13 +1,13 @@
 12
-data.by.txt 1
-data.pq.txt 1
-data.zafv.txt 1
-data.zahp.txt 1
-data.zasy.txt 1
-data.zawc.txt 1
-data.zbil.txt 1
-data.zcrn.txt 1
-data.zcts.txt 1
-data.zdcw.txt 1
-data.zdzi.txt 1
-data.zeil.txt 2
+data.by.txt 2.628231699761886
+data.pq.txt 2.628231699761886
+data.zafv.txt 2.628231699761886
+data.zahp.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbil.txt 2.628231699761886
+data.zcrn.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zdcw.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886
+data.zeil.txt 4.165648687329214

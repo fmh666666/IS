@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zcdg.txt 1
-data.zcdy.txt 1
-data.zdeq.txt 1
-data.zelt.txt 2
-data.zfaz.txt 2
+data.zawc.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zdeq.txt 3.1086847136800873
+data.zelt.txt 4.927148697748023
+data.zfaz.txt 4.927148697748023

@@ -1,13 +1,13 @@
 12
-data.jf.txt 1
-data.ok.txt 1
-data.zadv.txt 1
-data.zahd.txt 1
-data.zawc.txt 1
-data.zbeb.txt 1
-data.zbel.txt 1
-data.zbla.txt 1
-data.zcby.txt 1
-data.zcdv.txt 1
-data.zcqp.txt 1
-data.zexx.txt 1
+data.jf.txt 2.628231699761886
+data.ok.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbel.txt 2.628231699761886
+data.zbla.txt 2.628231699761886
+data.zcby.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcqp.txt 2.628231699761886
+data.zexx.txt 2.628231699761886

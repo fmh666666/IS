@@ -1,7 +1,7 @@
 6
-data.zawu.txt 1
-data.zazx.txt 1
-data.zbia.txt 1
-data.zbil.txt 1
-data.zdod.txt 1
-data.zegn.txt 1
+data.zawu.txt 3.1086847136800873
+data.zazx.txt 3.1086847136800873
+data.zbia.txt 3.1086847136800873
+data.zbil.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zegn.txt 3.1086847136800873

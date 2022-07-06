@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.tv.txt 1
-data.zbot.txt 1
-data.zcdz.txt 1
-data.zcqs.txt 1
-data.zdlg.txt 1
-data.zdpg.txt 1
-data.zdpw.txt 1
-data.zegz.txt 1
-data.zehj.txt 1
+data.cf.txt 2.7546073728089153
+data.tv.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcqs.txt 2.7546073728089153
+data.zdlg.txt 2.7546073728089153
+data.zdpg.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153
+data.zegz.txt 2.7546073728089153
+data.zehj.txt 2.7546073728089153

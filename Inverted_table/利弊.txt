@@ -1,11 +1,11 @@
 10
-data.sq.txt 1
-data.zafy.txt 1
-data.zajr.txt 1
-data.zbdb.txt 1
-data.zbkv.txt 1
-data.zdar.txt 1
-data.zedk.txt 1
-data.zeel.txt 1
-data.zexu.txt 1
-data.zfas.txt 1
+data.sq.txt 2.7546073728089153
+data.zafy.txt 2.7546073728089153
+data.zajr.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zdar.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zeel.txt 2.7546073728089153
+data.zexu.txt 2.7546073728089153
+data.zfas.txt 2.7546073728089153

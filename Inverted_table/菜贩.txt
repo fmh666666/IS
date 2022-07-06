@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.kq.txt 1
-data.zagb.txt 2
-data.zauy.txt 2
-data.zawb.txt 1
-data.zawu.txt 1
-data.zcbm.txt 4
-data.zciy.txt 1
-data.zcue.txt 1
-data.zdmw.txt 1
-data.zdpw.txt 1
+data.fj.txt 2.6885433903988862
+data.kq.txt 2.6885433903988862
+data.zagb.txt 4.261240455343955
+data.zauy.txt 4.261240455343955
+data.zawb.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zcbm.txt 6.2426044324908965
+data.zciy.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zdpw.txt 2.6885433903988862

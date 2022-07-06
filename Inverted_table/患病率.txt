@@ -1,7 +1,7 @@
 6
-data.aj.txt 1
-data.co.txt 2
-data.zbcj.txt 1
-data.zbds.txt 1
-data.zctp.txt 2
-data.zcts.txt 1
+data.aj.txt 3.1086847136800873
+data.co.txt 4.927148697748023
+data.zbcj.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zctp.txt 4.927148697748023
+data.zcts.txt 3.1086847136800873

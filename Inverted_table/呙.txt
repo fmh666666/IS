@@ -1,5 +1,5 @@
 4
-data.tz.txt 3
-data.zcdz.txt 1
-data.zcni.txt 2
-data.zdkk.txt 1
+data.tz.txt 6.77946342036139
+data.zcdz.txt 3.389731710180695
+data.zcni.txt 5.372597648141796
+data.zdkk.txt 3.389731710180695

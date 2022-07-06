@@ -1,7 +1,7 @@
 6
-data.zaqp.txt 1
-data.zarr.txt 1
-data.zblq.txt 1
-data.zbvm.txt 1
-data.zcic.txt 1
-data.zdpz.txt 1
+data.zaqp.txt 3.1086847136800873
+data.zarr.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdpz.txt 3.1086847136800873

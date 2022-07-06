@@ -1,6 +1,6 @@
 5
-data.zayd.txt 1
-data.zbuj.txt 1
-data.zbvp.txt 1
-data.zcel.txt 1
-data.zcic.txt 1
+data.zayd.txt 3.235060386727117
+data.zbuj.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zcic.txt 3.235060386727117

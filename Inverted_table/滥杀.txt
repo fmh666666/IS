@@ -1,8 +1,8 @@
 7
-data.aj.txt 1
-data.tv.txt 1
-data.zdgv.txt 1
-data.zdlm.txt 1
-data.zdpg.txt 1
-data.zeqh.txt 1
-data.zezy.txt 1
+data.aj.txt 3.0018356045764243
+data.tv.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdlm.txt 3.0018356045764243
+data.zdpg.txt 3.0018356045764243
+data.zeqh.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

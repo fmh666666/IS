@@ -1,9 +1,9 @@
 8
-data.mk.txt 1
-data.zbjk.txt 1
-data.zcve.txt 1
-data.zdnh.txt 1
-data.zedx.txt 1
-data.zeeh.txt 18
-data.zeoo.txt 1
-data.zfcg.txt 1
+data.mk.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zcve.txt 2.9092786962624935
+data.zdnh.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zeeh.txt 12.35840501812873
+data.zeoo.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.zafu.txt 1
-data.zcdy.txt 1
-data.zcni.txt 1
-data.zcpc.txt 2
+data.zafu.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zcpc.txt 5.372597648141796

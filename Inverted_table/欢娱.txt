@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zaet.txt 2
-data.zcni.txt 1
-data.zdeq.txt 1
-data.zeoh.txt 1
+data.zacd.txt 3.235060386727117
+data.zaet.txt 5.1274494005309625
+data.zcni.txt 3.235060386727117
+data.zdeq.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

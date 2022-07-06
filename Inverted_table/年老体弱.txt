@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.jf.txt 1
-data.zfcp.txt 1
+data.hz.txt 3.5891377275982888
+data.jf.txt 3.5891377275982888
+data.zfcp.txt 3.5891377275982888

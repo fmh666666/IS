@@ -1,7 +1,7 @@
 6
-data.ek.txt 1
-data.zafl.txt 1
-data.zcjd.txt 1
-data.zcue.txt 1
-data.zduk.txt 1
-data.zeyy.txt 1
+data.ek.txt 3.1086847136800873
+data.zafl.txt 3.1086847136800873
+data.zcjd.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873

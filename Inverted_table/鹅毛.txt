@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zbnx.txt 1
-data.zbpm.txt 1
-data.zcon.txt 1
-data.zerw.txt 1
+data.zaim.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zerw.txt 3.235060386727117

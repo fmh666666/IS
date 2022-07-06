@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.zabe.txt 3
-data.zahd.txt 1
-data.zcak.txt 1
-data.zcbm.txt 2
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zefw.txt 1
+data.hz.txt 2.9092786962624935
+data.zabe.txt 5.818557392524987
+data.zahd.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zcbm.txt 4.611097637722987
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935

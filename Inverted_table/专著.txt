@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zaxj.txt 1
-data.zazn.txt 2
-data.zebf.txt 1
-data.zfcg.txt 1
+data.gw.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zazn.txt 5.1274494005309625
+data.zebf.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

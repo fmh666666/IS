@@ -1,6 +1,6 @@
 5
-data.vz.txt 1
-data.zbpp.txt 1
-data.zcln.txt 1
-data.zfbr.txt 1
-data.zfcp.txt 1
+data.vz.txt 3.235060386727117
+data.zbpp.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zfbr.txt 3.235060386727117
+data.zfcp.txt 3.235060386727117

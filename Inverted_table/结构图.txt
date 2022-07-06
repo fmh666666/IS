@@ -1,6 +1,6 @@
 5
-data.zblq.txt 1
-data.zbor.txt 1
-data.zcdl.txt 1
-data.zeaj.txt 1
-data.zebn.txt 1
+data.zblq.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117
+data.zebn.txt 3.235060386727117

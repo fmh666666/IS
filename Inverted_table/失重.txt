@@ -1,13 +1,13 @@
 12
-data.zapf.txt 1
-data.zard.txt 2
-data.zass.txt 1
-data.zbds.txt 1
-data.zbfp.txt 1
-data.zbre.txt 1
-data.zcdv.txt 1
-data.zcih.txt 1
-data.zczp.txt 1
-data.zdpf.txt 1
-data.zeam.txt 1
-data.zedk.txt 1
+data.zapf.txt 2.628231699761886
+data.zard.txt 4.165648687329214
+data.zass.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbfp.txt 2.628231699761886
+data.zbre.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcih.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zedk.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.zasq.txt 1
-data.zdeb.txt 1
-data.zete.txt 11
+data.zasq.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888
+data.zete.txt 12.866924163363409

@@ -1,4 +1,4 @@
 3
-data.cz.txt 2
-data.qb.txt 1
-data.zezy.txt 1
+data.cz.txt 5.688648708166832
+data.qb.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.wg.txt 1
-data.zbhv.txt 1
-data.zfai.txt 1
+data.wg.txt 3.5891377275982888
+data.zbhv.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

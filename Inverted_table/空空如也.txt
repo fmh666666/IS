@@ -1,13 +1,13 @@
 12
-data.ep.txt 6
-data.fj.txt 1
-data.gw.txt 1
-data.zawc.txt 1
-data.zbfr.txt 2
-data.zbvm.txt 1
-data.zbvn.txt 1
-data.zcfx.txt 1
-data.zcko.txt 1
-data.zdcy.txt 1
-data.zeam.txt 1
-data.zeyg.txt 1
+data.ep.txt 7.378379198634354
+data.fj.txt 2.628231699761886
+data.gw.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbfr.txt 4.165648687329214
+data.zbvm.txt 2.628231699761886
+data.zbvn.txt 2.628231699761886
+data.zcfx.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zdcy.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zeyg.txt 2.628231699761886

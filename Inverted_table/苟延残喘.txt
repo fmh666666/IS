@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.tz.txt 1
-data.zacw.txt 1
-data.zako.txt 1
-data.zanm.txt 1
-data.zbfx.txt 1
-data.zbkv.txt 1
-data.zcni.txt 1
-data.zdhw.txt 1
-data.zexm.txt 1
+data.aj.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zako.txt 2.7546073728089153
+data.zanm.txt 2.7546073728089153
+data.zbfx.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zdhw.txt 2.7546073728089153
+data.zexm.txt 2.7546073728089153

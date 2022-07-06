@@ -1,4 +1,4 @@
 3
-data.hu.txt 2
-data.zbkr.txt 1
-data.zeaj.txt 1
+data.hu.txt 5.688648708166832
+data.zbkr.txt 3.5891377275982888
+data.zeaj.txt 3.5891377275982888

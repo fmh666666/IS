@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zbil.txt 1
-data.zcih.txt 1
-data.zcjo.txt 1
-data.zeaj.txt 5
-data.zfaj.txt 1
+data.zadv.txt 3.1086847136800873
+data.zbil.txt 3.1086847136800873
+data.zcih.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zeaj.txt 8.03583341142811
+data.zfaj.txt 3.1086847136800873

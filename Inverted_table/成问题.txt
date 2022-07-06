@@ -1,13 +1,13 @@
 12
-data.op.txt 1
-data.pq.txt 1
-data.vi.txt 1
-data.zafi.txt 1
-data.zako.txt 1
-data.zbfz.txt 1
-data.zbia.txt 1
-data.zbpp.txt 1
-data.zchd.txt 1
-data.zcww.txt 1
-data.zdcy.txt 1
-data.zdxw.txt 2
+data.op.txt 2.628231699761886
+data.pq.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.zafi.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbia.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zchd.txt 2.628231699761886
+data.zcww.txt 2.628231699761886
+data.zdcy.txt 2.628231699761886
+data.zdxw.txt 4.165648687329214

@@ -1,6 +1,6 @@
 5
-data.zbgu.txt 1
-data.zbpx.txt 1
-data.zdzg.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.zbgu.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117
+data.zfai.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

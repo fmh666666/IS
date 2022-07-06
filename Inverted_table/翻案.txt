@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zawc.txt 1
-data.zdgt.txt 1
-data.zdju.txt 1
-data.zesi.txt 3
+data.ga.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zesi.txt 6.470120773454234

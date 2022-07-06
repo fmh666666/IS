@@ -1,4 +1,4 @@
 3
-data.zbcc.txt 1
-data.zcfn.txt 2
-data.zdcy.txt 1
+data.zbcc.txt 3.5891377275982888
+data.zcfn.txt 5.688648708166832
+data.zdcy.txt 3.5891377275982888

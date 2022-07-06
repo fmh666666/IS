@@ -1,3 +1,3 @@
 2
-data.zaun.txt 1
-data.zcvi.txt 1
+data.zaun.txt 3.8701847240988965
+data.zcvi.txt 3.8701847240988965

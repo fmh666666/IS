@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.ry.txt 1
-data.vi.txt 1
-data.zahd.txt 1
-data.zbph.txt 1
-data.zbvm.txt 1
-data.zbzg.txt 1
-data.zcfn.txt 1
-data.zdkp.txt 1
-data.zdof.txt 1
-data.zeqh.txt 1
+data.aj.txt 2.6885433903988862
+data.ry.txt 2.6885433903988862
+data.vi.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zbzg.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zdkp.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

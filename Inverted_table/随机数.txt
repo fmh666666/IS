@@ -1,4 +1,4 @@
 3
-data.zasq.txt 1
-data.zbkf.txt 6
-data.zedd.txt 5
+data.zasq.txt 3.5891377275982888
+data.zbkf.txt 10.0759834655157
+data.zedd.txt 9.27778643576512

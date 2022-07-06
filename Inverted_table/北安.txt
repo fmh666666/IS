@@ -1,6 +1,6 @@
 5
-data.fj.txt 1
-data.zbpm.txt 1
-data.zbyb.txt 1
-data.zccu.txt 1
-data.zclm.txt 2
+data.fj.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zccu.txt 3.235060386727117
+data.zclm.txt 5.1274494005309625

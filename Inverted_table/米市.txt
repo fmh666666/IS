@@ -1,4 +1,4 @@
 3
-data.zafq.txt 3
-data.zefw.txt 1
-data.zemb.txt 1
+data.zafq.txt 7.1782754551965775
+data.zefw.txt 3.5891377275982888
+data.zemb.txt 3.5891377275982888

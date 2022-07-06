@@ -1,4 +1,4 @@
 3
-data.zbfz.txt 1
-data.zcll.txt 1
-data.zcpc.txt 1
+data.zbfz.txt 3.5891377275982888
+data.zcll.txt 3.5891377275982888
+data.zcpc.txt 3.5891377275982888

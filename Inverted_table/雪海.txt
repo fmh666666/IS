@@ -1,9 +1,9 @@
 8
-data.zabj.txt 29
-data.zafv.txt 1
-data.zbfx.txt 1
-data.zbgu.txt 2
-data.zcln.txt 1
-data.zdga.txt 1
-data.zdlw.txt 1
-data.zeaj.txt 1
+data.zabj.txt 14.275512274694641
+data.zafv.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zbgu.txt 4.611097637722987
+data.zcln.txt 2.9092786962624935
+data.zdga.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935

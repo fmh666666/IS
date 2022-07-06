@@ -1,10 +1,10 @@
 9
-data.cz.txt 1
-data.mu.txt 1
-data.zafq.txt 1
-data.zaic.txt 1
-data.zaim.txt 1
-data.zcdl.txt 1
-data.zcrg.txt 1
-data.zehb.txt 2
-data.zeqv.txt 1
+data.cz.txt 2.82763771717948
+data.mu.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zcdl.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zehb.txt 4.48169974735425
+data.zeqv.txt 2.82763771717948

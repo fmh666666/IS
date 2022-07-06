@@ -1,9 +1,9 @@
 8
-data.ng.txt 1
-data.uz.txt 1
-data.zbsm.txt 1
-data.zcdg.txt 1
-data.zcsu.txt 1
-data.zdlg.txt 1
-data.zdlw.txt 1
-data.zdwn.txt 1
+data.ng.txt 2.9092786962624935
+data.uz.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zdlg.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935

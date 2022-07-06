@@ -1,7 +1,7 @@
 6
-data.zaqw.txt 1
-data.zawo.txt 1
-data.zbjc.txt 1
-data.zbor.txt 1
-data.zcon.txt 2
-data.zeaf.txt 1
+data.zaqw.txt 3.1086847136800873
+data.zawo.txt 3.1086847136800873
+data.zbjc.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zcon.txt 4.927148697748023
+data.zeaf.txt 3.1086847136800873

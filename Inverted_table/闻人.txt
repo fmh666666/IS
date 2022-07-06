@@ -1,7 +1,7 @@
 6
-data.tv.txt 16
-data.tz.txt 19
-data.zadv.txt 3
-data.zaxj.txt 2
-data.zaxk.txt 2
-data.zehj.txt 26
+data.tv.txt 12.706633252330308
+data.tz.txt 13.435511802200844
+data.zadv.txt 6.2173694273601745
+data.zaxj.txt 4.927148697748023
+data.zaxk.txt 4.927148697748023
+data.zehj.txt 14.781446093244067

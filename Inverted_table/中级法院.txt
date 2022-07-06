@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.op.txt 1
-data.zawb.txt 1
-data.zbds.txt 1
-data.zbhd.txt 1
-data.zbwa.txt 1
-data.zcxr.txt 1
-data.zedk.txt 1
+data.gw.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935

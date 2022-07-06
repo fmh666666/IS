@@ -1,4 +1,4 @@
 3
-data.zafe.txt 2
-data.zarc.txt 1
-data.zawb.txt 1
+data.zafe.txt 5.688648708166832
+data.zarc.txt 3.5891377275982888
+data.zawb.txt 3.5891377275982888

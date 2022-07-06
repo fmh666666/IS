@@ -1,12 +1,12 @@
 11
-data.zanh.txt 2
-data.zblr.txt 1
-data.zbot.txt 1
-data.zbpc.txt 1
-data.zccl.txt 2
-data.zcmn.txt 1
-data.zcyv.txt 1
-data.zdwl.txt 1
-data.zdzm.txt 1
-data.zeai.txt 1
-data.zfai.txt 1
+data.zanh.txt 4.261240455343955
+data.zblr.txt 2.6885433903988862
+data.zbot.txt 2.6885433903988862
+data.zbpc.txt 2.6885433903988862
+data.zccl.txt 4.261240455343955
+data.zcmn.txt 2.6885433903988862
+data.zcyv.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

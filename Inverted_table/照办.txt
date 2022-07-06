@@ -1,11 +1,11 @@
 10
-data.fj.txt 1
-data.zabe.txt 1
-data.zahd.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zbla.txt 1
-data.zbyb.txt 2
-data.zdlm.txt 1
-data.zdme.txt 1
-data.zdwv.txt 1
+data.fj.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zahd.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zbyb.txt 4.365949390112154
+data.zdlm.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zdwv.txt 2.7546073728089153

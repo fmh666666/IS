@@ -1,4 +1,4 @@
 3
-data.zamp.txt 1
-data.zbvp.txt 1
-data.zbye.txt 2
+data.zamp.txt 3.5891377275982888
+data.zbvp.txt 3.5891377275982888
+data.zbye.txt 5.688648708166832

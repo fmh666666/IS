@@ -1,11 +1,11 @@
 10
-data.fe.txt 1
-data.ka.txt 1
-data.zacd.txt 1
-data.zcni.txt 3
-data.zcuh.txt 2
-data.zdil.txt 2
-data.zdzm.txt 1
-data.zefp.txt 1
-data.zerh.txt 2
-data.zfby.txt 47
+data.fe.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.zacd.txt 2.7546073728089153
+data.zcni.txt 5.509214745617831
+data.zcuh.txt 4.365949390112154
+data.zdil.txt 4.365949390112154
+data.zdzm.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zerh.txt 4.365949390112154
+data.zfby.txt 15.384378881347816

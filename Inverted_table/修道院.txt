@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.xe.txt 1
-data.zabx.txt 1
-data.zaqr.txt 1
-data.zcem.txt 1
-data.zdwv.txt 1
+data.bf.txt 3.1086847136800873
+data.xe.txt 3.1086847136800873
+data.zabx.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zcem.txt 3.1086847136800873
+data.zdwv.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zadv.txt 1
-data.zbjk.txt 1
-data.zcmn.txt 1
+data.zadv.txt 3.5891377275982888
+data.zbjk.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888

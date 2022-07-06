@@ -1,4 +1,4 @@
 3
-data.zbwq.txt 2
-data.zdof.txt 2
-data.zdqq.txt 1
+data.zbwq.txt 5.688648708166832
+data.zdof.txt 5.688648708166832
+data.zdqq.txt 3.5891377275982888

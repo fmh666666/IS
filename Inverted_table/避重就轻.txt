@@ -1,10 +1,10 @@
 9
-data.xk.txt 1
-data.yx.txt 1
-data.zair.txt 1
-data.zaoo.txt 1
-data.zawu.txt 1
-data.zcmy.txt 1
-data.zdds.txt 1
-data.zdof.txt 1
-data.zene.txt 5
+data.xk.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zair.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zdds.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zene.txt 7.309337464533731

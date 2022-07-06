@@ -1,9 +1,9 @@
 8
-data.zabx.txt 1
-data.zaic.txt 1
-data.zaim.txt 1
-data.zall.txt 1
-data.zawc.txt 1
-data.zbhd.txt 1
-data.zenw.txt 1
-data.zfaj.txt 1
+data.zabx.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

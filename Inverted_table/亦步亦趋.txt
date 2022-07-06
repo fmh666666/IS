@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zadv.txt 1
-data.zdju.txt 1
-data.zdpf.txt 1
-data.zebn.txt 1
+data.gw.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117
+data.zebn.txt 3.235060386727117

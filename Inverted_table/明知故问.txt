@@ -1,4 +1,4 @@
 3
-data.be.txt 1
-data.bf.txt 1
-data.zbfx.txt 1
+data.be.txt 3.5891377275982888
+data.bf.txt 3.5891377275982888
+data.zbfx.txt 3.5891377275982888

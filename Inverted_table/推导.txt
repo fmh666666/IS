@@ -1,9 +1,9 @@
 8
-data.fj.txt 1
-data.zahd.txt 1
-data.zaic.txt 1
-data.zaqr.txt 1
-data.zbkv.txt 2
-data.zdgp.txt 2
-data.zdic.txt 1
-data.zebn.txt 6
+data.fj.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zaqr.txt 2.9092786962624935
+data.zbkv.txt 4.611097637722987
+data.zdgp.txt 4.611097637722987
+data.zdic.txt 2.9092786962624935
+data.zebn.txt 8.16737786758984

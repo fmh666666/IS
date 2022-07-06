@@ -1,7 +1,7 @@
 6
-data.hu.txt 1
-data.zbfg.txt 1
-data.zcpx.txt 1
-data.zcvt.txt 1
-data.zdme.txt 1
-data.zedy.txt 1
+data.hu.txt 3.1086847136800873
+data.zbfg.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zdme.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873

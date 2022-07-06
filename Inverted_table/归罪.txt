@@ -1,4 +1,4 @@
 3
-data.zebn.txt 4
-data.zekw.txt 1
-data.zelt.txt 1
+data.zebn.txt 8.333719726130651
+data.zekw.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

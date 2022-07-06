@@ -1,3 +1,3 @@
 2
-data.zamr.txt 2
-data.zbfz.txt 4
+data.zamr.txt 6.134097658560606
+data.zbfz.txt 8.986290643289122

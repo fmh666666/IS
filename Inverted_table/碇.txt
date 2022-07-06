@@ -1,5 +1,5 @@
 4
-data.zaxp.txt 1
-data.zbeb.txt 1
-data.zesq.txt 1
-data.zfby.txt 2
+data.zaxp.txt 3.389731710180695
+data.zbeb.txt 3.389731710180695
+data.zesq.txt 3.389731710180695
+data.zfby.txt 5.372597648141796

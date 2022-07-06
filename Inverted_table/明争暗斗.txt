@@ -1,7 +1,7 @@
 6
-data.mt.txt 1
-data.vi.txt 2
-data.zakb.txt 1
-data.zaxj.txt 1
-data.zcqp.txt 1
-data.zdgp.txt 1
+data.mt.txt 3.1086847136800873
+data.vi.txt 4.927148697748023
+data.zakb.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873

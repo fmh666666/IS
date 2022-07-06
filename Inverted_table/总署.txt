@@ -1,11 +1,11 @@
 10
-data.ha.txt 2
-data.hu.txt 2
-data.kt.txt 2
-data.op.txt 1
-data.vi.txt 2
-data.zahd.txt 1
-data.zcdv.txt 1
-data.zcve.txt 1
-data.zdxw.txt 1
-data.zeve.txt 1
+data.ha.txt 4.365949390112154
+data.hu.txt 4.365949390112154
+data.kt.txt 4.365949390112154
+data.op.txt 2.7546073728089153
+data.vi.txt 4.365949390112154
+data.zahd.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcve.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zeve.txt 2.7546073728089153

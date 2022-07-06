@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.zbhe.txt 1
-data.zbjq.txt 1
-data.zblq.txt 1
-data.zcmx.txt 1
-data.zcse.txt 1
-data.zelt.txt 1
-data.zeyu.txt 1
+data.ev.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

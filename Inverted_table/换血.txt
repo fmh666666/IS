@@ -1,10 +1,10 @@
 9
-data.ft.txt 1
-data.zaip.txt 1
-data.zbdb.txt 1
-data.zbfx.txt 1
-data.zbwq.txt 1
-data.zcdz.txt 1
-data.zdep.txt 2
-data.zeac.txt 1
-data.zfas.txt 1
+data.ft.txt 2.82763771717948
+data.zaip.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zdep.txt 4.48169974735425
+data.zeac.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

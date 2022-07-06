@@ -1,4 +1,4 @@
 3
-data.zasr.txt 2
-data.zass.txt 3
-data.zcqp.txt 1
+data.zasr.txt 5.688648708166832
+data.zass.txt 7.1782754551965775
+data.zcqp.txt 3.5891377275982888

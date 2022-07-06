@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.pa.txt 1
-data.zajr.txt 2
-data.zako.txt 1
-data.zbjk.txt 1
-data.zchd.txt 1
-data.zebn.txt 1
-data.zfae.txt 1
+data.bs.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zajr.txt 4.611097637722987
+data.zako.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zchd.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.zahd.txt 1
-data.zaxx.txt 2
-data.zblr.txt 1
-data.zcxq.txt 1
-data.zczp.txt 3
-data.zfaz.txt 1
+data.zahd.txt 3.1086847136800873
+data.zaxx.txt 4.927148697748023
+data.zblr.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zczp.txt 6.2173694273601745
+data.zfaz.txt 3.1086847136800873

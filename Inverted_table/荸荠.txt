@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.ok.txt 2
-data.zawb.txt 1
-data.zcmn.txt 12
-data.zctp.txt 1
-data.zcxq.txt 2
-data.zdpg.txt 1
-data.zehj.txt 1
-data.zekw.txt 1
+data.kt.txt 2.82763771717948
+data.ok.txt 4.48169974735425
+data.zawb.txt 2.82763771717948
+data.zcmn.txt 10.463502917164757
+data.zctp.txt 2.82763771717948
+data.zcxq.txt 4.48169974735425
+data.zdpg.txt 2.82763771717948
+data.zehj.txt 2.82763771717948
+data.zekw.txt 2.82763771717948

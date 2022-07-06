@@ -1,4 +1,4 @@
 3
-data.zavx.txt 1
-data.zcmx.txt 1
-data.zeel.txt 1
+data.zavx.txt 3.5891377275982888
+data.zcmx.txt 3.5891377275982888
+data.zeel.txt 3.5891377275982888

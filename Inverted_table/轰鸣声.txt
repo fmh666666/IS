@@ -1,7 +1,7 @@
 6
-data.ek.txt 1
-data.zarc.txt 1
-data.zawb.txt 1
-data.zawo.txt 1
-data.zcgi.txt 1
-data.zdcj.txt 1
+data.ek.txt 3.1086847136800873
+data.zarc.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zawo.txt 3.1086847136800873
+data.zcgi.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873

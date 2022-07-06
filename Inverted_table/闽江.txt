@@ -1,10 +1,10 @@
 9
-data.be.txt 1
-data.zaip.txt 1
-data.zard.txt 1
-data.zasq.txt 2
-data.zdst.txt 1
-data.zduo.txt 2
-data.zeos.txt 1
-data.zfaw.txt 1
-data.zfcj.txt 1
+data.be.txt 2.82763771717948
+data.zaip.txt 2.82763771717948
+data.zard.txt 2.82763771717948
+data.zasq.txt 4.48169974735425
+data.zdst.txt 2.82763771717948
+data.zduo.txt 4.48169974735425
+data.zeos.txt 2.82763771717948
+data.zfaw.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948

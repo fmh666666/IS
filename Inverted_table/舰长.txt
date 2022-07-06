@@ -1,8 +1,8 @@
 7
-data.kt.txt 1
-data.zawb.txt 1
-data.zbkj.txt 8
-data.zbsm.txt 3
-data.zdgo.txt 1
-data.zfai.txt 1
-data.zfbr.txt 1
+data.kt.txt 3.0018356045764243
+data.zawb.txt 3.0018356045764243
+data.zbkj.txt 9.515593733166508
+data.zbsm.txt 6.003671209152849
+data.zdgo.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243
+data.zfbr.txt 3.0018356045764243

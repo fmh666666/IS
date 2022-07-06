@@ -1,6 +1,6 @@
 5
-data.zcef.txt 1
-data.zcpb.txt 1
-data.zdkc.txt 1
-data.zebn.txt 1
-data.zeqh.txt 1
+data.zcef.txt 3.235060386727117
+data.zcpb.txt 3.235060386727117
+data.zdkc.txt 3.235060386727117
+data.zebn.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

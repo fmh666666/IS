@@ -1,9 +1,9 @@
 8
-data.zako.txt 1
-data.zall.txt 1
-data.zank.txt 3
-data.zawu.txt 1
-data.zbeb.txt 2
-data.zcse.txt 1
-data.zdzm.txt 1
-data.zelt.txt 1
+data.zako.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zank.txt 5.818557392524987
+data.zawu.txt 2.9092786962624935
+data.zbeb.txt 4.611097637722987
+data.zcse.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

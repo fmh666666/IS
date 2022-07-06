@@ -1,9 +1,9 @@
 8
-data.zajh.txt 1
-data.zbhe.txt 1
-data.zcem.txt 1
-data.zcfx.txt 1
-data.zcqs.txt 3
-data.zcxp.txt 1
-data.zefw.txt 1
-data.zerh.txt 2
+data.zajh.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zcfx.txt 2.9092786962624935
+data.zcqs.txt 5.818557392524987
+data.zcxp.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935
+data.zerh.txt 4.611097637722987

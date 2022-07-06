@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zacw.txt 2
-data.zcli.txt 1
-data.zdou.txt 1
-data.zdrq.txt 1
+data.zabe.txt 3.235060386727117
+data.zacw.txt 5.1274494005309625
+data.zcli.txt 3.235060386727117
+data.zdou.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117

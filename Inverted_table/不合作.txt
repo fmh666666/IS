@@ -1,6 +1,6 @@
 5
-data.zcic.txt 1
-data.zcuh.txt 1
-data.zdcj.txt 1
-data.zebn.txt 1
-data.zene.txt 1
+data.zcic.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zebn.txt 3.235060386727117
+data.zene.txt 3.235060386727117

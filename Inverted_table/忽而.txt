@@ -1,13 +1,13 @@
 12
-data.vi.txt 1
-data.zaim.txt 1
-data.zaql.txt 1
-data.zbgu.txt 1
-data.zbla.txt 1
-data.zcdl.txt 1
-data.zcdv.txt 2
-data.zcwn.txt 1
-data.zdil.txt 1
-data.zdkp.txt 1
-data.zeam.txt 1
-data.zedo.txt 1
+data.vi.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zaql.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zbla.txt 2.628231699761886
+data.zcdl.txt 2.628231699761886
+data.zcdv.txt 4.165648687329214
+data.zcwn.txt 2.628231699761886
+data.zdil.txt 2.628231699761886
+data.zdkp.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zedo.txt 2.628231699761886

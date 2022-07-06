@@ -1,4 +1,4 @@
 3
-data.zcdl.txt 1
-data.zcic.txt 1
-data.zdkk.txt 2
+data.zcdl.txt 3.5891377275982888
+data.zcic.txt 3.5891377275982888
+data.zdkk.txt 5.688648708166832

@@ -1,5 +1,5 @@
 4
-data.zafq.txt 1
-data.zazg.txt 1
-data.zdtr.txt 1
-data.zefw.txt 1
+data.zafq.txt 3.389731710180695
+data.zazg.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695
+data.zefw.txt 3.389731710180695

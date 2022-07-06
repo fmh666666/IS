@@ -1,9 +1,9 @@
 8
-data.gk.txt 1
-data.zank.txt 2
-data.zaxp.txt 2
-data.zbjh.txt 1
-data.zbjk.txt 1
-data.zbpm.txt 1
-data.zeoh.txt 1
-data.zeta.txt 1
+data.gk.txt 2.9092786962624935
+data.zank.txt 4.611097637722987
+data.zaxp.txt 4.611097637722987
+data.zbjh.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zbpm.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zeta.txt 2.9092786962624935

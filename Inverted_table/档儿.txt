@@ -1,2 +1,2 @@
 1
-data.zabj.txt 1
+data.zabj.txt 4.350637738017098

@@ -1,2 +1,2 @@
 1
-data.zcql.txt 3
+data.zcql.txt 8.701275476034196

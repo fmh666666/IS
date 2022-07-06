@@ -1,6 +1,6 @@
 5
-data.gw.txt 4
-data.zbdb.txt 1
-data.zbre.txt 1
-data.zczj.txt 1
-data.zefv.txt 1
+data.gw.txt 7.511577600598868
+data.zbdb.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zczj.txt 3.235060386727117
+data.zefv.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zazn.txt 1
-data.zdeb.txt 3
-data.zfaj.txt 1
+data.zazn.txt 3.5891377275982888
+data.zdeb.txt 7.1782754551965775
+data.zfaj.txt 3.5891377275982888

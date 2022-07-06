@@ -1,13 +1,13 @@
 12
-data.zafk.txt 1
-data.zaim.txt 3
-data.zaoo.txt 1
-data.zavx.txt 1
-data.zblr.txt 3
-data.zbua.txt 1
-data.zbxy.txt 2
-data.zctp.txt 1
-data.zcxr.txt 1
-data.zdod.txt 3
-data.zekw.txt 1
-data.zesi.txt 1
+data.zafk.txt 2.628231699761886
+data.zaim.txt 5.256463399523772
+data.zaoo.txt 2.628231699761886
+data.zavx.txt 2.628231699761886
+data.zblr.txt 5.256463399523772
+data.zbua.txt 2.628231699761886
+data.zbxy.txt 4.165648687329214
+data.zctp.txt 2.628231699761886
+data.zcxr.txt 2.628231699761886
+data.zdod.txt 5.256463399523772
+data.zekw.txt 2.628231699761886
+data.zesi.txt 2.628231699761886

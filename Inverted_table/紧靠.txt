@@ -1,9 +1,9 @@
 8
-data.ep.txt 1
-data.zaim.txt 1
-data.zaip.txt 1
-data.zbfz.txt 1
-data.zcln.txt 1
-data.zctp.txt 1
-data.zdgv.txt 1
-data.zefp.txt 1
+data.ep.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcln.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935

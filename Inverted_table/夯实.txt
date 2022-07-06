@@ -1,12 +1,12 @@
 11
-data.ka.txt 1
-data.pn.txt 1
-data.zaet.txt 1
-data.zahd.txt 1
-data.zamr.txt 1
-data.zbkf.txt 1
-data.zbor.txt 1
-data.zcao.txt 1
-data.zcby.txt 1
-data.zcdz.txt 1
-data.zcrg.txt 1
+data.ka.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zaet.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zbkf.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcby.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcrg.txt 2.6885433903988862

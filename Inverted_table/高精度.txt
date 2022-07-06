@@ -1,4 +1,4 @@
 3
-data.gw.txt 1
-data.tz.txt 1
-data.zaxk.txt 1
+data.gw.txt 3.5891377275982888
+data.tz.txt 3.5891377275982888
+data.zaxk.txt 3.5891377275982888

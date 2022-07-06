@@ -1,7 +1,7 @@
 6
-data.ff.txt 1
-data.zbia.txt 2
-data.zcgo.txt 1
-data.zcjo.txt 1
-data.zezn.txt 1
-data.zfcj.txt 1
+data.ff.txt 3.1086847136800873
+data.zbia.txt 4.927148697748023
+data.zcgo.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

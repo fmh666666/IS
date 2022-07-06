@@ -1,14 +1,14 @@
 13
-data.fe.txt 1
-data.ok.txt 1
-data.op.txt 1
-data.zalj.txt 1
-data.zaoy.txt 1
-data.zbnx.txt 1
-data.zbut.txt 1
-data.zcic.txt 1
-data.zcmy.txt 1
-data.zdgt.txt 1
-data.zefs.txt 1
-data.zeoh.txt 1
-data.zeoo.txt 1
+data.fe.txt 2.5727503226135906
+data.ok.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.zalj.txt 2.5727503226135906
+data.zaoy.txt 2.5727503226135906
+data.zbnx.txt 2.5727503226135906
+data.zbut.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zefs.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zeoo.txt 2.5727503226135906

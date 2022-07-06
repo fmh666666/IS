@@ -1,2 +1,2 @@
 1
-data.qn.txt 2
+data.qn.txt 6.8955976689794145

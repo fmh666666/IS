@@ -1,10 +1,10 @@
 9
-data.hz.txt 2
-data.zail.txt 1
-data.zccu.txt 1
-data.zcem.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zewg.txt 1
+data.hz.txt 4.48169974735425
+data.zail.txt 2.82763771717948
+data.zccu.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zewg.txt 2.82763771717948

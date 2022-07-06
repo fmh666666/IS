@@ -1,9 +1,9 @@
 8
-data.ff.txt 1
-data.nh.txt 1
-data.zajo.txt 1
-data.zcpx.txt 1
-data.zdtr.txt 1
-data.zduo.txt 1
-data.zeqv.txt 1
-data.zfaj.txt 2
+data.ff.txt 2.9092786962624935
+data.nh.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935
+data.zfaj.txt 4.611097637722987

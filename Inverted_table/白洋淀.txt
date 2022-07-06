@@ -1,4 +1,4 @@
 3
-data.zcsu.txt 3
-data.zdeb.txt 1
-data.zeeh.txt 4
+data.zcsu.txt 7.1782754551965775
+data.zdeb.txt 3.5891377275982888
+data.zeeh.txt 8.333719726130651

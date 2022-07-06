@@ -1,13 +1,13 @@
 12
-data.tj.txt 1
-data.yx.txt 2
-data.zall.txt 1
-data.zanh.txt 1
-data.zbof.txt 1
-data.zcon.txt 1
-data.zcrg.txt 1
-data.zcrn.txt 1
-data.zddb.txt 1
-data.zdod.txt 1
-data.zdpw.txt 1
-data.zeec.txt 1
+data.tj.txt 2.628231699761886
+data.yx.txt 4.165648687329214
+data.zall.txt 2.628231699761886
+data.zanh.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zcrn.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdpw.txt 2.628231699761886
+data.zeec.txt 2.628231699761886

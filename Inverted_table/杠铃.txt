@@ -1,5 +1,5 @@
 4
-data.qb.txt 1
-data.zacd.txt 1
-data.zbla.txt 5
-data.zcvq.txt 1
+data.qb.txt 3.389731710180695
+data.zacd.txt 3.389731710180695
+data.zbla.txt 8.762329358322491
+data.zcvq.txt 3.389731710180695

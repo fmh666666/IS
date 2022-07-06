@@ -1,2 +1,2 @@
 1
-data.zddx.txt 3
+data.zddx.txt 8.701275476034196

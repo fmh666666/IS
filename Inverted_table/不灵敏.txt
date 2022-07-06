@@ -1,6 +1,6 @@
 5
-data.qn.txt 2
-data.zasr.txt 2
-data.zczl.txt 2
-data.zdgv.txt 2
-data.zdrq.txt 1
+data.qn.txt 5.1274494005309625
+data.zasr.txt 5.1274494005309625
+data.zczl.txt 5.1274494005309625
+data.zdgv.txt 5.1274494005309625
+data.zdrq.txt 3.235060386727117

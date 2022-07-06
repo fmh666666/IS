@@ -1,6 +1,6 @@
 5
-data.zcel.txt 2
-data.zchw.txt 1
-data.zcic.txt 4
-data.zdkk.txt 1
-data.zduk.txt 1
+data.zcel.txt 5.1274494005309625
+data.zchw.txt 3.235060386727117
+data.zcic.txt 7.511577600598868
+data.zdkk.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

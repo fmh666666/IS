@@ -1,7 +1,7 @@
 6
-data.zafq.txt 3
-data.zbdx.txt 2
-data.zcpa.txt 2
-data.zdhw.txt 1
-data.zdil.txt 1
-data.zdqq.txt 1
+data.zafq.txt 6.2173694273601745
+data.zbdx.txt 4.927148697748023
+data.zcpa.txt 4.927148697748023
+data.zdhw.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873
+data.zdqq.txt 3.1086847136800873

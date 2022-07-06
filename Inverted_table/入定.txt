@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.tv.txt 1
-data.zcfx.txt 1
-data.zdgp.txt 2
-data.zdhv.txt 1
-data.zdof.txt 1
+data.jf.txt 3.1086847136800873
+data.tv.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zdgp.txt 4.927148697748023
+data.zdhv.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873

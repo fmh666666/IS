@@ -1,6 +1,6 @@
 5
-data.zajo.txt 3
-data.zbye.txt 2
-data.zctn.txt 1
-data.zcts.txt 1
-data.zdju.txt 1
+data.zajo.txt 6.470120773454234
+data.zbye.txt 5.1274494005309625
+data.zctn.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdju.txt 3.235060386727117

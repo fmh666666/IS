@@ -1,11 +1,11 @@
 10
-data.hu.txt 2
-data.vi.txt 1
-data.zadv.txt 1
-data.zaic.txt 1
-data.zalt.txt 1
-data.zbvf.txt 1
-data.zczp.txt 1
-data.zduk.txt 1
-data.zedy.txt 1
-data.zeta.txt 1
+data.hu.txt 4.365949390112154
+data.vi.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zalt.txt 2.7546073728089153
+data.zbvf.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153
+data.zeta.txt 2.7546073728089153

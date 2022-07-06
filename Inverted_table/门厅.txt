@@ -1,6 +1,6 @@
 5
-data.gz.txt 1
-data.zbfr.txt 1
-data.zbhe.txt 1
-data.zcem.txt 1
-data.zeqv.txt 1
+data.gz.txt 3.235060386727117
+data.zbfr.txt 3.235060386727117
+data.zbhe.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

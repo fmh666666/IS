@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.to.txt 1
-data.zank.txt 1
-data.zaxj.txt 1
-data.zcve.txt 1
+data.bs.txt 3.235060386727117
+data.to.txt 3.235060386727117
+data.zank.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zcve.txt 3.235060386727117

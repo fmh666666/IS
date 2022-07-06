@@ -1,10 +1,10 @@
 9
-data.ng.txt 1
-data.zasy.txt 1
-data.zaub.txt 1
-data.zazg.txt 1
-data.zcgo.txt 1
-data.zcll.txt 1
-data.zcnn.txt 1
-data.zcue.txt 1
-data.zcvt.txt 1
+data.ng.txt 2.82763771717948
+data.zasy.txt 2.82763771717948
+data.zaub.txt 2.82763771717948
+data.zazg.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcll.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zcvt.txt 2.82763771717948

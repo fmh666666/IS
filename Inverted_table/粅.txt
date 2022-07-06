@@ -1,4 +1,4 @@
 3
-data.zdod.txt 1
-data.zeil.txt 1
-data.zexk.txt 1
+data.zdod.txt 3.5891377275982888
+data.zeil.txt 3.5891377275982888
+data.zexk.txt 3.5891377275982888

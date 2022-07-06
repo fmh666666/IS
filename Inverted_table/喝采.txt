@@ -1,4 +1,4 @@
 3
-data.ew.txt 1
-data.uz.txt 1
-data.zbvp.txt 1
+data.ew.txt 3.5891377275982888
+data.uz.txt 3.5891377275982888
+data.zbvp.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zbeb.txt 1
-data.zbsm.txt 1
-data.zcis.txt 1
-data.zduo.txt 1
-data.zedd.txt 1
+data.zbeb.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zcis.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zedd.txt 3.235060386727117

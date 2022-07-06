@@ -1,4 +1,4 @@
 3
-data.zdeb.txt 2
-data.zdll.txt 2
-data.zdlm.txt 1
+data.zdeb.txt 5.688648708166832
+data.zdll.txt 5.688648708166832
+data.zdlm.txt 3.5891377275982888

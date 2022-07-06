@@ -1,4 +1,4 @@
 3
-data.zacd.txt 1
-data.zarc.txt 1
-data.zezm.txt 1
+data.zacd.txt 3.5891377275982888
+data.zarc.txt 3.5891377275982888
+data.zezm.txt 3.5891377275982888

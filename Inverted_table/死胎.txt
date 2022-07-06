@@ -1,6 +1,6 @@
 5
-data.zanh.txt 1
-data.zbkf.txt 1
-data.zbux.txt 1
-data.zeam.txt 1
-data.zfdk.txt 1
+data.zanh.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zbux.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zfdk.txt 3.235060386727117

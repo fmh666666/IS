@@ -1,4 +1,4 @@
 3
-data.zbkf.txt 1
-data.zdro.txt 3
-data.zexm.txt 1
+data.zbkf.txt 3.5891377275982888
+data.zdro.txt 7.1782754551965775
+data.zexm.txt 3.5891377275982888

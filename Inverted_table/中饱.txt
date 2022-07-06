@@ -1,3 +1,3 @@
 2
-data.zdeb.txt 2
-data.zeqn.txt 2
+data.zdeb.txt 6.134097658560606
+data.zeqn.txt 6.134097658560606

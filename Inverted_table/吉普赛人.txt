@@ -1,2 +1,2 @@
 1
-data.fj.txt 2
+data.fj.txt 6.8955976689794145

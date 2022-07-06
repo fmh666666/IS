@@ -1,4 +1,4 @@
 3
-data.zapr.txt 1
-data.zasd.txt 1
-data.zebc.txt 2
+data.zapr.txt 3.5891377275982888
+data.zasd.txt 3.5891377275982888
+data.zebc.txt 5.688648708166832

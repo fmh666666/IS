@@ -1,14 +1,14 @@
 13
-data.bf.txt 1
-data.pn.txt 1
-data.zawo.txt 1
-data.zbfp.txt 1
-data.zbkr.txt 1
-data.zbzo.txt 1
-data.zczl.txt 1
-data.zdgp.txt 1
-data.zduk.txt 1
-data.zeeh.txt 1
-data.zfaj.txt 1
-data.zfas.txt 1
-data.zfcj.txt 1
+data.bf.txt 2.5727503226135906
+data.pn.txt 2.5727503226135906
+data.zawo.txt 2.5727503226135906
+data.zbfp.txt 2.5727503226135906
+data.zbkr.txt 2.5727503226135906
+data.zbzo.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zduk.txt 2.5727503226135906
+data.zeeh.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

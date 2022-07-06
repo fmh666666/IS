@@ -1,9 +1,9 @@
 8
-data.ga.txt 2
-data.hp.txt 1
-data.kt.txt 1
-data.zazn.txt 1
-data.zbla.txt 1
-data.zbpp.txt 1
-data.zcdz.txt 1
-data.zdmw.txt 1
+data.ga.txt 4.611097637722987
+data.hp.txt 2.9092786962624935
+data.kt.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zdmw.txt 2.9092786962624935

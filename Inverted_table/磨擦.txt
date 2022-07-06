@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.hz.txt 1
-data.ka.txt 1
-data.mx.txt 1
-data.sq.txt 1
-data.zahd.txt 1
-data.zbzg.txt 2
-data.zcdv.txt 1
-data.zctp.txt 1
-data.zczp.txt 1
-data.zdme.txt 1
-data.zdxw.txt 1
+data.cf.txt 2.628231699761886
+data.hz.txt 2.628231699761886
+data.ka.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.sq.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zbzg.txt 4.165648687329214
+data.zcdv.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdme.txt 2.628231699761886
+data.zdxw.txt 2.628231699761886

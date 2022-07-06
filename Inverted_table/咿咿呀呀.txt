@@ -1,6 +1,6 @@
 5
-data.zcdl.txt 1
-data.zcel.txt 1
-data.zedx.txt 1
-data.zeik.txt 1
-data.zexv.txt 1
+data.zcdl.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zedx.txt 3.235060386727117
+data.zeik.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

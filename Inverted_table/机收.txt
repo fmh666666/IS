@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.ew.txt 1
-data.yx.txt 2
-data.zahd.txt 1
-data.zbla.txt 1
-data.zcvi.txt 1
+data.be.txt 3.1086847136800873
+data.ew.txt 3.1086847136800873
+data.yx.txt 4.927148697748023
+data.zahd.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zcvi.txt 3.1086847136800873

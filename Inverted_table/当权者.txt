@@ -1,8 +1,8 @@
 7
-data.op.txt 2
-data.zaet.txt 1
-data.zasd.txt 1
-data.zawc.txt 1
-data.zbsm.txt 1
-data.zedx.txt 1
-data.zene.txt 1
+data.op.txt 4.757796866583254
+data.zaet.txt 3.0018356045764243
+data.zasd.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zbsm.txt 3.0018356045764243
+data.zedx.txt 3.0018356045764243
+data.zene.txt 3.0018356045764243

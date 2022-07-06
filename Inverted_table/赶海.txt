@@ -1,4 +1,4 @@
 3
-data.fz.txt 1
-data.zbhe.txt 1
-data.zcee.txt 1
+data.fz.txt 3.5891377275982888
+data.zbhe.txt 3.5891377275982888
+data.zcee.txt 3.5891377275982888

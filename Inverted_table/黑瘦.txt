@@ -1,5 +1,5 @@
 4
-data.zbkv.txt 1
-data.zbsu.txt 1
-data.zccu.txt 2
-data.zebf.txt 1
+data.zbkv.txt 3.389731710180695
+data.zbsu.txt 3.389731710180695
+data.zccu.txt 5.372597648141796
+data.zebf.txt 3.389731710180695

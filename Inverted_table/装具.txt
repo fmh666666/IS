@@ -1,5 +1,5 @@
 4
-data.zajo.txt 1
-data.zarc.txt 1
-data.zbhd.txt 11
-data.zbhe.txt 2
+data.zajo.txt 3.389731710180695
+data.zarc.txt 3.389731710180695
+data.zbhd.txt 12.152061068503187
+data.zbhe.txt 5.372597648141796

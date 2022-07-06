@@ -1,10 +1,10 @@
 9
-data.kq.txt 1
-data.zanm.txt 1
-data.zasq.txt 1
-data.zbla.txt 1
-data.zbxy.txt 1
-data.zcni.txt 1
-data.zdkk.txt 1
-data.zeeq.txt 1
-data.zfai.txt 1
+data.kq.txt 2.82763771717948
+data.zanm.txt 2.82763771717948
+data.zasq.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zbxy.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zdkk.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

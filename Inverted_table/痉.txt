@@ -1,4 +1,4 @@
 3
-data.zctp.txt 2
-data.zduc.txt 1
-data.zelj.txt 1
+data.zctp.txt 5.688648708166832
+data.zduc.txt 3.5891377275982888
+data.zelj.txt 3.5891377275982888

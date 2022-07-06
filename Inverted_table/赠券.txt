@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zauy.txt 2
-data.zbkf.txt 1
-data.zdqx.txt 1
-data.zewv.txt 1
+data.vm.txt 3.235060386727117
+data.zauy.txt 5.1274494005309625
+data.zbkf.txt 3.235060386727117
+data.zdqx.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zajo.txt 2
-data.zbrj.txt 2
-data.zfai.txt 1
+data.zajo.txt 5.688648708166832
+data.zbrj.txt 5.688648708166832
+data.zfai.txt 3.5891377275982888

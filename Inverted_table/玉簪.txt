@@ -1,7 +1,7 @@
 6
-data.ud.txt 1
-data.zadv.txt 1
-data.zaxj.txt 1
-data.zbkj.txt 1
-data.zblq.txt 7
-data.zccu.txt 1
+data.ud.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zblq.txt 9.326054141040261
+data.zccu.txt 3.1086847136800873

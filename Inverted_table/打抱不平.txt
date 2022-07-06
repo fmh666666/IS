@@ -1,12 +1,12 @@
 11
-data.bf.txt 1
-data.mu.txt 1
-data.zbnx.txt 1
-data.zcku.txt 1
-data.zddp.txt 1
-data.zdlm.txt 1
-data.zdux.txt 1
-data.zene.txt 1
-data.zevq.txt 1
-data.zfaj.txt 1
-data.zfby.txt 1
+data.bf.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862
+data.zdlm.txt 2.6885433903988862
+data.zdux.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862
+data.zfby.txt 2.6885433903988862

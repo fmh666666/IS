@@ -1,13 +1,13 @@
 12
-data.pa.txt 1
-data.vi.txt 1
-data.zail.txt 1
-data.zasj.txt 1
-data.zbdb.txt 1
-data.zbhd.txt 1
-data.zbor.txt 2
-data.zcsu.txt 1
-data.zcts.txt 1
-data.zcxq.txt 2
-data.zdju.txt 1
-data.zecf.txt 1
+data.pa.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.zail.txt 2.628231699761886
+data.zasj.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zbor.txt 4.165648687329214
+data.zcsu.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zcxq.txt 4.165648687329214
+data.zdju.txt 2.628231699761886
+data.zecf.txt 2.628231699761886

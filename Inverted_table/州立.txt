@@ -1,9 +1,9 @@
 8
-data.gw.txt 2
-data.kq.txt 2
-data.zamp.txt 1
-data.zbrj.txt 2
-data.zbsd.txt 1
-data.zctp.txt 1
-data.zeik.txt 3
-data.zeqv.txt 2
+data.gw.txt 4.611097637722987
+data.kq.txt 4.611097637722987
+data.zamp.txt 2.9092786962624935
+data.zbrj.txt 4.611097637722987
+data.zbsd.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zeik.txt 5.818557392524987
+data.zeqv.txt 4.611097637722987

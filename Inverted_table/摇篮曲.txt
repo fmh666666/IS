@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.ff.txt 1
-data.ha.txt 1
-data.zasw.txt 1
-data.zawz.txt 1
-data.zaxk.txt 1
-data.zbrj.txt 1
-data.zcpb.txt 1
-data.zczl.txt 1
-data.zduc.txt 1
-data.zdwv.txt 1
-data.zeaf.txt 1
+data.cz.txt 2.628231699761886
+data.ff.txt 2.628231699761886
+data.ha.txt 2.628231699761886
+data.zasw.txt 2.628231699761886
+data.zawz.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zcpb.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zduc.txt 2.628231699761886
+data.zdwv.txt 2.628231699761886
+data.zeaf.txt 2.628231699761886

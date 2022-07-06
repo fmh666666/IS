@@ -1,7 +1,7 @@
 6
-data.zbkf.txt 3
-data.zcao.txt 1
-data.zcls.txt 4
-data.zeva.txt 1
-data.zevl.txt 4
-data.zewv.txt 4
+data.zbkf.txt 6.2173694273601745
+data.zcao.txt 3.1086847136800873
+data.zcls.txt 7.21814237484067
+data.zeva.txt 3.1086847136800873
+data.zevl.txt 7.21814237484067
+data.zewv.txt 7.21814237484067

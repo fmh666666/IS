@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.kt.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zcdy.txt 2
-data.zcon.txt 1
-data.zdwd.txt 1
+data.kq.txt 3.0018356045764243
+data.kt.txt 3.0018356045764243
+data.zbhd.txt 3.0018356045764243
+data.zbhe.txt 3.0018356045764243
+data.zcdy.txt 4.757796866583254
+data.zcon.txt 3.0018356045764243
+data.zdwd.txt 3.0018356045764243

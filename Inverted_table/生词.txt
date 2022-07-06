@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zcdl.txt 1
-data.zcgi.txt 1
+data.hg.txt 3.5891377275982888
+data.zcdl.txt 3.5891377275982888
+data.zcgi.txt 3.5891377275982888

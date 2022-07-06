@@ -1,5 +1,5 @@
 4
-data.to.txt 1
-data.zasr.txt 1
-data.zdud.txt 1
-data.zfae.txt 1
+data.to.txt 3.389731710180695
+data.zasr.txt 3.389731710180695
+data.zdud.txt 3.389731710180695
+data.zfae.txt 3.389731710180695

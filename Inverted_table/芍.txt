@@ -1,12 +1,12 @@
 11
-data.wc.txt 1
-data.xk.txt 1
-data.zail.txt 1
-data.zaxj.txt 1
-data.zbnp.txt 1
-data.zbvg.txt 1
-data.zbzf.txt 1
-data.zcwn.txt 1
-data.zdey.txt 1
-data.zdpw.txt 1
-data.zdwz.txt 1
+data.wc.txt 2.6885433903988862
+data.xk.txt 2.6885433903988862
+data.zail.txt 2.6885433903988862
+data.zaxj.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zbvg.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zcwn.txt 2.6885433903988862
+data.zdey.txt 2.6885433903988862
+data.zdpw.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862

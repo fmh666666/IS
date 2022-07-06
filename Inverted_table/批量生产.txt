@@ -1,9 +1,9 @@
 8
-data.zaub.txt 1
-data.zazn.txt 1
-data.zbkr.txt 1
-data.zcdz.txt 1
-data.zcih.txt 1
-data.zcsu.txt 1
-data.zeay.txt 1
-data.zezy.txt 1
+data.zaub.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcih.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

@@ -1,12 +1,12 @@
 11
-data.zacp.txt 1
-data.zaub.txt 1
-data.zbdb.txt 2
-data.zbsl.txt 1
-data.zcue.txt 1
-data.zcxq.txt 1
-data.zdhw.txt 1
-data.zewn.txt 1
-data.zeyg.txt 1
-data.zfby.txt 1
-data.zfcp.txt 6
+data.zacp.txt 2.6885433903988862
+data.zaub.txt 2.6885433903988862
+data.zbdb.txt 4.261240455343955
+data.zbsl.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zcxq.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862
+data.zeyg.txt 2.6885433903988862
+data.zfby.txt 2.6885433903988862
+data.zfcp.txt 7.547695520201752

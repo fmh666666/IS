@@ -1,6 +1,6 @@
 5
-data.zaic.txt 1
-data.zawb.txt 1
-data.zbsm.txt 1
-data.zbvm.txt 1
-data.zdyv.txt 1
+data.zaic.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zbvm.txt 3.235060386727117
+data.zdyv.txt 3.235060386727117

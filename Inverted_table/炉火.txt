@@ -1,10 +1,10 @@
 9
-data.gz.txt 1
-data.zabe.txt 1
-data.zahd.txt 2
-data.zasw.txt 1
-data.zaxx.txt 1
-data.zbqu.txt 10
-data.zcao.txt 1
-data.zcrg.txt 1
-data.zelt.txt 1
+data.gz.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zahd.txt 4.48169974735425
+data.zasw.txt 2.82763771717948
+data.zaxx.txt 2.82763771717948
+data.zbqu.txt 9.782019324862082
+data.zcao.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zelt.txt 2.82763771717948

@@ -1,8 +1,8 @@
 7
-data.zacw.txt 9
-data.zbhv.txt 1
-data.zbrj.txt 1
-data.zbux.txt 1
-data.zbyv.txt 1
-data.zdgv.txt 1
-data.zeay.txt 1
+data.zacw.txt 9.971882031075616
+data.zbhv.txt 3.0018356045764243
+data.zbrj.txt 3.0018356045764243
+data.zbux.txt 3.0018356045764243
+data.zbyv.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zeay.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.pn.txt 1
-data.zbcj.txt 1
-data.zbdb.txt 1
-data.zbht.txt 1
+data.jf.txt 3.235060386727117
+data.pn.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbht.txt 3.235060386727117

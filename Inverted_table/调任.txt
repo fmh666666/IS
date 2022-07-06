@@ -1,7 +1,7 @@
 6
-data.fe.txt 1
-data.zafl.txt 1
-data.zcdy.txt 1
-data.zchw.txt 1
-data.zcmy.txt 1
-data.zexv.txt 2
+data.fe.txt 3.1086847136800873
+data.zafl.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zchw.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zexv.txt 4.927148697748023

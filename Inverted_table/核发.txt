@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.hz.txt 4
-data.yx.txt 1
-data.zamr.txt 1
-data.zasq.txt 1
-data.zdoc.txt 1
+data.ha.txt 3.1086847136800873
+data.hz.txt 7.21814237484067
+data.yx.txt 3.1086847136800873
+data.zamr.txt 3.1086847136800873
+data.zasq.txt 3.1086847136800873
+data.zdoc.txt 3.1086847136800873

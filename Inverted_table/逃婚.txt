@@ -1,9 +1,9 @@
 8
-data.ep.txt 1
-data.zapf.txt 1
-data.zasd.txt 1
-data.zaub.txt 1
-data.zawc.txt 1
-data.zawo.txt 1
-data.zdof.txt 1
-data.zeoh.txt 1
+data.ep.txt 2.9092786962624935
+data.zapf.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

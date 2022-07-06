@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.zapr.txt 1
-data.zbhd.txt 297
-data.zbhe.txt 19
-data.zblr.txt 2
-data.zbnp.txt 21
-data.zbzo.txt 2
-data.zctm.txt 3
-data.zdwl.txt 1
-data.zeeq.txt 17
-data.zefd.txt 5
-data.zesq.txt 1
-data.zety.txt 1
+data.hg.txt 2.5727503226135906
+data.zapr.txt 2.5727503226135906
+data.zbhd.txt 21.145868462634493
+data.zbhe.txt 11.119241900434202
+data.zblr.txt 4.077712785060798
+data.zbnp.txt 11.473004135522354
+data.zbzo.txt 4.077712785060798
+data.zctm.txt 5.145500645227181
+data.zdwl.txt 2.5727503226135906
+data.zeeq.txt 10.728175892735186
+data.zefd.txt 6.650463107674388
+data.zesq.txt 2.5727503226135906
+data.zety.txt 2.5727503226135906

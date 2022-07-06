@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.mt.txt 2
-data.ok.txt 1
-data.zcrg.txt 1
-data.zcxq.txt 2
+data.ga.txt 3.235060386727117
+data.mt.txt 5.1274494005309625
+data.ok.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zcxq.txt 5.1274494005309625

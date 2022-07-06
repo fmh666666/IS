@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.ha.txt 1
-data.zarr.txt 1
-data.zazo.txt 1
-data.zbnp.txt 1
-data.zbvm.txt 2
-data.zbyv.txt 1
-data.zcdy.txt 3
-data.zcis.txt 1
-data.zcmy.txt 1
-data.zczp.txt 2
-data.zedo.txt 4
-data.zelt.txt 1
+data.ga.txt 2.5727503226135906
+data.ha.txt 2.5727503226135906
+data.zarr.txt 2.5727503226135906
+data.zazo.txt 2.5727503226135906
+data.zbnp.txt 2.5727503226135906
+data.zbvm.txt 4.077712785060798
+data.zbyv.txt 2.5727503226135906
+data.zcdy.txt 5.145500645227181
+data.zcis.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zczp.txt 4.077712785060798
+data.zedo.txt 5.97374125520702
+data.zelt.txt 2.5727503226135906

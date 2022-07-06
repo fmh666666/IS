@@ -1,11 +1,11 @@
 10
-data.zaub.txt 1
-data.zawo.txt 1
-data.zbla.txt 1
-data.zcdy.txt 2
-data.zcdz.txt 2
-data.zcef.txt 1
-data.zduc.txt 2
-data.zebv.txt 3
-data.zedo.txt 1
-data.zfaz.txt 1
+data.zaub.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zcdy.txt 4.365949390112154
+data.zcdz.txt 4.365949390112154
+data.zcef.txt 2.7546073728089153
+data.zduc.txt 4.365949390112154
+data.zebv.txt 5.509214745617831
+data.zedo.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

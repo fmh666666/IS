@@ -1,2 +1,2 @@
 1
-data.zdgo.txt 4
+data.zdgo.txt 10.101867994579104

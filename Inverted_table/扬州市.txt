@@ -1,9 +1,9 @@
 8
-data.hz.txt 2
-data.ka.txt 1
-data.zawu.txt 1
-data.zcln.txt 1
-data.zcon.txt 2
-data.zcse.txt 2
-data.zdar.txt 1
-data.zerh.txt 1
+data.hz.txt 4.611097637722987
+data.ka.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zcln.txt 2.9092786962624935
+data.zcon.txt 4.611097637722987
+data.zcse.txt 4.611097637722987
+data.zdar.txt 2.9092786962624935
+data.zerh.txt 2.9092786962624935

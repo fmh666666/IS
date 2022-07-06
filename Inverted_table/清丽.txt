@@ -1,13 +1,13 @@
 12
-data.kt.txt 1
-data.mo.txt 1
-data.mt.txt 1
-data.ng.txt 1
-data.zbhd.txt 1
-data.zbla.txt 2
-data.zbre.txt 1
-data.zcee.txt 1
-data.zcko.txt 1
-data.zdeb.txt 1
-data.zdpf.txt 1
-data.zeoh.txt 1
+data.kt.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.mt.txt 2.628231699761886
+data.ng.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zbla.txt 4.165648687329214
+data.zbre.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

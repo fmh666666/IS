@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.mt.txt 1
-data.nh.txt 1
-data.sq.txt 2
-data.zasy.txt 2
-data.zbem.txt 1
-data.zcgi.txt 1
-data.zcon.txt 2
-data.zcrk.txt 1
-data.zdou.txt 1
-data.zeac.txt 1
-data.zevy.txt 1
+data.gk.txt 2.628231699761886
+data.mt.txt 2.628231699761886
+data.nh.txt 2.628231699761886
+data.sq.txt 4.165648687329214
+data.zasy.txt 4.165648687329214
+data.zbem.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcon.txt 4.165648687329214
+data.zcrk.txt 2.628231699761886
+data.zdou.txt 2.628231699761886
+data.zeac.txt 2.628231699761886
+data.zevy.txt 2.628231699761886

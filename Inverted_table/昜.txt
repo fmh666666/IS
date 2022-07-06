@@ -1,4 +1,4 @@
 3
-data.zbfx.txt 1
-data.zeai.txt 2
-data.zeqh.txt 1
+data.zbfx.txt 3.5891377275982888
+data.zeai.txt 5.688648708166832
+data.zeqh.txt 3.5891377275982888

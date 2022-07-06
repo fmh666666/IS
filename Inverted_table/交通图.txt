@@ -1,5 +1,5 @@
 4
-data.hg.txt 1
-data.zafv.txt 1
-data.zcmx.txt 2
-data.zdsh.txt 1
+data.hg.txt 3.389731710180695
+data.zafv.txt 3.389731710180695
+data.zcmx.txt 5.372597648141796
+data.zdsh.txt 3.389731710180695

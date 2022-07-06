@@ -1,4 +1,4 @@
 3
-data.zahd.txt 10
-data.zedx.txt 1
-data.zeeh.txt 1
+data.zahd.txt 12.41637653849754
+data.zedx.txt 3.5891377275982888
+data.zeeh.txt 3.5891377275982888

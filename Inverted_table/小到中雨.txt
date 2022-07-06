@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.hz.txt 1
-data.zaip.txt 1
-data.zane.txt 1
-data.zasj.txt 1
-data.zbye.txt 1
-data.zdkk.txt 2
-data.zedo.txt 1
-data.zedy.txt 2
-data.zeeq.txt 1
-data.zeoo.txt 1
-data.zfai.txt 1
-data.zfby.txt 1
+data.ga.txt 2.5727503226135906
+data.hz.txt 2.5727503226135906
+data.zaip.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zasj.txt 2.5727503226135906
+data.zbye.txt 2.5727503226135906
+data.zdkk.txt 4.077712785060798
+data.zedo.txt 2.5727503226135906
+data.zedy.txt 4.077712785060798
+data.zeeq.txt 2.5727503226135906
+data.zeoo.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfby.txt 2.5727503226135906

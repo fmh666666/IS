@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.gk.txt 1
-data.zabe.txt 1
-data.zawu.txt 1
-data.zbcj.txt 1
-data.zbsm.txt 1
-data.zcpa.txt 1
-data.zdgo.txt 1
-data.zehp.txt 1
-data.zexx.txt 2
+data.bb.txt 2.7546073728089153
+data.gk.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbsm.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zdgo.txt 2.7546073728089153
+data.zehp.txt 2.7546073728089153
+data.zexx.txt 4.365949390112154

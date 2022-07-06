@@ -1,4 +1,4 @@
 3
-data.zblq.txt 1
-data.zene.txt 2
-data.zewn.txt 2
+data.zblq.txt 3.5891377275982888
+data.zene.txt 5.688648708166832
+data.zewn.txt 5.688648708166832

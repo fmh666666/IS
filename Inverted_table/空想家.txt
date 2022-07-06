@@ -1,5 +1,5 @@
 4
-data.ng.txt 2
-data.zasd.txt 1
-data.zaxp.txt 1
-data.zdoq.txt 1
+data.ng.txt 5.372597648141796
+data.zasd.txt 3.389731710180695
+data.zaxp.txt 3.389731710180695
+data.zdoq.txt 3.389731710180695

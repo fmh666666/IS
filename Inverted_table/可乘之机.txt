@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zcll.txt 1
-data.zdoc.txt 1
+data.zabe.txt 3.5891377275982888
+data.zcll.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888

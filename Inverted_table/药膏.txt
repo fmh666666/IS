@@ -1,14 +1,14 @@
 13
-data.zasw.txt 1
-data.zbmw.txt 1
-data.zbpc.txt 2
-data.zbsu.txt 2
-data.zbua.txt 1
-data.zbux.txt 1
-data.zcln.txt 1
-data.zctp.txt 1
-data.zcts.txt 3
-data.zcvt.txt 1
-data.zczl.txt 1
-data.zdar.txt 1
-data.zdnh.txt 3
+data.zasw.txt 2.5727503226135906
+data.zbmw.txt 2.5727503226135906
+data.zbpc.txt 4.077712785060798
+data.zbsu.txt 4.077712785060798
+data.zbua.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zcts.txt 5.145500645227181
+data.zcvt.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdar.txt 2.5727503226135906
+data.zdnh.txt 5.145500645227181

@@ -1,11 +1,11 @@
 10
-data.hp.txt 2
-data.wc.txt 1
-data.zbpm.txt 1
-data.zbxw.txt 1
-data.zbyb.txt 1
-data.zcln.txt 1
-data.zcpa.txt 1
-data.zcvq.txt 1
-data.zebv.txt 1
-data.zene.txt 1
+data.hp.txt 4.365949390112154
+data.wc.txt 2.7546073728089153
+data.zbpm.txt 2.7546073728089153
+data.zbxw.txt 2.7546073728089153
+data.zbyb.txt 2.7546073728089153
+data.zcln.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.hp.txt 4
-data.zasw.txt 1
-data.zbdb.txt 1
-data.zbkj.txt 1
-data.zbua.txt 1
-data.zccl.txt 1
-data.zcej.txt 1
-data.zcvq.txt 1
-data.zdgt.txt 1
-data.zdil.txt 2
-data.zfaj.txt 2
+data.cz.txt 2.628231699761886
+data.hp.txt 6.1025650235506905
+data.zasw.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zbua.txt 2.628231699761886
+data.zccl.txt 2.628231699761886
+data.zcej.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdil.txt 4.165648687329214
+data.zfaj.txt 4.165648687329214

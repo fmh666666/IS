@@ -1,12 +1,12 @@
 11
-data.ek.txt 1
-data.mu.txt 1
-data.zaoo.txt 1
-data.zbfd.txt 1
-data.zcts.txt 1
-data.zcxq.txt 1
-data.zdhw.txt 1
-data.zdlo.txt 1
-data.zdpf.txt 1
-data.zeoh.txt 1
-data.zevl.txt 1
+data.ek.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.zaoo.txt 2.6885433903988862
+data.zbfd.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zcxq.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862
+data.zevl.txt 2.6885433903988862

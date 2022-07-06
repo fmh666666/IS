@@ -1,7 +1,7 @@
 6
-data.mu.txt 1
-data.zcuh.txt 1
-data.zdgt.txt 1
-data.zeob.txt 1
-data.zeqv.txt 1
-data.zfai.txt 1
+data.mu.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zeob.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

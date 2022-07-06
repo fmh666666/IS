@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zbnx.txt 1
-data.zbsl.txt 1
-data.zcdy.txt 1
-data.zdll.txt 1
-data.zene.txt 1
+data.zawc.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zbsl.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

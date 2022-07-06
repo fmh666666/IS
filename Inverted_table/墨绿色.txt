@@ -1,13 +1,13 @@
 12
-data.mk.txt 2
-data.zako.txt 1
-data.zasw.txt 1
-data.zbgw.txt 1
-data.zcfn.txt 1
-data.zcft.txt 1
-data.zcis.txt 1
-data.zcpa.txt 1
-data.zcxp.txt 1
-data.zdpg.txt 2
-data.zelt.txt 1
-data.zewn.txt 1
+data.mk.txt 4.165648687329214
+data.zako.txt 2.628231699761886
+data.zasw.txt 2.628231699761886
+data.zbgw.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zcft.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zcpa.txt 2.628231699761886
+data.zcxp.txt 2.628231699761886
+data.zdpg.txt 4.165648687329214
+data.zelt.txt 2.628231699761886
+data.zewn.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.ka.txt 1
-data.zctp.txt 1
-data.zeeq.txt 1
+data.ka.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zeeq.txt 3.5891377275982888

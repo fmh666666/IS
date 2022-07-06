@@ -1,5 +1,5 @@
 4
-data.zabe.txt 1
-data.zcrg.txt 1
-data.zdux.txt 1
-data.zfai.txt 1
+data.zabe.txt 3.389731710180695
+data.zcrg.txt 3.389731710180695
+data.zdux.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

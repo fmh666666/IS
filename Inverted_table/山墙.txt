@@ -1,9 +1,9 @@
 8
-data.pa.txt 1
-data.qn.txt 1
-data.zaet.txt 1
-data.zall.txt 1
-data.zasd.txt 8
-data.zblq.txt 1
-data.zdkp.txt 1
-data.zdzm.txt 1
+data.pa.txt 2.9092786962624935
+data.qn.txt 2.9092786962624935
+data.zaet.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zasd.txt 9.222195275445975
+data.zblq.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935

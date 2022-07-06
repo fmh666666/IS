@@ -1,4 +1,4 @@
 3
-data.zbpc.txt 1
-data.zbye.txt 1
-data.zexk.txt 1
+data.zbpc.txt 3.5891377275982888
+data.zbye.txt 3.5891377275982888
+data.zexk.txt 3.5891377275982888

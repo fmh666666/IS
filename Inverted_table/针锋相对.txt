@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.op.txt 1
-data.zbaf.txt 1
-data.zbgw.txt 1
-data.zbwa.txt 1
-data.zdfl.txt 1
-data.zdod.txt 1
-data.zduo.txt 1
-data.zebn.txt 3
-data.zenw.txt 1
-data.zewn.txt 1
-data.zfai.txt 2
-data.zfaj.txt 2
+data.ew.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.zbaf.txt 2.5727503226135906
+data.zbgw.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zdfl.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zebn.txt 5.145500645227181
+data.zenw.txt 2.5727503226135906
+data.zewn.txt 2.5727503226135906
+data.zfai.txt 4.077712785060798
+data.zfaj.txt 4.077712785060798

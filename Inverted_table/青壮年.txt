@@ -1,4 +1,4 @@
 3
-data.zasq.txt 2
-data.zasy.txt 1
-data.zdgv.txt 1
+data.zasq.txt 5.688648708166832
+data.zasy.txt 3.5891377275982888
+data.zdgv.txt 3.5891377275982888

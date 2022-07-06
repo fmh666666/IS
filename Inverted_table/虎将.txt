@@ -1,10 +1,10 @@
 9
-data.zail.txt 1
-data.zbor.txt 1
-data.zcnn.txt 2
-data.zctm.txt 1
-data.zdds.txt 1
-data.zdgt.txt 2
-data.zdvl.txt 1
-data.zdwl.txt 1
-data.zeun.txt 1
+data.zail.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zcnn.txt 4.48169974735425
+data.zctm.txt 2.82763771717948
+data.zdds.txt 2.82763771717948
+data.zdgt.txt 4.48169974735425
+data.zdvl.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948
+data.zeun.txt 2.82763771717948

@@ -1,8 +1,8 @@
 7
-data.vi.txt 1
-data.zaoy.txt 1
-data.zbls.txt 2
-data.zcdz.txt 1
-data.zcmx.txt 2
-data.zdic.txt 1
-data.zelt.txt 1
+data.vi.txt 3.0018356045764243
+data.zaoy.txt 3.0018356045764243
+data.zbls.txt 4.757796866583254
+data.zcdz.txt 3.0018356045764243
+data.zcmx.txt 4.757796866583254
+data.zdic.txt 3.0018356045764243
+data.zelt.txt 3.0018356045764243

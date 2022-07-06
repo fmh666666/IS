@@ -1,7 +1,7 @@
 6
-data.zacw.txt 1
-data.zbhv.txt 1
-data.zbzo.txt 1
-data.zcrv.txt 1
-data.zeec.txt 1
-data.zegz.txt 1
+data.zacw.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zbzo.txt 3.1086847136800873
+data.zcrv.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873

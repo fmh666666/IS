@@ -1,4 +1,4 @@
 3
-data.zail.txt 1
-data.zbla.txt 1
-data.zcfn.txt 1
+data.zail.txt 3.5891377275982888
+data.zbla.txt 3.5891377275982888
+data.zcfn.txt 3.5891377275982888

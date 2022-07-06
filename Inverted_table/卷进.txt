@@ -1,9 +1,9 @@
 8
-data.zabj.txt 1
-data.zasw.txt 1
-data.zayd.txt 1
-data.zbfz.txt 1
-data.zcrn.txt 1
-data.zcuh.txt 1
-data.zdud.txt 1
-data.zemb.txt 1
+data.zabj.txt 2.9092786962624935
+data.zasw.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcrn.txt 2.9092786962624935
+data.zcuh.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935

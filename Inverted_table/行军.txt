@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zajo.txt 1
-data.zblq.txt 1
-data.zcll.txt 3
-data.zdeq.txt 1
+data.ga.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zcll.txt 6.470120773454234
+data.zdeq.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zapl.txt 1
-data.zcqp.txt 1
-data.zdzn.txt 1
+data.zapl.txt 3.5891377275982888
+data.zcqp.txt 3.5891377275982888
+data.zdzn.txt 3.5891377275982888

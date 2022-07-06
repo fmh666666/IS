@@ -1,5 +1,5 @@
 4
-data.zaic.txt 1
-data.zawc.txt 2
-data.zbls.txt 2
-data.zeoh.txt 2
+data.zaic.txt 3.389731710180695
+data.zawc.txt 5.372597648141796
+data.zbls.txt 5.372597648141796
+data.zeoh.txt 5.372597648141796

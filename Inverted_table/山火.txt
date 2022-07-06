@@ -1,7 +1,7 @@
 6
-data.zbuj.txt 1
-data.zbux.txt 1
-data.zdst.txt 1
-data.zdtv.txt 1
-data.zeoh.txt 1
-data.zewg.txt 2
+data.zbuj.txt 3.1086847136800873
+data.zbux.txt 3.1086847136800873
+data.zdst.txt 3.1086847136800873
+data.zdtv.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zewg.txt 4.927148697748023

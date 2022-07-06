@@ -1,8 +1,8 @@
 7
-data.kt.txt 2
-data.mx.txt 2
-data.zbvp.txt 1
-data.zcfn.txt 6
-data.zdby.txt 1
-data.zeaj.txt 1
-data.zfcj.txt 1
+data.kt.txt 4.757796866583254
+data.mx.txt 4.757796866583254
+data.zbvp.txt 3.0018356045764243
+data.zcfn.txt 8.427217959715389
+data.zdby.txt 3.0018356045764243
+data.zeaj.txt 3.0018356045764243
+data.zfcj.txt 3.0018356045764243

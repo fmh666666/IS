@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zbfx.txt 1
-data.zdxw.txt 1
-data.zehp.txt 1
-data.zemb.txt 1
+data.zawc.txt 3.235060386727117
+data.zbfx.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
+data.zemb.txt 3.235060386727117

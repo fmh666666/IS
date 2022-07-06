@@ -1,5 +1,5 @@
 4
-data.zbeb.txt 1
-data.zcdy.txt 3
-data.zcfx.txt 1
-data.zcwq.txt 1
+data.zbeb.txt 3.389731710180695
+data.zcdy.txt 6.77946342036139
+data.zcfx.txt 3.389731710180695
+data.zcwq.txt 3.389731710180695

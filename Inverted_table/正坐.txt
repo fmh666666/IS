@@ -1,10 +1,10 @@
 9
-data.gw.txt 2
-data.zabx.txt 2
-data.zair.txt 1
-data.zbfp.txt 1
-data.zbsf.txt 1
-data.zcjo.txt 1
-data.zddx.txt 1
-data.zdof.txt 1
-data.zduo.txt 1
+data.gw.txt 4.48169974735425
+data.zabx.txt 4.48169974735425
+data.zair.txt 2.82763771717948
+data.zbfp.txt 2.82763771717948
+data.zbsf.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zddx.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zduo.txt 2.82763771717948

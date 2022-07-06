@@ -1,9 +1,9 @@
 8
-data.zbfr.txt 1
-data.zbga.txt 1
-data.zbzf.txt 1
-data.zclm.txt 1
-data.zcsu.txt 1
-data.zdod.txt 1
-data.zebn.txt 1
-data.zeyu.txt 1
+data.zbfr.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zclm.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

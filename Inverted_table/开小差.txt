@@ -1,12 +1,12 @@
 11
-data.ry.txt 1
-data.zacw.txt 1
-data.zavx.txt 1
-data.zbcc.txt 2
-data.zbkr.txt 1
-data.zciy.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zduo.txt 1
-data.zeaj.txt 1
-data.zfdk.txt 1
+data.ry.txt 2.6885433903988862
+data.zacw.txt 2.6885433903988862
+data.zavx.txt 2.6885433903988862
+data.zbcc.txt 4.261240455343955
+data.zbkr.txt 2.6885433903988862
+data.zciy.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zduo.txt 2.6885433903988862
+data.zeaj.txt 2.6885433903988862
+data.zfdk.txt 2.6885433903988862

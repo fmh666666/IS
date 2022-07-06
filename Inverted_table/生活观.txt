@@ -1,6 +1,6 @@
 5
-data.zahp.txt 1
-data.zajr.txt 1
-data.zakb.txt 1
-data.zddl.txt 2
-data.zexv.txt 1
+data.zahp.txt 3.235060386727117
+data.zajr.txt 3.235060386727117
+data.zakb.txt 3.235060386727117
+data.zddl.txt 5.1274494005309625
+data.zexv.txt 3.235060386727117

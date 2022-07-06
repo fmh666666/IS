@@ -1,11 +1,11 @@
 10
-data.sq.txt 3
-data.wg.txt 3
-data.zaej.txt 1
-data.zbaq.txt 3
-data.zbcc.txt 1
-data.zbvg.txt 1
-data.zduo.txt 1
-data.zdzg.txt 2
-data.zefp.txt 1
-data.zemf.txt 1
+data.sq.txt 5.509214745617831
+data.wg.txt 5.509214745617831
+data.zaej.txt 2.7546073728089153
+data.zbaq.txt 5.509214745617831
+data.zbcc.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153
+data.zdzg.txt 4.365949390112154
+data.zefp.txt 2.7546073728089153
+data.zemf.txt 2.7546073728089153

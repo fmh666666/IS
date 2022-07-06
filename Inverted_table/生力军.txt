@@ -1,4 +1,4 @@
 3
-data.zapl.txt 1
-data.zbyb.txt 1
-data.zeob.txt 1
+data.zapl.txt 3.5891377275982888
+data.zbyb.txt 3.5891377275982888
+data.zeob.txt 3.5891377275982888

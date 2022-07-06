@@ -1,2 +1,2 @@
 1
-data.zdwn.txt 4
+data.zdwn.txt 10.101867994579104

@@ -1,6 +1,6 @@
 5
-data.jj.txt 2
-data.zabe.txt 2
-data.zaqp.txt 1
-data.zbye.txt 1
-data.zcww.txt 1
+data.jj.txt 5.1274494005309625
+data.zabe.txt 5.1274494005309625
+data.zaqp.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zcww.txt 3.235060386727117

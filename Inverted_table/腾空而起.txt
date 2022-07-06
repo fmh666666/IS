@@ -1,10 +1,10 @@
 9
-data.zabe.txt 1
-data.zaim.txt 1
-data.zarr.txt 1
-data.zazn.txt 1
-data.zbaf.txt 1
-data.zbsf.txt 1
-data.zcko.txt 1
-data.zcse.txt 1
-data.zcwq.txt 1
+data.zabe.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zarr.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbaf.txt 2.82763771717948
+data.zbsf.txt 2.82763771717948
+data.zcko.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zcwq.txt 2.82763771717948

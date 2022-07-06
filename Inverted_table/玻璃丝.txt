@@ -1,3 +1,3 @@
 2
-data.zbot.txt 3
-data.zecf.txt 1
+data.zbot.txt 7.740369448197793
+data.zecf.txt 3.8701847240988965

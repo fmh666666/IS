@@ -1,13 +1,13 @@
 12
-data.ud.txt 1
-data.zauy.txt 1
-data.zbeb.txt 1
-data.zbkf.txt 3
-data.zbsd.txt 2
-data.zcem.txt 1
-data.zcli.txt 1
-data.zclm.txt 4
-data.zdlg.txt 1
-data.zdst.txt 4
-data.zehb.txt 1
-data.zevl.txt 1
+data.ud.txt 2.628231699761886
+data.zauy.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbkf.txt 5.256463399523772
+data.zbsd.txt 4.165648687329214
+data.zcem.txt 2.628231699761886
+data.zcli.txt 2.628231699761886
+data.zclm.txt 6.1025650235506905
+data.zdlg.txt 2.628231699761886
+data.zdst.txt 6.1025650235506905
+data.zehb.txt 2.628231699761886
+data.zevl.txt 2.628231699761886

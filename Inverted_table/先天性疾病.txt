@@ -1,8 +1,8 @@
 7
-data.zalj.txt 1
-data.zbjk.txt 1
-data.zbua.txt 1
-data.zcel.txt 1
-data.zdwn.txt 1
-data.zenw.txt 1
-data.zfae.txt 1
+data.zalj.txt 3.0018356045764243
+data.zbjk.txt 3.0018356045764243
+data.zbua.txt 3.0018356045764243
+data.zcel.txt 3.0018356045764243
+data.zdwn.txt 3.0018356045764243
+data.zenw.txt 3.0018356045764243
+data.zfae.txt 3.0018356045764243

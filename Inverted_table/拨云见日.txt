@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.kq.txt 2
-data.zafv.txt 1
-data.zawu.txt 1
-data.zbfr.txt 1
-data.zddp.txt 1
-data.zddx.txt 1
-data.zdpz.txt 1
+data.gw.txt 2.9092786962624935
+data.kq.txt 4.611097637722987
+data.zafv.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zbfr.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935

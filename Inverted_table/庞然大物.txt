@@ -1,6 +1,6 @@
 5
-data.zbkj.txt 2
-data.zbnx.txt 1
-data.zcbe.txt 1
-data.zcni.txt 1
-data.zeaj.txt 1
+data.zbkj.txt 5.1274494005309625
+data.zbnx.txt 3.235060386727117
+data.zcbe.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117

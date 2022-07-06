@@ -1,12 +1,12 @@
 11
-data.vm.txt 1
-data.zaic.txt 1
-data.zcak.txt 1
-data.zcbm.txt 1
-data.zcts.txt 3
-data.zdgp.txt 1
-data.zdlo.txt 1
-data.zdnh.txt 1
-data.zedk.txt 1
-data.zewn.txt 1
-data.zfaz.txt 1
+data.vm.txt 2.6885433903988862
+data.zaic.txt 2.6885433903988862
+data.zcak.txt 2.6885433903988862
+data.zcbm.txt 2.6885433903988862
+data.zcts.txt 5.3770867807977725
+data.zdgp.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zdnh.txt 2.6885433903988862
+data.zedk.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862
+data.zfaz.txt 2.6885433903988862

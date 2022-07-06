@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.zawc.txt 1
-data.zbkj.txt 7
+data.bs.txt 3.5891377275982888
+data.zawc.txt 3.5891377275982888
+data.zbkj.txt 10.767413182794865

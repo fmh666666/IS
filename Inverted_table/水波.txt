@@ -1,10 +1,10 @@
 9
-data.zaqr.txt 1
-data.zayd.txt 13
-data.zbot.txt 1
-data.zcjo.txt 1
-data.zdby.txt 1
-data.zdcw.txt 1
-data.zdgt.txt 1
-data.zdme.txt 2
-data.zeeh.txt 1
+data.zaqr.txt 2.82763771717948
+data.zayd.txt 10.76582038029902
+data.zbot.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zdby.txt 2.82763771717948
+data.zdcw.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdme.txt 4.48169974735425
+data.zeeh.txt 2.82763771717948

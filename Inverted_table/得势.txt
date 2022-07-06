@@ -1,14 +1,14 @@
 13
-data.ft.txt 1
-data.mi.txt 2
-data.zacw.txt 1
-data.zajo.txt 1
-data.zawc.txt 1
-data.zbgu.txt 1
-data.zbhe.txt 1
-data.zcbm.txt 1
-data.zcda.txt 1
-data.zdgv.txt 1
-data.zelt.txt 2
-data.zevq.txt 1
-data.zfaj.txt 1
+data.ft.txt 2.5727503226135906
+data.mi.txt 4.077712785060798
+data.zacw.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zcbm.txt 2.5727503226135906
+data.zcda.txt 2.5727503226135906
+data.zdgv.txt 2.5727503226135906
+data.zelt.txt 4.077712785060798
+data.zevq.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

@@ -1,6 +1,6 @@
 5
-data.zddv.txt 1
-data.zdgt.txt 1
-data.zdwl.txt 1
-data.zexv.txt 1
-data.zfdk.txt 1
+data.zddv.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zdwl.txt 3.235060386727117
+data.zexv.txt 3.235060386727117
+data.zfdk.txt 3.235060386727117

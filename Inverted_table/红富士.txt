@@ -1,7 +1,7 @@
 6
-data.zaic.txt 1
-data.zcby.txt 2
-data.zdgt.txt 2
-data.zdji.txt 1
-data.zedy.txt 1
-data.zeec.txt 1
+data.zaic.txt 3.1086847136800873
+data.zcby.txt 4.927148697748023
+data.zdgt.txt 4.927148697748023
+data.zdji.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873

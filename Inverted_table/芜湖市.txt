@@ -1,9 +1,9 @@
 8
-data.jj.txt 1
-data.zajn.txt 1
-data.zaxp.txt 1
-data.zayc.txt 1
-data.zdzm.txt 1
-data.zeew.txt 1
-data.zeun.txt 1
-data.zexv.txt 6
+data.jj.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zayc.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935
+data.zeun.txt 2.9092786962624935
+data.zexv.txt 8.16737786758984

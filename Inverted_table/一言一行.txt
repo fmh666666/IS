@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.ew.txt 1
-data.zabe.txt 1
-data.zafi.txt 1
-data.zajo.txt 1
-data.zcdz.txt 1
-data.zcgo.txt 1
-data.zcxr.txt 1
-data.zdeb.txt 1
-data.zeam.txt 1
-data.zebn.txt 4
+data.dg.txt 2.6885433903988862
+data.ew.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zafi.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcgo.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zeam.txt 2.6885433903988862
+data.zebn.txt 6.2426044324908965

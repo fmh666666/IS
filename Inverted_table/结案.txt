@@ -1,8 +1,8 @@
 7
-data.fp.txt 1
-data.zbvg.txt 1
-data.zcfx.txt 1
-data.zcgo.txt 1
-data.zcni.txt 1
-data.zeoh.txt 1
-data.zerw.txt 2
+data.fp.txt 3.0018356045764243
+data.zbvg.txt 3.0018356045764243
+data.zcfx.txt 3.0018356045764243
+data.zcgo.txt 3.0018356045764243
+data.zcni.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243
+data.zerw.txt 4.757796866583254

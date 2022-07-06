@@ -1,3 +1,3 @@
 2
-data.zdgo.txt 3
-data.zdme.txt 1
+data.zdgo.txt 7.740369448197793
+data.zdme.txt 3.8701847240988965

@@ -1,10 +1,10 @@
 9
-data.ek.txt 1
-data.ew.txt 2
-data.jj.txt 1
-data.vi.txt 2
-data.zasy.txt 1
-data.zbse.txt 1
-data.zdmw.txt 1
-data.zdzg.txt 1
-data.zfas.txt 1
+data.ek.txt 2.82763771717948
+data.ew.txt 4.48169974735425
+data.jj.txt 2.82763771717948
+data.vi.txt 4.48169974735425
+data.zasy.txt 2.82763771717948
+data.zbse.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

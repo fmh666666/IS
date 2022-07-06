@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zebv.txt 2
-data.zeil.txt 2
-data.zeqh.txt 1
-data.zevl.txt 1
+data.zadv.txt 3.235060386727117
+data.zebv.txt 5.1274494005309625
+data.zeil.txt 5.1274494005309625
+data.zeqh.txt 3.235060386727117
+data.zevl.txt 3.235060386727117

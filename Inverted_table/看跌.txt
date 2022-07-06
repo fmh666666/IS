@@ -1,5 +1,5 @@
 4
-data.zdzn.txt 4
-data.zefw.txt 1
-data.zelt.txt 1
-data.zfai.txt 2
+data.zdzn.txt 7.870713291999142
+data.zefw.txt 3.389731710180695
+data.zelt.txt 3.389731710180695
+data.zfai.txt 5.372597648141796

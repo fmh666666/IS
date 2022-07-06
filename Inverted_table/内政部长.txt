@@ -1,6 +1,6 @@
 5
-data.ok.txt 1
-data.zasj.txt 1
-data.zdaw.txt 1
-data.zfai.txt 3
-data.zfaj.txt 5
+data.ok.txt 3.235060386727117
+data.zasj.txt 3.235060386727117
+data.zdaw.txt 3.235060386727117
+data.zfai.txt 6.470120773454234
+data.zfaj.txt 8.362509787258078

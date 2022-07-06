@@ -1,4 +1,4 @@
 3
-data.zasw.txt 1
-data.zcue.txt 1
-data.zdeb.txt 1
+data.zasw.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888

@@ -1,14 +1,14 @@
 13
-data.zalm.txt 1
-data.zard.txt 1
-data.zasq.txt 1
-data.zbcv.txt 1
-data.zbor.txt 1
-data.zbvf.txt 1
-data.zbvg.txt 1
-data.zcdg.txt 1
-data.zcdz.txt 1
-data.zdkv.txt 1
-data.zduo.txt 1
-data.zeay.txt 1
-data.zeik.txt 1
+data.zalm.txt 2.5727503226135906
+data.zard.txt 2.5727503226135906
+data.zasq.txt 2.5727503226135906
+data.zbcv.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zbvf.txt 2.5727503226135906
+data.zbvg.txt 2.5727503226135906
+data.zcdg.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zdkv.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zeay.txt 2.5727503226135906
+data.zeik.txt 2.5727503226135906

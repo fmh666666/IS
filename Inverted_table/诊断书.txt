@@ -1,4 +1,4 @@
 3
-data.mu.txt 1
-data.zabj.txt 1
-data.zexm.txt 1
+data.mu.txt 3.5891377275982888
+data.zabj.txt 3.5891377275982888
+data.zexm.txt 3.5891377275982888

@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.pq.txt 1
-data.zadv.txt 1
-data.zaip.txt 1
-data.zazg.txt 1
-data.zbem.txt 1
-data.zbre.txt 1
-data.zcbe.txt 1
-data.zcmy.txt 1
-data.zczb.txt 1
-data.zduk.txt 1
-data.zewg.txt 1
-data.zexu.txt 1
+data.ga.txt 2.5727503226135906
+data.pq.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zaip.txt 2.5727503226135906
+data.zazg.txt 2.5727503226135906
+data.zbem.txt 2.5727503226135906
+data.zbre.txt 2.5727503226135906
+data.zcbe.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zczb.txt 2.5727503226135906
+data.zduk.txt 2.5727503226135906
+data.zewg.txt 2.5727503226135906
+data.zexu.txt 2.5727503226135906

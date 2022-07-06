@@ -1,11 +1,11 @@
 10
-data.tz.txt 1
-data.zaip.txt 1
-data.zasd.txt 1
-data.zazn.txt 6
-data.zazo.txt 1
-data.zbdb.txt 1
-data.zbkj.txt 5
-data.zcue.txt 1
-data.zdod.txt 1
-data.zezy.txt 2
+data.tz.txt 2.7546073728089153
+data.zaip.txt 2.7546073728089153
+data.zasd.txt 2.7546073728089153
+data.zazn.txt 7.733160566391275
+data.zazo.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zbkj.txt 7.120556762921068
+data.zcue.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zezy.txt 4.365949390112154

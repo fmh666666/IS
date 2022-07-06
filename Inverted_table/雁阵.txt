@@ -1,6 +1,6 @@
 5
-data.ud.txt 1
-data.zaqw.txt 1
-data.zarr.txt 1
-data.zddb.txt 4
-data.zdnc.txt 1
+data.ud.txt 3.235060386727117
+data.zaqw.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zddb.txt 7.511577600598868
+data.zdnc.txt 3.235060386727117

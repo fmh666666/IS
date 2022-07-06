@@ -1,13 +1,13 @@
 12
-data.hu.txt 1
-data.mt.txt 1
-data.zaoo.txt 1
-data.zapl.txt 1
-data.zbjh.txt 1
-data.zciq.txt 1
-data.zcjy.txt 1
-data.zcni.txt 2
-data.zcqs.txt 1
-data.zddx.txt 1
-data.zdsh.txt 1
-data.zeid.txt 1
+data.hu.txt 2.628231699761886
+data.mt.txt 2.628231699761886
+data.zaoo.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zbjh.txt 2.628231699761886
+data.zciq.txt 2.628231699761886
+data.zcjy.txt 2.628231699761886
+data.zcni.txt 4.165648687329214
+data.zcqs.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdsh.txt 2.628231699761886
+data.zeid.txt 2.628231699761886

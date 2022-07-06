@@ -1,6 +1,6 @@
 5
-data.ev.txt 1
-data.hp.txt 1
-data.zbrj.txt 1
-data.zbzf.txt 1
-data.zcda.txt 1
+data.ev.txt 3.235060386727117
+data.hp.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcda.txt 3.235060386727117

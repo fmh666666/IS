@@ -1,13 +1,13 @@
 12
-data.mk.txt 1
-data.zalj.txt 1
-data.zbcc.txt 1
-data.zbfz.txt 1
-data.zbux.txt 1
-data.zcef.txt 1
-data.zcue.txt 1
-data.zdmw.txt 1
-data.zehb.txt 1
-data.zehp.txt 1
-data.zenn.txt 1
-data.zfae.txt 1
+data.mk.txt 2.628231699761886
+data.zalj.txt 2.628231699761886
+data.zbcc.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zcef.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdmw.txt 2.628231699761886
+data.zehb.txt 2.628231699761886
+data.zehp.txt 2.628231699761886
+data.zenn.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

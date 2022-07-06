@@ -1,6 +1,6 @@
 5
-data.zcnn.txt 3
-data.zcrk.txt 1
-data.zcxh.txt 1
-data.zdkv.txt 1
-data.zdqz.txt 1
+data.zcnn.txt 6.470120773454234
+data.zcrk.txt 3.235060386727117
+data.zcxh.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117

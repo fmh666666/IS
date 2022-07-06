@@ -1,4 +1,4 @@
 3
-data.zagr.txt 1
-data.zdnh.txt 1
-data.zexv.txt 1
+data.zagr.txt 3.5891377275982888
+data.zdnh.txt 3.5891377275982888
+data.zexv.txt 3.5891377275982888

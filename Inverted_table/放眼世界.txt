@@ -1,4 +1,4 @@
 3
-data.zail.txt 1
-data.zaip.txt 1
-data.zete.txt 1
+data.zail.txt 3.5891377275982888
+data.zaip.txt 3.5891377275982888
+data.zete.txt 3.5891377275982888

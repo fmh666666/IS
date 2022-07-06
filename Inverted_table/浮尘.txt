@@ -1,10 +1,10 @@
 9
-data.zahd.txt 2
-data.zazo.txt 1
-data.zbcj.txt 1
-data.zbua.txt 1
-data.zcej.txt 6
-data.zdnh.txt 3
-data.zdqz.txt 3
-data.zeeq.txt 1
-data.zevy.txt 5
+data.zahd.txt 4.48169974735425
+data.zazo.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zcej.txt 7.938182663119541
+data.zdnh.txt 5.65527543435896
+data.zdqz.txt 5.65527543435896
+data.zeeq.txt 2.82763771717948
+data.zevy.txt 7.309337464533731

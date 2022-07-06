@@ -1,6 +1,6 @@
 5
-data.zbeb.txt 1
-data.zbsf.txt 1
-data.zcww.txt 1
-data.zdwl.txt 1
-data.zeyu.txt 1
+data.zbeb.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zcww.txt 3.235060386727117
+data.zdwl.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117

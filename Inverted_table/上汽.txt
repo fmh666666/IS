@@ -1,11 +1,11 @@
 10
-data.co.txt 4
-data.hz.txt 2
-data.zaoo.txt 1
-data.zawo.txt 8
-data.zbrj.txt 7
-data.zbts.txt 3
-data.zcdy.txt 1
-data.zdaa.txt 1
-data.zefp.txt 1
-data.zefv.txt 1
+data.co.txt 6.396000249308887
+data.hz.txt 4.365949390112154
+data.zaoo.txt 2.7546073728089153
+data.zawo.txt 8.731898780224308
+data.zbrj.txt 8.263822118426747
+data.zbts.txt 5.509214745617831
+data.zcdy.txt 2.7546073728089153
+data.zdaa.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153

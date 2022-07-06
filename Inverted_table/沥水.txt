@@ -1,9 +1,9 @@
 8
-data.xe.txt 1
-data.zawo.txt 1
-data.zbyb.txt 1
-data.zcem.txt 1
-data.zcrk.txt 1
-data.zdji.txt 1
-data.zdpg.txt 1
-data.zevt.txt 1
+data.xe.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zdji.txt 2.9092786962624935
+data.zdpg.txt 2.9092786962624935
+data.zevt.txt 2.9092786962624935

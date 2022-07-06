@@ -1,6 +1,6 @@
 5
-data.ye.txt 1
-data.zcmx.txt 1
-data.zcwn.txt 1
-data.zdpg.txt 1
-data.zebn.txt 1
+data.ye.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zcwn.txt 3.235060386727117
+data.zdpg.txt 3.235060386727117
+data.zebn.txt 3.235060386727117

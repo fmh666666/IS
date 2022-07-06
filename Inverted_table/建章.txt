@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zaet.txt 2
-data.zcdz.txt 2
-data.zebf.txt 1
-data.zelt.txt 1
-data.zfcg.txt 2
+data.tv.txt 3.1086847136800873
+data.zaet.txt 4.927148697748023
+data.zcdz.txt 4.927148697748023
+data.zebf.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zfcg.txt 4.927148697748023

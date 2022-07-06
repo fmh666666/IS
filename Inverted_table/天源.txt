@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.dg.txt 1
-data.hc.txt 1
-data.zajh.txt 1
-data.zbye.txt 1
-data.zdhw.txt 1
+data.cq.txt 3.1086847136800873
+data.dg.txt 3.1086847136800873
+data.hc.txt 3.1086847136800873
+data.zajh.txt 3.1086847136800873
+data.zbye.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873

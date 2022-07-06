@@ -1,10 +1,10 @@
 9
-data.zabx.txt 2
-data.zaic.txt 1
-data.zbga.txt 1
-data.zbha.txt 1
-data.zbye.txt 1
-data.zcjd.txt 1
-data.zdeb.txt 1
-data.zdwv.txt 1
-data.zene.txt 1
+data.zabx.txt 4.48169974735425
+data.zaic.txt 2.82763771717948
+data.zbga.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zcjd.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zene.txt 2.82763771717948

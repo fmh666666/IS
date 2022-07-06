@@ -1,4 +1,4 @@
 3
-data.zaqr.txt 1
-data.zehb.txt 1
-data.zfcg.txt 1
+data.zaqr.txt 3.5891377275982888
+data.zehb.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

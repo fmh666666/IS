@@ -1,8 +1,8 @@
 7
-data.hp.txt 1
-data.zaim.txt 1
-data.zcej.txt 1
-data.zcon.txt 1
-data.zdlw.txt 1
-data.zezh.txt 4
-data.zezy.txt 1
+data.hp.txt 3.0018356045764243
+data.zaim.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zcon.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zezh.txt 6.970046426499191
+data.zezy.txt 3.0018356045764243

@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zawo.txt 4
-data.zbpx.txt 1
+data.hz.txt 3.5891377275982888
+data.zawo.txt 8.333719726130651
+data.zbpx.txt 3.5891377275982888

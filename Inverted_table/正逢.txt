@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zabe.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zbaf.txt 1
-data.zbux.txt 1
-data.zddm.txt 1
-data.zfas.txt 2
+data.bs.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbaf.txt 2.9092786962624935
+data.zbux.txt 2.9092786962624935
+data.zddm.txt 2.9092786962624935
+data.zfas.txt 4.611097637722987

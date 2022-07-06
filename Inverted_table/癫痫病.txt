@@ -1,6 +1,6 @@
 5
-data.zbua.txt 1
-data.zdds.txt 1
-data.zdme.txt 2
-data.zenn.txt 1
-data.zezm.txt 1
+data.zbua.txt 3.235060386727117
+data.zdds.txt 3.235060386727117
+data.zdme.txt 5.1274494005309625
+data.zenn.txt 3.235060386727117
+data.zezm.txt 3.235060386727117

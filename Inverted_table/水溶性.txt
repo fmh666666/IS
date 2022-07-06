@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.to.txt 2
-data.zbha.txt 1
-data.zeqv.txt 1
-data.zexu.txt 1
+data.hu.txt 3.235060386727117
+data.to.txt 5.1274494005309625
+data.zbha.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117
+data.zexu.txt 3.235060386727117

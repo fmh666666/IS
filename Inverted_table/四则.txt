@@ -1,8 +1,8 @@
 7
-data.ee.txt 1
-data.zacd.txt 1
-data.zcon.txt 1
-data.zcqs.txt 1
-data.zdtr.txt 1
-data.zevt.txt 2
-data.zfaj.txt 2
+data.ee.txt 3.0018356045764243
+data.zacd.txt 3.0018356045764243
+data.zcon.txt 3.0018356045764243
+data.zcqs.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zevt.txt 4.757796866583254
+data.zfaj.txt 4.757796866583254

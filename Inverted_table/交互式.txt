@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.uz.txt 1
-data.zaim.txt 1
-data.zayv.txt 2
-data.zevl.txt 1
+data.gw.txt 3.235060386727117
+data.uz.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zayv.txt 5.1274494005309625
+data.zevl.txt 3.235060386727117

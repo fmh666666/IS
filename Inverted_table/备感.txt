@@ -1,5 +1,5 @@
 4
-data.zacw.txt 2
-data.zbut.txt 1
-data.zcda.txt 1
-data.zenn.txt 1
+data.zacw.txt 5.372597648141796
+data.zbut.txt 3.389731710180695
+data.zcda.txt 3.389731710180695
+data.zenn.txt 3.389731710180695

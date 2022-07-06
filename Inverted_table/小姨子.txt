@@ -1,11 +1,11 @@
 10
-data.nh.txt 2
-data.zazw.txt 1
-data.zazx.txt 1
-data.zbkr.txt 1
-data.zcsu.txt 5
-data.zcvi.txt 1
-data.zdlo.txt 1
-data.zdoq.txt 1
-data.zefp.txt 1
-data.zegk.txt 1
+data.nh.txt 4.365949390112154
+data.zazw.txt 2.7546073728089153
+data.zazx.txt 2.7546073728089153
+data.zbkr.txt 2.7546073728089153
+data.zcsu.txt 7.120556762921068
+data.zcvi.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zegk.txt 2.7546073728089153

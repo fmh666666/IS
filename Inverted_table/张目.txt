@@ -1,6 +1,6 @@
 5
-data.zayv.txt 1
-data.zcsu.txt 1
-data.zesi.txt 1
-data.zezn.txt 1
-data.zfaj.txt 1
+data.zayv.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zesi.txt 3.235060386727117
+data.zezn.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.kq.txt 1
-data.zate.txt 1
-data.zbhv.txt 1
-data.zbmt.txt 1
-data.zciq.txt 1
-data.zcrk.txt 1
+data.kq.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zbmt.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zcrk.txt 3.1086847136800873

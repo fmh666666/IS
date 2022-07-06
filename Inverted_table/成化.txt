@@ -1,4 +1,4 @@
 3
-data.zbla.txt 1
-data.zczp.txt 1
-data.zegn.txt 1
+data.zbla.txt 3.5891377275982888
+data.zczp.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.zaop.txt 1
-data.zarc.txt 1
-data.zaxp.txt 1
-data.zaxx.txt 1
-data.zbcc.txt 1
-data.zblq.txt 1
-data.zbvf.txt 1
-data.zciq.txt 2
+data.zaop.txt 2.9092786962624935
+data.zarc.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbvf.txt 2.9092786962624935
+data.zciq.txt 4.611097637722987

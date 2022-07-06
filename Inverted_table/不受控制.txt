@@ -1,10 +1,10 @@
 9
-data.jf.txt 2
-data.zaim.txt 1
-data.zawz.txt 1
-data.zaxj.txt 1
-data.zbcj.txt 1
-data.zbfg.txt 1
-data.zcbe.txt 1
-data.zcrk.txt 1
-data.zdrq.txt 1
+data.jf.txt 4.48169974735425
+data.zaim.txt 2.82763771717948
+data.zawz.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbfg.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zcrk.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948

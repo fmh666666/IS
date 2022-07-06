@@ -1,5 +1,5 @@
 4
-data.zacd.txt 1
-data.zadv.txt 1
-data.zcni.txt 1
-data.zdtr.txt 1
+data.zacd.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695

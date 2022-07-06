@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zasj.txt 1
-data.zbaf.txt 1
-data.zdou.txt 1
-data.zezy.txt 1
+data.hp.txt 3.235060386727117
+data.zasj.txt 3.235060386727117
+data.zbaf.txt 3.235060386727117
+data.zdou.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

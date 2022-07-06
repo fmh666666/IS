@@ -1,7 +1,7 @@
 6
-data.ew.txt 2
-data.ff.txt 2
-data.zcdl.txt 1
-data.zcdy.txt 4
-data.zcem.txt 1
-data.zcue.txt 1
+data.ew.txt 4.927148697748023
+data.ff.txt 4.927148697748023
+data.zcdl.txt 3.1086847136800873
+data.zcdy.txt 7.21814237484067
+data.zcem.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873

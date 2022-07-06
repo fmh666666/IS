@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.wc.txt 1
-data.zaqr.txt 1
-data.zass.txt 1
-data.zbpc.txt 1
-data.zdju.txt 1
+data.cq.txt 3.1086847136800873
+data.wc.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zbpc.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873

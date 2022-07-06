@@ -1,9 +1,9 @@
 8
-data.en.txt 1
-data.zafl.txt 1
-data.zbeb.txt 2
-data.zcfx.txt 1
-data.zdcy.txt 1
-data.zdou.txt 2
-data.zenn.txt 1
-data.zevq.txt 1
+data.en.txt 2.9092786962624935
+data.zafl.txt 2.9092786962624935
+data.zbeb.txt 4.611097637722987
+data.zcfx.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935
+data.zdou.txt 4.611097637722987
+data.zenn.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

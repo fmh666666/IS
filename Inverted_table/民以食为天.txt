@@ -1,6 +1,6 @@
 5
-data.zbsd.txt 1
-data.zdaq.txt 1
-data.zdgv.txt 1
-data.zelj.txt 1
-data.zeve.txt 1
+data.zbsd.txt 3.235060386727117
+data.zdaq.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117
+data.zelj.txt 3.235060386727117
+data.zeve.txt 3.235060386727117

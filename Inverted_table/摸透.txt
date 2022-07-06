@@ -1,6 +1,6 @@
 5
-data.xe.txt 1
-data.zadv.txt 3
-data.zbor.txt 1
-data.zdzi.txt 1
-data.zeai.txt 1
+data.xe.txt 3.235060386727117
+data.zadv.txt 6.470120773454234
+data.zbor.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117
+data.zeai.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.jd.txt 1
-data.zall.txt 1
-data.zcdv.txt 1
-data.zdga.txt 1
-data.zdou.txt 2
-data.zexm.txt 3
+data.jd.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zdga.txt 3.1086847136800873
+data.zdou.txt 4.927148697748023
+data.zexm.txt 6.2173694273601745

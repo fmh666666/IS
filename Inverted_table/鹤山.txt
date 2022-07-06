@@ -1,10 +1,10 @@
 9
-data.mx.txt 3
-data.op.txt 2
-data.zadv.txt 1
-data.zamr.txt 4
-data.zaoo.txt 1
-data.zaxk.txt 1
-data.zcqp.txt 1
-data.zefw.txt 52
-data.zeoo.txt 1
+data.mx.txt 5.65527543435896
+data.op.txt 4.48169974735425
+data.zadv.txt 2.82763771717948
+data.zamr.txt 6.565571457682201
+data.zaoo.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zefw.txt 16.196483918326734
+data.zeoo.txt 2.82763771717948

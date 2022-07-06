@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.ha.txt 1
-data.zagr.txt 2
-data.zaoy.txt 1
-data.zbtx.txt 1
-data.zdju.txt 1
-data.zdlo.txt 1
-data.zelt.txt 1
+data.bb.txt 2.9092786962624935
+data.ha.txt 2.9092786962624935
+data.zagr.txt 4.611097637722987
+data.zaoy.txt 2.9092786962624935
+data.zbtx.txt 2.9092786962624935
+data.zdju.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

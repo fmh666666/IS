@@ -1,5 +1,5 @@
 4
-data.xk.txt 2
-data.zarc.txt 1
-data.zcmx.txt 1
-data.zfas.txt 1
+data.xk.txt 5.372597648141796
+data.zarc.txt 3.389731710180695
+data.zcmx.txt 3.389731710180695
+data.zfas.txt 3.389731710180695

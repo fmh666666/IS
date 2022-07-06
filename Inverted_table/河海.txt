@@ -1,8 +1,8 @@
 7
-data.co.txt 1
-data.gk.txt 2
-data.zbjh.txt 1
-data.zdoc.txt 1
-data.zeaj.txt 2
-data.zefv.txt 3
-data.zeoo.txt 3
+data.co.txt 3.0018356045764243
+data.gk.txt 4.757796866583254
+data.zbjh.txt 3.0018356045764243
+data.zdoc.txt 3.0018356045764243
+data.zeaj.txt 4.757796866583254
+data.zefv.txt 6.003671209152849
+data.zeoo.txt 6.003671209152849

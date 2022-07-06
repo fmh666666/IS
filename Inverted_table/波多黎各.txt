@@ -1,6 +1,6 @@
 5
-data.zbof.txt 1
-data.zbsm.txt 1
-data.zdud.txt 1
-data.zdzi.txt 1
-data.zfcg.txt 1
+data.zbof.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

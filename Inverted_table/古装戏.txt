@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.gk.txt 1
-data.zafk.txt 1
-data.zbpc.txt 3
-data.zcic.txt 1
-data.zdoq.txt 1
-data.zeqv.txt 1
-data.zewv.txt 1
+data.fp.txt 2.9092786962624935
+data.gk.txt 2.9092786962624935
+data.zafk.txt 2.9092786962624935
+data.zbpc.txt 5.818557392524987
+data.zcic.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935
+data.zewv.txt 2.9092786962624935

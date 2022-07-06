@@ -1,4 +1,4 @@
 3
-data.ok.txt 1
-data.zblh.txt 1
-data.zccl.txt 1
+data.ok.txt 3.5891377275982888
+data.zblh.txt 3.5891377275982888
+data.zccl.txt 3.5891377275982888

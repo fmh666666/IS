@@ -1,4 +1,4 @@
 3
-data.zbsm.txt 1
-data.zerv.txt 1
-data.zfai.txt 1
+data.zbsm.txt 3.5891377275982888
+data.zerv.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

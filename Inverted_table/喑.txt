@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zawu.txt 1
-data.zbsu.txt 1
-data.zcfx.txt 1
-data.zdzn.txt 1
+data.ka.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zbsu.txt 3.235060386727117
+data.zcfx.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117

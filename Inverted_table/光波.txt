@@ -1,9 +1,9 @@
 8
-data.xk.txt 1
-data.zadv.txt 1
-data.zaqf.txt 1
-data.zazw.txt 1
-data.zazx.txt 1
-data.zczb.txt 1
-data.zdkp.txt 1
-data.zdof.txt 2
+data.xk.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaqf.txt 2.9092786962624935
+data.zazw.txt 2.9092786962624935
+data.zazx.txt 2.9092786962624935
+data.zczb.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zdof.txt 4.611097637722987

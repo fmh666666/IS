@@ -1,4 +1,4 @@
 3
-data.zafy.txt 2
-data.zctp.txt 2
-data.zevt.txt 1
+data.zafy.txt 5.688648708166832
+data.zctp.txt 5.688648708166832
+data.zevt.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.bf.txt 1
-data.zabe.txt 1
-data.zasq.txt 3
-data.zeqv.txt 1
+data.bf.txt 3.389731710180695
+data.zabe.txt 3.389731710180695
+data.zasq.txt 6.77946342036139
+data.zeqv.txt 3.389731710180695

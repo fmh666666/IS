@@ -1,7 +1,7 @@
 6
-data.jj.txt 1
-data.to.txt 1
-data.zcic.txt 1
-data.zdll.txt 1
-data.zedo.txt 1
-data.zfas.txt 1
+data.jj.txt 3.1086847136800873
+data.to.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zfas.txt 3.1086847136800873

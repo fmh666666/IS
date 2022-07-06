@@ -1,7 +1,7 @@
 6
-data.pa.txt 1
-data.zbha.txt 3
-data.zctp.txt 19
-data.zcts.txt 14
-data.zdbf.txt 1
-data.zdnh.txt 1
+data.pa.txt 3.1086847136800873
+data.zbha.txt 6.2173694273601745
+data.zctp.txt 13.435511802200844
+data.zcts.txt 12.145291072588693
+data.zdbf.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zawb.txt 1
-data.zefw.txt 1
-data.zeyu.txt 1
-data.zfai.txt 1
+data.zalt.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zefw.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

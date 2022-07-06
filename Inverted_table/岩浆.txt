@@ -1,4 +1,4 @@
 3
-data.zazx.txt 1
-data.zcdg.txt 2
-data.zelt.txt 1
+data.zazx.txt 3.5891377275982888
+data.zcdg.txt 5.688648708166832
+data.zelt.txt 3.5891377275982888

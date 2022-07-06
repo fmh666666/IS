@@ -1,6 +1,6 @@
 5
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcql.txt 2
-data.zdwl.txt 1
-data.zfai.txt 1
+data.zcdy.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zcql.txt 5.1274494005309625
+data.zdwl.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

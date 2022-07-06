@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.jj.txt 2
-data.pa.txt 2
-data.pn.txt 1
-data.zahd.txt 1
-data.zard.txt 1
-data.zbia.txt 1
-data.zcmy.txt 2
-data.zcon.txt 1
-data.zcts.txt 2
-data.zedo.txt 1
+data.gw.txt 2.6885433903988862
+data.jj.txt 4.261240455343955
+data.pa.txt 4.261240455343955
+data.pn.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zard.txt 2.6885433903988862
+data.zbia.txt 2.6885433903988862
+data.zcmy.txt 4.261240455343955
+data.zcon.txt 2.6885433903988862
+data.zcts.txt 4.261240455343955
+data.zedo.txt 2.6885433903988862

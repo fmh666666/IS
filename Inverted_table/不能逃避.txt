@@ -1,10 +1,10 @@
 9
-data.mx.txt 1
-data.zaoy.txt 1
-data.zbem.txt 1
-data.zbjh.txt 1
-data.zczb.txt 1
-data.zdkp.txt 1
-data.zdud.txt 1
-data.zdyv.txt 1
-data.zeta.txt 1
+data.mx.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zbem.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zczb.txt 2.82763771717948
+data.zdkp.txt 2.82763771717948
+data.zdud.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zeta.txt 2.82763771717948

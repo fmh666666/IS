@@ -1,5 +1,5 @@
 4
-data.zaxx.txt 1
-data.zbfd.txt 1
-data.zbrj.txt 1
-data.zbsf.txt 1
+data.zaxx.txt 3.389731710180695
+data.zbfd.txt 3.389731710180695
+data.zbrj.txt 3.389731710180695
+data.zbsf.txt 3.389731710180695

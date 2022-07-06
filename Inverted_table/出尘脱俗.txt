@@ -1,4 +1,4 @@
 3
-data.zbaf.txt 1
-data.zdwl.txt 1
-data.zeyu.txt 1
+data.zbaf.txt 3.5891377275982888
+data.zdwl.txt 3.5891377275982888
+data.zeyu.txt 3.5891377275982888

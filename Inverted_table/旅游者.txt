@@ -1,6 +1,6 @@
 5
-data.zard.txt 1
-data.zbqu.txt 1
-data.zbrj.txt 2
-data.zene.txt 1
-data.zeqn.txt 1
+data.zard.txt 3.235060386727117
+data.zbqu.txt 3.235060386727117
+data.zbrj.txt 5.1274494005309625
+data.zene.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117

@@ -1,13 +1,13 @@
 12
-data.cq.txt 1
-data.pa.txt 1
-data.zawb.txt 1
-data.zbds.txt 1
-data.zbfz.txt 1
-data.zbts.txt 2
-data.zcqs.txt 1
-data.zcts.txt 1
-data.zdkk.txt 1
-data.zedo.txt 2
-data.zfaw.txt 1
-data.zfcj.txt 3
+data.cq.txt 2.628231699761886
+data.pa.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbts.txt 4.165648687329214
+data.zcqs.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zdkk.txt 2.628231699761886
+data.zedo.txt 4.165648687329214
+data.zfaw.txt 2.628231699761886
+data.zfcj.txt 5.256463399523772

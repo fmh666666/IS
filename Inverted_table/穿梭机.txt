@@ -1,4 +1,4 @@
 3
-data.co.txt 2
-data.zcgi.txt 2
-data.zdpz.txt 1
+data.co.txt 5.688648708166832
+data.zcgi.txt 5.688648708166832
+data.zdpz.txt 3.5891377275982888

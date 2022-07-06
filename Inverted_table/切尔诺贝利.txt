@@ -1,10 +1,10 @@
 9
-data.zapl.txt 1
-data.zbkv.txt 1
-data.zbsm.txt 1
-data.zcqp.txt 2
-data.zdcy.txt 1
-data.zdgt.txt 1
-data.zdil.txt 1
-data.zeeh.txt 1
-data.zenw.txt 1
+data.zapl.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zbsm.txt 2.82763771717948
+data.zcqp.txt 4.48169974735425
+data.zdcy.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zeeh.txt 2.82763771717948
+data.zenw.txt 2.82763771717948

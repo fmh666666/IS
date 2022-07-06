@@ -1,5 +1,5 @@
 4
-data.hz.txt 2
-data.op.txt 1
-data.zake.txt 1
-data.zcmy.txt 1
+data.hz.txt 5.372597648141796
+data.op.txt 3.389731710180695
+data.zake.txt 3.389731710180695
+data.zcmy.txt 3.389731710180695

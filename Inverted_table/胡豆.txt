@@ -1,5 +1,5 @@
 4
-data.uz.txt 1
-data.zaic.txt 1
-data.zeds.txt 1
-data.zess.txt 1
+data.uz.txt 3.389731710180695
+data.zaic.txt 3.389731710180695
+data.zeds.txt 3.389731710180695
+data.zess.txt 3.389731710180695

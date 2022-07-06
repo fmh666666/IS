@@ -1,4 +1,4 @@
 3
-data.zbfd.txt 2
-data.zcis.txt 1
-data.zctn.txt 1
+data.zbfd.txt 5.688648708166832
+data.zcis.txt 3.5891377275982888
+data.zctn.txt 3.5891377275982888

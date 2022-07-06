@@ -1,5 +1,5 @@
 4
-data.kt.txt 1
-data.xk.txt 1
-data.zazx.txt 1
-data.zdrq.txt 1
+data.kt.txt 3.389731710180695
+data.xk.txt 3.389731710180695
+data.zazx.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695

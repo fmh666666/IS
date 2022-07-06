@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.xk.txt 1
-data.zako.txt 1
-data.zbnp.txt 1
-data.zbzf.txt 1
+data.ha.txt 3.235060386727117
+data.xk.txt 3.235060386727117
+data.zako.txt 3.235060386727117
+data.zbnp.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117

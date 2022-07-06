@@ -1,10 +1,10 @@
 9
-data.zafk.txt 1
-data.zagb.txt 1
-data.zalt.txt 1
-data.zavg.txt 2
-data.zcjo.txt 1
-data.zczj.txt 1
-data.zdud.txt 1
-data.zedo.txt 1
-data.zeyy.txt 1
+data.zafk.txt 2.82763771717948
+data.zagb.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zavg.txt 4.48169974735425
+data.zcjo.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zdud.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zeyy.txt 2.82763771717948

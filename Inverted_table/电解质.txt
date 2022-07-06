@@ -1,14 +1,14 @@
 13
-data.vm.txt 1
-data.zabx.txt 1
-data.zapl.txt 1
-data.zbor.txt 1
-data.zbsf.txt 1
-data.zcih.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zdcj.txt 2
-data.zdkv.txt 1
-data.zdtr.txt 1
-data.zefw.txt 1
-data.zeik.txt 1
+data.vm.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zbsf.txt 2.5727503226135906
+data.zcih.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zcts.txt 2.5727503226135906
+data.zdcj.txt 4.077712785060798
+data.zdkv.txt 2.5727503226135906
+data.zdtr.txt 2.5727503226135906
+data.zefw.txt 2.5727503226135906
+data.zeik.txt 2.5727503226135906

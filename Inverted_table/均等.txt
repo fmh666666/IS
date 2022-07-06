@@ -1,7 +1,7 @@
 6
-data.zall.txt 1
-data.zcdy.txt 2
-data.zcue.txt 1
-data.zcvt.txt 1
-data.zdof.txt 1
-data.zeez.txt 1
+data.zall.txt 3.1086847136800873
+data.zcdy.txt 4.927148697748023
+data.zcue.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zarc.txt 1
-data.zaub.txt 1
-data.zawb.txt 1
-data.zclh.txt 17
-data.zcli.txt 1
-data.zduk.txt 3
-data.zeac.txt 1
+data.yx.txt 2.9092786962624935
+data.zarc.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zclh.txt 12.131473971708466
+data.zcli.txt 2.9092786962624935
+data.zduk.txt 5.818557392524987
+data.zeac.txt 2.9092786962624935

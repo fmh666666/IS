@@ -1,12 +1,12 @@
 11
-data.fe.txt 1
-data.zamp.txt 2
-data.zawc.txt 2
-data.zbrj.txt 1
-data.zbzg.txt 2
-data.zcej.txt 1
-data.zctn.txt 4
-data.zdqx.txt 8
-data.zdtr.txt 1
-data.zeeh.txt 1
-data.zene.txt 1
+data.fe.txt 2.6885433903988862
+data.zamp.txt 4.261240455343955
+data.zawc.txt 4.261240455343955
+data.zbrj.txt 2.6885433903988862
+data.zbzg.txt 4.261240455343955
+data.zcej.txt 2.6885433903988862
+data.zctn.txt 6.2426044324908965
+data.zdqx.txt 8.52248091068791
+data.zdtr.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862

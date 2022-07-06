@@ -1,7 +1,7 @@
 6
-data.zanh.txt 1
-data.zawb.txt 1
-data.zbsm.txt 1
-data.zcni.txt 2
-data.zcrk.txt 1
-data.zeec.txt 1
+data.zanh.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zcni.txt 4.927148697748023
+data.zcrk.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873

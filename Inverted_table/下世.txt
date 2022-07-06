@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.zaeh.txt 1
-data.zarc.txt 1
-data.zard.txt 1
-data.zblh.txt 1
-data.zcis.txt 1
-data.zcon.txt 1
-data.zcww.txt 1
-data.zeaf.txt 1
-data.zedx.txt 1
-data.zewd.txt 2
+data.hu.txt 2.6885433903988862
+data.zaeh.txt 2.6885433903988862
+data.zarc.txt 2.6885433903988862
+data.zard.txt 2.6885433903988862
+data.zblh.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcww.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862
+data.zewd.txt 4.261240455343955

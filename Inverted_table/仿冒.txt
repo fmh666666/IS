@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.gw.txt 2
-data.hz.txt 1
-data.zazn.txt 1
-data.zcej.txt 3
-data.zczl.txt 2
+data.ev.txt 3.1086847136800873
+data.gw.txt 4.927148697748023
+data.hz.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zcej.txt 6.2173694273601745
+data.zczl.txt 4.927148697748023

@@ -1,10 +1,10 @@
 9
-data.gz.txt 1
-data.ud.txt 1
-data.zbdb.txt 1
-data.zczl.txt 1
-data.zdcj.txt 1
-data.zeam.txt 1
-data.zelt.txt 2
-data.zene.txt 1
-data.zfcj.txt 1
+data.gz.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zelt.txt 4.48169974735425
+data.zene.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948

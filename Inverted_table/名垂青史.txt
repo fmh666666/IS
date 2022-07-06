@@ -1,5 +1,5 @@
 4
-data.zagr.txt 1
-data.zcee.txt 1
-data.zdst.txt 1
-data.zdtr.txt 1
+data.zagr.txt 3.389731710180695
+data.zcee.txt 3.389731710180695
+data.zdst.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695

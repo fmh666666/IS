@@ -1,4 +1,4 @@
 3
-data.zadv.txt 2
-data.zcda.txt 1
-data.zczp.txt 1
+data.zadv.txt 5.688648708166832
+data.zcda.txt 3.5891377275982888
+data.zczp.txt 3.5891377275982888

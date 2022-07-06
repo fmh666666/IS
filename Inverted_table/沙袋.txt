@@ -1,11 +1,11 @@
 10
-data.zapf.txt 1
-data.zblh.txt 1
-data.zbsf.txt 3
-data.zccl.txt 1
-data.zcrv.txt 1
-data.zcwn.txt 1
-data.zdds.txt 1
-data.zdep.txt 1
-data.zdeq.txt 1
-data.zedx.txt 1
+data.zapf.txt 2.7546073728089153
+data.zblh.txt 2.7546073728089153
+data.zbsf.txt 5.509214745617831
+data.zccl.txt 2.7546073728089153
+data.zcrv.txt 2.7546073728089153
+data.zcwn.txt 2.7546073728089153
+data.zdds.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153
+data.zdeq.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153

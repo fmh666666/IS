@@ -1,11 +1,11 @@
 10
-data.fz.txt 1
-data.mk.txt 1
-data.mt.txt 1
-data.zajh.txt 2
-data.zbkv.txt 1
-data.zcon.txt 1
-data.zcxp.txt 1
-data.zdcw.txt 1
-data.zeay.txt 2
-data.zexm.txt 1
+data.fz.txt 2.7546073728089153
+data.mk.txt 2.7546073728089153
+data.mt.txt 2.7546073728089153
+data.zajh.txt 4.365949390112154
+data.zbkv.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zcxp.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zeay.txt 4.365949390112154
+data.zexm.txt 2.7546073728089153

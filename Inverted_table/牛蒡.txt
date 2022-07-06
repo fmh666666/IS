@@ -1,8 +1,8 @@
 7
-data.zadv.txt 1
-data.zbaf.txt 1
-data.zbcc.txt 1
-data.zbsd.txt 1
-data.zbzo.txt 1
-data.zcej.txt 4
-data.zckd.txt 1
+data.zadv.txt 3.0018356045764243
+data.zbaf.txt 3.0018356045764243
+data.zbcc.txt 3.0018356045764243
+data.zbsd.txt 3.0018356045764243
+data.zbzo.txt 3.0018356045764243
+data.zcej.txt 6.970046426499191
+data.zckd.txt 3.0018356045764243

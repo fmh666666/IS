@@ -1,13 +1,13 @@
 12
-data.be.txt 1
-data.ok.txt 1
-data.zafi.txt 2
-data.zaoy.txt 1
-data.zaqf.txt 1
-data.zaxj.txt 1
-data.zazn.txt 1
-data.zbor.txt 1
-data.zcpx.txt 1
-data.zcvq.txt 1
-data.zefu.txt 1
-data.zemf.txt 1
+data.be.txt 2.628231699761886
+data.ok.txt 2.628231699761886
+data.zafi.txt 4.165648687329214
+data.zaoy.txt 2.628231699761886
+data.zaqf.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zcpx.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zemf.txt 2.628231699761886

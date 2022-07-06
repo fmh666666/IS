@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.ka.txt 1
-data.zahp.txt 1
-data.zasq.txt 4
-data.zbfz.txt 1
-data.zbsm.txt 1
-data.zdby.txt 2
-data.zejn.txt 4
-data.zerv.txt 1
-data.zerw.txt 3
+data.bs.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.zahp.txt 2.7546073728089153
+data.zasq.txt 6.396000249308887
+data.zbfz.txt 2.7546073728089153
+data.zbsm.txt 2.7546073728089153
+data.zdby.txt 4.365949390112154
+data.zejn.txt 6.396000249308887
+data.zerv.txt 2.7546073728089153
+data.zerw.txt 5.509214745617831

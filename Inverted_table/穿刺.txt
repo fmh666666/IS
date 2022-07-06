@@ -1,9 +1,9 @@
 8
-data.zawu.txt 2
-data.zbeb.txt 1
-data.zccu.txt 1
-data.zcql.txt 2
-data.zcts.txt 1
-data.zdsh.txt 3
-data.zeam.txt 2
-data.zfas.txt 1
+data.zawu.txt 4.611097637722987
+data.zbeb.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcql.txt 4.611097637722987
+data.zcts.txt 2.9092786962624935
+data.zdsh.txt 5.818557392524987
+data.zeam.txt 4.611097637722987
+data.zfas.txt 2.9092786962624935

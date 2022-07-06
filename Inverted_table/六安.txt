@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.zafi.txt 1
-data.zako.txt 1
-data.zbfz.txt 1
-data.zcjd.txt 1
-data.zctm.txt 1
-data.zcue.txt 1
-data.zdfl.txt 2
-data.zdux.txt 3
-data.zdzm.txt 6
-data.zeaf.txt 2
-data.zegz.txt 15
-data.zexk.txt 4
+data.ga.txt 2.5727503226135906
+data.zafi.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zbfz.txt 2.5727503226135906
+data.zcjd.txt 2.5727503226135906
+data.zctm.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zdfl.txt 4.077712785060798
+data.zdux.txt 5.145500645227181
+data.zdzm.txt 7.222623281414552
+data.zeaf.txt 4.077712785060798
+data.zegz.txt 10.291001290454362
+data.zexk.txt 5.97374125520702

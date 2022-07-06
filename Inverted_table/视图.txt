@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.jj.txt 1
-data.zaqw.txt 1
-data.zbkj.txt 1
-data.zbkv.txt 1
-data.zdeb.txt 1
-data.zdkc.txt 1
-data.zdzg.txt 1
-data.zexk.txt 1
-data.zfaj.txt 1
+data.bs.txt 2.7546073728089153
+data.jj.txt 2.7546073728089153
+data.zaqw.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zdkc.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zexk.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

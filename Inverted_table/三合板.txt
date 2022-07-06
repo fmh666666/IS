@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.zabe.txt 1
-data.zcih.txt 1
+data.bs.txt 3.5891377275982888
+data.zabe.txt 3.5891377275982888
+data.zcih.txt 3.5891377275982888

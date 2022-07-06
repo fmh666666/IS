@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zalm.txt 1
-data.zcmx.txt 1
-data.zcmy.txt 1
-data.zcue.txt 2
-data.zddb.txt 4
-data.zdyv.txt 1
-data.zevq.txt 1
+data.bs.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcue.txt 4.611097637722987
+data.zddb.txt 6.7551359407091605
+data.zdyv.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

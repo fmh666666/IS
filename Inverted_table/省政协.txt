@@ -1,6 +1,6 @@
 5
-data.zawc.txt 2
-data.zbaq.txt 2
-data.zelt.txt 1
-data.zeqv.txt 1
-data.zfai.txt 1
+data.zawc.txt 5.1274494005309625
+data.zbaq.txt 5.1274494005309625
+data.zelt.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

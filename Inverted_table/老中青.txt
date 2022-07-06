@@ -1,7 +1,7 @@
 6
-data.zaip.txt 1
-data.zall.txt 1
-data.zbvn.txt 1
-data.zdsh.txt 1
-data.zdwl.txt 1
-data.zegl.txt 1
+data.zaip.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zbvn.txt 3.1086847136800873
+data.zdsh.txt 3.1086847136800873
+data.zdwl.txt 3.1086847136800873
+data.zegl.txt 3.1086847136800873

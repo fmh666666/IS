@@ -1,6 +1,6 @@
 5
-data.zalt.txt 2
-data.zate.txt 1
-data.zaxj.txt 3
-data.zcjo.txt 2
-data.zdll.txt 1
+data.zalt.txt 5.1274494005309625
+data.zate.txt 3.235060386727117
+data.zaxj.txt 6.470120773454234
+data.zcjo.txt 5.1274494005309625
+data.zdll.txt 3.235060386727117

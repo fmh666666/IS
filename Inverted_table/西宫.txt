@@ -1,10 +1,10 @@
 9
-data.ha.txt 1
-data.ok.txt 1
-data.zbdb.txt 4
-data.zccl.txt 1
-data.zczl.txt 1
-data.zdod.txt 1
-data.zdpg.txt 1
-data.zeez.txt 1
-data.zess.txt 1
+data.ha.txt 2.82763771717948
+data.ok.txt 2.82763771717948
+data.zbdb.txt 6.565571457682201
+data.zccl.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zdpg.txt 2.82763771717948
+data.zeez.txt 2.82763771717948
+data.zess.txt 2.82763771717948

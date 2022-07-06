@@ -1,14 +1,14 @@
 13
-data.mi.txt 1
-data.ok.txt 1
-data.uz.txt 1
-data.zacw.txt 1
-data.zafq.txt 1
-data.zbmt.txt 1
-data.zbux.txt 1
-data.zbvg.txt 1
-data.zduk.txt 1
-data.zeds.txt 1
-data.zeeq.txt 1
-data.zesi.txt 1
-data.zexv.txt 1
+data.mi.txt 2.5727503226135906
+data.ok.txt 2.5727503226135906
+data.uz.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zafq.txt 2.5727503226135906
+data.zbmt.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zbvg.txt 2.5727503226135906
+data.zduk.txt 2.5727503226135906
+data.zeds.txt 2.5727503226135906
+data.zeeq.txt 2.5727503226135906
+data.zesi.txt 2.5727503226135906
+data.zexv.txt 2.5727503226135906

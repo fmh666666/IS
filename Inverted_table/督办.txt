@@ -1,5 +1,5 @@
 4
-data.zbnx.txt 2
-data.zcft.txt 1
-data.zddl.txt 2
-data.zedo.txt 1
+data.zbnx.txt 5.372597648141796
+data.zcft.txt 3.389731710180695
+data.zddl.txt 5.372597648141796
+data.zedo.txt 3.389731710180695

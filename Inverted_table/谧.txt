@@ -1,13 +1,13 @@
 12
-data.qn.txt 1
-data.zahd.txt 23
-data.zazo.txt 1
-data.zbkr.txt 1
-data.zbsu.txt 1
-data.zbvn.txt 1
-data.zcak.txt 1
-data.zcmy.txt 1
-data.zdey.txt 1
-data.zdro.txt 1
-data.zeeh.txt 1
-data.zegn.txt 1
+data.qn.txt 2.628231699761886
+data.zahd.txt 12.050343786614873
+data.zazo.txt 2.628231699761886
+data.zbkr.txt 2.628231699761886
+data.zbsu.txt 2.628231699761886
+data.zbvn.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zdey.txt 2.628231699761886
+data.zdro.txt 2.628231699761886
+data.zeeh.txt 2.628231699761886
+data.zegn.txt 2.628231699761886

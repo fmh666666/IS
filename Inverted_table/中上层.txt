@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zarr.txt 1
-data.zedk.txt 1
+data.fp.txt 3.5891377275982888
+data.zarr.txt 3.5891377275982888
+data.zedk.txt 3.5891377275982888

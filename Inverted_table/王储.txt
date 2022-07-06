@@ -1,7 +1,7 @@
 6
-data.zafv.txt 1
-data.zawc.txt 1
-data.zazn.txt 1
-data.zcli.txt 3
-data.zdle.txt 1
-data.zesi.txt 2
+data.zafv.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zcli.txt 6.2173694273601745
+data.zdle.txt 3.1086847136800873
+data.zesi.txt 4.927148697748023

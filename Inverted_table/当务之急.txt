@@ -1,9 +1,9 @@
 8
-data.ud.txt 1
-data.zabe.txt 1
-data.zblq.txt 1
-data.zbye.txt 1
-data.zcdz.txt 1
-data.zcee.txt 1
-data.zciq.txt 1
-data.zcmy.txt 1
+data.ud.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbye.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935

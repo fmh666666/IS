@@ -1,7 +1,7 @@
 6
-data.zafi.txt 1
-data.zalc.txt 1
-data.zbia.txt 1
-data.zcee.txt 1
-data.zcko.txt 1
-data.zdib.txt 1
+data.zafi.txt 3.1086847136800873
+data.zalc.txt 3.1086847136800873
+data.zbia.txt 3.1086847136800873
+data.zcee.txt 3.1086847136800873
+data.zcko.txt 3.1086847136800873
+data.zdib.txt 3.1086847136800873

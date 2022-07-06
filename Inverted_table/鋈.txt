@@ -1,4 +1,4 @@
 3
-data.zazw.txt 7
-data.zazx.txt 8
-data.zcfn.txt 1
+data.zazw.txt 10.767413182794865
+data.zazx.txt 11.377297416333665
+data.zcfn.txt 3.5891377275982888

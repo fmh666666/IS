@@ -1,13 +1,13 @@
 12
-data.by.txt 1
-data.vm.txt 1
-data.zalc.txt 4
-data.zaql.txt 1
-data.zasy.txt 1
-data.zbgd.txt 7
-data.zdey.txt 1
-data.zdwd.txt 1
-data.zdzg.txt 1
-data.zeay.txt 1
-data.zerv.txt 1
-data.zesi.txt 1
+data.by.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.zalc.txt 6.1025650235506905
+data.zaql.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zbgd.txt 7.884695099285658
+data.zdey.txt 2.628231699761886
+data.zdwd.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zeay.txt 2.628231699761886
+data.zerv.txt 2.628231699761886
+data.zesi.txt 2.628231699761886

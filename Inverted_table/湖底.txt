@@ -1,7 +1,7 @@
 6
-data.zank.txt 1
-data.zasj.txt 2
-data.zcdg.txt 1
-data.zdep.txt 1
-data.zdgp.txt 1
-data.zduo.txt 1
+data.zank.txt 3.1086847136800873
+data.zasj.txt 4.927148697748023
+data.zcdg.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873

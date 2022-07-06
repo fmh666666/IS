@@ -1,12 +1,12 @@
 11
-data.mo.txt 1
-data.nh.txt 1
-data.zayc.txt 1
-data.zbcc.txt 1
-data.zbhe.txt 1
-data.zbjh.txt 1
-data.zbtx.txt 1
-data.zcql.txt 1
-data.zcts.txt 1
-data.zdxw.txt 1
-data.zfby.txt 1
+data.mo.txt 2.6885433903988862
+data.nh.txt 2.6885433903988862
+data.zayc.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbhe.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zbtx.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862
+data.zfby.txt 2.6885433903988862

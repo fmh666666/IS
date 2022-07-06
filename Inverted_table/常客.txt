@@ -1,14 +1,14 @@
 13
-data.ka.txt 1
-data.ry.txt 1
-data.zaxk.txt 1
-data.zbil.txt 1
-data.zbkr.txt 1
-data.zbla.txt 1
-data.zbsu.txt 1
-data.zcmx.txt 1
-data.zdzm.txt 1
-data.zeam.txt 1
-data.zefs.txt 1
-data.zelt.txt 1
-data.zezf.txt 1
+data.ka.txt 2.5727503226135906
+data.ry.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zbil.txt 2.5727503226135906
+data.zbkr.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zcmx.txt 2.5727503226135906
+data.zdzm.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zefs.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zezf.txt 2.5727503226135906

@@ -1,8 +1,8 @@
 7
-data.uz.txt 2
-data.zaxk.txt 1
-data.zbcc.txt 1
-data.zbrd.txt 2
-data.zbre.txt 4
-data.zeai.txt 1
-data.zexm.txt 1
+data.uz.txt 4.757796866583254
+data.zaxk.txt 3.0018356045764243
+data.zbcc.txt 3.0018356045764243
+data.zbrd.txt 4.757796866583254
+data.zbre.txt 6.970046426499191
+data.zeai.txt 3.0018356045764243
+data.zexm.txt 3.0018356045764243

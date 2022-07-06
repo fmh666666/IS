@@ -1,8 +1,8 @@
 7
-data.pn.txt 2
-data.zbdx.txt 1
-data.zbvg.txt 1
-data.zbzf.txt 3
-data.zcpx.txt 1
-data.zcxq.txt 2
-data.zczb.txt 1
+data.pn.txt 4.757796866583254
+data.zbdx.txt 3.0018356045764243
+data.zbvg.txt 3.0018356045764243
+data.zbzf.txt 6.003671209152849
+data.zcpx.txt 3.0018356045764243
+data.zcxq.txt 4.757796866583254
+data.zczb.txt 3.0018356045764243

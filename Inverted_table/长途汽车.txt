@@ -1,7 +1,7 @@
 6
-data.mk.txt 1
-data.zclm.txt 1
-data.zcts.txt 4
-data.zdoc.txt 1
-data.zefw.txt 1
-data.zeos.txt 1
+data.mk.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zcts.txt 7.21814237484067
+data.zdoc.txt 3.1086847136800873
+data.zefw.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873

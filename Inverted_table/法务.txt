@@ -1,7 +1,7 @@
 6
-data.kq.txt 2
-data.ok.txt 1
-data.zarr.txt 1
-data.zcef.txt 1
-data.zcpa.txt 1
-data.zeoh.txt 1
+data.kq.txt 4.927148697748023
+data.ok.txt 3.1086847136800873
+data.zarr.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zcpa.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

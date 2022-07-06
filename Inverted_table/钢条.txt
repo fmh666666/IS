@@ -1,4 +1,4 @@
 3
-data.kt.txt 1
-data.zbha.txt 3
-data.zebv.txt 3
+data.kt.txt 3.5891377275982888
+data.zbha.txt 7.1782754551965775
+data.zebv.txt 7.1782754551965775

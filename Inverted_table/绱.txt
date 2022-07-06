@@ -1,6 +1,6 @@
 5
-data.jf.txt 2
-data.ud.txt 1
-data.zadv.txt 1
-data.zcrk.txt 1
-data.zewp.txt 1
+data.jf.txt 5.1274494005309625
+data.ud.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zcrk.txt 3.235060386727117
+data.zewp.txt 3.235060386727117

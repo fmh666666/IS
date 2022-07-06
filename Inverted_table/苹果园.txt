@@ -1,11 +1,11 @@
 10
-data.zadv.txt 1
-data.zafk.txt 1
-data.zafu.txt 1
-data.zaic.txt 4
-data.zbil.txt 30
-data.zbot.txt 2
-data.zbru.txt 18
-data.zcql.txt 1
-data.zdqz.txt 1
-data.zefp.txt 1
+data.zadv.txt 2.7546073728089153
+data.zafk.txt 2.7546073728089153
+data.zafu.txt 2.7546073728089153
+data.zaic.txt 6.396000249308887
+data.zbil.txt 13.646865682934413
+data.zbot.txt 4.365949390112154
+data.zbru.txt 11.701372447689543
+data.zcql.txt 2.7546073728089153
+data.zdqz.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153

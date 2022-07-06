@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.mu.txt 1
-data.zadv.txt 1
-data.zbfz.txt 1
-data.zczj.txt 1
-data.zdou.txt 1
-data.zdpw.txt 1
-data.zene.txt 1
-data.zesq.txt 1
+data.fp.txt 2.82763771717948
+data.mu.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zesq.txt 2.82763771717948

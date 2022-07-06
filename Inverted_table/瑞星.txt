@@ -1,9 +1,9 @@
 8
-data.vz.txt 5
-data.zbgu.txt 2
-data.zbmt.txt 4
-data.zcdy.txt 1
-data.zcll.txt 5
-data.zcmy.txt 1
-data.zdpf.txt 1
-data.zelt.txt 1
+data.vz.txt 7.52037633398548
+data.zbgu.txt 4.611097637722987
+data.zbmt.txt 6.7551359407091605
+data.zcdy.txt 2.9092786962624935
+data.zcll.txt 7.52037633398548
+data.zcmy.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

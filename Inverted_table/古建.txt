@@ -1,6 +1,6 @@
 5
-data.ee.txt 1
-data.zcsu.txt 1
-data.zdnh.txt 1
-data.zevl.txt 1
-data.zexk.txt 1
+data.ee.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zdnh.txt 3.235060386727117
+data.zevl.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

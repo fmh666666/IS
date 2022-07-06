@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zdgp.txt 1
-data.zdll.txt 1
-data.zdzn.txt 1
-data.zexu.txt 1
-data.zfai.txt 1
+data.bb.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873
+data.zexu.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

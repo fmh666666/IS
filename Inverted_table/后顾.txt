@@ -1,4 +1,4 @@
 3
-data.zafv.txt 1
-data.zcku.txt 1
-data.zesq.txt 1
+data.zafv.txt 3.5891377275982888
+data.zcku.txt 3.5891377275982888
+data.zesq.txt 3.5891377275982888

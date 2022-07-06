@@ -1,4 +1,4 @@
 3
-data.zabe.txt 3
-data.zbyb.txt 1
-data.zerv.txt 1
+data.zabe.txt 7.1782754551965775
+data.zbyb.txt 3.5891377275982888
+data.zerv.txt 3.5891377275982888

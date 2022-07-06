@@ -1,8 +1,8 @@
 7
-data.ga.txt 1
-data.zafy.txt 1
-data.zaim.txt 1
-data.zcao.txt 1
-data.zckd.txt 1
-data.zcue.txt 1
-data.zety.txt 1
+data.ga.txt 3.0018356045764243
+data.zafy.txt 3.0018356045764243
+data.zaim.txt 3.0018356045764243
+data.zcao.txt 3.0018356045764243
+data.zckd.txt 3.0018356045764243
+data.zcue.txt 3.0018356045764243
+data.zety.txt 3.0018356045764243

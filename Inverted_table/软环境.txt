@@ -1,13 +1,13 @@
 12
-data.cq.txt 1
-data.qn.txt 1
-data.zbmw.txt 1
-data.zbpx.txt 1
-data.zcdl.txt 1
-data.zciq.txt 1
-data.zcqe.txt 1
-data.zcwn.txt 1
-data.zddb.txt 1
-data.zdnh.txt 1
-data.zeai.txt 1
-data.zfaz.txt 1
+data.cq.txt 2.628231699761886
+data.qn.txt 2.628231699761886
+data.zbmw.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zcdl.txt 2.628231699761886
+data.zciq.txt 2.628231699761886
+data.zcqe.txt 2.628231699761886
+data.zcwn.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdnh.txt 2.628231699761886
+data.zeai.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

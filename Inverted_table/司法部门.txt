@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zasq.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zbpx.txt 1
-data.zccu.txt 1
+data.zabe.txt 3.1086847136800873
+data.zasq.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zccu.txt 3.1086847136800873

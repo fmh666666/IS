@@ -1,9 +1,9 @@
 8
-data.vm.txt 1
-data.zadv.txt 1
-data.zaxj.txt 1
-data.zblh.txt 1
-data.zcrv.txt 1
-data.zcue.txt 1
-data.zdou.txt 2
-data.zfae.txt 1
+data.vm.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zblh.txt 2.9092786962624935
+data.zcrv.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdou.txt 4.611097637722987
+data.zfae.txt 2.9092786962624935

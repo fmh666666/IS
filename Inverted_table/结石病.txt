@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.zbcj.txt 1
-data.zbtx.txt 1
-data.zchd.txt 1
-data.zehj.txt 1
-data.zezf.txt 1
+data.cf.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zbtx.txt 3.1086847136800873
+data.zchd.txt 3.1086847136800873
+data.zehj.txt 3.1086847136800873
+data.zezf.txt 3.1086847136800873

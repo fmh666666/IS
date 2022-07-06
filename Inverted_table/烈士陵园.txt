@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.zajo.txt 2
-data.zawb.txt 1
-data.zbfx.txt 1
-data.zbfz.txt 1
-data.zcnn.txt 1
-data.zdgt.txt 1
-data.zefv.txt 1
-data.zejn.txt 1
-data.zewg.txt 1
+data.fp.txt 2.7546073728089153
+data.zajo.txt 4.365949390112154
+data.zawb.txt 2.7546073728089153
+data.zbfx.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zcnn.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153
+data.zejn.txt 2.7546073728089153
+data.zewg.txt 2.7546073728089153

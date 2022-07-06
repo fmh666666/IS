@@ -1,5 +1,5 @@
 4
-data.zcgo.txt 1
-data.zdep.txt 1
-data.zdhw.txt 1
-data.zdwv.txt 2
+data.zcgo.txt 3.389731710180695
+data.zdep.txt 3.389731710180695
+data.zdhw.txt 3.389731710180695
+data.zdwv.txt 5.372597648141796

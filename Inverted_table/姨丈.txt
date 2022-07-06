@@ -1,7 +1,7 @@
 6
-data.aj.txt 2
-data.hc.txt 2
-data.zanh.txt 2
-data.zbcv.txt 1
-data.zbdx.txt 22
-data.zdgp.txt 1
+data.aj.txt 4.927148697748023
+data.hc.txt 4.927148697748023
+data.zanh.txt 4.927148697748023
+data.zbcv.txt 3.1086847136800873
+data.zbdx.txt 14.06232790417923
+data.zdgp.txt 3.1086847136800873

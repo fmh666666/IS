@@ -1,9 +1,9 @@
 8
-data.zawb.txt 3
-data.zblq.txt 1
-data.zbqu.txt 1
-data.zcjd.txt 2
-data.zcse.txt 4
-data.zddp.txt 2
-data.zdqx.txt 2
-data.zeay.txt 4
+data.zawb.txt 5.818557392524987
+data.zblq.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zcjd.txt 4.611097637722987
+data.zcse.txt 6.7551359407091605
+data.zddp.txt 4.611097637722987
+data.zdqx.txt 4.611097637722987
+data.zeay.txt 6.7551359407091605

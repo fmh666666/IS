@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zbsm.txt 1
-data.zdhv.txt 2
+data.fp.txt 3.5891377275982888
+data.zbsm.txt 3.5891377275982888
+data.zdhv.txt 5.688648708166832

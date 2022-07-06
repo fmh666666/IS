@@ -1,4 +1,4 @@
 3
-data.pq.txt 1
-data.zedy.txt 1
-data.zefp.txt 1
+data.pq.txt 3.5891377275982888
+data.zedy.txt 3.5891377275982888
+data.zefp.txt 3.5891377275982888

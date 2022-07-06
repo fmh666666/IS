@@ -1,2 +1,2 @@
 1
-data.zcfx.txt 4
+data.zcfx.txt 10.101867994579104

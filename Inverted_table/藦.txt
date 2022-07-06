@@ -1,4 +1,4 @@
 3
-data.zalc.txt 2
-data.zcoy.txt 2
-data.zcpa.txt 3
+data.zalc.txt 5.688648708166832
+data.zcoy.txt 5.688648708166832
+data.zcpa.txt 7.1782754551965775

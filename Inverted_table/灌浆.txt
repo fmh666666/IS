@@ -1,2 +1,2 @@
 1
-data.zdoc.txt 2
+data.zdoc.txt 6.8955976689794145

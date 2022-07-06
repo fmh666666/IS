@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.cq.txt 1
-data.zdep.txt 1
-data.zdof.txt 2
-data.zdqk.txt 1
-data.zeaj.txt 1
+data.bs.txt 3.1086847136800873
+data.cq.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873
+data.zdof.txt 4.927148697748023
+data.zdqk.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873

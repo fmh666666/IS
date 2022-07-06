@@ -1,10 +1,10 @@
 9
-data.ep.txt 1
-data.tz.txt 1
-data.ud.txt 1
-data.zako.txt 1
-data.zbkj.txt 1
-data.zbkv.txt 1
-data.zcgo.txt 1
-data.zcue.txt 1
-data.zddl.txt 1
+data.ep.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zddl.txt 2.82763771717948

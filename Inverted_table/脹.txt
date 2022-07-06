@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.mu.txt 2
-data.zbdb.txt 1
-data.zbmt.txt 1
-data.zbsf.txt 2
+data.mo.txt 3.235060386727117
+data.mu.txt 5.1274494005309625
+data.zbdb.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zbsf.txt 5.1274494005309625

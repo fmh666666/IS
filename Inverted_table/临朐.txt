@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zefv.txt 1
-data.zess.txt 1
+data.hz.txt 3.5891377275982888
+data.zefv.txt 3.5891377275982888
+data.zess.txt 3.5891377275982888

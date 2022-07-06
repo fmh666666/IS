@@ -1,5 +1,5 @@
 4
-data.ff.txt 1
-data.zagr.txt 1
-data.zane.txt 1
-data.zeag.txt 1
+data.ff.txt 3.389731710180695
+data.zagr.txt 3.389731710180695
+data.zane.txt 3.389731710180695
+data.zeag.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.zasw.txt 1
-data.zclm.txt 2
-data.zcpc.txt 1
-data.zcxp.txt 1
-data.zdaq.txt 1
-data.zedo.txt 1
+data.zasw.txt 3.1086847136800873
+data.zclm.txt 4.927148697748023
+data.zcpc.txt 3.1086847136800873
+data.zcxp.txt 3.1086847136800873
+data.zdaq.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

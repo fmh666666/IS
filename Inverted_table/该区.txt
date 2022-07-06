@@ -1,14 +1,14 @@
 13
-data.hz.txt 1
-data.op.txt 1
-data.pa.txt 1
-data.tv.txt 1
-data.zaim.txt 1
-data.zaqp.txt 1
-data.zawc.txt 1
-data.zbts.txt 1
-data.zclm.txt 1
-data.zcse.txt 2
-data.zdwz.txt 1
-data.zexv.txt 1
-data.zfai.txt 6
+data.hz.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zaqp.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zbts.txt 2.5727503226135906
+data.zclm.txt 2.5727503226135906
+data.zcse.txt 4.077712785060798
+data.zdwz.txt 2.5727503226135906
+data.zexv.txt 2.5727503226135906
+data.zfai.txt 7.222623281414552

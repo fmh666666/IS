@@ -1,4 +1,4 @@
 3
-data.ek.txt 1
-data.zawu.txt 1
-data.zbes.txt 1
+data.ek.txt 3.5891377275982888
+data.zawu.txt 3.5891377275982888
+data.zbes.txt 3.5891377275982888

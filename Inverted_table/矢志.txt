@@ -1,6 +1,6 @@
 5
-data.zcdv.txt 1
-data.zctn.txt 2
-data.zdwl.txt 1
-data.zevl.txt 2
-data.zewv.txt 2
+data.zcdv.txt 3.235060386727117
+data.zctn.txt 5.1274494005309625
+data.zdwl.txt 3.235060386727117
+data.zevl.txt 5.1274494005309625
+data.zewv.txt 5.1274494005309625

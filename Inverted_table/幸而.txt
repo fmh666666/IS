@@ -1,7 +1,7 @@
 6
-data.zbla.txt 1
-data.zcdg.txt 1
-data.zcdy.txt 2
-data.zctp.txt 1
-data.zczp.txt 1
-data.zfcp.txt 1
+data.zbla.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcdy.txt 4.927148697748023
+data.zctp.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zfcp.txt 3.1086847136800873

@@ -1,11 +1,11 @@
 10
-data.ry.txt 1
-data.tz.txt 1
-data.zasr.txt 1
-data.zbjq.txt 1
-data.zbvg.txt 1
-data.zedo.txt 1
-data.zeec.txt 1
-data.zemb.txt 1
-data.zenw.txt 1
-data.zewn.txt 1
+data.ry.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zasr.txt 2.7546073728089153
+data.zbjq.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153
+data.zemb.txt 2.7546073728089153
+data.zenw.txt 2.7546073728089153
+data.zewn.txt 2.7546073728089153

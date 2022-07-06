@@ -1,12 +1,12 @@
 11
-data.pn.txt 1
-data.zarr.txt 1
-data.zawc.txt 1
-data.zbdx.txt 1
-data.zcft.txt 1
-data.zcjo.txt 1
-data.zclh.txt 1
-data.zcmn.txt 1
-data.zcwn.txt 2
-data.zdrq.txt 1
-data.zeoo.txt 1
+data.pn.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zcft.txt 2.6885433903988862
+data.zcjo.txt 2.6885433903988862
+data.zclh.txt 2.6885433903988862
+data.zcmn.txt 2.6885433903988862
+data.zcwn.txt 4.261240455343955
+data.zdrq.txt 2.6885433903988862
+data.zeoo.txt 2.6885433903988862

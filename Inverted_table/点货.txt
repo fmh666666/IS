@@ -1,6 +1,6 @@
 5
-data.uz.txt 2
-data.zacw.txt 1
-data.zbgw.txt 1
-data.zbua.txt 2
-data.zcjy.txt 1
+data.uz.txt 5.1274494005309625
+data.zacw.txt 3.235060386727117
+data.zbgw.txt 3.235060386727117
+data.zbua.txt 5.1274494005309625
+data.zcjy.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.zbrj.txt 1
-data.zbtj.txt 1
-data.zdeb.txt 1
-data.zefs.txt 1
-data.zeun.txt 2
+data.be.txt 3.1086847136800873
+data.zbrj.txt 3.1086847136800873
+data.zbtj.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zefs.txt 3.1086847136800873
+data.zeun.txt 4.927148697748023

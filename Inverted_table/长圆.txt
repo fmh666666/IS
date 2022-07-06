@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zard.txt 1
-data.zbzf.txt 1
-data.zcis.txt 1
-data.zdaa.txt 1
-data.zemf.txt 1
+data.op.txt 3.1086847136800873
+data.zard.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zdaa.txt 3.1086847136800873
+data.zemf.txt 3.1086847136800873

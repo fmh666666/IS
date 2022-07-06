@@ -1,9 +1,9 @@
 8
-data.ep.txt 2
-data.hz.txt 1
-data.tj.txt 1
-data.vm.txt 1
-data.zako.txt 1
-data.zalm.txt 2
-data.zcak.txt 1
-data.zcko.txt 1
+data.ep.txt 4.611097637722987
+data.hz.txt 2.9092786962624935
+data.tj.txt 2.9092786962624935
+data.vm.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zalm.txt 4.611097637722987
+data.zcak.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935

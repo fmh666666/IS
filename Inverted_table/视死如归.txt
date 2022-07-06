@@ -1,11 +1,11 @@
 10
-data.jj.txt 1
-data.ng.txt 1
-data.ok.txt 1
-data.zbdx.txt 1
-data.zbia.txt 1
-data.zblr.txt 1
-data.zccx.txt 1
-data.zcpx.txt 1
-data.zcqp.txt 1
-data.zdlo.txt 1
+data.jj.txt 2.7546073728089153
+data.ng.txt 2.7546073728089153
+data.ok.txt 2.7546073728089153
+data.zbdx.txt 2.7546073728089153
+data.zbia.txt 2.7546073728089153
+data.zblr.txt 2.7546073728089153
+data.zccx.txt 2.7546073728089153
+data.zcpx.txt 2.7546073728089153
+data.zcqp.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153

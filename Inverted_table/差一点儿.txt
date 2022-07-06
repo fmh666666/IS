@@ -1,4 +1,4 @@
 3
-data.ep.txt 1
-data.zasj.txt 1
-data.zcrv.txt 1
+data.ep.txt 3.5891377275982888
+data.zasj.txt 3.5891377275982888
+data.zcrv.txt 3.5891377275982888

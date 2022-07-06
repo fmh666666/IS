@@ -1,8 +1,8 @@
 7
-data.fz.txt 1
-data.qb.txt 1
-data.zabe.txt 1
-data.zaxp.txt 1
-data.zciy.txt 1
-data.zesq.txt 1
-data.zexu.txt 1
+data.fz.txt 3.0018356045764243
+data.qb.txt 3.0018356045764243
+data.zabe.txt 3.0018356045764243
+data.zaxp.txt 3.0018356045764243
+data.zciy.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243
+data.zexu.txt 3.0018356045764243

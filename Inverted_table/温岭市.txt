@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zabe.txt 1
-data.zahd.txt 1
-data.zaoo.txt 2
-data.zciq.txt 1
-data.zcis.txt 1
-data.zcni.txt 1
-data.zcrv.txt 1
-data.zeyu.txt 1
+data.op.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zaoo.txt 4.48169974735425
+data.zciq.txt 2.82763771717948
+data.zcis.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zcrv.txt 2.82763771717948
+data.zeyu.txt 2.82763771717948

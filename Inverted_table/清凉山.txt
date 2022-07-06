@@ -1,2 +1,2 @@
 1
-data.zcao.txt 2
+data.zcao.txt 6.8955976689794145

@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.cq.txt 1
-data.ye.txt 1
-data.zaqp.txt 1
-data.zass.txt 1
-data.zasy.txt 1
-data.zbvn.txt 1
-data.zcak.txt 1
-data.zdmw.txt 2
-data.zexk.txt 1
+data.aj.txt 2.7546073728089153
+data.cq.txt 2.7546073728089153
+data.ye.txt 2.7546073728089153
+data.zaqp.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zbvn.txt 2.7546073728089153
+data.zcak.txt 2.7546073728089153
+data.zdmw.txt 4.365949390112154
+data.zexk.txt 2.7546073728089153

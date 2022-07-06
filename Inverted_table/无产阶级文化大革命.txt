@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zajo.txt 1
-data.zdju.txt 1
+data.op.txt 3.5891377275982888
+data.zajo.txt 3.5891377275982888
+data.zdju.txt 3.5891377275982888

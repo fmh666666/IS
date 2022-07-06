@@ -1,5 +1,5 @@
 4
-data.nh.txt 4
-data.zbla.txt 1
-data.zdqk.txt 5
-data.zdqq.txt 3
+data.nh.txt 7.870713291999142
+data.zbla.txt 3.389731710180695
+data.zdqk.txt 8.762329358322491
+data.zdqq.txt 6.77946342036139

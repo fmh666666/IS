@@ -1,4 +1,4 @@
 3
-data.zake.txt 1
-data.zcll.txt 4
-data.zehb.txt 5
+data.zake.txt 3.5891377275982888
+data.zcll.txt 8.333719726130651
+data.zehb.txt 9.27778643576512

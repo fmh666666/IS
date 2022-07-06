@@ -1,4 +1,4 @@
 3
-data.zasj.txt 4
-data.zbrj.txt 1
-data.zebv.txt 1
+data.zasj.txt 8.333719726130651
+data.zbrj.txt 3.5891377275982888
+data.zebv.txt 3.5891377275982888

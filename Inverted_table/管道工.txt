@@ -1,6 +1,6 @@
 5
-data.zcrg.txt 1
-data.zcuh.txt 1
-data.zddb.txt 2
-data.zdga.txt 1
-data.zfaj.txt 1
+data.zcrg.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zddb.txt 5.1274494005309625
+data.zdga.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

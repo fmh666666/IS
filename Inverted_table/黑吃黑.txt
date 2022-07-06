@@ -1,5 +1,5 @@
 4
-data.zcvt.txt 4
-data.zdme.txt 1
-data.zeob.txt 1
-data.zfbr.txt 4
+data.zcvt.txt 7.870713291999142
+data.zdme.txt 3.389731710180695
+data.zeob.txt 3.389731710180695
+data.zfbr.txt 7.870713291999142

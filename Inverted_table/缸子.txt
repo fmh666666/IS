@@ -1,4 +1,4 @@
 3
-data.zcdv.txt 1
-data.zcql.txt 2
-data.zeeq.txt 1
+data.zcdv.txt 3.5891377275982888
+data.zcql.txt 5.688648708166832
+data.zeeq.txt 3.5891377275982888

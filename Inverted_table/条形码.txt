@@ -1,12 +1,12 @@
 11
-data.zate.txt 1
-data.zbdb.txt 1
-data.zbut.txt 1
-data.zcaq.txt 2
-data.zccx.txt 2
-data.zcdl.txt 2
-data.zchw.txt 1
-data.zctn.txt 3
-data.zczl.txt 4
-data.zduc.txt 4
-data.zfcp.txt 4
+data.zate.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zbut.txt 2.6885433903988862
+data.zcaq.txt 4.261240455343955
+data.zccx.txt 4.261240455343955
+data.zcdl.txt 4.261240455343955
+data.zchw.txt 2.6885433903988862
+data.zctn.txt 5.3770867807977725
+data.zczl.txt 6.2426044324908965
+data.zduc.txt 6.2426044324908965
+data.zfcp.txt 6.2426044324908965

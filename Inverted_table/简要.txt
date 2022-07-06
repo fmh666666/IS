@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.kq.txt 1
-data.zbjh.txt 1
-data.zbsm.txt 1
-data.zbwa.txt 1
-data.zcxp.txt 1
-data.zdrq.txt 1
-data.zedo.txt 1
+data.gw.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zcxp.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

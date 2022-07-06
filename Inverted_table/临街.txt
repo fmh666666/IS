@@ -1,7 +1,7 @@
 6
-data.ft.txt 2
-data.zcih.txt 1
-data.zcxr.txt 1
-data.zdoq.txt 1
-data.zdwz.txt 1
-data.zedx.txt 1
+data.ft.txt 4.927148697748023
+data.zcih.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873

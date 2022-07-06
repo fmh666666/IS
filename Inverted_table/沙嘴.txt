@@ -1,5 +1,5 @@
 4
-data.zaoc.txt 1
-data.zasj.txt 2
-data.zbeb.txt 1
-data.zdwv.txt 1
+data.zaoc.txt 3.389731710180695
+data.zasj.txt 5.372597648141796
+data.zbeb.txt 3.389731710180695
+data.zdwv.txt 3.389731710180695

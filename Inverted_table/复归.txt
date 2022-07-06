@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zair.txt 3
-data.zaoc.txt 1
+data.op.txt 3.5891377275982888
+data.zair.txt 7.1782754551965775
+data.zaoc.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.pn.txt 1
-data.zabe.txt 1
-data.zaej.txt 1
-data.zbfz.txt 2
-data.zbia.txt 1
-data.zbjh.txt 1
-data.zbkv.txt 1
-data.zcjo.txt 1
-data.zcqe.txt 1
-data.zdkc.txt 1
-data.zeqh.txt 1
+data.pn.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zaej.txt 2.6885433903988862
+data.zbfz.txt 4.261240455343955
+data.zbia.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zcjo.txt 2.6885433903988862
+data.zcqe.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

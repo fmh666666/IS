@@ -1,10 +1,10 @@
 9
-data.zawu.txt 1
-data.zbdb.txt 1
-data.zbht.txt 1
-data.zcku.txt 2
-data.zcpa.txt 1
-data.zcpx.txt 1
-data.zdnh.txt 1
-data.zekw.txt 1
-data.zexm.txt 1
+data.zawu.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbht.txt 2.82763771717948
+data.zcku.txt 4.48169974735425
+data.zcpa.txt 2.82763771717948
+data.zcpx.txt 2.82763771717948
+data.zdnh.txt 2.82763771717948
+data.zekw.txt 2.82763771717948
+data.zexm.txt 2.82763771717948

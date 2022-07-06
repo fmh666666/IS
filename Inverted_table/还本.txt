@@ -1,5 +1,5 @@
 4
-data.be.txt 1
-data.zabe.txt 1
-data.zbdb.txt 2
-data.zcdv.txt 2
+data.be.txt 3.389731710180695
+data.zabe.txt 3.389731710180695
+data.zbdb.txt 5.372597648141796
+data.zcdv.txt 5.372597648141796

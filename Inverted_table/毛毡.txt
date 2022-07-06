@@ -1,9 +1,9 @@
 8
-data.kt.txt 3
-data.ng.txt 2
-data.zacp.txt 1
-data.zamp.txt 1
-data.zbmw.txt 2
-data.zcdv.txt 1
-data.zcxr.txt 1
-data.zdnc.txt 1
+data.kt.txt 5.818557392524987
+data.ng.txt 4.611097637722987
+data.zacp.txt 2.9092786962624935
+data.zamp.txt 2.9092786962624935
+data.zbmw.txt 4.611097637722987
+data.zcdv.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935

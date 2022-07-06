@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zbpm.txt 2
-data.zbye.txt 1
-data.zcxq.txt 1
-data.zeay.txt 1
-data.zewn.txt 1
+data.bb.txt 3.1086847136800873
+data.zbpm.txt 4.927148697748023
+data.zbye.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873
+data.zewn.txt 3.1086847136800873

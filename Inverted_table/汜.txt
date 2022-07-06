@@ -1,7 +1,7 @@
 6
-data.ew.txt 1
-data.tz.txt 1
-data.zbbt.txt 22
-data.zcih.txt 1
-data.zeqh.txt 1
-data.zfae.txt 4
+data.ew.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zbbt.txt 14.06232790417923
+data.zcih.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873
+data.zfae.txt 7.21814237484067

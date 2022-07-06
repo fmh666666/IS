@@ -1,5 +1,5 @@
 4
-data.ep.txt 1
-data.zaqw.txt 1
-data.zasj.txt 2
-data.zawo.txt 1
+data.ep.txt 3.389731710180695
+data.zaqw.txt 3.389731710180695
+data.zasj.txt 5.372597648141796
+data.zawo.txt 3.389731710180695

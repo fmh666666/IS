@@ -1,6 +1,6 @@
 5
-data.mt.txt 2
-data.zcdy.txt 1
-data.zctp.txt 1
-data.zeay.txt 2
-data.zexk.txt 2
+data.mt.txt 5.1274494005309625
+data.zcdy.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zeay.txt 5.1274494005309625
+data.zexk.txt 5.1274494005309625

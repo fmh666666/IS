@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.jd.txt 1
-data.zako.txt 1
-data.zalc.txt 1
-data.zazg.txt 1
-data.zcmn.txt 1
-data.zczj.txt 1
-data.zefs.txt 1
+data.ga.txt 2.9092786962624935
+data.jd.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zalc.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935
+data.zczj.txt 2.9092786962624935
+data.zefs.txt 2.9092786962624935

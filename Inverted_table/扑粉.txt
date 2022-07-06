@@ -1,7 +1,7 @@
 6
-data.zayv.txt 3
-data.zbut.txt 2
-data.zcll.txt 2
-data.zctm.txt 3
-data.zevl.txt 3
-data.zewv.txt 3
+data.zayv.txt 6.2173694273601745
+data.zbut.txt 4.927148697748023
+data.zcll.txt 4.927148697748023
+data.zctm.txt 6.2173694273601745
+data.zevl.txt 6.2173694273601745
+data.zewv.txt 6.2173694273601745

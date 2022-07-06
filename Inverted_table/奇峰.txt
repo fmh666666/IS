@@ -1,11 +1,11 @@
 10
-data.ud.txt 1
-data.zbsd.txt 1
-data.zcel.txt 1
-data.zcsu.txt 1
-data.zdby.txt 1
-data.zdgv.txt 7
-data.zdoq.txt 1
-data.zdqz.txt 1
-data.zdxw.txt 1
-data.zelt.txt 1
+data.ud.txt 2.7546073728089153
+data.zbsd.txt 2.7546073728089153
+data.zcel.txt 2.7546073728089153
+data.zcsu.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zdgv.txt 8.263822118426747
+data.zdoq.txt 2.7546073728089153
+data.zdqz.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

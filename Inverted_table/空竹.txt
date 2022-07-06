@@ -1,4 +1,4 @@
 3
-data.zawu.txt 1
-data.zcls.txt 1
-data.zeeh.txt 2
+data.zawu.txt 3.5891377275982888
+data.zcls.txt 3.5891377275982888
+data.zeeh.txt 5.688648708166832

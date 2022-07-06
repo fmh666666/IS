@@ -1,6 +1,6 @@
 5
-data.zaxk.txt 3
-data.zcdv.txt 2
-data.zcts.txt 1
-data.zeeh.txt 1
-data.zezy.txt 1
+data.zaxk.txt 6.470120773454234
+data.zcdv.txt 5.1274494005309625
+data.zcts.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

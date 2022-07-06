@@ -1,5 +1,5 @@
 4
-data.kq.txt 1
-data.zabx.txt 1
-data.zaoc.txt 2
-data.zcve.txt 1
+data.kq.txt 3.389731710180695
+data.zabx.txt 3.389731710180695
+data.zaoc.txt 5.372597648141796
+data.zcve.txt 3.389731710180695

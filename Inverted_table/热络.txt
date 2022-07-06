@@ -1,14 +1,14 @@
 13
-data.cf.txt 1
-data.ft.txt 1
-data.wc.txt 1
-data.zadv.txt 1
-data.zarr.txt 1
-data.zbds.txt 1
-data.zbjk.txt 2
-data.zbla.txt 1
-data.zbyb.txt 1
-data.zcpc.txt 1
-data.zczp.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
+data.cf.txt 2.5727503226135906
+data.ft.txt 2.5727503226135906
+data.wc.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zarr.txt 2.5727503226135906
+data.zbds.txt 2.5727503226135906
+data.zbjk.txt 4.077712785060798
+data.zbla.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zczp.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfaj.txt 4.077712785060798

@@ -1,4 +1,4 @@
 3
-data.zaqr.txt 1
-data.zcxr.txt 2
-data.zevt.txt 2
+data.zaqr.txt 3.5891377275982888
+data.zcxr.txt 5.688648708166832
+data.zevt.txt 5.688648708166832

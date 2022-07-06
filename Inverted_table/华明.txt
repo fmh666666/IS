@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zbtx.txt 3
-data.zebv.txt 1
-data.zene.txt 1
-data.zeve.txt 1
+data.vm.txt 3.235060386727117
+data.zbtx.txt 6.470120773454234
+data.zebv.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zeve.txt 3.235060386727117

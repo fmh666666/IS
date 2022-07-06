@@ -1,5 +1,5 @@
 4
-data.gw.txt 5
-data.zbaq.txt 1
-data.zbel.txt 3
-data.zcqp.txt 1
+data.gw.txt 8.762329358322491
+data.zbaq.txt 3.389731710180695
+data.zbel.txt 6.77946342036139
+data.zcqp.txt 3.389731710180695

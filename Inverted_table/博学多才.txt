@@ -1,9 +1,9 @@
 8
-data.co.txt 2
-data.gw.txt 1
-data.mo.txt 1
-data.zalj.txt 1
-data.zbts.txt 1
-data.zciy.txt 1
-data.zdeq.txt 1
-data.zdrq.txt 1
+data.co.txt 4.611097637722987
+data.gw.txt 2.9092786962624935
+data.mo.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zdeq.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935

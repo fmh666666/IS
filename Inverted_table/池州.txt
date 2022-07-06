@@ -1,4 +1,4 @@
 3
-data.pa.txt 1
-data.zegz.txt 1
-data.zfaj.txt 4
+data.pa.txt 3.5891377275982888
+data.zegz.txt 3.5891377275982888
+data.zfaj.txt 8.333719726130651

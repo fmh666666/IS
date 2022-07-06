@@ -1,4 +1,4 @@
 3
-data.zagb.txt 1
-data.zctp.txt 1
-data.zdaq.txt 1
+data.zagb.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zdaq.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zacd.txt 1
-data.zajh.txt 1
-data.zazg.txt 1
-data.zbxw.txt 1
-data.zdey.txt 1
-data.zeel.txt 1
-data.zezy.txt 2
+data.ry.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zajh.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zbxw.txt 2.9092786962624935
+data.zdey.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935
+data.zezy.txt 4.611097637722987

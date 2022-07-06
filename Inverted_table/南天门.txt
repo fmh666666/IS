@@ -1,6 +1,6 @@
 5
-data.zabx.txt 1
-data.zasd.txt 2
-data.zdzi.txt 1
-data.zefu.txt 1
-data.zfaz.txt 4
+data.zabx.txt 3.235060386727117
+data.zasd.txt 5.1274494005309625
+data.zdzi.txt 3.235060386727117
+data.zefu.txt 3.235060386727117
+data.zfaz.txt 7.511577600598868

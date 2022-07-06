@@ -1,6 +1,6 @@
 5
-data.zaic.txt 1
-data.zcao.txt 1
-data.zccu.txt 1
-data.zexv.txt 1
-data.zfbr.txt 1
+data.zaic.txt 3.235060386727117
+data.zcao.txt 3.235060386727117
+data.zccu.txt 3.235060386727117
+data.zexv.txt 3.235060386727117
+data.zfbr.txt 3.235060386727117

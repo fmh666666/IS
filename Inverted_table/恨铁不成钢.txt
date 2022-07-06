@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.hg.txt 1
-data.xk.txt 1
-data.zcfn.txt 1
-data.zcis.txt 1
-data.zdpf.txt 1
-data.zdrq.txt 1
-data.zewg.txt 1
+data.ek.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.xk.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zcis.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935
+data.zewg.txt 2.9092786962624935

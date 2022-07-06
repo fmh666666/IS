@@ -1,9 +1,9 @@
 8
-data.co.txt 1
-data.dg.txt 1
-data.zawb.txt 1
-data.zchd.txt 1
-data.zcyv.txt 1
-data.zdwz.txt 1
-data.zevl.txt 1
-data.zexv.txt 1
+data.co.txt 2.9092786962624935
+data.dg.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zchd.txt 2.9092786962624935
+data.zcyv.txt 2.9092786962624935
+data.zdwz.txt 2.9092786962624935
+data.zevl.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935

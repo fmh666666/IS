@@ -1,2 +1,2 @@
 1
-data.zeaf.txt 10
+data.zeaf.txt 15.050733752133

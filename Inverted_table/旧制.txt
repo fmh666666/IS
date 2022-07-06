@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zapl.txt 1
-data.zaxj.txt 1
-data.zbts.txt 6
-data.zevq.txt 2
+data.op.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zbts.txt 9.081962699831948
+data.zevq.txt 5.1274494005309625

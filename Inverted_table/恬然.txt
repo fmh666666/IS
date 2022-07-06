@@ -1,6 +1,6 @@
 5
-data.zccu.txt 1
-data.zcdl.txt 3
-data.zcee.txt 3
-data.zedy.txt 1
-data.zfby.txt 1
+data.zccu.txt 3.235060386727117
+data.zcdl.txt 6.470120773454234
+data.zcee.txt 6.470120773454234
+data.zedy.txt 3.235060386727117
+data.zfby.txt 3.235060386727117

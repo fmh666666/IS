@@ -1,6 +1,6 @@
 5
-data.xk.txt 1
-data.zcdz.txt 1
-data.zcql.txt 1
-data.zeid.txt 1
-data.zezy.txt 1
+data.xk.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zeid.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

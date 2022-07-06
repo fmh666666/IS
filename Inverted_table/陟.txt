@@ -1,9 +1,9 @@
 8
-data.fe.txt 1
-data.zaxj.txt 1
-data.zbre.txt 1
-data.zcli.txt 1
-data.zdoc.txt 1
-data.zdwv.txt 1
-data.zdzi.txt 1
-data.zfaw.txt 1
+data.fe.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zcli.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zdwv.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zfaw.txt 2.9092786962624935

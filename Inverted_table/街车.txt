@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.zazg.txt 1
-data.zcqg.txt 1
-data.zejk.txt 14
-data.zejn.txt 18
-data.zeqv.txt 1
+data.cq.txt 3.1086847136800873
+data.zazg.txt 3.1086847136800873
+data.zcqg.txt 3.1086847136800873
+data.zejk.txt 12.145291072588693
+data.zejn.txt 13.205467325863138
+data.zeqv.txt 3.1086847136800873

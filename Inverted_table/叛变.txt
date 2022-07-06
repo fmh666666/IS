@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.tv.txt 1
-data.zaim.txt 1
-data.zazx.txt 1
-data.zbdb.txt 1
-data.zdpf.txt 1
-data.zdud.txt 1
-data.zedo.txt 1
+data.ga.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zazx.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zanm.txt 1
-data.zaxj.txt 1
-data.zbia.txt 1
-data.zbls.txt 7
-data.zbts.txt 1
-data.zcrk.txt 1
-data.zdby.txt 1
+data.op.txt 2.9092786962624935
+data.zanm.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zbls.txt 8.72783608878748
+data.zbts.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935

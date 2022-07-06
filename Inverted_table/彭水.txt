@@ -1,7 +1,7 @@
 6
-data.pa.txt 2
-data.zahp.txt 1
-data.zcvt.txt 1
-data.zdmw.txt 2
-data.zdzn.txt 1
-data.zewn.txt 1
+data.pa.txt 4.927148697748023
+data.zahp.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zdmw.txt 4.927148697748023
+data.zdzn.txt 3.1086847136800873
+data.zewn.txt 3.1086847136800873

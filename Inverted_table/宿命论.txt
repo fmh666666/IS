@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.zahd.txt 1
-data.zdil.txt 1
-data.zdkp.txt 1
-data.zefw.txt 1
+data.mk.txt 3.235060386727117
+data.zahd.txt 3.235060386727117
+data.zdil.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zefw.txt 3.235060386727117

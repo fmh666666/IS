@@ -1,6 +1,6 @@
 5
-data.zbls.txt 1
-data.zcxr.txt 1
-data.zdtr.txt 1
-data.zebn.txt 1
-data.zfaj.txt 1
+data.zbls.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zdtr.txt 3.235060386727117
+data.zebn.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

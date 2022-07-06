@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zaun.txt 2
-data.zbla.txt 1
-data.zcqe.txt 1
-data.zddb.txt 1
-data.zeaf.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
+data.bs.txt 2.9092786962624935
+data.zaun.txt 4.611097637722987
+data.zbla.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zddb.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.zbhv.txt 1
-data.zbkj.txt 1
-data.zbmt.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zckd.txt 1
-data.zcll.txt 1
-data.zctm.txt 3
+data.zbhv.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zbmt.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 4.611097637722987
+data.zckd.txt 2.9092786962624935
+data.zcll.txt 2.9092786962624935
+data.zctm.txt 5.818557392524987

@@ -1,11 +1,11 @@
 10
-data.hp.txt 6
-data.jj.txt 1
-data.zawc.txt 1
-data.zcni.txt 1
-data.zcse.txt 1
-data.zctp.txt 1
-data.zcvq.txt 1
-data.zczj.txt 1
-data.zddl.txt 1
-data.zduo.txt 1
+data.hp.txt 7.733160566391275
+data.jj.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zczj.txt 2.7546073728089153
+data.zddl.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153

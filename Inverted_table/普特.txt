@@ -1,10 +1,10 @@
 9
-data.ka.txt 5
-data.zbcv.txt 3
-data.zbkj.txt 1
-data.zbvm.txt 1
-data.zcgi.txt 1
-data.zeay.txt 1
-data.zefp.txt 1
-data.zeoh.txt 1
-data.zfbr.txt 1
+data.ka.txt 7.309337464533731
+data.zbcv.txt 5.65527543435896
+data.zbkj.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zcgi.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zefp.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zfbr.txt 2.82763771717948

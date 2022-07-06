@@ -1,4 +1,4 @@
 3
-data.zapr.txt 2
-data.zbrj.txt 2
-data.zcaq.txt 1
+data.zapr.txt 5.688648708166832
+data.zbrj.txt 5.688648708166832
+data.zcaq.txt 3.5891377275982888

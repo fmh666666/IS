@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.zbdb.txt 1
-data.zbqu.txt 1
-data.zdcj.txt 1
-data.zddb.txt 1
+data.bs.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbqu.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zddb.txt 3.235060386727117

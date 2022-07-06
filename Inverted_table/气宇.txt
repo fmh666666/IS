@@ -1,6 +1,6 @@
 5
-data.zabe.txt 2
-data.zapf.txt 2
-data.zbsl.txt 1
-data.zdcw.txt 1
-data.zdtr.txt 1
+data.zabe.txt 5.1274494005309625
+data.zapf.txt 5.1274494005309625
+data.zbsl.txt 3.235060386727117
+data.zdcw.txt 3.235060386727117
+data.zdtr.txt 3.235060386727117

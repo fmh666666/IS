@@ -1,5 +1,5 @@
 4
-data.hp.txt 1
-data.zaim.txt 1
-data.zdrq.txt 1
-data.zeoo.txt 1
+data.hp.txt 3.389731710180695
+data.zaim.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

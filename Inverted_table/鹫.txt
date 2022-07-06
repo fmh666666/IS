@@ -1,9 +1,9 @@
 8
-data.tv.txt 1
-data.zawb.txt 1
-data.zbga.txt 1
-data.zbjh.txt 4
-data.zbmw.txt 1
-data.zdby.txt 1
-data.zdeb.txt 1
-data.zejk.txt 1
+data.tv.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zbjh.txt 6.7551359407091605
+data.zbmw.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935

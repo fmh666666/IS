@@ -1,12 +1,12 @@
 11
-data.kt.txt 1
-data.mk.txt 2
-data.mo.txt 2
-data.tz.txt 1
-data.zazw.txt 1
-data.zbvm.txt 2
-data.zcmv.txt 1
-data.zcpa.txt 1
-data.zczj.txt 1
-data.zddb.txt 1
-data.zerv.txt 1
+data.kt.txt 2.6885433903988862
+data.mk.txt 4.261240455343955
+data.mo.txt 4.261240455343955
+data.tz.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbvm.txt 4.261240455343955
+data.zcmv.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zczj.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zerv.txt 2.6885433903988862

@@ -1,13 +1,13 @@
 12
-data.gw.txt 1
-data.tv.txt 1
-data.zabx.txt 1
-data.zahd.txt 1
-data.zaxx.txt 1
-data.zbeb.txt 1
-data.zbjh.txt 1
-data.zbnp.txt 1
-data.zeai.txt 1
-data.zeec.txt 1
-data.zeew.txt 1
-data.zerv.txt 1
+data.gw.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.zabx.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbjh.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zeai.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zeew.txt 2.628231699761886
+data.zerv.txt 2.628231699761886

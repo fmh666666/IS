@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.nh.txt 1
-data.zazo.txt 1
-data.zazw.txt 1
-data.zcdv.txt 1
-data.zcon.txt 1
+data.jf.txt 3.1086847136800873
+data.nh.txt 3.1086847136800873
+data.zazo.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873

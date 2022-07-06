@@ -1,6 +1,6 @@
 5
-data.zawu.txt 1
-data.zbcc.txt 1
-data.zbfd.txt 1
-data.zcnn.txt 1
-data.zegn.txt 1
+data.zawu.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zbfd.txt 3.235060386727117
+data.zcnn.txt 3.235060386727117
+data.zegn.txt 3.235060386727117

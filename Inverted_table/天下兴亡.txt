@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zaub.txt 2
-data.zbdb.txt 3
-data.zcvq.txt 1
-data.zdgo.txt 1
+data.zajh.txt 3.235060386727117
+data.zaub.txt 5.1274494005309625
+data.zbdb.txt 6.470120773454234
+data.zcvq.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117

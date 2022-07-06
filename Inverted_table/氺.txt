@@ -1,8 +1,8 @@
 7
-data.xe.txt 1
-data.zauy.txt 2
-data.zbua.txt 4
-data.zcfn.txt 1
-data.zcjy.txt 1
-data.zdtr.txt 1
-data.zfcg.txt 1
+data.xe.txt 3.0018356045764243
+data.zauy.txt 4.757796866583254
+data.zbua.txt 6.970046426499191
+data.zcfn.txt 3.0018356045764243
+data.zcjy.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zfcg.txt 3.0018356045764243

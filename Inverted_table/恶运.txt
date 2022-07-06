@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zduo.txt 1
-data.zevq.txt 1
+data.zabe.txt 3.5891377275982888
+data.zduo.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

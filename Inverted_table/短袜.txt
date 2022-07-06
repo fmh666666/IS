@@ -1,5 +1,5 @@
 4
-data.fe.txt 2
-data.zadv.txt 1
-data.zazw.txt 1
-data.zdtv.txt 1
+data.fe.txt 5.372597648141796
+data.zadv.txt 3.389731710180695
+data.zazw.txt 3.389731710180695
+data.zdtv.txt 3.389731710180695

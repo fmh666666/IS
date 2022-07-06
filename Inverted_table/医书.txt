@@ -1,6 +1,6 @@
 5
-data.hg.txt 1
-data.zasw.txt 1
-data.zduk.txt 1
-data.zeoh.txt 1
-data.zezy.txt 4
+data.hg.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zduk.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zezy.txt 7.511577600598868

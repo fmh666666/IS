@@ -1,4 +1,4 @@
 3
-data.zcjo.txt 1
-data.zdod.txt 2
-data.zfae.txt 1
+data.zcjo.txt 3.5891377275982888
+data.zdod.txt 5.688648708166832
+data.zfae.txt 3.5891377275982888

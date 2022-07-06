@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.zajo.txt 1
-data.zaoo.txt 1
-data.zasy.txt 1
-data.zayv.txt 1
-data.zcfx.txt 1
+data.mo.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zaoo.txt 3.1086847136800873
+data.zasy.txt 3.1086847136800873
+data.zayv.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873

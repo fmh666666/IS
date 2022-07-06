@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.zcjd.txt 1
-data.zcwq.txt 1
-data.zdpg.txt 1
-data.zdyv.txt 1
-data.zedk.txt 1
+data.ga.txt 3.1086847136800873
+data.zcjd.txt 3.1086847136800873
+data.zcwq.txt 3.1086847136800873
+data.zdpg.txt 3.1086847136800873
+data.zdyv.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873

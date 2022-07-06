@@ -1,6 +1,6 @@
 5
-data.zaip.txt 1
-data.zczp.txt 1
-data.zdqk.txt 1
-data.zesq.txt 1
-data.zeun.txt 1
+data.zaip.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zdqk.txt 3.235060386727117
+data.zesq.txt 3.235060386727117
+data.zeun.txt 3.235060386727117

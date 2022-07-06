@@ -1,13 +1,13 @@
 12
-data.ew.txt 1
-data.kq.txt 1
-data.kt.txt 2
-data.zaic.txt 1
-data.zaxk.txt 2
-data.zazg.txt 1
-data.zbel.txt 1
-data.zctp.txt 1
-data.zddp.txt 1
-data.zdic.txt 1
-data.zefp.txt 1
-data.zeos.txt 1
+data.ew.txt 2.628231699761886
+data.kq.txt 2.628231699761886
+data.kt.txt 4.165648687329214
+data.zaic.txt 2.628231699761886
+data.zaxk.txt 4.165648687329214
+data.zazg.txt 2.628231699761886
+data.zbel.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdic.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zeos.txt 2.628231699761886

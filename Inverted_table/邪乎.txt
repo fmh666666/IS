@@ -1,7 +1,7 @@
 6
-data.zasy.txt 1
-data.zawc.txt 1
-data.zbdb.txt 1
-data.zbia.txt 1
-data.zbpx.txt 1
-data.zcrg.txt 1
+data.zasy.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbia.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873

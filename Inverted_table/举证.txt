@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.hp.txt 1
-data.zbeb.txt 1
-data.zbvm.txt 1
-data.zcue.txt 1
-data.zdmw.txt 1
-data.zdwn.txt 1
-data.zene.txt 1
+data.ga.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdmw.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

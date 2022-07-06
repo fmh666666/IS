@@ -1,11 +1,11 @@
 10
-data.bs.txt 2
-data.jf.txt 1
-data.zaxj.txt 1
-data.zbtx.txt 1
-data.zcuh.txt 3
-data.zczj.txt 1
-data.zduo.txt 1
-data.zdzg.txt 1
-data.zeil.txt 1
-data.zeqh.txt 1
+data.bs.txt 4.365949390112154
+data.jf.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zbtx.txt 2.7546073728089153
+data.zcuh.txt 5.509214745617831
+data.zczj.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zeil.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153

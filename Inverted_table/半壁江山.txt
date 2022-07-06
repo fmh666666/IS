@@ -1,5 +1,5 @@
 4
-data.zalm.txt 1
-data.zcel.txt 1
-data.zcjd.txt 1
-data.zexx.txt 1
+data.zalm.txt 3.389731710180695
+data.zcel.txt 3.389731710180695
+data.zcjd.txt 3.389731710180695
+data.zexx.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.zbkv.txt 1
-data.zcdy.txt 12
-data.zcdz.txt 10
-data.zeqv.txt 3
+data.kq.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zcdy.txt 11.971145945629907
+data.zcdz.txt 11.191470190044793
+data.zeqv.txt 6.470120773454234

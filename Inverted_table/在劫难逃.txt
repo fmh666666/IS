@@ -1,4 +1,4 @@
 3
-data.zaoc.txt 1
-data.zbvm.txt 1
-data.zbye.txt 1
+data.zaoc.txt 3.5891377275982888
+data.zbvm.txt 3.5891377275982888
+data.zbye.txt 3.5891377275982888

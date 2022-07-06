@@ -1,4 +1,4 @@
 3
-data.zcll.txt 1
-data.zduk.txt 1
-data.zfcg.txt 1
+data.zcll.txt 3.5891377275982888
+data.zduk.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

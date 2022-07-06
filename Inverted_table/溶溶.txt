@@ -1,8 +1,8 @@
 7
-data.be.txt 1
-data.mo.txt 1
-data.zasd.txt 3
-data.zaxj.txt 1
-data.zbyb.txt 3
-data.zeoh.txt 1
-data.zfas.txt 1
+data.be.txt 3.0018356045764243
+data.mo.txt 3.0018356045764243
+data.zasd.txt 6.003671209152849
+data.zaxj.txt 3.0018356045764243
+data.zbyb.txt 6.003671209152849
+data.zeoh.txt 3.0018356045764243
+data.zfas.txt 3.0018356045764243

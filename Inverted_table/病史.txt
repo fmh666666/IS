@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.ud.txt 1
-data.zccu.txt 2
-data.zcem.txt 1
-data.zctm.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zdpz.txt 1
-data.zdqx.txt 1
-data.zdwn.txt 1
-data.zemb.txt 1
+data.fp.txt 2.6885433903988862
+data.ud.txt 2.6885433903988862
+data.zccu.txt 4.261240455343955
+data.zcem.txt 2.6885433903988862
+data.zctm.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zdpz.txt 2.6885433903988862
+data.zdqx.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862

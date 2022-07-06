@@ -1,7 +1,7 @@
 6
-data.mx.txt 1
-data.zaoc.txt 4
-data.zauy.txt 1
-data.zcdg.txt 1
-data.zcdz.txt 2
-data.zcve.txt 1
+data.mx.txt 3.1086847136800873
+data.zaoc.txt 7.21814237484067
+data.zauy.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcdz.txt 4.927148697748023
+data.zcve.txt 3.1086847136800873

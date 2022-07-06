@@ -1,10 +1,10 @@
 9
-data.co.txt 1
-data.gw.txt 1
-data.zatz.txt 1
-data.zchw.txt 1
-data.zcln.txt 1
-data.zcsu.txt 1
-data.zeoo.txt 1
-data.zeos.txt 1
-data.zeqv.txt 1
+data.co.txt 2.82763771717948
+data.gw.txt 2.82763771717948
+data.zatz.txt 2.82763771717948
+data.zchw.txt 2.82763771717948
+data.zcln.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948
+data.zeos.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

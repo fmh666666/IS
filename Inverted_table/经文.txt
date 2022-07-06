@@ -1,13 +1,13 @@
 12
-data.en.txt 1
-data.fp.txt 1
-data.jf.txt 7
-data.zabe.txt 1
-data.zawu.txt 1
-data.zbha.txt 4
-data.zbjh.txt 10
-data.zblq.txt 1
-data.zcni.txt 1
-data.zctp.txt 1
-data.zczp.txt 1
-data.zdbf.txt 1
+data.en.txt 2.628231699761886
+data.fp.txt 2.628231699761886
+data.jf.txt 7.884695099285658
+data.zabe.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbha.txt 6.1025650235506905
+data.zbjh.txt 9.092187843261117
+data.zblq.txt 2.628231699761886
+data.zcni.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdbf.txt 2.628231699761886

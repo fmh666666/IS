@@ -1,11 +1,11 @@
 10
-data.ha.txt 2
-data.zawb.txt 1
-data.zbfg.txt 1
-data.zbgu.txt 1
-data.zbia.txt 1
-data.zcql.txt 1
-data.zcve.txt 1
-data.zdtr.txt 1
-data.zeag.txt 1
-data.zelj.txt 2
+data.ha.txt 4.365949390112154
+data.zawb.txt 2.7546073728089153
+data.zbfg.txt 2.7546073728089153
+data.zbgu.txt 2.7546073728089153
+data.zbia.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zcve.txt 2.7546073728089153
+data.zdtr.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153
+data.zelj.txt 4.365949390112154

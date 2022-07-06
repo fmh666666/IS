@@ -1,5 +1,5 @@
 4
-data.dg.txt 2
-data.zamr.txt 3
-data.zarc.txt 2
-data.zcao.txt 3
+data.dg.txt 5.372597648141796
+data.zamr.txt 6.77946342036139
+data.zarc.txt 5.372597648141796
+data.zcao.txt 6.77946342036139

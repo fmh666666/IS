@@ -1,4 +1,4 @@
 3
-data.wc.txt 1
-data.zaop.txt 1
-data.zefd.txt 1
+data.wc.txt 3.5891377275982888
+data.zaop.txt 3.5891377275982888
+data.zefd.txt 3.5891377275982888

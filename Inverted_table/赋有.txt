@@ -1,4 +1,4 @@
 3
-data.jj.txt 1
-data.zdeq.txt 1
-data.zdqk.txt 1
+data.jj.txt 3.5891377275982888
+data.zdeq.txt 3.5891377275982888
+data.zdqk.txt 3.5891377275982888

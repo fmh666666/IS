@@ -1,11 +1,11 @@
 10
-data.jf.txt 2
-data.ok.txt 2
-data.zagr.txt 1
-data.zasq.txt 2
-data.zazg.txt 1
-data.zdju.txt 2
-data.zeai.txt 1
-data.zeam.txt 1
-data.zeoh.txt 1
-data.zesi.txt 1
+data.jf.txt 4.365949390112154
+data.ok.txt 4.365949390112154
+data.zagr.txt 2.7546073728089153
+data.zasq.txt 4.365949390112154
+data.zazg.txt 2.7546073728089153
+data.zdju.txt 4.365949390112154
+data.zeai.txt 2.7546073728089153
+data.zeam.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zesi.txt 2.7546073728089153

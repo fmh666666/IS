@@ -1,6 +1,6 @@
 5
-data.zbcj.txt 1
-data.zbts.txt 1
-data.zcic.txt 1
-data.zctp.txt 1
-data.zdwd.txt 1
+data.zbcj.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zcic.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zdwd.txt 3.235060386727117

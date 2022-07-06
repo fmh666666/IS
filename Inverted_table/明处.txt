@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.zbor.txt 1
-data.zeay.txt 1
-data.zerv.txt 1
-data.zfaj.txt 1
+data.jf.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zerv.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

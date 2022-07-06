@@ -1,9 +1,9 @@
 8
-data.mu.txt 1
-data.zbjh.txt 1
-data.zcbe.txt 1
-data.zcql.txt 2
-data.zddp.txt 1
-data.zdey.txt 1
-data.zdlo.txt 4
-data.zedx.txt 1
+data.mu.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zcbe.txt 2.9092786962624935
+data.zcql.txt 4.611097637722987
+data.zddp.txt 2.9092786962624935
+data.zdey.txt 2.9092786962624935
+data.zdlo.txt 6.7551359407091605
+data.zedx.txt 2.9092786962624935

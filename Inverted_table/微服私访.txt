@@ -1,13 +1,13 @@
 12
-data.hg.txt 1
-data.op.txt 1
-data.tz.txt 1
-data.zate.txt 2
-data.zazx.txt 1
-data.zbbt.txt 1
-data.zbot.txt 1
-data.zcby.txt 1
-data.zctp.txt 2
-data.zdlg.txt 1
-data.zdof.txt 1
-data.zdwz.txt 1
+data.hg.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zate.txt 4.165648687329214
+data.zazx.txt 2.628231699761886
+data.zbbt.txt 2.628231699761886
+data.zbot.txt 2.628231699761886
+data.zcby.txt 2.628231699761886
+data.zctp.txt 4.165648687329214
+data.zdlg.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdwz.txt 2.628231699761886

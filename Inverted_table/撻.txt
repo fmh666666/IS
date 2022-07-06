@@ -1,10 +1,10 @@
 9
-data.to.txt 1
-data.zall.txt 1
-data.zalm.txt 1
-data.zavg.txt 1
-data.zbaq.txt 1
-data.zbdx.txt 2
-data.zcpc.txt 2
-data.zddx.txt 1
-data.zeam.txt 2
+data.to.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zbaq.txt 2.82763771717948
+data.zbdx.txt 4.48169974735425
+data.zcpc.txt 4.48169974735425
+data.zddx.txt 2.82763771717948
+data.zeam.txt 4.48169974735425

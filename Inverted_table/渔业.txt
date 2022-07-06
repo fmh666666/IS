@@ -1,12 +1,12 @@
 11
-data.ha.txt 3
-data.zaic.txt 1
-data.zapl.txt 1
-data.zbel.txt 1
-data.zcdy.txt 1
-data.zcku.txt 1
-data.zdgt.txt 2
-data.zdju.txt 1
-data.zeay.txt 1
-data.zevq.txt 1
-data.zfaj.txt 1
+data.ha.txt 5.3770867807977725
+data.zaic.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zbel.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zdgt.txt 4.261240455343955
+data.zdju.txt 2.6885433903988862
+data.zeay.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

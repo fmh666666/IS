@@ -1,13 +1,13 @@
 12
-data.ew.txt 1
-data.op.txt 1
-data.tz.txt 1
-data.zamr.txt 5
-data.zbxw.txt 5
-data.zbxy.txt 2
-data.zbyb.txt 2
-data.zcmv.txt 1
-data.zcsr.txt 2
-data.zcts.txt 1
-data.zdfl.txt 1
-data.zedd.txt 1
+data.ew.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zamr.txt 6.7938803870911
+data.zbxw.txt 6.7938803870911
+data.zbxy.txt 4.165648687329214
+data.zbyb.txt 4.165648687329214
+data.zcmv.txt 2.628231699761886
+data.zcsr.txt 4.165648687329214
+data.zcts.txt 2.628231699761886
+data.zdfl.txt 2.628231699761886
+data.zedd.txt 2.628231699761886

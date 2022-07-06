@@ -1,10 +1,10 @@
 9
-data.mo.txt 2
-data.zabe.txt 1
-data.zchd.txt 2
-data.zcve.txt 3
-data.zcxp.txt 3
-data.zdme.txt 1
-data.zecf.txt 2
-data.zfai.txt 2
-data.zfas.txt 2
+data.mo.txt 4.48169974735425
+data.zabe.txt 2.82763771717948
+data.zchd.txt 4.48169974735425
+data.zcve.txt 5.65527543435896
+data.zcxp.txt 5.65527543435896
+data.zdme.txt 2.82763771717948
+data.zecf.txt 4.48169974735425
+data.zfai.txt 4.48169974735425
+data.zfas.txt 4.48169974735425

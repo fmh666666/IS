@@ -1,6 +1,6 @@
 5
-data.zbeb.txt 1
-data.zbla.txt 1
-data.zbvm.txt 1
-data.zejk.txt 1
-data.zezm.txt 1
+data.zbeb.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zbvm.txt 3.235060386727117
+data.zejk.txt 3.235060386727117
+data.zezm.txt 3.235060386727117

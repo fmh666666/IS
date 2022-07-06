@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zbel.txt 6
-data.zbsm.txt 1
-data.zcdy.txt 2
-data.zcoy.txt 1
-data.zdic.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
+data.ga.txt 2.9092786962624935
+data.zbel.txt 8.16737786758984
+data.zbsm.txt 2.9092786962624935
+data.zcdy.txt 4.611097637722987
+data.zcoy.txt 2.9092786962624935
+data.zdic.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935
+data.zfaj.txt 4.611097637722987

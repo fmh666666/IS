@@ -1,2 +1,2 @@
 1
-data.zdrq.txt 27
+data.zdrq.txt 20.915059743946056

@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zafe.txt 1
-data.zarr.txt 1
-data.zbes.txt 1
-data.zbjq.txt 1
-data.zbsl.txt 1
-data.zcfx.txt 1
-data.zclm.txt 1
+data.gw.txt 2.9092786962624935
+data.zafe.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zbsl.txt 2.9092786962624935
+data.zcfx.txt 2.9092786962624935
+data.zclm.txt 2.9092786962624935

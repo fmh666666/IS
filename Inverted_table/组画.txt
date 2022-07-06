@@ -1,6 +1,6 @@
 5
-data.zard.txt 1
-data.zavx.txt 1
-data.zczp.txt 1
-data.zeeh.txt 1
-data.zeid.txt 1
+data.zard.txt 3.235060386727117
+data.zavx.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

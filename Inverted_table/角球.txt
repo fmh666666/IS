@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.zbot.txt 1
-data.zcih.txt 1
-data.zedo.txt 1
-data.zexx.txt 2
+data.ep.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zexx.txt 5.1274494005309625

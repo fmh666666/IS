@@ -1,11 +1,11 @@
 10
-data.zadv.txt 1
-data.zalm.txt 1
-data.zazw.txt 2
-data.zbsm.txt 1
-data.zcfn.txt 2
-data.zdby.txt 1
-data.zdrq.txt 1
-data.zdwz.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
+data.zadv.txt 2.7546073728089153
+data.zalm.txt 2.7546073728089153
+data.zazw.txt 4.365949390112154
+data.zbsm.txt 2.7546073728089153
+data.zcfn.txt 4.365949390112154
+data.zdby.txt 2.7546073728089153
+data.zdrq.txt 2.7546073728089153
+data.zdwz.txt 2.7546073728089153
+data.zeai.txt 2.7546073728089153
+data.zeaj.txt 2.7546073728089153

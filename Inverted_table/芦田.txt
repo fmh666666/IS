@@ -1,10 +1,10 @@
 9
-data.zass.txt 1
-data.zbmw.txt 1
-data.zbzg.txt 1
-data.zcic.txt 3
-data.zcpb.txt 1
-data.zdqq.txt 1
-data.zegn.txt 2
-data.zerh.txt 1
-data.zesi.txt 1
+data.zass.txt 2.82763771717948
+data.zbmw.txt 2.82763771717948
+data.zbzg.txt 2.82763771717948
+data.zcic.txt 5.65527543435896
+data.zcpb.txt 2.82763771717948
+data.zdqq.txt 2.82763771717948
+data.zegn.txt 4.48169974735425
+data.zerh.txt 2.82763771717948
+data.zesi.txt 2.82763771717948

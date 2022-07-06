@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.tv.txt 4
-data.tz.txt 1
-data.zaip.txt 1
-data.zbwq.txt 1
-data.zcao.txt 2
-data.zcqs.txt 1
-data.zdod.txt 1
-data.zdvl.txt 1
-data.zeaj.txt 1
-data.zedy.txt 1
-data.zeoh.txt 1
+data.gk.txt 2.628231699761886
+data.tv.txt 6.1025650235506905
+data.tz.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zbwq.txt 2.628231699761886
+data.zcao.txt 4.165648687329214
+data.zcqs.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zeaj.txt 2.628231699761886
+data.zedy.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

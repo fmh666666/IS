@@ -1,10 +1,10 @@
 9
-data.gk.txt 1
-data.ry.txt 1
-data.zayc.txt 1
-data.zbpp.txt 1
-data.zdji.txt 5
-data.zdzg.txt 1
-data.zeac.txt 1
-data.zevq.txt 1
-data.zewp.txt 1
+data.gk.txt 2.82763771717948
+data.ry.txt 2.82763771717948
+data.zayc.txt 2.82763771717948
+data.zbpp.txt 2.82763771717948
+data.zdji.txt 7.309337464533731
+data.zdzg.txt 2.82763771717948
+data.zeac.txt 2.82763771717948
+data.zevq.txt 2.82763771717948
+data.zewp.txt 2.82763771717948

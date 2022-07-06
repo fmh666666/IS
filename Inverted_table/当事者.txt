@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.ft.txt 1
-data.zane.txt 1
-data.zbjh.txt 1
-data.zbkj.txt 1
-data.zdaa.txt 1
-data.zdwn.txt 1
-data.zebf.txt 1
+data.fp.txt 2.9092786962624935
+data.ft.txt 2.9092786962624935
+data.zane.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zdaa.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

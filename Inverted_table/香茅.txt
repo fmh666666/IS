@@ -1,7 +1,7 @@
 6
-data.kt.txt 3
-data.zbcj.txt 1
-data.zcbe.txt 1
-data.zcsu.txt 2
-data.zdpz.txt 1
-data.zecf.txt 1
+data.kt.txt 6.2173694273601745
+data.zbcj.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zcsu.txt 4.927148697748023
+data.zdpz.txt 3.1086847136800873
+data.zecf.txt 3.1086847136800873

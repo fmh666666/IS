@@ -1,6 +1,6 @@
 5
-data.tj.txt 1
-data.zaeh.txt 1
-data.zakb.txt 1
-data.zaoc.txt 1
-data.zdkp.txt 1
+data.tj.txt 3.235060386727117
+data.zaeh.txt 3.235060386727117
+data.zakb.txt 3.235060386727117
+data.zaoc.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117

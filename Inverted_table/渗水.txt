@@ -1,7 +1,7 @@
 6
-data.ud.txt 1
-data.yx.txt 1
-data.zcdg.txt 1
-data.zcql.txt 1
-data.zdgt.txt 1
-data.zexx.txt 1
+data.ud.txt 3.1086847136800873
+data.yx.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zexx.txt 3.1086847136800873

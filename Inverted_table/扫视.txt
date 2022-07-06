@@ -1,6 +1,6 @@
 5
-data.tj.txt 1
-data.vi.txt 1
-data.zbsm.txt 1
-data.zdfl.txt 1
-data.zefu.txt 1
+data.tj.txt 3.235060386727117
+data.vi.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zdfl.txt 3.235060386727117
+data.zefu.txt 3.235060386727117

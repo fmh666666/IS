@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.gk.txt 1
-data.zail.txt 1
-data.zarc.txt 1
-data.zaxx.txt 1
-data.zbdb.txt 1
-data.zbht.txt 1
-data.zddx.txt 1
-data.zdeb.txt 1
-data.zdle.txt 12
-data.zdqz.txt 4
-data.zeta.txt 3
+data.cf.txt 2.628231699761886
+data.gk.txt 2.628231699761886
+data.zail.txt 2.628231699761886
+data.zarc.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbht.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdle.txt 9.725612970276357
+data.zdqz.txt 6.1025650235506905
+data.zeta.txt 5.256463399523772

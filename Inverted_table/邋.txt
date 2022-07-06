@@ -1,9 +1,9 @@
 8
-data.zacp.txt 1
-data.zazw.txt 1
-data.zbjq.txt 4
-data.zdbf.txt 4
-data.zdnc.txt 1
-data.zeac.txt 1
-data.zejk.txt 1
-data.zexx.txt 1
+data.zacp.txt 2.9092786962624935
+data.zazw.txt 2.9092786962624935
+data.zbjq.txt 6.7551359407091605
+data.zdbf.txt 6.7551359407091605
+data.zdnc.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935
+data.zexx.txt 2.9092786962624935

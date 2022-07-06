@@ -1,4 +1,4 @@
 3
-data.zdxw.txt 1
-data.zeai.txt 1
-data.zewn.txt 1
+data.zdxw.txt 3.5891377275982888
+data.zeai.txt 3.5891377275982888
+data.zewn.txt 3.5891377275982888

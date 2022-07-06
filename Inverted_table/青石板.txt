@@ -1,9 +1,9 @@
 8
-data.aj.txt 2
-data.gz.txt 1
-data.zabe.txt 1
-data.zafq.txt 1
-data.zazg.txt 1
-data.zbfg.txt 1
-data.zcda.txt 1
-data.zdpw.txt 1
+data.aj.txt 4.611097637722987
+data.gz.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zbfg.txt 2.9092786962624935
+data.zcda.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935

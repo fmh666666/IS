@@ -1,6 +1,6 @@
 5
-data.zank.txt 1
-data.zarc.txt 1
-data.zbhd.txt 1
-data.zchd.txt 1
-data.zdle.txt 1
+data.zank.txt 3.235060386727117
+data.zarc.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zchd.txt 3.235060386727117
+data.zdle.txt 3.235060386727117

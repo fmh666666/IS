@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.ka.txt 1
-data.zafy.txt 1
-data.zajh.txt 1
-data.zaql.txt 1
-data.zcmv.txt 1
-data.zcue.txt 1
-data.zdgt.txt 1
-data.zelt.txt 1
-data.zfai.txt 1
-data.zfdk.txt 1
+data.dg.txt 2.6885433903988862
+data.ka.txt 2.6885433903988862
+data.zafy.txt 2.6885433903988862
+data.zajh.txt 2.6885433903988862
+data.zaql.txt 2.6885433903988862
+data.zcmv.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862
+data.zfdk.txt 2.6885433903988862

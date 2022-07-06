@@ -1,6 +1,6 @@
 5
-data.zayv.txt 1
-data.zcaq.txt 1
-data.zcpa.txt 1
-data.zdgv.txt 1
-data.zeva.txt 1
+data.zayv.txt 3.235060386727117
+data.zcaq.txt 3.235060386727117
+data.zcpa.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117
+data.zeva.txt 3.235060386727117

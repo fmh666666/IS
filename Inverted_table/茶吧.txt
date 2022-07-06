@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.to.txt 1
-data.zbaf.txt 1
-data.zbnx.txt 1
-data.zcku.txt 1
-data.zcxh.txt 1
-data.zdib.txt 2
-data.zduo.txt 1
+data.gw.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zbaf.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zcxh.txt 2.9092786962624935
+data.zdib.txt 4.611097637722987
+data.zduo.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.kq.txt 1
-data.zcdz.txt 2
-data.zcmx.txt 1
-data.zerh.txt 1
+data.kq.txt 3.389731710180695
+data.zcdz.txt 5.372597648141796
+data.zcmx.txt 3.389731710180695
+data.zerh.txt 3.389731710180695

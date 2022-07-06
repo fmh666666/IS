@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.yx.txt 1
-data.zanm.txt 1
-data.zccu.txt 1
-data.zcrn.txt 1
-data.zddv.txt 1
-data.zebc.txt 1
-data.zeoh.txt 1
+data.ka.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zanm.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcrn.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

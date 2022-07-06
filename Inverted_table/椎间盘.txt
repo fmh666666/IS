@@ -1,4 +1,4 @@
 3
-data.fj.txt 1
-data.zctp.txt 4
-data.zcts.txt 2
+data.fj.txt 3.5891377275982888
+data.zctp.txt 8.333719726130651
+data.zcts.txt 5.688648708166832

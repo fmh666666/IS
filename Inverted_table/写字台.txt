@@ -1,4 +1,4 @@
 3
-data.fj.txt 2
-data.zcjd.txt 2
-data.zdmw.txt 1
+data.fj.txt 5.688648708166832
+data.zcjd.txt 5.688648708166832
+data.zdmw.txt 3.5891377275982888

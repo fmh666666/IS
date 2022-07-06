@@ -1,6 +1,6 @@
 5
-data.ev.txt 1
-data.zbut.txt 1
-data.zcvq.txt 2
-data.zdga.txt 1
-data.zdgo.txt 1
+data.ev.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zcvq.txt 5.1274494005309625
+data.zdga.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117

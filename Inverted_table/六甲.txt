@@ -1,7 +1,7 @@
 6
-data.vm.txt 1
-data.zajo.txt 1
-data.zcgi.txt 1
-data.zdwz.txt 1
-data.zeai.txt 1
-data.zene.txt 1
+data.vm.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zcgi.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zeai.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

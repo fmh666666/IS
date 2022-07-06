@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.mx.txt 1
-data.yx.txt 1
-data.zbyb.txt 1
-data.zcdy.txt 1
+data.dg.txt 3.235060386727117
+data.mx.txt 3.235060386727117
+data.yx.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.ee.txt 1
-data.ng.txt 1
-data.zbts.txt 1
-data.zeag.txt 1
-data.zeec.txt 1
+data.ee.txt 3.235060386727117
+data.ng.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zeag.txt 3.235060386727117
+data.zeec.txt 3.235060386727117

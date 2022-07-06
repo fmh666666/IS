@@ -1,10 +1,10 @@
 9
-data.co.txt 2
-data.jd.txt 1
-data.zbhv.txt 1
-data.zbjk.txt 3
-data.zbsu.txt 1
-data.zdod.txt 1
-data.zduk.txt 2
-data.zevy.txt 1
-data.zewv.txt 1
+data.co.txt 4.48169974735425
+data.jd.txt 2.82763771717948
+data.zbhv.txt 2.82763771717948
+data.zbjk.txt 5.65527543435896
+data.zbsu.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zduk.txt 4.48169974735425
+data.zevy.txt 2.82763771717948
+data.zewv.txt 2.82763771717948

@@ -1,13 +1,13 @@
 12
-data.fe.txt 1
-data.hg.txt 1
-data.zbmt.txt 1
-data.zbse.txt 1
-data.zbvp.txt 1
-data.zcdy.txt 1
-data.zcmy.txt 1
-data.zdnc.txt 1
-data.zdrq.txt 1
-data.zejk.txt 1
-data.zeoh.txt 1
-data.zezy.txt 1
+data.fe.txt 2.628231699761886
+data.hg.txt 2.628231699761886
+data.zbmt.txt 2.628231699761886
+data.zbse.txt 2.628231699761886
+data.zbvp.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zdnc.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zejk.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

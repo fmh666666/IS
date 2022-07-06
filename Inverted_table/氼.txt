@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.mo.txt 2
-data.wc.txt 1
-data.zard.txt 2
-data.zauy.txt 1
-data.zbjk.txt 1
-data.zcll.txt 1
-data.zcrk.txt 1
-data.zcxp.txt 1
-data.zddl.txt 1
-data.zddx.txt 1
-data.zdwk.txt 1
+data.bb.txt 2.628231699761886
+data.mo.txt 4.165648687329214
+data.wc.txt 2.628231699761886
+data.zard.txt 4.165648687329214
+data.zauy.txt 2.628231699761886
+data.zbjk.txt 2.628231699761886
+data.zcll.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zcxp.txt 2.628231699761886
+data.zddl.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdwk.txt 2.628231699761886

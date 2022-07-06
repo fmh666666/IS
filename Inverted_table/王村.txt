@@ -1,4 +1,4 @@
 3
-data.zajh.txt 13
-data.zbia.txt 1
-data.zdkc.txt 1
+data.zajh.txt 13.665121193113988
+data.zbia.txt 3.5891377275982888
+data.zdkc.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.zabj.txt 1
-data.zapl.txt 1
-data.zbia.txt 1
-data.zcic.txt 1
-data.zcjo.txt 1
-data.zcrv.txt 1
-data.zddp.txt 1
-data.zdoq.txt 1
-data.zdpw.txt 8
-data.zeoh.txt 2
-data.zfcj.txt 1
+data.zabj.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zbia.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zcjo.txt 2.6885433903988862
+data.zcrv.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zdpw.txt 8.52248091068791
+data.zeoh.txt 4.261240455343955
+data.zfcj.txt 2.6885433903988862

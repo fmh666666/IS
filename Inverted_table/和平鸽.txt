@@ -1,4 +1,4 @@
 3
-data.zdzg.txt 1
-data.zeqv.txt 1
-data.zfai.txt 3
+data.zdzg.txt 3.5891377275982888
+data.zeqv.txt 3.5891377275982888
+data.zfai.txt 7.1782754551965775

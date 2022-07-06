@@ -1,10 +1,10 @@
 9
-data.pa.txt 1
-data.zahd.txt 1
-data.zcee.txt 6
-data.zcef.txt 2
-data.zcej.txt 1
-data.zcft.txt 1
-data.zcfx.txt 1
-data.zdcw.txt 1
-data.zezy.txt 2
+data.pa.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zcee.txt 7.938182663119541
+data.zcef.txt 4.48169974735425
+data.zcej.txt 2.82763771717948
+data.zcft.txt 2.82763771717948
+data.zcfx.txt 2.82763771717948
+data.zdcw.txt 2.82763771717948
+data.zezy.txt 4.48169974735425

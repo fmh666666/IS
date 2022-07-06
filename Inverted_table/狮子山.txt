@@ -1,4 +1,4 @@
 3
-data.tj.txt 1
-data.zawc.txt 4
-data.zcvq.txt 1
+data.tj.txt 3.5891377275982888
+data.zawc.txt 8.333719726130651
+data.zcvq.txt 3.5891377275982888

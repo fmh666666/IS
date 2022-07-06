@@ -1,11 +1,11 @@
 10
-data.to.txt 1
-data.zabe.txt 1
-data.zawb.txt 1
-data.zaxx.txt 1
-data.zbga.txt 1
-data.zbkj.txt 1
-data.zcdv.txt 1
-data.zcmn.txt 1
-data.zctm.txt 1
-data.zebf.txt 1
+data.to.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zaxx.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcmn.txt 2.7546073728089153
+data.zctm.txt 2.7546073728089153
+data.zebf.txt 2.7546073728089153

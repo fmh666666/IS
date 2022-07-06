@@ -1,2 +1,2 @@
 1
-data.zexm.txt 1
+data.zexm.txt 4.350637738017098

@@ -1,9 +1,9 @@
 8
-data.zbil.txt 1
-data.zbre.txt 1
-data.zbuj.txt 1
-data.zcvt.txt 1
-data.zdqz.txt 1
-data.zeai.txt 1
-data.zedo.txt 1
-data.zeel.txt 1
+data.zbil.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zbuj.txt 2.9092786962624935
+data.zcvt.txt 2.9092786962624935
+data.zdqz.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935

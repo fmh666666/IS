@@ -1,2 +1,2 @@
 1
-data.zeag.txt 2
+data.zeag.txt 6.8955976689794145

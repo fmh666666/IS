@@ -1,4 +1,4 @@
 3
-data.zdep.txt 1
-data.zene.txt 1
-data.zeyu.txt 2
+data.zdep.txt 3.5891377275982888
+data.zene.txt 3.5891377275982888
+data.zeyu.txt 5.688648708166832

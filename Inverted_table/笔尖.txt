@@ -1,12 +1,12 @@
 11
-data.bb.txt 2
-data.tj.txt 7
-data.zafk.txt 1
-data.zajo.txt 1
-data.zcpb.txt 1
-data.zcts.txt 3
-data.zdlg.txt 1
-data.zdpw.txt 1
-data.zedd.txt 1
-data.zefd.txt 1
-data.zeoh.txt 1
+data.bb.txt 4.261240455343955
+data.tj.txt 8.06563017119666
+data.zafk.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zcpb.txt 2.6885433903988862
+data.zcts.txt 5.3770867807977725
+data.zdlg.txt 2.6885433903988862
+data.zdpw.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zefd.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

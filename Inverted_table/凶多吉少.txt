@@ -1,7 +1,7 @@
 6
-data.gw.txt 2
-data.hz.txt 1
-data.zbaq.txt 1
-data.zcdg.txt 1
-data.zcdl.txt 1
-data.zfaj.txt 1
+data.gw.txt 4.927148697748023
+data.hz.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcdl.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

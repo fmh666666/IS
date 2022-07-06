@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zbfg.txt 1
-data.zcue.txt 1
+data.op.txt 3.5891377275982888
+data.zbfg.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888

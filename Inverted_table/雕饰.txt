@@ -1,9 +1,9 @@
 8
-data.zabj.txt 1
-data.zayd.txt 1
-data.zbhe.txt 1
-data.zdfl.txt 1
-data.zdpg.txt 1
-data.zdtv.txt 1
-data.zeai.txt 1
-data.zeva.txt 1
+data.zabj.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zdfl.txt 2.9092786962624935
+data.zdpg.txt 2.9092786962624935
+data.zdtv.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zeva.txt 2.9092786962624935

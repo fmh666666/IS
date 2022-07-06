@@ -1,9 +1,9 @@
 8
-data.kq.txt 2
-data.mk.txt 1
-data.zahd.txt 2
-data.zddp.txt 3
-data.zdud.txt 1
-data.zebv.txt 2
-data.zfai.txt 1
-data.zfaj.txt 3
+data.kq.txt 4.611097637722987
+data.mk.txt 2.9092786962624935
+data.zahd.txt 4.611097637722987
+data.zddp.txt 5.818557392524987
+data.zdud.txt 2.9092786962624935
+data.zebv.txt 4.611097637722987
+data.zfai.txt 2.9092786962624935
+data.zfaj.txt 5.818557392524987

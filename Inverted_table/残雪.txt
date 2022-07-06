@@ -1,13 +1,13 @@
 12
-data.tv.txt 1
-data.zabe.txt 1
-data.zahp.txt 1
-data.zbpp.txt 1
-data.zbrd.txt 1
-data.zcfn.txt 1
-data.zdrq.txt 1
-data.zeai.txt 1
-data.zeqv.txt 2
-data.zesi.txt 2
-data.zeva.txt 1
-data.zfdk.txt 1
+data.tv.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zahp.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zbrd.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zeai.txt 2.628231699761886
+data.zeqv.txt 4.165648687329214
+data.zesi.txt 4.165648687329214
+data.zeva.txt 2.628231699761886
+data.zfdk.txt 2.628231699761886

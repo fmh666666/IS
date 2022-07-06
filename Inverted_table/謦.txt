@@ -1,4 +1,4 @@
 3
-data.zdga.txt 1
-data.zdro.txt 1
-data.zdsh.txt 1
+data.zdga.txt 3.5891377275982888
+data.zdro.txt 3.5891377275982888
+data.zdsh.txt 3.5891377275982888

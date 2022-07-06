@@ -1,10 +1,10 @@
 9
-data.ek.txt 1
-data.zazo.txt 1
-data.zbhe.txt 1
-data.zbsf.txt 1
-data.zbzo.txt 1
-data.zcem.txt 1
-data.zdcy.txt 1
-data.zdgv.txt 1
-data.zdpg.txt 2
+data.ek.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zbsf.txt 2.82763771717948
+data.zbzo.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zdgv.txt 2.82763771717948
+data.zdpg.txt 4.48169974735425

@@ -1,10 +1,10 @@
 9
-data.hu.txt 1
-data.kt.txt 1
-data.zbhd.txt 1
-data.zcni.txt 1
-data.zcvt.txt 1
-data.zdzm.txt 2
-data.zebc.txt 1
-data.zefu.txt 1
-data.zerv.txt 1
+data.hu.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zcvt.txt 2.82763771717948
+data.zdzm.txt 4.48169974735425
+data.zebc.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zerv.txt 2.82763771717948

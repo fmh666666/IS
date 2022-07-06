@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.vm.txt 1
-data.zbpm.txt 3
-data.zcko.txt 1
-data.zexx.txt 1
+data.ek.txt 3.235060386727117
+data.vm.txt 3.235060386727117
+data.zbpm.txt 6.470120773454234
+data.zcko.txt 3.235060386727117
+data.zexx.txt 3.235060386727117

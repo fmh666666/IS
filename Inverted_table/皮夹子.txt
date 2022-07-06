@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zbua.txt 1
-data.zdof.txt 1
-data.zdqz.txt 1
-data.zdzg.txt 3
+data.zacd.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117
+data.zdzg.txt 6.470120773454234

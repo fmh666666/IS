@@ -1,10 +1,10 @@
 9
-data.cq.txt 2
-data.dg.txt 1
-data.mk.txt 1
-data.zbht.txt 1
-data.zcak.txt 3
-data.zcdz.txt 1
-data.zdaw.txt 1
-data.zdtv.txt 1
-data.zdwl.txt 1
+data.cq.txt 4.48169974735425
+data.dg.txt 2.82763771717948
+data.mk.txt 2.82763771717948
+data.zbht.txt 2.82763771717948
+data.zcak.txt 5.65527543435896
+data.zcdz.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zdtv.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948

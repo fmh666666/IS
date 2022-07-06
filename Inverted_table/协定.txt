@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.zail.txt 1
-data.zbcj.txt 1
-data.zcll.txt 1
-data.zdcw.txt 2
-data.zdgt.txt 1
-data.zdju.txt 1
-data.zevq.txt 2
+data.cq.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcll.txt 2.9092786962624935
+data.zdcw.txt 4.611097637722987
+data.zdgt.txt 2.9092786962624935
+data.zdju.txt 2.9092786962624935
+data.zevq.txt 4.611097637722987

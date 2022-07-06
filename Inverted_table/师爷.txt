@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.zabe.txt 1
-data.zajo.txt 1
-data.zawb.txt 1
-data.zbrj.txt 2
-data.zbts.txt 2
-data.zcdv.txt 1
-data.zcem.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 2
-data.zfaz.txt 1
+data.ga.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbrj.txt 4.261240455343955
+data.zbts.txt 4.261240455343955
+data.zcdv.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdgt.txt 4.261240455343955
+data.zfaz.txt 2.6885433903988862

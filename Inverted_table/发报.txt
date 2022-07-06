@@ -1,6 +1,6 @@
 5
-data.yx.txt 1
-data.zbsl.txt 1
-data.zdpf.txt 1
-data.zdzi.txt 1
-data.zesi.txt 1
+data.yx.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117
+data.zesi.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.tz.txt 6
-data.zdby.txt 15
-data.zebv.txt 2
+data.tz.txt 10.0759834655157
+data.zdby.txt 14.356550910393155
+data.zebv.txt 5.688648708166832

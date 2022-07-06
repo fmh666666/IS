@@ -1,10 +1,10 @@
 9
-data.vm.txt 1
-data.zajo.txt 1
-data.zbnp.txt 1
-data.zbnx.txt 1
-data.zcdg.txt 1
-data.zdou.txt 1
-data.zdzn.txt 4
-data.zfai.txt 1
-data.zfaj.txt 1
+data.vm.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zbnp.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zdzn.txt 6.565571457682201
+data.zfai.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

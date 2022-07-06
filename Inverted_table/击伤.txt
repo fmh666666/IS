@@ -1,11 +1,11 @@
 10
-data.gz.txt 3
-data.op.txt 1
-data.pa.txt 1
-data.zaim.txt 1
-data.zaqw.txt 1
-data.zaxj.txt 1
-data.zbkv.txt 1
-data.zevq.txt 1
-data.zevt.txt 1
-data.zfaj.txt 1
+data.gz.txt 5.509214745617831
+data.op.txt 2.7546073728089153
+data.pa.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zaqw.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153
+data.zevt.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

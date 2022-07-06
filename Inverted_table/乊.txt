@@ -1,7 +1,7 @@
 6
-data.tz.txt 2
-data.zadv.txt 22
-data.zbcc.txt 2
-data.zcve.txt 4
-data.zdof.txt 16
-data.zewg.txt 2
+data.tz.txt 4.927148697748023
+data.zadv.txt 14.06232790417923
+data.zbcc.txt 4.927148697748023
+data.zcve.txt 7.21814237484067
+data.zdof.txt 12.706633252330308
+data.zewg.txt 4.927148697748023

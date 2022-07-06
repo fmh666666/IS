@@ -1,6 +1,6 @@
 5
-data.zbcc.txt 1
-data.zbtx.txt 1
-data.zckd.txt 1
-data.zcll.txt 1
-data.zcln.txt 1
+data.zbcc.txt 3.235060386727117
+data.zbtx.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zcll.txt 3.235060386727117
+data.zcln.txt 3.235060386727117

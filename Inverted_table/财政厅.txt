@@ -1,5 +1,5 @@
 4
-data.gw.txt 1
-data.zbnp.txt 1
-data.zdnh.txt 2
-data.zene.txt 1
+data.gw.txt 3.389731710180695
+data.zbnp.txt 3.389731710180695
+data.zdnh.txt 5.372597648141796
+data.zene.txt 3.389731710180695

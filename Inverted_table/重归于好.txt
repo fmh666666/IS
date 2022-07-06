@@ -1,5 +1,5 @@
 4
-data.ft.txt 1
-data.zajo.txt 1
-data.zbcv.txt 1
-data.zbha.txt 2
+data.ft.txt 3.389731710180695
+data.zajo.txt 3.389731710180695
+data.zbcv.txt 3.389731710180695
+data.zbha.txt 5.372597648141796

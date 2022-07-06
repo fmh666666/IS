@@ -1,7 +1,7 @@
 6
-data.zasr.txt 1
-data.zbds.txt 1
-data.zbpx.txt 1
-data.zdqx.txt 1
-data.zeoh.txt 1
-data.zfai.txt 2
+data.zasr.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zdqx.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zfai.txt 4.927148697748023

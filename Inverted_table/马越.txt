@@ -1,4 +1,4 @@
 3
-data.ng.txt 1
-data.zajo.txt 1
-data.zbpm.txt 1
+data.ng.txt 3.5891377275982888
+data.zajo.txt 3.5891377275982888
+data.zbpm.txt 3.5891377275982888

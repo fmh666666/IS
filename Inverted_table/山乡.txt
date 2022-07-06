@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.ka.txt 1
-data.vz.txt 1
-data.zctm.txt 1
-data.zdgt.txt 2
-data.zdme.txt 1
+data.fp.txt 3.1086847136800873
+data.ka.txt 3.1086847136800873
+data.vz.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zdgt.txt 4.927148697748023
+data.zdme.txt 3.1086847136800873

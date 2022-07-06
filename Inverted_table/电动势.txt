@@ -1,2 +1,2 @@
 1
-data.zedy.txt 5
+data.zedy.txt 11.246235406996512

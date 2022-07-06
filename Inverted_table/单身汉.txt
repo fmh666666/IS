@@ -1,12 +1,12 @@
 11
-data.zbfp.txt 1
-data.zbhv.txt 1
-data.zbkj.txt 1
-data.zcli.txt 1
-data.zcpa.txt 1
-data.zdkc.txt 1
-data.zdlg.txt 2
-data.zdof.txt 1
-data.zdoq.txt 1
-data.zejn.txt 2
-data.zess.txt 1
+data.zbfp.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zcli.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdlg.txt 4.261240455343955
+data.zdof.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zejn.txt 4.261240455343955
+data.zess.txt 2.6885433903988862

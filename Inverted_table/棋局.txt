@@ -1,12 +1,12 @@
 11
-data.zafe.txt 1
-data.zaoy.txt 1
-data.zarr.txt 1
-data.zbdb.txt 1
-data.zbkr.txt 1
-data.zcdz.txt 1
-data.zdcy.txt 2
-data.zdou.txt 1
-data.zduo.txt 1
-data.zefs.txt 1
-data.zfaj.txt 1
+data.zafe.txt 2.6885433903988862
+data.zaoy.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zbkr.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zdcy.txt 4.261240455343955
+data.zdou.txt 2.6885433903988862
+data.zduo.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

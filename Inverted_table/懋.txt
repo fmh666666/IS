@@ -1,10 +1,10 @@
 9
-data.jd.txt 1
-data.ok.txt 1
-data.ud.txt 1
-data.zaxk.txt 1
-data.zctn.txt 3
-data.zcxp.txt 1
-data.zdgt.txt 1
-data.zdqx.txt 3
-data.zfcj.txt 1
+data.jd.txt 2.82763771717948
+data.ok.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zctn.txt 5.65527543435896
+data.zcxp.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdqx.txt 5.65527543435896
+data.zfcj.txt 2.82763771717948

@@ -1,8 +1,8 @@
 7
-data.qn.txt 1
-data.zbjc.txt 2
-data.zcby.txt 1
-data.zchw.txt 1
-data.zcoy.txt 1
-data.zdaw.txt 1
-data.zdod.txt 1
+data.qn.txt 3.0018356045764243
+data.zbjc.txt 4.757796866583254
+data.zcby.txt 3.0018356045764243
+data.zchw.txt 3.0018356045764243
+data.zcoy.txt 3.0018356045764243
+data.zdaw.txt 3.0018356045764243
+data.zdod.txt 3.0018356045764243

@@ -1,13 +1,13 @@
 12
-data.zacw.txt 1
-data.zank.txt 1
-data.zawb.txt 1
-data.zaxx.txt 1
-data.zbha.txt 2
-data.zbrj.txt 1
-data.zbsl.txt 1
-data.zbsm.txt 1
-data.zcvq.txt 1
-data.zebn.txt 4
-data.zeec.txt 1
-data.zekw.txt 2
+data.zacw.txt 2.628231699761886
+data.zank.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zbha.txt 4.165648687329214
+data.zbrj.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zebn.txt 6.1025650235506905
+data.zeec.txt 2.628231699761886
+data.zekw.txt 4.165648687329214

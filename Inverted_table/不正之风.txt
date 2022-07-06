@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.kq.txt 1
-data.zamp.txt 1
-data.zbaq.txt 1
-data.zbfd.txt 1
-data.zbha.txt 1
-data.zcak.txt 1
-data.zdlw.txt 1
-data.zdpg.txt 1
-data.zevq.txt 1
-data.zexv.txt 1
-data.zfai.txt 1
-data.zfcg.txt 1
+data.ga.txt 2.5727503226135906
+data.kq.txt 2.5727503226135906
+data.zamp.txt 2.5727503226135906
+data.zbaq.txt 2.5727503226135906
+data.zbfd.txt 2.5727503226135906
+data.zbha.txt 2.5727503226135906
+data.zcak.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zdpg.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906
+data.zexv.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfcg.txt 2.5727503226135906

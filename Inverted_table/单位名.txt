@@ -1,4 +1,4 @@
 3
-data.zaim.txt 2
-data.zbdb.txt 1
-data.zeel.txt 2
+data.zaim.txt 5.688648708166832
+data.zbdb.txt 3.5891377275982888
+data.zeel.txt 5.688648708166832

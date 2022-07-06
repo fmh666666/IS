@@ -1,7 +1,7 @@
 6
-data.zaxk.txt 1
-data.zblq.txt 1
-data.zciq.txt 1
-data.zcsu.txt 1
-data.zdqz.txt 1
-data.zeyg.txt 1
+data.zaxk.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zcsu.txt 3.1086847136800873
+data.zdqz.txt 3.1086847136800873
+data.zeyg.txt 3.1086847136800873

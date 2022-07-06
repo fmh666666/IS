@@ -1,13 +1,13 @@
 12
-data.ek.txt 1
-data.gk.txt 1
-data.zaoc.txt 1
-data.zasq.txt 1
-data.zbdb.txt 1
-data.zbjk.txt 1
-data.zbpc.txt 1
-data.zbye.txt 1
-data.zdlg.txt 1
-data.zdll.txt 1
-data.zdoq.txt 1
-data.zeoh.txt 1
+data.ek.txt 2.628231699761886
+data.gk.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zasq.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbjk.txt 2.628231699761886
+data.zbpc.txt 2.628231699761886
+data.zbye.txt 2.628231699761886
+data.zdlg.txt 2.628231699761886
+data.zdll.txt 2.628231699761886
+data.zdoq.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

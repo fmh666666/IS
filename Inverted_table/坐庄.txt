@@ -1,5 +1,5 @@
 4
-data.fj.txt 1
-data.kq.txt 1
-data.zaub.txt 1
-data.zexv.txt 2
+data.fj.txt 3.389731710180695
+data.kq.txt 3.389731710180695
+data.zaub.txt 3.389731710180695
+data.zexv.txt 5.372597648141796

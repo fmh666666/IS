@@ -1,6 +1,6 @@
 5
-data.zbfd.txt 1
-data.zbjk.txt 1
-data.zbot.txt 6
-data.zdeq.txt 1
-data.zeun.txt 29
+data.zbfd.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbot.txt 9.081962699831948
+data.zdeq.txt 3.235060386727117
+data.zeun.txt 15.874087387856948

@@ -1,9 +1,9 @@
 8
-data.zacw.txt 1
-data.zaqw.txt 1
-data.zbwa.txt 1
-data.zccu.txt 1
-data.zcqs.txt 1
-data.zefw.txt 1
-data.zehb.txt 1
-data.zezm.txt 1
+data.zacw.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935

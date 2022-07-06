@@ -1,6 +1,6 @@
 5
-data.by.txt 1
-data.zazo.txt 1
-data.zbha.txt 1
-data.zcko.txt 1
-data.zefp.txt 1
+data.by.txt 3.235060386727117
+data.zazo.txt 3.235060386727117
+data.zbha.txt 3.235060386727117
+data.zcko.txt 3.235060386727117
+data.zefp.txt 3.235060386727117

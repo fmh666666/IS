@@ -1,6 +1,6 @@
 5
-data.pn.txt 2
-data.zblr.txt 1
-data.zcej.txt 1
-data.zduk.txt 1
-data.zdux.txt 1
+data.pn.txt 5.1274494005309625
+data.zblr.txt 3.235060386727117
+data.zcej.txt 3.235060386727117
+data.zduk.txt 3.235060386727117
+data.zdux.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.pa.txt 1
-data.zacw.txt 1
-data.zasd.txt 2
-data.zbel.txt 1
-data.zclh.txt 1
-data.zcxh.txt 1
-data.zdof.txt 1
-data.zdwn.txt 1
-data.zelt.txt 1
-data.zeqh.txt 1
-data.zeqv.txt 1
-data.zesi.txt 1
-data.zevt.txt 1
+data.pa.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zasd.txt 4.077712785060798
+data.zbel.txt 2.5727503226135906
+data.zclh.txt 2.5727503226135906
+data.zcxh.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zdwn.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906
+data.zesi.txt 2.5727503226135906
+data.zevt.txt 2.5727503226135906

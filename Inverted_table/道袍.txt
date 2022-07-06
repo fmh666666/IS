@@ -1,5 +1,5 @@
 4
-data.zahp.txt 3
-data.zbot.txt 1
-data.zdds.txt 1
-data.zene.txt 1
+data.zahp.txt 6.77946342036139
+data.zbot.txt 3.389731710180695
+data.zdds.txt 3.389731710180695
+data.zene.txt 3.389731710180695

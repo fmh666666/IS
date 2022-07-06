@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.fp.txt 1
-data.to.txt 1
-data.zafv.txt 1
-data.zalm.txt 1
-data.zawz.txt 3
-data.zcvi.txt 1
-data.zeob.txt 2
+data.ew.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zafv.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zawz.txt 5.818557392524987
+data.zcvi.txt 2.9092786962624935
+data.zeob.txt 4.611097637722987

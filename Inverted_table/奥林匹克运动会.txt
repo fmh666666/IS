@@ -1,10 +1,10 @@
 9
-data.co.txt 3
-data.zafi.txt 1
-data.zayc.txt 1
-data.zbhd.txt 1
-data.zbxw.txt 1
-data.zdep.txt 1
-data.zdsh.txt 1
-data.zelj.txt 2
-data.zesi.txt 1
+data.co.txt 5.65527543435896
+data.zafi.txt 2.82763771717948
+data.zayc.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbxw.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zdsh.txt 2.82763771717948
+data.zelj.txt 4.48169974735425
+data.zesi.txt 2.82763771717948

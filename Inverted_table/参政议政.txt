@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zcdg.txt 1
-data.zedx.txt 1
-data.zene.txt 1
-data.zfai.txt 1
+data.zako.txt 3.235060386727117
+data.zcdg.txt 3.235060386727117
+data.zedx.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

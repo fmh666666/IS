@@ -1,7 +1,7 @@
 6
-data.zamr.txt 1
-data.zard.txt 4
-data.zcpx.txt 1
-data.zdux.txt 1
-data.zehp.txt 1
-data.zejk.txt 1
+data.zamr.txt 3.1086847136800873
+data.zard.txt 7.21814237484067
+data.zcpx.txt 3.1086847136800873
+data.zdux.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

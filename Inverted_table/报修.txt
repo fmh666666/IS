@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.zagb.txt 1
-data.zayv.txt 2
-data.zevl.txt 1
+data.bs.txt 3.389731710180695
+data.zagb.txt 3.389731710180695
+data.zayv.txt 5.372597648141796
+data.zevl.txt 3.389731710180695

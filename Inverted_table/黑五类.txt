@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zabe.txt 1
-data.zdzg.txt 77
+data.fp.txt 3.5891377275982888
+data.zabe.txt 3.5891377275982888
+data.zdzg.txt 22.55917423684849

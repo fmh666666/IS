@@ -1,4 +1,4 @@
 3
-data.zbzg.txt 4
-data.zeai.txt 1
-data.zeez.txt 2
+data.zbzg.txt 8.333719726130651
+data.zeai.txt 3.5891377275982888
+data.zeez.txt 5.688648708166832

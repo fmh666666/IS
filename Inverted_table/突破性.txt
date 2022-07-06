@@ -1,9 +1,9 @@
 8
-data.zafq.txt 1
-data.zalj.txt 1
-data.zalt.txt 1
-data.zawb.txt 1
-data.zbht.txt 1
-data.zdrq.txt 1
-data.zerv.txt 1
-data.zevt.txt 2
+data.zafq.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zalt.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbht.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935
+data.zevt.txt 4.611097637722987

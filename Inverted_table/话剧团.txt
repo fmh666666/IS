@@ -1,6 +1,6 @@
 5
-data.zajo.txt 2
-data.zawb.txt 3
-data.zbvm.txt 1
-data.zczp.txt 1
-data.zezy.txt 1
+data.zajo.txt 5.1274494005309625
+data.zawb.txt 6.470120773454234
+data.zbvm.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.tz.txt 1
-data.zasq.txt 2
-data.zbkj.txt 1
-data.zbmt.txt 1
-data.zbor.txt 1
-data.zdhw.txt 1
-data.zdof.txt 2
-data.zdpw.txt 1
-data.zelt.txt 2
-data.zety.txt 1
-data.zewv.txt 1
-data.zeyu.txt 1
-data.zfcg.txt 1
+data.tz.txt 2.5727503226135906
+data.zasq.txt 4.077712785060798
+data.zbkj.txt 2.5727503226135906
+data.zbmt.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zdhw.txt 2.5727503226135906
+data.zdof.txt 4.077712785060798
+data.zdpw.txt 2.5727503226135906
+data.zelt.txt 4.077712785060798
+data.zety.txt 2.5727503226135906
+data.zewv.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906
+data.zfcg.txt 2.5727503226135906

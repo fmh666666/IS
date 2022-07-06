@@ -1,5 +1,5 @@
 4
-data.zajo.txt 1
-data.zawm.txt 2
-data.zbyv.txt 1
-data.zeoo.txt 1
+data.zajo.txt 3.389731710180695
+data.zawm.txt 5.372597648141796
+data.zbyv.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

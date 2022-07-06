@@ -1,13 +1,13 @@
 12
-data.fp.txt 2
-data.mu.txt 1
-data.zafu.txt 4
-data.zawb.txt 2
-data.zbel.txt 1
-data.zcon.txt 1
-data.zdgp.txt 2
-data.zeeh.txt 2
-data.zeil.txt 2
-data.zeos.txt 1
-data.zezn.txt 1
-data.zfaj.txt 5
+data.fp.txt 4.165648687329214
+data.mu.txt 2.628231699761886
+data.zafu.txt 6.1025650235506905
+data.zawb.txt 4.165648687329214
+data.zbel.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdgp.txt 4.165648687329214
+data.zeeh.txt 4.165648687329214
+data.zeil.txt 4.165648687329214
+data.zeos.txt 2.628231699761886
+data.zezn.txt 2.628231699761886
+data.zfaj.txt 6.7938803870911

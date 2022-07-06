@@ -1,2 +1,2 @@
 1
-data.zarc.txt 3
+data.zarc.txt 8.701275476034196

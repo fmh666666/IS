@@ -1,7 +1,7 @@
 6
-data.ng.txt 1
-data.zacw.txt 1
-data.zasd.txt 1
-data.zbha.txt 1
-data.zbta.txt 1
-data.zcdg.txt 1
+data.ng.txt 3.1086847136800873
+data.zacw.txt 3.1086847136800873
+data.zasd.txt 3.1086847136800873
+data.zbha.txt 3.1086847136800873
+data.zbta.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873

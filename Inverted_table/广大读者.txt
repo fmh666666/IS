@@ -1,9 +1,9 @@
 8
-data.dg.txt 2
-data.pn.txt 1
-data.ud.txt 1
-data.zamr.txt 1
-data.zbia.txt 1
-data.zcem.txt 1
-data.zemb.txt 1
-data.zeqv.txt 1
+data.dg.txt 4.611097637722987
+data.pn.txt 2.9092786962624935
+data.ud.txt 2.9092786962624935
+data.zamr.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

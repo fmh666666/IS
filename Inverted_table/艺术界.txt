@@ -1,9 +1,9 @@
 8
-data.xk.txt 1
-data.zajo.txt 2
-data.zall.txt 1
-data.zasj.txt 1
-data.zaxp.txt 1
-data.zccu.txt 1
-data.zdaa.txt 1
-data.zfai.txt 1
+data.xk.txt 2.9092786962624935
+data.zajo.txt 4.611097637722987
+data.zall.txt 2.9092786962624935
+data.zasj.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zdaa.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

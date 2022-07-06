@@ -1,5 +1,5 @@
 4
-data.zaqf.txt 1
-data.zctn.txt 1
-data.zdof.txt 1
-data.zeds.txt 1
+data.zaqf.txt 3.389731710180695
+data.zctn.txt 3.389731710180695
+data.zdof.txt 3.389731710180695
+data.zeds.txt 3.389731710180695

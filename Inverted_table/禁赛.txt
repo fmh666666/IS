@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zaub.txt 1
-data.zbcj.txt 1
-data.zcvq.txt 1
-data.zduk.txt 1
-data.zebv.txt 1
-data.zedo.txt 1
-data.zeds.txt 3
+data.op.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zeds.txt 5.818557392524987

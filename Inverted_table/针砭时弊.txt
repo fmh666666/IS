@@ -1,6 +1,6 @@
 5
-data.co.txt 10
-data.zbdb.txt 1
-data.zbga.txt 1
-data.zcon.txt 1
-data.zevl.txt 1
+data.co.txt 11.191470190044793
+data.zbdb.txt 3.235060386727117
+data.zbga.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zevl.txt 3.235060386727117

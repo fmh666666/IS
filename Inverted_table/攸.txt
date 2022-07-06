@@ -1,14 +1,14 @@
 13
-data.ew.txt 2
-data.kq.txt 1
-data.mx.txt 1
-data.tv.txt 2
-data.zadv.txt 3
-data.zafu.txt 1
-data.zako.txt 1
-data.zasw.txt 1
-data.zaxj.txt 2
-data.zaxk.txt 1
-data.zbla.txt 6
-data.zbyb.txt 1
-data.zekw.txt 1
+data.ew.txt 4.077712785060798
+data.kq.txt 2.5727503226135906
+data.mx.txt 2.5727503226135906
+data.tv.txt 4.077712785060798
+data.zadv.txt 5.145500645227181
+data.zafu.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zaxj.txt 4.077712785060798
+data.zaxk.txt 2.5727503226135906
+data.zbla.txt 7.222623281414552
+data.zbyb.txt 2.5727503226135906
+data.zekw.txt 2.5727503226135906

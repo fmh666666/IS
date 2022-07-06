@@ -1,11 +1,11 @@
 10
-data.mx.txt 1
-data.tv.txt 3
-data.zasq.txt 1
-data.zawu.txt 1
-data.zbkr.txt 1
-data.zcnn.txt 1
-data.zdby.txt 2
-data.zduo.txt 1
-data.zeoh.txt 1
-data.zfdk.txt 1
+data.mx.txt 2.7546073728089153
+data.tv.txt 5.509214745617831
+data.zasq.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbkr.txt 2.7546073728089153
+data.zcnn.txt 2.7546073728089153
+data.zdby.txt 4.365949390112154
+data.zduo.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zfdk.txt 2.7546073728089153

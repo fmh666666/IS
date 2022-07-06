@@ -1,6 +1,6 @@
 5
-data.mi.txt 1
-data.zbpx.txt 1
-data.zcon.txt 1
-data.zcsu.txt 1
-data.zdqx.txt 3
+data.mi.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zdqx.txt 6.470120773454234

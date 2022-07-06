@@ -1,4 +1,4 @@
 3
-data.zbcc.txt 1
-data.zcdz.txt 1
-data.zcqs.txt 1
+data.zbcc.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zcqs.txt 3.5891377275982888

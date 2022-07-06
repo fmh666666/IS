@@ -1,4 +1,4 @@
 3
-data.dg.txt 1
-data.zcdv.txt 1
-data.zeos.txt 1
+data.dg.txt 3.5891377275982888
+data.zcdv.txt 3.5891377275982888
+data.zeos.txt 3.5891377275982888

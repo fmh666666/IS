@@ -1,4 +1,4 @@
 3
-data.co.txt 3
-data.zcft.txt 1
-data.zczl.txt 5
+data.co.txt 7.1782754551965775
+data.zcft.txt 3.5891377275982888
+data.zczl.txt 9.27778643576512

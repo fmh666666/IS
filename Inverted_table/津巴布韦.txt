@@ -1,12 +1,12 @@
 11
-data.hp.txt 1
-data.zajo.txt 1
-data.zbcj.txt 1
-data.zbel.txt 2
-data.zbux.txt 1
-data.zdgv.txt 1
-data.zdlm.txt 1
-data.zdme.txt 1
-data.zdmw.txt 1
-data.zeqn.txt 1
-data.zexv.txt 1
+data.hp.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbel.txt 4.261240455343955
+data.zbux.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zdlm.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862
+data.zexv.txt 2.6885433903988862

@@ -1,11 +1,11 @@
 10
-data.zamp.txt 1
-data.zaoy.txt 1
-data.zbfp.txt 1
-data.zbts.txt 1
-data.zbwa.txt 1
-data.zcql.txt 1
-data.zdcw.txt 1
-data.zdgp.txt 1
-data.zdof.txt 1
-data.zeay.txt 1
+data.zamp.txt 2.7546073728089153
+data.zaoy.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zbts.txt 2.7546073728089153
+data.zbwa.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zdgp.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zeay.txt 2.7546073728089153

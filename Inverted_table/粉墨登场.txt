@@ -1,11 +1,11 @@
 10
-data.gw.txt 1
-data.zaic.txt 1
-data.zapr.txt 1
-data.zawc.txt 1
-data.zbla.txt 1
-data.zbmw.txt 1
-data.zciy.txt 1
-data.zdkp.txt 1
-data.zehp.txt 1
-data.zeve.txt 1
+data.gw.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zapr.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zdkp.txt 2.7546073728089153
+data.zehp.txt 2.7546073728089153
+data.zeve.txt 2.7546073728089153

@@ -1,6 +1,6 @@
 5
-data.zamp.txt 1
-data.zank.txt 1
-data.zawz.txt 1
-data.zdwn.txt 1
-data.zfcj.txt 1
+data.zamp.txt 3.235060386727117
+data.zank.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

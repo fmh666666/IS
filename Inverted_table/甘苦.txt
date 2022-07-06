@@ -1,11 +1,11 @@
 10
-data.zalc.txt 2
-data.zbfp.txt 1
-data.zbht.txt 1
-data.zcoy.txt 1
-data.zcvt.txt 1
-data.zdnh.txt 1
-data.zdpg.txt 1
-data.zekw.txt 1
-data.zewg.txt 1
-data.zfaz.txt 1
+data.zalc.txt 4.365949390112154
+data.zbfp.txt 2.7546073728089153
+data.zbht.txt 2.7546073728089153
+data.zcoy.txt 2.7546073728089153
+data.zcvt.txt 2.7546073728089153
+data.zdnh.txt 2.7546073728089153
+data.zdpg.txt 2.7546073728089153
+data.zekw.txt 2.7546073728089153
+data.zewg.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

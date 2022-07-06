@@ -1,2 +1,2 @@
 1
-data.zaun.txt 3
+data.zaun.txt 8.701275476034196

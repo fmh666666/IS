@@ -1,12 +1,12 @@
 11
-data.cf.txt 1
-data.ek.txt 1
-data.ff.txt 1
-data.ok.txt 1
-data.pn.txt 3
-data.zawu.txt 1
-data.zazw.txt 1
-data.zbmw.txt 2
-data.zdju.txt 1
-data.zdod.txt 1
-data.zeob.txt 1
+data.cf.txt 2.6885433903988862
+data.ek.txt 2.6885433903988862
+data.ff.txt 2.6885433903988862
+data.ok.txt 2.6885433903988862
+data.pn.txt 5.3770867807977725
+data.zawu.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbmw.txt 4.261240455343955
+data.zdju.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zeob.txt 2.6885433903988862

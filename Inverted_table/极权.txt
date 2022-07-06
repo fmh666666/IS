@@ -1,6 +1,6 @@
 5
-data.fp.txt 2
-data.ga.txt 1
-data.zccx.txt 1
-data.zdvl.txt 1
-data.zene.txt 1
+data.fp.txt 5.1274494005309625
+data.ga.txt 3.235060386727117
+data.zccx.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117
+data.zene.txt 3.235060386727117

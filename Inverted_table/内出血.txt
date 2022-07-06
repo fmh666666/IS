@@ -1,9 +1,9 @@
 8
-data.hz.txt 4
-data.xk.txt 1
-data.zcdv.txt 1
-data.zcql.txt 1
-data.zdaq.txt 1
-data.zeaf.txt 1
-data.zeqv.txt 1
-data.zevq.txt 1
+data.hz.txt 6.7551359407091605
+data.xk.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdaq.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

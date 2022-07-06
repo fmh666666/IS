@@ -1,14 +1,14 @@
 13
-data.mi.txt 1
-data.vz.txt 1
-data.zafq.txt 1
-data.zbel.txt 1
-data.zbsm.txt 1
-data.zcao.txt 1
-data.zcmx.txt 1
-data.zctp.txt 1
-data.zcxr.txt 2
-data.zcyv.txt 1
-data.zdof.txt 1
-data.zdud.txt 1
-data.zfai.txt 2
+data.mi.txt 2.5727503226135906
+data.vz.txt 2.5727503226135906
+data.zafq.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zbsm.txt 2.5727503226135906
+data.zcao.txt 2.5727503226135906
+data.zcmx.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zcxr.txt 4.077712785060798
+data.zcyv.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zfai.txt 4.077712785060798

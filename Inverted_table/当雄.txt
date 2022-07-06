@@ -1,4 +1,4 @@
 3
-data.zbcv.txt 2
-data.zbdx.txt 1
-data.zcko.txt 1
+data.zbcv.txt 5.688648708166832
+data.zbdx.txt 3.5891377275982888
+data.zcko.txt 3.5891377275982888

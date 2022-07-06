@@ -1,4 +1,4 @@
 3
-data.zafk.txt 1
-data.zcmn.txt 1
-data.zeeq.txt 1
+data.zafk.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888
+data.zeeq.txt 3.5891377275982888

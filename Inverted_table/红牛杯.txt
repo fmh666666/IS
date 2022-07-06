@@ -1,2 +1,2 @@
 1
-data.zejk.txt 3
+data.zejk.txt 8.701275476034196

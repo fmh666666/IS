@@ -1,4 +1,4 @@
 3
-data.zctp.txt 1
-data.zdgo.txt 3
-data.zfai.txt 2
+data.zctp.txt 3.5891377275982888
+data.zdgo.txt 7.1782754551965775
+data.zfai.txt 5.688648708166832

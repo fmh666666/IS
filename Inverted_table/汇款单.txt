@@ -1,4 +1,4 @@
 3
-data.zafq.txt 2
-data.zawo.txt 3
-data.zelt.txt 2
+data.zafq.txt 5.688648708166832
+data.zawo.txt 7.1782754551965775
+data.zelt.txt 5.688648708166832

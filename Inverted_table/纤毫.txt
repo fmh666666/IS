@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.vz.txt 1
-data.zcao.txt 1
-data.zdux.txt 1
-data.zeam.txt 1
-data.zewv.txt 1
+data.gw.txt 3.1086847136800873
+data.vz.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zdux.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zewv.txt 3.1086847136800873

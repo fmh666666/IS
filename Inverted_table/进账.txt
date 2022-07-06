@@ -1,13 +1,13 @@
 12
-data.cn.txt 2
-data.xk.txt 3
-data.yx.txt 1
-data.zcis.txt 1
-data.zcnn.txt 1
-data.zebf.txt 1
-data.zelt.txt 1
-data.zeob.txt 1
-data.zeoo.txt 1
-data.zeos.txt 1
-data.zeta.txt 1
-data.zewd.txt 1
+data.cn.txt 4.165648687329214
+data.xk.txt 5.256463399523772
+data.yx.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zebf.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zeob.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886
+data.zeos.txt 2.628231699761886
+data.zeta.txt 2.628231699761886
+data.zewd.txt 2.628231699761886

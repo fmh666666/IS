@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zccu.txt 1
-data.zcxq.txt 1
-data.zdkv.txt 1
-data.zdqx.txt 1
+data.zahd.txt 3.235060386727117
+data.zccu.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117
+data.zdqx.txt 3.235060386727117

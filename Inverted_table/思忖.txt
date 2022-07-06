@@ -1,7 +1,7 @@
 6
-data.nh.txt 1
-data.zabe.txt 1
-data.zbkj.txt 1
-data.zdpz.txt 2
-data.zdqx.txt 1
-data.zebf.txt 1
+data.nh.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zdpz.txt 4.927148697748023
+data.zdqx.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873

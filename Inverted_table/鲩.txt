@@ -1,2 +1,2 @@
 1
-data.zemf.txt 4
+data.zemf.txt 10.101867994579104

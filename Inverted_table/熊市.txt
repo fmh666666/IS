@@ -1,9 +1,9 @@
 8
-data.zaqr.txt 1
-data.zcdy.txt 5
-data.zcdz.txt 8
-data.zcgi.txt 1
-data.zcmy.txt 2
-data.zcrg.txt 1
-data.zdgt.txt 3
-data.zdou.txt 1
+data.zaqr.txt 2.9092786962624935
+data.zcdy.txt 7.52037633398548
+data.zcdz.txt 9.222195275445975
+data.zcgi.txt 2.9092786962624935
+data.zcmy.txt 4.611097637722987
+data.zcrg.txt 2.9092786962624935
+data.zdgt.txt 5.818557392524987
+data.zdou.txt 2.9092786962624935

@@ -1,11 +1,11 @@
 10
-data.ev.txt 1
-data.zadv.txt 3
-data.zanm.txt 6
-data.zawm.txt 1
-data.zbkr.txt 1
-data.zcaq.txt 1
-data.zcqs.txt 1
-data.zene.txt 1
-data.zess.txt 1
-data.zexx.txt 1
+data.ev.txt 2.7546073728089153
+data.zadv.txt 5.509214745617831
+data.zanm.txt 7.733160566391275
+data.zawm.txt 2.7546073728089153
+data.zbkr.txt 2.7546073728089153
+data.zcaq.txt 2.7546073728089153
+data.zcqs.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zess.txt 2.7546073728089153
+data.zexx.txt 2.7546073728089153

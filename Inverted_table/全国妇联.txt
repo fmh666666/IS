@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.ng.txt 1
-data.zctp.txt 2
-data.zdby.txt 1
-data.zdzm.txt 1
-data.zevq.txt 2
+data.gw.txt 3.1086847136800873
+data.ng.txt 3.1086847136800873
+data.zctp.txt 4.927148697748023
+data.zdby.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zevq.txt 4.927148697748023

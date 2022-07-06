@@ -1,13 +1,13 @@
 12
-data.wc.txt 1
-data.ye.txt 1
-data.zaim.txt 1
-data.zakb.txt 1
-data.zbls.txt 2
-data.zchd.txt 1
-data.zcmx.txt 1
-data.zdcw.txt 1
-data.zeay.txt 1
-data.zebn.txt 1
-data.zeez.txt 1
-data.zeqv.txt 1
+data.wc.txt 2.628231699761886
+data.ye.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zakb.txt 2.628231699761886
+data.zbls.txt 4.165648687329214
+data.zchd.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zdcw.txt 2.628231699761886
+data.zeay.txt 2.628231699761886
+data.zebn.txt 2.628231699761886
+data.zeez.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886

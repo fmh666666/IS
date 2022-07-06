@@ -1,10 +1,10 @@
 9
-data.ka.txt 2
-data.zahp.txt 1
-data.zbaf.txt 1
-data.zbfd.txt 1
-data.zcon.txt 1
-data.zcxq.txt 1
-data.zdil.txt 1
-data.zdqx.txt 1
-data.zezh.txt 1
+data.ka.txt 4.48169974735425
+data.zahp.txt 2.82763771717948
+data.zbaf.txt 2.82763771717948
+data.zbfd.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zezh.txt 2.82763771717948

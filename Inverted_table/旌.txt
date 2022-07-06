@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.tv.txt 1
-data.wc.txt 1
-data.zabe.txt 1
-data.zarc.txt 1
-data.zazo.txt 1
-data.zcdg.txt 1
-data.zcqg.txt 1
-data.zdby.txt 1
-data.zedy.txt 1
+data.hp.txt 2.7546073728089153
+data.tv.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zarc.txt 2.7546073728089153
+data.zazo.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zcqg.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153

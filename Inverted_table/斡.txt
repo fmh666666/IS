@@ -1,2 +1,2 @@
 1
-data.zess.txt 4
+data.zess.txt 10.101867994579104

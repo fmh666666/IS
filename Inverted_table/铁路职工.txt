@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zbga.txt 2
-data.zbia.txt 1
-data.zcni.txt 1
-data.zene.txt 1
+data.hp.txt 3.235060386727117
+data.zbga.txt 5.1274494005309625
+data.zbia.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zene.txt 3.235060386727117

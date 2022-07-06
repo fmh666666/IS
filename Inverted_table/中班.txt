@@ -1,11 +1,11 @@
 10
-data.zbcj.txt 1
-data.zbor.txt 1
-data.zbta.txt 2
-data.zbwq.txt 1
-data.zccu.txt 1
-data.zcse.txt 1
-data.zcwn.txt 1
-data.zdro.txt 1
-data.zeag.txt 1
-data.zeai.txt 1
+data.zbcj.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbta.txt 4.365949390112154
+data.zbwq.txt 2.7546073728089153
+data.zccu.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zcwn.txt 2.7546073728089153
+data.zdro.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153
+data.zeai.txt 2.7546073728089153

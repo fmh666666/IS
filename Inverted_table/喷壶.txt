@@ -1,9 +1,9 @@
 8
-data.zavx.txt 2
-data.zbcj.txt 1
-data.zbel.txt 1
-data.zbwa.txt 1
-data.zcoy.txt 1
-data.zcql.txt 2
-data.zdgv.txt 1
-data.zedk.txt 1
+data.zavx.txt 4.611097637722987
+data.zbcj.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zcoy.txt 2.9092786962624935
+data.zcql.txt 4.611097637722987
+data.zdgv.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935

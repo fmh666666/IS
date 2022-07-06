@@ -1,6 +1,6 @@
 5
-data.zafk.txt 2
-data.zako.txt 1
-data.zaqf.txt 3
-data.zcon.txt 1
-data.zeeh.txt 1
+data.zafk.txt 5.1274494005309625
+data.zako.txt 3.235060386727117
+data.zaqf.txt 6.470120773454234
+data.zcon.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117

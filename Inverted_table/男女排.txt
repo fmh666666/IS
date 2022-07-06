@@ -1,5 +1,5 @@
 4
-data.kt.txt 1
-data.zapf.txt 1
-data.zcrk.txt 1
-data.zdaa.txt 1
+data.kt.txt 3.389731710180695
+data.zapf.txt 3.389731710180695
+data.zcrk.txt 3.389731710180695
+data.zdaa.txt 3.389731710180695

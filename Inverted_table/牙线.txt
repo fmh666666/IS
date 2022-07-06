@@ -1,7 +1,7 @@
 6
-data.xk.txt 2
-data.zabx.txt 1
-data.zcon.txt 2
-data.zcts.txt 7
-data.zdaq.txt 7
-data.zdar.txt 7
+data.xk.txt 4.927148697748023
+data.zabx.txt 3.1086847136800873
+data.zcon.txt 4.927148697748023
+data.zcts.txt 9.326054141040261
+data.zdaq.txt 9.326054141040261
+data.zdar.txt 9.326054141040261

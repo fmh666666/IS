@@ -1,2 +1,2 @@
 1
-data.zawz.txt 3
+data.zawz.txt 8.701275476034196

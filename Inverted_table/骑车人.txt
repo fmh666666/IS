@@ -1,6 +1,6 @@
 5
-data.zbot.txt 1
-data.zcxr.txt 2
-data.zdyv.txt 1
-data.zexk.txt 1
-data.zfaj.txt 1
+data.zbot.txt 3.235060386727117
+data.zcxr.txt 5.1274494005309625
+data.zdyv.txt 3.235060386727117
+data.zexk.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.fz.txt 1
-data.zavx.txt 1
-data.zcbe.txt 1
-data.zchd.txt 3
-data.zchw.txt 1
-data.zcxq.txt 1
-data.zdcy.txt 1
-data.zfcg.txt 1
-data.zfcp.txt 1
+data.be.txt 2.7546073728089153
+data.fz.txt 2.7546073728089153
+data.zavx.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zchd.txt 5.509214745617831
+data.zchw.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zdcy.txt 2.7546073728089153
+data.zfcg.txt 2.7546073728089153
+data.zfcp.txt 2.7546073728089153

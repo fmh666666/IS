@@ -1,4 +1,4 @@
 3
-data.pa.txt 1
-data.zafi.txt 1
-data.zazw.txt 1
+data.pa.txt 3.5891377275982888
+data.zafi.txt 3.5891377275982888
+data.zazw.txt 3.5891377275982888

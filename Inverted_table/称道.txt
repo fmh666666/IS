@@ -1,12 +1,12 @@
 11
-data.zamr.txt 1
-data.zarc.txt 1
-data.zard.txt 1
-data.zasq.txt 1
-data.zbaq.txt 1
-data.zbkv.txt 1
-data.zbzf.txt 1
-data.zcxr.txt 1
-data.zdep.txt 1
-data.zdzg.txt 1
-data.zeoh.txt 1
+data.zamr.txt 2.6885433903988862
+data.zarc.txt 2.6885433903988862
+data.zard.txt 2.6885433903988862
+data.zasq.txt 2.6885433903988862
+data.zbaq.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zdzg.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

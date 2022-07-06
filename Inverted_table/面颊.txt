@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.xk.txt 1
-data.zapl.txt 1
-data.zawu.txt 1
-data.zcak.txt 1
-data.zdey.txt 1
-data.zdmw.txt 1
-data.zedk.txt 1
-data.zegz.txt 1
-data.zeoo.txt 1
-data.zewd.txt 1
-data.zewn.txt 1
+data.bf.txt 2.628231699761886
+data.xk.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zdey.txt 2.628231699761886
+data.zdmw.txt 2.628231699761886
+data.zedk.txt 2.628231699761886
+data.zegz.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886
+data.zewd.txt 2.628231699761886
+data.zewn.txt 2.628231699761886

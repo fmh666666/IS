@@ -1,12 +1,12 @@
 11
-data.fz.txt 1
-data.kt.txt 1
-data.tv.txt 1
-data.zadv.txt 1
-data.zbil.txt 1
-data.zbnx.txt 1
-data.zdlo.txt 1
-data.zefs.txt 1
-data.zehp.txt 1
-data.zezm.txt 76
-data.zezn.txt 67
+data.fz.txt 2.6885433903988862
+data.kt.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zezm.txt 16.84852753302598
+data.zezn.txt 16.366407986142427

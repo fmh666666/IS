@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zbsd.txt 1
-data.zcel.txt 1
-data.zcfn.txt 3
-data.zdme.txt 1
-data.zeve.txt 1
+data.op.txt 3.1086847136800873
+data.zbsd.txt 3.1086847136800873
+data.zcel.txt 3.1086847136800873
+data.zcfn.txt 6.2173694273601745
+data.zdme.txt 3.1086847136800873
+data.zeve.txt 3.1086847136800873

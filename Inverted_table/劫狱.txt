@@ -1,9 +1,9 @@
 8
-data.gk.txt 1
-data.jf.txt 1
-data.zahp.txt 3
-data.zbga.txt 1
-data.zdds.txt 1
-data.zddv.txt 1
-data.zdhv.txt 1
-data.zfby.txt 1
+data.gk.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zahp.txt 5.818557392524987
+data.zbga.txt 2.9092786962624935
+data.zdds.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zfby.txt 2.9092786962624935

@@ -1,6 +1,6 @@
 5
-data.zcjd.txt 1
-data.zcxr.txt 1
-data.zdaa.txt 1
-data.zebv.txt 2
-data.zeel.txt 1
+data.zcjd.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zdaa.txt 3.235060386727117
+data.zebv.txt 5.1274494005309625
+data.zeel.txt 3.235060386727117

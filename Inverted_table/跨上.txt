@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zbes.txt 2
-data.zbse.txt 1
-data.zcon.txt 1
+data.op.txt 3.389731710180695
+data.zbes.txt 5.372597648141796
+data.zbse.txt 3.389731710180695
+data.zcon.txt 3.389731710180695

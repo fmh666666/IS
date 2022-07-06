@@ -1,6 +1,6 @@
 5
-data.zarr.txt 1
-data.zdgt.txt 1
-data.zdzn.txt 1
-data.zehb.txt 1
-data.zfcj.txt 1
+data.zarr.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zehb.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

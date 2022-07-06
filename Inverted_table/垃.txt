@@ -1,5 +1,5 @@
 4
-data.mt.txt 1
-data.zctp.txt 1
-data.zddp.txt 1
-data.zdgo.txt 1
+data.mt.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zddp.txt 3.389731710180695
+data.zdgo.txt 3.389731710180695

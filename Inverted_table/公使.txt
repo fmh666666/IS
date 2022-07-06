@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.zaxp.txt 1
-data.zbeb.txt 1
-data.zccx.txt 1
-data.zciy.txt 1
-data.zfai.txt 1
+data.ha.txt 3.1086847136800873
+data.zaxp.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zccx.txt 3.1086847136800873
+data.zciy.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.zafl.txt 1
-data.zczb.txt 1
-data.zdds.txt 1
-data.zdwv.txt 1
-data.zdzg.txt 1
-data.zeik.txt 9
-data.zene.txt 2
-data.zfai.txt 3
-data.zfaj.txt 4
+data.zafl.txt 2.82763771717948
+data.zczb.txt 2.82763771717948
+data.zdds.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zeik.txt 9.393209174861681
+data.zene.txt 4.48169974735425
+data.zfai.txt 5.65527543435896
+data.zfaj.txt 6.565571457682201

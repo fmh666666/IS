@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.ew.txt 1
-data.zajh.txt 1
-data.zawz.txt 1
-data.zbel.txt 1
-data.zbjh.txt 1
-data.zbyb.txt 1
-data.zclh.txt 2
-data.zcnn.txt 1
-data.zczb.txt 1
-data.zfby.txt 2
+data.dg.txt 2.6885433903988862
+data.ew.txt 2.6885433903988862
+data.zajh.txt 2.6885433903988862
+data.zawz.txt 2.6885433903988862
+data.zbel.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zbyb.txt 2.6885433903988862
+data.zclh.txt 4.261240455343955
+data.zcnn.txt 2.6885433903988862
+data.zczb.txt 2.6885433903988862
+data.zfby.txt 4.261240455343955

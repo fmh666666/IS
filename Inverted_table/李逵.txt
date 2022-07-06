@@ -1,7 +1,7 @@
 6
-data.hz.txt 2
-data.pq.txt 1
-data.zaop.txt 1
-data.zawb.txt 1
-data.zcts.txt 1
-data.zezm.txt 1
+data.hz.txt 4.927148697748023
+data.pq.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.cq.txt 1
-data.zcdz.txt 2
-data.zduc.txt 1
+data.cq.txt 3.5891377275982888
+data.zcdz.txt 5.688648708166832
+data.zduc.txt 3.5891377275982888

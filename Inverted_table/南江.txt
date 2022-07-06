@@ -1,4 +1,4 @@
 3
-data.by.txt 1
-data.mk.txt 4
-data.zcem.txt 1
+data.by.txt 3.5891377275982888
+data.mk.txt 8.333719726130651
+data.zcem.txt 3.5891377275982888

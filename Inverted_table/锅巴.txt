@@ -1,14 +1,14 @@
 13
-data.cz.txt 1
-data.nh.txt 1
-data.tv.txt 1
-data.zaxk.txt 1
-data.zbds.txt 1
-data.zbvm.txt 2
-data.zbvp.txt 1
-data.zcve.txt 1
-data.zcvq.txt 2
-data.zdkc.txt 1
-data.zedx.txt 1
-data.zefp.txt 1
-data.zfae.txt 1
+data.cz.txt 2.5727503226135906
+data.nh.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zbds.txt 2.5727503226135906
+data.zbvm.txt 4.077712785060798
+data.zbvp.txt 2.5727503226135906
+data.zcve.txt 2.5727503226135906
+data.zcvq.txt 4.077712785060798
+data.zdkc.txt 2.5727503226135906
+data.zedx.txt 2.5727503226135906
+data.zefp.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906

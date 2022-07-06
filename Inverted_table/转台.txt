@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.hc.txt 1
-data.op.txt 1
-data.wg.txt 1
-data.zaic.txt 1
-data.zbcv.txt 1
-data.zcko.txt 1
-data.zcpa.txt 1
-data.zcvq.txt 1
-data.zdpg.txt 1
-data.zejn.txt 1
+data.be.txt 2.6885433903988862
+data.hc.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.wg.txt 2.6885433903988862
+data.zaic.txt 2.6885433903988862
+data.zbcv.txt 2.6885433903988862
+data.zcko.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zcvq.txt 2.6885433903988862
+data.zdpg.txt 2.6885433903988862
+data.zejn.txt 2.6885433903988862

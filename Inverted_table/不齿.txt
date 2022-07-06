@@ -1,6 +1,6 @@
 5
-data.op.txt 6
-data.xk.txt 1
-data.zcko.txt 1
-data.zczl.txt 1
-data.zedk.txt 1
+data.op.txt 9.081962699831948
+data.xk.txt 3.235060386727117
+data.zcko.txt 3.235060386727117
+data.zczl.txt 3.235060386727117
+data.zedk.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.ng.txt 1
-data.zall.txt 1
-data.zaoy.txt 1
-data.zbmw.txt 1
-data.zbuj.txt 1
-data.zchw.txt 1
+data.ng.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zbmw.txt 3.1086847136800873
+data.zbuj.txt 3.1086847136800873
+data.zchw.txt 3.1086847136800873

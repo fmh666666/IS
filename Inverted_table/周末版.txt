@@ -1,3 +1,3 @@
 2
-data.zesq.txt 1
-data.zfcp.txt 1
+data.zesq.txt 3.8701847240988965
+data.zfcp.txt 3.8701847240988965

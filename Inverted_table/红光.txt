@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.ga.txt 1
-data.pa.txt 1
-data.zadv.txt 2
-data.zarr.txt 1
-data.zbjk.txt 1
-data.zcvi.txt 1
-data.zedx.txt 1
-data.zexk.txt 1
-data.zeyy.txt 1
+data.cf.txt 2.7546073728089153
+data.ga.txt 2.7546073728089153
+data.pa.txt 2.7546073728089153
+data.zadv.txt 4.365949390112154
+data.zarr.txt 2.7546073728089153
+data.zbjk.txt 2.7546073728089153
+data.zcvi.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zexk.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153

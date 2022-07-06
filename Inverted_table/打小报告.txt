@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.yx.txt 1
-data.zajr.txt 2
-data.zaxx.txt 1
-data.zciq.txt 1
-data.zcrk.txt 1
-data.zeoh.txt 1
-data.zezm.txt 1
+data.hg.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zajr.txt 4.611097637722987
+data.zaxx.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935

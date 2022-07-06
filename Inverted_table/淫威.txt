@@ -1,8 +1,8 @@
 7
-data.jf.txt 1
-data.zacp.txt 1
-data.zawu.txt 2
-data.zccx.txt 1
-data.zdle.txt 1
-data.zejk.txt 1
-data.zezy.txt 1
+data.jf.txt 3.0018356045764243
+data.zacp.txt 3.0018356045764243
+data.zawu.txt 4.757796866583254
+data.zccx.txt 3.0018356045764243
+data.zdle.txt 3.0018356045764243
+data.zejk.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

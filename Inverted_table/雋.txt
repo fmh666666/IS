@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.zasr.txt 1
-data.zass.txt 1
-data.zbse.txt 9
-data.zbsf.txt 11
-data.zcjd.txt 2
-data.zdkp.txt 1
-data.zehb.txt 1
+data.ew.txt 2.9092786962624935
+data.zasr.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zbse.txt 9.664414636971655
+data.zbsf.txt 10.429655030247973
+data.zcjd.txt 4.611097637722987
+data.zdkp.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935

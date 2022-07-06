@@ -1,9 +1,9 @@
 8
-data.pn.txt 2
-data.zcao.txt 3
-data.zcdy.txt 1
-data.zcmy.txt 1
-data.zctp.txt 9
-data.zdux.txt 1
-data.zehj.txt 1
-data.zexx.txt 2
+data.pn.txt 4.611097637722987
+data.zcao.txt 5.818557392524987
+data.zcdy.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zctp.txt 9.664414636971655
+data.zdux.txt 2.9092786962624935
+data.zehj.txt 2.9092786962624935
+data.zexx.txt 4.611097637722987

@@ -1,9 +1,9 @@
 8
-data.jd.txt 1
-data.tv.txt 1
-data.vi.txt 1
-data.yx.txt 1
-data.zaqr.txt 1
-data.zbds.txt 1
-data.zcsu.txt 1
-data.zdod.txt 1
+data.jd.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.vi.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zaqr.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935

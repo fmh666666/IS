@@ -1,9 +1,9 @@
 8
-data.zalm.txt 1
-data.zbcj.txt 2
-data.zcbe.txt 1
-data.zcft.txt 1
-data.zcgo.txt 1
-data.zcwq.txt 1
-data.zdsh.txt 1
-data.zebf.txt 1
+data.zalm.txt 2.9092786962624935
+data.zbcj.txt 4.611097637722987
+data.zcbe.txt 2.9092786962624935
+data.zcft.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zcwq.txt 2.9092786962624935
+data.zdsh.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

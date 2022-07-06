@@ -1,6 +1,6 @@
 5
-data.zacp.txt 5
-data.zbpp.txt 2
-data.zbyb.txt 1
-data.zcvt.txt 1
-data.zdeb.txt 1
+data.zacp.txt 8.362509787258078
+data.zbpp.txt 5.1274494005309625
+data.zbyb.txt 3.235060386727117
+data.zcvt.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117

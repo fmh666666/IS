@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.tv.txt 3
-data.zdof.txt 2
-data.zdvl.txt 1
-data.zeqv.txt 1
+data.ek.txt 3.235060386727117
+data.tv.txt 6.470120773454234
+data.zdof.txt 5.1274494005309625
+data.zdvl.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

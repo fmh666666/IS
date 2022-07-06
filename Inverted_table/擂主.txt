@@ -1,4 +1,4 @@
 3
-data.zcel.txt 3
-data.zdwd.txt 1
-data.zedd.txt 1
+data.zcel.txt 7.1782754551965775
+data.zdwd.txt 3.5891377275982888
+data.zedd.txt 3.5891377275982888

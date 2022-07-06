@@ -1,6 +1,6 @@
 5
-data.zawu.txt 1
-data.zcmx.txt 1
-data.zcse.txt 1
-data.zdpf.txt 1
-data.zfai.txt 1
+data.zawu.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

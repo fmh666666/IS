@@ -1,7 +1,7 @@
 6
-data.to.txt 1
-data.zawb.txt 1
-data.zbbt.txt 1
-data.zcll.txt 2
-data.zeeh.txt 4
-data.zenw.txt 1
+data.to.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zbbt.txt 3.1086847136800873
+data.zcll.txt 4.927148697748023
+data.zeeh.txt 7.21814237484067
+data.zenw.txt 3.1086847136800873

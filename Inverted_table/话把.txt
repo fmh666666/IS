@@ -1,5 +1,5 @@
 4
-data.bb.txt 1
-data.zazg.txt 1
-data.zdrq.txt 2
-data.zexx.txt 2
+data.bb.txt 3.389731710180695
+data.zazg.txt 3.389731710180695
+data.zdrq.txt 5.372597648141796
+data.zexx.txt 5.372597648141796

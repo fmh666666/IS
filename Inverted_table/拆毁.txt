@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zbfz.txt 2
-data.zdeb.txt 1
-data.zdwd.txt 1
-data.zezy.txt 1
+data.op.txt 3.235060386727117
+data.zbfz.txt 5.1274494005309625
+data.zdeb.txt 3.235060386727117
+data.zdwd.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

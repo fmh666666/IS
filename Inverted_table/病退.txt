@@ -1,6 +1,6 @@
 5
-data.zasw.txt 1
-data.zazn.txt 1
-data.zdwk.txt 1
-data.zeez.txt 1
-data.zesq.txt 1
+data.zasw.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zdwk.txt 3.235060386727117
+data.zeez.txt 3.235060386727117
+data.zesq.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.zajo.txt 4
-data.zfai.txt 1
+data.gz.txt 3.5891377275982888
+data.zajo.txt 8.333719726130651
+data.zfai.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zcdv.txt 1
-data.zcnn.txt 1
+data.ye.txt 3.5891377275982888
+data.zcdv.txt 3.5891377275982888
+data.zcnn.txt 3.5891377275982888

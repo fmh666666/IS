@@ -1,10 +1,10 @@
 9
-data.qn.txt 1
-data.zasw.txt 1
-data.zazn.txt 1
-data.zbhd.txt 1
-data.zcql.txt 1
-data.zcrn.txt 1
-data.zctp.txt 1
-data.zdkp.txt 1
-data.zdwl.txt 1
+data.qn.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdkp.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948

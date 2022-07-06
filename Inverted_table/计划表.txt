@@ -1,7 +1,7 @@
 6
-data.vm.txt 3
-data.zahd.txt 1
-data.zaub.txt 1
-data.zcgi.txt 3
-data.zcww.txt 1
-data.zddv.txt 1
+data.vm.txt 6.2173694273601745
+data.zahd.txt 3.1086847136800873
+data.zaub.txt 3.1086847136800873
+data.zcgi.txt 6.2173694273601745
+data.zcww.txt 3.1086847136800873
+data.zddv.txt 3.1086847136800873

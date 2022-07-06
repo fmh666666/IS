@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.ka.txt 1
-data.ok.txt 1
-data.vi.txt 1
-data.xk.txt 1
-data.zako.txt 1
-data.zayv.txt 1
-data.zbru.txt 1
-data.zcdg.txt 1
-data.zciy.txt 1
-data.zcqs.txt 1
-data.zeec.txt 1
+data.aj.txt 2.628231699761886
+data.ka.txt 2.628231699761886
+data.ok.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.xk.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zayv.txt 2.628231699761886
+data.zbru.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zeec.txt 2.628231699761886

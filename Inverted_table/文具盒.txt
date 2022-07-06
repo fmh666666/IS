@@ -1,8 +1,8 @@
 7
-data.en.txt 1
-data.zafv.txt 1
-data.zcej.txt 1
-data.zciq.txt 2
-data.zduk.txt 1
-data.zenw.txt 1
-data.zeqn.txt 1
+data.en.txt 3.0018356045764243
+data.zafv.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zciq.txt 4.757796866583254
+data.zduk.txt 3.0018356045764243
+data.zenw.txt 3.0018356045764243
+data.zeqn.txt 3.0018356045764243

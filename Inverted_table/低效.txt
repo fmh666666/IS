@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.tv.txt 1
-data.vi.txt 1
-data.zacd.txt 1
-data.zahd.txt 1
-data.zbil.txt 1
-data.zcmx.txt 1
-data.zcmy.txt 1
-data.zcse.txt 3
-data.zcxr.txt 1
-data.zczl.txt 1
-data.zebn.txt 9
+data.kq.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.zacd.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zbil.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zcse.txt 5.256463399523772
+data.zcxr.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zebn.txt 8.730796723312578

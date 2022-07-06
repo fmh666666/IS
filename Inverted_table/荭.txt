@@ -1,10 +1,10 @@
 9
-data.zaxj.txt 1
-data.zaxk.txt 1
-data.zcef.txt 2
-data.zdkp.txt 12
-data.zedx.txt 1
-data.zedy.txt 1
-data.zeid.txt 7
-data.zeoo.txt 1
-data.zevy.txt 1
+data.zaxj.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zcef.txt 4.48169974735425
+data.zdkp.txt 10.463502917164757
+data.zedx.txt 2.82763771717948
+data.zedy.txt 2.82763771717948
+data.zeid.txt 8.48291315153844
+data.zeoo.txt 2.82763771717948
+data.zevy.txt 2.82763771717948

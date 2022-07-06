@@ -1,13 +1,13 @@
 12
-data.zail.txt 2
-data.zbfx.txt 1
-data.zbfz.txt 2
-data.zbkj.txt 1
-data.zbnp.txt 1
-data.zctn.txt 2
-data.zeay.txt 1
-data.zefp.txt 1
-data.zeqv.txt 1
-data.zexm.txt 1
-data.zfai.txt 2
-data.zfaj.txt 1
+data.zail.txt 4.165648687329214
+data.zbfx.txt 2.628231699761886
+data.zbfz.txt 4.165648687329214
+data.zbkj.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zctn.txt 4.165648687329214
+data.zeay.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886
+data.zexm.txt 2.628231699761886
+data.zfai.txt 4.165648687329214
+data.zfaj.txt 2.628231699761886

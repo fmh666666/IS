@@ -1,7 +1,7 @@
 6
-data.by.txt 2
-data.fp.txt 1
-data.zafl.txt 1
-data.zbpx.txt 1
-data.zdcy.txt 2
-data.zdey.txt 1
+data.by.txt 4.927148697748023
+data.fp.txt 3.1086847136800873
+data.zafl.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zdcy.txt 4.927148697748023
+data.zdey.txt 3.1086847136800873

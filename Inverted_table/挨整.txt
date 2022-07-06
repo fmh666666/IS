@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zako.txt 1
-data.zawc.txt 1
-data.zejk.txt 1
-data.zelt.txt 1
+data.zacd.txt 3.235060386727117
+data.zako.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zejk.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

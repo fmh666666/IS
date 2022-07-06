@@ -1,4 +1,4 @@
 3
-data.sq.txt 1
-data.zasw.txt 1
-data.zdpg.txt 2
+data.sq.txt 3.5891377275982888
+data.zasw.txt 3.5891377275982888
+data.zdpg.txt 5.688648708166832

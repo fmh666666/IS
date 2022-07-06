@@ -1,5 +1,5 @@
 4
-data.be.txt 3
-data.hp.txt 1
-data.zajh.txt 1
-data.zcih.txt 2
+data.be.txt 6.77946342036139
+data.hp.txt 3.389731710180695
+data.zajh.txt 3.389731710180695
+data.zcih.txt 5.372597648141796

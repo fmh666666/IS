@@ -1,14 +1,14 @@
 13
-data.ng.txt 1
-data.zako.txt 3
-data.zaxj.txt 3
-data.zbfr.txt 1
-data.zbuj.txt 1
-data.zbvm.txt 1
-data.zcgi.txt 1
-data.zcko.txt 5
-data.zcyv.txt 1
-data.zddp.txt 1
-data.zdgo.txt 1
-data.zeds.txt 1
-data.zedy.txt 1
+data.ng.txt 2.5727503226135906
+data.zako.txt 5.145500645227181
+data.zaxj.txt 5.145500645227181
+data.zbfr.txt 2.5727503226135906
+data.zbuj.txt 2.5727503226135906
+data.zbvm.txt 2.5727503226135906
+data.zcgi.txt 2.5727503226135906
+data.zcko.txt 6.650463107674388
+data.zcyv.txt 2.5727503226135906
+data.zddp.txt 2.5727503226135906
+data.zdgo.txt 2.5727503226135906
+data.zeds.txt 2.5727503226135906
+data.zedy.txt 2.5727503226135906

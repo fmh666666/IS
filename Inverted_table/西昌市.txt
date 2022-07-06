@@ -1,2 +1,2 @@
 1
-data.ud.txt 2
+data.ud.txt 6.8955976689794145

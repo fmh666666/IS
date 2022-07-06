@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.zbkv.txt 1
-data.zbzf.txt 1
-data.zccx.txt 1
-data.zcdy.txt 1
-data.zcmy.txt 3
-data.zcse.txt 1
-data.zcxr.txt 2
-data.zelt.txt 1
-data.zevq.txt 1
-data.zfaj.txt 1
+data.fp.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zccx.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcmy.txt 5.3770867807977725
+data.zcse.txt 2.6885433903988862
+data.zcxr.txt 4.261240455343955
+data.zelt.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

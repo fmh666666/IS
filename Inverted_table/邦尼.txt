@@ -1,8 +1,8 @@
 7
-data.ew.txt 1
-data.fe.txt 1
-data.mi.txt 1
-data.zaeh.txt 2
-data.zbgu.txt 1
-data.zbpx.txt 1
-data.zddl.txt 1
+data.ew.txt 3.0018356045764243
+data.fe.txt 3.0018356045764243
+data.mi.txt 3.0018356045764243
+data.zaeh.txt 4.757796866583254
+data.zbgu.txt 3.0018356045764243
+data.zbpx.txt 3.0018356045764243
+data.zddl.txt 3.0018356045764243

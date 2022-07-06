@@ -1,9 +1,9 @@
 8
-data.jf.txt 4
-data.zalt.txt 3
-data.zbfr.txt 2
-data.zbjh.txt 14
-data.zcvi.txt 1
-data.zcxr.txt 2
-data.zefs.txt 1
-data.zess.txt 1
+data.jf.txt 6.7551359407091605
+data.zalt.txt 5.818557392524987
+data.zbfr.txt 4.611097637722987
+data.zbjh.txt 11.366233578432148
+data.zcvi.txt 2.9092786962624935
+data.zcxr.txt 4.611097637722987
+data.zefs.txt 2.9092786962624935
+data.zess.txt 2.9092786962624935

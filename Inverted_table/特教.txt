@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.qn.txt 1
-data.zaqw.txt 2
-data.zbil.txt 1
-data.zckd.txt 2
-data.zcmx.txt 1
-data.zcpb.txt 2
-data.zezm.txt 1
+data.ka.txt 2.9092786962624935
+data.qn.txt 2.9092786962624935
+data.zaqw.txt 4.611097637722987
+data.zbil.txt 2.9092786962624935
+data.zckd.txt 4.611097637722987
+data.zcmx.txt 2.9092786962624935
+data.zcpb.txt 4.611097637722987
+data.zezm.txt 2.9092786962624935

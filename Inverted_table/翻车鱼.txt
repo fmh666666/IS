@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.zadv.txt 1
-data.zdod.txt 1
-data.zeid.txt 1
-data.zeqh.txt 3
+data.ew.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zdod.txt 3.235060386727117
+data.zeid.txt 3.235060386727117
+data.zeqh.txt 6.470120773454234

@@ -1,10 +1,10 @@
 9
-data.zcao.txt 3
-data.zcvq.txt 1
-data.zcwq.txt 1
-data.zdfl.txt 1
-data.zdro.txt 1
-data.zdwz.txt 1
-data.zelt.txt 1
-data.zeoo.txt 1
-data.zezy.txt 2
+data.zcao.txt 5.65527543435896
+data.zcvq.txt 2.82763771717948
+data.zcwq.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zdro.txt 2.82763771717948
+data.zdwz.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948
+data.zezy.txt 4.48169974735425

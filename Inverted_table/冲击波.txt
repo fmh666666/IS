@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.zamr.txt 1
-data.zbga.txt 1
-data.zbpc.txt 1
-data.zbse.txt 1
-data.zbzo.txt 1
-data.zczl.txt 1
-data.zdgt.txt 1
-data.zdoq.txt 1
-data.zexk.txt 1
+data.bs.txt 2.7546073728089153
+data.zamr.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zbse.txt 2.7546073728089153
+data.zbzo.txt 2.7546073728089153
+data.zczl.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zexk.txt 2.7546073728089153

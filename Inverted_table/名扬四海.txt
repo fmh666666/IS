@@ -1,8 +1,8 @@
 7
-data.gk.txt 1
-data.zbeb.txt 1
-data.zdgp.txt 1
-data.zdgv.txt 1
-data.zdnc.txt 1
-data.zdzi.txt 1
-data.zefp.txt 1
+data.gk.txt 3.0018356045764243
+data.zbeb.txt 3.0018356045764243
+data.zdgp.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdnc.txt 3.0018356045764243
+data.zdzi.txt 3.0018356045764243
+data.zefp.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zaxk.txt 1
-data.zblr.txt 1
-data.zddb.txt 1
-data.zesq.txt 1
+data.kt.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zesq.txt 3.235060386727117

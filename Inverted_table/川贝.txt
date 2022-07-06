@@ -1,14 +1,14 @@
 13
-data.zaxj.txt 1
-data.zbjk.txt 1
-data.zbjq.txt 1
-data.zbor.txt 1
-data.zbsu.txt 1
-data.zbtx.txt 1
-data.zcxp.txt 1
-data.zdcy.txt 1
-data.zdey.txt 1
-data.zdga.txt 3
-data.zdpg.txt 3
-data.zduc.txt 2
-data.zduk.txt 4
+data.zaxj.txt 2.5727503226135906
+data.zbjk.txt 2.5727503226135906
+data.zbjq.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zbtx.txt 2.5727503226135906
+data.zcxp.txt 2.5727503226135906
+data.zdcy.txt 2.5727503226135906
+data.zdey.txt 2.5727503226135906
+data.zdga.txt 5.145500645227181
+data.zdpg.txt 5.145500645227181
+data.zduc.txt 4.077712785060798
+data.zduk.txt 5.97374125520702

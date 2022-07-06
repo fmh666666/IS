@@ -1,7 +1,7 @@
 6
-data.gw.txt 2
-data.hu.txt 2
-data.zcis.txt 1
-data.zcts.txt 1
-data.zdnc.txt 1
-data.zeve.txt 1
+data.gw.txt 4.927148697748023
+data.hu.txt 4.927148697748023
+data.zcis.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdnc.txt 3.1086847136800873
+data.zeve.txt 3.1086847136800873

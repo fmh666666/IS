@@ -1,10 +1,10 @@
 9
-data.zacw.txt 1
-data.zbdb.txt 1
-data.zbes.txt 1
-data.zcmy.txt 1
-data.zdwn.txt 1
-data.zdwz.txt 1
-data.zedo.txt 1
-data.zewn.txt 1
-data.zezh.txt 1
+data.zacw.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbes.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zdwn.txt 2.82763771717948
+data.zdwz.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zewn.txt 2.82763771717948
+data.zezh.txt 2.82763771717948

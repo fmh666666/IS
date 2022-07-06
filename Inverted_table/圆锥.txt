@@ -1,4 +1,4 @@
 3
-data.zbjk.txt 1
-data.zcem.txt 1
-data.zeew.txt 1
+data.zbjk.txt 3.5891377275982888
+data.zcem.txt 3.5891377275982888
+data.zeew.txt 3.5891377275982888

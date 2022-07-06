@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zbhd.txt 1
-data.zcqs.txt 1
-data.zdcy.txt 1
-data.zeel.txt 1
-data.zefu.txt 1
-data.zehp.txt 1
-data.zejn.txt 1
+data.ga.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935
+data.zefu.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.zcak.txt 2
-data.zddb.txt 1
-data.zdmw.txt 1
-data.zfaj.txt 1
+data.zcak.txt 5.372597648141796
+data.zddb.txt 3.389731710180695
+data.zdmw.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

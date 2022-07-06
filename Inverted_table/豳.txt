@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.zafe.txt 1
-data.zaub.txt 1
-data.zaxj.txt 1
-data.zaxk.txt 2
-data.zegz.txt 1
+data.gw.txt 3.1086847136800873
+data.zafe.txt 3.1086847136800873
+data.zaub.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zaxk.txt 4.927148697748023
+data.zegz.txt 3.1086847136800873

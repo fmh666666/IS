@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.zafu.txt 1
-data.zbcj.txt 1
-data.zbot.txt 1
-data.zczp.txt 1
-data.zdlo.txt 1
-data.zdof.txt 1
-data.zdzi.txt 1
-data.zebc.txt 1
-data.zevq.txt 1
+data.bf.txt 2.7546073728089153
+data.zafu.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zdzi.txt 2.7546073728089153
+data.zebc.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153

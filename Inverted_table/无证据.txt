@@ -1,6 +1,6 @@
 5
-data.yx.txt 1
-data.zbor.txt 1
-data.zbxw.txt 1
-data.zeos.txt 1
-data.zfae.txt 1
+data.yx.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zbxw.txt 3.235060386727117
+data.zeos.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

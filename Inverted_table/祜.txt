@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.jf.txt 1
-data.zbwa.txt 1
-data.zcve.txt 1
-data.zeez.txt 1
+data.bf.txt 3.235060386727117
+data.jf.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zeez.txt 3.235060386727117

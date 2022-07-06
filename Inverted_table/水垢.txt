@@ -1,6 +1,6 @@
 5
-data.zbts.txt 3
-data.zcon.txt 1
-data.zcue.txt 1
-data.zcxp.txt 2
-data.zeec.txt 2
+data.zbts.txt 6.470120773454234
+data.zcon.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zcxp.txt 5.1274494005309625
+data.zeec.txt 5.1274494005309625

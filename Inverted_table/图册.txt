@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.zasd.txt 3
-data.zbcj.txt 1
-data.zbhe.txt 4
-data.zbvg.txt 1
-data.zebc.txt 1
-data.zekw.txt 2
-data.zeyg.txt 1
+data.ek.txt 2.9092786962624935
+data.zasd.txt 5.818557392524987
+data.zbcj.txt 2.9092786962624935
+data.zbhe.txt 6.7551359407091605
+data.zbvg.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zekw.txt 4.611097637722987
+data.zeyg.txt 2.9092786962624935

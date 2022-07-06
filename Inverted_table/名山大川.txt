@@ -1,5 +1,5 @@
 4
-data.zaql.txt 1
-data.zbjk.txt 1
-data.zddx.txt 2
-data.zeeh.txt 1
+data.zaql.txt 3.389731710180695
+data.zbjk.txt 3.389731710180695
+data.zddx.txt 5.372597648141796
+data.zeeh.txt 3.389731710180695

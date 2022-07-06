@@ -1,4 +1,4 @@
 3
-data.zbdb.txt 1
-data.zcda.txt 1
-data.zfas.txt 1
+data.zbdb.txt 3.5891377275982888
+data.zcda.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

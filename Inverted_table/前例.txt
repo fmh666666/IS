@@ -1,8 +1,8 @@
 7
-data.dg.txt 1
-data.pn.txt 1
-data.vm.txt 1
-data.zayv.txt 1
-data.zbgu.txt 1
-data.zdcw.txt 1
-data.zdux.txt 1
+data.dg.txt 3.0018356045764243
+data.pn.txt 3.0018356045764243
+data.vm.txt 3.0018356045764243
+data.zayv.txt 3.0018356045764243
+data.zbgu.txt 3.0018356045764243
+data.zdcw.txt 3.0018356045764243
+data.zdux.txt 3.0018356045764243

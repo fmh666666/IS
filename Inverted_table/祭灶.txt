@@ -1,5 +1,5 @@
 4
-data.zbor.txt 3
-data.zcsu.txt 7
-data.zdst.txt 2
-data.zefv.txt 1
+data.zbor.txt 6.77946342036139
+data.zcsu.txt 10.169195130542084
+data.zdst.txt 5.372597648141796
+data.zefv.txt 3.389731710180695

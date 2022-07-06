@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.nh.txt 1
-data.zbcv.txt 1
-data.zbeb.txt 2
-data.zbux.txt 3
-data.zcaq.txt 1
-data.zdbf.txt 1
-data.zdme.txt 1
-data.zdpz.txt 3
-data.zedo.txt 1
-data.zemb.txt 4
-data.zevt.txt 1
+data.bb.txt 2.628231699761886
+data.nh.txt 2.628231699761886
+data.zbcv.txt 2.628231699761886
+data.zbeb.txt 4.165648687329214
+data.zbux.txt 5.256463399523772
+data.zcaq.txt 2.628231699761886
+data.zdbf.txt 2.628231699761886
+data.zdme.txt 2.628231699761886
+data.zdpz.txt 5.256463399523772
+data.zedo.txt 2.628231699761886
+data.zemb.txt 6.1025650235506905
+data.zevt.txt 2.628231699761886

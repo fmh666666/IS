@@ -1,8 +1,8 @@
 7
-data.zail.txt 1
-data.zaqw.txt 1
-data.zawu.txt 1
-data.zbga.txt 1
-data.zbyb.txt 2
-data.zcgo.txt 1
-data.zdgt.txt 1
+data.zail.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zawu.txt 3.0018356045764243
+data.zbga.txt 3.0018356045764243
+data.zbyb.txt 4.757796866583254
+data.zcgo.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243

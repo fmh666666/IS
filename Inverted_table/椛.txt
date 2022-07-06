@@ -1,12 +1,12 @@
 11
-data.zadv.txt 1
-data.zaej.txt 1
-data.zail.txt 1
-data.zbjk.txt 1
-data.zbre.txt 1
-data.zbvf.txt 1
-data.zbyb.txt 1
-data.zcoy.txt 1
-data.zcrg.txt 2
-data.zecf.txt 11
-data.zedy.txt 2
+data.zadv.txt 2.6885433903988862
+data.zaej.txt 2.6885433903988862
+data.zail.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zbvf.txt 2.6885433903988862
+data.zbyb.txt 2.6885433903988862
+data.zcoy.txt 2.6885433903988862
+data.zcrg.txt 4.261240455343955
+data.zecf.txt 9.638327236141729
+data.zedy.txt 4.261240455343955

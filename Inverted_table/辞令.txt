@@ -1,4 +1,4 @@
 3
-data.zcon.txt 1
-data.zdgt.txt 1
-data.zdju.txt 1
+data.zcon.txt 3.5891377275982888
+data.zdgt.txt 3.5891377275982888
+data.zdju.txt 3.5891377275982888

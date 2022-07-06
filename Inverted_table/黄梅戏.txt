@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zbil.txt 1
-data.zcft.txt 1
-data.zckd.txt 1
-data.zcli.txt 1
+data.zawc.txt 3.235060386727117
+data.zbil.txt 3.235060386727117
+data.zcft.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zcli.txt 3.235060386727117

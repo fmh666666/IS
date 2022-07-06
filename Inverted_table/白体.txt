@@ -1,4 +1,4 @@
 3
-data.ff.txt 1
-data.zbmt.txt 1
-data.zcll.txt 1
+data.ff.txt 3.5891377275982888
+data.zbmt.txt 3.5891377275982888
+data.zcll.txt 3.5891377275982888

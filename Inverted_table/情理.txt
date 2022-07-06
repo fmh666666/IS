@@ -1,10 +1,10 @@
 9
-data.dg.txt 1
-data.kt.txt 1
-data.zabe.txt 1
-data.zawb.txt 1
-data.zawu.txt 1
-data.zciy.txt 1
-data.zcku.txt 1
-data.zdeb.txt 1
-data.zedk.txt 1
+data.dg.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zcku.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zedk.txt 2.82763771717948

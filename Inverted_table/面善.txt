@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zawm.txt 1
-data.zblq.txt 1
-data.zcpx.txt 1
-data.zduo.txt 1
+data.zalt.txt 3.235060386727117
+data.zawm.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zcpx.txt 3.235060386727117
+data.zduo.txt 3.235060386727117

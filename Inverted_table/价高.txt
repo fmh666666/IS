@@ -1,12 +1,12 @@
 11
-data.zajh.txt 2
-data.zajr.txt 1
-data.zbmw.txt 1
-data.zbrj.txt 1
-data.zcue.txt 1
-data.zddx.txt 1
-data.zdle.txt 1
-data.zdlw.txt 1
-data.zebn.txt 1
-data.zelt.txt 1
-data.zemb.txt 1
+data.zajh.txt 4.261240455343955
+data.zajr.txt 2.6885433903988862
+data.zbmw.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zddx.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zebn.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862

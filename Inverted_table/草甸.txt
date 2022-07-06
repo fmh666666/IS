@@ -1,11 +1,11 @@
 10
-data.yx.txt 1
-data.zalj.txt 1
-data.zbqu.txt 1
-data.zdmw.txt 1
-data.zdnh.txt 1
-data.zdqx.txt 1
-data.zedx.txt 6
-data.zeik.txt 1
-data.zelt.txt 1
-data.zfaj.txt 1
+data.yx.txt 2.7546073728089153
+data.zalj.txt 2.7546073728089153
+data.zbqu.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153
+data.zdnh.txt 2.7546073728089153
+data.zdqx.txt 2.7546073728089153
+data.zedx.txt 7.733160566391275
+data.zeik.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

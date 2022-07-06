@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zdod.txt 1
-data.zelt.txt 1
-data.zevq.txt 1
-data.zfaz.txt 1
+data.dg.txt 3.235060386727117
+data.zdod.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zevq.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

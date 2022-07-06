@@ -1,8 +1,8 @@
 7
-data.zalj.txt 1
-data.zawc.txt 1
-data.zbfr.txt 1
-data.zbil.txt 1
-data.zbpc.txt 1
-data.zdgv.txt 1
-data.zewg.txt 1
+data.zalj.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zbfr.txt 3.0018356045764243
+data.zbil.txt 3.0018356045764243
+data.zbpc.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zewg.txt 3.0018356045764243

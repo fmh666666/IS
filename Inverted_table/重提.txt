@@ -1,12 +1,12 @@
 11
-data.zabe.txt 1
-data.zacp.txt 1
-data.zawb.txt 1
-data.zbkr.txt 1
-data.zbts.txt 1
-data.zcda.txt 2
-data.zcdz.txt 1
-data.zcqe.txt 1
-data.zctp.txt 1
-data.zdoq.txt 1
-data.zevy.txt 1
+data.zabe.txt 2.6885433903988862
+data.zacp.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbkr.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zcda.txt 4.261240455343955
+data.zcdz.txt 2.6885433903988862
+data.zcqe.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zevy.txt 2.6885433903988862

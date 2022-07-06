@@ -1,6 +1,6 @@
 5
-data.zafu.txt 1
-data.zbse.txt 1
-data.zbsl.txt 1
-data.zcmv.txt 1
-data.zdey.txt 2
+data.zafu.txt 3.235060386727117
+data.zbse.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zcmv.txt 3.235060386727117
+data.zdey.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.zaic.txt 1
-data.zcdy.txt 2
-data.zcmy.txt 2
-data.zduk.txt 2
+data.ha.txt 3.235060386727117
+data.zaic.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zcmy.txt 5.1274494005309625
+data.zduk.txt 5.1274494005309625

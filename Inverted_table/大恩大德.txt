@@ -1,9 +1,9 @@
 8
-data.wc.txt 1
-data.zbds.txt 1
-data.zbha.txt 1
-data.zbvp.txt 1
-data.zcdy.txt 1
-data.zebf.txt 1
-data.zehb.txt 1
-data.zehp.txt 1
+data.wc.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935

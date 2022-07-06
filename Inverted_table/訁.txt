@@ -1,5 +1,5 @@
 4
-data.mo.txt 2
-data.zdle.txt 1
-data.zdsh.txt 1
-data.zexm.txt 1
+data.mo.txt 5.372597648141796
+data.zdle.txt 3.389731710180695
+data.zdsh.txt 3.389731710180695
+data.zexm.txt 3.389731710180695

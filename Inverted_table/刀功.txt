@@ -1,6 +1,6 @@
 5
-data.pq.txt 1
-data.zaqr.txt 1
-data.zbmt.txt 1
-data.zcue.txt 1
-data.zfby.txt 1
+data.pq.txt 3.235060386727117
+data.zaqr.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zfby.txt 3.235060386727117

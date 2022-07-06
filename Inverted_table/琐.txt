@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.jf.txt 1
-data.zaej.txt 1
-data.zaoc.txt 1
-data.zawc.txt 1
-data.zayc.txt 1
-data.zbem.txt 1
-data.zbjk.txt 1
-data.zbnp.txt 1
-data.zdod.txt 1
+data.ga.txt 2.7546073728089153
+data.jf.txt 2.7546073728089153
+data.zaej.txt 2.7546073728089153
+data.zaoc.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zayc.txt 2.7546073728089153
+data.zbem.txt 2.7546073728089153
+data.zbjk.txt 2.7546073728089153
+data.zbnp.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153

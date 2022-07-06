@@ -1,4 +1,4 @@
 3
-data.zadv.txt 1
-data.zcdy.txt 1
-data.zeag.txt 1
+data.zadv.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zeag.txt 3.5891377275982888

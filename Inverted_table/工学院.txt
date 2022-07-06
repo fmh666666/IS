@@ -1,14 +1,14 @@
 13
-data.gw.txt 3
-data.mu.txt 1
-data.zabe.txt 1
-data.zako.txt 1
-data.zaun.txt 12
-data.zcee.txt 1
-data.zcef.txt 3
-data.zcon.txt 1
-data.zctn.txt 1
-data.zdlm.txt 1
-data.zdoq.txt 1
-data.zene.txt 1
-data.zeqn.txt 1
+data.gw.txt 5.145500645227181
+data.mu.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zaun.txt 9.520307478659639
+data.zcee.txt 2.5727503226135906
+data.zcef.txt 5.145500645227181
+data.zcon.txt 2.5727503226135906
+data.zctn.txt 2.5727503226135906
+data.zdlm.txt 2.5727503226135906
+data.zdoq.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zeqn.txt 2.5727503226135906

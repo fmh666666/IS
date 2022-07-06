@@ -1,3 +1,3 @@
 2
-data.zawc.txt 1
-data.zbaq.txt 1
+data.zawc.txt 3.8701847240988965
+data.zbaq.txt 3.8701847240988965

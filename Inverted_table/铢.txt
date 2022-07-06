@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.zazo.txt 2
-data.zbeb.txt 2
-data.zbyb.txt 1
-data.zcts.txt 1
+data.mt.txt 3.235060386727117
+data.zazo.txt 5.1274494005309625
+data.zbeb.txt 5.1274494005309625
+data.zbyb.txt 3.235060386727117
+data.zcts.txt 3.235060386727117

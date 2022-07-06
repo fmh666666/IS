@@ -1,4 +1,4 @@
 3
-data.zamr.txt 3
-data.zdju.txt 2
-data.zete.txt 1
+data.zamr.txt 7.1782754551965775
+data.zdju.txt 5.688648708166832
+data.zete.txt 3.5891377275982888

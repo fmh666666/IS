@@ -1,9 +1,9 @@
 8
-data.xe.txt 1
-data.zbfp.txt 1
-data.zbfr.txt 1
-data.zbnx.txt 1
-data.zdlg.txt 1
-data.zdlw.txt 1
-data.zebn.txt 1
-data.zegz.txt 1
+data.xe.txt 2.9092786962624935
+data.zbfp.txt 2.9092786962624935
+data.zbfr.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zdlg.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935

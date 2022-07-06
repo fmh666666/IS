@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.uz.txt 1
-data.vz.txt 1
-data.zaxp.txt 1
-data.zbsd.txt 1
-data.zcem.txt 1
-data.zctn.txt 2
-data.zedd.txt 1
+data.hp.txt 2.9092786962624935
+data.uz.txt 2.9092786962624935
+data.vz.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbsd.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zctn.txt 4.611097637722987
+data.zedd.txt 2.9092786962624935

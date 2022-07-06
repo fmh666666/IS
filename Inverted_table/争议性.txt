@@ -1,4 +1,4 @@
 3
-data.ev.txt 1
-data.zaql.txt 1
-data.zbxy.txt 1
+data.ev.txt 3.5891377275982888
+data.zaql.txt 3.5891377275982888
+data.zbxy.txt 3.5891377275982888

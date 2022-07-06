@@ -1,4 +1,4 @@
 3
-data.zbpp.txt 1
-data.zcfn.txt 3
-data.zczl.txt 1
+data.zbpp.txt 3.5891377275982888
+data.zcfn.txt 7.1782754551965775
+data.zczl.txt 3.5891377275982888

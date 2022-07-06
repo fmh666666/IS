@@ -1,7 +1,7 @@
 6
-data.zall.txt 1
-data.zbjk.txt 1
-data.zcef.txt 1
-data.zclm.txt 1
-data.zeaf.txt 1
-data.zevq.txt 1
+data.zall.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zeaf.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zafk.txt 2
-data.zduk.txt 2
-data.zelt.txt 1
+data.zafk.txt 5.688648708166832
+data.zduk.txt 5.688648708166832
+data.zelt.txt 3.5891377275982888

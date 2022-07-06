@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.zaip.txt 1
-data.zbjh.txt 4
-data.zbjq.txt 1
-data.zdaq.txt 1
-data.zdnh.txt 1
-data.zdsh.txt 1
-data.zdtr.txt 1
-data.zewn.txt 1
+data.ka.txt 2.82763771717948
+data.zaip.txt 2.82763771717948
+data.zbjh.txt 6.565571457682201
+data.zbjq.txt 2.82763771717948
+data.zdaq.txt 2.82763771717948
+data.zdnh.txt 2.82763771717948
+data.zdsh.txt 2.82763771717948
+data.zdtr.txt 2.82763771717948
+data.zewn.txt 2.82763771717948

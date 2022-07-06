@@ -1,13 +1,13 @@
 12
-data.zaip.txt 1
-data.zbgw.txt 2
-data.zbtx.txt 1
-data.zcll.txt 1
-data.zcon.txt 3
-data.zcvt.txt 2
-data.zcwn.txt 3
-data.zdcw.txt 2
-data.zdju.txt 1
-data.zduc.txt 1
-data.zevy.txt 1
-data.zewg.txt 1
+data.zaip.txt 2.628231699761886
+data.zbgw.txt 4.165648687329214
+data.zbtx.txt 2.628231699761886
+data.zcll.txt 2.628231699761886
+data.zcon.txt 5.256463399523772
+data.zcvt.txt 4.165648687329214
+data.zcwn.txt 5.256463399523772
+data.zdcw.txt 4.165648687329214
+data.zdju.txt 2.628231699761886
+data.zduc.txt 2.628231699761886
+data.zevy.txt 2.628231699761886
+data.zewg.txt 2.628231699761886

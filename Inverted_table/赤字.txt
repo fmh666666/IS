@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zcmx.txt 1
-data.zcmy.txt 1
-data.zcpx.txt 1
-data.zelt.txt 3
+data.zadv.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zcpx.txt 3.235060386727117
+data.zelt.txt 6.470120773454234

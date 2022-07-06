@@ -1,9 +1,9 @@
 8
-data.pn.txt 1
-data.zavx.txt 1
-data.zbsm.txt 1
-data.zclm.txt 1
-data.zcmx.txt 1
-data.zcrg.txt 1
-data.zdux.txt 1
-data.zdwl.txt 1
+data.pn.txt 2.9092786962624935
+data.zavx.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zclm.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcrg.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935

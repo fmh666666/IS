@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.pn.txt 1
-data.zalm.txt 1
-data.zbkf.txt 3
-data.zbqu.txt 3
-data.zbtx.txt 1
-data.zdux.txt 1
-data.zdzg.txt 1
-data.zelj.txt 1
-data.zerh.txt 1
-data.zesq.txt 1
+data.dg.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zalm.txt 2.6885433903988862
+data.zbkf.txt 5.3770867807977725
+data.zbqu.txt 5.3770867807977725
+data.zbtx.txt 2.6885433903988862
+data.zdux.txt 2.6885433903988862
+data.zdzg.txt 2.6885433903988862
+data.zelj.txt 2.6885433903988862
+data.zerh.txt 2.6885433903988862
+data.zesq.txt 2.6885433903988862

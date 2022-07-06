@@ -1,13 +1,13 @@
 12
-data.gw.txt 1
-data.kq.txt 1
-data.vi.txt 1
-data.zbsf.txt 1
-data.zbup.txt 1
-data.zcdz.txt 1
-data.zcli.txt 1
-data.zdwv.txt 1
-data.zefv.txt 1
-data.zeqh.txt 2
-data.zerv.txt 1
-data.zexx.txt 1
+data.gw.txt 2.628231699761886
+data.kq.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.zbsf.txt 2.628231699761886
+data.zbup.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zcli.txt 2.628231699761886
+data.zdwv.txt 2.628231699761886
+data.zefv.txt 2.628231699761886
+data.zeqh.txt 4.165648687329214
+data.zerv.txt 2.628231699761886
+data.zexx.txt 2.628231699761886

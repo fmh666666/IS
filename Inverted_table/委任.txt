@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zbds.txt 1
-data.zbla.txt 1
-data.zcsr.txt 3
-data.zexv.txt 1
+data.op.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zcsr.txt 6.470120773454234
+data.zexv.txt 3.235060386727117

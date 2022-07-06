@@ -1,10 +1,10 @@
 9
-data.tv.txt 1
-data.zadv.txt 1
-data.zaxj.txt 1
-data.zbla.txt 1
-data.zbpp.txt 2
-data.zbtx.txt 1
-data.zegz.txt 1
-data.zeid.txt 1
-data.zevq.txt 2
+data.tv.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zbpp.txt 4.48169974735425
+data.zbtx.txt 2.82763771717948
+data.zegz.txt 2.82763771717948
+data.zeid.txt 2.82763771717948
+data.zevq.txt 4.48169974735425

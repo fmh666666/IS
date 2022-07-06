@@ -1,12 +1,12 @@
 11
-data.tj.txt 1
-data.ye.txt 1
-data.zasw.txt 1
-data.zaxk.txt 1
-data.zbhd.txt 1
-data.zcue.txt 1
-data.zdil.txt 2
-data.zeeh.txt 1
-data.zesi.txt 1
-data.zevq.txt 1
-data.zezy.txt 1
+data.tj.txt 2.6885433903988862
+data.ye.txt 2.6885433903988862
+data.zasw.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zdil.txt 4.261240455343955
+data.zeeh.txt 2.6885433903988862
+data.zesi.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862
+data.zezy.txt 2.6885433903988862

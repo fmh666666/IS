@@ -1,5 +1,5 @@
 4
-data.xk.txt 1
-data.zawc.txt 1
-data.zess.txt 1
-data.zevq.txt 3
+data.xk.txt 3.389731710180695
+data.zawc.txt 3.389731710180695
+data.zess.txt 3.389731710180695
+data.zevq.txt 6.77946342036139

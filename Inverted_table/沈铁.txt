@@ -1,5 +1,5 @@
 4
-data.zdsh.txt 2
-data.zexm.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
+data.zdsh.txt 5.372597648141796
+data.zexm.txt 3.389731710180695
+data.zfai.txt 3.389731710180695
+data.zfaj.txt 5.372597648141796

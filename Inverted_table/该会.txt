@@ -1,11 +1,11 @@
 10
-data.gw.txt 1
-data.zbdb.txt 1
-data.zbrj.txt 1
-data.zbzf.txt 1
-data.zccu.txt 1
-data.zcni.txt 1
-data.zdxw.txt 1
-data.zefw.txt 1
-data.zezm.txt 1
-data.zfai.txt 1
+data.gw.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zbzf.txt 2.7546073728089153
+data.zccu.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zefw.txt 2.7546073728089153
+data.zezm.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

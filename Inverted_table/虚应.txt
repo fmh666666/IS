@@ -1,10 +1,10 @@
 9
-data.jj.txt 1
-data.kq.txt 1
-data.zazg.txt 1
-data.zbha.txt 1
-data.zbhe.txt 2
-data.zbuj.txt 1
-data.zchd.txt 1
-data.zczp.txt 1
-data.zdju.txt 1
+data.jj.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.zazg.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zbhe.txt 4.48169974735425
+data.zbuj.txt 2.82763771717948
+data.zchd.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zdju.txt 2.82763771717948

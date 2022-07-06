@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.cf.txt 1
-data.to.txt 1
-data.xk.txt 1
-data.zavg.txt 2
-data.zaxx.txt 1
-data.zazn.txt 1
-data.zbyv.txt 1
-data.zcfx.txt 1
+data.bb.txt 2.82763771717948
+data.cf.txt 2.82763771717948
+data.to.txt 2.82763771717948
+data.xk.txt 2.82763771717948
+data.zavg.txt 4.48169974735425
+data.zaxx.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zcfx.txt 2.82763771717948

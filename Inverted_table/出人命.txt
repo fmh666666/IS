@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.zaic.txt 1
-data.zass.txt 1
-data.zbes.txt 1
-data.zbil.txt 1
-data.zbxy.txt 1
-data.zcue.txt 1
-data.zddp.txt 1
-data.zdhw.txt 1
-data.zdwv.txt 1
+data.ek.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zbes.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zbxy.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zddp.txt 2.7546073728089153
+data.zdhw.txt 2.7546073728089153
+data.zdwv.txt 2.7546073728089153

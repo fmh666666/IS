@@ -1,2 +1,2 @@
 1
-data.zbkr.txt 1
+data.zbkr.txt 4.350637738017098

@@ -1,6 +1,6 @@
 5
-data.fz.txt 2
-data.tj.txt 1
-data.zajo.txt 3
-data.zbpp.txt 1
-data.zdaw.txt 2
+data.fz.txt 5.1274494005309625
+data.tj.txt 3.235060386727117
+data.zajo.txt 6.470120773454234
+data.zbpp.txt 3.235060386727117
+data.zdaw.txt 5.1274494005309625

@@ -1,12 +1,12 @@
 11
-data.ng.txt 1
-data.pa.txt 1
-data.zbcj.txt 1
-data.zbdx.txt 1
-data.zbhd.txt 1
-data.zcdy.txt 2
-data.zcrk.txt 1
-data.zdlm.txt 1
-data.zeai.txt 1
-data.zesi.txt 1
-data.zexx.txt 1
+data.ng.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zcdy.txt 4.261240455343955
+data.zcrk.txt 2.6885433903988862
+data.zdlm.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zesi.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

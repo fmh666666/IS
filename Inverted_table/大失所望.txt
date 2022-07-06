@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zbga.txt 1
-data.zdcy.txt 1
-data.zdkc.txt 1
-data.zdwv.txt 2
-data.zerh.txt 1
+data.bb.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zdcy.txt 3.1086847136800873
+data.zdkc.txt 3.1086847136800873
+data.zdwv.txt 4.927148697748023
+data.zerh.txt 3.1086847136800873

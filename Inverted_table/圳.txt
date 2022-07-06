@@ -1,13 +1,13 @@
 12
-data.hc.txt 1
-data.vm.txt 1
-data.zagr.txt 1
-data.zazg.txt 1
-data.zbaf.txt 2
-data.zbjc.txt 1
-data.zbjq.txt 1
-data.zcaq.txt 1
-data.zcgi.txt 1
-data.zcxh.txt 13
-data.zdaw.txt 1
-data.zdux.txt 4
+data.hc.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zazg.txt 2.628231699761886
+data.zbaf.txt 4.165648687329214
+data.zbjc.txt 2.628231699761886
+data.zbjq.txt 2.628231699761886
+data.zcaq.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcxh.txt 10.00661089839624
+data.zdaw.txt 2.628231699761886
+data.zdux.txt 6.1025650235506905

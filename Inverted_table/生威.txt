@@ -1,4 +1,4 @@
 3
-data.vm.txt 1
-data.zamr.txt 1
-data.zapf.txt 1
+data.vm.txt 3.5891377275982888
+data.zamr.txt 3.5891377275982888
+data.zapf.txt 3.5891377275982888

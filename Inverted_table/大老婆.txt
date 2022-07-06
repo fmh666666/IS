@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zarc.txt 1
-data.zblh.txt 1
-data.zevq.txt 1
-data.zfcp.txt 1
+data.zadv.txt 3.235060386727117
+data.zarc.txt 3.235060386727117
+data.zblh.txt 3.235060386727117
+data.zevq.txt 3.235060386727117
+data.zfcp.txt 3.235060386727117

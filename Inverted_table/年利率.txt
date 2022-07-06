@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.zauy.txt 1
-data.zcdy.txt 4
+data.hp.txt 3.5891377275982888
+data.zauy.txt 3.5891377275982888
+data.zcdy.txt 8.333719726130651

@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zbvm.txt 1
-data.zciy.txt 1
-data.zdju.txt 1
-data.zduc.txt 1
+data.zawc.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zciy.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zduc.txt 3.1086847136800873

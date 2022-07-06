@@ -1,7 +1,7 @@
 6
-data.zarr.txt 1
-data.zbfx.txt 1
-data.zcgo.txt 1
-data.zdeb.txt 1
-data.zdod.txt 1
-data.zenn.txt 1
+data.zarr.txt 3.1086847136800873
+data.zbfx.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zenn.txt 3.1086847136800873

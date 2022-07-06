@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zafu.txt 1
-data.zazo.txt 1
-data.zbkv.txt 1
-data.zdgt.txt 1
-data.zeeh.txt 1
-data.zexm.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.op.txt 2.82763771717948
+data.zafu.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zeeh.txt 2.82763771717948
+data.zexm.txt 2.82763771717948
+data.zfae.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

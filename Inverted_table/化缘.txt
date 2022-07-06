@@ -1,14 +1,14 @@
 13
-data.ev.txt 1
-data.hg.txt 1
-data.jf.txt 4
-data.zabe.txt 2
-data.zaej.txt 1
-data.zalt.txt 2
-data.zbdb.txt 1
-data.zcem.txt 1
-data.zciy.txt 1
-data.zdby.txt 1
-data.zedk.txt 2
-data.zedo.txt 1
-data.zene.txt 1
+data.ev.txt 2.5727503226135906
+data.hg.txt 2.5727503226135906
+data.jf.txt 5.97374125520702
+data.zabe.txt 4.077712785060798
+data.zaej.txt 2.5727503226135906
+data.zalt.txt 4.077712785060798
+data.zbdb.txt 2.5727503226135906
+data.zcem.txt 2.5727503226135906
+data.zciy.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zedk.txt 4.077712785060798
+data.zedo.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906

@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.hg.txt 1
-data.jd.txt 1
-data.zaet.txt 3
-data.zbcj.txt 2
-data.zbsl.txt 1
-data.zbuj.txt 1
-data.zcvi.txt 1
-data.zddx.txt 2
-data.zeaj.txt 1
-data.zevq.txt 1
-data.zeyg.txt 1
+data.ga.txt 2.628231699761886
+data.hg.txt 2.628231699761886
+data.jd.txt 2.628231699761886
+data.zaet.txt 5.256463399523772
+data.zbcj.txt 4.165648687329214
+data.zbsl.txt 2.628231699761886
+data.zbuj.txt 2.628231699761886
+data.zcvi.txt 2.628231699761886
+data.zddx.txt 4.165648687329214
+data.zeaj.txt 2.628231699761886
+data.zevq.txt 2.628231699761886
+data.zeyg.txt 2.628231699761886

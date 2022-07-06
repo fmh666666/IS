@@ -1,10 +1,10 @@
 9
-data.zaim.txt 1
-data.zawc.txt 1
-data.zbbt.txt 1
-data.zbds.txt 1
-data.zbua.txt 1
-data.zcko.txt 1
-data.zdep.txt 1
-data.zeac.txt 1
-data.zevq.txt 1
+data.zaim.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbbt.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zcko.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zeac.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

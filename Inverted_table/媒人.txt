@@ -1,14 +1,14 @@
 13
-data.jd.txt 1
-data.ng.txt 1
-data.zabj.txt 1
-data.zafq.txt 1
-data.zaql.txt 1
-data.zbmw.txt 1
-data.zbvp.txt 1
-data.zbzg.txt 1
-data.zdcj.txt 2
-data.zdwz.txt 1
-data.zedo.txt 7
-data.zelj.txt 1
-data.zevq.txt 2
+data.jd.txt 2.5727503226135906
+data.ng.txt 2.5727503226135906
+data.zabj.txt 2.5727503226135906
+data.zafq.txt 2.5727503226135906
+data.zaql.txt 2.5727503226135906
+data.zbmw.txt 2.5727503226135906
+data.zbvp.txt 2.5727503226135906
+data.zbzg.txt 2.5727503226135906
+data.zdcj.txt 4.077712785060798
+data.zdwz.txt 2.5727503226135906
+data.zedo.txt 7.7182509678407705
+data.zelj.txt 2.5727503226135906
+data.zevq.txt 4.077712785060798

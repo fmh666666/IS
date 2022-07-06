@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.ng.txt 1
-data.zbdx.txt 1
-data.zbeb.txt 1
-data.zbel.txt 2
-data.zcao.txt 1
-data.zcdy.txt 2
-data.zdod.txt 3
+data.dg.txt 2.9092786962624935
+data.ng.txt 2.9092786962624935
+data.zbdx.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbel.txt 4.611097637722987
+data.zcao.txt 2.9092786962624935
+data.zcdy.txt 4.611097637722987
+data.zdod.txt 5.818557392524987

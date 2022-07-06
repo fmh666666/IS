@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.ha.txt 1
-data.zawc.txt 1
-data.zbls.txt 1
-data.zcgo.txt 1
-data.zdwv.txt 2
+data.ga.txt 3.1086847136800873
+data.ha.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbls.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zdwv.txt 4.927148697748023

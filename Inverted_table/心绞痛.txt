@@ -1,12 +1,12 @@
 11
-data.ft.txt 1
-data.mk.txt 1
-data.zafv.txt 1
-data.zasj.txt 1
-data.zcfn.txt 1
-data.zcjd.txt 1
-data.zdaq.txt 1
-data.zdey.txt 1
-data.zdju.txt 1
-data.zdle.txt 1
-data.zdvl.txt 1
+data.ft.txt 2.6885433903988862
+data.mk.txt 2.6885433903988862
+data.zafv.txt 2.6885433903988862
+data.zasj.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zcjd.txt 2.6885433903988862
+data.zdaq.txt 2.6885433903988862
+data.zdey.txt 2.6885433903988862
+data.zdju.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdvl.txt 2.6885433903988862

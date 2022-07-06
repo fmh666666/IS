@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zcsr.txt 1
-data.zehp.txt 1
-data.zekw.txt 1
-data.zfai.txt 1
+data.hz.txt 3.235060386727117
+data.zcsr.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
+data.zekw.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

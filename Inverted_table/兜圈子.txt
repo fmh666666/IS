@@ -1,5 +1,5 @@
 4
-data.zcwn.txt 1
-data.zczl.txt 1
-data.zdpg.txt 1
-data.zexk.txt 1
+data.zcwn.txt 3.389731710180695
+data.zczl.txt 3.389731710180695
+data.zdpg.txt 3.389731710180695
+data.zexk.txt 3.389731710180695

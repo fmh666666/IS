@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.tz.txt 1
-data.zdzn.txt 1
+data.mx.txt 3.5891377275982888
+data.tz.txt 3.5891377275982888
+data.zdzn.txt 3.5891377275982888

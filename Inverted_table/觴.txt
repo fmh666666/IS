@@ -1,4 +1,4 @@
 3
-data.xk.txt 3
-data.zaxj.txt 1
-data.zeqh.txt 1
+data.xk.txt 7.1782754551965775
+data.zaxj.txt 3.5891377275982888
+data.zeqh.txt 3.5891377275982888

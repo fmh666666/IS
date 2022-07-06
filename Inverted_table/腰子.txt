@@ -1,9 +1,9 @@
 8
-data.zajo.txt 1
-data.zalm.txt 1
-data.zbel.txt 1
-data.zebc.txt 1
-data.zeik.txt 1
-data.zejn.txt 1
-data.zeqh.txt 1
-data.zess.txt 2
+data.zajo.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zeik.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935
+data.zess.txt 4.611097637722987

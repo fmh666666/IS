@@ -1,12 +1,12 @@
 11
-data.xk.txt 1
-data.zbhv.txt 1
-data.zbkj.txt 1
-data.zckd.txt 1
-data.zcko.txt 2
-data.zcmy.txt 1
-data.zdcy.txt 1
-data.zeec.txt 1
-data.zess.txt 1
-data.zevl.txt 1
-data.zewv.txt 1
+data.xk.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zckd.txt 2.6885433903988862
+data.zcko.txt 4.261240455343955
+data.zcmy.txt 2.6885433903988862
+data.zdcy.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862
+data.zess.txt 2.6885433903988862
+data.zevl.txt 2.6885433903988862
+data.zewv.txt 2.6885433903988862

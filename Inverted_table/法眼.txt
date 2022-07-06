@@ -1,10 +1,10 @@
 9
-data.fj.txt 1
-data.pn.txt 1
-data.zamp.txt 1
-data.zapl.txt 2
-data.zbjh.txt 2
-data.zbux.txt 1
-data.zcls.txt 1
-data.zcrg.txt 1
-data.zewn.txt 1
+data.fj.txt 2.82763771717948
+data.pn.txt 2.82763771717948
+data.zamp.txt 2.82763771717948
+data.zapl.txt 4.48169974735425
+data.zbjh.txt 4.48169974735425
+data.zbux.txt 2.82763771717948
+data.zcls.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zewn.txt 2.82763771717948

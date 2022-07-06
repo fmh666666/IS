@@ -1,6 +1,6 @@
 5
-data.zajo.txt 1
-data.zdcj.txt 1
-data.zdic.txt 1
-data.zdux.txt 1
-data.zeik.txt 1
+data.zajo.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zdic.txt 3.235060386727117
+data.zdux.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

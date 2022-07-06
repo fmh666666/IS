@@ -1,6 +1,6 @@
 5
-data.ry.txt 4
-data.zddp.txt 1
-data.zddv.txt 1
-data.zdgp.txt 1
-data.zdzn.txt 1
+data.ry.txt 7.511577600598868
+data.zddp.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.zbdx.txt 1
-data.zbga.txt 1
-data.zdwd.txt 1
-data.zedo.txt 1
-data.zene.txt 1
+data.zbdx.txt 3.235060386727117
+data.zbga.txt 3.235060386727117
+data.zdwd.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zene.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zaeh.txt 1
-data.zanh.txt 2
-data.zcee.txt 1
-data.zdil.txt 1
+data.ga.txt 3.235060386727117
+data.zaeh.txt 3.235060386727117
+data.zanh.txt 5.1274494005309625
+data.zcee.txt 3.235060386727117
+data.zdil.txt 3.235060386727117

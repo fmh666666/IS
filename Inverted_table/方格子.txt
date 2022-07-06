@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zalt.txt 1
-data.zapf.txt 1
-data.zcjy.txt 1
-data.zexk.txt 1
+data.zabe.txt 3.235060386727117
+data.zalt.txt 3.235060386727117
+data.zapf.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

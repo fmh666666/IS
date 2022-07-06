@@ -1,13 +1,13 @@
 12
-data.zalm.txt 1
-data.zarc.txt 1
-data.zblr.txt 1
-data.zbmw.txt 1
-data.zbts.txt 1
-data.zcdz.txt 2
-data.zcrg.txt 1
-data.zcwn.txt 1
-data.zdcy.txt 1
-data.zdpf.txt 2
-data.zdpg.txt 2
-data.zeik.txt 1
+data.zalm.txt 2.628231699761886
+data.zarc.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbmw.txt 2.628231699761886
+data.zbts.txt 2.628231699761886
+data.zcdz.txt 4.165648687329214
+data.zcrg.txt 2.628231699761886
+data.zcwn.txt 2.628231699761886
+data.zdcy.txt 2.628231699761886
+data.zdpf.txt 4.165648687329214
+data.zdpg.txt 4.165648687329214
+data.zeik.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.zaeh.txt 1
-data.zaej.txt 1
-data.zasw.txt 1
-data.zbpp.txt 1
-data.zdcy.txt 1
+data.zaeh.txt 3.235060386727117
+data.zaej.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zbpp.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117

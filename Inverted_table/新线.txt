@@ -1,6 +1,6 @@
 5
-data.zbgd.txt 1
-data.zcqs.txt 1
-data.zdpw.txt 1
-data.zerh.txt 4
-data.zexv.txt 1
+data.zbgd.txt 3.235060386727117
+data.zcqs.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117
+data.zerh.txt 7.511577600598868
+data.zexv.txt 3.235060386727117

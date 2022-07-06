@@ -1,12 +1,12 @@
 11
-data.tv.txt 3
-data.tz.txt 1
-data.zajh.txt 1
-data.zbwa.txt 1
-data.zcdv.txt 1
-data.zcic.txt 2
-data.zclh.txt 1
-data.zdhv.txt 3
-data.zdod.txt 2
-data.zdwz.txt 1
-data.zeqh.txt 1
+data.tv.txt 5.3770867807977725
+data.tz.txt 2.6885433903988862
+data.zajh.txt 2.6885433903988862
+data.zbwa.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcic.txt 4.261240455343955
+data.zclh.txt 2.6885433903988862
+data.zdhv.txt 5.3770867807977725
+data.zdod.txt 4.261240455343955
+data.zdwz.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

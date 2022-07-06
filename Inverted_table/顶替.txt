@@ -1,10 +1,10 @@
 9
-data.zafq.txt 1
-data.zanm.txt 1
-data.zavg.txt 1
-data.zbvn.txt 1
-data.zciy.txt 1
-data.zcpc.txt 1
-data.zcww.txt 1
-data.zdgt.txt 1
-data.zdhw.txt 1
+data.zafq.txt 2.82763771717948
+data.zanm.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zbvn.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zcww.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdhw.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.fp.txt 1
-data.ha.txt 1
-data.xk.txt 1
-data.zaqf.txt 2
-data.zazo.txt 1
-data.zbpx.txt 2
-data.zbwq.txt 1
-data.zcmx.txt 2
-data.zcse.txt 1
-data.zfaz.txt 1
+data.aj.txt 2.6885433903988862
+data.fp.txt 2.6885433903988862
+data.ha.txt 2.6885433903988862
+data.xk.txt 2.6885433903988862
+data.zaqf.txt 4.261240455343955
+data.zazo.txt 2.6885433903988862
+data.zbpx.txt 4.261240455343955
+data.zbwq.txt 2.6885433903988862
+data.zcmx.txt 4.261240455343955
+data.zcse.txt 2.6885433903988862
+data.zfaz.txt 2.6885433903988862

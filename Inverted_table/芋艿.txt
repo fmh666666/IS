@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.zbfg.txt 2
-data.zbha.txt 1
-data.zbsu.txt 1
-data.zbua.txt 1
-data.zclm.txt 1
-data.zeqv.txt 1
+data.kq.txt 3.0018356045764243
+data.zbfg.txt 4.757796866583254
+data.zbha.txt 3.0018356045764243
+data.zbsu.txt 3.0018356045764243
+data.zbua.txt 3.0018356045764243
+data.zclm.txt 3.0018356045764243
+data.zeqv.txt 3.0018356045764243

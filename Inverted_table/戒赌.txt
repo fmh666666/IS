@@ -1,4 +1,4 @@
 3
-data.zcbe.txt 1
-data.zeac.txt 3
-data.zehb.txt 1
+data.zcbe.txt 3.5891377275982888
+data.zeac.txt 7.1782754551965775
+data.zehb.txt 3.5891377275982888

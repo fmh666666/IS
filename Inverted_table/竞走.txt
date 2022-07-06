@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.zacw.txt 1
-data.zajn.txt 1
-data.zbcc.txt 1
-data.zbxw.txt 1
-data.zcft.txt 1
-data.zcku.txt 2
-data.zduk.txt 2
+data.hg.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbxw.txt 2.9092786962624935
+data.zcft.txt 2.9092786962624935
+data.zcku.txt 4.611097637722987
+data.zduk.txt 4.611097637722987

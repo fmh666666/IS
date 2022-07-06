@@ -1,14 +1,14 @@
 13
-data.ev.txt 1
-data.fp.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.yx.txt 1
-data.zadv.txt 1
-data.zajh.txt 3
-data.zane.txt 1
-data.zaxj.txt 2
-data.zaxp.txt 1
-data.zdof.txt 2
-data.zeaj.txt 1
-data.zefv.txt 1
+data.ev.txt 2.5727503226135906
+data.fp.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zajh.txt 5.145500645227181
+data.zane.txt 2.5727503226135906
+data.zaxj.txt 4.077712785060798
+data.zaxp.txt 2.5727503226135906
+data.zdof.txt 4.077712785060798
+data.zeaj.txt 2.5727503226135906
+data.zefv.txt 2.5727503226135906

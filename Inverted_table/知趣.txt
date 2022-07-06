@@ -1,9 +1,9 @@
 8
-data.zawo.txt 1
-data.zazn.txt 1
-data.zbot.txt 2
-data.zbye.txt 1
-data.zcef.txt 1
-data.zchd.txt 2
-data.zdey.txt 1
-data.zeeh.txt 2
+data.zawo.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbot.txt 4.611097637722987
+data.zbye.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zchd.txt 4.611097637722987
+data.zdey.txt 2.9092786962624935
+data.zeeh.txt 4.611097637722987

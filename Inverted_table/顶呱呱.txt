@@ -1,10 +1,10 @@
 9
-data.pq.txt 1
-data.zbfz.txt 1
-data.zbjc.txt 1
-data.zbyb.txt 1
-data.zcon.txt 1
-data.zdcy.txt 1
-data.zdju.txt 1
-data.zdof.txt 1
-data.zeec.txt 2
+data.pq.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbjc.txt 2.82763771717948
+data.zbyb.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zdju.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zeec.txt 4.48169974735425

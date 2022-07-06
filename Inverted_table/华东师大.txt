@@ -1,9 +1,9 @@
 8
-data.ev.txt 3
-data.jd.txt 1
-data.ka.txt 2
-data.zacd.txt 1
-data.zazw.txt 2
-data.zbjq.txt 1
-data.zdlo.txt 1
-data.zdtv.txt 5
+data.ev.txt 5.818557392524987
+data.jd.txt 2.9092786962624935
+data.ka.txt 4.611097637722987
+data.zacd.txt 2.9092786962624935
+data.zazw.txt 4.611097637722987
+data.zbjq.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zdtv.txt 7.52037633398548

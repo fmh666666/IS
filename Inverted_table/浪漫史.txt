@@ -1,9 +1,9 @@
 8
-data.zamr.txt 1
-data.zayd.txt 1
-data.zbha.txt 1
-data.zbhv.txt 1
-data.zbor.txt 1
-data.zciy.txt 3
-data.zcxp.txt 1
-data.zess.txt 3
+data.zamr.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbhv.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zciy.txt 5.818557392524987
+data.zcxp.txt 2.9092786962624935
+data.zess.txt 5.818557392524987

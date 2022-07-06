@@ -1,5 +1,5 @@
 4
-data.op.txt 2
-data.tz.txt 1
-data.zadv.txt 1
-data.zcxr.txt 1
+data.op.txt 5.372597648141796
+data.tz.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zcxr.txt 3.389731710180695

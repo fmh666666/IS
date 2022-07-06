@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zbof.txt 1
-data.zcvi.txt 1
-data.zdkp.txt 1
-data.zduk.txt 1
+data.ka.txt 3.235060386727117
+data.zbof.txt 3.235060386727117
+data.zcvi.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

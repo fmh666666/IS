@@ -1,12 +1,12 @@
 11
-data.jd.txt 1
-data.qn.txt 1
-data.zbpc.txt 1
-data.zchw.txt 1
-data.zciq.txt 1
-data.zcls.txt 1
-data.zdtv.txt 1
-data.zedk.txt 2
-data.zemb.txt 1
-data.zenn.txt 1
-data.zfaw.txt 1
+data.jd.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zbpc.txt 2.6885433903988862
+data.zchw.txt 2.6885433903988862
+data.zciq.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zdtv.txt 2.6885433903988862
+data.zedk.txt 4.261240455343955
+data.zemb.txt 2.6885433903988862
+data.zenn.txt 2.6885433903988862
+data.zfaw.txt 2.6885433903988862

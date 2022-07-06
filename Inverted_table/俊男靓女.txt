@@ -1,12 +1,12 @@
 11
-data.co.txt 2
-data.ry.txt 3
-data.zasj.txt 1
-data.zasw.txt 1
-data.zbxy.txt 1
-data.zcdv.txt 1
-data.zchd.txt 1
-data.zctm.txt 1
-data.zdzi.txt 1
-data.zeai.txt 2
-data.zeos.txt 1
+data.co.txt 4.261240455343955
+data.ry.txt 5.3770867807977725
+data.zasj.txt 2.6885433903988862
+data.zasw.txt 2.6885433903988862
+data.zbxy.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zchd.txt 2.6885433903988862
+data.zctm.txt 2.6885433903988862
+data.zdzi.txt 2.6885433903988862
+data.zeai.txt 4.261240455343955
+data.zeos.txt 2.6885433903988862

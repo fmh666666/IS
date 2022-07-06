@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zawb.txt 1
-data.zbhd.txt 1
-data.zedo.txt 1
-data.zeeh.txt 1
+data.hp.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117

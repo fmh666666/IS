@@ -1,6 +1,6 @@
 5
-data.zawu.txt 1
-data.zcem.txt 1
-data.zdar.txt 1
-data.zdey.txt 1
-data.zdwn.txt 1
+data.zawu.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zdar.txt 3.235060386727117
+data.zdey.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.co.txt 2
-data.fe.txt 1
-data.zamp.txt 1
-data.zanh.txt 1
-data.zbdx.txt 1
-data.zdeq.txt 1
-data.zdkk.txt 1
-data.zdwd.txt 1
-data.zeam.txt 1
-data.zeec.txt 1
-data.zejk.txt 2
-data.zenw.txt 2
-data.zeun.txt 1
+data.co.txt 4.077712785060798
+data.fe.txt 2.5727503226135906
+data.zamp.txt 2.5727503226135906
+data.zanh.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zdeq.txt 2.5727503226135906
+data.zdkk.txt 2.5727503226135906
+data.zdwd.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zeec.txt 2.5727503226135906
+data.zejk.txt 4.077712785060798
+data.zenw.txt 4.077712785060798
+data.zeun.txt 2.5727503226135906

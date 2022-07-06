@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.vz.txt 2
-data.zajo.txt 1
-data.zamr.txt 2
-data.zayv.txt 2
-data.zbeb.txt 1
-data.zbel.txt 1
-data.zcao.txt 2
-data.zcls.txt 2
+data.fp.txt 2.82763771717948
+data.vz.txt 4.48169974735425
+data.zajo.txt 2.82763771717948
+data.zamr.txt 4.48169974735425
+data.zayv.txt 4.48169974735425
+data.zbeb.txt 2.82763771717948
+data.zbel.txt 2.82763771717948
+data.zcao.txt 4.48169974735425
+data.zcls.txt 4.48169974735425

@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.ft.txt 1
-data.kt.txt 1
-data.zaoy.txt 1
-data.zcpa.txt 2
-data.zcqs.txt 2
-data.zeos.txt 1
-data.zfaj.txt 1
+data.fp.txt 2.9092786962624935
+data.ft.txt 2.9092786962624935
+data.kt.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zcpa.txt 4.611097637722987
+data.zcqs.txt 4.611097637722987
+data.zeos.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

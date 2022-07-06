@@ -1,9 +1,9 @@
 8
-data.gk.txt 1
-data.uz.txt 1
-data.zcjo.txt 1
-data.zdzg.txt 1
-data.zdzi.txt 1
-data.zeaj.txt 1
-data.zevq.txt 1
-data.zfai.txt 1
+data.gk.txt 2.9092786962624935
+data.uz.txt 2.9092786962624935
+data.zcjo.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

@@ -1,8 +1,8 @@
 7
-data.zahd.txt 1
-data.zajn.txt 1
-data.zbre.txt 1
-data.zcee.txt 1
-data.zddb.txt 1
-data.zeeh.txt 1
-data.zezy.txt 1
+data.zahd.txt 3.0018356045764243
+data.zajn.txt 3.0018356045764243
+data.zbre.txt 3.0018356045764243
+data.zcee.txt 3.0018356045764243
+data.zddb.txt 3.0018356045764243
+data.zeeh.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

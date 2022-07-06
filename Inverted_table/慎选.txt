@@ -1,5 +1,5 @@
 4
-data.pa.txt 2
-data.zafv.txt 1
-data.zauy.txt 1
-data.zexx.txt 1
+data.pa.txt 5.372597648141796
+data.zafv.txt 3.389731710180695
+data.zauy.txt 3.389731710180695
+data.zexx.txt 3.389731710180695

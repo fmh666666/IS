@@ -1,5 +1,5 @@
 4
-data.zckd.txt 3
-data.zedd.txt 3
-data.zety.txt 3
-data.zewv.txt 4
+data.zckd.txt 6.77946342036139
+data.zedd.txt 6.77946342036139
+data.zety.txt 6.77946342036139
+data.zewv.txt 7.870713291999142

@@ -1,5 +1,5 @@
 4
-data.jd.txt 1
-data.zbsl.txt 1
-data.zebv.txt 1
-data.zfas.txt 1
+data.jd.txt 3.389731710180695
+data.zbsl.txt 3.389731710180695
+data.zebv.txt 3.389731710180695
+data.zfas.txt 3.389731710180695

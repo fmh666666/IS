@@ -1,12 +1,12 @@
 11
-data.cf.txt 2
-data.jf.txt 2
-data.zawo.txt 1
-data.zayd.txt 1
-data.zbfr.txt 1
-data.zcls.txt 1
-data.zcqs.txt 2
-data.zcrn.txt 1
-data.zddl.txt 2
-data.zdwd.txt 1
-data.zfaz.txt 1
+data.cf.txt 4.261240455343955
+data.jf.txt 4.261240455343955
+data.zawo.txt 2.6885433903988862
+data.zayd.txt 2.6885433903988862
+data.zbfr.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zcqs.txt 4.261240455343955
+data.zcrn.txt 2.6885433903988862
+data.zddl.txt 4.261240455343955
+data.zdwd.txt 2.6885433903988862
+data.zfaz.txt 2.6885433903988862

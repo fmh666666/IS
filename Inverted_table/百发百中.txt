@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.zafl.txt 1
-data.zbse.txt 1
-data.zcdg.txt 1
-data.zcjy.txt 1
-data.zclm.txt 1
-data.zcpa.txt 1
-data.zctp.txt 1
-data.zdnc.txt 1
-data.zdpg.txt 1
+data.ga.txt 2.7546073728089153
+data.zafl.txt 2.7546073728089153
+data.zbse.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zcjy.txt 2.7546073728089153
+data.zclm.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdnc.txt 2.7546073728089153
+data.zdpg.txt 2.7546073728089153

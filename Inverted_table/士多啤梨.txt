@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.fp.txt 1
-data.hg.txt 1
-data.zaic.txt 2
-data.zanm.txt 1
-data.zarc.txt 1
-data.zbga.txt 1
-data.zenw.txt 1
+data.be.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.zaic.txt 4.611097637722987
+data.zanm.txt 2.9092786962624935
+data.zarc.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935

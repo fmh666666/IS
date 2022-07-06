@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.zbre.txt 1
-data.zbuj.txt 1
+data.ga.txt 3.5891377275982888
+data.zbre.txt 3.5891377275982888
+data.zbuj.txt 3.5891377275982888

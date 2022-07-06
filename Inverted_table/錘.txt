@@ -1,8 +1,8 @@
 7
-data.tv.txt 2
-data.zbeb.txt 1
-data.zbfd.txt 2
-data.zbjc.txt 2
-data.zbkj.txt 1
-data.zdof.txt 1
-data.zeob.txt 1
+data.tv.txt 4.757796866583254
+data.zbeb.txt 3.0018356045764243
+data.zbfd.txt 4.757796866583254
+data.zbjc.txt 4.757796866583254
+data.zbkj.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zeob.txt 3.0018356045764243

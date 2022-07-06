@@ -1,4 +1,4 @@
 3
-data.ng.txt 1
-data.zass.txt 1
-data.zcql.txt 3
+data.ng.txt 3.5891377275982888
+data.zass.txt 3.5891377275982888
+data.zcql.txt 7.1782754551965775

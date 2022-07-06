@@ -1,8 +1,8 @@
 7
-data.ev.txt 1
-data.zafi.txt 1
-data.zalc.txt 1
-data.zbkv.txt 1
-data.zbof.txt 1
-data.zdtr.txt 1
-data.zedk.txt 1
+data.ev.txt 3.0018356045764243
+data.zafi.txt 3.0018356045764243
+data.zalc.txt 3.0018356045764243
+data.zbkv.txt 3.0018356045764243
+data.zbof.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zedk.txt 3.0018356045764243

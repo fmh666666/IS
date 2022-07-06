@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zcdz.txt 1
-data.zexm.txt 1
+data.op.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zexm.txt 3.5891377275982888

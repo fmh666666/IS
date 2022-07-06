@@ -1,5 +1,5 @@
 4
-data.zafu.txt 1
-data.zbpx.txt 2
-data.zeqv.txt 1
-data.zfai.txt 5
+data.zafu.txt 3.389731710180695
+data.zbpx.txt 5.372597648141796
+data.zeqv.txt 3.389731710180695
+data.zfai.txt 8.762329358322491

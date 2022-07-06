@@ -1,10 +1,10 @@
 9
-data.ft.txt 1
-data.yx.txt 1
-data.zajh.txt 1
-data.zbjh.txt 1
-data.zbpc.txt 1
-data.zcjd.txt 1
-data.zclh.txt 1
-data.zdcy.txt 1
-data.zdod.txt 1
+data.ft.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zbpc.txt 2.82763771717948
+data.zcjd.txt 2.82763771717948
+data.zclh.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zdod.txt 2.82763771717948

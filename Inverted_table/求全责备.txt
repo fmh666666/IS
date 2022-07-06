@@ -1,5 +1,5 @@
 4
-data.zbxy.txt 1
-data.zcdy.txt 1
-data.zcon.txt 2
-data.zdgv.txt 1
+data.zbxy.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zcon.txt 5.372597648141796
+data.zdgv.txt 3.389731710180695

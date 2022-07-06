@@ -1,12 +1,12 @@
 11
-data.cf.txt 1
-data.fp.txt 1
-data.gz.txt 1
-data.zbcj.txt 1
-data.zbkv.txt 1
-data.zbtx.txt 1
-data.zchd.txt 1
-data.zeaj.txt 3
-data.zeeq.txt 1
-data.zehj.txt 1
-data.zezf.txt 1
+data.cf.txt 2.6885433903988862
+data.fp.txt 2.6885433903988862
+data.gz.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbtx.txt 2.6885433903988862
+data.zchd.txt 2.6885433903988862
+data.zeaj.txt 5.3770867807977725
+data.zeeq.txt 2.6885433903988862
+data.zehj.txt 2.6885433903988862
+data.zezf.txt 2.6885433903988862

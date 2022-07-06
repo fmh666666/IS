@@ -1,10 +1,10 @@
 9
-data.hu.txt 1
-data.zalm.txt 3
-data.zbcc.txt 1
-data.zchd.txt 1
-data.zcjd.txt 1
-data.zdkp.txt 1
-data.zefv.txt 1
-data.zefw.txt 1
-data.zesq.txt 1
+data.hu.txt 2.82763771717948
+data.zalm.txt 5.65527543435896
+data.zbcc.txt 2.82763771717948
+data.zchd.txt 2.82763771717948
+data.zcjd.txt 2.82763771717948
+data.zdkp.txt 2.82763771717948
+data.zefv.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zesq.txt 2.82763771717948

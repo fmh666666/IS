@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.bs.txt 1
-data.op.txt 1
-data.tv.txt 1
-data.zacd.txt 2
-data.zaim.txt 1
-data.zajo.txt 1
-data.zall.txt 1
-data.zbzf.txt 1
-data.zdgt.txt 1
-data.zelt.txt 1
-data.zess.txt 1
-data.zevt.txt 1
+data.be.txt 2.5727503226135906
+data.bs.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zacd.txt 4.077712785060798
+data.zaim.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zbzf.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zess.txt 2.5727503226135906
+data.zevt.txt 2.5727503226135906

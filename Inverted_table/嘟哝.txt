@@ -1,4 +1,4 @@
 3
-data.zaet.txt 1
-data.zcon.txt 1
-data.zdwn.txt 1
+data.zaet.txt 3.5891377275982888
+data.zcon.txt 3.5891377275982888
+data.zdwn.txt 3.5891377275982888

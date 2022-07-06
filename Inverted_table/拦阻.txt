@@ -1,4 +1,4 @@
 3
-data.ok.txt 1
-data.tz.txt 1
-data.zbjk.txt 1
+data.ok.txt 3.5891377275982888
+data.tz.txt 3.5891377275982888
+data.zbjk.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.hp.txt 2
-data.op.txt 1
-data.zabx.txt 1
-data.zajr.txt 2
-data.zaub.txt 1
+data.hp.txt 5.1274494005309625
+data.op.txt 3.235060386727117
+data.zabx.txt 3.235060386727117
+data.zajr.txt 5.1274494005309625
+data.zaub.txt 3.235060386727117

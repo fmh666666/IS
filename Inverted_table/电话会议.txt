@@ -1,7 +1,7 @@
 6
-data.vi.txt 2
-data.zbkv.txt 1
-data.zdme.txt 1
-data.zexv.txt 1
-data.zeyy.txt 1
-data.zfaj.txt 2
+data.vi.txt 4.927148697748023
+data.zbkv.txt 3.1086847136800873
+data.zdme.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873
+data.zfaj.txt 4.927148697748023

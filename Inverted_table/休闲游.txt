@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.mt.txt 1
-data.zaim.txt 1
-data.zamr.txt 1
-data.zavx.txt 1
-data.zbaq.txt 1
-data.zcao.txt 1
-data.zcbm.txt 1
-data.zcrg.txt 1
-data.zdkv.txt 1
-data.zdzi.txt 1
-data.zewv.txt 1
+data.bf.txt 2.628231699761886
+data.mt.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zamr.txt 2.628231699761886
+data.zavx.txt 2.628231699761886
+data.zbaq.txt 2.628231699761886
+data.zcao.txt 2.628231699761886
+data.zcbm.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zdkv.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886
+data.zewv.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.zbye.txt 1
-data.zdkk.txt 2
-data.zdrq.txt 1
-data.zehp.txt 1
-data.zevt.txt 1
+data.zbye.txt 3.235060386727117
+data.zdkk.txt 5.1274494005309625
+data.zdrq.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
+data.zevt.txt 3.235060386727117

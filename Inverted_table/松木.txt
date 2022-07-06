@@ -1,3 +1,3 @@
 2
-data.zavx.txt 1
-data.zduc.txt 3
+data.zavx.txt 3.8701847240988965
+data.zduc.txt 7.740369448197793

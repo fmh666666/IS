@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.zasd.txt 1
-data.zasy.txt 2
-data.zelj.txt 1
+data.mi.txt 3.389731710180695
+data.zasd.txt 3.389731710180695
+data.zasy.txt 5.372597648141796
+data.zelj.txt 3.389731710180695

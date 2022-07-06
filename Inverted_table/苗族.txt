@@ -1,13 +1,13 @@
 12
-data.ev.txt 2
-data.ew.txt 1
-data.tz.txt 1
-data.zasw.txt 1
-data.zawo.txt 1
-data.zbcj.txt 1
-data.zcql.txt 1
-data.zcue.txt 1
-data.zdgp.txt 1
-data.zeeh.txt 1
-data.zefu.txt 1
-data.zfai.txt 1
+data.ev.txt 4.165648687329214
+data.ew.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zasw.txt 2.628231699761886
+data.zawo.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zeeh.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

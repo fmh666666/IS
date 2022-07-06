@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.jd.txt 1
-data.zavg.txt 1
-data.zbuj.txt 3
-data.zcdz.txt 1
-data.zcem.txt 1
-data.zciq.txt 1
-data.zcis.txt 1
-data.zdqz.txt 1
-data.zebn.txt 4
-data.zess.txt 1
-data.zezh.txt 1
-data.zfaz.txt 1
+data.ga.txt 2.5727503226135906
+data.jd.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zbuj.txt 5.145500645227181
+data.zcdz.txt 2.5727503226135906
+data.zcem.txt 2.5727503226135906
+data.zciq.txt 2.5727503226135906
+data.zcis.txt 2.5727503226135906
+data.zdqz.txt 2.5727503226135906
+data.zebn.txt 5.97374125520702
+data.zess.txt 2.5727503226135906
+data.zezh.txt 2.5727503226135906
+data.zfaz.txt 2.5727503226135906

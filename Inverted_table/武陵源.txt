@@ -1,4 +1,4 @@
 3
-data.ft.txt 3
-data.zawu.txt 3
-data.zbts.txt 1
+data.ft.txt 7.1782754551965775
+data.zawu.txt 7.1782754551965775
+data.zbts.txt 3.5891377275982888

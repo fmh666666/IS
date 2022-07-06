@@ -1,4 +1,4 @@
 3
-data.kq.txt 1
-data.zcse.txt 1
-data.zelt.txt 1
+data.kq.txt 3.5891377275982888
+data.zcse.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

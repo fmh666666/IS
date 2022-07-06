@@ -1,7 +1,7 @@
 6
-data.zasr.txt 1
-data.zbkj.txt 1
-data.zcdz.txt 1
-data.zdju.txt 1
-data.zdkk.txt 1
-data.zfaj.txt 1
+data.zasr.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

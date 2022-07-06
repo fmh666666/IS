@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.mk.txt 1
-data.wc.txt 1
-data.zafl.txt 1
-data.zard.txt 1
-data.zchw.txt 1
-data.zdwn.txt 1
-data.zegk.txt 1
-data.zevq.txt 1
+data.fe.txt 2.82763771717948
+data.mk.txt 2.82763771717948
+data.wc.txt 2.82763771717948
+data.zafl.txt 2.82763771717948
+data.zard.txt 2.82763771717948
+data.zchw.txt 2.82763771717948
+data.zdwn.txt 2.82763771717948
+data.zegk.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

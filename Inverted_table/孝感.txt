@@ -1,12 +1,12 @@
 11
-data.cq.txt 7
-data.zadv.txt 1
-data.zafq.txt 1
-data.zasj.txt 1
-data.zbjk.txt 1
-data.zbkv.txt 1
-data.zblh.txt 14
-data.zcpa.txt 2
-data.zcvq.txt 1
-data.zeta.txt 1
-data.zfaw.txt 1
+data.cq.txt 8.06563017119666
+data.zadv.txt 2.6885433903988862
+data.zafq.txt 2.6885433903988862
+data.zasj.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zblh.txt 10.503844887834852
+data.zcpa.txt 4.261240455343955
+data.zcvq.txt 2.6885433903988862
+data.zeta.txt 2.6885433903988862
+data.zfaw.txt 2.6885433903988862

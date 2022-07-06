@@ -1,11 +1,11 @@
 10
-data.zarr.txt 1
-data.zavg.txt 1
-data.zaxx.txt 1
-data.zbhv.txt 3
-data.zcuh.txt 1
-data.zcvi.txt 1
-data.zdji.txt 3
-data.zdof.txt 1
-data.zdyv.txt 2
-data.zewv.txt 4
+data.zarr.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zaxx.txt 2.7546073728089153
+data.zbhv.txt 5.509214745617831
+data.zcuh.txt 2.7546073728089153
+data.zcvi.txt 2.7546073728089153
+data.zdji.txt 5.509214745617831
+data.zdof.txt 2.7546073728089153
+data.zdyv.txt 4.365949390112154
+data.zewv.txt 6.396000249308887

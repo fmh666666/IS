@@ -1,2 +1,2 @@
 1
-data.zcxr.txt 2
+data.zcxr.txt 6.8955976689794145

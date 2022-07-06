@@ -1,11 +1,11 @@
 10
-data.zbfz.txt 1
-data.zbkv.txt 1
-data.zbpx.txt 1
-data.zbrd.txt 1
-data.zddb.txt 1
-data.zdrq.txt 1
-data.zdwl.txt 1
-data.zebf.txt 3
-data.zedx.txt 1
-data.zfaj.txt 1
+data.zbfz.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zbrd.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zdrq.txt 2.7546073728089153
+data.zdwl.txt 2.7546073728089153
+data.zebf.txt 5.509214745617831
+data.zedx.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

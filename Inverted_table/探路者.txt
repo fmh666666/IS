@@ -1,9 +1,9 @@
 8
-data.mx.txt 2
-data.zbha.txt 1
-data.zbts.txt 9
-data.zcll.txt 2
-data.zdeb.txt 2
-data.zdju.txt 1
-data.zduo.txt 11
-data.zedd.txt 1
+data.mx.txt 4.611097637722987
+data.zbha.txt 2.9092786962624935
+data.zbts.txt 9.664414636971655
+data.zcll.txt 4.611097637722987
+data.zdeb.txt 4.611097637722987
+data.zdju.txt 2.9092786962624935
+data.zduo.txt 10.429655030247973
+data.zedd.txt 2.9092786962624935

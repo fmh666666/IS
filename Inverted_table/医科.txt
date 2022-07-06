@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.fj.txt 1
-data.zagb.txt 1
-data.zblr.txt 1
-data.zcjd.txt 1
-data.zctp.txt 1
-data.zdgv.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zfaj.txt 1
+data.bs.txt 2.7546073728089153
+data.fj.txt 2.7546073728089153
+data.zagb.txt 2.7546073728089153
+data.zblr.txt 2.7546073728089153
+data.zcjd.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdgv.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

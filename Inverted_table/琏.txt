@@ -1,12 +1,12 @@
 11
-data.ga.txt 2
-data.ka.txt 1
-data.kq.txt 3
-data.op.txt 1
-data.zabe.txt 1
-data.zaxj.txt 1
-data.zbjk.txt 1
-data.zcdy.txt 4
-data.zcdz.txt 2
-data.zelt.txt 5
-data.zfai.txt 2
+data.ga.txt 4.261240455343955
+data.ka.txt 2.6885433903988862
+data.kq.txt 5.3770867807977725
+data.op.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zaxj.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zcdy.txt 6.2426044324908965
+data.zcdz.txt 4.261240455343955
+data.zelt.txt 6.949783845742841
+data.zfai.txt 4.261240455343955

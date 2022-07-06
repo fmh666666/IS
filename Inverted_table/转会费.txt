@@ -1,11 +1,11 @@
 10
-data.zafv.txt 1
-data.zavg.txt 2
-data.zbaq.txt 2
-data.zbcj.txt 1
-data.zbxy.txt 1
-data.zcgi.txt 1
-data.zdeb.txt 2
-data.zebf.txt 2
-data.zess.txt 1
-data.zexx.txt 2
+data.zafv.txt 2.7546073728089153
+data.zavg.txt 4.365949390112154
+data.zbaq.txt 4.365949390112154
+data.zbcj.txt 2.7546073728089153
+data.zbxy.txt 2.7546073728089153
+data.zcgi.txt 2.7546073728089153
+data.zdeb.txt 4.365949390112154
+data.zebf.txt 4.365949390112154
+data.zess.txt 2.7546073728089153
+data.zexx.txt 4.365949390112154

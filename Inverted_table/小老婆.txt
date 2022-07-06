@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.sq.txt 1
-data.wc.txt 1
-data.zafy.txt 1
-data.zawb.txt 2
-data.zazw.txt 4
-data.zazx.txt 2
-data.zcse.txt 1
-data.zeaf.txt 1
-data.zfcp.txt 1
+data.hp.txt 2.7546073728089153
+data.sq.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.zafy.txt 2.7546073728089153
+data.zawb.txt 4.365949390112154
+data.zazw.txt 6.396000249308887
+data.zazx.txt 4.365949390112154
+data.zcse.txt 2.7546073728089153
+data.zeaf.txt 2.7546073728089153
+data.zfcp.txt 2.7546073728089153

@@ -1,6 +1,6 @@
 5
-data.jj.txt 2
-data.vi.txt 1
-data.zaop.txt 1
-data.zauy.txt 1
-data.zazg.txt 1
+data.jj.txt 5.1274494005309625
+data.vi.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zauy.txt 3.235060386727117
+data.zazg.txt 3.235060386727117

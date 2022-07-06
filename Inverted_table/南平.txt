@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zbye.txt 3
-data.zcqe.txt 7
-data.zduo.txt 11
-data.zeqv.txt 1
+data.op.txt 3.235060386727117
+data.zbye.txt 6.470120773454234
+data.zcqe.txt 9.70518116018135
+data.zduo.txt 11.597570173985197
+data.zeqv.txt 3.235060386727117

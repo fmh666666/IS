@@ -1,4 +1,4 @@
 3
-data.zasq.txt 1
-data.zcko.txt 1
-data.zejn.txt 1
+data.zasq.txt 3.5891377275982888
+data.zcko.txt 3.5891377275982888
+data.zejn.txt 3.5891377275982888

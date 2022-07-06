@@ -1,14 +1,14 @@
 13
-data.zacd.txt 2
-data.zazn.txt 2
-data.zciy.txt 1
-data.zcni.txt 3
-data.zdaq.txt 11
-data.zdar.txt 6
-data.zdju.txt 1
-data.zdkk.txt 1
-data.zdkp.txt 1
-data.zecf.txt 1
-data.zeoh.txt 3
-data.zess.txt 2
-data.zfai.txt 1
+data.zacd.txt 4.077712785060798
+data.zazn.txt 4.077712785060798
+data.zciy.txt 2.5727503226135906
+data.zcni.txt 5.145500645227181
+data.zdaq.txt 9.223213430287979
+data.zdar.txt 7.222623281414552
+data.zdju.txt 2.5727503226135906
+data.zdkk.txt 2.5727503226135906
+data.zdkp.txt 2.5727503226135906
+data.zecf.txt 2.5727503226135906
+data.zeoh.txt 5.145500645227181
+data.zess.txt 4.077712785060798
+data.zfai.txt 2.5727503226135906

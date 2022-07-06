@@ -1,6 +1,6 @@
 5
-data.zaxx.txt 1
-data.zbds.txt 1
-data.zbfz.txt 1
-data.zcli.txt 1
-data.zdoc.txt 1
+data.zaxx.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zcli.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117

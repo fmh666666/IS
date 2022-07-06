@@ -1,6 +1,6 @@
 5
-data.zafq.txt 1
-data.zaxk.txt 1
-data.zbcc.txt 1
-data.zdod.txt 3
-data.zeqh.txt 1
+data.zafq.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zdod.txt 6.470120773454234
+data.zeqh.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zalj.txt 1
-data.zcmx.txt 1
-data.zcse.txt 1
+data.zalj.txt 3.5891377275982888
+data.zcmx.txt 3.5891377275982888
+data.zcse.txt 3.5891377275982888

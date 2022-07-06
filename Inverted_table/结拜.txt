@@ -1,6 +1,6 @@
 5
-data.by.txt 1
-data.qb.txt 1
-data.ry.txt 5
-data.zair.txt 1
-data.zerh.txt 1
+data.by.txt 3.235060386727117
+data.qb.txt 3.235060386727117
+data.ry.txt 8.362509787258078
+data.zair.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

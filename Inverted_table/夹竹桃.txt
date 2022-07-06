@@ -1,4 +1,4 @@
 3
-data.qn.txt 1
-data.zasw.txt 1
-data.zcpc.txt 1
+data.qn.txt 3.5891377275982888
+data.zasw.txt 3.5891377275982888
+data.zcpc.txt 3.5891377275982888

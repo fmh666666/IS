@@ -1,6 +1,6 @@
 5
-data.zarc.txt 1
-data.zbds.txt 1
-data.zbhd.txt 1
-data.zcku.txt 1
-data.zezn.txt 1
+data.zarc.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zcku.txt 3.235060386727117
+data.zezn.txt 3.235060386727117

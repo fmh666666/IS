@@ -1,4 +1,4 @@
 3
-data.kq.txt 1
-data.zdpw.txt 1
-data.zezy.txt 1
+data.kq.txt 3.5891377275982888
+data.zdpw.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

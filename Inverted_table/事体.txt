@@ -1,13 +1,13 @@
 12
-data.ye.txt 1
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zcel.txt 1
-data.zclm.txt 2
-data.zcln.txt 1
-data.zddp.txt 1
-data.zdro.txt 1
-data.zecf.txt 1
-data.zevt.txt 2
-data.zezm.txt 3
-data.zezn.txt 2
+data.ye.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zcel.txt 2.628231699761886
+data.zclm.txt 4.165648687329214
+data.zcln.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdro.txt 2.628231699761886
+data.zecf.txt 2.628231699761886
+data.zevt.txt 4.165648687329214
+data.zezm.txt 5.256463399523772
+data.zezn.txt 4.165648687329214

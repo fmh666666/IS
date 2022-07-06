@@ -1,6 +1,6 @@
 5
-data.zahp.txt 1
-data.zbua.txt 1
-data.zbux.txt 2
-data.zedy.txt 1
-data.zenw.txt 2
+data.zahp.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zbux.txt 5.1274494005309625
+data.zedy.txt 3.235060386727117
+data.zenw.txt 5.1274494005309625

@@ -1,5 +1,5 @@
 4
-data.tz.txt 1
-data.zadv.txt 1
-data.zaxk.txt 1
-data.zbcc.txt 1
+data.tz.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zaxk.txt 3.389731710180695
+data.zbcc.txt 3.389731710180695

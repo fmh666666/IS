@@ -1,7 +1,7 @@
 6
-data.ew.txt 1
-data.mt.txt 1
-data.zaqr.txt 1
-data.zcpx.txt 1
-data.zeoh.txt 1
-data.zeva.txt 1
+data.ew.txt 3.1086847136800873
+data.mt.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zeva.txt 3.1086847136800873

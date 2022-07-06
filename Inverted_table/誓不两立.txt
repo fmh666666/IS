@@ -1,4 +1,4 @@
 3
-data.zair.txt 1
-data.zajh.txt 1
-data.zbkr.txt 1
+data.zair.txt 3.5891377275982888
+data.zajh.txt 3.5891377275982888
+data.zbkr.txt 3.5891377275982888

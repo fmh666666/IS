@@ -1,13 +1,13 @@
 12
-data.vz.txt 1
-data.zamr.txt 3
-data.zbmt.txt 3
-data.zbzo.txt 3
-data.zcao.txt 3
-data.zcls.txt 3
-data.zcrg.txt 4
-data.zctn.txt 5
-data.zcvi.txt 1
-data.zdji.txt 2
-data.zesi.txt 1
-data.zewv.txt 5
+data.vz.txt 2.628231699761886
+data.zamr.txt 5.256463399523772
+data.zbmt.txt 5.256463399523772
+data.zbzo.txt 5.256463399523772
+data.zcao.txt 5.256463399523772
+data.zcls.txt 5.256463399523772
+data.zcrg.txt 6.1025650235506905
+data.zctn.txt 6.7938803870911
+data.zcvi.txt 2.628231699761886
+data.zdji.txt 4.165648687329214
+data.zesi.txt 2.628231699761886
+data.zewv.txt 6.7938803870911

@@ -1,2 +1,2 @@
 1
-data.zavg.txt 2
+data.zavg.txt 6.8955976689794145

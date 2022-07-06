@@ -1,6 +1,6 @@
 5
-data.cf.txt 3
-data.jf.txt 2
-data.kt.txt 1
-data.zbpm.txt 2
-data.zbsl.txt 1
+data.cf.txt 6.470120773454234
+data.jf.txt 5.1274494005309625
+data.kt.txt 3.235060386727117
+data.zbpm.txt 5.1274494005309625
+data.zbsl.txt 3.235060386727117

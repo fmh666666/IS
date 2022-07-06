@@ -1,9 +1,9 @@
 8
-data.zair.txt 1
-data.zblr.txt 1
-data.zcdv.txt 1
-data.zcjd.txt 1
-data.zddm.txt 3
-data.zdkk.txt 1
-data.zeoh.txt 1
-data.zezy.txt 1
+data.zair.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zddm.txt 5.818557392524987
+data.zdkk.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

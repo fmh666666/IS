@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zavg.txt 1
-data.zbsm.txt 1
-data.zcpx.txt 1
-data.zelt.txt 2
+data.bb.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zcpx.txt 3.235060386727117
+data.zelt.txt 5.1274494005309625

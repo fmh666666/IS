@@ -1,8 +1,8 @@
 7
-data.hz.txt 2
-data.kq.txt 1
-data.zafq.txt 1
-data.zatz.txt 1
-data.zaxk.txt 1
-data.zcvq.txt 4
-data.zdou.txt 1
+data.hz.txt 4.757796866583254
+data.kq.txt 3.0018356045764243
+data.zafq.txt 3.0018356045764243
+data.zatz.txt 3.0018356045764243
+data.zaxk.txt 3.0018356045764243
+data.zcvq.txt 6.970046426499191
+data.zdou.txt 3.0018356045764243

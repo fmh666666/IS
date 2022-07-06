@@ -1,8 +1,8 @@
 7
-data.tz.txt 1
-data.zbds.txt 2
-data.zbsd.txt 1
-data.zbua.txt 2
-data.zbzf.txt 2
-data.zccx.txt 1
-data.zerh.txt 2
+data.tz.txt 3.0018356045764243
+data.zbds.txt 4.757796866583254
+data.zbsd.txt 3.0018356045764243
+data.zbua.txt 4.757796866583254
+data.zbzf.txt 4.757796866583254
+data.zccx.txt 3.0018356045764243
+data.zerh.txt 4.757796866583254

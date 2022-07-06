@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zbsm.txt 1
-data.zdud.txt 1
-data.zess.txt 1
-data.zexx.txt 1
+data.zaim.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zess.txt 3.235060386727117
+data.zexx.txt 3.235060386727117

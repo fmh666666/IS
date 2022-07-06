@@ -1,2 +1,2 @@
 1
-data.zcjy.txt 2
+data.zcjy.txt 6.8955976689794145

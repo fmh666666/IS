@@ -1,10 +1,10 @@
 9
-data.zafe.txt 1
-data.zaic.txt 1
-data.zcjo.txt 1
-data.zcko.txt 1
-data.zcku.txt 1
-data.zdlg.txt 1
-data.zdro.txt 1
-data.zenn.txt 1
-data.zevq.txt 1
+data.zafe.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zcko.txt 2.82763771717948
+data.zcku.txt 2.82763771717948
+data.zdlg.txt 2.82763771717948
+data.zdro.txt 2.82763771717948
+data.zenn.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

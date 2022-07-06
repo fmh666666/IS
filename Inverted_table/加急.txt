@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zaoy.txt 1
-data.zbcc.txt 1
-data.zbqu.txt 1
-data.zdtr.txt 2
-data.zdwv.txt 1
-data.zeta.txt 1
-data.zeun.txt 1
+data.yx.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zdtr.txt 4.611097637722987
+data.zdwv.txt 2.9092786962624935
+data.zeta.txt 2.9092786962624935
+data.zeun.txt 2.9092786962624935

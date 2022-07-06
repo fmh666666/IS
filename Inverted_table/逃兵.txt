@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.zajh.txt 1
-data.zbfr.txt 1
-data.zblq.txt 1
-data.zbnp.txt 1
-data.zbph.txt 1
-data.zcih.txt 1
-data.zcjo.txt 1
-data.zduk.txt 1
-data.zdyv.txt 1
+data.be.txt 2.7546073728089153
+data.zajh.txt 2.7546073728089153
+data.zbfr.txt 2.7546073728089153
+data.zblq.txt 2.7546073728089153
+data.zbnp.txt 2.7546073728089153
+data.zbph.txt 2.7546073728089153
+data.zcih.txt 2.7546073728089153
+data.zcjo.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zdyv.txt 2.7546073728089153

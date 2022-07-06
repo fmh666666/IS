@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zbdb.txt 1
-data.zbjq.txt 1
-data.zblr.txt 2
-data.zene.txt 1
+data.zabe.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbjq.txt 3.235060386727117
+data.zblr.txt 5.1274494005309625
+data.zene.txt 3.235060386727117

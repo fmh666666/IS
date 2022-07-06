@@ -1,8 +1,8 @@
 7
-data.ok.txt 1
-data.zawu.txt 1
-data.zbtx.txt 1
-data.zbye.txt 1
-data.zdgt.txt 1
-data.zdqz.txt 1
-data.zezy.txt 2
+data.ok.txt 3.0018356045764243
+data.zawu.txt 3.0018356045764243
+data.zbtx.txt 3.0018356045764243
+data.zbye.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243
+data.zdqz.txt 3.0018356045764243
+data.zezy.txt 4.757796866583254

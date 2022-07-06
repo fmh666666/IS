@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zalm.txt 2
-data.zcvq.txt 2
-data.zdgt.txt 1
-data.zfai.txt 2
+data.op.txt 3.235060386727117
+data.zalm.txt 5.1274494005309625
+data.zcvq.txt 5.1274494005309625
+data.zdgt.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.zaop.txt 1
-data.zavg.txt 1
-data.zdpw.txt 1
-data.zeez.txt 1
-data.zehp.txt 1
+data.zaop.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117
+data.zeez.txt 3.235060386727117
+data.zehp.txt 3.235060386727117

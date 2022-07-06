@@ -1,11 +1,11 @@
 10
-data.zagr.txt 1
-data.zawb.txt 1
-data.zclm.txt 1
-data.zcue.txt 1
-data.zdeq.txt 1
-data.zdof.txt 1
-data.zegk.txt 1
-data.zeqh.txt 3
-data.zeyu.txt 1
-data.zezy.txt 1
+data.zagr.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zclm.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zdeq.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zegk.txt 2.7546073728089153
+data.zeqh.txt 5.509214745617831
+data.zeyu.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153

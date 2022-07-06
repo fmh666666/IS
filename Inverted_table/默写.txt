@@ -1,11 +1,11 @@
 10
-data.mk.txt 2
-data.mo.txt 2
-data.ng.txt 1
-data.zaip.txt 1
-data.zaop.txt 1
-data.zbsd.txt 1
-data.zciy.txt 1
-data.zddl.txt 1
-data.zdux.txt 1
-data.zeos.txt 1
+data.mk.txt 4.365949390112154
+data.mo.txt 4.365949390112154
+data.ng.txt 2.7546073728089153
+data.zaip.txt 2.7546073728089153
+data.zaop.txt 2.7546073728089153
+data.zbsd.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zddl.txt 2.7546073728089153
+data.zdux.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153

@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.zacd.txt 1
-data.zaqf.txt 1
-data.zbyb.txt 1
-data.zcao.txt 1
-data.zcee.txt 1
-data.zcej.txt 2
-data.zcgi.txt 1
-data.zcku.txt 1
-data.zdpf.txt 1
-data.zdqz.txt 1
-data.zdst.txt 1
-data.zefp.txt 1
+data.be.txt 2.5727503226135906
+data.zacd.txt 2.5727503226135906
+data.zaqf.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zcao.txt 2.5727503226135906
+data.zcee.txt 2.5727503226135906
+data.zcej.txt 4.077712785060798
+data.zcgi.txt 2.5727503226135906
+data.zcku.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906
+data.zdqz.txt 2.5727503226135906
+data.zdst.txt 2.5727503226135906
+data.zefp.txt 2.5727503226135906

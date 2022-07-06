@@ -1,6 +1,6 @@
 5
-data.zafk.txt 1
-data.zail.txt 6
-data.zbdb.txt 1
-data.zebv.txt 1
-data.zeob.txt 1
+data.zafk.txt 3.235060386727117
+data.zail.txt 9.081962699831948
+data.zbdb.txt 3.235060386727117
+data.zebv.txt 3.235060386727117
+data.zeob.txt 3.235060386727117

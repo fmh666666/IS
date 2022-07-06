@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.gk.txt 1
-data.jj.txt 1
-data.tv.txt 1
-data.zblq.txt 1
-data.zbwa.txt 1
-data.zcdz.txt 5
-data.zchw.txt 1
-data.zdds.txt 1
-data.zdoc.txt 1
-data.zexm.txt 1
-data.zezy.txt 1
-data.zfaz.txt 1
+data.fp.txt 2.5727503226135906
+data.gk.txt 2.5727503226135906
+data.jj.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zcdz.txt 6.650463107674388
+data.zchw.txt 2.5727503226135906
+data.zdds.txt 2.5727503226135906
+data.zdoc.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906
+data.zfaz.txt 2.5727503226135906

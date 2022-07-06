@@ -1,5 +1,5 @@
 4
-data.zarr.txt 1
-data.zbdx.txt 2
-data.zctp.txt 1
-data.zfby.txt 4
+data.zarr.txt 3.389731710180695
+data.zbdx.txt 5.372597648141796
+data.zctp.txt 3.389731710180695
+data.zfby.txt 7.870713291999142

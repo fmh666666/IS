@@ -1,3 +1,3 @@
 2
-data.cz.txt 1
-data.zdgo.txt 1
+data.cz.txt 3.8701847240988965
+data.zdgo.txt 3.8701847240988965

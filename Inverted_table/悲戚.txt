@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.tz.txt 1
-data.zabe.txt 2
-data.zbem.txt 1
-data.zcee.txt 1
-data.zenw.txt 1
+data.ft.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zabe.txt 4.927148697748023
+data.zbem.txt 3.1086847136800873
+data.zcee.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873

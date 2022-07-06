@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.tv.txt 1
-data.zbpm.txt 1
-data.zdud.txt 1
-data.zfae.txt 1
+data.hp.txt 3.235060386727117
+data.tv.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

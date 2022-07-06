@@ -1,10 +1,10 @@
 9
-data.jf.txt 16
-data.to.txt 1
-data.zbdb.txt 1
-data.zbjh.txt 6
-data.zbkj.txt 4
-data.zbye.txt 1
-data.zcxr.txt 1
-data.zdlg.txt 2
-data.zeqh.txt 1
+data.jf.txt 11.557864097489063
+data.to.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbjh.txt 7.938182663119541
+data.zbkj.txt 6.565571457682201
+data.zbye.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdlg.txt 4.48169974735425
+data.zeqh.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.fp.txt 1
-data.pa.txt 1
-data.zabe.txt 5
-data.zass.txt 1
-data.zbaf.txt 1
-data.zbcj.txt 1
-data.zdgp.txt 1
-data.zdpf.txt 1
-data.zeid.txt 1
-data.zfcg.txt 1
+data.bs.txt 2.6885433903988862
+data.fp.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zabe.txt 6.949783845742841
+data.zass.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zdgp.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zeid.txt 2.6885433903988862
+data.zfcg.txt 2.6885433903988862

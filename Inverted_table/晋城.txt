@@ -1,4 +1,4 @@
 3
-data.zbts.txt 2
-data.zdpz.txt 1
-data.zeeh.txt 1
+data.zbts.txt 5.688648708166832
+data.zdpz.txt 3.5891377275982888
+data.zeeh.txt 3.5891377275982888

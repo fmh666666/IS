@@ -1,14 +1,14 @@
 13
-data.ff.txt 1
-data.fz.txt 3
-data.hg.txt 1
-data.hp.txt 1
-data.zabe.txt 1
-data.zako.txt 1
-data.zane.txt 1
-data.zcdv.txt 1
-data.zczl.txt 1
-data.zdgt.txt 1
-data.zdud.txt 1
-data.zefu.txt 1
-data.zexm.txt 1
+data.ff.txt 2.5727503226135906
+data.fz.txt 5.145500645227181
+data.hg.txt 2.5727503226135906
+data.hp.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zefu.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906

@@ -1,6 +1,6 @@
 5
-data.zbrj.txt 1
-data.zbvf.txt 1
-data.zbzo.txt 1
-data.zcfn.txt 1
-data.zety.txt 1
+data.zbrj.txt 3.235060386727117
+data.zbvf.txt 3.235060386727117
+data.zbzo.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zety.txt 3.235060386727117

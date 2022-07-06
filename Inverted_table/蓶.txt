@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.zbes.txt 1
-data.zcft.txt 1
-data.zdby.txt 1
-data.zexk.txt 1
-data.zfcj.txt 2
+data.mo.txt 3.1086847136800873
+data.zbes.txt 3.1086847136800873
+data.zcft.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873
+data.zexk.txt 3.1086847136800873
+data.zfcj.txt 4.927148697748023

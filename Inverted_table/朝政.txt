@@ -1,7 +1,7 @@
 6
-data.zbeb.txt 1
-data.zbla.txt 1
-data.zbpx.txt 1
-data.zbyb.txt 1
-data.zeos.txt 1
-data.zesq.txt 2
+data.zbeb.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873
+data.zesq.txt 4.927148697748023

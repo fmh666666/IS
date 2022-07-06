@@ -1,9 +1,9 @@
 8
-data.zass.txt 1
-data.zbjq.txt 1
-data.zbkr.txt 1
-data.zbse.txt 1
-data.zcww.txt 1
-data.zeeh.txt 1
-data.zeqv.txt 1
-data.zeyu.txt 1
+data.zass.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zbse.txt 2.9092786962624935
+data.zcww.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

@@ -1,14 +1,14 @@
 13
-data.aj.txt 1
-data.wg.txt 2
-data.zasy.txt 1
-data.zbhv.txt 1
-data.zbkr.txt 1
-data.zbwa.txt 1
-data.zcaq.txt 1
-data.zcgo.txt 2
-data.zctm.txt 1
-data.zdud.txt 1
-data.zedd.txt 2
-data.zefd.txt 1
-data.zeyu.txt 1
+data.aj.txt 2.5727503226135906
+data.wg.txt 4.077712785060798
+data.zasy.txt 2.5727503226135906
+data.zbhv.txt 2.5727503226135906
+data.zbkr.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zcaq.txt 2.5727503226135906
+data.zcgo.txt 4.077712785060798
+data.zctm.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zedd.txt 4.077712785060798
+data.zefd.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906

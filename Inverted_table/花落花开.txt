@@ -1,7 +1,7 @@
 6
-data.zasq.txt 1
-data.zbre.txt 1
-data.zeaf.txt 1
-data.zeoh.txt 1
-data.zfas.txt 2
-data.zfby.txt 1
+data.zasq.txt 3.1086847136800873
+data.zbre.txt 3.1086847136800873
+data.zeaf.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zfas.txt 4.927148697748023
+data.zfby.txt 3.1086847136800873

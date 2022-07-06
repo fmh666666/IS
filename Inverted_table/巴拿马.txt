@@ -1,4 +1,4 @@
 3
-data.zbmw.txt 1
-data.zdeb.txt 3
-data.zesi.txt 1
+data.zbmw.txt 3.5891377275982888
+data.zdeb.txt 7.1782754551965775
+data.zesi.txt 3.5891377275982888

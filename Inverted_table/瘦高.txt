@@ -1,6 +1,6 @@
 5
-data.nh.txt 1
-data.zaxk.txt 2
-data.zclh.txt 1
-data.zcql.txt 1
-data.zctm.txt 1
+data.nh.txt 3.235060386727117
+data.zaxk.txt 5.1274494005309625
+data.zclh.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zctm.txt 3.235060386727117

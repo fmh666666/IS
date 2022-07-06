@@ -1,14 +1,14 @@
 13
-data.nh.txt 1
-data.vi.txt 1
-data.zall.txt 1
-data.zayv.txt 1
-data.zbem.txt 1
-data.zbyv.txt 1
-data.zcdy.txt 1
-data.zddb.txt 1
-data.zdlg.txt 2
-data.zdqz.txt 1
-data.zdst.txt 1
-data.zdvl.txt 1
-data.zfcg.txt 1
+data.nh.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zayv.txt 2.5727503226135906
+data.zbem.txt 2.5727503226135906
+data.zbyv.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zddb.txt 2.5727503226135906
+data.zdlg.txt 4.077712785060798
+data.zdqz.txt 2.5727503226135906
+data.zdst.txt 2.5727503226135906
+data.zdvl.txt 2.5727503226135906
+data.zfcg.txt 2.5727503226135906

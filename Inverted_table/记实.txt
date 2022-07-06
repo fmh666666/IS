@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zahd.txt 2
-data.zbqu.txt 1
-data.zdkp.txt 1
-data.zehj.txt 1
+data.bf.txt 3.235060386727117
+data.zahd.txt 5.1274494005309625
+data.zbqu.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zehj.txt 3.235060386727117

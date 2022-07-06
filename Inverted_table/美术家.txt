@@ -1,4 +1,4 @@
 3
-data.zajo.txt 2
-data.zass.txt 2
-data.zeqv.txt 1
+data.zajo.txt 5.688648708166832
+data.zass.txt 5.688648708166832
+data.zeqv.txt 3.5891377275982888

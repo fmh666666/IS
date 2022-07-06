@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.hc.txt 1
-data.zbhv.txt 1
-data.zbmt.txt 1
-data.zbzo.txt 1
-data.zdji.txt 2
-data.zdvl.txt 1
-data.zety.txt 3
-data.zevl.txt 2
-data.zewv.txt 1
-data.zeyy.txt 1
+data.dg.txt 2.6885433903988862
+data.hc.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbmt.txt 2.6885433903988862
+data.zbzo.txt 2.6885433903988862
+data.zdji.txt 4.261240455343955
+data.zdvl.txt 2.6885433903988862
+data.zety.txt 5.3770867807977725
+data.zevl.txt 4.261240455343955
+data.zewv.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

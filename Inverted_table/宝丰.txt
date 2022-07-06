@@ -1,2 +1,2 @@
 1
-data.zcon.txt 1
+data.zcon.txt 4.350637738017098

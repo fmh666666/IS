@@ -1,4 +1,4 @@
 3
-data.zabx.txt 1
-data.zate.txt 2
-data.zdib.txt 2
+data.zabx.txt 3.5891377275982888
+data.zate.txt 5.688648708166832
+data.zdib.txt 5.688648708166832

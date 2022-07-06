@@ -1,4 +1,4 @@
 3
-data.fe.txt 15
-data.ff.txt 26
-data.zcon.txt 1
+data.fe.txt 14.356550910393155
+data.ff.txt 17.065946124500496
+data.zcon.txt 3.5891377275982888

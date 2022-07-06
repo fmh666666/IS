@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.zayv.txt 2
-data.zbkf.txt 2
-data.zbzo.txt 4
-data.zdpg.txt 2
-data.zety.txt 2
+data.ha.txt 3.1086847136800873
+data.zayv.txt 4.927148697748023
+data.zbkf.txt 4.927148697748023
+data.zbzo.txt 7.21814237484067
+data.zdpg.txt 4.927148697748023
+data.zety.txt 4.927148697748023

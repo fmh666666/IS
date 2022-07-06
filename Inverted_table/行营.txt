@@ -1,5 +1,5 @@
 4
-data.zcdy.txt 4
-data.zdgt.txt 1
-data.zdll.txt 1
-data.zene.txt 1
+data.zcdy.txt 7.870713291999142
+data.zdgt.txt 3.389731710180695
+data.zdll.txt 3.389731710180695
+data.zene.txt 3.389731710180695

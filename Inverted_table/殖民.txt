@@ -1,12 +1,12 @@
 11
-data.vi.txt 1
-data.zadv.txt 1
-data.zalm.txt 1
-data.zank.txt 1
-data.zbbt.txt 1
-data.zbcc.txt 1
-data.zbpx.txt 3
-data.zcku.txt 1
-data.zcue.txt 1
-data.zcve.txt 1
-data.zfai.txt 1
+data.vi.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zalm.txt 2.6885433903988862
+data.zank.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbpx.txt 5.3770867807977725
+data.zcku.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zcve.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

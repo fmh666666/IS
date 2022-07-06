@@ -1,13 +1,13 @@
 12
-data.dg.txt 1
-data.gw.txt 14
-data.zbfr.txt 1
-data.zbhd.txt 1
-data.zbhv.txt 1
-data.zbkf.txt 1
-data.zcej.txt 3
-data.zckd.txt 1
-data.zcsu.txt 1
-data.zctm.txt 1
-data.zdlo.txt 8
-data.zdqx.txt 2
+data.dg.txt 2.628231699761886
+data.gw.txt 10.268213710879904
+data.zbfr.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zbhv.txt 2.628231699761886
+data.zbkf.txt 2.628231699761886
+data.zcej.txt 5.256463399523772
+data.zckd.txt 2.628231699761886
+data.zcsu.txt 2.628231699761886
+data.zctm.txt 2.628231699761886
+data.zdlo.txt 8.331297374658428
+data.zdqx.txt 4.165648687329214

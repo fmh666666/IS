@@ -1,14 +1,14 @@
 13
-data.yx.txt 1
-data.zacd.txt 1
-data.zajh.txt 1
-data.zajo.txt 1
-data.zaqw.txt 1
-data.zcdl.txt 1
-data.zdaw.txt 1
-data.zdeb.txt 1
-data.zeag.txt 1
-data.zebn.txt 1
-data.zeds.txt 1
-data.zegz.txt 1
-data.zeta.txt 2
+data.yx.txt 2.5727503226135906
+data.zacd.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zaqw.txt 2.5727503226135906
+data.zcdl.txt 2.5727503226135906
+data.zdaw.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zeag.txt 2.5727503226135906
+data.zebn.txt 2.5727503226135906
+data.zeds.txt 2.5727503226135906
+data.zegz.txt 2.5727503226135906
+data.zeta.txt 4.077712785060798

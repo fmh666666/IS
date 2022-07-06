@@ -1,6 +1,6 @@
 5
-data.zafl.txt 1
-data.zbjh.txt 1
-data.zcbe.txt 1
-data.zcdv.txt 1
-data.zdzn.txt 1
+data.zafl.txt 3.235060386727117
+data.zbjh.txt 3.235060386727117
+data.zcbe.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117

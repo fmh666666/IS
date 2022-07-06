@@ -1,8 +1,8 @@
 7
-data.be.txt 1
-data.zamr.txt 1
-data.zbpm.txt 1
-data.zcmn.txt 1
-data.zdlw.txt 1
-data.zewv.txt 2
-data.zfaw.txt 1
+data.be.txt 3.0018356045764243
+data.zamr.txt 3.0018356045764243
+data.zbpm.txt 3.0018356045764243
+data.zcmn.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zewv.txt 4.757796866583254
+data.zfaw.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zagr.txt 1
-data.zdar.txt 2
-data.zdlw.txt 1
-data.zexv.txt 1
+data.zadv.txt 3.235060386727117
+data.zagr.txt 3.235060386727117
+data.zdar.txt 5.1274494005309625
+data.zdlw.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

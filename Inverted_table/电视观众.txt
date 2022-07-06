@@ -1,10 +1,10 @@
 9
-data.ry.txt 2
-data.zbcv.txt 1
-data.zbgu.txt 1
-data.zbht.txt 1
-data.zbvg.txt 1
-data.zcmx.txt 1
-data.zdeb.txt 2
-data.zeid.txt 1
-data.zexm.txt 1
+data.ry.txt 4.48169974735425
+data.zbcv.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zbht.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zdeb.txt 4.48169974735425
+data.zeid.txt 2.82763771717948
+data.zexm.txt 2.82763771717948

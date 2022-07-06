@@ -1,6 +1,6 @@
 5
-data.gw.txt 2
-data.op.txt 2
-data.zass.txt 1
-data.zevt.txt 1
-data.zfai.txt 1
+data.gw.txt 5.1274494005309625
+data.op.txt 5.1274494005309625
+data.zass.txt 3.235060386727117
+data.zevt.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

@@ -1,13 +1,13 @@
 12
-data.co.txt 1
-data.ft.txt 1
-data.jd.txt 1
-data.mt.txt 2
-data.zabx.txt 1
-data.zapl.txt 1
-data.zbcj.txt 1
-data.zbof.txt 1
-data.zbsl.txt 1
-data.zbtx.txt 1
-data.zcmx.txt 1
-data.zeam.txt 1
+data.co.txt 2.628231699761886
+data.ft.txt 2.628231699761886
+data.jd.txt 2.628231699761886
+data.mt.txt 4.165648687329214
+data.zabx.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zbtx.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zeam.txt 2.628231699761886

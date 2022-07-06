@@ -1,6 +1,6 @@
 5
-data.zacp.txt 1
-data.zarr.txt 1
-data.zcxh.txt 1
-data.zelt.txt 1
-data.zfas.txt 1
+data.zacp.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zcxh.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

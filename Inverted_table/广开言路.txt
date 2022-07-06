@@ -1,4 +1,4 @@
 3
-data.to.txt 1
-data.zbpx.txt 1
-data.zcdy.txt 1
+data.to.txt 3.5891377275982888
+data.zbpx.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888

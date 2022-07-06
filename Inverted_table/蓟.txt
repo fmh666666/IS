@@ -1,4 +1,4 @@
 3
-data.hu.txt 2
-data.zail.txt 1
-data.zeoh.txt 1
+data.hu.txt 5.688648708166832
+data.zail.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888

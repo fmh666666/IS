@@ -1,7 +1,7 @@
 6
-data.hu.txt 2
-data.vi.txt 1
-data.zbha.txt 2
-data.zcel.txt 2
-data.zdnc.txt 2
-data.zeeq.txt 1
+data.hu.txt 4.927148697748023
+data.vi.txt 3.1086847136800873
+data.zbha.txt 4.927148697748023
+data.zcel.txt 4.927148697748023
+data.zdnc.txt 4.927148697748023
+data.zeeq.txt 3.1086847136800873

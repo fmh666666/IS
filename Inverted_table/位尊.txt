@@ -1,10 +1,10 @@
 9
-data.ga.txt 2
-data.jf.txt 1
-data.kq.txt 1
-data.zabe.txt 2
-data.zapl.txt 1
-data.zasw.txt 1
-data.zbkv.txt 1
-data.zctp.txt 1
-data.zdle.txt 1
+data.ga.txt 4.48169974735425
+data.jf.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.zabe.txt 4.48169974735425
+data.zapl.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdle.txt 2.82763771717948

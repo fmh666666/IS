@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.mx.txt 1
-data.ok.txt 1
-data.zbfr.txt 1
-data.zbye.txt 1
-data.zcko.txt 1
-data.zdtv.txt 2
-data.zety.txt 1
-data.zewv.txt 1
-data.zfaz.txt 1
+data.be.txt 2.7546073728089153
+data.mx.txt 2.7546073728089153
+data.ok.txt 2.7546073728089153
+data.zbfr.txt 2.7546073728089153
+data.zbye.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zdtv.txt 4.365949390112154
+data.zety.txt 2.7546073728089153
+data.zewv.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.cq.txt 1
-data.hp.txt 1
-data.zcdv.txt 1
-data.zcel.txt 1
-data.zcql.txt 1
-data.zdkp.txt 1
-data.zelj.txt 1
+data.bs.txt 2.9092786962624935
+data.cq.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zelj.txt 2.9092786962624935

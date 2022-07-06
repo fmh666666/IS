@@ -1,12 +1,12 @@
 11
-data.jj.txt 105
-data.tz.txt 3
-data.zard.txt 1
-data.zbkj.txt 2
-data.zdbf.txt 104
-data.zeaj.txt 1
-data.zefu.txt 2
-data.zehj.txt 104
-data.zexu.txt 1
-data.zeyu.txt 1
-data.zfdk.txt 2
+data.jj.txt 18.08830606924536
+data.tz.txt 5.3770867807977725
+data.zard.txt 2.6885433903988862
+data.zbkj.txt 4.261240455343955
+data.zdbf.txt 18.0515404080366
+data.zeaj.txt 2.6885433903988862
+data.zefu.txt 4.261240455343955
+data.zehj.txt 18.0515404080366
+data.zexu.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862
+data.zfdk.txt 4.261240455343955

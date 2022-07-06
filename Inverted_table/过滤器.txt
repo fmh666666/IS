@@ -1,12 +1,12 @@
 11
-data.fz.txt 1
-data.pn.txt 1
-data.zarr.txt 2
-data.zavx.txt 1
-data.zayv.txt 2
-data.zcao.txt 2
-data.zcis.txt 1
-data.zcls.txt 1
-data.zcrg.txt 2
-data.zctp.txt 1
-data.zebf.txt 1
+data.fz.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zarr.txt 4.261240455343955
+data.zavx.txt 2.6885433903988862
+data.zayv.txt 4.261240455343955
+data.zcao.txt 4.261240455343955
+data.zcis.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zcrg.txt 4.261240455343955
+data.zctp.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862

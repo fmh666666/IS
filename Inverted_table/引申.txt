@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.gw.txt 1
-data.vi.txt 1
-data.zbor.txt 1
-data.zcfx.txt 1
-data.zcmy.txt 1
-data.zcql.txt 1
-data.zctp.txt 1
-data.zdgp.txt 1
-data.zeeq.txt 1
-data.zfae.txt 1
+data.fj.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.vi.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zcfx.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zdgp.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

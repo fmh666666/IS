@@ -1,12 +1,12 @@
 11
-data.mt.txt 1
-data.zadv.txt 1
-data.zalm.txt 1
-data.zapl.txt 1
-data.zcdy.txt 1
-data.zcse.txt 1
-data.zcvi.txt 1
-data.zdgo.txt 1
-data.zedd.txt 1
-data.zeqh.txt 1
-data.zfai.txt 1
+data.mt.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zalm.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zcvi.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

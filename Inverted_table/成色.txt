@@ -1,7 +1,7 @@
 6
-data.by.txt 1
-data.zbcv.txt 1
-data.zcln.txt 1
-data.zdwv.txt 1
-data.zewv.txt 1
-data.zfaj.txt 1
+data.by.txt 3.1086847136800873
+data.zbcv.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zdwv.txt 3.1086847136800873
+data.zewv.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

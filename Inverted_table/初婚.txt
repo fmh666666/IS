@@ -1,5 +1,5 @@
 4
-data.ee.txt 1
-data.zcis.txt 1
-data.zcpc.txt 1
-data.zdkc.txt 1
+data.ee.txt 3.389731710180695
+data.zcis.txt 3.389731710180695
+data.zcpc.txt 3.389731710180695
+data.zdkc.txt 3.389731710180695

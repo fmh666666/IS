@@ -1,5 +1,5 @@
 4
-data.zcdg.txt 1
-data.zcnn.txt 1
-data.zdod.txt 1
-data.zfai.txt 4
+data.zcdg.txt 3.389731710180695
+data.zcnn.txt 3.389731710180695
+data.zdod.txt 3.389731710180695
+data.zfai.txt 7.870713291999142

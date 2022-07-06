@@ -1,11 +1,11 @@
 10
-data.ka.txt 1
-data.pq.txt 1
-data.tz.txt 1
-data.ud.txt 1
-data.zabx.txt 1
-data.zail.txt 1
-data.zazn.txt 1
-data.zcak.txt 1
-data.zddb.txt 1
-data.zdhw.txt 1
+data.ka.txt 2.7546073728089153
+data.pq.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.ud.txt 2.7546073728089153
+data.zabx.txt 2.7546073728089153
+data.zail.txt 2.7546073728089153
+data.zazn.txt 2.7546073728089153
+data.zcak.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zdhw.txt 2.7546073728089153

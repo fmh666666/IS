@@ -1,11 +1,11 @@
 10
-data.zaet.txt 1
-data.zapf.txt 1
-data.zawu.txt 1
-data.zbsl.txt 1
-data.zctp.txt 1
-data.zcvq.txt 1
-data.zdlo.txt 1
-data.zdoc.txt 1
-data.zebn.txt 1
-data.zezh.txt 1
+data.zaet.txt 2.7546073728089153
+data.zapf.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbsl.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153

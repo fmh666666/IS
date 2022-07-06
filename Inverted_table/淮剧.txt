@@ -1,4 +1,4 @@
 3
-data.zbdx.txt 1
-data.zbga.txt 1
-data.zcvq.txt 1
+data.zbdx.txt 3.5891377275982888
+data.zbga.txt 3.5891377275982888
+data.zcvq.txt 3.5891377275982888

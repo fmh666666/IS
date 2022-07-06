@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.cf.txt 1
-data.wc.txt 1
-data.zajo.txt 1
-data.zarc.txt 1
-data.zbvg.txt 1
-data.zcjd.txt 1
-data.zcqs.txt 1
-data.zcxp.txt 1
-data.zddv.txt 1
+data.bb.txt 2.7546073728089153
+data.cf.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zarc.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zcjd.txt 2.7546073728089153
+data.zcqs.txt 2.7546073728089153
+data.zcxp.txt 2.7546073728089153
+data.zddv.txt 2.7546073728089153

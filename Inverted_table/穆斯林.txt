@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.ye.txt 2
-data.zawu.txt 4
-data.zdud.txt 3
-data.zfby.txt 1
+data.kt.txt 3.235060386727117
+data.ye.txt 5.1274494005309625
+data.zawu.txt 7.511577600598868
+data.zdud.txt 6.470120773454234
+data.zfby.txt 3.235060386727117

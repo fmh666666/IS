@@ -1,7 +1,7 @@
 6
-data.zdgt.txt 1
-data.zdle.txt 1
-data.zdlm.txt 1
-data.zdyv.txt 1
-data.zdzg.txt 1
-data.zewn.txt 1
+data.zdgt.txt 3.1086847136800873
+data.zdle.txt 3.1086847136800873
+data.zdlm.txt 3.1086847136800873
+data.zdyv.txt 3.1086847136800873
+data.zdzg.txt 3.1086847136800873
+data.zewn.txt 3.1086847136800873

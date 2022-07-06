@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.mx.txt 1
-data.zbcv.txt 1
-data.zdqq.txt 2
-data.zeec.txt 1
-data.zehp.txt 1
+data.mo.txt 3.1086847136800873
+data.mx.txt 3.1086847136800873
+data.zbcv.txt 3.1086847136800873
+data.zdqq.txt 4.927148697748023
+data.zeec.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873

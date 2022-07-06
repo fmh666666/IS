@@ -1,13 +1,13 @@
 12
-data.pq.txt 1
-data.ud.txt 1
-data.zanm.txt 1
-data.zcdl.txt 2
-data.zcjy.txt 1
-data.zcmv.txt 1
-data.zcon.txt 1
-data.zdcw.txt 4
-data.zerw.txt 1
-data.zeun.txt 1
-data.zexx.txt 2
-data.zeyy.txt 2
+data.pq.txt 2.628231699761886
+data.ud.txt 2.628231699761886
+data.zanm.txt 2.628231699761886
+data.zcdl.txt 4.165648687329214
+data.zcjy.txt 2.628231699761886
+data.zcmv.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdcw.txt 6.1025650235506905
+data.zerw.txt 2.628231699761886
+data.zeun.txt 2.628231699761886
+data.zexx.txt 4.165648687329214
+data.zeyy.txt 4.165648687329214

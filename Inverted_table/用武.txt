@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zauy.txt 1
-data.zbel.txt 1
-data.zbkv.txt 1
-data.zbnx.txt 1
-data.zbsm.txt 1
-data.zcon.txt 1
-data.zeqv.txt 1
+data.op.txt 2.9092786962624935
+data.zauy.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

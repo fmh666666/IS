@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.zagb.txt 1
-data.zbnx.txt 1
-data.zcft.txt 1
-data.zcli.txt 4
-data.zcql.txt 1
-data.zdzn.txt 4
-data.zegn.txt 1
-data.zewg.txt 12
-data.zezy.txt 1
+data.aj.txt 2.7546073728089153
+data.zagb.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zcft.txt 2.7546073728089153
+data.zcli.txt 6.396000249308887
+data.zcql.txt 2.7546073728089153
+data.zdzn.txt 6.396000249308887
+data.zegn.txt 2.7546073728089153
+data.zewg.txt 10.193258530226398
+data.zezy.txt 2.7546073728089153

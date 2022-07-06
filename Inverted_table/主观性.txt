@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zate.txt 1
-data.zdou.txt 1
+data.zabe.txt 3.5891377275982888
+data.zate.txt 3.5891377275982888
+data.zdou.txt 3.5891377275982888

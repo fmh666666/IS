@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.op.txt 1
-data.zahp.txt 1
-data.zbht.txt 1
-data.zblq.txt 1
-data.zcql.txt 1
-data.zexu.txt 1
-data.zfai.txt 1
+data.be.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zahp.txt 2.9092786962624935
+data.zbht.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zexu.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

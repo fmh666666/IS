@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.hp.txt 1
-data.hu.txt 1
-data.op.txt 2
-data.tz.txt 1
-data.zbsm.txt 1
-data.zcll.txt 1
-data.zcue.txt 1
-data.zcxr.txt 1
-data.zeoh.txt 1
+data.ek.txt 2.7546073728089153
+data.hp.txt 2.7546073728089153
+data.hu.txt 2.7546073728089153
+data.op.txt 4.365949390112154
+data.tz.txt 2.7546073728089153
+data.zbsm.txt 2.7546073728089153
+data.zcll.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

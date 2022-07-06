@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.tz.txt 1
-data.zaxj.txt 1
-data.zbdb.txt 2
-data.zbjh.txt 1
-data.zeoh.txt 1
+data.tv.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zbdb.txt 4.927148697748023
+data.zbjh.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

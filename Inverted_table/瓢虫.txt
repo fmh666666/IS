@@ -1,10 +1,10 @@
 9
-data.zasd.txt 1
-data.zbjk.txt 1
-data.zbut.txt 1
-data.zcjy.txt 1
-data.zczp.txt 13
-data.zdle.txt 1
-data.zdyv.txt 1
-data.zeun.txt 1
-data.zezn.txt 3
+data.zasd.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zbut.txt 2.82763771717948
+data.zcjy.txt 2.82763771717948
+data.zczp.txt 10.76582038029902
+data.zdle.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zeun.txt 2.82763771717948
+data.zezn.txt 5.65527543435896

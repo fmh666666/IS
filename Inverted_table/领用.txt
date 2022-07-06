@@ -1,5 +1,5 @@
 4
-data.zbaq.txt 1
-data.zbem.txt 2
-data.zbvp.txt 1
-data.zchw.txt 1
+data.zbaq.txt 3.389731710180695
+data.zbem.txt 5.372597648141796
+data.zbvp.txt 3.389731710180695
+data.zchw.txt 3.389731710180695

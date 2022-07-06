@@ -1,5 +1,5 @@
 4
-data.jj.txt 1
-data.zcve.txt 1
-data.zddm.txt 1
-data.zeay.txt 1
+data.jj.txt 3.389731710180695
+data.zcve.txt 3.389731710180695
+data.zddm.txt 3.389731710180695
+data.zeay.txt 3.389731710180695

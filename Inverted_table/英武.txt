@@ -1,6 +1,6 @@
 5
-data.zbre.txt 2
-data.zcsu.txt 1
-data.zcvq.txt 1
-data.zddb.txt 1
-data.zeqv.txt 1
+data.zbre.txt 5.1274494005309625
+data.zcsu.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

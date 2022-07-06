@@ -1,12 +1,12 @@
 11
-data.hg.txt 1
-data.zafu.txt 3
-data.zbof.txt 1
-data.zbqu.txt 1
-data.zcbm.txt 1
-data.zdqz.txt 1
-data.zebv.txt 1
-data.zekw.txt 37
-data.zexx.txt 4
-data.zfae.txt 1
-data.zfas.txt 1
+data.hg.txt 2.6885433903988862
+data.zafu.txt 5.3770867807977725
+data.zbof.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zcbm.txt 2.6885433903988862
+data.zdqz.txt 2.6885433903988862
+data.zebv.txt 2.6885433903988862
+data.zekw.txt 14.109280829561214
+data.zexx.txt 6.2426044324908965
+data.zfae.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

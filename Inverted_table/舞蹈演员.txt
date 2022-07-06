@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.kt.txt 1
-data.zajo.txt 1
-data.zbfz.txt 1
-data.zeos.txt 1
-data.zeqn.txt 1
+data.bb.txt 3.1086847136800873
+data.kt.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873
+data.zeqn.txt 3.1086847136800873

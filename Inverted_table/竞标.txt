@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zasq.txt 1
-data.zawb.txt 2
-data.zbht.txt 4
-data.zcdl.txt 2
-data.zcee.txt 1
-data.zdwl.txt 1
-data.zfai.txt 1
+data.ga.txt 2.9092786962624935
+data.zasq.txt 2.9092786962624935
+data.zawb.txt 4.611097637722987
+data.zbht.txt 6.7551359407091605
+data.zcdl.txt 4.611097637722987
+data.zcee.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

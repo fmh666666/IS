@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.zaqf.txt 3
-data.zawu.txt 2
-data.zbux.txt 1
-data.zcdz.txt 1
-data.zcse.txt 4
-data.zene.txt 1
-data.zexv.txt 3
-data.zfae.txt 3
-data.zfai.txt 1
+data.ga.txt 2.7546073728089153
+data.zaqf.txt 5.509214745617831
+data.zawu.txt 4.365949390112154
+data.zbux.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcse.txt 6.396000249308887
+data.zene.txt 2.7546073728089153
+data.zexv.txt 5.509214745617831
+data.zfae.txt 5.509214745617831
+data.zfai.txt 2.7546073728089153

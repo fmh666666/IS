@@ -1,4 +1,4 @@
 3
-data.zalj.txt 1
-data.zbot.txt 2
-data.zccl.txt 1
+data.zalj.txt 3.5891377275982888
+data.zbot.txt 5.688648708166832
+data.zccl.txt 3.5891377275982888

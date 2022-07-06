@@ -1,5 +1,5 @@
 4
-data.zafe.txt 1
-data.zaub.txt 1
-data.zegz.txt 1
-data.zess.txt 1
+data.zafe.txt 3.389731710180695
+data.zaub.txt 3.389731710180695
+data.zegz.txt 3.389731710180695
+data.zess.txt 3.389731710180695

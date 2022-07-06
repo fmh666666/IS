@@ -1,4 +1,4 @@
 3
-data.zacp.txt 1
-data.zbnx.txt 1
-data.zcgi.txt 1
+data.zacp.txt 3.5891377275982888
+data.zbnx.txt 3.5891377275982888
+data.zcgi.txt 3.5891377275982888

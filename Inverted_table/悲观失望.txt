@@ -1,4 +1,4 @@
 3
-data.kq.txt 1
-data.zbsm.txt 1
-data.zene.txt 6
+data.kq.txt 3.5891377275982888
+data.zbsm.txt 3.5891377275982888
+data.zene.txt 10.0759834655157

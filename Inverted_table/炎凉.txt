@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zail.txt 1
-data.zazg.txt 1
-data.zbzf.txt 1
-data.zefu.txt 1
+data.zabe.txt 3.235060386727117
+data.zail.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zefu.txt 3.235060386727117

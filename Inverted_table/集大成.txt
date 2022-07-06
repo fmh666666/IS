@@ -1,9 +1,9 @@
 8
-data.zaxj.txt 1
-data.zbkf.txt 1
-data.zbrj.txt 1
-data.zeai.txt 1
-data.zegl.txt 1
-data.zekw.txt 1
-data.zeoh.txt 1
-data.zety.txt 1
+data.zaxj.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zegl.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zety.txt 2.9092786962624935

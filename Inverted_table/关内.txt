@@ -1,7 +1,7 @@
 6
-data.zagb.txt 1
-data.zajh.txt 4
-data.zazw.txt 2
-data.zbjk.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
+data.zagb.txt 3.1086847136800873
+data.zajh.txt 7.21814237484067
+data.zazw.txt 4.927148697748023
+data.zbjk.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873

@@ -1,11 +1,11 @@
 10
-data.zacp.txt 1
-data.zaic.txt 1
-data.zako.txt 1
-data.zcbe.txt 1
-data.zcdv.txt 1
-data.zcel.txt 2
-data.zchd.txt 1
-data.zcqp.txt 1
-data.zezn.txt 1
-data.zfby.txt 1
+data.zacp.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zako.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcel.txt 4.365949390112154
+data.zchd.txt 2.7546073728089153
+data.zcqp.txt 2.7546073728089153
+data.zezn.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

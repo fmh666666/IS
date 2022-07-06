@@ -1,13 +1,13 @@
 12
-data.pa.txt 1
-data.zavg.txt 1
-data.zcak.txt 1
-data.zcis.txt 1
-data.zcse.txt 1
-data.zczp.txt 1
-data.zdme.txt 1
-data.zdpg.txt 1
-data.zebf.txt 1
-data.zeeh.txt 1
-data.zefu.txt 1
-data.zfaj.txt 2
+data.pa.txt 2.628231699761886
+data.zavg.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdme.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886
+data.zebf.txt 2.628231699761886
+data.zeeh.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zfaj.txt 4.165648687329214

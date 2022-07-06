@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.ew.txt 1
-data.mx.txt 1
-data.pn.txt 1
-data.zbls.txt 1
-data.zeec.txt 1
-data.zene.txt 2
-data.zfaw.txt 1
+data.aj.txt 2.9092786962624935
+data.ew.txt 2.9092786962624935
+data.mx.txt 2.9092786962624935
+data.pn.txt 2.9092786962624935
+data.zbls.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zene.txt 4.611097637722987
+data.zfaw.txt 2.9092786962624935

@@ -1,14 +1,14 @@
 13
-data.gw.txt 1
-data.ok.txt 1
-data.zahd.txt 2
-data.zcej.txt 1
-data.zcjd.txt 1
-data.zcwq.txt 1
-data.zddb.txt 1
-data.zdfl.txt 3
-data.zdgo.txt 1
-data.zdgp.txt 3
-data.zefw.txt 1
-data.zfae.txt 1
-data.zfaj.txt 1
+data.gw.txt 2.5727503226135906
+data.ok.txt 2.5727503226135906
+data.zahd.txt 4.077712785060798
+data.zcej.txt 2.5727503226135906
+data.zcjd.txt 2.5727503226135906
+data.zcwq.txt 2.5727503226135906
+data.zddb.txt 2.5727503226135906
+data.zdfl.txt 5.145500645227181
+data.zdgo.txt 2.5727503226135906
+data.zdgp.txt 5.145500645227181
+data.zefw.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

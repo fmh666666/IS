@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.jf.txt 4
-data.zajr.txt 1
-data.zaxj.txt 1
-data.zbdb.txt 1
-data.zblq.txt 5
-data.zblr.txt 6
-data.zcko.txt 1
-data.zczp.txt 3
-data.zeeh.txt 1
+data.fp.txt 2.7546073728089153
+data.jf.txt 6.396000249308887
+data.zajr.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zblq.txt 7.120556762921068
+data.zblr.txt 7.733160566391275
+data.zcko.txt 2.7546073728089153
+data.zczp.txt 5.509214745617831
+data.zeeh.txt 2.7546073728089153

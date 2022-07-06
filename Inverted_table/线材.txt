@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zaqr.txt 1
-data.zcbm.txt 1
-data.zdoc.txt 1
-data.zevl.txt 1
+data.dg.txt 3.235060386727117
+data.zaqr.txt 3.235060386727117
+data.zcbm.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117
+data.zevl.txt 3.235060386727117

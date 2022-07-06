@@ -1,10 +1,10 @@
 9
-data.ew.txt 1
-data.zafk.txt 1
-data.zbnx.txt 1
-data.zbzg.txt 1
-data.zchd.txt 1
-data.zcqp.txt 1
-data.zdrq.txt 1
-data.zebv.txt 1
-data.zevq.txt 3
+data.ew.txt 2.82763771717948
+data.zafk.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbzg.txt 2.82763771717948
+data.zchd.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zevq.txt 5.65527543435896

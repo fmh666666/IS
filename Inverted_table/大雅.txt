@@ -1,11 +1,11 @@
 10
-data.tj.txt 2
-data.xk.txt 1
-data.zbga.txt 1
-data.zbgd.txt 1
-data.zcnn.txt 1
-data.zcqg.txt 1
-data.zctp.txt 1
-data.zdlm.txt 1
-data.zduo.txt 2
-data.zfaj.txt 1
+data.tj.txt 4.365949390112154
+data.xk.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbgd.txt 2.7546073728089153
+data.zcnn.txt 2.7546073728089153
+data.zcqg.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdlm.txt 2.7546073728089153
+data.zduo.txt 4.365949390112154
+data.zfaj.txt 2.7546073728089153

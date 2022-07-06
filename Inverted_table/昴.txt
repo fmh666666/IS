@@ -1,11 +1,11 @@
 10
-data.zadv.txt 1
-data.zawc.txt 1
-data.zbkj.txt 1
-data.zcfn.txt 1
-data.zcrv.txt 1
-data.zdlg.txt 1
-data.zdrq.txt 2
-data.zebv.txt 1
-data.zefp.txt 1
-data.zeve.txt 7
+data.zadv.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zcrv.txt 2.7546073728089153
+data.zdlg.txt 2.7546073728089153
+data.zdrq.txt 4.365949390112154
+data.zebv.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zeve.txt 8.263822118426747

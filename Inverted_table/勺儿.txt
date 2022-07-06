@@ -1,4 +1,4 @@
 3
-data.zauy.txt 2
-data.zcli.txt 7
-data.zess.txt 1
+data.zauy.txt 5.688648708166832
+data.zcli.txt 10.767413182794865
+data.zess.txt 3.5891377275982888

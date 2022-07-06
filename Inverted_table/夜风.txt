@@ -1,13 +1,13 @@
 12
-data.mo.txt 1
-data.tv.txt 3
-data.tz.txt 1
-data.zabe.txt 1
-data.zahd.txt 1
-data.zbkf.txt 1
-data.zbwq.txt 1
-data.zdud.txt 1
-data.zdwn.txt 1
-data.zdzi.txt 1
-data.zeqh.txt 1
-data.zerh.txt 1
+data.mo.txt 2.628231699761886
+data.tv.txt 5.256463399523772
+data.tz.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zbkf.txt 2.628231699761886
+data.zbwq.txt 2.628231699761886
+data.zdud.txt 2.628231699761886
+data.zdwn.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886
+data.zeqh.txt 2.628231699761886
+data.zerh.txt 2.628231699761886

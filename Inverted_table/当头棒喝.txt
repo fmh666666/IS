@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.ye.txt 1
-data.zaxk.txt 1
-data.zdhv.txt 1
-data.zduc.txt 1
+data.tv.txt 3.235060386727117
+data.ye.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zdhv.txt 3.235060386727117
+data.zduc.txt 3.235060386727117

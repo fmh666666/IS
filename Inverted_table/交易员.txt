@@ -1,7 +1,7 @@
 6
-data.kq.txt 16
-data.zail.txt 2
-data.zazn.txt 2
-data.zbgu.txt 1
-data.zbyv.txt 4
-data.zcdy.txt 1
+data.kq.txt 12.706633252330308
+data.zail.txt 4.927148697748023
+data.zazn.txt 4.927148697748023
+data.zbgu.txt 3.1086847136800873
+data.zbyv.txt 7.21814237484067
+data.zcdy.txt 3.1086847136800873

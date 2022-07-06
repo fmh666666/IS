@@ -1,6 +1,6 @@
 5
-data.zbbt.txt 1
-data.zbua.txt 1
-data.zcbe.txt 2
-data.zdzi.txt 2
-data.zeac.txt 1
+data.zbbt.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zcbe.txt 5.1274494005309625
+data.zdzi.txt 5.1274494005309625
+data.zeac.txt 3.235060386727117

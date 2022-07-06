@@ -1,13 +1,13 @@
 12
-data.kt.txt 1
-data.zagb.txt 1
-data.zbfp.txt 1
-data.zcdg.txt 1
-data.zcee.txt 1
-data.zcgo.txt 1
-data.zcvt.txt 1
-data.zczp.txt 1
-data.zdou.txt 1
-data.zdqz.txt 1
-data.zemb.txt 1
-data.zfae.txt 1
+data.kt.txt 2.628231699761886
+data.zagb.txt 2.628231699761886
+data.zbfp.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcgo.txt 2.628231699761886
+data.zcvt.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdou.txt 2.628231699761886
+data.zdqz.txt 2.628231699761886
+data.zemb.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

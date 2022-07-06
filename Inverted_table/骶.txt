@@ -1,6 +1,6 @@
 5
-data.zcpb.txt 1
-data.zdgv.txt 5
-data.zdpg.txt 1
-data.zeay.txt 1
-data.zeve.txt 2
+data.zcpb.txt 3.235060386727117
+data.zdgv.txt 8.362509787258078
+data.zdpg.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zeve.txt 5.1274494005309625

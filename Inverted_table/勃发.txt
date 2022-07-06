@@ -1,7 +1,7 @@
 6
-data.zarr.txt 1
-data.zbhd.txt 1
-data.zcdl.txt 1
-data.zcuh.txt 1
-data.zdds.txt 1
-data.zfai.txt 1
+data.zarr.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zcdl.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873
+data.zdds.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

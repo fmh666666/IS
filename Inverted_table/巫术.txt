@@ -1,12 +1,12 @@
 11
-data.to.txt 1
-data.zbfz.txt 1
-data.zcfn.txt 1
-data.zchd.txt 1
-data.zcqs.txt 1
-data.zcvi.txt 1
-data.zdey.txt 2
-data.zdil.txt 3
-data.zebc.txt 1
-data.zeqn.txt 1
-data.zexu.txt 2
+data.to.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zchd.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zcvi.txt 2.6885433903988862
+data.zdey.txt 4.261240455343955
+data.zdil.txt 5.3770867807977725
+data.zebc.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862
+data.zexu.txt 4.261240455343955

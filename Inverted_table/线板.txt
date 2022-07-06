@@ -1,8 +1,8 @@
 7
-data.fj.txt 1
-data.qb.txt 1
-data.zafe.txt 1
-data.zbcj.txt 5
-data.zcbe.txt 1
-data.zcxq.txt 1
-data.zexx.txt 1
+data.fj.txt 3.0018356045764243
+data.qb.txt 3.0018356045764243
+data.zafe.txt 3.0018356045764243
+data.zbcj.txt 7.759632471159678
+data.zcbe.txt 3.0018356045764243
+data.zcxq.txt 3.0018356045764243
+data.zexx.txt 3.0018356045764243

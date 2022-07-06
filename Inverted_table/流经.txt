@@ -1,5 +1,5 @@
 4
-data.ud.txt 1
-data.vi.txt 1
-data.zcby.txt 3
-data.zctp.txt 1
+data.ud.txt 3.389731710180695
+data.vi.txt 3.389731710180695
+data.zcby.txt 6.77946342036139
+data.zctp.txt 3.389731710180695

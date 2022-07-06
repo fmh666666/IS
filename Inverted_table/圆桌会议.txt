@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.zacw.txt 1
-data.zaqr.txt 1
-data.zcdg.txt 1
-data.zcsu.txt 1
-data.zeyu.txt 1
+data.ka.txt 3.1086847136800873
+data.zacw.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcsu.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

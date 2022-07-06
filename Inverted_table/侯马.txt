@@ -1,4 +1,4 @@
 3
-data.zbsd.txt 12
-data.zewd.txt 1
-data.zfaz.txt 1
+data.zbsd.txt 13.281387801083373
+data.zewd.txt 3.5891377275982888
+data.zfaz.txt 3.5891377275982888

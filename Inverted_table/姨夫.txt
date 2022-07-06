@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.hp.txt 1
-data.zaip.txt 1
-data.zbvn.txt 4
-data.zbvp.txt 2
-data.zcww.txt 1
-data.zdcj.txt 3
-data.zddm.txt 1
-data.zeqn.txt 1
-data.zeqv.txt 1
-data.zfaw.txt 1
-data.zfcp.txt 1
+data.gk.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zbvn.txt 6.1025650235506905
+data.zbvp.txt 4.165648687329214
+data.zcww.txt 2.628231699761886
+data.zdcj.txt 5.256463399523772
+data.zddm.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886
+data.zfaw.txt 2.628231699761886
+data.zfcp.txt 2.628231699761886

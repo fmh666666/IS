@@ -1,3 +1,3 @@
 2
-data.zbhd.txt 4
-data.zciq.txt 1
+data.zbhd.txt 8.986290643289122
+data.zciq.txt 3.8701847240988965

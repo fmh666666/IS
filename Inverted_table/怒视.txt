@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zazx.txt 2
-data.zcvt.txt 1
-data.zdmw.txt 1
-data.zfas.txt 1
+data.zaxp.txt 3.235060386727117
+data.zazx.txt 5.1274494005309625
+data.zcvt.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

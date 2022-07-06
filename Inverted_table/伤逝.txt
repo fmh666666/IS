@@ -1,5 +1,5 @@
 4
-data.zchw.txt 1
-data.zduo.txt 1
-data.zebc.txt 2
-data.zene.txt 1
+data.zchw.txt 3.389731710180695
+data.zduo.txt 3.389731710180695
+data.zebc.txt 5.372597648141796
+data.zene.txt 3.389731710180695

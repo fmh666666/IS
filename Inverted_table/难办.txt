@@ -1,10 +1,10 @@
 9
-data.zapl.txt 1
-data.zaxx.txt 1
-data.zbhe.txt 3
-data.zbvp.txt 1
-data.zcgo.txt 1
-data.zcxq.txt 1
-data.zdro.txt 1
-data.zelt.txt 1
-data.zexx.txt 1
+data.zapl.txt 2.82763771717948
+data.zaxx.txt 2.82763771717948
+data.zbhe.txt 5.65527543435896
+data.zbvp.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zdro.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zexx.txt 2.82763771717948

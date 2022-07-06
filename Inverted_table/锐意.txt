@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.zaic.txt 2
-data.zass.txt 1
-data.zbds.txt 1
-data.zbpc.txt 1
-data.zcxr.txt 8
-data.zdgp.txt 1
+data.kq.txt 3.0018356045764243
+data.zaic.txt 4.757796866583254
+data.zass.txt 3.0018356045764243
+data.zbds.txt 3.0018356045764243
+data.zbpc.txt 3.0018356045764243
+data.zcxr.txt 9.515593733166508
+data.zdgp.txt 3.0018356045764243

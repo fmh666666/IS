@@ -1,4 +1,4 @@
 3
-data.zclh.txt 2
-data.zctn.txt 5
-data.zezy.txt 1
+data.zclh.txt 5.688648708166832
+data.zctn.txt 9.27778643576512
+data.zezy.txt 3.5891377275982888

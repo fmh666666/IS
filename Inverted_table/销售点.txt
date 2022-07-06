@@ -1,6 +1,6 @@
 5
-data.mi.txt 1
-data.zbkf.txt 1
-data.zdud.txt 1
-data.zdux.txt 1
-data.zedd.txt 1
+data.mi.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zdux.txt 3.235060386727117
+data.zedd.txt 3.235060386727117

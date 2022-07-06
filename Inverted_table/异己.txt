@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.op.txt 1
-data.vi.txt 1
-data.zalj.txt 1
-data.zawu.txt 1
-data.zdkk.txt 1
-data.zeaf.txt 1
-data.zefd.txt 1
+data.hp.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.vi.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935

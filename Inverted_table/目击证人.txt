@@ -1,9 +1,9 @@
 8
-data.cf.txt 2
-data.mx.txt 1
-data.zaip.txt 1
-data.zasw.txt 1
-data.zbfz.txt 1
-data.zdwn.txt 1
-data.zeva.txt 1
-data.zezy.txt 1
+data.cf.txt 4.611097637722987
+data.mx.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zasw.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zeva.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.zapr.txt 1
-data.zbcv.txt 1
-data.zcdv.txt 1
+data.zapr.txt 3.5891377275982888
+data.zbcv.txt 3.5891377275982888
+data.zcdv.txt 3.5891377275982888

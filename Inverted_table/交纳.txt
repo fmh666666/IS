@@ -1,11 +1,11 @@
 10
-data.fj.txt 1
-data.hp.txt 1
-data.ok.txt 1
-data.op.txt 1
-data.yx.txt 1
-data.zaic.txt 1
-data.zbdb.txt 1
-data.zduk.txt 1
-data.zeqv.txt 1
-data.zerh.txt 1
+data.fj.txt 2.7546073728089153
+data.hp.txt 2.7546073728089153
+data.ok.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153
+data.zerh.txt 2.7546073728089153

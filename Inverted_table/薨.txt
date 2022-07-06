@@ -1,4 +1,4 @@
 3
-data.zacw.txt 1
-data.zevy.txt 3
-data.zezy.txt 1
+data.zacw.txt 3.5891377275982888
+data.zevy.txt 7.1782754551965775
+data.zezy.txt 3.5891377275982888

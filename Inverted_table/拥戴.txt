@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.hp.txt 1
-data.jf.txt 1
-data.qn.txt 1
-data.zawc.txt 1
-data.zaxp.txt 1
-data.zbsf.txt 1
-data.zcon.txt 1
-data.zcxr.txt 1
-data.zczj.txt 1
-data.zdlw.txt 1
+data.ga.txt 2.6885433903988862
+data.hp.txt 2.6885433903988862
+data.jf.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zbsf.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zczj.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862

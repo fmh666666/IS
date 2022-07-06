@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.ft.txt 1
-data.ha.txt 1
-data.jf.txt 1
-data.vm.txt 1
-data.zazn.txt 1
-data.zbhe.txt 1
+data.bs.txt 3.0018356045764243
+data.ft.txt 3.0018356045764243
+data.ha.txt 3.0018356045764243
+data.jf.txt 3.0018356045764243
+data.vm.txt 3.0018356045764243
+data.zazn.txt 3.0018356045764243
+data.zbhe.txt 3.0018356045764243

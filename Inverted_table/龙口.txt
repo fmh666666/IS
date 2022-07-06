@@ -1,12 +1,12 @@
 11
-data.zabe.txt 3
-data.zabx.txt 1
-data.zafv.txt 1
-data.zbeb.txt 1
-data.zbnx.txt 3
-data.zbux.txt 1
-data.zdpw.txt 1
-data.zefw.txt 1
-data.zene.txt 1
-data.zenn.txt 1
-data.zfae.txt 2
+data.zabe.txt 5.3770867807977725
+data.zabx.txt 2.6885433903988862
+data.zafv.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbnx.txt 5.3770867807977725
+data.zbux.txt 2.6885433903988862
+data.zdpw.txt 2.6885433903988862
+data.zefw.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zenn.txt 2.6885433903988862
+data.zfae.txt 4.261240455343955

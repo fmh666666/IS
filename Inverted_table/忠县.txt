@@ -1,6 +1,6 @@
 5
-data.uz.txt 1
-data.zdlw.txt 1
-data.zdzn.txt 1
-data.zedy.txt 1
-data.zewn.txt 1
+data.uz.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zedy.txt 3.235060386727117
+data.zewn.txt 3.235060386727117

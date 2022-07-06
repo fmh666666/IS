@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.hc.txt 1
-data.qn.txt 1
-data.vm.txt 1
-data.zajo.txt 1
-data.zbia.txt 1
-data.zeaf.txt 1
-data.zerv.txt 1
-data.zeve.txt 1
-data.zexm.txt 2
+data.bf.txt 2.7546073728089153
+data.hc.txt 2.7546073728089153
+data.qn.txt 2.7546073728089153
+data.vm.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zbia.txt 2.7546073728089153
+data.zeaf.txt 2.7546073728089153
+data.zerv.txt 2.7546073728089153
+data.zeve.txt 2.7546073728089153
+data.zexm.txt 4.365949390112154

@@ -1,7 +1,7 @@
 6
-data.zaxj.txt 1
-data.zcjd.txt 1
-data.zczb.txt 1
-data.zdic.txt 1
-data.zdpw.txt 1
-data.zduk.txt 1
+data.zaxj.txt 3.1086847136800873
+data.zcjd.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zdic.txt 3.1086847136800873
+data.zdpw.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873

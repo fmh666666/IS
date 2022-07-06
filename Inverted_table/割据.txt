@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zabe.txt 1
-data.zaip.txt 1
-data.zajh.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zdju.txt 2
-data.zebf.txt 1
-data.zenn.txt 1
+data.fp.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zaip.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zdju.txt 4.48169974735425
+data.zebf.txt 2.82763771717948
+data.zenn.txt 2.82763771717948

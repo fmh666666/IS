@@ -1,7 +1,7 @@
 6
-data.zane.txt 1
-data.zaqr.txt 1
-data.zbyb.txt 1
-data.zcvq.txt 1
-data.zehb.txt 1
-data.zfdk.txt 1
+data.zane.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zcvq.txt 3.1086847136800873
+data.zehb.txt 3.1086847136800873
+data.zfdk.txt 3.1086847136800873

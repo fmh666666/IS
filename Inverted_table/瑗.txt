@@ -1,8 +1,8 @@
 7
-data.kq.txt 2
-data.zalm.txt 1
-data.zbsf.txt 1
-data.zcem.txt 1
-data.zduo.txt 1
-data.zdvl.txt 1
-data.zfaw.txt 1
+data.kq.txt 4.757796866583254
+data.zalm.txt 3.0018356045764243
+data.zbsf.txt 3.0018356045764243
+data.zcem.txt 3.0018356045764243
+data.zduo.txt 3.0018356045764243
+data.zdvl.txt 3.0018356045764243
+data.zfaw.txt 3.0018356045764243

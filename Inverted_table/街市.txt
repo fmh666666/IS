@@ -1,13 +1,13 @@
 12
-data.hc.txt 1
-data.zabx.txt 1
-data.zail.txt 1
-data.zaim.txt 1
-data.zbaq.txt 1
-data.zbeb.txt 2
-data.zcdg.txt 1
-data.zdwk.txt 1
-data.zeaf.txt 1
-data.zeec.txt 1
-data.zeqn.txt 1
-data.zerh.txt 1
+data.hc.txt 2.628231699761886
+data.zabx.txt 2.628231699761886
+data.zail.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zbaq.txt 2.628231699761886
+data.zbeb.txt 4.165648687329214
+data.zcdg.txt 2.628231699761886
+data.zdwk.txt 2.628231699761886
+data.zeaf.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zerh.txt 2.628231699761886

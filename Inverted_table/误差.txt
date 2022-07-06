@@ -1,12 +1,12 @@
 11
-data.gk.txt 1
-data.ha.txt 1
-data.mx.txt 1
-data.zahd.txt 2
-data.zaim.txt 1
-data.zaop.txt 1
-data.zccu.txt 1
-data.zctp.txt 1
-data.zdcy.txt 2
-data.zebn.txt 1
-data.zeqn.txt 1
+data.gk.txt 2.6885433903988862
+data.ha.txt 2.6885433903988862
+data.mx.txt 2.6885433903988862
+data.zahd.txt 4.261240455343955
+data.zaim.txt 2.6885433903988862
+data.zaop.txt 2.6885433903988862
+data.zccu.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zdcy.txt 4.261240455343955
+data.zebn.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862

@@ -1,12 +1,12 @@
 11
-data.nh.txt 1
-data.to.txt 1
-data.zacw.txt 1
-data.zajo.txt 1
-data.zbrj.txt 1
-data.zbsm.txt 3
-data.zcdz.txt 2
-data.zcsu.txt 1
-data.zduk.txt 1
-data.zduo.txt 1
-data.zdwz.txt 1
+data.nh.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.zacw.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zbsm.txt 5.3770867807977725
+data.zcdz.txt 4.261240455343955
+data.zcsu.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zduo.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862

@@ -1,12 +1,12 @@
 11
-data.zacd.txt 1
-data.zahd.txt 1
-data.zawc.txt 1
-data.zbdx.txt 1
-data.zbel.txt 1
-data.zbjh.txt 1
-data.zbvm.txt 1
-data.zcvq.txt 1
-data.zddx.txt 1
-data.zdgp.txt 1
-data.zesq.txt 1
+data.zacd.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zbel.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcvq.txt 2.6885433903988862
+data.zddx.txt 2.6885433903988862
+data.zdgp.txt 2.6885433903988862
+data.zesq.txt 2.6885433903988862

@@ -1,5 +1,5 @@
 4
-data.zbla.txt 1
-data.zcdy.txt 1
-data.zcxr.txt 2
-data.zdey.txt 1
+data.zbla.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zcxr.txt 5.372597648141796
+data.zdey.txt 3.389731710180695

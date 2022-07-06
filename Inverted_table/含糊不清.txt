@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.yx.txt 1
-data.zawu.txt 1
-data.zcrg.txt 1
-data.zfcj.txt 1
+data.ka.txt 3.235060386727117
+data.yx.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

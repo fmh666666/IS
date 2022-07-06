@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.ek.txt 1
-data.zcni.txt 1
-data.zdgt.txt 1
-data.zdgv.txt 1
-data.zduk.txt 1
-data.zedd.txt 1
-data.zeel.txt 1
+data.aj.txt 2.9092786962624935
+data.ek.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935

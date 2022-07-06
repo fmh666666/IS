@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.zdcy.txt 1
-data.zdgt.txt 3
-data.zdju.txt 1
+data.fp.txt 3.389731710180695
+data.zdcy.txt 3.389731710180695
+data.zdgt.txt 6.77946342036139
+data.zdju.txt 3.389731710180695

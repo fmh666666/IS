@@ -1,10 +1,10 @@
 9
-data.ha.txt 1
-data.zabe.txt 2
-data.zabj.txt 1
-data.zakb.txt 1
-data.zayd.txt 1
-data.zczj.txt 1
-data.zczl.txt 3
-data.zdou.txt 1
-data.zfae.txt 1
+data.ha.txt 2.82763771717948
+data.zabe.txt 4.48169974735425
+data.zabj.txt 2.82763771717948
+data.zakb.txt 2.82763771717948
+data.zayd.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zczl.txt 5.65527543435896
+data.zdou.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

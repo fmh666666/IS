@@ -1,4 +1,4 @@
 3
-data.zawb.txt 2
-data.zddm.txt 1
-data.zefu.txt 1
+data.zawb.txt 5.688648708166832
+data.zddm.txt 3.5891377275982888
+data.zefu.txt 3.5891377275982888

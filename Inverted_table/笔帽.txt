@@ -1,6 +1,6 @@
 5
-data.tv.txt 3
-data.zabx.txt 1
-data.zadv.txt 1
-data.zaet.txt 1
-data.zdkc.txt 1
+data.tv.txt 6.470120773454234
+data.zabx.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zaet.txt 3.235060386727117
+data.zdkc.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.tz.txt 2
-data.zaoo.txt 1
-data.zbfx.txt 3
-data.zbut.txt 10
-data.zcdy.txt 1
-data.zdgp.txt 1
-data.zdwl.txt 2
-data.zeac.txt 2
-data.zefw.txt 1
-data.zelj.txt 5
+data.be.txt 2.6885433903988862
+data.tz.txt 4.261240455343955
+data.zaoo.txt 2.6885433903988862
+data.zbfx.txt 5.3770867807977725
+data.zbut.txt 9.300832012824227
+data.zcdy.txt 2.6885433903988862
+data.zdgp.txt 2.6885433903988862
+data.zdwl.txt 4.261240455343955
+data.zeac.txt 4.261240455343955
+data.zefw.txt 2.6885433903988862
+data.zelj.txt 6.949783845742841

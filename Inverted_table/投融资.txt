@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.zawo.txt 1
-data.zbht.txt 1
-data.zcdz.txt 2
-data.zevl.txt 1
-data.zexv.txt 1
+data.gw.txt 3.1086847136800873
+data.zawo.txt 3.1086847136800873
+data.zbht.txt 3.1086847136800873
+data.zcdz.txt 4.927148697748023
+data.zevl.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

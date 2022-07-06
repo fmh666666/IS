@@ -1,9 +1,9 @@
 8
-data.op.txt 2
-data.zahd.txt 1
-data.zbhd.txt 2
-data.zblr.txt 1
-data.zbzg.txt 1
-data.zcfn.txt 1
-data.zcmx.txt 1
-data.zdwv.txt 2
+data.op.txt 4.611097637722987
+data.zahd.txt 2.9092786962624935
+data.zbhd.txt 4.611097637722987
+data.zblr.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zdwv.txt 4.611097637722987

@@ -1,11 +1,11 @@
 10
-data.jj.txt 1
-data.vi.txt 1
-data.zabe.txt 1
-data.zbvn.txt 1
-data.zcej.txt 1
-data.zcrg.txt 1
-data.zdzn.txt 1
-data.zesq.txt 1
-data.zeun.txt 1
-data.zeyu.txt 1
+data.jj.txt 2.7546073728089153
+data.vi.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zbvn.txt 2.7546073728089153
+data.zcej.txt 2.7546073728089153
+data.zcrg.txt 2.7546073728089153
+data.zdzn.txt 2.7546073728089153
+data.zesq.txt 2.7546073728089153
+data.zeun.txt 2.7546073728089153
+data.zeyu.txt 2.7546073728089153

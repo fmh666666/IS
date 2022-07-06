@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.vi.txt 1
-data.zajh.txt 1
-data.zbhe.txt 1
-data.zcdy.txt 1
-data.zchw.txt 1
-data.zcxr.txt 1
-data.zdwv.txt 1
-data.zedk.txt 1
+data.bs.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zchw.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zedk.txt 2.82763771717948

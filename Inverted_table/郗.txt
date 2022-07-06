@@ -1,14 +1,14 @@
 13
-data.ha.txt 1
-data.ud.txt 1
-data.uz.txt 1
-data.zbvm.txt 2
-data.zcjy.txt 1
-data.zcko.txt 2
-data.zcvi.txt 1
-data.zdgo.txt 5
-data.zdgt.txt 2
-data.zeoo.txt 1
-data.zeqh.txt 1
-data.zezm.txt 1
-data.zfcj.txt 1
+data.ha.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.uz.txt 2.5727503226135906
+data.zbvm.txt 4.077712785060798
+data.zcjy.txt 2.5727503226135906
+data.zcko.txt 4.077712785060798
+data.zcvi.txt 2.5727503226135906
+data.zdgo.txt 6.650463107674388
+data.zdgt.txt 4.077712785060798
+data.zeoo.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906
+data.zezm.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

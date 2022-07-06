@@ -1,10 +1,10 @@
 9
-data.zalc.txt 1
-data.zasr.txt 1
-data.zbdx.txt 1
-data.zbeb.txt 4
-data.zbla.txt 1
-data.zbof.txt 1
-data.zbpm.txt 1
-data.zcse.txt 3
-data.zdxw.txt 1
+data.zalc.txt 2.82763771717948
+data.zasr.txt 2.82763771717948
+data.zbdx.txt 2.82763771717948
+data.zbeb.txt 6.565571457682201
+data.zbla.txt 2.82763771717948
+data.zbof.txt 2.82763771717948
+data.zbpm.txt 2.82763771717948
+data.zcse.txt 5.65527543435896
+data.zdxw.txt 2.82763771717948

@@ -1,10 +1,10 @@
 9
-data.zalj.txt 1
-data.zcfn.txt 1
-data.zcmy.txt 1
-data.zdgt.txt 2
-data.zdkc.txt 2
-data.zdle.txt 1
-data.zeel.txt 1
-data.zelt.txt 1
-data.zevy.txt 1
+data.zalj.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zdgt.txt 4.48169974735425
+data.zdkc.txt 4.48169974735425
+data.zdle.txt 2.82763771717948
+data.zeel.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zevy.txt 2.82763771717948

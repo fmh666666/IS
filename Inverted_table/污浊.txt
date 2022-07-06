@@ -1,14 +1,14 @@
 13
-data.hp.txt 3
-data.jf.txt 1
-data.zaim.txt 1
-data.zasq.txt 1
-data.zbds.txt 1
-data.zbnx.txt 1
-data.zbor.txt 1
-data.zcdy.txt 1
-data.zcon.txt 1
-data.zddm.txt 1
-data.zdpw.txt 1
-data.zdwl.txt 1
-data.zdwz.txt 1
+data.hp.txt 5.145500645227181
+data.jf.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zasq.txt 2.5727503226135906
+data.zbds.txt 2.5727503226135906
+data.zbnx.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zddm.txt 2.5727503226135906
+data.zdpw.txt 2.5727503226135906
+data.zdwl.txt 2.5727503226135906
+data.zdwz.txt 2.5727503226135906

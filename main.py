@@ -1,5 +1,6 @@
 import os
 import time
+import math
 
 
 # 去除非汉字数据和停用词并创建词典
@@ -16,8 +17,9 @@ def initialize_data():
     # 获取已分词文件目录
     root_1 = os.path.join(root, '已分词数据')
     ls = os.listdir(root_1)
+    doc_num=len(ls)
 
-    for i in range(0, len(ls)):
+    for i in range(0, doc_num):
         path = os.path.join(root_1, ls[i])  # 获取文件绝对路径
 
         # 处理每个已分词文件
@@ -46,7 +48,7 @@ def initialize_data():
                     dictionary.append([x, ls[i], 1])
 
             del list_temp
-        print(ls[i], "已初始化！")
+        print("已处理非汉字和停止字进度",i,"/532")
     del dictionary[0]
     del stop_word
     r.close()
@@ -61,6 +63,7 @@ def initialize_data():
     current_term = dictionary[0][0]
     current_df = 0
     current_doc = []  # 文档名+tf
+    count=0
 
     for x in dictionary:
         if x[0] == current_term:
@@ -68,32 +71,36 @@ def initialize_data():
             current_doc.append([x[1], x[2]])
         else:
             # 将上一个词项写入文件
-            current_doc.sort(key=lambda elem: elem[0])  # 对文档进行文档名排序，以后可以改为按tf排序
+            current_doc.sort(key=lambda elem: elem[0])  # 对文档进行文档名排序
             with open(os.path.join(root, current_term + '.txt'), 'w', encoding="ANSI") as f:
                 f.write(str(current_df) + '\n')
+                idf=math.log(doc_num/current_df)
                 for y in current_doc:
-                    f.write(y[0] + ' ' + str(y[1]) + '\n')
+                    f.write(y[0] + ' ' + str(math.log(1+y[1])*idf) + '\n')
+            count+=1
+            print("计算tf-idf完成进度",count,"/532\n")
             current_term = x[0]
             current_df = 1
             current_doc = [[x[1], x[2]]]
 
 
+
 def bool_search():
     question = input("请输入想要查询的内容。\n")
 
-    start=time.time()
+    start = time.time()
 
     question = question.split(" ")
-    i=0
-    while i<len(question):
-        question[i]=question[i]+'.txt'
-        i+=2
+    i = 0
+    while i < len(question):
+        question[i] = question[i] + '.txt'
+        i += 2
 
-    root=os.path.join(os.getcwd(),'Inverted_table')
-    term=os.listdir(root)
+    root = os.path.join(os.getcwd(), 'Inverted_table')
+    term = os.listdir(root)
 
-    end=time.time()
-    print("布尔查询完成，用时：",end-start)
+    end = time.time()
+    print("布尔查询完成，用时：", end - start)
 
 
 def main():

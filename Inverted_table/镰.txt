@@ -1,12 +1,12 @@
 11
-data.ev.txt 1
-data.mt.txt 1
-data.ud.txt 1
-data.zbga.txt 1
-data.zbsu.txt 1
-data.zcfn.txt 11
-data.zdby.txt 3
-data.zdil.txt 1
-data.zdrq.txt 2
-data.zegl.txt 1
-data.zeqh.txt 1
+data.ev.txt 2.6885433903988862
+data.mt.txt 2.6885433903988862
+data.ud.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zbsu.txt 2.6885433903988862
+data.zcfn.txt 9.638327236141729
+data.zdby.txt 5.3770867807977725
+data.zdil.txt 2.6885433903988862
+data.zdrq.txt 4.261240455343955
+data.zegl.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

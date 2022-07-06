@@ -1,5 +1,5 @@
 4
-data.zawb.txt 1
-data.zcbm.txt 2
-data.zdll.txt 1
-data.zevl.txt 1
+data.zawb.txt 3.389731710180695
+data.zcbm.txt 5.372597648141796
+data.zdll.txt 3.389731710180695
+data.zevl.txt 3.389731710180695

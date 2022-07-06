@@ -1,9 +1,9 @@
 8
-data.qn.txt 1
-data.zakb.txt 1
-data.zcak.txt 1
-data.zcaq.txt 3
-data.zcoy.txt 1
-data.zcpa.txt 2
-data.zcrk.txt 1
-data.zehp.txt 1
+data.qn.txt 2.9092786962624935
+data.zakb.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zcaq.txt 5.818557392524987
+data.zcoy.txt 2.9092786962624935
+data.zcpa.txt 4.611097637722987
+data.zcrk.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935

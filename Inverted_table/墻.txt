@@ -1,12 +1,12 @@
 11
-data.mo.txt 1
-data.zacd.txt 1
-data.zbhd.txt 1
-data.zbof.txt 1
-data.zbsl.txt 1
-data.zbsu.txt 1
-data.zcpb.txt 2
-data.zczl.txt 1
-data.zdgv.txt 1
-data.zdof.txt 1
-data.zfdk.txt 1
+data.mo.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zbsl.txt 2.6885433903988862
+data.zbsu.txt 2.6885433903988862
+data.zcpb.txt 4.261240455343955
+data.zczl.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zfdk.txt 2.6885433903988862

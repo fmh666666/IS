@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.ev.txt 1
-data.zajn.txt 1
-data.zbot.txt 1
-data.zcqs.txt 1
-data.zcvq.txt 1
-data.zdzg.txt 1
-data.zevt.txt 1
+data.ek.txt 2.9092786962624935
+data.ev.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zbot.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zevt.txt 2.9092786962624935

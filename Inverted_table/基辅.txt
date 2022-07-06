@@ -1,11 +1,11 @@
 10
-data.zavg.txt 1
-data.zbpc.txt 3
-data.zcem.txt 1
-data.zcgo.txt 1
-data.zdaa.txt 1
-data.zddp.txt 1
-data.zeob.txt 1
-data.zexv.txt 1
-data.zfai.txt 3
-data.zfaj.txt 3
+data.zavg.txt 2.7546073728089153
+data.zbpc.txt 5.509214745617831
+data.zcem.txt 2.7546073728089153
+data.zcgo.txt 2.7546073728089153
+data.zdaa.txt 2.7546073728089153
+data.zddp.txt 2.7546073728089153
+data.zeob.txt 2.7546073728089153
+data.zexv.txt 2.7546073728089153
+data.zfai.txt 5.509214745617831
+data.zfaj.txt 5.509214745617831

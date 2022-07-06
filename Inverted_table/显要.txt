@@ -1,10 +1,10 @@
 9
-data.zaql.txt 1
-data.zbhd.txt 1
-data.zcdz.txt 1
-data.zcmx.txt 1
-data.zcon.txt 2
-data.zdaa.txt 1
-data.zdwk.txt 1
-data.zeac.txt 1
-data.zfaj.txt 2
+data.zaql.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcon.txt 4.48169974735425
+data.zdaa.txt 2.82763771717948
+data.zdwk.txt 2.82763771717948
+data.zeac.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425

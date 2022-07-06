@@ -1,7 +1,7 @@
 6
-data.zbem.txt 1
-data.zbor.txt 1
-data.zbua.txt 1
-data.zedk.txt 1
-data.zeeq.txt 1
-data.zejk.txt 1
+data.zbem.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zbua.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873
+data.zeeq.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

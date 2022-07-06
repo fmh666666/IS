@@ -1,5 +1,5 @@
 4
-data.zalj.txt 1
-data.zapr.txt 1
-data.zdro.txt 1
-data.zeqv.txt 1
+data.zalj.txt 3.389731710180695
+data.zapr.txt 3.389731710180695
+data.zdro.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695

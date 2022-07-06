@@ -1,10 +1,10 @@
 9
-data.ft.txt 1
-data.gw.txt 1
-data.zawb.txt 2
-data.zbha.txt 1
-data.zbls.txt 1
-data.zcnn.txt 1
-data.zcpa.txt 1
-data.zcql.txt 1
-data.zcrg.txt 1
+data.ft.txt 2.82763771717948
+data.gw.txt 2.82763771717948
+data.zawb.txt 4.48169974735425
+data.zbha.txt 2.82763771717948
+data.zbls.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zcpa.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948

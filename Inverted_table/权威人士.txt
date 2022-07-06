@@ -1,5 +1,5 @@
 4
-data.zajn.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zeqh.txt 1
+data.zajn.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695
+data.zeqh.txt 3.389731710180695

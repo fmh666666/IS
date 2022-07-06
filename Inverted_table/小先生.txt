@@ -1,4 +1,4 @@
 3
-data.zalt.txt 1
-data.zduo.txt 1
-data.zedx.txt 1
+data.zalt.txt 3.5891377275982888
+data.zduo.txt 3.5891377275982888
+data.zedx.txt 3.5891377275982888

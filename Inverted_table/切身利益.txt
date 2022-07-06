@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.zazn.txt 1
-data.zbsl.txt 1
-data.zcdg.txt 1
-data.zctp.txt 1
-data.zedd.txt 1
-data.zeoo.txt 1
-data.zeqv.txt 1
+data.ka.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbsl.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

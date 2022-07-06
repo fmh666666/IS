@@ -1,11 +1,11 @@
 10
-data.bb.txt 2
-data.vz.txt 1
-data.zaic.txt 1
-data.zayv.txt 2
-data.zbfg.txt 1
-data.zbrj.txt 1
-data.zbxy.txt 1
-data.zcpc.txt 1
-data.zexm.txt 2
-data.zeyu.txt 1
+data.bb.txt 4.365949390112154
+data.vz.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zayv.txt 4.365949390112154
+data.zbfg.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zbxy.txt 2.7546073728089153
+data.zcpc.txt 2.7546073728089153
+data.zexm.txt 4.365949390112154
+data.zeyu.txt 2.7546073728089153

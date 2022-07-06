@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.tv.txt 1
-data.zadv.txt 1
-data.zawc.txt 1
-data.zcdv.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zeqh.txt 1
-data.zfcp.txt 2
+data.kt.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zeqh.txt 2.82763771717948
+data.zfcp.txt 4.48169974735425

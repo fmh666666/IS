@@ -1,6 +1,6 @@
 5
-data.zaqr.txt 1
-data.zbds.txt 1
-data.zbfg.txt 1
-data.zesi.txt 3
-data.zevq.txt 2
+data.zaqr.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zbfg.txt 3.235060386727117
+data.zesi.txt 6.470120773454234
+data.zevq.txt 5.1274494005309625

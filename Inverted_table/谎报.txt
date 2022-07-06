@@ -1,10 +1,10 @@
 9
-data.hz.txt 1
-data.tz.txt 1
-data.xk.txt 1
-data.zajh.txt 1
-data.zawm.txt 1
-data.zbdb.txt 1
-data.zbof.txt 1
-data.zdfl.txt 1
-data.zdod.txt 1
+data.hz.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.xk.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zawm.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbof.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zdod.txt 2.82763771717948

@@ -1,5 +1,5 @@
 4
-data.zbqu.txt 7
-data.zcfx.txt 1
-data.zcni.txt 1
-data.zdey.txt 2
+data.zbqu.txt 10.169195130542084
+data.zcfx.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zdey.txt 5.372597648141796

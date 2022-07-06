@@ -1,7 +1,7 @@
 6
-data.zasw.txt 1
-data.zbel.txt 1
-data.zbup.txt 1
-data.zdwk.txt 1
-data.zedx.txt 1
-data.zfai.txt 6
+data.zasw.txt 3.1086847136800873
+data.zbel.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zdwk.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873
+data.zfai.txt 8.727181332075027

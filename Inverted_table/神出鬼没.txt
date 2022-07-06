@@ -1,10 +1,10 @@
 9
-data.uz.txt 1
-data.vi.txt 1
-data.zaxk.txt 1
-data.zbtj.txt 1
-data.zccu.txt 1
-data.zcxr.txt 1
-data.zeag.txt 1
-data.zedo.txt 1
-data.zegk.txt 1
+data.uz.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zbtj.txt 2.82763771717948
+data.zccu.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zeag.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zegk.txt 2.82763771717948

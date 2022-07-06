@@ -1,4 +1,4 @@
 3
-data.zdgt.txt 2
-data.zeez.txt 1
-data.zewn.txt 3
+data.zdgt.txt 5.688648708166832
+data.zeez.txt 3.5891377275982888
+data.zewn.txt 7.1782754551965775

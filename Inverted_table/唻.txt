@@ -1,9 +1,9 @@
 8
-data.to.txt 1
-data.ud.txt 2
-data.zaql.txt 1
-data.zdme.txt 2
-data.zdmw.txt 1
-data.zdou.txt 1
-data.zeoh.txt 1
-data.zexk.txt 2
+data.to.txt 2.9092786962624935
+data.ud.txt 4.611097637722987
+data.zaql.txt 2.9092786962624935
+data.zdme.txt 4.611097637722987
+data.zdmw.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zexk.txt 4.611097637722987

@@ -1,4 +1,4 @@
 3
-data.zapf.txt 1
-data.zdoc.txt 1
-data.zdpg.txt 2
+data.zapf.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888
+data.zdpg.txt 5.688648708166832

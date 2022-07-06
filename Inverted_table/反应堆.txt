@@ -1,10 +1,10 @@
 9
-data.zahd.txt 1
-data.zbhd.txt 2
-data.zbkj.txt 1
-data.zblr.txt 1
-data.zbnp.txt 1
-data.zcee.txt 1
-data.zcll.txt 1
-data.zcyv.txt 1
-data.zdcy.txt 2
+data.zahd.txt 2.82763771717948
+data.zbhd.txt 4.48169974735425
+data.zbkj.txt 2.82763771717948
+data.zblr.txt 2.82763771717948
+data.zbnp.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zcll.txt 2.82763771717948
+data.zcyv.txt 2.82763771717948
+data.zdcy.txt 4.48169974735425

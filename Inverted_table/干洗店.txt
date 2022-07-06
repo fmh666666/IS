@@ -1,13 +1,13 @@
 12
-data.sq.txt 1
-data.zafy.txt 1
-data.zasw.txt 1
-data.zbha.txt 2
-data.zbtj.txt 1
-data.zdoc.txt 1
-data.zdod.txt 1
-data.zdsh.txt 1
-data.zdzi.txt 1
-data.zeqv.txt 1
-data.zeva.txt 1
-data.zeyg.txt 1
+data.sq.txt 2.628231699761886
+data.zafy.txt 2.628231699761886
+data.zasw.txt 2.628231699761886
+data.zbha.txt 4.165648687329214
+data.zbtj.txt 2.628231699761886
+data.zdoc.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdsh.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886
+data.zeva.txt 2.628231699761886
+data.zeyg.txt 2.628231699761886

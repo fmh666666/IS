@@ -1,10 +1,10 @@
 9
-data.zbrd.txt 1
-data.zcgi.txt 2
-data.zcku.txt 2
-data.zdeb.txt 1
-data.zdou.txt 1
-data.zeel.txt 1
-data.zejn.txt 1
-data.zevq.txt 2
-data.zfaj.txt 1
+data.zbrd.txt 2.82763771717948
+data.zcgi.txt 4.48169974735425
+data.zcku.txt 4.48169974735425
+data.zdeb.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zeel.txt 2.82763771717948
+data.zejn.txt 2.82763771717948
+data.zevq.txt 4.48169974735425
+data.zfaj.txt 2.82763771717948

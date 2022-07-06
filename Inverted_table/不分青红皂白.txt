@@ -1,6 +1,6 @@
 5
-data.zcdg.txt 1
-data.zcdv.txt 1
-data.zczp.txt 1
-data.zdgt.txt 1
-data.zdju.txt 1
+data.zcdg.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zdju.txt 3.235060386727117

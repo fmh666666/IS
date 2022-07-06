@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.zcdz.txt 1
-data.zchw.txt 2
-data.zcxp.txt 1
-data.zexx.txt 1
-data.zeyg.txt 2
+data.jf.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zchw.txt 4.927148697748023
+data.zcxp.txt 3.1086847136800873
+data.zexx.txt 3.1086847136800873
+data.zeyg.txt 4.927148697748023

@@ -1,14 +1,14 @@
 13
-data.co.txt 10
-data.xk.txt 1
-data.zbla.txt 1
-data.zbpx.txt 2
-data.zcon.txt 1
-data.zcrv.txt 1
-data.zdle.txt 2
-data.zdlg.txt 1
-data.zeag.txt 1
-data.zefs.txt 1
-data.zeqv.txt 4
-data.zerw.txt 1
-data.zevq.txt 1
+data.co.txt 8.900253812908762
+data.xk.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zbpx.txt 4.077712785060798
+data.zcon.txt 2.5727503226135906
+data.zcrv.txt 2.5727503226135906
+data.zdle.txt 4.077712785060798
+data.zdlg.txt 2.5727503226135906
+data.zeag.txt 2.5727503226135906
+data.zefs.txt 2.5727503226135906
+data.zeqv.txt 5.97374125520702
+data.zerw.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906

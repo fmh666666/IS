@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zako.txt 1
-data.zbzf.txt 1
-data.zcqs.txt 1
-data.zdby.txt 1
-data.zewd.txt 2
+data.zadv.txt 3.1086847136800873
+data.zako.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873
+data.zewd.txt 4.927148697748023

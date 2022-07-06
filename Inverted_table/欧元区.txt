@@ -1,12 +1,12 @@
 11
-data.kq.txt 1
-data.zaip.txt 1
-data.zako.txt 1
-data.zazo.txt 1
-data.zbhd.txt 1
-data.zbpx.txt 1
-data.zcdy.txt 1
-data.zcmx.txt 1
-data.zcmy.txt 8
-data.zelt.txt 4
-data.zexv.txt 1
+data.kq.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zcmy.txt 8.52248091068791
+data.zelt.txt 6.2426044324908965
+data.zexv.txt 2.6885433903988862

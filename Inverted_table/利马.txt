@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.yx.txt 1
-data.zalc.txt 1
-data.zawu.txt 1
-data.zbnx.txt 1
-data.zbot.txt 1
-data.zbzf.txt 1
-data.zcbe.txt 1
-data.zchd.txt 1
-data.zdgt.txt 1
-data.zedo.txt 12
-data.zete.txt 3
+data.bs.txt 2.628231699761886
+data.yx.txt 2.628231699761886
+data.zalc.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbnx.txt 2.628231699761886
+data.zbot.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcbe.txt 2.628231699761886
+data.zchd.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zedo.txt 9.725612970276357
+data.zete.txt 5.256463399523772

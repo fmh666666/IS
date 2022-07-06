@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.ka.txt 1
-data.zard.txt 1
-data.zbjq.txt 1
-data.zcql.txt 1
-data.zddl.txt 1
-data.zeeq.txt 1
-data.zexm.txt 1
+data.ek.txt 2.9092786962624935
+data.ka.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zddl.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935
+data.zexm.txt 2.9092786962624935

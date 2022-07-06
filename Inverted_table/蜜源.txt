@@ -1,9 +1,9 @@
 8
-data.vz.txt 3
-data.zamr.txt 14
-data.zbhv.txt 5
-data.zbkf.txt 9
-data.zckd.txt 9
-data.zcls.txt 3
-data.zdux.txt 4
-data.zedd.txt 2
+data.vz.txt 5.818557392524987
+data.zamr.txt 11.366233578432148
+data.zbhv.txt 7.52037633398548
+data.zbkf.txt 9.664414636971655
+data.zckd.txt 9.664414636971655
+data.zcls.txt 5.818557392524987
+data.zdux.txt 6.7551359407091605
+data.zedd.txt 4.611097637722987

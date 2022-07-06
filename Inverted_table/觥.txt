@@ -1,4 +1,4 @@
 3
-data.vi.txt 1
-data.zbel.txt 8
-data.zbjk.txt 1
+data.vi.txt 3.5891377275982888
+data.zbel.txt 11.377297416333665
+data.zbjk.txt 3.5891377275982888

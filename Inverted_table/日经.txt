@@ -1,14 +1,14 @@
 13
-data.kq.txt 1
-data.zaim.txt 1
-data.zaip.txt 1
-data.zajo.txt 1
-data.zapl.txt 1
-data.zbnx.txt 3
-data.zbpx.txt 1
-data.zcmy.txt 1
-data.zcyv.txt 1
-data.zdll.txt 1
-data.zdrq.txt 1
-data.zerh.txt 1
-data.zfcg.txt 1
+data.kq.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zaip.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zbnx.txt 5.145500645227181
+data.zbpx.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zcyv.txt 2.5727503226135906
+data.zdll.txt 2.5727503226135906
+data.zdrq.txt 2.5727503226135906
+data.zerh.txt 2.5727503226135906
+data.zfcg.txt 2.5727503226135906

@@ -1,6 +1,6 @@
 5
-data.zanh.txt 1
-data.zcdv.txt 1
-data.zcee.txt 1
-data.zctp.txt 1
-data.zeec.txt 1
+data.zanh.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zeec.txt 3.235060386727117

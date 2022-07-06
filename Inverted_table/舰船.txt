@@ -1,11 +1,11 @@
 10
-data.gw.txt 1
-data.gz.txt 6
-data.ha.txt 3
-data.op.txt 2
-data.zahd.txt 1
-data.zcdz.txt 1
-data.zddb.txt 1
-data.zelt.txt 1
-data.zfai.txt 13
-data.zfaj.txt 2
+data.gw.txt 2.7546073728089153
+data.gz.txt 7.733160566391275
+data.ha.txt 5.509214745617831
+data.op.txt 4.365949390112154
+data.zahd.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zfai.txt 10.48776793920019
+data.zfaj.txt 4.365949390112154

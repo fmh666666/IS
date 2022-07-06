@@ -1,14 +1,14 @@
 13
-data.ft.txt 1
-data.hp.txt 1
-data.op.txt 2
-data.pq.txt 1
-data.yx.txt 2
-data.zbhe.txt 1
-data.zciy.txt 1
-data.zcpa.txt 1
-data.zcse.txt 1
-data.zctp.txt 1
-data.zczl.txt 1
-data.zelt.txt 1
-data.zeos.txt 2
+data.ft.txt 2.5727503226135906
+data.hp.txt 2.5727503226135906
+data.op.txt 4.077712785060798
+data.pq.txt 2.5727503226135906
+data.yx.txt 4.077712785060798
+data.zbhe.txt 2.5727503226135906
+data.zciy.txt 2.5727503226135906
+data.zcpa.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zeos.txt 4.077712785060798

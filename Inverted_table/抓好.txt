@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.gz.txt 1
-data.zate.txt 1
-data.zbnx.txt 1
-data.zcsu.txt 1
-data.zdtr.txt 1
-data.zeeh.txt 1
-data.zekw.txt 1
-data.zexv.txt 1
-data.zeyu.txt 1
-data.zfai.txt 2
+data.ga.txt 2.6885433903988862
+data.gz.txt 2.6885433903988862
+data.zate.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zdtr.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zekw.txt 2.6885433903988862
+data.zexv.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862
+data.zfai.txt 4.261240455343955

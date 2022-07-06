@@ -1,14 +1,14 @@
 13
-data.ft.txt 1
-data.gw.txt 2
-data.zapl.txt 1
-data.zbes.txt 1
-data.zbgu.txt 1
-data.zbla.txt 1
-data.zbwa.txt 1
-data.zcee.txt 1
-data.zchd.txt 1
-data.zdcj.txt 1
-data.zdpf.txt 1
-data.zdvl.txt 1
-data.zeoh.txt 2
+data.ft.txt 2.5727503226135906
+data.gw.txt 4.077712785060798
+data.zapl.txt 2.5727503226135906
+data.zbes.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zcee.txt 2.5727503226135906
+data.zchd.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906
+data.zdvl.txt 2.5727503226135906
+data.zeoh.txt 4.077712785060798

@@ -1,8 +1,8 @@
 7
-data.zawb.txt 1
-data.zbes.txt 1
-data.zbfd.txt 1
-data.zbnx.txt 1
-data.zbpm.txt 1
-data.zdgt.txt 2
-data.zeag.txt 1
+data.zawb.txt 3.0018356045764243
+data.zbes.txt 3.0018356045764243
+data.zbfd.txt 3.0018356045764243
+data.zbnx.txt 3.0018356045764243
+data.zbpm.txt 3.0018356045764243
+data.zdgt.txt 4.757796866583254
+data.zeag.txt 3.0018356045764243

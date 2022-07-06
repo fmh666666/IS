@@ -1,5 +1,5 @@
 4
-data.tz.txt 1
-data.zajh.txt 1
-data.zbwa.txt 1
-data.zcll.txt 1
+data.tz.txt 3.389731710180695
+data.zajh.txt 3.389731710180695
+data.zbwa.txt 3.389731710180695
+data.zcll.txt 3.389731710180695

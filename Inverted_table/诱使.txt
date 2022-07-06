@@ -1,8 +1,8 @@
 7
-data.zabe.txt 2
-data.zaub.txt 1
-data.zbvg.txt 1
-data.zchd.txt 1
-data.zcmx.txt 1
-data.zdlg.txt 2
-data.zfai.txt 2
+data.zabe.txt 4.757796866583254
+data.zaub.txt 3.0018356045764243
+data.zbvg.txt 3.0018356045764243
+data.zchd.txt 3.0018356045764243
+data.zcmx.txt 3.0018356045764243
+data.zdlg.txt 4.757796866583254
+data.zfai.txt 4.757796866583254

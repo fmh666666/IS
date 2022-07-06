@@ -1,7 +1,7 @@
 6
-data.xk.txt 1
-data.zcdy.txt 2
-data.zcdz.txt 2
-data.zcmy.txt 1
-data.zdud.txt 1
-data.zeoh.txt 1
+data.xk.txt 3.1086847136800873
+data.zcdy.txt 4.927148697748023
+data.zcdz.txt 4.927148697748023
+data.zcmy.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

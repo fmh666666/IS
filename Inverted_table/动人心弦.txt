@@ -1,12 +1,12 @@
 11
-data.mi.txt 1
-data.zail.txt 1
-data.zbnx.txt 1
-data.zbpp.txt 1
-data.zbrj.txt 1
-data.zccu.txt 1
-data.zcft.txt 1
-data.zcis.txt 1
-data.zcxr.txt 1
-data.zdil.txt 1
-data.zewg.txt 1
+data.mi.txt 2.6885433903988862
+data.zail.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zbpp.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zccu.txt 2.6885433903988862
+data.zcft.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdil.txt 2.6885433903988862
+data.zewg.txt 2.6885433903988862

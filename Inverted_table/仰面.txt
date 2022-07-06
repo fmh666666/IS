@@ -1,14 +1,14 @@
 13
-data.gk.txt 1
-data.hp.txt 1
-data.ud.txt 1
-data.zadv.txt 1
-data.zbpp.txt 1
-data.zbut.txt 1
-data.zbye.txt 1
-data.zcmy.txt 1
-data.zcqs.txt 1
-data.zcrn.txt 1
-data.zdey.txt 1
-data.zdod.txt 1
-data.zevq.txt 1
+data.gk.txt 2.5727503226135906
+data.hp.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zbpp.txt 2.5727503226135906
+data.zbut.txt 2.5727503226135906
+data.zbye.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zcqs.txt 2.5727503226135906
+data.zcrn.txt 2.5727503226135906
+data.zdey.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906

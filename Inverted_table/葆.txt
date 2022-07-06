@@ -1,13 +1,13 @@
 12
-data.zabe.txt 2
-data.zard.txt 1
-data.zazo.txt 1
-data.zbcj.txt 1
-data.zbhv.txt 2
-data.zbmt.txt 2
-data.zcdy.txt 1
-data.zddp.txt 1
-data.zdkk.txt 1
-data.zdro.txt 38
-data.zdwl.txt 1
-data.zety.txt 2
+data.zabe.txt 4.165648687329214
+data.zard.txt 2.628231699761886
+data.zazo.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zbhv.txt 4.165648687329214
+data.zbmt.txt 4.165648687329214
+data.zcdy.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdkk.txt 2.628231699761886
+data.zdro.txt 13.891261657605572
+data.zdwl.txt 2.628231699761886
+data.zety.txt 4.165648687329214

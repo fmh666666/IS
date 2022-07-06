@@ -1,6 +1,6 @@
 5
-data.zcls.txt 1
-data.zctp.txt 1
-data.zegl.txt 1
-data.zelt.txt 1
-data.zeqv.txt 3
+data.zcls.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zegl.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zeqv.txt 6.470120773454234

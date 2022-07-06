@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.zawc.txt 1
-data.zcdg.txt 1
-data.zcvi.txt 1
-data.zeez.txt 1
-data.zexu.txt 1
+data.ha.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcvi.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873
+data.zexu.txt 3.1086847136800873

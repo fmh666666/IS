@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zafy.txt 1
-data.zahp.txt 1
-data.zbcv.txt 1
-data.zbye.txt 1
-data.zeds.txt 1
-data.zedx.txt 1
-data.zfaz.txt 1
+data.ga.txt 2.9092786962624935
+data.zafy.txt 2.9092786962624935
+data.zahp.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zbye.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

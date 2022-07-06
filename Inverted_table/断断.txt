@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.yx.txt 1
-data.zadv.txt 2
-data.zawb.txt 1
-data.zcft.txt 1
-data.zcmn.txt 1
-data.zdil.txt 1
-data.zebc.txt 1
-data.zedk.txt 2
+data.ka.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zadv.txt 4.48169974735425
+data.zawb.txt 2.82763771717948
+data.zcft.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zedk.txt 4.48169974735425

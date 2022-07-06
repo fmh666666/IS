@@ -1,5 +1,5 @@
 4
-data.zbtx.txt 1
-data.zdkk.txt 1
-data.zdll.txt 1
-data.zdlo.txt 1
+data.zbtx.txt 3.389731710180695
+data.zdkk.txt 3.389731710180695
+data.zdll.txt 3.389731710180695
+data.zdlo.txt 3.389731710180695

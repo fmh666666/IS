@@ -1,4 +1,4 @@
 3
-data.ye.txt 4
-data.zajr.txt 1
-data.zcve.txt 1
+data.ye.txt 8.333719726130651
+data.zajr.txt 3.5891377275982888
+data.zcve.txt 3.5891377275982888

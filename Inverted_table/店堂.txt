@@ -1,5 +1,5 @@
 4
-data.zdzi.txt 1
-data.zeai.txt 4
-data.zegz.txt 1
-data.zeil.txt 1
+data.zdzi.txt 3.389731710180695
+data.zeai.txt 7.870713291999142
+data.zegz.txt 3.389731710180695
+data.zeil.txt 3.389731710180695

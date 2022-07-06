@@ -1,8 +1,8 @@
 7
-data.zafl.txt 1
-data.zamr.txt 1
-data.zaqp.txt 1
-data.zbru.txt 1
-data.zbye.txt 1
-data.zdcw.txt 1
-data.zekw.txt 1
+data.zafl.txt 3.0018356045764243
+data.zamr.txt 3.0018356045764243
+data.zaqp.txt 3.0018356045764243
+data.zbru.txt 3.0018356045764243
+data.zbye.txt 3.0018356045764243
+data.zdcw.txt 3.0018356045764243
+data.zekw.txt 3.0018356045764243

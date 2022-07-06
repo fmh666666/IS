@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.zaqf.txt 1
-data.zbfp.txt 1
-data.zcdg.txt 1
-data.zcjd.txt 1
-data.zdkk.txt 1
-data.zehp.txt 1
-data.zexk.txt 1
+data.kt.txt 2.9092786962624935
+data.zaqf.txt 2.9092786962624935
+data.zbfp.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zexk.txt 2.9092786962624935

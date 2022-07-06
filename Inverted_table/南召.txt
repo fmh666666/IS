@@ -1,6 +1,6 @@
 5
-data.vz.txt 2
-data.zcao.txt 3
-data.zdvl.txt 2
-data.zevl.txt 7
-data.zewv.txt 3
+data.vz.txt 5.1274494005309625
+data.zcao.txt 6.470120773454234
+data.zdvl.txt 5.1274494005309625
+data.zevl.txt 9.70518116018135
+data.zewv.txt 6.470120773454234

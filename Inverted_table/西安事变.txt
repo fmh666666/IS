@@ -1,5 +1,5 @@
 4
-data.zcdz.txt 1
-data.zedx.txt 2
-data.zesi.txt 1
-data.zevq.txt 2
+data.zcdz.txt 3.389731710180695
+data.zedx.txt 5.372597648141796
+data.zesi.txt 3.389731710180695
+data.zevq.txt 5.372597648141796

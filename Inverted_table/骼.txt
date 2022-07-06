@@ -1,6 +1,6 @@
 5
-data.zbdx.txt 1
-data.zdil.txt 1
-data.zdji.txt 1
-data.zejn.txt 1
-data.zess.txt 1
+data.zbdx.txt 3.235060386727117
+data.zdil.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zejn.txt 3.235060386727117
+data.zess.txt 3.235060386727117

@@ -1,3 +1,3 @@
 2
-data.zccu.txt 1
-data.zctp.txt 1
+data.zccu.txt 3.8701847240988965
+data.zctp.txt 3.8701847240988965

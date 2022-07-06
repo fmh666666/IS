@@ -1,7 +1,7 @@
 6
-data.zadv.txt 2
-data.zarc.txt 1
-data.zasd.txt 1
-data.zaub.txt 2
-data.zcej.txt 1
-data.zeun.txt 1
+data.zadv.txt 4.927148697748023
+data.zarc.txt 3.1086847136800873
+data.zasd.txt 3.1086847136800873
+data.zaub.txt 4.927148697748023
+data.zcej.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873

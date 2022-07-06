@@ -1,9 +1,9 @@
 8
-data.zamr.txt 3
-data.zasr.txt 3
-data.zbts.txt 8
-data.zbyb.txt 1
-data.zcqe.txt 1
-data.zctm.txt 8
-data.zcue.txt 1
-data.zczp.txt 1
+data.zamr.txt 5.818557392524987
+data.zasr.txt 5.818557392524987
+data.zbts.txt 9.222195275445975
+data.zbyb.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zctm.txt 9.222195275445975
+data.zcue.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935

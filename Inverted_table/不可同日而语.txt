@@ -1,5 +1,5 @@
 4
-data.ng.txt 1
-data.zadv.txt 1
-data.zebv.txt 1
-data.zevt.txt 1
+data.ng.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zebv.txt 3.389731710180695
+data.zevt.txt 3.389731710180695

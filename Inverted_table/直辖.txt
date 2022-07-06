@@ -1,4 +1,4 @@
 3
-data.zbkj.txt 1
-data.zcdg.txt 1
-data.zdzn.txt 2
+data.zbkj.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888
+data.zdzn.txt 5.688648708166832

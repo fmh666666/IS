@@ -1,4 +1,4 @@
 3
-data.ev.txt 3
-data.zccx.txt 4
-data.zdqz.txt 1
+data.ev.txt 7.1782754551965775
+data.zccx.txt 8.333719726130651
+data.zdqz.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.ep.txt 1
-data.ga.txt 1
-data.zafk.txt 1
-data.zafl.txt 1
-data.zamp.txt 1
-data.zbbt.txt 1
-data.zbla.txt 1
-data.zcxr.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zduc.txt 1
+data.ep.txt 2.6885433903988862
+data.ga.txt 2.6885433903988862
+data.zafk.txt 2.6885433903988862
+data.zafl.txt 2.6885433903988862
+data.zamp.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbla.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zduc.txt 2.6885433903988862

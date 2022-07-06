@@ -1,9 +1,9 @@
 8
-data.zake.txt 1
-data.zapl.txt 2
-data.zawb.txt 1
-data.zbsd.txt 2
-data.zcse.txt 1
-data.zcue.txt 1
-data.zeoh.txt 3
-data.zfai.txt 1
+data.zake.txt 2.9092786962624935
+data.zapl.txt 4.611097637722987
+data.zawb.txt 2.9092786962624935
+data.zbsd.txt 4.611097637722987
+data.zcse.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zeoh.txt 5.818557392524987
+data.zfai.txt 2.9092786962624935

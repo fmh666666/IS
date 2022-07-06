@@ -1,10 +1,10 @@
 9
-data.pn.txt 1
-data.zalt.txt 1
-data.zawc.txt 1
-data.zayv.txt 1
-data.zcrg.txt 1
-data.zddp.txt 1
-data.zdmw.txt 1
-data.zedd.txt 1
-data.zehp.txt 1
+data.pn.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zedd.txt 2.82763771717948
+data.zehp.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.aj.txt 1
-data.zafy.txt 1
-data.zbof.txt 1
-data.zdgt.txt 8
-data.zdwn.txt 1
+data.aj.txt 3.235060386727117
+data.zafy.txt 3.235060386727117
+data.zbof.txt 3.235060386727117
+data.zdgt.txt 10.254898801061925
+data.zdwn.txt 3.235060386727117

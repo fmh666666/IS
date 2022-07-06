@@ -1,10 +1,10 @@
 9
-data.cz.txt 1
-data.mt.txt 1
-data.zagr.txt 1
-data.zazn.txt 1
-data.zdcj.txt 1
-data.zdlg.txt 1
-data.zeqv.txt 1
-data.zerv.txt 1
-data.zexv.txt 1
+data.cz.txt 2.82763771717948
+data.mt.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zdlg.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948
+data.zerv.txt 2.82763771717948
+data.zexv.txt 2.82763771717948

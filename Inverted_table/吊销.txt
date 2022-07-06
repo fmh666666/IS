@@ -1,14 +1,14 @@
 13
-data.gw.txt 1
-data.hz.txt 10
-data.kt.txt 1
-data.yx.txt 1
-data.zadv.txt 1
-data.zbkj.txt 1
-data.zblr.txt 1
-data.zbpx.txt 1
-data.zcdy.txt 2
-data.zcvq.txt 1
-data.zdcw.txt 2
-data.zdou.txt 1
-data.zdtv.txt 1
+data.gw.txt 2.5727503226135906
+data.hz.txt 8.900253812908762
+data.kt.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zbkj.txt 2.5727503226135906
+data.zblr.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcdy.txt 4.077712785060798
+data.zcvq.txt 2.5727503226135906
+data.zdcw.txt 4.077712785060798
+data.zdou.txt 2.5727503226135906
+data.zdtv.txt 2.5727503226135906

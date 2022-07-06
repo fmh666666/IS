@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.op.txt 2
-data.zabe.txt 1
-data.zalm.txt 1
-data.zbfz.txt 1
-data.zcdy.txt 1
-data.zcel.txt 1
-data.zegn.txt 1
+data.ga.txt 2.9092786962624935
+data.op.txt 4.611097637722987
+data.zabe.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zegn.txt 2.9092786962624935

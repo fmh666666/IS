@@ -1,8 +1,8 @@
 7
-data.op.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcon.txt 1
-data.zdme.txt 1
-data.zemb.txt 1
-data.zfaj.txt 1
+data.op.txt 3.0018356045764243
+data.zcdy.txt 3.0018356045764243
+data.zcdz.txt 4.757796866583254
+data.zcon.txt 3.0018356045764243
+data.zdme.txt 3.0018356045764243
+data.zemb.txt 3.0018356045764243
+data.zfaj.txt 3.0018356045764243

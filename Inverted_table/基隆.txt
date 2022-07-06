@@ -1,10 +1,10 @@
 9
-data.qn.txt 1
-data.zabx.txt 1
-data.zbgd.txt 2
-data.zbsf.txt 1
-data.zbvn.txt 2
-data.zdaw.txt 1
-data.zeag.txt 1
-data.zene.txt 1
-data.zfcp.txt 1
+data.qn.txt 2.82763771717948
+data.zabx.txt 2.82763771717948
+data.zbgd.txt 4.48169974735425
+data.zbsf.txt 2.82763771717948
+data.zbvn.txt 4.48169974735425
+data.zdaw.txt 2.82763771717948
+data.zeag.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zfcp.txt 2.82763771717948

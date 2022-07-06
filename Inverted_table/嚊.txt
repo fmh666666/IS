@@ -1,2 +1,2 @@
 1
-data.zesi.txt 13
+data.zesi.txt 16.564422005928957

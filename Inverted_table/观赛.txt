@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.be.txt 2
-data.zazn.txt 1
-data.zbaq.txt 2
-data.zbqu.txt 6
-data.zbvm.txt 1
-data.zbxw.txt 1
-data.zdji.txt 2
-data.zdmw.txt 1
-data.zedd.txt 1
-data.zewv.txt 1
+data.aj.txt 2.6885433903988862
+data.be.txt 4.261240455343955
+data.zazn.txt 2.6885433903988862
+data.zbaq.txt 4.261240455343955
+data.zbqu.txt 7.547695520201752
+data.zbvm.txt 2.6885433903988862
+data.zbxw.txt 2.6885433903988862
+data.zdji.txt 4.261240455343955
+data.zdmw.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zewv.txt 2.6885433903988862

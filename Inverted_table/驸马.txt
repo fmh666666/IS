@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zadv.txt 9
-data.zaqf.txt 1
-data.zcql.txt 1
-data.zeaf.txt 4
+data.bb.txt 3.235060386727117
+data.zadv.txt 10.746637987325986
+data.zaqf.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zeaf.txt 7.511577600598868

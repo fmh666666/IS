@@ -1,9 +1,9 @@
 8
-data.aj.txt 3
-data.zafi.txt 7
-data.zake.txt 2
-data.zanm.txt 1
-data.zbvn.txt 1
-data.zcak.txt 1
-data.zcoy.txt 1
-data.zegl.txt 1
+data.aj.txt 5.818557392524987
+data.zafi.txt 8.72783608878748
+data.zake.txt 4.611097637722987
+data.zanm.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zcoy.txt 2.9092786962624935
+data.zegl.txt 2.9092786962624935

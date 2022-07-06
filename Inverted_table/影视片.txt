@@ -1,6 +1,6 @@
 5
-data.zcpb.txt 1
-data.zcqg.txt 1
-data.zdcj.txt 1
-data.zdqk.txt 1
-data.zeun.txt 1
+data.zcpb.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zdqk.txt 3.235060386727117
+data.zeun.txt 3.235060386727117

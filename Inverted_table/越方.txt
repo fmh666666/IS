@@ -1,9 +1,9 @@
 8
-data.zadv.txt 3
-data.zasq.txt 1
-data.zbsm.txt 1
-data.zdil.txt 1
-data.zdkp.txt 1
-data.zfae.txt 1
-data.zfai.txt 8
-data.zfaj.txt 2
+data.zadv.txt 5.818557392524987
+data.zasq.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935
+data.zfai.txt 9.222195275445975
+data.zfaj.txt 4.611097637722987

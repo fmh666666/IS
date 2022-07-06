@@ -1,14 +1,14 @@
 13
-data.zabe.txt 1
-data.zacw.txt 1
-data.zair.txt 1
-data.zane.txt 1
-data.zbhe.txt 1
-data.zdcw.txt 1
-data.zdll.txt 1
-data.zdme.txt 1
-data.zdmw.txt 1
-data.zduk.txt 2
-data.zeam.txt 1
-data.zefs.txt 1
-data.zfae.txt 3
+data.zabe.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zair.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zdcw.txt 2.5727503226135906
+data.zdll.txt 2.5727503226135906
+data.zdme.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zduk.txt 4.077712785060798
+data.zeam.txt 2.5727503226135906
+data.zefs.txt 2.5727503226135906
+data.zfae.txt 5.145500645227181

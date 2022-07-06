@@ -1,6 +1,6 @@
 5
-data.zcic.txt 1
-data.zczb.txt 2
-data.zdey.txt 1
-data.zdgt.txt 1
-data.zexv.txt 1
+data.zcic.txt 3.235060386727117
+data.zczb.txt 5.1274494005309625
+data.zdey.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zako.txt 1
-data.zcjd.txt 1
-data.zcxq.txt 1
+data.zako.txt 3.5891377275982888
+data.zcjd.txt 3.5891377275982888
+data.zcxq.txt 3.5891377275982888

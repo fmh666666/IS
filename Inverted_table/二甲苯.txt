@@ -1,9 +1,9 @@
 8
-data.zbcj.txt 1
-data.zbvg.txt 1
-data.zcon.txt 1
-data.zcoy.txt 1
-data.zcpa.txt 1
-data.zczp.txt 1
-data.zdst.txt 1
-data.zezy.txt 2
+data.zbcj.txt 2.9092786962624935
+data.zbvg.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zcoy.txt 2.9092786962624935
+data.zcpa.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdst.txt 2.9092786962624935
+data.zezy.txt 4.611097637722987

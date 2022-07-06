@@ -1,4 +1,4 @@
 3
-data.gw.txt 3
-data.zawc.txt 1
-data.zfaj.txt 2
+data.gw.txt 7.1782754551965775
+data.zawc.txt 3.5891377275982888
+data.zfaj.txt 5.688648708166832

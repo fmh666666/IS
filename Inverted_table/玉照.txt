@@ -1,14 +1,14 @@
 13
-data.aj.txt 1
-data.uz.txt 1
-data.vm.txt 1
-data.zalj.txt 1
-data.zasd.txt 2
-data.zasq.txt 2
-data.zbcc.txt 1
-data.zbmw.txt 1
-data.zcbe.txt 1
-data.zcic.txt 1
-data.zdlo.txt 1
-data.zenn.txt 1
-data.zeqv.txt 1
+data.aj.txt 2.5727503226135906
+data.uz.txt 2.5727503226135906
+data.vm.txt 2.5727503226135906
+data.zalj.txt 2.5727503226135906
+data.zasd.txt 4.077712785060798
+data.zasq.txt 4.077712785060798
+data.zbcc.txt 2.5727503226135906
+data.zbmw.txt 2.5727503226135906
+data.zcbe.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zdlo.txt 2.5727503226135906
+data.zenn.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906

@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.zasw.txt 1
-data.zbhd.txt 1
-data.zdfl.txt 1
-data.zfai.txt 1
+data.jf.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zdfl.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

@@ -1,13 +1,13 @@
 12
-data.hp.txt 1
-data.hu.txt 1
-data.ng.txt 2
-data.tz.txt 1
-data.wg.txt 1
-data.zazg.txt 1
-data.zbia.txt 2
-data.zcls.txt 1
-data.zcpc.txt 1
-data.zdvl.txt 1
-data.zeez.txt 1
-data.zezm.txt 1
+data.hp.txt 2.628231699761886
+data.hu.txt 2.628231699761886
+data.ng.txt 4.165648687329214
+data.tz.txt 2.628231699761886
+data.wg.txt 2.628231699761886
+data.zazg.txt 2.628231699761886
+data.zbia.txt 4.165648687329214
+data.zcls.txt 2.628231699761886
+data.zcpc.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zeez.txt 2.628231699761886
+data.zezm.txt 2.628231699761886

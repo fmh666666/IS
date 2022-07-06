@@ -1,11 +1,11 @@
 10
-data.zajh.txt 1
-data.zbor.txt 1
-data.zbwa.txt 1
-data.zcjy.txt 2
-data.zcon.txt 1
-data.zddb.txt 1
-data.zdoc.txt 1
-data.zebn.txt 1
-data.zerv.txt 1
-data.zezh.txt 1
+data.zajh.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbwa.txt 2.7546073728089153
+data.zcjy.txt 4.365949390112154
+data.zcon.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zerv.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153

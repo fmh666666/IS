@@ -1,7 +1,7 @@
 6
-data.zaeh.txt 1
-data.zaoc.txt 2
-data.zczj.txt 1
-data.zdey.txt 1
-data.zdlo.txt 1
-data.zene.txt 1
+data.zaeh.txt 3.1086847136800873
+data.zaoc.txt 4.927148697748023
+data.zczj.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

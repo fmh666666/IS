@@ -1,9 +1,9 @@
 8
-data.mu.txt 1
-data.zaqw.txt 1
-data.zazn.txt 1
-data.zcrg.txt 1
-data.zctm.txt 2
-data.zecf.txt 1
-data.zedy.txt 1
-data.zevq.txt 1
+data.mu.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zcrg.txt 2.9092786962624935
+data.zctm.txt 4.611097637722987
+data.zecf.txt 2.9092786962624935
+data.zedy.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

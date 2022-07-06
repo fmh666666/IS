@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zbmt.txt 1
-data.zbzo.txt 1
-data.zcao.txt 1
-data.zctm.txt 1
-data.zdpz.txt 1
+data.zabe.txt 3.1086847136800873
+data.zbmt.txt 3.1086847136800873
+data.zbzo.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zdpz.txt 3.1086847136800873

@@ -1,12 +1,12 @@
 11
-data.jf.txt 1
-data.mx.txt 1
-data.pq.txt 1
-data.xk.txt 1
-data.zabe.txt 5
-data.zbre.txt 1
-data.zcby.txt 1
-data.zdaa.txt 1
-data.zdwv.txt 1
-data.zeqn.txt 1
-data.zezh.txt 1
+data.jf.txt 2.6885433903988862
+data.mx.txt 2.6885433903988862
+data.pq.txt 2.6885433903988862
+data.xk.txt 2.6885433903988862
+data.zabe.txt 6.949783845742841
+data.zbre.txt 2.6885433903988862
+data.zcby.txt 2.6885433903988862
+data.zdaa.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862
+data.zezh.txt 2.6885433903988862

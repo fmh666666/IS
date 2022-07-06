@@ -1,13 +1,13 @@
 12
-data.jj.txt 1
-data.kq.txt 1
-data.zagr.txt 1
-data.zazn.txt 1
-data.zbqu.txt 1
-data.zchw.txt 1
-data.zcjo.txt 1
-data.zdeb.txt 1
-data.zdib.txt 1
-data.zdkk.txt 1
-data.zedx.txt 1
-data.zemb.txt 1
+data.jj.txt 2.628231699761886
+data.kq.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zchw.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdib.txt 2.628231699761886
+data.zdkk.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zemb.txt 2.628231699761886

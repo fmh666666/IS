@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.tv.txt 2
-data.zawu.txt 2
-data.zazw.txt 1
-data.zcdy.txt 2
-data.zcjd.txt 2
-data.zcmy.txt 2
-data.zdoq.txt 1
-data.zeob.txt 1
-data.zezy.txt 1
+data.bf.txt 2.7546073728089153
+data.tv.txt 4.365949390112154
+data.zawu.txt 4.365949390112154
+data.zazw.txt 2.7546073728089153
+data.zcdy.txt 4.365949390112154
+data.zcjd.txt 4.365949390112154
+data.zcmy.txt 4.365949390112154
+data.zdoq.txt 2.7546073728089153
+data.zeob.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153

@@ -1,12 +1,12 @@
 11
-data.zabx.txt 1
-data.zafq.txt 1
-data.zamp.txt 1
-data.zawb.txt 3
-data.zawu.txt 2
-data.zbor.txt 1
-data.zbot.txt 1
-data.zcrv.txt 1
-data.zdme.txt 1
-data.zefw.txt 2
-data.zfai.txt 2
+data.zabx.txt 2.6885433903988862
+data.zafq.txt 2.6885433903988862
+data.zamp.txt 2.6885433903988862
+data.zawb.txt 5.3770867807977725
+data.zawu.txt 4.261240455343955
+data.zbor.txt 2.6885433903988862
+data.zbot.txt 2.6885433903988862
+data.zcrv.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zefw.txt 4.261240455343955
+data.zfai.txt 4.261240455343955

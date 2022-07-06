@@ -1,3 +1,3 @@
 2
-data.zaeh.txt 5
-data.zeeh.txt 2
+data.zaeh.txt 10.0042823826595
+data.zeeh.txt 6.134097658560606

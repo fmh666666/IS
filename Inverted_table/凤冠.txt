@@ -1,7 +1,7 @@
 6
-data.bb.txt 2
-data.zadv.txt 1
-data.zapl.txt 1
-data.zclm.txt 1
-data.zezy.txt 1
-data.zfcg.txt 1
+data.bb.txt 4.927148697748023
+data.zadv.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873
+data.zfcg.txt 3.1086847136800873

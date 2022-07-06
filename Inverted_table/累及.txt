@@ -1,4 +1,4 @@
 3
-data.zabe.txt 2
-data.zeec.txt 1
-data.zefw.txt 1
+data.zabe.txt 5.688648708166832
+data.zeec.txt 3.5891377275982888
+data.zefw.txt 3.5891377275982888

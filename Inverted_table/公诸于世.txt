@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zass.txt 1
-data.zbkr.txt 1
-data.zcxh.txt 1
-data.zdpz.txt 1
-data.zeds.txt 1
+data.zadv.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zbkr.txt 3.1086847136800873
+data.zcxh.txt 3.1086847136800873
+data.zdpz.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873

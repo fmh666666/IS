@@ -1,6 +1,6 @@
 5
-data.gw.txt 2
-data.zbaf.txt 2
-data.zbua.txt 1
-data.zcbe.txt 1
-data.zczp.txt 3
+data.gw.txt 5.1274494005309625
+data.zbaf.txt 5.1274494005309625
+data.zbua.txt 3.235060386727117
+data.zcbe.txt 3.235060386727117
+data.zczp.txt 6.470120773454234

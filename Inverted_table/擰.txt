@@ -1,5 +1,5 @@
 4
-data.zacp.txt 1
-data.zate.txt 2
-data.zawm.txt 1
-data.zcic.txt 1
+data.zacp.txt 3.389731710180695
+data.zate.txt 5.372597648141796
+data.zawm.txt 3.389731710180695
+data.zcic.txt 3.389731710180695

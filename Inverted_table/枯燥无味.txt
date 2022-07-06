@@ -1,7 +1,7 @@
 6
-data.zafq.txt 1
-data.zaqp.txt 1
-data.zblq.txt 1
-data.zcao.txt 1
-data.zebn.txt 1
-data.zexm.txt 1
+data.zafq.txt 3.1086847136800873
+data.zaqp.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zebn.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.tj.txt 4
-data.zass.txt 1
-data.zddv.txt 1
-data.zegn.txt 1
+data.be.txt 3.235060386727117
+data.tj.txt 7.511577600598868
+data.zass.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zegn.txt 3.235060386727117

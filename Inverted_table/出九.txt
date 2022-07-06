@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.zbzo.txt 1
-data.zcvi.txt 1
-data.zdpz.txt 1
-data.zfai.txt 1
+data.fe.txt 3.235060386727117
+data.zbzo.txt 3.235060386727117
+data.zcvi.txt 3.235060386727117
+data.zdpz.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

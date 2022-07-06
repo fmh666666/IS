@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.ng.txt 1
-data.zaej.txt 2
-data.zall.txt 1
-data.zbot.txt 1
-data.zeeh.txt 1
-data.zeoo.txt 1
-data.zeos.txt 1
+data.fp.txt 2.9092786962624935
+data.ng.txt 2.9092786962624935
+data.zaej.txt 4.611097637722987
+data.zall.txt 2.9092786962624935
+data.zbot.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zeos.txt 2.9092786962624935

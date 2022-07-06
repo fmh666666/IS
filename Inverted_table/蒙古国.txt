@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zacd.txt 1
-data.zawc.txt 1
-data.zcih.txt 1
-data.zctp.txt 1
-data.zcvt.txt 1
-data.zdep.txt 1
-data.zdoc.txt 1
+data.op.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zcih.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zcvt.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935

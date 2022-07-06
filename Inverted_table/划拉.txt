@@ -1,4 +1,4 @@
 3
-data.bf.txt 5
-data.zcdl.txt 1
-data.zeun.txt 2
+data.bf.txt 9.27778643576512
+data.zcdl.txt 3.5891377275982888
+data.zeun.txt 5.688648708166832

@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zajr.txt 1
-data.zaxj.txt 1
-data.zbjc.txt 2
-data.zcdv.txt 1
-data.zcee.txt 1
-data.zefv.txt 2
-data.zezh.txt 1
+data.ry.txt 2.9092786962624935
+data.zajr.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbjc.txt 4.611097637722987
+data.zcdv.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zefv.txt 4.611097637722987
+data.zezh.txt 2.9092786962624935

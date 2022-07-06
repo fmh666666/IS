@@ -1,7 +1,7 @@
 6
-data.zajh.txt 1
-data.zake.txt 1
-data.zbxw.txt 1
-data.zcwq.txt 1
-data.zdju.txt 1
-data.zedo.txt 1
+data.zajh.txt 3.1086847136800873
+data.zake.txt 3.1086847136800873
+data.zbxw.txt 3.1086847136800873
+data.zcwq.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

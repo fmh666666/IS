@@ -1,8 +1,8 @@
 7
-data.zaim.txt 1
-data.zaqf.txt 1
-data.zdji.txt 1
-data.zduo.txt 1
-data.zedd.txt 1
-data.zefd.txt 1
-data.zfae.txt 1
+data.zaim.txt 3.0018356045764243
+data.zaqf.txt 3.0018356045764243
+data.zdji.txt 3.0018356045764243
+data.zduo.txt 3.0018356045764243
+data.zedd.txt 3.0018356045764243
+data.zefd.txt 3.0018356045764243
+data.zfae.txt 3.0018356045764243

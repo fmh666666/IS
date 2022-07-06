@@ -1,3 +1,3 @@
 2
-data.zbnx.txt 2
-data.zfaj.txt 4
+data.zbnx.txt 6.134097658560606
+data.zfaj.txt 8.986290643289122

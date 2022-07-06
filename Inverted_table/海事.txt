@@ -1,14 +1,14 @@
 13
-data.hu.txt 1
-data.pn.txt 1
-data.yx.txt 1
-data.zafq.txt 6
-data.zafy.txt 2
-data.zarr.txt 1
-data.zbdb.txt 2
-data.zcse.txt 1
-data.zeay.txt 5
-data.zeeq.txt 1
-data.zeqh.txt 1
-data.zfai.txt 2
-data.zfaj.txt 2
+data.hu.txt 2.5727503226135906
+data.pn.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zafq.txt 7.222623281414552
+data.zafy.txt 4.077712785060798
+data.zarr.txt 2.5727503226135906
+data.zbdb.txt 4.077712785060798
+data.zcse.txt 2.5727503226135906
+data.zeay.txt 6.650463107674388
+data.zeeq.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906
+data.zfai.txt 4.077712785060798
+data.zfaj.txt 4.077712785060798

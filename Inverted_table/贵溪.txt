@@ -1,4 +1,4 @@
 3
-data.zdsh.txt 1
-data.zeag.txt 1
-data.zelt.txt 1
+data.zdsh.txt 3.5891377275982888
+data.zeag.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

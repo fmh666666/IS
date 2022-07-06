@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zbfr.txt 1
-data.zbjq.txt 2
-data.zbpp.txt 1
-data.zdxw.txt 1
+data.zacd.txt 3.235060386727117
+data.zbfr.txt 3.235060386727117
+data.zbjq.txt 5.1274494005309625
+data.zbpp.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117

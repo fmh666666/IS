@@ -1,4 +1,4 @@
 3
-data.zcon.txt 1
-data.zdwv.txt 1
-data.zfae.txt 1
+data.zcon.txt 3.5891377275982888
+data.zdwv.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

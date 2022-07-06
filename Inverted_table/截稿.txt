@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zbga.txt 1
-data.zcmx.txt 2
-data.zcsu.txt 1
-data.zdmw.txt 1
+data.zaxp.txt 3.235060386727117
+data.zbga.txt 3.235060386727117
+data.zcmx.txt 5.1274494005309625
+data.zcsu.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.zaoo.txt 1
-data.zbzg.txt 1
-data.zcvi.txt 1
-data.zdeb.txt 1
-data.zene.txt 2
+data.zaoo.txt 3.235060386727117
+data.zbzg.txt 3.235060386727117
+data.zcvi.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zene.txt 5.1274494005309625

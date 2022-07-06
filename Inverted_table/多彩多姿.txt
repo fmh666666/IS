@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.qn.txt 1
-data.zcih.txt 1
-data.zckd.txt 1
-data.zcpb.txt 1
+data.ka.txt 3.235060386727117
+data.qn.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zcpb.txt 3.235060386727117

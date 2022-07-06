@@ -1,7 +1,7 @@
 6
-data.fp.txt 2
-data.zabj.txt 2
-data.zaic.txt 3
-data.zbxy.txt 1
-data.zdod.txt 1
-data.zenw.txt 2
+data.fp.txt 4.927148697748023
+data.zabj.txt 4.927148697748023
+data.zaic.txt 6.2173694273601745
+data.zbxy.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zenw.txt 4.927148697748023

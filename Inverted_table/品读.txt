@@ -1,13 +1,13 @@
 12
-data.zacw.txt 2
-data.zamp.txt 1
-data.zapr.txt 1
-data.zawu.txt 1
-data.zbgu.txt 1
-data.zdkc.txt 1
-data.zdof.txt 1
-data.zdvl.txt 1
-data.zeeh.txt 2
-data.zefd.txt 1
-data.zety.txt 1
-data.zfas.txt 1
+data.zacw.txt 4.165648687329214
+data.zamp.txt 2.628231699761886
+data.zapr.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zdkc.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zeeh.txt 4.165648687329214
+data.zefd.txt 2.628231699761886
+data.zety.txt 2.628231699761886
+data.zfas.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.zacd.txt 4
-data.zajo.txt 6
-data.zblq.txt 1
-data.zdvl.txt 1
-data.zdxw.txt 2
+data.zacd.txt 7.511577600598868
+data.zajo.txt 9.081962699831948
+data.zblq.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117
+data.zdxw.txt 5.1274494005309625

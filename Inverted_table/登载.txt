@@ -1,7 +1,7 @@
 6
-data.ok.txt 1
-data.pa.txt 1
-data.zawu.txt 1
-data.zawz.txt 1
-data.zdhv.txt 1
-data.zeoh.txt 1
+data.ok.txt 3.1086847136800873
+data.pa.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zawz.txt 3.1086847136800873
+data.zdhv.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

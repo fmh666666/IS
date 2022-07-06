@@ -1,8 +1,8 @@
 7
-data.zbjc.txt 1
-data.zbjk.txt 2
-data.zcxq.txt 1
-data.zdnh.txt 1
-data.zeoh.txt 1
-data.zexv.txt 2
-data.zeyg.txt 2
+data.zbjc.txt 3.0018356045764243
+data.zbjk.txt 4.757796866583254
+data.zcxq.txt 3.0018356045764243
+data.zdnh.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243
+data.zexv.txt 4.757796866583254
+data.zeyg.txt 4.757796866583254

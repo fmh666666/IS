@@ -1,12 +1,12 @@
 11
-data.kt.txt 1
-data.zawb.txt 1
-data.zbnx.txt 1
-data.zcko.txt 1
-data.zcnn.txt 1
-data.zcqs.txt 1
-data.zdlm.txt 1
-data.zdrq.txt 1
-data.zefw.txt 3
-data.zesq.txt 1
-data.zfbr.txt 2
+data.kt.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcko.txt 2.6885433903988862
+data.zcnn.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zdlm.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zefw.txt 5.3770867807977725
+data.zesq.txt 2.6885433903988862
+data.zfbr.txt 4.261240455343955

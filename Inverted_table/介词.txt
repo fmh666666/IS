@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.mt.txt 1
-data.zbcj.txt 2
-data.zbvm.txt 1
-data.zcef.txt 1
-data.zctm.txt 1
-data.zdaq.txt 1
-data.zdlg.txt 1
+data.ka.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.zbcj.txt 4.611097637722987
+data.zbvm.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zctm.txt 2.9092786962624935
+data.zdaq.txt 2.9092786962624935
+data.zdlg.txt 2.9092786962624935

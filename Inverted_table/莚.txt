@@ -1,2 +1,2 @@
 1
-data.zenw.txt 5
+data.zenw.txt 11.246235406996512

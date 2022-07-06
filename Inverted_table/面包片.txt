@@ -1,6 +1,6 @@
 5
-data.fe.txt 2
-data.mu.txt 2
-data.zail.txt 2
-data.zbls.txt 1
-data.zeay.txt 1
+data.fe.txt 5.1274494005309625
+data.mu.txt 5.1274494005309625
+data.zail.txt 5.1274494005309625
+data.zbls.txt 3.235060386727117
+data.zeay.txt 3.235060386727117

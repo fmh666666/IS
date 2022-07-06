@@ -1,3 +1,3 @@
 2
-data.zedx.txt 1
-data.zfae.txt 1
+data.zedx.txt 3.8701847240988965
+data.zfae.txt 3.8701847240988965

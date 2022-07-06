@@ -1,10 +1,10 @@
 9
-data.zate.txt 2
-data.zbla.txt 4
-data.zbye.txt 2
-data.zdle.txt 1
-data.zeag.txt 2
-data.zeai.txt 2
-data.zeaj.txt 14
-data.zegz.txt 1
-data.zeqv.txt 2
+data.zate.txt 4.48169974735425
+data.zbla.txt 6.565571457682201
+data.zbye.txt 4.48169974735425
+data.zdle.txt 2.82763771717948
+data.zeag.txt 4.48169974735425
+data.zeai.txt 4.48169974735425
+data.zeaj.txt 11.04727120503645
+data.zegz.txt 2.82763771717948
+data.zeqv.txt 4.48169974735425

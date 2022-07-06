@@ -1,8 +1,8 @@
 7
-data.zabx.txt 1
-data.zamr.txt 1
-data.zawb.txt 1
-data.zbfz.txt 1
-data.zcbe.txt 1
-data.zcbm.txt 1
-data.zctp.txt 1
+data.zabx.txt 3.0018356045764243
+data.zamr.txt 3.0018356045764243
+data.zawb.txt 3.0018356045764243
+data.zbfz.txt 3.0018356045764243
+data.zcbe.txt 3.0018356045764243
+data.zcbm.txt 3.0018356045764243
+data.zctp.txt 3.0018356045764243

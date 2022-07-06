@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zbcv.txt 1
-data.zdcy.txt 1
-data.zdqz.txt 1
-data.zfai.txt 1
+data.to.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

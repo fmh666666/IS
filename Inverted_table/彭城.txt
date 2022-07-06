@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.zane.txt 1
-data.zawb.txt 9
-data.zawc.txt 9
-data.zfas.txt 1
+data.be.txt 3.235060386727117
+data.zane.txt 3.235060386727117
+data.zawb.txt 10.746637987325986
+data.zawc.txt 10.746637987325986
+data.zfas.txt 3.235060386727117

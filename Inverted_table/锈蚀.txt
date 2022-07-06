@@ -1,4 +1,4 @@
 3
-data.zafv.txt 1
-data.zawo.txt 1
-data.zdqx.txt 3
+data.zafv.txt 3.5891377275982888
+data.zawo.txt 3.5891377275982888
+data.zdqx.txt 7.1782754551965775

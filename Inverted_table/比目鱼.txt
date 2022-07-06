@@ -1,5 +1,5 @@
 4
-data.mu.txt 1
-data.zaxj.txt 2
-data.zazn.txt 1
-data.zeeq.txt 1
+data.mu.txt 3.389731710180695
+data.zaxj.txt 5.372597648141796
+data.zazn.txt 3.389731710180695
+data.zeeq.txt 3.389731710180695

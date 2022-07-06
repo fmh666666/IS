@@ -1,4 +1,4 @@
 3
-data.zacp.txt 1
-data.zafy.txt 1
-data.zblq.txt 1
+data.zacp.txt 3.5891377275982888
+data.zafy.txt 3.5891377275982888
+data.zblq.txt 3.5891377275982888

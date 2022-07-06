@@ -1,4 +1,4 @@
 3
-data.zblr.txt 3
-data.zcxp.txt 2
-data.zedo.txt 1
+data.zblr.txt 7.1782754551965775
+data.zcxp.txt 5.688648708166832
+data.zedo.txt 3.5891377275982888

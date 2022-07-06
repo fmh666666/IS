@@ -1,2 +1,2 @@
 1
-data.zene.txt 5
+data.zene.txt 11.246235406996512

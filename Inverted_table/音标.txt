@@ -1,8 +1,8 @@
 7
-data.zazn.txt 1
-data.zccx.txt 1
-data.zcdl.txt 1
-data.zcku.txt 1
-data.zdgv.txt 1
-data.zdof.txt 1
-data.zeez.txt 1
+data.zazn.txt 3.0018356045764243
+data.zccx.txt 3.0018356045764243
+data.zcdl.txt 3.0018356045764243
+data.zcku.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zeez.txt 3.0018356045764243

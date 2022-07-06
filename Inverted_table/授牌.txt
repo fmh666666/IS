@@ -1,7 +1,7 @@
 6
-data.co.txt 4
-data.zahd.txt 1
-data.zdou.txt 1
-data.zdvl.txt 1
-data.zdzm.txt 1
-data.zfcg.txt 1
+data.co.txt 7.21814237484067
+data.zahd.txt 3.1086847136800873
+data.zdou.txt 3.1086847136800873
+data.zdvl.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zfcg.txt 3.1086847136800873

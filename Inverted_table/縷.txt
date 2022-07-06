@@ -1,6 +1,6 @@
 5
-data.zajn.txt 2
-data.zaub.txt 1
-data.zawz.txt 1
-data.zcef.txt 1
-data.zcfx.txt 1
+data.zajn.txt 5.1274494005309625
+data.zaub.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zcfx.txt 3.235060386727117

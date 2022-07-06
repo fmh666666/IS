@@ -1,10 +1,10 @@
 9
-data.tz.txt 1
-data.zbls.txt 1
-data.zcgo.txt 1
-data.zczp.txt 1
-data.zdkc.txt 1
-data.zejk.txt 1
-data.zevq.txt 1
-data.zfai.txt 2
-data.zfaz.txt 1
+data.tz.txt 2.82763771717948
+data.zbls.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zejk.txt 2.82763771717948
+data.zevq.txt 2.82763771717948
+data.zfai.txt 4.48169974735425
+data.zfaz.txt 2.82763771717948

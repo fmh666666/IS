@@ -1,10 +1,10 @@
 9
-data.co.txt 2
-data.gw.txt 1
-data.wg.txt 1
-data.zagr.txt 1
-data.zbkj.txt 1
-data.zczl.txt 1
-data.zdaq.txt 2
-data.zdar.txt 3
-data.zeid.txt 1
+data.co.txt 4.48169974735425
+data.gw.txt 2.82763771717948
+data.wg.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdaq.txt 4.48169974735425
+data.zdar.txt 5.65527543435896
+data.zeid.txt 2.82763771717948

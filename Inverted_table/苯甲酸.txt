@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.yx.txt 2
-data.zadv.txt 1
-data.zawu.txt 1
-data.zbcj.txt 1
-data.zcse.txt 1
-data.zdll.txt 1
-data.zene.txt 1
+data.ok.txt 2.9092786962624935
+data.yx.txt 4.611097637722987
+data.zadv.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdll.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

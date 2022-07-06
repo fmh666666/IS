@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.zadv.txt 1
-data.zate.txt 1
-data.zdju.txt 2
-data.zdrq.txt 1
+data.tv.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zate.txt 3.235060386727117
+data.zdju.txt 5.1274494005309625
+data.zdrq.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zcdv.txt 1
-data.zdeb.txt 1
-data.zdpf.txt 1
+data.zcdv.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888
+data.zdpf.txt 3.5891377275982888

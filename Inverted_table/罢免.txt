@@ -1,12 +1,12 @@
 11
-data.op.txt 1
-data.yx.txt 3
-data.zakb.txt 1
-data.zapf.txt 3
-data.zbrj.txt 1
-data.zcpc.txt 1
-data.zcrv.txt 2
-data.zcue.txt 1
-data.zdju.txt 4
-data.zedo.txt 2
-data.zexv.txt 2
+data.op.txt 2.6885433903988862
+data.yx.txt 5.3770867807977725
+data.zakb.txt 2.6885433903988862
+data.zapf.txt 5.3770867807977725
+data.zbrj.txt 2.6885433903988862
+data.zcpc.txt 2.6885433903988862
+data.zcrv.txt 4.261240455343955
+data.zcue.txt 2.6885433903988862
+data.zdju.txt 6.2426044324908965
+data.zedo.txt 4.261240455343955
+data.zexv.txt 4.261240455343955

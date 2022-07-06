@@ -1,4 +1,4 @@
 3
-data.bf.txt 1
-data.ew.txt 1
-data.zezf.txt 1
+data.bf.txt 3.5891377275982888
+data.ew.txt 3.5891377275982888
+data.zezf.txt 3.5891377275982888

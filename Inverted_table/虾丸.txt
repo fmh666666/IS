@@ -1,4 +1,4 @@
 3
-data.nh.txt 1
-data.zafe.txt 1
-data.zazn.txt 1
+data.nh.txt 3.5891377275982888
+data.zafe.txt 3.5891377275982888
+data.zazn.txt 3.5891377275982888

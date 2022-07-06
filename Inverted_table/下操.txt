@@ -1,8 +1,8 @@
 7
-data.zafe.txt 1
-data.zbds.txt 1
-data.zbof.txt 1
-data.zbqu.txt 1
-data.zcej.txt 1
-data.zcsu.txt 1
-data.zdwk.txt 1
+data.zafe.txt 3.0018356045764243
+data.zbds.txt 3.0018356045764243
+data.zbof.txt 3.0018356045764243
+data.zbqu.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zcsu.txt 3.0018356045764243
+data.zdwk.txt 3.0018356045764243

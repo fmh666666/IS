@@ -1,5 +1,5 @@
 4
-data.zasq.txt 1
-data.zbux.txt 1
-data.zcql.txt 4
-data.zdou.txt 5
+data.zasq.txt 3.389731710180695
+data.zbux.txt 3.389731710180695
+data.zcql.txt 7.870713291999142
+data.zdou.txt 8.762329358322491

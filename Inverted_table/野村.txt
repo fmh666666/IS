@@ -1,6 +1,6 @@
 5
-data.zajn.txt 1
-data.zbcj.txt 1
-data.zbhd.txt 1
-data.zbkv.txt 2
-data.zexv.txt 2
+data.zajn.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zbkv.txt 5.1274494005309625
+data.zexv.txt 5.1274494005309625

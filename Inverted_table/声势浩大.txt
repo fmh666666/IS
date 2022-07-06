@@ -1,6 +1,6 @@
 5
-data.zbdb.txt 1
-data.zbha.txt 1
-data.zbvp.txt 1
-data.zcdv.txt 1
-data.zebv.txt 1
+data.zbdb.txt 3.235060386727117
+data.zbha.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zebv.txt 3.235060386727117

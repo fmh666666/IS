@@ -1,6 +1,6 @@
 5
-data.zcdy.txt 1
-data.zcql.txt 1
-data.zecf.txt 4
-data.zeds.txt 4
-data.zfdk.txt 1
+data.zcdy.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zecf.txt 7.511577600598868
+data.zeds.txt 7.511577600598868
+data.zfdk.txt 3.235060386727117

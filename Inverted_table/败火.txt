@@ -1,6 +1,6 @@
 5
-data.ry.txt 2
-data.zcku.txt 1
-data.zdcj.txt 1
-data.zeoo.txt 1
-data.zexu.txt 1
+data.ry.txt 5.1274494005309625
+data.zcku.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117
+data.zexu.txt 3.235060386727117

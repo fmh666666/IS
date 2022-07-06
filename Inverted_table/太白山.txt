@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zaim.txt 1
-data.zasr.txt 1
-data.zaxp.txt 2
-data.zctn.txt 1
+data.ng.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zasr.txt 3.235060386727117
+data.zaxp.txt 5.1274494005309625
+data.zctn.txt 3.235060386727117

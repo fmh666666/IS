@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.zafq.txt 4
-data.zbfz.txt 1
-data.zbgu.txt 1
-data.zbjk.txt 1
-data.zcee.txt 1
-data.zdkp.txt 1
-data.zebv.txt 1
+data.jf.txt 2.9092786962624935
+data.zafq.txt 6.7551359407091605
+data.zbfz.txt 2.9092786962624935
+data.zbgu.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935

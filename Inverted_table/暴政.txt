@@ -1,10 +1,10 @@
 9
-data.ga.txt 2
-data.ok.txt 1
-data.zabe.txt 1
-data.zbjh.txt 1
-data.zbnx.txt 1
-data.zcdy.txt 1
-data.zcmn.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.ga.txt 4.48169974735425
+data.ok.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948
+data.zfae.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

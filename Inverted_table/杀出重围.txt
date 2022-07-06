@@ -1,5 +1,5 @@
 4
-data.tz.txt 1
-data.zcis.txt 2
-data.zddp.txt 1
-data.zdmw.txt 1
+data.tz.txt 3.389731710180695
+data.zcis.txt 5.372597648141796
+data.zddp.txt 3.389731710180695
+data.zdmw.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.zcic.txt 1
-data.zcis.txt 1
-data.zcll.txt 1
-data.zdzm.txt 1
-data.zdzn.txt 1
-data.zeoh.txt 1
+data.zcic.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zcll.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

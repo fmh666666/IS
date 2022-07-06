@@ -1,3 +1,3 @@
 2
-data.zcdv.txt 5
-data.zexk.txt 3
+data.zcdv.txt 10.0042823826595
+data.zexk.txt 7.740369448197793

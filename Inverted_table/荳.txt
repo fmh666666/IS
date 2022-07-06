@@ -1,11 +1,11 @@
 10
-data.ud.txt 2
-data.uz.txt 1
-data.zbvp.txt 1
-data.zcef.txt 2
-data.zcgi.txt 2
-data.zclm.txt 4
-data.zcse.txt 1
-data.zdey.txt 2
-data.zdqk.txt 1
-data.zezm.txt 1
+data.ud.txt 4.365949390112154
+data.uz.txt 2.7546073728089153
+data.zbvp.txt 2.7546073728089153
+data.zcef.txt 4.365949390112154
+data.zcgi.txt 4.365949390112154
+data.zclm.txt 6.396000249308887
+data.zcse.txt 2.7546073728089153
+data.zdey.txt 4.365949390112154
+data.zdqk.txt 2.7546073728089153
+data.zezm.txt 2.7546073728089153

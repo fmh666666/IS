@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.yx.txt 1
-data.zagr.txt 1
-data.zaoo.txt 1
-data.zbsl.txt 1
-data.zcpc.txt 1
-data.zcql.txt 1
-data.zess.txt 1
-data.zevq.txt 1
+data.kt.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zbsl.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zess.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

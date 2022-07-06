@@ -1,7 +1,7 @@
 6
-data.zaxx.txt 1
-data.zbeb.txt 1
-data.zdmw.txt 1
-data.zeag.txt 1
-data.zelt.txt 1
-data.zewg.txt 2
+data.zaxx.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zeag.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zewg.txt 4.927148697748023

@@ -1,12 +1,12 @@
 11
-data.ye.txt 1
-data.zabx.txt 1
-data.zarc.txt 1
-data.zbre.txt 1
-data.zbrj.txt 1
-data.zckd.txt 1
-data.zcls.txt 1
-data.zcuh.txt 1
-data.zdzm.txt 1
-data.zeqn.txt 1
-data.zeva.txt 1
+data.ye.txt 2.6885433903988862
+data.zabx.txt 2.6885433903988862
+data.zarc.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zckd.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zcuh.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862
+data.zeva.txt 2.6885433903988862

@@ -1,4 +1,4 @@
 3
-data.zbcj.txt 1
-data.zcko.txt 1
-data.zdeq.txt 1
+data.zbcj.txt 3.5891377275982888
+data.zcko.txt 3.5891377275982888
+data.zdeq.txt 3.5891377275982888

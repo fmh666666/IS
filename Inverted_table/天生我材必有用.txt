@@ -1,6 +1,6 @@
 5
-data.wg.txt 1
-data.zbjk.txt 1
-data.zbot.txt 1
-data.zcdz.txt 1
-data.zcon.txt 1
+data.wg.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zcon.txt 3.235060386727117

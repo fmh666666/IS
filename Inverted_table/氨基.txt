@@ -1,12 +1,12 @@
 11
-data.pa.txt 1
-data.zbeb.txt 1
-data.zbha.txt 1
-data.zcbe.txt 2
-data.zcem.txt 1
-data.zctp.txt 14
-data.zcue.txt 3
-data.zdll.txt 1
-data.zdwz.txt 1
-data.zedo.txt 2
-data.zene.txt 1
+data.pa.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zcbe.txt 4.261240455343955
+data.zcem.txt 2.6885433903988862
+data.zctp.txt 10.503844887834852
+data.zcue.txt 5.3770867807977725
+data.zdll.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zedo.txt 4.261240455343955
+data.zene.txt 2.6885433903988862

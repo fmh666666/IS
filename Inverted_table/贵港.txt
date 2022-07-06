@@ -1,6 +1,6 @@
 5
-data.zbbt.txt 1
-data.zbpm.txt 1
-data.zbts.txt 1
-data.zefv.txt 1
-data.zefw.txt 1
+data.zbbt.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zefv.txt 3.235060386727117
+data.zefw.txt 3.235060386727117

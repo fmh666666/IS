@@ -1,10 +1,10 @@
 9
-data.zabe.txt 1
-data.zapr.txt 1
-data.zasw.txt 1
-data.zblq.txt 1
-data.zcby.txt 2
-data.zdlw.txt 1
-data.zenn.txt 2
-data.zeoh.txt 1
-data.zfai.txt 2
+data.zabe.txt 2.82763771717948
+data.zapr.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zcby.txt 4.48169974735425
+data.zdlw.txt 2.82763771717948
+data.zenn.txt 4.48169974735425
+data.zeoh.txt 2.82763771717948
+data.zfai.txt 4.48169974735425

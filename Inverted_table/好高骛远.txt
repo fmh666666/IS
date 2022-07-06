@@ -1,7 +1,7 @@
 6
-data.zacw.txt 1
-data.zajh.txt 1
-data.zakb.txt 1
-data.zbil.txt 1
-data.zcon.txt 2
-data.zezh.txt 1
+data.zacw.txt 3.1086847136800873
+data.zajh.txt 3.1086847136800873
+data.zakb.txt 3.1086847136800873
+data.zbil.txt 3.1086847136800873
+data.zcon.txt 4.927148697748023
+data.zezh.txt 3.1086847136800873

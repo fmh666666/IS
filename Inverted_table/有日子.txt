@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.vi.txt 1
-data.zezy.txt 1
+data.mo.txt 3.5891377275982888
+data.vi.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

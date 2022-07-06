@@ -1,4 +1,4 @@
 3
-data.zbkf.txt 3
-data.zcko.txt 2
-data.zeoh.txt 4
+data.zbkf.txt 7.1782754551965775
+data.zcko.txt 5.688648708166832
+data.zeoh.txt 8.333719726130651

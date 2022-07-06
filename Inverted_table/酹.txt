@@ -1,4 +1,4 @@
 3
-data.ka.txt 2
-data.zbil.txt 1
-data.zcku.txt 1
+data.ka.txt 5.688648708166832
+data.zbil.txt 3.5891377275982888
+data.zcku.txt 3.5891377275982888

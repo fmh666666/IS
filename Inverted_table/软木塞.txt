@@ -1,3 +1,3 @@
 2
-data.ha.txt 2
-data.zdey.txt 4
+data.ha.txt 6.134097658560606
+data.zdey.txt 8.986290643289122

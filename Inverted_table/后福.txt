@@ -1,11 +1,11 @@
 10
-data.kq.txt 1
-data.op.txt 1
-data.zafy.txt 1
-data.zazo.txt 1
-data.zbaf.txt 1
-data.zbor.txt 1
-data.zbre.txt 1
-data.zcon.txt 1
-data.zdst.txt 1
-data.zeoh.txt 1
+data.kq.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zafy.txt 2.7546073728089153
+data.zazo.txt 2.7546073728089153
+data.zbaf.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zdst.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

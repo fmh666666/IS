@@ -1,8 +1,8 @@
 7
-data.zajh.txt 2
-data.zawc.txt 1
-data.zazw.txt 1
-data.zcej.txt 1
-data.zcfn.txt 1
-data.zdaa.txt 1
-data.zelt.txt 1
+data.zajh.txt 4.757796866583254
+data.zawc.txt 3.0018356045764243
+data.zazw.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zcfn.txt 3.0018356045764243
+data.zdaa.txt 3.0018356045764243
+data.zelt.txt 3.0018356045764243

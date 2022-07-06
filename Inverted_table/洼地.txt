@@ -1,6 +1,6 @@
 5
-data.pq.txt 1
-data.zabe.txt 1
-data.zefp.txt 1
-data.zerv.txt 1
-data.zfcp.txt 1
+data.pq.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zerv.txt 3.235060386727117
+data.zfcp.txt 3.235060386727117

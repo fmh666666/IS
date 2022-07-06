@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zacw.txt 1
-data.zbfx.txt 1
-data.zbre.txt 1
-data.zeoh.txt 1
+data.op.txt 3.235060386727117
+data.zacw.txt 3.235060386727117
+data.zbfx.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

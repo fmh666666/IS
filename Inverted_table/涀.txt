@@ -1,2 +1,2 @@
 1
-data.zeqh.txt 6
+data.zeqh.txt 12.21378426791186

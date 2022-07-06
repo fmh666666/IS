@@ -1,7 +1,7 @@
 6
-data.tz.txt 2
-data.zakb.txt 1
-data.zamr.txt 2
-data.zaxj.txt 1
-data.zbzo.txt 2
-data.zeez.txt 2
+data.tz.txt 4.927148697748023
+data.zakb.txt 3.1086847136800873
+data.zamr.txt 4.927148697748023
+data.zaxj.txt 3.1086847136800873
+data.zbzo.txt 4.927148697748023
+data.zeez.txt 4.927148697748023

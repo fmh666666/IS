@@ -1,13 +1,13 @@
 12
-data.xk.txt 1
-data.zaic.txt 1
-data.zamr.txt 1
-data.zbkr.txt 1
-data.zccu.txt 1
-data.zdxw.txt 1
-data.zefp.txt 1
-data.zekw.txt 1
-data.zevt.txt 3
-data.zewn.txt 1
-data.zexv.txt 1
-data.zeyy.txt 1
+data.xk.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zamr.txt 2.628231699761886
+data.zbkr.txt 2.628231699761886
+data.zccu.txt 2.628231699761886
+data.zdxw.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zekw.txt 2.628231699761886
+data.zevt.txt 5.256463399523772
+data.zewn.txt 2.628231699761886
+data.zexv.txt 2.628231699761886
+data.zeyy.txt 2.628231699761886

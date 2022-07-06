@@ -1,9 +1,9 @@
 8
-data.pa.txt 1
-data.zbor.txt 1
-data.zcpc.txt 1
-data.zcse.txt 1
-data.zdgo.txt 1
-data.zdme.txt 1
-data.zdzm.txt 1
-data.zebn.txt 1
+data.pa.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zcpc.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935

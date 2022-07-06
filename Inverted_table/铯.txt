@@ -1,10 +1,10 @@
 9
-data.xe.txt 2
-data.zapl.txt 1
-data.zawc.txt 1
-data.zaxj.txt 1
-data.zayd.txt 1
-data.zbwq.txt 1
-data.zcdv.txt 3
-data.zcpb.txt 32
-data.zelt.txt 1
+data.xe.txt 4.48169974735425
+data.zapl.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zayd.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zcdv.txt 5.65527543435896
+data.zcpb.txt 14.263719072216333
+data.zelt.txt 2.82763771717948

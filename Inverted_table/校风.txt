@@ -1,5 +1,5 @@
 4
-data.zcjd.txt 1
-data.zcmy.txt 1
-data.zeqh.txt 1
-data.zevl.txt 1
+data.zcjd.txt 3.389731710180695
+data.zcmy.txt 3.389731710180695
+data.zeqh.txt 3.389731710180695
+data.zevl.txt 3.389731710180695

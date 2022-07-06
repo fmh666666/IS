@@ -1,7 +1,7 @@
 6
-data.zahd.txt 2
-data.zake.txt 1
-data.zapl.txt 1
-data.zbpp.txt 1
-data.zbpx.txt 2
-data.zcdy.txt 1
+data.zahd.txt 4.927148697748023
+data.zake.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zbpp.txt 3.1086847136800873
+data.zbpx.txt 4.927148697748023
+data.zcdy.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.zafe.txt 1
-data.zbes.txt 1
-data.zdbf.txt 1
-data.zddl.txt 1
-data.zduk.txt 1
-data.zdwk.txt 1
-data.zebn.txt 1
-data.zeve.txt 1
+data.cq.txt 2.82763771717948
+data.zafe.txt 2.82763771717948
+data.zbes.txt 2.82763771717948
+data.zdbf.txt 2.82763771717948
+data.zddl.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zdwk.txt 2.82763771717948
+data.zebn.txt 2.82763771717948
+data.zeve.txt 2.82763771717948

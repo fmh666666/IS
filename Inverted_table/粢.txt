@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zagr.txt 1
-data.zcln.txt 2
-data.zcvi.txt 1
-data.zebc.txt 1
+data.fp.txt 3.235060386727117
+data.zagr.txt 3.235060386727117
+data.zcln.txt 5.1274494005309625
+data.zcvi.txt 3.235060386727117
+data.zebc.txt 3.235060386727117

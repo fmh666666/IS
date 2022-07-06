@@ -1,4 +1,4 @@
 3
-data.ee.txt 2
-data.ka.txt 1
-data.zawb.txt 1
+data.ee.txt 5.688648708166832
+data.ka.txt 3.5891377275982888
+data.zawb.txt 3.5891377275982888

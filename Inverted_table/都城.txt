@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.vm.txt 1
-data.zall.txt 1
-data.zaxj.txt 1
-data.zbxw.txt 1
-data.zcqp.txt 1
-data.zdfl.txt 1
-data.zeaf.txt 1
-data.zemb.txt 1
+data.op.txt 2.82763771717948
+data.vm.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbxw.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zeaf.txt 2.82763771717948
+data.zemb.txt 2.82763771717948

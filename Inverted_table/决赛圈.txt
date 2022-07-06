@@ -1,4 +1,4 @@
 3
-data.be.txt 1
-data.zcdy.txt 1
-data.zdzn.txt 1
+data.be.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zdzn.txt 3.5891377275982888

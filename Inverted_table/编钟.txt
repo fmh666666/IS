@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zavg.txt 1
-data.zcjo.txt 3
-data.zctp.txt 1
-data.zdwn.txt 1
+data.zabe.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zcjo.txt 6.470120773454234
+data.zctp.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zabe.txt 1
-data.zarr.txt 1
-data.zcdy.txt 1
-data.zcon.txt 2
-data.zcrk.txt 1
-data.zebc.txt 1
-data.zelt.txt 1
+data.kq.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcon.txt 4.611097637722987
+data.zcrk.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

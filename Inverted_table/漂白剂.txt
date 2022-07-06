@@ -1,12 +1,12 @@
 11
-data.ok.txt 1
-data.zaet.txt 2
-data.zbut.txt 1
-data.zbvg.txt 1
-data.zcoy.txt 2
-data.zcse.txt 1
-data.zdaw.txt 1
-data.zdwn.txt 1
-data.zerv.txt 3
-data.zeva.txt 1
-data.zfai.txt 1
+data.ok.txt 2.6885433903988862
+data.zaet.txt 4.261240455343955
+data.zbut.txt 2.6885433903988862
+data.zbvg.txt 2.6885433903988862
+data.zcoy.txt 4.261240455343955
+data.zcse.txt 2.6885433903988862
+data.zdaw.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zerv.txt 5.3770867807977725
+data.zeva.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

@@ -1,5 +1,5 @@
 4
-data.zafu.txt 1
-data.zbaq.txt 1
-data.zcve.txt 2
-data.zeam.txt 1
+data.zafu.txt 3.389731710180695
+data.zbaq.txt 3.389731710180695
+data.zcve.txt 5.372597648141796
+data.zeam.txt 3.389731710180695

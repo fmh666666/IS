@@ -1,5 +1,5 @@
 4
-data.hc.txt 1
-data.hu.txt 1
-data.zbvn.txt 1
-data.zcdv.txt 1
+data.hc.txt 3.389731710180695
+data.hu.txt 3.389731710180695
+data.zbvn.txt 3.389731710180695
+data.zcdv.txt 3.389731710180695

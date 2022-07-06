@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zaip.txt 1
-data.zaqp.txt 1
-data.zbyb.txt 1
-data.zeaj.txt 1
-data.zfcp.txt 3
+data.bb.txt 3.1086847136800873
+data.zaip.txt 3.1086847136800873
+data.zaqp.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873
+data.zfcp.txt 6.2173694273601745

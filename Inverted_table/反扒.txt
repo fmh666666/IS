@@ -1,9 +1,9 @@
 8
-data.zall.txt 1
-data.zbdb.txt 1
-data.zbkr.txt 1
-data.zdoc.txt 1
-data.zdpf.txt 3
-data.zdsh.txt 1
-data.zedd.txt 1
-data.zefw.txt 2
+data.zall.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zdpf.txt 5.818557392524987
+data.zdsh.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zefw.txt 4.611097637722987

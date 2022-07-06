@@ -1,10 +1,10 @@
 9
-data.mu.txt 1
-data.zalt.txt 1
-data.zbpm.txt 1
-data.zcic.txt 1
-data.zcwn.txt 1
-data.zddp.txt 1
-data.zdoq.txt 1
-data.zecf.txt 3
-data.zfaj.txt 2
+data.mu.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zbpm.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zcwn.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zdoq.txt 2.82763771717948
+data.zecf.txt 5.65527543435896
+data.zfaj.txt 4.48169974735425

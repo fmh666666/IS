@@ -1,4 +1,4 @@
 3
-data.qn.txt 2
-data.zene.txt 1
-data.zeta.txt 2
+data.qn.txt 5.688648708166832
+data.zene.txt 3.5891377275982888
+data.zeta.txt 5.688648708166832

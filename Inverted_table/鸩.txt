@@ -1,10 +1,10 @@
 9
-data.qn.txt 2
-data.tv.txt 1
-data.zaxk.txt 4
-data.zazw.txt 1
-data.zdkc.txt 1
-data.zdod.txt 1
-data.zefw.txt 1
-data.zehp.txt 1
-data.zejn.txt 1
+data.qn.txt 4.48169974735425
+data.tv.txt 2.82763771717948
+data.zaxk.txt 6.565571457682201
+data.zazw.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zejn.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zall.txt 1
-data.zcej.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zeds.txt 1
+data.zall.txt 3.235060386727117
+data.zcej.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zeds.txt 3.235060386727117

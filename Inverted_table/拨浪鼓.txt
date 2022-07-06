@@ -1,7 +1,7 @@
 6
-data.fz.txt 1
-data.zamr.txt 1
-data.zawu.txt 1
-data.zctp.txt 1
-data.zevq.txt 1
-data.zfby.txt 1
+data.fz.txt 3.1086847136800873
+data.zamr.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

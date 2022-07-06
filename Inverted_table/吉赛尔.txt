@@ -1,2 +1,2 @@
 1
-data.zdaq.txt 4
+data.zdaq.txt 10.101867994579104

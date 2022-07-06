@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.mt.txt 1
-data.zapf.txt 1
-data.zbia.txt 1
-data.zdme.txt 1
+data.cz.txt 3.235060386727117
+data.mt.txt 3.235060386727117
+data.zapf.txt 3.235060386727117
+data.zbia.txt 3.235060386727117
+data.zdme.txt 3.235060386727117

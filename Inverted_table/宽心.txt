@@ -1,10 +1,10 @@
 9
-data.vz.txt 1
-data.zaim.txt 1
-data.zakb.txt 1
-data.zbaf.txt 2
-data.zcgi.txt 1
-data.zcse.txt 1
-data.zctm.txt 1
-data.zdqx.txt 1
-data.zduo.txt 2
+data.vz.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zakb.txt 2.82763771717948
+data.zbaf.txt 4.48169974735425
+data.zcgi.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zduo.txt 4.48169974735425

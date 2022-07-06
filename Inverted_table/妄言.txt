@@ -1,10 +1,10 @@
 9
-data.mx.txt 1
-data.op.txt 3
-data.tv.txt 1
-data.tz.txt 1
-data.zadv.txt 3
-data.zarr.txt 1
-data.zaxj.txt 1
-data.zcts.txt 1
-data.zevq.txt 1
+data.mx.txt 2.82763771717948
+data.op.txt 5.65527543435896
+data.tv.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zadv.txt 5.65527543435896
+data.zarr.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

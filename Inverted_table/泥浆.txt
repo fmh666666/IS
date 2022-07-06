@@ -1,14 +1,14 @@
 13
-data.by.txt 1
-data.fp.txt 1
-data.jf.txt 1
-data.ud.txt 1
-data.zacw.txt 1
-data.zafi.txt 1
-data.zapl.txt 6
-data.zbeb.txt 1
-data.zbfx.txt 1
-data.zbqu.txt 1
-data.zclh.txt 2
-data.zdeq.txt 1
-data.zdpg.txt 1
+data.by.txt 2.5727503226135906
+data.fp.txt 2.5727503226135906
+data.jf.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zafi.txt 2.5727503226135906
+data.zapl.txt 7.222623281414552
+data.zbeb.txt 2.5727503226135906
+data.zbfx.txt 2.5727503226135906
+data.zbqu.txt 2.5727503226135906
+data.zclh.txt 4.077712785060798
+data.zdeq.txt 2.5727503226135906
+data.zdpg.txt 2.5727503226135906

@@ -1,4 +1,4 @@
 3
-data.zacd.txt 1
-data.zcxp.txt 1
-data.zexv.txt 1
+data.zacd.txt 3.5891377275982888
+data.zcxp.txt 3.5891377275982888
+data.zexv.txt 3.5891377275982888

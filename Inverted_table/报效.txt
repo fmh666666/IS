@@ -1,4 +1,4 @@
 3
-data.zdcy.txt 1
-data.zeqv.txt 1
-data.zexm.txt 1
+data.zdcy.txt 3.5891377275982888
+data.zeqv.txt 3.5891377275982888
+data.zexm.txt 3.5891377275982888

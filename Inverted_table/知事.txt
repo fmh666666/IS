@@ -1,6 +1,6 @@
 5
-data.ha.txt 3
-data.zawb.txt 2
-data.zbeb.txt 1
-data.zcxq.txt 1
-data.zfaj.txt 1
+data.ha.txt 6.470120773454234
+data.zawb.txt 5.1274494005309625
+data.zbeb.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

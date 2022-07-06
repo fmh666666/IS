@@ -1,5 +1,5 @@
 4
-data.zazn.txt 1
-data.zcdz.txt 1
-data.zcrv.txt 1
-data.zdlw.txt 1
+data.zazn.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695
+data.zcrv.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695

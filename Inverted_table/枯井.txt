@@ -1,4 +1,4 @@
 3
-data.zabe.txt 2
-data.zarr.txt 2
-data.zbjk.txt 1
+data.zabe.txt 5.688648708166832
+data.zarr.txt 5.688648708166832
+data.zbjk.txt 3.5891377275982888

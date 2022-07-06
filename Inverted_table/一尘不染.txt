@@ -1,12 +1,12 @@
 11
-data.bf.txt 1
-data.ew.txt 1
-data.op.txt 1
-data.zblr.txt 1
-data.zcak.txt 1
-data.zcem.txt 1
-data.zdgt.txt 1
-data.zdkc.txt 1
-data.zdrq.txt 1
-data.zdwv.txt 1
-data.zefv.txt 1
+data.bf.txt 2.6885433903988862
+data.ew.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zcak.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zefv.txt 2.6885433903988862

@@ -1,2 +1,2 @@
 1
-data.zeag.txt 4
+data.zeag.txt 10.101867994579104

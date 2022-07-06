@@ -1,11 +1,11 @@
 10
-data.cz.txt 1
-data.mx.txt 1
-data.tv.txt 20
-data.tz.txt 33
-data.zawz.txt 1
-data.zbmw.txt 1
-data.zdof.txt 1
-data.zdrq.txt 1
-data.zedy.txt 1
-data.zess.txt 1
+data.cz.txt 2.7546073728089153
+data.mx.txt 2.7546073728089153
+data.tv.txt 12.099109956503428
+data.tz.txt 14.013962651399579
+data.zawz.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zdrq.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153
+data.zess.txt 2.7546073728089153

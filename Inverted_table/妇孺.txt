@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.tz.txt 1
-data.zblr.txt 1
+data.fp.txt 3.5891377275982888
+data.tz.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888

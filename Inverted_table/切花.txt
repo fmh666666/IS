@@ -1,10 +1,10 @@
 9
-data.ep.txt 1
-data.kt.txt 1
-data.zajh.txt 1
-data.zcnn.txt 1
-data.zdmw.txt 1
-data.zdpg.txt 2
-data.zefs.txt 1
-data.zelt.txt 1
-data.zewp.txt 1
+data.ep.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zdpg.txt 4.48169974735425
+data.zefs.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zewp.txt 2.82763771717948

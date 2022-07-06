@@ -1,5 +1,5 @@
 4
-data.zanh.txt 1
-data.zbjc.txt 32
-data.zdgv.txt 15
-data.zejk.txt 1
+data.zanh.txt 3.389731710180695
+data.zbjc.txt 17.09914270503837
+data.zdgv.txt 13.55892684072278
+data.zejk.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.zarr.txt 1
-data.zaxp.txt 1
-data.zbwa.txt 1
-data.zdgv.txt 1
-data.zexu.txt 1
+data.zarr.txt 3.235060386727117
+data.zaxp.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117
+data.zexu.txt 3.235060386727117

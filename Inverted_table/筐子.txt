@@ -1,4 +1,4 @@
 3
-data.zbzo.txt 1
-data.zcao.txt 1
-data.zefp.txt 1
+data.zbzo.txt 3.5891377275982888
+data.zcao.txt 3.5891377275982888
+data.zefp.txt 3.5891377275982888

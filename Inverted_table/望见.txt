@@ -1,9 +1,9 @@
 8
-data.gk.txt 1
-data.jd.txt 1
-data.zaxj.txt 1
-data.zaxp.txt 1
-data.zbhd.txt 1
-data.zbil.txt 1
-data.zbor.txt 1
-data.zdaw.txt 2
+data.gk.txt 2.9092786962624935
+data.jd.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zbil.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zdaw.txt 4.611097637722987

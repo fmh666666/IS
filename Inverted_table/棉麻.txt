@@ -1,14 +1,14 @@
 13
-data.ee.txt 1
-data.ka.txt 1
-data.ng.txt 1
-data.op.txt 1
-data.zadv.txt 1
-data.zasq.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zbsl.txt 1
-data.zcbm.txt 2
-data.zddx.txt 1
-data.zeds.txt 1
-data.zexm.txt 1
+data.ee.txt 2.5727503226135906
+data.ka.txt 2.5727503226135906
+data.ng.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zasq.txt 2.5727503226135906
+data.zbhd.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zbsl.txt 2.5727503226135906
+data.zcbm.txt 4.077712785060798
+data.zddx.txt 2.5727503226135906
+data.zeds.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906

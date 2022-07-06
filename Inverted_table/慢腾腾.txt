@@ -1,2 +1,2 @@
 1
-data.ep.txt 7
+data.ep.txt 13.051913214051293

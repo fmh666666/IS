@@ -1,6 +1,6 @@
 5
-data.tv.txt 5
-data.tz.txt 1
-data.zbcc.txt 1
-data.zczl.txt 1
-data.zeqh.txt 1
+data.tv.txt 8.362509787258078
+data.tz.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zczl.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

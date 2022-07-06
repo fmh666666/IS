@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.fp.txt 1
-data.ka.txt 1
-data.zcmx.txt 1
-data.zdzi.txt 1
+data.ep.txt 3.235060386727117
+data.fp.txt 3.235060386727117
+data.ka.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117

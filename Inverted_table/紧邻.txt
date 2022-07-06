@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.zasw.txt 1
-data.zbfz.txt 1
-data.zbhe.txt 1
-data.zcpa.txt 1
-data.zcpx.txt 1
-data.zcqg.txt 1
-data.zdcw.txt 1
-data.zdga.txt 1
-data.zehj.txt 1
-data.zewg.txt 4
-data.zfae.txt 1
-data.zfas.txt 1
+data.fp.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zbfz.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zcpa.txt 2.5727503226135906
+data.zcpx.txt 2.5727503226135906
+data.zcqg.txt 2.5727503226135906
+data.zdcw.txt 2.5727503226135906
+data.zdga.txt 2.5727503226135906
+data.zehj.txt 2.5727503226135906
+data.zewg.txt 5.97374125520702
+data.zfae.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906

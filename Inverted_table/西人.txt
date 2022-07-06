@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.zanm.txt 1
-data.zejn.txt 2
+data.bs.txt 3.5891377275982888
+data.zanm.txt 3.5891377275982888
+data.zejn.txt 5.688648708166832

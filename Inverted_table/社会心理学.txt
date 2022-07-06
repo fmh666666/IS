@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zcql.txt 1
-data.zcts.txt 1
-data.zdcy.txt 1
-data.zebn.txt 1
+data.zaim.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zebn.txt 3.235060386727117

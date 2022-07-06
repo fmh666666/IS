@@ -1,11 +1,11 @@
 10
-data.ev.txt 1
-data.zapf.txt 1
-data.zarr.txt 1
-data.zbrj.txt 1
-data.zbse.txt 1
-data.zcak.txt 1
-data.zcpx.txt 1
-data.zdds.txt 1
-data.zdoc.txt 1
-data.zfai.txt 1
+data.ev.txt 2.7546073728089153
+data.zapf.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zbse.txt 2.7546073728089153
+data.zcak.txt 2.7546073728089153
+data.zcpx.txt 2.7546073728089153
+data.zdds.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

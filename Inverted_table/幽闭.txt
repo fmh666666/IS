@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.hg.txt 1
-data.zbel.txt 1
-data.zbtj.txt 1
-data.zcef.txt 2
-data.zdll.txt 1
-data.zemb.txt 1
-data.zesq.txt 1
+data.gw.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbtj.txt 2.9092786962624935
+data.zcef.txt 4.611097637722987
+data.zdll.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935

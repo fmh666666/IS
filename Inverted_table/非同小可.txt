@@ -1,5 +1,5 @@
 4
-data.zafq.txt 1
-data.zawu.txt 1
-data.zeaf.txt 1
-data.zeec.txt 1
+data.zafq.txt 3.389731710180695
+data.zawu.txt 3.389731710180695
+data.zeaf.txt 3.389731710180695
+data.zeec.txt 3.389731710180695

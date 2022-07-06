@@ -1,11 +1,11 @@
 10
-data.cn.txt 1
-data.kt.txt 1
-data.zawo.txt 1
-data.zbzf.txt 2
-data.zcaq.txt 1
-data.zcdz.txt 1
-data.zcis.txt 1
-data.zduo.txt 1
-data.zfai.txt 1
-data.zfaz.txt 1
+data.cn.txt 2.7546073728089153
+data.kt.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbzf.txt 4.365949390112154
+data.zcaq.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcis.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

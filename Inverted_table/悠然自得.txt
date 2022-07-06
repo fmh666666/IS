@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.zbqu.txt 1
-data.zctp.txt 1
-data.zeam.txt 1
-data.zeeh.txt 1
-data.zene.txt 1
-data.zeoo.txt 1
-data.zezh.txt 1
+data.ek.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935

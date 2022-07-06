@@ -1,14 +1,14 @@
 13
-data.aj.txt 1
-data.zard.txt 2
-data.zaxj.txt 10
-data.zaxk.txt 8
-data.zbga.txt 1
-data.zbts.txt 2
-data.zcqe.txt 1
-data.zcxp.txt 1
-data.zdkc.txt 1
-data.zdof.txt 1
-data.zedy.txt 3
-data.zeqh.txt 5
-data.zesq.txt 3
+data.aj.txt 2.5727503226135906
+data.zard.txt 4.077712785060798
+data.zaxj.txt 8.900253812908762
+data.zaxk.txt 8.155425570121595
+data.zbga.txt 2.5727503226135906
+data.zbts.txt 4.077712785060798
+data.zcqe.txt 2.5727503226135906
+data.zcxp.txt 2.5727503226135906
+data.zdkc.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zedy.txt 5.145500645227181
+data.zeqh.txt 6.650463107674388
+data.zesq.txt 5.145500645227181

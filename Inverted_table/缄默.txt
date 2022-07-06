@@ -1,14 +1,14 @@
 13
-data.fe.txt 1
-data.zabj.txt 1
-data.zahd.txt 1
-data.zajh.txt 1
-data.zbpm.txt 1
-data.zbux.txt 1
-data.zcef.txt 1
-data.zdds.txt 2
-data.zeai.txt 1
-data.zeam.txt 1
-data.zedx.txt 1
-data.zewd.txt 1
-data.zexx.txt 1
+data.fe.txt 2.5727503226135906
+data.zabj.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zbpm.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zcef.txt 2.5727503226135906
+data.zdds.txt 4.077712785060798
+data.zeai.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zedx.txt 2.5727503226135906
+data.zewd.txt 2.5727503226135906
+data.zexx.txt 2.5727503226135906

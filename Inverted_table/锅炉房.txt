@@ -1,12 +1,12 @@
 11
-data.yx.txt 1
-data.zafv.txt 1
-data.zapl.txt 1
-data.zbor.txt 1
-data.zbtx.txt 1
-data.zbyv.txt 1
-data.zdgp.txt 1
-data.zdkc.txt 1
-data.zdpg.txt 1
-data.zfae.txt 1
-data.zfaj.txt 1
+data.yx.txt 2.6885433903988862
+data.zafv.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zbtx.txt 2.6885433903988862
+data.zbyv.txt 2.6885433903988862
+data.zdgp.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdpg.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

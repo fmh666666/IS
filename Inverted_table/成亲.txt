@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.tv.txt 3
-data.uz.txt 1
-data.zabe.txt 1
-data.zafq.txt 1
-data.zaoy.txt 1
-data.zayc.txt 2
-data.zbph.txt 1
-data.zchw.txt 1
-data.zcis.txt 1
-data.zedy.txt 1
+data.bb.txt 2.6885433903988862
+data.tv.txt 5.3770867807977725
+data.uz.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zafq.txt 2.6885433903988862
+data.zaoy.txt 2.6885433903988862
+data.zayc.txt 4.261240455343955
+data.zbph.txt 2.6885433903988862
+data.zchw.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zedy.txt 2.6885433903988862

@@ -1,6 +1,6 @@
 5
-data.zbhe.txt 2
-data.zbhv.txt 1
-data.zbkf.txt 1
-data.zctm.txt 1
-data.zewv.txt 2
+data.zbhe.txt 5.1274494005309625
+data.zbhv.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zctm.txt 3.235060386727117
+data.zewv.txt 5.1274494005309625

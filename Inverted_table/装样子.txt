@@ -1,11 +1,11 @@
 10
-data.ha.txt 1
-data.op.txt 1
-data.zalj.txt 1
-data.zbnx.txt 1
-data.zcjy.txt 1
-data.zcon.txt 1
-data.zdcy.txt 3
-data.zdeb.txt 1
-data.zduk.txt 1
-data.zene.txt 1
+data.ha.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zalj.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zcjy.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zdcy.txt 5.509214745617831
+data.zdeb.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

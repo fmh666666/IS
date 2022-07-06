@@ -1,3 +1,3 @@
 2
-data.zcmv.txt 1
-data.zcpc.txt 1
+data.zcmv.txt 3.8701847240988965
+data.zcpc.txt 3.8701847240988965

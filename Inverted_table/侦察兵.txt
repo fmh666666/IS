@@ -1,4 +1,4 @@
 3
-data.zasw.txt 1
-data.zbsm.txt 1
-data.zevq.txt 1
+data.zasw.txt 3.5891377275982888
+data.zbsm.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

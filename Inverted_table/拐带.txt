@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.tv.txt 1
-data.zajn.txt 2
-data.zaql.txt 1
-data.zawb.txt 1
-data.zbfp.txt 1
-data.zbtj.txt 1
-data.zcdv.txt 1
-data.zdep.txt 1
-data.zenn.txt 1
-data.zeva.txt 1
-data.zfae.txt 1
+data.bs.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.zajn.txt 4.165648687329214
+data.zaql.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbfp.txt 2.628231699761886
+data.zbtj.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zdep.txt 2.628231699761886
+data.zenn.txt 2.628231699761886
+data.zeva.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

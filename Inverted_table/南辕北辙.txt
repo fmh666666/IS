@@ -1,11 +1,11 @@
 10
-data.co.txt 2
-data.zapf.txt 1
-data.zarr.txt 1
-data.zavg.txt 1
-data.zazo.txt 1
-data.zbnx.txt 1
-data.zcdl.txt 1
-data.zcsu.txt 1
-data.zctp.txt 1
-data.zdmw.txt 1
+data.co.txt 4.365949390112154
+data.zapf.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zazo.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zcdl.txt 2.7546073728089153
+data.zcsu.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153

@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.nh.txt 1
-data.zaoy.txt 1
-data.zapl.txt 1
-data.zbpc.txt 1
-data.zcqg.txt 1
-data.zdll.txt 1
-data.zdpw.txt 1
-data.zelt.txt 1
-data.zexk.txt 1
+data.bf.txt 2.7546073728089153
+data.nh.txt 2.7546073728089153
+data.zaoy.txt 2.7546073728089153
+data.zapl.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zcqg.txt 2.7546073728089153
+data.zdll.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zexk.txt 2.7546073728089153

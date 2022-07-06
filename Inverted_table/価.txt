@@ -1,4 +1,4 @@
 3
-data.be.txt 2
-data.zdwv.txt 1
-data.zegn.txt 2
+data.be.txt 5.688648708166832
+data.zdwv.txt 3.5891377275982888
+data.zegn.txt 5.688648708166832

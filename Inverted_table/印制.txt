@@ -1,13 +1,13 @@
 12
-data.dg.txt 1
-data.ok.txt 1
-data.tz.txt 1
-data.zatz.txt 1
-data.zawo.txt 3
-data.zblr.txt 2
-data.zbmt.txt 1
-data.zbyv.txt 1
-data.zctm.txt 1
-data.zdkk.txt 2
-data.zdvl.txt 1
-data.zewv.txt 1
+data.dg.txt 2.628231699761886
+data.ok.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zatz.txt 2.628231699761886
+data.zawo.txt 5.256463399523772
+data.zblr.txt 4.165648687329214
+data.zbmt.txt 2.628231699761886
+data.zbyv.txt 2.628231699761886
+data.zctm.txt 2.628231699761886
+data.zdkk.txt 4.165648687329214
+data.zdvl.txt 2.628231699761886
+data.zewv.txt 2.628231699761886

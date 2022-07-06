@@ -1,6 +1,6 @@
 5
-data.to.txt 2
-data.zbpm.txt 1
-data.zefw.txt 1
-data.zevq.txt 1
-data.zfaj.txt 1
+data.to.txt 5.1274494005309625
+data.zbpm.txt 3.235060386727117
+data.zefw.txt 3.235060386727117
+data.zevq.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

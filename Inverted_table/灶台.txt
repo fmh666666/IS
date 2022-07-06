@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.zawu.txt 1
-data.zbht.txt 2
-data.zcem.txt 1
-data.zdar.txt 1
-data.zddv.txt 1
-data.zdeb.txt 1
-data.zefp.txt 2
-data.zeoh.txt 1
+data.hp.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zbht.txt 4.48169974735425
+data.zcem.txt 2.82763771717948
+data.zdar.txt 2.82763771717948
+data.zddv.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zefp.txt 4.48169974735425
+data.zeoh.txt 2.82763771717948

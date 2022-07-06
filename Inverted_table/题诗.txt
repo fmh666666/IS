@@ -1,4 +1,4 @@
 3
-data.zbre.txt 1
-data.zdfl.txt 1
-data.zeoh.txt 1
+data.zbre.txt 3.5891377275982888
+data.zdfl.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888

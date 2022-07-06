@@ -1,10 +1,10 @@
 9
-data.mx.txt 1
-data.zabx.txt 3
-data.zakb.txt 3
-data.zaop.txt 2
-data.zbaq.txt 1
-data.zbha.txt 3
-data.zdkk.txt 3
-data.zdzg.txt 1
-data.zezy.txt 1
+data.mx.txt 2.82763771717948
+data.zabx.txt 5.65527543435896
+data.zakb.txt 5.65527543435896
+data.zaop.txt 4.48169974735425
+data.zbaq.txt 2.82763771717948
+data.zbha.txt 5.65527543435896
+data.zdkk.txt 5.65527543435896
+data.zdzg.txt 2.82763771717948
+data.zezy.txt 2.82763771717948

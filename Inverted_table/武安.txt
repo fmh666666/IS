@@ -1,5 +1,5 @@
 4
-data.zagr.txt 2
-data.zbfr.txt 1
-data.zcuh.txt 1
-data.zexv.txt 1
+data.zagr.txt 5.372597648141796
+data.zbfr.txt 3.389731710180695
+data.zcuh.txt 3.389731710180695
+data.zexv.txt 3.389731710180695

@@ -1,9 +1,9 @@
 8
-data.hu.txt 1
-data.zafi.txt 1
-data.zanh.txt 1
-data.zasj.txt 1
-data.zccx.txt 1
-data.zdwd.txt 1
-data.zedy.txt 1
-data.zehb.txt 1
+data.hu.txt 2.9092786962624935
+data.zafi.txt 2.9092786962624935
+data.zanh.txt 2.9092786962624935
+data.zasj.txt 2.9092786962624935
+data.zccx.txt 2.9092786962624935
+data.zdwd.txt 2.9092786962624935
+data.zedy.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935

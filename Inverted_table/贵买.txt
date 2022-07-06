@@ -1,4 +1,4 @@
 3
-data.vz.txt 1
-data.zajn.txt 1
-data.zbkf.txt 1
+data.vz.txt 3.5891377275982888
+data.zajn.txt 3.5891377275982888
+data.zbkf.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.uz.txt 1
-data.zcpx.txt 1
-data.zerv.txt 1
+data.uz.txt 3.5891377275982888
+data.zcpx.txt 3.5891377275982888
+data.zerv.txt 3.5891377275982888

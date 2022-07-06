@@ -1,4 +1,4 @@
 3
-data.zbse.txt 1
-data.zcdy.txt 1
-data.zeaj.txt 1
+data.zbse.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zeaj.txt 3.5891377275982888

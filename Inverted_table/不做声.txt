@@ -1,4 +1,4 @@
 3
-data.zbzf.txt 1
-data.zcic.txt 1
-data.zeun.txt 1
+data.zbzf.txt 3.5891377275982888
+data.zcic.txt 3.5891377275982888
+data.zeun.txt 3.5891377275982888

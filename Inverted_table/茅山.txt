@@ -1,6 +1,6 @@
 5
-data.zckd.txt 1
-data.zcpa.txt 1
-data.zcxh.txt 1
-data.zdll.txt 1
-data.zeqv.txt 2
+data.zckd.txt 3.235060386727117
+data.zcpa.txt 3.235060386727117
+data.zcxh.txt 3.235060386727117
+data.zdll.txt 3.235060386727117
+data.zeqv.txt 5.1274494005309625

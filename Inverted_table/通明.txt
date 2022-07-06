@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.pn.txt 1
-data.vm.txt 1
-data.zaeh.txt 1
-data.zaqp.txt 1
-data.zayv.txt 1
-data.zbhe.txt 1
-data.zeeh.txt 1
-data.zerv.txt 1
+data.ka.txt 2.82763771717948
+data.pn.txt 2.82763771717948
+data.vm.txt 2.82763771717948
+data.zaeh.txt 2.82763771717948
+data.zaqp.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zeeh.txt 2.82763771717948
+data.zerv.txt 2.82763771717948

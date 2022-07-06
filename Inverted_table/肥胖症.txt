@@ -1,6 +1,6 @@
 5
-data.zcue.txt 1
-data.zdju.txt 1
-data.zdkp.txt 1
-data.zdnc.txt 1
-data.zeeq.txt 1
+data.zcue.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zdnc.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

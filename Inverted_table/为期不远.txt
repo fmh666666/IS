@@ -1,2 +1,2 @@
 1
-data.zdju.txt 2
+data.zdju.txt 6.8955976689794145

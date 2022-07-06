@@ -1,10 +1,10 @@
 9
-data.vi.txt 1
-data.zbcj.txt 1
-data.zbpc.txt 1
-data.zcee.txt 1
-data.zcef.txt 2
-data.zcvi.txt 1
-data.zcvt.txt 1
-data.zeeh.txt 1
-data.zeva.txt 2
+data.vi.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbpc.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zcef.txt 4.48169974735425
+data.zcvi.txt 2.82763771717948
+data.zcvt.txt 2.82763771717948
+data.zeeh.txt 2.82763771717948
+data.zeva.txt 4.48169974735425

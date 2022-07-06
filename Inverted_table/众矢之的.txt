@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.fp.txt 1
-data.zajh.txt 1
-data.zcrn.txt 1
-data.zdpz.txt 1
-data.zefp.txt 2
+data.cz.txt 3.1086847136800873
+data.fp.txt 3.1086847136800873
+data.zajh.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873
+data.zdpz.txt 3.1086847136800873
+data.zefp.txt 4.927148697748023

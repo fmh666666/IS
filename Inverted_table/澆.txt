@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zbjk.txt 1
-data.zbvp.txt 1
-data.zclh.txt 3
-data.zemf.txt 1
+data.ga.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zclh.txt 6.470120773454234
+data.zemf.txt 3.235060386727117

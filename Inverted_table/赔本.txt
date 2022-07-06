@@ -1,9 +1,9 @@
 8
-data.zbhd.txt 1
-data.zcao.txt 1
-data.zcdy.txt 1
-data.zcll.txt 1
-data.zcsu.txt 1
-data.zcue.txt 1
-data.zdzm.txt 1
-data.zeyy.txt 1
+data.zbhd.txt 2.9092786962624935
+data.zcao.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcll.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zeyy.txt 2.9092786962624935

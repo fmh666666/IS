@@ -1,10 +1,10 @@
 9
-data.zaic.txt 1
-data.zalm.txt 1
-data.zane.txt 1
-data.zbhe.txt 1
-data.zbjq.txt 1
-data.zcnn.txt 1
-data.zdlg.txt 1
-data.zexu.txt 1
-data.zeyy.txt 1
+data.zaic.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zane.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zbjq.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zdlg.txt 2.82763771717948
+data.zexu.txt 2.82763771717948
+data.zeyy.txt 2.82763771717948

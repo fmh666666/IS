@@ -1,6 +1,6 @@
 5
-data.zaxk.txt 1
-data.zbla.txt 2
-data.zcgi.txt 1
-data.zcsu.txt 1
-data.zeil.txt 1
+data.zaxk.txt 3.235060386727117
+data.zbla.txt 5.1274494005309625
+data.zcgi.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zeil.txt 3.235060386727117

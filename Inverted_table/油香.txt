@@ -1,11 +1,11 @@
 10
-data.ee.txt 2
-data.zcls.txt 1
-data.zddb.txt 1
-data.zdga.txt 1
-data.zdlo.txt 1
-data.zdod.txt 1
-data.zdwk.txt 1
-data.zeoh.txt 1
-data.zesi.txt 1
-data.zety.txt 1
+data.ee.txt 4.365949390112154
+data.zcls.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zdga.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zdwk.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zesi.txt 2.7546073728089153
+data.zety.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.zarr.txt 1
-data.zawb.txt 1
-data.zaxp.txt 1
-data.zbhd.txt 2
-data.zbkv.txt 1
-data.zczj.txt 1
-data.zeag.txt 1
-data.zfai.txt 1
+data.zarr.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbhd.txt 4.611097637722987
+data.zbkv.txt 2.9092786962624935
+data.zczj.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

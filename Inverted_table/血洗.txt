@@ -1,10 +1,10 @@
 9
-data.zaqf.txt 1
-data.zbkv.txt 1
-data.zcby.txt 1
-data.zcfn.txt 1
-data.zcgi.txt 1
-data.zctn.txt 2
-data.zdof.txt 1
-data.zehp.txt 1
-data.zewd.txt 1
+data.zaqf.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zcby.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcgi.txt 2.82763771717948
+data.zctn.txt 4.48169974735425
+data.zdof.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zewd.txt 2.82763771717948

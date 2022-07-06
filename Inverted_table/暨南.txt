@@ -1,10 +1,10 @@
 9
-data.hg.txt 1
-data.mt.txt 1
-data.vm.txt 1
-data.zbcv.txt 1
-data.zbvm.txt 2
-data.zdou.txt 2
-data.zdpz.txt 1
-data.zeay.txt 1
-data.zfbr.txt 1
+data.hg.txt 2.82763771717948
+data.mt.txt 2.82763771717948
+data.vm.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zbvm.txt 4.48169974735425
+data.zdou.txt 4.48169974735425
+data.zdpz.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zfbr.txt 2.82763771717948

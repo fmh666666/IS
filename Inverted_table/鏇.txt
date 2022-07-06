@@ -1,2 +1,2 @@
 1
-data.zbpp.txt 2
+data.zbpp.txt 6.8955976689794145

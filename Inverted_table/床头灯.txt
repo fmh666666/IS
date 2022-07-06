@@ -1,4 +1,4 @@
 3
-data.zbmw.txt 2
-data.zcoy.txt 1
-data.zcql.txt 1
+data.zbmw.txt 5.688648708166832
+data.zcoy.txt 3.5891377275982888
+data.zcql.txt 3.5891377275982888

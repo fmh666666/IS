@@ -1,2 +1,2 @@
 1
-data.zdpz.txt 2
+data.zdpz.txt 6.8955976689794145

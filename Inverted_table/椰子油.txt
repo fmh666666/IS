@@ -1,5 +1,5 @@
 4
-data.by.txt 1
-data.zcih.txt 2
-data.zczp.txt 1
-data.zeel.txt 2
+data.by.txt 3.389731710180695
+data.zcih.txt 5.372597648141796
+data.zczp.txt 3.389731710180695
+data.zeel.txt 5.372597648141796

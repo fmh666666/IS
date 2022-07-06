@@ -1,9 +1,9 @@
 8
-data.zbfr.txt 1
-data.zbor.txt 1
-data.zcdv.txt 1
-data.zcef.txt 1
-data.zdaw.txt 1
-data.zdwd.txt 1
-data.zebv.txt 1
-data.zeyy.txt 1
+data.zbfr.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zdaw.txt 2.9092786962624935
+data.zdwd.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935
+data.zeyy.txt 2.9092786962624935

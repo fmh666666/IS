@@ -1,3 +1,3 @@
 2
-data.zbkr.txt 1
-data.zfae.txt 2
+data.zbkr.txt 3.8701847240988965
+data.zfae.txt 6.134097658560606

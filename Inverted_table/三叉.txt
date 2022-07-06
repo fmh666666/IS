@@ -1,10 +1,10 @@
 9
-data.jf.txt 1
-data.op.txt 1
-data.zacp.txt 1
-data.zbzf.txt 1
-data.zcda.txt 1
-data.zcql.txt 1
-data.zcve.txt 1
-data.zdaq.txt 2
-data.zdby.txt 1
+data.jf.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zacp.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zcda.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zdaq.txt 4.48169974735425
+data.zdby.txt 2.82763771717948

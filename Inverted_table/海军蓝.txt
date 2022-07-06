@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zawm.txt 1
-data.zcko.txt 4
-data.zcql.txt 2
-data.zeay.txt 2
+data.ng.txt 3.235060386727117
+data.zawm.txt 3.235060386727117
+data.zcko.txt 7.511577600598868
+data.zcql.txt 5.1274494005309625
+data.zeay.txt 5.1274494005309625

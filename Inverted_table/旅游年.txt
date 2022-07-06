@@ -1,4 +1,4 @@
 3
-data.ft.txt 1
-data.zbmt.txt 1
-data.zbrj.txt 1
+data.ft.txt 3.5891377275982888
+data.zbmt.txt 3.5891377275982888
+data.zbrj.txt 3.5891377275982888

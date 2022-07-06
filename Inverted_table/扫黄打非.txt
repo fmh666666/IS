@@ -1,4 +1,4 @@
 3
-data.zajh.txt 1
-data.zdof.txt 1
-data.zefd.txt 1
+data.zajh.txt 3.5891377275982888
+data.zdof.txt 3.5891377275982888
+data.zefd.txt 3.5891377275982888

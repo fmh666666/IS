@@ -1,11 +1,11 @@
 10
-data.tj.txt 1
-data.zawb.txt 1
-data.zbkr.txt 1
-data.zcoy.txt 1
-data.zcvi.txt 1
-data.zdeb.txt 1
-data.zdoq.txt 1
-data.zdpf.txt 1
-data.zdzi.txt 1
-data.zelt.txt 1
+data.tj.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbkr.txt 2.7546073728089153
+data.zcoy.txt 2.7546073728089153
+data.zcvi.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zdzi.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.zajo.txt 1
-data.zbhd.txt 1
-data.zdzg.txt 1
+data.bs.txt 3.389731710180695
+data.zajo.txt 3.389731710180695
+data.zbhd.txt 3.389731710180695
+data.zdzg.txt 3.389731710180695

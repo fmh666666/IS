@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.zaqw.txt 1
-data.zbcj.txt 1
-data.zddb.txt 1
-data.zfaw.txt 1
+data.cf.txt 3.235060386727117
+data.zaqw.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

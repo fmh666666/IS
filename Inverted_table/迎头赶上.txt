@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcll.txt 1
-data.zcmx.txt 1
-data.zdaq.txt 1
+data.op.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcdz.txt 4.927148697748023
+data.zcll.txt 3.1086847136800873
+data.zcmx.txt 3.1086847136800873
+data.zdaq.txt 3.1086847136800873

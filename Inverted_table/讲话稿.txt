@@ -1,6 +1,6 @@
 5
-data.zaxx.txt 1
-data.zcdy.txt 2
-data.zcxq.txt 2
-data.zfae.txt 1
-data.zfaj.txt 1
+data.zaxx.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zcxq.txt 5.1274494005309625
+data.zfae.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

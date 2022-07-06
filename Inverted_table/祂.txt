@@ -1,12 +1,12 @@
 11
-data.ep.txt 1
-data.zako.txt 3
-data.zawo.txt 1
-data.zbjh.txt 3
-data.zbkj.txt 1
-data.zbph.txt 1
-data.zbye.txt 3
-data.zcdg.txt 1
-data.zcis.txt 2
-data.zdvl.txt 2
-data.zene.txt 1
+data.ep.txt 2.6885433903988862
+data.zako.txt 5.3770867807977725
+data.zawo.txt 2.6885433903988862
+data.zbjh.txt 5.3770867807977725
+data.zbkj.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zbye.txt 5.3770867807977725
+data.zcdg.txt 2.6885433903988862
+data.zcis.txt 4.261240455343955
+data.zdvl.txt 4.261240455343955
+data.zene.txt 2.6885433903988862

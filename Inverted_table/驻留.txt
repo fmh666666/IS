@@ -1,13 +1,13 @@
 12
-data.jd.txt 1
-data.wc.txt 1
-data.zbkf.txt 1
-data.zblr.txt 1
-data.zcgi.txt 1
-data.zcln.txt 1
-data.zdeb.txt 1
-data.zdsh.txt 1
-data.zdvl.txt 1
-data.zedy.txt 1
-data.zehp.txt 1
-data.zezy.txt 1
+data.jd.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.zbkf.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdsh.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zedy.txt 2.628231699761886
+data.zehp.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

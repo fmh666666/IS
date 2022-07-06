@@ -1,5 +1,5 @@
 4
-data.zbpm.txt 2
-data.zcvt.txt 1
-data.zehb.txt 2
-data.zeoo.txt 2
+data.zbpm.txt 5.372597648141796
+data.zcvt.txt 3.389731710180695
+data.zehb.txt 5.372597648141796
+data.zeoo.txt 5.372597648141796

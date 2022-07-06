@@ -1,7 +1,7 @@
 6
-data.zbfz.txt 2
-data.zcdg.txt 3
-data.zcem.txt 1
-data.zczb.txt 1
-data.zdzn.txt 1
-data.zfdk.txt 3
+data.zbfz.txt 4.927148697748023
+data.zcdg.txt 6.2173694273601745
+data.zcem.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873
+data.zfdk.txt 6.2173694273601745

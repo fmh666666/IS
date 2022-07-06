@@ -1,4 +1,4 @@
 3
-data.tv.txt 3
-data.zdaw.txt 2
-data.zdgt.txt 1
+data.tv.txt 7.1782754551965775
+data.zdaw.txt 5.688648708166832
+data.zdgt.txt 3.5891377275982888

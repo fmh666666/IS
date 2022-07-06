@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.zbfp.txt 1
-data.zbse.txt 1
-data.zczl.txt 1
-data.zddv.txt 2
-data.zeyu.txt 1
-data.zezy.txt 1
+data.kq.txt 3.0018356045764243
+data.zbfp.txt 3.0018356045764243
+data.zbse.txt 3.0018356045764243
+data.zczl.txt 3.0018356045764243
+data.zddv.txt 4.757796866583254
+data.zeyu.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

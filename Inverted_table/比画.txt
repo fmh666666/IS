@@ -1,7 +1,7 @@
 6
-data.ud.txt 1
-data.zapl.txt 1
-data.zate.txt 1
-data.zdlm.txt 1
-data.zdod.txt 1
-data.zdwn.txt 2
+data.ud.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zdlm.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zdwn.txt 4.927148697748023

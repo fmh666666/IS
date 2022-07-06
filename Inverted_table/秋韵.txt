@@ -1,6 +1,6 @@
 5
-data.zabe.txt 2
-data.zbel.txt 1
-data.zcln.txt 3
-data.zfai.txt 1
-data.zfaj.txt 1
+data.zabe.txt 5.1274494005309625
+data.zbel.txt 3.235060386727117
+data.zcln.txt 6.470120773454234
+data.zfai.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

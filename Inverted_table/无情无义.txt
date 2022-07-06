@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zagr.txt 1
-data.zarr.txt 1
-data.zbkj.txt 1
-data.zcdg.txt 1
-data.zcpx.txt 1
-data.zcrv.txt 1
-data.zctn.txt 2
+data.ok.txt 2.9092786962624935
+data.zagr.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zcrv.txt 2.9092786962624935
+data.zctn.txt 4.611097637722987

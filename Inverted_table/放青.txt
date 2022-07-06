@@ -1,10 +1,10 @@
 9
-data.ev.txt 1
-data.gz.txt 1
-data.ha.txt 1
-data.ka.txt 1
-data.zasw.txt 1
-data.zczj.txt 1
-data.zdcj.txt 1
-data.zedk.txt 2
-data.zeew.txt 1
+data.ev.txt 2.82763771717948
+data.gz.txt 2.82763771717948
+data.ha.txt 2.82763771717948
+data.ka.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zedk.txt 4.48169974735425
+data.zeew.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.zbdx.txt 1
-data.zddv.txt 1
-data.zewd.txt 3
+data.zbdx.txt 3.5891377275982888
+data.zddv.txt 3.5891377275982888
+data.zewd.txt 7.1782754551965775

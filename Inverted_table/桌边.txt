@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zacw.txt 1
-data.zbut.txt 1
-data.zbzf.txt 1
-data.zcjo.txt 1
+data.bf.txt 3.235060386727117
+data.zacw.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcjo.txt 3.235060386727117

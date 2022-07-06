@@ -1,14 +1,14 @@
 13
-data.en.txt 1
-data.mk.txt 1
-data.vm.txt 1
-data.yx.txt 1
-data.zaxj.txt 1
-data.zaxk.txt 1
-data.zazx.txt 1
-data.zbjk.txt 1
-data.zbtx.txt 1
-data.zcda.txt 1
-data.zdey.txt 1
-data.zdod.txt 1
-data.zdrq.txt 1
+data.en.txt 2.5727503226135906
+data.mk.txt 2.5727503226135906
+data.vm.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zazx.txt 2.5727503226135906
+data.zbjk.txt 2.5727503226135906
+data.zbtx.txt 2.5727503226135906
+data.zcda.txt 2.5727503226135906
+data.zdey.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zdrq.txt 2.5727503226135906

@@ -1,7 +1,7 @@
 6
-data.zafq.txt 1
-data.zaoo.txt 1
-data.zbfd.txt 2
-data.zcfn.txt 1
-data.zebn.txt 1
-data.zene.txt 1
+data.zafq.txt 3.1086847136800873
+data.zaoo.txt 3.1086847136800873
+data.zbfd.txt 4.927148697748023
+data.zcfn.txt 3.1086847136800873
+data.zebn.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

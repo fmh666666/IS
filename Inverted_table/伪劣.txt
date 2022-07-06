@@ -1,7 +1,7 @@
 6
-data.jd.txt 1
-data.nh.txt 1
-data.zdpf.txt 1
-data.zelt.txt 1
-data.zfai.txt 2
-data.zfaj.txt 1
+data.jd.txt 3.1086847136800873
+data.nh.txt 3.1086847136800873
+data.zdpf.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zfai.txt 4.927148697748023
+data.zfaj.txt 3.1086847136800873

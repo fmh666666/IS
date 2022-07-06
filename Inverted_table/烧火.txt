@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.zagr.txt 1
-data.zbru.txt 2
-data.zcsu.txt 1
-data.zcwn.txt 1
-data.zdji.txt 1
-data.zdpw.txt 1
-data.zdrq.txt 1
-data.zfae.txt 1
+data.hp.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zbru.txt 4.48169974735425
+data.zcsu.txt 2.82763771717948
+data.zcwn.txt 2.82763771717948
+data.zdji.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

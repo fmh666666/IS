@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.jd.txt 1
-data.zaxj.txt 2
-data.zbnx.txt 1
-data.zdgt.txt 1
-data.zexm.txt 1
+data.cz.txt 3.1086847136800873
+data.jd.txt 3.1086847136800873
+data.zaxj.txt 4.927148697748023
+data.zbnx.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

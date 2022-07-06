@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zcby.txt 1
-data.zejk.txt 1
-data.zeos.txt 1
-data.zexx.txt 1
+data.vm.txt 3.235060386727117
+data.zcby.txt 3.235060386727117
+data.zejk.txt 3.235060386727117
+data.zeos.txt 3.235060386727117
+data.zexx.txt 3.235060386727117

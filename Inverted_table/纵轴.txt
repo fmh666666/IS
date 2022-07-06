@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zapl.txt 1
-data.zaxx.txt 2
-data.zczp.txt 2
-data.zfaz.txt 1
+data.zahd.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zaxx.txt 5.1274494005309625
+data.zczp.txt 5.1274494005309625
+data.zfaz.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.xk.txt 1
-data.zacw.txt 2
-data.zarr.txt 1
-data.zcpc.txt 1
-data.zcxh.txt 1
-data.zdeq.txt 1
-data.zdou.txt 1
-data.zehb.txt 1
-data.zeoh.txt 1
+data.xk.txt 2.82763771717948
+data.zacw.txt 4.48169974735425
+data.zarr.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zcxh.txt 2.82763771717948
+data.zdeq.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zehb.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

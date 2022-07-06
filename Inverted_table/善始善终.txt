@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.zabx.txt 1
-data.zaoy.txt 1
-data.zcel.txt 1
-data.zdzm.txt 1
-data.zedk.txt 1
-data.zelt.txt 1
-data.zerw.txt 1
-data.zfaj.txt 2
+data.cf.txt 2.82763771717948
+data.zabx.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zcel.txt 2.82763771717948
+data.zdzm.txt 2.82763771717948
+data.zedk.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zerw.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425

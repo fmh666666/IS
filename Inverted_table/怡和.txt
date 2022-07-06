@@ -1,9 +1,9 @@
 8
-data.pn.txt 2
-data.zadv.txt 1
-data.zawu.txt 4
-data.zbga.txt 1
-data.zbjk.txt 1
-data.zcdv.txt 1
-data.zeob.txt 1
-data.zeqv.txt 1
+data.pn.txt 4.611097637722987
+data.zadv.txt 2.9092786962624935
+data.zawu.txt 6.7551359407091605
+data.zbga.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zeob.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

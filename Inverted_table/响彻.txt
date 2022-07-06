@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.yx.txt 1
-data.zafi.txt 1
-data.zalm.txt 1
-data.zbcc.txt 1
-data.zbhd.txt 3
-data.zbnx.txt 2
-data.zbwq.txt 1
-data.zcgi.txt 1
-data.zcrv.txt 1
-data.zdou.txt 1
-data.zduk.txt 2
-data.zess.txt 1
+data.be.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zafi.txt 2.5727503226135906
+data.zalm.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zbhd.txt 5.145500645227181
+data.zbnx.txt 4.077712785060798
+data.zbwq.txt 2.5727503226135906
+data.zcgi.txt 2.5727503226135906
+data.zcrv.txt 2.5727503226135906
+data.zdou.txt 2.5727503226135906
+data.zduk.txt 4.077712785060798
+data.zess.txt 2.5727503226135906

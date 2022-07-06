@@ -1,10 +1,10 @@
 9
-data.vz.txt 1
-data.zbdx.txt 1
-data.zbhv.txt 1
-data.zbmt.txt 1
-data.zcdv.txt 1
-data.zcko.txt 1
-data.zctm.txt 1
-data.zdji.txt 1
-data.zdqx.txt 1
+data.vz.txt 2.82763771717948
+data.zbdx.txt 2.82763771717948
+data.zbhv.txt 2.82763771717948
+data.zbmt.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zcko.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zdji.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948

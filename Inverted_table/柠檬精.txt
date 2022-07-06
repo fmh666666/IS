@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zadv.txt 1
-data.zblr.txt 1
-data.zcoy.txt 1
-data.zedx.txt 1
+data.bb.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zcoy.txt 3.235060386727117
+data.zedx.txt 3.235060386727117

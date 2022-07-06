@@ -1,4 +1,4 @@
 3
-data.mi.txt 1
-data.zcbm.txt 1
-data.zcrn.txt 1
+data.mi.txt 3.5891377275982888
+data.zcbm.txt 3.5891377275982888
+data.zcrn.txt 3.5891377275982888

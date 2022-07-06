@@ -1,9 +1,9 @@
 8
-data.fj.txt 1
-data.zail.txt 5
-data.zasr.txt 1
-data.zawu.txt 2
-data.zbnx.txt 1
-data.zbvg.txt 1
-data.zbvn.txt 1
-data.zeay.txt 18
+data.fj.txt 2.9092786962624935
+data.zail.txt 7.52037633398548
+data.zasr.txt 2.9092786962624935
+data.zawu.txt 4.611097637722987
+data.zbnx.txt 2.9092786962624935
+data.zbvg.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zeay.txt 12.35840501812873

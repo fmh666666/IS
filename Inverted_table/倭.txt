@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zbpx.txt 1
-data.zbsm.txt 2
-data.zczp.txt 1
-data.zddb.txt 2
-data.zedx.txt 1
-data.zelt.txt 1
-data.zevq.txt 1
+data.zabe.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zbsm.txt 4.611097637722987
+data.zczp.txt 2.9092786962624935
+data.zddb.txt 4.611097637722987
+data.zedx.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

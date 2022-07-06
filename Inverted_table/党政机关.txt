@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.zbel.txt 1
-data.zbwq.txt 2
-data.zbye.txt 1
-data.zdou.txt 1
-data.zedo.txt 1
-data.zezy.txt 1
-data.zfaj.txt 2
+data.hz.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbwq.txt 4.611097637722987
+data.zbye.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935
+data.zfaj.txt 4.611097637722987

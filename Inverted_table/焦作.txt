@@ -1,12 +1,12 @@
 11
-data.gz.txt 1
-data.pn.txt 1
-data.zcak.txt 1
-data.zcpa.txt 1
-data.zcpx.txt 1
-data.zcse.txt 1
-data.zddv.txt 1
-data.zdll.txt 1
-data.zenn.txt 2
-data.zeos.txt 1
-data.zfaw.txt 1
+data.gz.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zcak.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zcpx.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zddv.txt 2.6885433903988862
+data.zdll.txt 2.6885433903988862
+data.zenn.txt 4.261240455343955
+data.zeos.txt 2.6885433903988862
+data.zfaw.txt 2.6885433903988862

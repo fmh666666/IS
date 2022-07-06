@@ -1,8 +1,8 @@
 7
-data.ek.txt 1
-data.zaoo.txt 1
-data.zbfr.txt 1
-data.zbye.txt 1
-data.zdme.txt 1
-data.zdtr.txt 1
-data.zess.txt 2
+data.ek.txt 3.0018356045764243
+data.zaoo.txt 3.0018356045764243
+data.zbfr.txt 3.0018356045764243
+data.zbye.txt 3.0018356045764243
+data.zdme.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zess.txt 4.757796866583254

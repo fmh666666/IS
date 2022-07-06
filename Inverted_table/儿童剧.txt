@@ -1,5 +1,5 @@
 4
-data.vz.txt 1
-data.zcdy.txt 1
-data.zefv.txt 1
-data.zevl.txt 1
+data.vz.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zefv.txt 3.389731710180695
+data.zevl.txt 3.389731710180695

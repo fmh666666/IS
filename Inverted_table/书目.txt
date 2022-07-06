@@ -1,11 +1,11 @@
 10
-data.hu.txt 2
-data.kq.txt 1
-data.zaet.txt 1
-data.zaxk.txt 1
-data.zbha.txt 4
-data.zcse.txt 1
-data.zctp.txt 1
-data.zdgp.txt 1
-data.zeay.txt 1
-data.zebn.txt 2
+data.hu.txt 4.365949390112154
+data.kq.txt 2.7546073728089153
+data.zaet.txt 2.7546073728089153
+data.zaxk.txt 2.7546073728089153
+data.zbha.txt 6.396000249308887
+data.zcse.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdgp.txt 2.7546073728089153
+data.zeay.txt 2.7546073728089153
+data.zebn.txt 4.365949390112154

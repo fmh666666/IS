@@ -1,7 +1,7 @@
 6
-data.zaoo.txt 1
-data.zawb.txt 1
-data.zaxk.txt 1
-data.zbla.txt 1
-data.zbre.txt 1
-data.zbvn.txt 1
+data.zaoo.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zbre.txt 3.1086847136800873
+data.zbvn.txt 3.1086847136800873

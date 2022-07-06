@@ -1,11 +1,11 @@
 10
-data.kt.txt 1
-data.zanh.txt 1
-data.zaub.txt 1
-data.zbhv.txt 1
-data.zbla.txt 1
-data.zbnx.txt 1
-data.zciy.txt 1
-data.zdtr.txt 1
-data.zegz.txt 1
-data.zesi.txt 1
+data.kt.txt 2.7546073728089153
+data.zanh.txt 2.7546073728089153
+data.zaub.txt 2.7546073728089153
+data.zbhv.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zdtr.txt 2.7546073728089153
+data.zegz.txt 2.7546073728089153
+data.zesi.txt 2.7546073728089153

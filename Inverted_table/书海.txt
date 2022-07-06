@@ -1,11 +1,11 @@
 10
-data.co.txt 2
-data.pn.txt 1
-data.zaop.txt 1
-data.zapf.txt 2
-data.zazn.txt 3
-data.zcdv.txt 4
-data.zdby.txt 1
-data.zdfl.txt 1
-data.zdwd.txt 1
-data.zfae.txt 1
+data.co.txt 4.365949390112154
+data.pn.txt 2.7546073728089153
+data.zaop.txt 2.7546073728089153
+data.zapf.txt 4.365949390112154
+data.zazn.txt 5.509214745617831
+data.zcdv.txt 6.396000249308887
+data.zdby.txt 2.7546073728089153
+data.zdfl.txt 2.7546073728089153
+data.zdwd.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153

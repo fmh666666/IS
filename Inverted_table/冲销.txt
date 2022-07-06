@@ -1,9 +1,9 @@
 8
-data.zafq.txt 1
-data.zbel.txt 1
-data.zblr.txt 1
-data.zbsu.txt 1
-data.zcnn.txt 1
-data.zdkk.txt 1
-data.zelt.txt 1
-data.zeyu.txt 1
+data.zafq.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zcnn.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

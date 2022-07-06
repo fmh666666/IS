@@ -1,6 +1,6 @@
 5
-data.zbes.txt 7
-data.zbzf.txt 1
-data.zcql.txt 1
-data.zcsu.txt 5
-data.zeec.txt 1
+data.zbes.txt 9.70518116018135
+data.zbzf.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zcsu.txt 8.362509787258078
+data.zeec.txt 3.235060386727117

@@ -1,13 +1,13 @@
 12
-data.ep.txt 1
-data.hu.txt 1
-data.zagb.txt 1
-data.zbrj.txt 1
-data.zbvg.txt 1
-data.zczl.txt 1
-data.zdgp.txt 2
-data.zdyv.txt 1
-data.zeez.txt 1
-data.zenn.txt 1
-data.zeyg.txt 1
-data.zfby.txt 1
+data.ep.txt 2.628231699761886
+data.hu.txt 2.628231699761886
+data.zagb.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zbvg.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zdgp.txt 4.165648687329214
+data.zdyv.txt 2.628231699761886
+data.zeez.txt 2.628231699761886
+data.zenn.txt 2.628231699761886
+data.zeyg.txt 2.628231699761886
+data.zfby.txt 2.628231699761886

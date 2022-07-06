@@ -1,4 +1,4 @@
 3
-data.zcee.txt 1
-data.zebf.txt 1
-data.zeeh.txt 1
+data.zcee.txt 3.5891377275982888
+data.zebf.txt 3.5891377275982888
+data.zeeh.txt 3.5891377275982888

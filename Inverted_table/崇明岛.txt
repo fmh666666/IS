@@ -1,12 +1,12 @@
 11
-data.mx.txt 1
-data.zacw.txt 1
-data.zavx.txt 1
-data.zbsf.txt 1
-data.zbsl.txt 4
-data.zclm.txt 1
-data.zczl.txt 1
-data.zekw.txt 1
-data.zene.txt 1
-data.zexm.txt 1
-data.zezm.txt 1
+data.mx.txt 2.6885433903988862
+data.zacw.txt 2.6885433903988862
+data.zavx.txt 2.6885433903988862
+data.zbsf.txt 2.6885433903988862
+data.zbsl.txt 6.2426044324908965
+data.zclm.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zekw.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zexm.txt 2.6885433903988862
+data.zezm.txt 2.6885433903988862

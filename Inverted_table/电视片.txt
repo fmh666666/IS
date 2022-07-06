@@ -1,5 +1,5 @@
 4
-data.tv.txt 1
-data.zalm.txt 1
-data.zbcj.txt 1
-data.zbpx.txt 1
+data.tv.txt 3.389731710180695
+data.zalm.txt 3.389731710180695
+data.zbcj.txt 3.389731710180695
+data.zbpx.txt 3.389731710180695

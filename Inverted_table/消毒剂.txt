@@ -1,6 +1,6 @@
 5
-data.zbkr.txt 1
-data.zctp.txt 2
-data.zcts.txt 7
-data.zczl.txt 2
-data.zfby.txt 1
+data.zbkr.txt 3.235060386727117
+data.zctp.txt 5.1274494005309625
+data.zcts.txt 9.70518116018135
+data.zczl.txt 5.1274494005309625
+data.zfby.txt 3.235060386727117

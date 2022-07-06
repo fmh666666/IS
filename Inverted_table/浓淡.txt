@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.jj.txt 1
-data.mi.txt 1
-data.zauy.txt 1
-data.zayc.txt 1
-data.zbht.txt 2
-data.zbyv.txt 1
-data.zbzg.txt 1
-data.zcak.txt 1
-data.zeac.txt 1
-data.zebc.txt 1
-data.zerw.txt 1
-data.zfai.txt 1
+data.hg.txt 2.5727503226135906
+data.jj.txt 2.5727503226135906
+data.mi.txt 2.5727503226135906
+data.zauy.txt 2.5727503226135906
+data.zayc.txt 2.5727503226135906
+data.zbht.txt 4.077712785060798
+data.zbyv.txt 2.5727503226135906
+data.zbzg.txt 2.5727503226135906
+data.zcak.txt 2.5727503226135906
+data.zeac.txt 2.5727503226135906
+data.zebc.txt 2.5727503226135906
+data.zerw.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

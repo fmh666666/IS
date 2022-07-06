@@ -1,5 +1,5 @@
 4
-data.zacw.txt 1
-data.zaop.txt 1
-data.zdaw.txt 5
-data.zenw.txt 1
+data.zacw.txt 3.389731710180695
+data.zaop.txt 3.389731710180695
+data.zdaw.txt 8.762329358322491
+data.zenw.txt 3.389731710180695

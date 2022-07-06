@@ -1,4 +1,4 @@
 3
-data.zair.txt 1
-data.zbta.txt 1
-data.zcve.txt 2
+data.zair.txt 3.5891377275982888
+data.zbta.txt 3.5891377275982888
+data.zcve.txt 5.688648708166832

@@ -1,6 +1,6 @@
 5
-data.fz.txt 1
-data.zbha.txt 1
-data.zdro.txt 1
-data.zefp.txt 1
-data.zerv.txt 1
+data.fz.txt 3.235060386727117
+data.zbha.txt 3.235060386727117
+data.zdro.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zerv.txt 3.235060386727117

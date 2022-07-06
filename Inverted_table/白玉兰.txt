@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.ng.txt 3
-data.zafy.txt 2
-data.zajn.txt 1
-data.zalt.txt 1
-data.zbru.txt 1
-data.zbvm.txt 1
-data.zcln.txt 1
-data.zdmw.txt 1
-data.zdou.txt 1
-data.zeeh.txt 2
-data.zefv.txt 1
-data.zeqv.txt 1
+data.fp.txt 2.5727503226135906
+data.ng.txt 5.145500645227181
+data.zafy.txt 4.077712785060798
+data.zajn.txt 2.5727503226135906
+data.zalt.txt 2.5727503226135906
+data.zbru.txt 2.5727503226135906
+data.zbvm.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zdou.txt 2.5727503226135906
+data.zeeh.txt 4.077712785060798
+data.zefv.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906

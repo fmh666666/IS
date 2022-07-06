@@ -1,4 +1,4 @@
 3
-data.zacw.txt 2
-data.zcmx.txt 2
-data.zewd.txt 1
+data.zacw.txt 5.688648708166832
+data.zcmx.txt 5.688648708166832
+data.zewd.txt 3.5891377275982888

@@ -1,13 +1,13 @@
 12
-data.jf.txt 6
-data.zabe.txt 1
-data.zaej.txt 1
-data.zbor.txt 1
-data.zbup.txt 1
-data.zbwa.txt 1
-data.zciy.txt 1
-data.zcko.txt 1
-data.zcxp.txt 1
-data.zczp.txt 1
-data.zdeb.txt 1
-data.zezy.txt 1
+data.jf.txt 7.378379198634354
+data.zabe.txt 2.628231699761886
+data.zaej.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbup.txt 2.628231699761886
+data.zbwa.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zcxp.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

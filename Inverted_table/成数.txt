@@ -1,7 +1,7 @@
 6
-data.zafl.txt 1
-data.zavx.txt 1
-data.zbga.txt 1
-data.zciq.txt 1
-data.zcni.txt 1
-data.zene.txt 1
+data.zafl.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zcni.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

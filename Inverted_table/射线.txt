@@ -1,9 +1,9 @@
 8
-data.zbua.txt 1
-data.zccu.txt 1
-data.zctp.txt 1
-data.zczl.txt 1
-data.zczp.txt 2
-data.zdqx.txt 1
-data.zeew.txt 1
-data.zerv.txt 1
+data.zbua.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zczp.txt 4.611097637722987
+data.zdqx.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935

@@ -1,12 +1,12 @@
 11
-data.pn.txt 1
-data.zawu.txt 1
-data.zbfz.txt 1
-data.zbts.txt 1
-data.zbvm.txt 2
-data.zdgo.txt 1
-data.zdkc.txt 1
-data.zdlo.txt 1
-data.zdme.txt 1
-data.zdnc.txt 1
-data.zecf.txt 1
+data.pn.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zbvm.txt 4.261240455343955
+data.zdgo.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zdnc.txt 2.6885433903988862
+data.zecf.txt 2.6885433903988862

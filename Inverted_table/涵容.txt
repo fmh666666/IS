@@ -1,6 +1,6 @@
 5
-data.zapl.txt 1
-data.zbmt.txt 1
-data.zbwq.txt 1
-data.zduo.txt 1
-data.zfas.txt 1
+data.zapl.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

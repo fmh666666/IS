@@ -1,6 +1,6 @@
 5
-data.ek.txt 2
-data.mo.txt 2
-data.zbla.txt 1
-data.zbye.txt 1
-data.zdds.txt 2
+data.ek.txt 5.1274494005309625
+data.mo.txt 5.1274494005309625
+data.zbla.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zdds.txt 5.1274494005309625

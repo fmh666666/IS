@@ -1,9 +1,9 @@
 8
-data.cz.txt 1
-data.ft.txt 1
-data.gw.txt 1
-data.zbrj.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcon.txt 1
-data.zedo.txt 1
+data.cz.txt 2.9092786962624935
+data.ft.txt 2.9092786962624935
+data.gw.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 4.611097637722987
+data.zcon.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

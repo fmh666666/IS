@@ -1,5 +1,5 @@
 4
-data.jf.txt 6
-data.zaoc.txt 1
-data.zbdb.txt 1
-data.zedx.txt 1
+data.jf.txt 9.516180001030515
+data.zaoc.txt 3.389731710180695
+data.zbdb.txt 3.389731710180695
+data.zedx.txt 3.389731710180695

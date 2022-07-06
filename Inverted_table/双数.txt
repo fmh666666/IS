@@ -1,8 +1,8 @@
 7
-data.zall.txt 1
-data.zalt.txt 1
-data.zbeb.txt 2
-data.zbfr.txt 1
-data.zdzi.txt 1
-data.zelt.txt 1
-data.zfby.txt 1
+data.zall.txt 3.0018356045764243
+data.zalt.txt 3.0018356045764243
+data.zbeb.txt 4.757796866583254
+data.zbfr.txt 3.0018356045764243
+data.zdzi.txt 3.0018356045764243
+data.zelt.txt 3.0018356045764243
+data.zfby.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.zarc.txt 1
-data.zbsf.txt 2
-data.zedo.txt 1
-data.zegz.txt 1
-data.zeun.txt 2
+data.zarc.txt 3.235060386727117
+data.zbsf.txt 5.1274494005309625
+data.zedo.txt 3.235060386727117
+data.zegz.txt 3.235060386727117
+data.zeun.txt 5.1274494005309625

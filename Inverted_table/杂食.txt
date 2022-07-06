@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zbvg.txt 1
-data.zcrk.txt 1
-data.zdgt.txt 1
-data.zesi.txt 1
+data.zako.txt 3.235060386727117
+data.zbvg.txt 3.235060386727117
+data.zcrk.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zesi.txt 3.235060386727117

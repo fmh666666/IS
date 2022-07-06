@@ -1,7 +1,7 @@
 6
-data.ye.txt 1
-data.zafu.txt 1
-data.zavx.txt 1
-data.zbdx.txt 3
-data.zcdy.txt 2
-data.zenw.txt 1
+data.ye.txt 3.1086847136800873
+data.zafu.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zbdx.txt 6.2173694273601745
+data.zcdy.txt 4.927148697748023
+data.zenw.txt 3.1086847136800873

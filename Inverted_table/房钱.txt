@@ -1,9 +1,9 @@
 8
-data.co.txt 2
-data.xk.txt 2
-data.zaqw.txt 1
-data.zaxp.txt 1
-data.zbsm.txt 1
-data.zciq.txt 1
-data.zciy.txt 1
-data.zdqx.txt 1
+data.co.txt 4.611097637722987
+data.xk.txt 4.611097637722987
+data.zaqw.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zdqx.txt 2.9092786962624935

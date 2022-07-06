@@ -1,13 +1,13 @@
 12
-data.op.txt 2
-data.ud.txt 1
-data.zabe.txt 1
-data.zapf.txt 1
-data.zayc.txt 1
-data.zbht.txt 1
-data.zbph.txt 1
-data.zbsl.txt 1
-data.zcdz.txt 1
-data.zcvt.txt 1
-data.zdof.txt 1
-data.zdwk.txt 1
+data.op.txt 4.165648687329214
+data.ud.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zayc.txt 2.628231699761886
+data.zbht.txt 2.628231699761886
+data.zbph.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zcvt.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdwk.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.zcbm.txt 1
-data.zdic.txt 1
-data.zeqn.txt 1
+data.zcbm.txt 3.5891377275982888
+data.zdic.txt 3.5891377275982888
+data.zeqn.txt 3.5891377275982888

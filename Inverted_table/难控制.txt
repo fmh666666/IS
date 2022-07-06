@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zacp.txt 1
-data.zail.txt 1
-data.zake.txt 1
-data.zcbe.txt 1
-data.zcda.txt 1
-data.zcgo.txt 1
-data.zcmn.txt 1
-data.zcts.txt 1
+data.op.txt 2.82763771717948
+data.zacp.txt 2.82763771717948
+data.zail.txt 2.82763771717948
+data.zake.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zcda.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948
+data.zcts.txt 2.82763771717948

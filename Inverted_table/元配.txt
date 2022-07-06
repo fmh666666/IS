@@ -1,12 +1,12 @@
 11
-data.pn.txt 1
-data.zaub.txt 1
-data.zaun.txt 1
-data.zazg.txt 5
-data.zbwa.txt 1
-data.zcao.txt 1
-data.zcgi.txt 1
-data.zcll.txt 1
-data.zdoq.txt 3
-data.zemb.txt 1
-data.zevl.txt 1
+data.pn.txt 2.6885433903988862
+data.zaub.txt 2.6885433903988862
+data.zaun.txt 2.6885433903988862
+data.zazg.txt 6.949783845742841
+data.zbwa.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zcll.txt 2.6885433903988862
+data.zdoq.txt 5.3770867807977725
+data.zemb.txt 2.6885433903988862
+data.zevl.txt 2.6885433903988862

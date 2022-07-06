@@ -1,7 +1,7 @@
 6
-data.pn.txt 1
-data.zcll.txt 1
-data.zcmx.txt 1
-data.zcvi.txt 1
-data.zdzm.txt 1
-data.zezm.txt 1
+data.pn.txt 3.1086847136800873
+data.zcll.txt 3.1086847136800873
+data.zcmx.txt 3.1086847136800873
+data.zcvi.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873

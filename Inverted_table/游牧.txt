@@ -1,8 +1,8 @@
 7
-data.bf.txt 1
-data.ng.txt 1
-data.ye.txt 38
-data.zdlw.txt 1
-data.zdpw.txt 11
-data.zduo.txt 1
-data.zemb.txt 1
+data.bf.txt 3.0018356045764243
+data.ng.txt 3.0018356045764243
+data.ye.txt 15.865908565087933
+data.zdlw.txt 3.0018356045764243
+data.zdpw.txt 10.761468075736103
+data.zduo.txt 3.0018356045764243
+data.zemb.txt 3.0018356045764243

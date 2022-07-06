@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.qb.txt 1
-data.zalm.txt 1
-data.zctp.txt 2
-data.zdib.txt 3
-data.zedy.txt 1
-data.zerw.txt 1
-data.zexk.txt 1
+data.aj.txt 2.9092786962624935
+data.qb.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zctp.txt 4.611097637722987
+data.zdib.txt 5.818557392524987
+data.zedy.txt 2.9092786962624935
+data.zerw.txt 2.9092786962624935
+data.zexk.txt 2.9092786962624935

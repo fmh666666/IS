@@ -1,12 +1,12 @@
 11
-data.tz.txt 1
-data.zazo.txt 1
-data.zbcv.txt 1
-data.zbil.txt 1
-data.zbmw.txt 1
-data.zbzg.txt 1
-data.zcgi.txt 1
-data.zemf.txt 2
-data.zeos.txt 1
-data.zeqv.txt 2
-data.zess.txt 1
+data.tz.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zbcv.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbmw.txt 2.6885433903988862
+data.zbzg.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zemf.txt 4.261240455343955
+data.zeos.txt 2.6885433903988862
+data.zeqv.txt 4.261240455343955
+data.zess.txt 2.6885433903988862

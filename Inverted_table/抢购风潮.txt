@@ -1,7 +1,7 @@
 6
-data.zazn.txt 1
-data.zbds.txt 1
-data.zbga.txt 1
-data.zbhd.txt 1
-data.zcdz.txt 1
-data.zciy.txt 1
+data.zazn.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zciy.txt 3.1086847136800873

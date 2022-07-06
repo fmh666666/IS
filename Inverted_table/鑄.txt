@@ -1,2 +1,2 @@
 1
-data.zapr.txt 1
+data.zapr.txt 4.350637738017098

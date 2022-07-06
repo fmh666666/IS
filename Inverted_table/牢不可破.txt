@@ -1,5 +1,5 @@
 4
-data.hu.txt 1
-data.zasj.txt 1
-data.zdoc.txt 1
-data.zdqz.txt 1
+data.hu.txt 3.389731710180695
+data.zasj.txt 3.389731710180695
+data.zdoc.txt 3.389731710180695
+data.zdqz.txt 3.389731710180695

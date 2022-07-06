@@ -1,10 +1,10 @@
 9
-data.jf.txt 1
-data.zabe.txt 1
-data.zblq.txt 1
-data.zcao.txt 1
-data.zcrg.txt 1
-data.zcue.txt 1
-data.zdcj.txt 1
-data.zdwv.txt 1
-data.zeay.txt 1
+data.jf.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zcao.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zeay.txt 2.82763771717948

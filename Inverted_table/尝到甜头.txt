@@ -1,4 +1,4 @@
 3
-data.zazx.txt 1
-data.zdlo.txt 1
-data.zfaj.txt 1
+data.zazx.txt 3.5891377275982888
+data.zdlo.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888

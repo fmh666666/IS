@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.ga.txt 1
-data.zavg.txt 1
-data.zaxp.txt 1
-data.zbts.txt 1
-data.zcdl.txt 2
-data.zcmy.txt 1
-data.zdwd.txt 1
+data.bb.txt 2.9092786962624935
+data.ga.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcdl.txt 4.611097637722987
+data.zcmy.txt 2.9092786962624935
+data.zdwd.txt 2.9092786962624935

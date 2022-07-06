@@ -1,14 +1,14 @@
 13
-data.tv.txt 1
-data.zbeb.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zbor.txt 1
-data.zcqe.txt 1
-data.zczj.txt 1
-data.zdby.txt 81
-data.zdds.txt 3
-data.zdkv.txt 1
-data.zeaf.txt 2
-data.zeag.txt 1
-data.zehj.txt 1
+data.tv.txt 2.5727503226135906
+data.zbeb.txt 2.5727503226135906
+data.zbhd.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zcqe.txt 2.5727503226135906
+data.zczj.txt 2.5727503226135906
+data.zdby.txt 16.356393970913853
+data.zdds.txt 5.145500645227181
+data.zdkv.txt 2.5727503226135906
+data.zeaf.txt 4.077712785060798
+data.zeag.txt 2.5727503226135906
+data.zehj.txt 2.5727503226135906

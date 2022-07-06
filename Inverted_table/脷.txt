@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zazg.txt 1
-data.zbaq.txt 2
-data.zejk.txt 3
-data.zejn.txt 4
+data.zadv.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zbaq.txt 5.1274494005309625
+data.zejk.txt 6.470120773454234
+data.zejn.txt 7.511577600598868

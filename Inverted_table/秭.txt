@@ -1,7 +1,7 @@
 6
-data.tv.txt 2
-data.tz.txt 2
-data.zaqw.txt 3
-data.zbre.txt 1
-data.zdoq.txt 1
-data.zedo.txt 1
+data.tv.txt 4.927148697748023
+data.tz.txt 4.927148697748023
+data.zaqw.txt 6.2173694273601745
+data.zbre.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

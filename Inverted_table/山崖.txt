@@ -1,12 +1,12 @@
 11
-data.gk.txt 1
-data.mx.txt 1
-data.pn.txt 1
-data.zabe.txt 1
-data.zacd.txt 1
-data.zazn.txt 1
-data.zbua.txt 1
-data.zcej.txt 3
-data.zcuh.txt 1
-data.zcve.txt 1
-data.zexm.txt 2
+data.gk.txt 2.6885433903988862
+data.mx.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zbua.txt 2.6885433903988862
+data.zcej.txt 5.3770867807977725
+data.zcuh.txt 2.6885433903988862
+data.zcve.txt 2.6885433903988862
+data.zexm.txt 4.261240455343955

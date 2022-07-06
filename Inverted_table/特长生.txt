@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.ok.txt 3
-data.zaqw.txt 1
-data.zbcc.txt 1
-data.zebf.txt 1
-data.zfcp.txt 1
+data.kt.txt 3.1086847136800873
+data.ok.txt 6.2173694273601745
+data.zaqw.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zfcp.txt 3.1086847136800873

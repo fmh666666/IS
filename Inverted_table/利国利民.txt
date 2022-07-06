@@ -1,12 +1,12 @@
 11
-data.op.txt 1
-data.qn.txt 1
-data.zall.txt 1
-data.zasd.txt 2
-data.zawo.txt 1
-data.zbyb.txt 1
-data.zcdy.txt 1
-data.zcqs.txt 1
-data.zdgv.txt 1
-data.zduk.txt 3
-data.zfas.txt 1
+data.op.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zasd.txt 4.261240455343955
+data.zawo.txt 2.6885433903988862
+data.zbyb.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zduk.txt 5.3770867807977725
+data.zfas.txt 2.6885433903988862

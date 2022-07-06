@@ -1,10 +1,10 @@
 9
-data.ft.txt 1
-data.kq.txt 1
-data.mt.txt 2
-data.zafy.txt 4
-data.zbel.txt 1
-data.zbrd.txt 1
-data.zcda.txt 1
-data.zcni.txt 1
-data.zedy.txt 1
+data.ft.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.mt.txt 4.48169974735425
+data.zafy.txt 6.565571457682201
+data.zbel.txt 2.82763771717948
+data.zbrd.txt 2.82763771717948
+data.zcda.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zedy.txt 2.82763771717948

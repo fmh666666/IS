@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.mx.txt 3
-data.zaej.txt 1
-data.zayv.txt 1
-data.zbcv.txt 2
-data.zbjh.txt 1
-data.zcdg.txt 1
-data.zcic.txt 1
-data.zcoy.txt 2
-data.zdpf.txt 1
-data.zety.txt 1
-data.zeva.txt 1
+data.kq.txt 2.628231699761886
+data.mx.txt 5.256463399523772
+data.zaej.txt 2.628231699761886
+data.zayv.txt 2.628231699761886
+data.zbcv.txt 4.165648687329214
+data.zbjh.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zcoy.txt 4.165648687329214
+data.zdpf.txt 2.628231699761886
+data.zety.txt 2.628231699761886
+data.zeva.txt 2.628231699761886

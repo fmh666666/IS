@@ -1,14 +1,14 @@
 13
-data.jf.txt 1
-data.zafe.txt 4
-data.zaoy.txt 5
-data.zasy.txt 1
-data.zayd.txt 5
-data.zbds.txt 1
-data.zcmx.txt 1
-data.zcon.txt 1
-data.zcrk.txt 1
-data.zcsu.txt 1
-data.zdcj.txt 1
-data.zedk.txt 1
-data.zfaj.txt 2
+data.jf.txt 2.5727503226135906
+data.zafe.txt 5.97374125520702
+data.zaoy.txt 6.650463107674388
+data.zasy.txt 2.5727503226135906
+data.zayd.txt 6.650463107674388
+data.zbds.txt 2.5727503226135906
+data.zcmx.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcrk.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zedk.txt 2.5727503226135906
+data.zfaj.txt 4.077712785060798

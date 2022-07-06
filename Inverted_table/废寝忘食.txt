@@ -1,14 +1,14 @@
 13
-data.hz.txt 1
-data.zaic.txt 1
-data.zaqw.txt 1
-data.zarc.txt 1
-data.zard.txt 1
-data.zasw.txt 1
-data.zawu.txt 1
-data.zcon.txt 1
-data.zcsu.txt 1
-data.zdfl.txt 1
-data.zdyv.txt 1
-data.zeag.txt 1
-data.zeob.txt 1
+data.hz.txt 2.5727503226135906
+data.zaic.txt 2.5727503226135906
+data.zaqw.txt 2.5727503226135906
+data.zarc.txt 2.5727503226135906
+data.zard.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zawu.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zdfl.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zeag.txt 2.5727503226135906
+data.zeob.txt 2.5727503226135906

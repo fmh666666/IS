@@ -1,6 +1,6 @@
 5
-data.dg.txt 3
-data.zadv.txt 1
-data.zafk.txt 2
-data.zbkr.txt 1
-data.zctp.txt 3
+data.dg.txt 6.470120773454234
+data.zadv.txt 3.235060386727117
+data.zafk.txt 5.1274494005309625
+data.zbkr.txt 3.235060386727117
+data.zctp.txt 6.470120773454234

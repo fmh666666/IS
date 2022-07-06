@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.zbls.txt 1
-data.zbzf.txt 1
-data.zcjd.txt 1
-data.zeag.txt 1
-data.zevt.txt 1
-data.zeyg.txt 1
+data.bs.txt 3.0018356045764243
+data.zbls.txt 3.0018356045764243
+data.zbzf.txt 3.0018356045764243
+data.zcjd.txt 3.0018356045764243
+data.zeag.txt 3.0018356045764243
+data.zevt.txt 3.0018356045764243
+data.zeyg.txt 3.0018356045764243

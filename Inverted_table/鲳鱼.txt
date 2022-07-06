@@ -1,5 +1,5 @@
 4
-data.kq.txt 1
-data.tv.txt 1
-data.zbcv.txt 1
-data.zcgo.txt 2
+data.kq.txt 3.389731710180695
+data.tv.txt 3.389731710180695
+data.zbcv.txt 3.389731710180695
+data.zcgo.txt 5.372597648141796

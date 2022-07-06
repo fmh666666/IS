@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.hz.txt 1
-data.zajo.txt 1
-data.zbht.txt 1
-data.zbnx.txt 1
-data.zbpx.txt 1
+data.ft.txt 3.1086847136800873
+data.hz.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zbht.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873

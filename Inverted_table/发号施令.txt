@@ -1,6 +1,6 @@
 5
-data.zawo.txt 1
-data.zbtx.txt 1
-data.zcqe.txt 1
-data.zcww.txt 1
-data.zdlw.txt 1
+data.zawo.txt 3.235060386727117
+data.zbtx.txt 3.235060386727117
+data.zcqe.txt 3.235060386727117
+data.zcww.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117

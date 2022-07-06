@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.op.txt 1
-data.yx.txt 1
-data.zaqf.txt 3
-data.zbpx.txt 2
-data.zcxr.txt 1
-data.zdzm.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.fp.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zaqf.txt 5.509214745617831
+data.zbpx.txt 4.365949390112154
+data.zcxr.txt 2.7546073728089153
+data.zdzm.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

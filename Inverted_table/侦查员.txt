@@ -1,4 +1,4 @@
 3
-data.cf.txt 1
-data.zcwn.txt 1
-data.zelt.txt 1
+data.cf.txt 3.5891377275982888
+data.zcwn.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

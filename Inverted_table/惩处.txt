@@ -1,14 +1,14 @@
 13
-data.hz.txt 4
-data.tv.txt 1
-data.zabx.txt 1
-data.zahd.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zbaq.txt 1
-data.zbdb.txt 1
-data.zbfr.txt 1
-data.zbkj.txt 1
-data.zbkr.txt 1
-data.zefv.txt 1
-data.zfae.txt 1
+data.hz.txt 5.97374125520702
+data.tv.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zbaq.txt 2.5727503226135906
+data.zbdb.txt 2.5727503226135906
+data.zbfr.txt 2.5727503226135906
+data.zbkj.txt 2.5727503226135906
+data.zbkr.txt 2.5727503226135906
+data.zefv.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906

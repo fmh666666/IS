@@ -1,12 +1,12 @@
 11
-data.hc.txt 1
-data.mx.txt 2
-data.zaqf.txt 1
-data.zbaq.txt 3
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcic.txt 2
-data.zcnn.txt 1
-data.zdnc.txt 2
-data.zduk.txt 1
-data.zedo.txt 1
+data.hc.txt 2.6885433903988862
+data.mx.txt 4.261240455343955
+data.zaqf.txt 2.6885433903988862
+data.zbaq.txt 5.3770867807977725
+data.zcdy.txt 2.6885433903988862
+data.zcdz.txt 4.261240455343955
+data.zcic.txt 4.261240455343955
+data.zcnn.txt 2.6885433903988862
+data.zdnc.txt 4.261240455343955
+data.zduk.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862

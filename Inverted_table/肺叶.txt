@@ -1,8 +1,8 @@
 7
-data.zbfr.txt 1
-data.zcqs.txt 1
-data.zdzn.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zenn.txt 2
-data.zess.txt 1
+data.zbfr.txt 3.0018356045764243
+data.zcqs.txt 3.0018356045764243
+data.zdzn.txt 3.0018356045764243
+data.zelt.txt 3.0018356045764243
+data.zene.txt 3.0018356045764243
+data.zenn.txt 4.757796866583254
+data.zess.txt 3.0018356045764243

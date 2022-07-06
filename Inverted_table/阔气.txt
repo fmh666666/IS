@@ -1,6 +1,6 @@
 5
-data.zalj.txt 1
-data.zawc.txt 1
-data.zbvn.txt 1
-data.zeoh.txt 3
-data.zfae.txt 1
+data.zalj.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbvn.txt 3.235060386727117
+data.zeoh.txt 6.470120773454234
+data.zfae.txt 3.235060386727117

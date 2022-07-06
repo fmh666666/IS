@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zall.txt 1
-data.zaun.txt 1
-data.zblr.txt 2
+data.op.txt 3.389731710180695
+data.zall.txt 3.389731710180695
+data.zaun.txt 3.389731710180695
+data.zblr.txt 5.372597648141796

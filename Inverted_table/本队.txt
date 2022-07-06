@@ -1,6 +1,6 @@
 5
-data.zbhd.txt 1
-data.zdof.txt 1
-data.zedo.txt 1
-data.zeoo.txt 2
-data.zexx.txt 1
+data.zbhd.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zeoo.txt 5.1274494005309625
+data.zexx.txt 3.235060386727117

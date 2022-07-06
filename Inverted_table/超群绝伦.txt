@@ -1,5 +1,5 @@
 4
-data.mx.txt 1
-data.zbhv.txt 1
-data.zbzo.txt 1
-data.zdux.txt 1
+data.mx.txt 3.389731710180695
+data.zbhv.txt 3.389731710180695
+data.zbzo.txt 3.389731710180695
+data.zdux.txt 3.389731710180695

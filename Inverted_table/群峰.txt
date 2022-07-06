@@ -1,6 +1,6 @@
 5
-data.ew.txt 4
-data.vz.txt 1
-data.zalj.txt 1
-data.zall.txt 1
-data.zbhv.txt 1
+data.ew.txt 7.511577600598868
+data.vz.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zall.txt 3.235060386727117
+data.zbhv.txt 3.235060386727117

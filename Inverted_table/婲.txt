@@ -1,13 +1,13 @@
 12
-data.cf.txt 4
-data.mk.txt 1
-data.zaej.txt 1
-data.zamp.txt 1
-data.zaql.txt 1
-data.zbdx.txt 1
-data.zbfd.txt 1
-data.zcqs.txt 1
-data.zdbf.txt 2
-data.zdwv.txt 2
-data.zeaf.txt 21
-data.zeag.txt 2
+data.cf.txt 6.1025650235506905
+data.mk.txt 2.628231699761886
+data.zaej.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zaql.txt 2.628231699761886
+data.zbdx.txt 2.628231699761886
+data.zbfd.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zdbf.txt 4.165648687329214
+data.zdwv.txt 4.165648687329214
+data.zeaf.txt 11.720419543023004
+data.zeag.txt 4.165648687329214

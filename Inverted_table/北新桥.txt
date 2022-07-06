@@ -1,4 +1,4 @@
 3
-data.zccl.txt 1
-data.zcql.txt 1
-data.zedo.txt 2
+data.zccl.txt 3.5891377275982888
+data.zcql.txt 3.5891377275982888
+data.zedo.txt 5.688648708166832

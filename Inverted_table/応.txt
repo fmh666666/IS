@@ -1,11 +1,11 @@
 10
-data.to.txt 1
-data.zasr.txt 1
-data.zbsu.txt 1
-data.zcfn.txt 1
-data.zcic.txt 1
-data.zdqk.txt 1
-data.zdrq.txt 1
-data.zegk.txt 2
-data.zegl.txt 9
-data.zegn.txt 6
+data.to.txt 2.7546073728089153
+data.zasr.txt 2.7546073728089153
+data.zbsu.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zcic.txt 2.7546073728089153
+data.zdqk.txt 2.7546073728089153
+data.zdrq.txt 2.7546073728089153
+data.zegk.txt 4.365949390112154
+data.zegl.txt 9.150607622117803
+data.zegn.txt 7.733160566391275

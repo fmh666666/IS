@@ -1,12 +1,12 @@
 11
-data.hz.txt 4
-data.zabe.txt 1
-data.zafq.txt 1
-data.zarr.txt 2
-data.zbvg.txt 1
-data.zcel.txt 1
-data.zcll.txt 2
-data.zcxq.txt 1
-data.zcxr.txt 2
-data.zexv.txt 1
-data.zfaw.txt 1
+data.hz.txt 6.2426044324908965
+data.zabe.txt 2.6885433903988862
+data.zafq.txt 2.6885433903988862
+data.zarr.txt 4.261240455343955
+data.zbvg.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zcll.txt 4.261240455343955
+data.zcxq.txt 2.6885433903988862
+data.zcxr.txt 4.261240455343955
+data.zexv.txt 2.6885433903988862
+data.zfaw.txt 2.6885433903988862

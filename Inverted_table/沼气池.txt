@@ -1,5 +1,5 @@
 4
-data.zbnp.txt 1
-data.zcdl.txt 1
-data.zdgv.txt 1
-data.zdkv.txt 1
+data.zbnp.txt 3.389731710180695
+data.zcdl.txt 3.389731710180695
+data.zdgv.txt 3.389731710180695
+data.zdkv.txt 3.389731710180695

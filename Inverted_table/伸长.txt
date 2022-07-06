@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.hp.txt 1
-data.pn.txt 1
-data.zabe.txt 1
-data.zasd.txt 1
-data.zbpx.txt 1
-data.zbvg.txt 1
-data.zcel.txt 1
-data.zcft.txt 1
+data.bf.txt 2.82763771717948
+data.hp.txt 2.82763771717948
+data.pn.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zasd.txt 2.82763771717948
+data.zbpx.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zcel.txt 2.82763771717948
+data.zcft.txt 2.82763771717948

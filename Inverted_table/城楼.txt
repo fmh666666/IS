@@ -1,14 +1,14 @@
 13
-data.mt.txt 1
-data.wc.txt 2
-data.zabe.txt 2
-data.zacd.txt 2
-data.zarc.txt 1
-data.zbpp.txt 1
-data.zcon.txt 1
-data.zcrv.txt 1
-data.zdeb.txt 1
-data.zdga.txt 1
-data.zdro.txt 21
-data.zelt.txt 1
-data.zevq.txt 2
+data.mt.txt 2.5727503226135906
+data.wc.txt 4.077712785060798
+data.zabe.txt 4.077712785060798
+data.zacd.txt 4.077712785060798
+data.zarc.txt 2.5727503226135906
+data.zbpp.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcrv.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdga.txt 2.5727503226135906
+data.zdro.txt 11.473004135522354
+data.zelt.txt 2.5727503226135906
+data.zevq.txt 4.077712785060798

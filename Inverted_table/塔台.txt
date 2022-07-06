@@ -1,9 +1,9 @@
 8
-data.fe.txt 2
-data.zail.txt 1
-data.zbfz.txt 1
-data.zcfn.txt 1
-data.zczl.txt 1
-data.zerv.txt 1
-data.zfai.txt 5
-data.zfaj.txt 1
+data.fe.txt 4.611097637722987
+data.zail.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935
+data.zfai.txt 7.52037633398548
+data.zfaj.txt 2.9092786962624935

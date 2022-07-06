@@ -1,6 +1,6 @@
 5
-data.zajr.txt 1
-data.zasj.txt 1
-data.zazg.txt 1
-data.zbvp.txt 2
-data.zbwq.txt 1
+data.zajr.txt 3.235060386727117
+data.zasj.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zbvp.txt 5.1274494005309625
+data.zbwq.txt 3.235060386727117

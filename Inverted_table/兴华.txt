@@ -1,13 +1,13 @@
 12
-data.mx.txt 1
-data.zbcv.txt 1
-data.zbux.txt 2
-data.zbwa.txt 2
-data.zbxy.txt 1
-data.zctm.txt 2
-data.zdst.txt 2
-data.zeeh.txt 3
-data.zety.txt 2
-data.zezm.txt 1
-data.zezn.txt 3
-data.zfai.txt 2
+data.mx.txt 2.628231699761886
+data.zbcv.txt 2.628231699761886
+data.zbux.txt 4.165648687329214
+data.zbwa.txt 4.165648687329214
+data.zbxy.txt 2.628231699761886
+data.zctm.txt 4.165648687329214
+data.zdst.txt 4.165648687329214
+data.zeeh.txt 5.256463399523772
+data.zety.txt 4.165648687329214
+data.zezm.txt 2.628231699761886
+data.zezn.txt 5.256463399523772
+data.zfai.txt 4.165648687329214

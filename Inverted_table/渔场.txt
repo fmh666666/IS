@@ -1,6 +1,6 @@
 5
-data.zate.txt 3
-data.zawz.txt 2
-data.zcsr.txt 3
-data.zdcw.txt 6
-data.zfaj.txt 1
+data.zate.txt 6.470120773454234
+data.zawz.txt 5.1274494005309625
+data.zcsr.txt 6.470120773454234
+data.zdcw.txt 9.081962699831948
+data.zfaj.txt 3.235060386727117

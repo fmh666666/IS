@@ -1,8 +1,8 @@
 7
-data.zacd.txt 1
-data.zafy.txt 2
-data.zavx.txt 1
-data.zcdy.txt 1
-data.zcko.txt 1
-data.zewp.txt 1
-data.zfby.txt 1
+data.zacd.txt 3.0018356045764243
+data.zafy.txt 4.757796866583254
+data.zavx.txt 3.0018356045764243
+data.zcdy.txt 3.0018356045764243
+data.zcko.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243
+data.zfby.txt 3.0018356045764243

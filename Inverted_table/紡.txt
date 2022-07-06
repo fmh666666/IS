@@ -1,5 +1,5 @@
 4
-data.mo.txt 1
-data.zabj.txt 2
-data.zcfn.txt 1
-data.zczp.txt 1
+data.mo.txt 3.389731710180695
+data.zabj.txt 5.372597648141796
+data.zcfn.txt 3.389731710180695
+data.zczp.txt 3.389731710180695

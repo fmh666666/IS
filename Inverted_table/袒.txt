@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zalt.txt 1
-data.zauy.txt 1
-data.zbvm.txt 1
-data.zeeh.txt 12
+data.bf.txt 3.235060386727117
+data.zalt.txt 3.235060386727117
+data.zauy.txt 3.235060386727117
+data.zbvm.txt 3.235060386727117
+data.zeeh.txt 11.971145945629907

@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.kq.txt 1
-data.tz.txt 1
-data.zbsm.txt 3
-data.zcdl.txt 1
-data.zcql.txt 1
-data.zduo.txt 1
-data.zezn.txt 1
+data.bb.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zbsm.txt 5.818557392524987
+data.zcdl.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zezn.txt 2.9092786962624935

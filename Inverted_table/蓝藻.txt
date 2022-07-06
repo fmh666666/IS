@@ -1,4 +1,4 @@
 3
-data.zapf.txt 1
-data.zcdz.txt 1
-data.zeoh.txt 1
+data.zapf.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888

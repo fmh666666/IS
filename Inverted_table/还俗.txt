@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.zajn.txt 1
-data.zawb.txt 1
-data.zcve.txt 1
-data.zdll.txt 1
-data.zdpw.txt 1
-data.zdzn.txt 2
-data.zedk.txt 1
-data.zene.txt 1
+data.cf.txt 2.82763771717948
+data.zajn.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zdll.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zdzn.txt 4.48169974735425
+data.zedk.txt 2.82763771717948
+data.zene.txt 2.82763771717948

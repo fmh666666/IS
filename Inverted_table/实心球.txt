@@ -1,5 +1,5 @@
 4
-data.zbga.txt 1
-data.zbse.txt 4
-data.zbsf.txt 1
-data.zddb.txt 1
+data.zbga.txt 3.389731710180695
+data.zbse.txt 7.870713291999142
+data.zbsf.txt 3.389731710180695
+data.zddb.txt 3.389731710180695

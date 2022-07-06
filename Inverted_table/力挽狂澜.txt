@@ -1,9 +1,9 @@
 8
-data.dg.txt 6
-data.fe.txt 1
-data.jj.txt 1
-data.zbmt.txt 1
-data.zcmn.txt 1
-data.zcmy.txt 1
-data.zeds.txt 1
-data.zeeh.txt 1
+data.dg.txt 8.16737786758984
+data.fe.txt 2.9092786962624935
+data.jj.txt 2.9092786962624935
+data.zbmt.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935

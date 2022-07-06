@@ -1,4 +1,4 @@
 3
-data.zbnx.txt 1
-data.zeun.txt 1
-data.zeyg.txt 1
+data.zbnx.txt 3.5891377275982888
+data.zeun.txt 3.5891377275982888
+data.zeyg.txt 3.5891377275982888

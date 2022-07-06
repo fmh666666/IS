@@ -1,9 +1,9 @@
 8
-data.hz.txt 2
-data.ng.txt 1
-data.zbqu.txt 4
-data.zbsl.txt 4
-data.zbsm.txt 2
-data.zbyb.txt 1
-data.zcee.txt 1
-data.zdpw.txt 2
+data.hz.txt 4.611097637722987
+data.ng.txt 2.9092786962624935
+data.zbqu.txt 6.7551359407091605
+data.zbsl.txt 6.7551359407091605
+data.zbsm.txt 4.611097637722987
+data.zbyb.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zdpw.txt 4.611097637722987

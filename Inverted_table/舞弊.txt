@@ -1,5 +1,5 @@
 4
-data.zamr.txt 1
-data.zbil.txt 1
-data.zcue.txt 1
-data.zdux.txt 1
+data.zamr.txt 3.389731710180695
+data.zbil.txt 3.389731710180695
+data.zcue.txt 3.389731710180695
+data.zdux.txt 3.389731710180695

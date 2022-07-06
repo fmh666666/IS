@@ -1,13 +1,13 @@
 12
-data.wg.txt 1
-data.zapf.txt 1
-data.zarr.txt 1
-data.zawb.txt 1
-data.zbcj.txt 2
-data.zcsu.txt 1
-data.zdgt.txt 1
-data.zdnc.txt 1
-data.zdof.txt 1
-data.zdpg.txt 2
-data.zedk.txt 1
-data.zeva.txt 1
+data.wg.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbcj.txt 4.165648687329214
+data.zcsu.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdnc.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdpg.txt 4.165648687329214
+data.zedk.txt 2.628231699761886
+data.zeva.txt 2.628231699761886

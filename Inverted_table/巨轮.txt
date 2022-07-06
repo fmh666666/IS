@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.zajh.txt 1
-data.zasj.txt 2
-data.zcih.txt 1
-data.zctn.txt 1
-data.zctp.txt 1
-data.zeay.txt 1
-data.zedk.txt 1
-data.zeec.txt 1
+data.gw.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zasj.txt 4.48169974735425
+data.zcih.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zedk.txt 2.82763771717948
+data.zeec.txt 2.82763771717948

@@ -1,7 +1,7 @@
 6
-data.tz.txt 1
-data.zbjq.txt 2
-data.zdep.txt 1
-data.zdey.txt 1
-data.zefp.txt 1
-data.zeos.txt 1
+data.tz.txt 3.1086847136800873
+data.zbjq.txt 4.927148697748023
+data.zdep.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873

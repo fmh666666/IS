@@ -1,7 +1,7 @@
 6
-data.zaip.txt 1
-data.zbcv.txt 1
-data.zcmn.txt 1
-data.zcts.txt 1
-data.zczp.txt 1
-data.zdfl.txt 1
+data.zaip.txt 3.1086847136800873
+data.zbcv.txt 3.1086847136800873
+data.zcmn.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zdfl.txt 3.1086847136800873

@@ -1,12 +1,12 @@
 11
-data.zagr.txt 1
-data.zaic.txt 2
-data.zaqf.txt 1
-data.zbds.txt 1
-data.zbux.txt 1
-data.zbvm.txt 1
-data.zcdv.txt 1
-data.zcef.txt 1
-data.zcku.txt 1
-data.zduk.txt 1
-data.zerv.txt 2
+data.zagr.txt 2.6885433903988862
+data.zaic.txt 4.261240455343955
+data.zaqf.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbux.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcef.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zerv.txt 4.261240455343955

@@ -1,8 +1,8 @@
 7
-data.mx.txt 2
-data.zabx.txt 1
-data.zapl.txt 1
-data.zcse.txt 1
-data.zdeb.txt 1
-data.zdwl.txt 2
-data.zdzg.txt 1
+data.mx.txt 4.757796866583254
+data.zabx.txt 3.0018356045764243
+data.zapl.txt 3.0018356045764243
+data.zcse.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zdwl.txt 4.757796866583254
+data.zdzg.txt 3.0018356045764243

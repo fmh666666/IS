@@ -1,13 +1,13 @@
 12
-data.hz.txt 1
-data.ok.txt 1
-data.zaic.txt 1
-data.zalm.txt 1
-data.zaub.txt 2
-data.zbht.txt 1
-data.zbph.txt 1
-data.zclm.txt 2
-data.zcpx.txt 1
-data.zeec.txt 1
-data.zegl.txt 2
-data.zfaz.txt 1
+data.hz.txt 2.628231699761886
+data.ok.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zalm.txt 2.628231699761886
+data.zaub.txt 4.165648687329214
+data.zbht.txt 2.628231699761886
+data.zbph.txt 2.628231699761886
+data.zclm.txt 4.165648687329214
+data.zcpx.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zegl.txt 4.165648687329214
+data.zfaz.txt 2.628231699761886

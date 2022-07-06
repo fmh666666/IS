@@ -1,13 +1,13 @@
 12
-data.mx.txt 4
-data.zadv.txt 2
-data.zarc.txt 1
-data.zaxk.txt 1
-data.zazx.txt 1
-data.zcej.txt 3
-data.zcpx.txt 1
-data.zcxh.txt 1
-data.zdpf.txt 4
-data.zebv.txt 1
-data.zedx.txt 4
-data.zevt.txt 1
+data.mx.txt 6.1025650235506905
+data.zadv.txt 4.165648687329214
+data.zarc.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zazx.txt 2.628231699761886
+data.zcej.txt 5.256463399523772
+data.zcpx.txt 2.628231699761886
+data.zcxh.txt 2.628231699761886
+data.zdpf.txt 6.1025650235506905
+data.zebv.txt 2.628231699761886
+data.zedx.txt 6.1025650235506905
+data.zevt.txt 2.628231699761886

@@ -1,7 +1,7 @@
 6
-data.hz.txt 2
-data.zazn.txt 1
-data.zbds.txt 1
-data.zcpx.txt 1
-data.zeqv.txt 1
-data.zexv.txt 1
+data.hz.txt 4.927148697748023
+data.zazn.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

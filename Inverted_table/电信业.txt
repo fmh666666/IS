@@ -1,10 +1,10 @@
 9
-data.gw.txt 2
-data.ha.txt 1
-data.zayv.txt 1
-data.zcku.txt 1
-data.zcmx.txt 1
-data.zdgt.txt 1
-data.zdtv.txt 1
-data.zduc.txt 1
-data.zdwz.txt 2
+data.gw.txt 4.48169974735425
+data.ha.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zcku.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdtv.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zdwz.txt 4.48169974735425

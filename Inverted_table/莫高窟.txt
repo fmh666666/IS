@@ -1,11 +1,11 @@
 10
-data.zblq.txt 1
-data.zciq.txt 1
-data.zcpx.txt 1
-data.zdcy.txt 1
-data.zdga.txt 1
-data.zduo.txt 1
-data.zdzg.txt 1
-data.zdzi.txt 1
-data.zdzn.txt 4
-data.zeil.txt 1
+data.zblq.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zcpx.txt 2.7546073728089153
+data.zdcy.txt 2.7546073728089153
+data.zdga.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zdzi.txt 2.7546073728089153
+data.zdzn.txt 6.396000249308887
+data.zeil.txt 2.7546073728089153

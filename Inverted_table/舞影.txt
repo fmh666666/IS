@@ -1,5 +1,5 @@
 4
-data.zawc.txt 1
-data.zdgt.txt 1
-data.zdlw.txt 1
-data.zemb.txt 1
+data.zawc.txt 3.389731710180695
+data.zdgt.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695
+data.zemb.txt 3.389731710180695

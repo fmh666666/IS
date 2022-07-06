@@ -1,10 +1,10 @@
 9
-data.jf.txt 1
-data.ry.txt 1
-data.zafl.txt 1
-data.zavg.txt 1
-data.zcjy.txt 1
-data.zecf.txt 2
-data.zedx.txt 1
-data.zeez.txt 1
-data.zeik.txt 1
+data.jf.txt 2.82763771717948
+data.ry.txt 2.82763771717948
+data.zafl.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zcjy.txt 2.82763771717948
+data.zecf.txt 4.48169974735425
+data.zedx.txt 2.82763771717948
+data.zeez.txt 2.82763771717948
+data.zeik.txt 2.82763771717948

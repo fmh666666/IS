@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zail.txt 1
-data.zalj.txt 1
-data.zdcj.txt 1
-data.zdro.txt 1
+data.bf.txt 3.235060386727117
+data.zail.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zdro.txt 3.235060386727117

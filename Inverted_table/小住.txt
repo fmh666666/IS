@@ -1,5 +1,5 @@
 4
-data.zccu.txt 1
-data.zdmw.txt 1
-data.zdpw.txt 1
-data.zesi.txt 1
+data.zccu.txt 3.389731710180695
+data.zdmw.txt 3.389731710180695
+data.zdpw.txt 3.389731710180695
+data.zesi.txt 3.389731710180695

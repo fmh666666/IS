@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zbkv.txt 1
-data.zeva.txt 1
-data.zexu.txt 1
-data.zezh.txt 1
+data.kt.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zeva.txt 3.235060386727117
+data.zexu.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

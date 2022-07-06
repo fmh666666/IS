@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zcem.txt 2
-data.zcko.txt 1
-data.zcse.txt 1
-data.zebf.txt 1
-data.zexm.txt 1
+data.zadv.txt 3.1086847136800873
+data.zcem.txt 4.927148697748023
+data.zcko.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

@@ -1,11 +1,11 @@
 10
-data.co.txt 1
-data.ek.txt 1
-data.qb.txt 1
-data.zako.txt 1
-data.zasq.txt 1
-data.zaxj.txt 1
-data.zbil.txt 1
-data.zdpw.txt 2
-data.zeaf.txt 2
-data.zfby.txt 1
+data.co.txt 2.7546073728089153
+data.ek.txt 2.7546073728089153
+data.qb.txt 2.7546073728089153
+data.zako.txt 2.7546073728089153
+data.zasq.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zdpw.txt 4.365949390112154
+data.zeaf.txt 4.365949390112154
+data.zfby.txt 2.7546073728089153

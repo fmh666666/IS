@@ -1,10 +1,10 @@
 9
-data.hz.txt 3
-data.zalt.txt 1
-data.zbmt.txt 1
-data.zcll.txt 1
-data.zcwn.txt 1
-data.zdby.txt 2
-data.zdji.txt 1
-data.zevl.txt 1
-data.zewv.txt 1
+data.hz.txt 5.65527543435896
+data.zalt.txt 2.82763771717948
+data.zbmt.txt 2.82763771717948
+data.zcll.txt 2.82763771717948
+data.zcwn.txt 2.82763771717948
+data.zdby.txt 4.48169974735425
+data.zdji.txt 2.82763771717948
+data.zevl.txt 2.82763771717948
+data.zewv.txt 2.82763771717948

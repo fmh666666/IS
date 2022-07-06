@@ -1,6 +1,6 @@
 5
-data.ev.txt 1
-data.zajh.txt 2
-data.zbeb.txt 1
-data.zcee.txt 1
-data.zduk.txt 1
+data.ev.txt 3.235060386727117
+data.zajh.txt 5.1274494005309625
+data.zbeb.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.hu.txt 1
-data.zawz.txt 1
-data.zcgi.txt 1
+data.hu.txt 3.5891377275982888
+data.zawz.txt 3.5891377275982888
+data.zcgi.txt 3.5891377275982888

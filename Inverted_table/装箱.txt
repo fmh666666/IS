@@ -1,11 +1,11 @@
 10
-data.zbsl.txt 3
-data.zcll.txt 2
-data.zcqs.txt 1
-data.zcrn.txt 1
-data.zctp.txt 2
-data.zdqx.txt 2
-data.zeec.txt 1
-data.zegl.txt 1
-data.zeid.txt 1
-data.zfcg.txt 1
+data.zbsl.txt 5.509214745617831
+data.zcll.txt 4.365949390112154
+data.zcqs.txt 2.7546073728089153
+data.zcrn.txt 2.7546073728089153
+data.zctp.txt 4.365949390112154
+data.zdqx.txt 4.365949390112154
+data.zeec.txt 2.7546073728089153
+data.zegl.txt 2.7546073728089153
+data.zeid.txt 2.7546073728089153
+data.zfcg.txt 2.7546073728089153

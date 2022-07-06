@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.tj.txt 1
-data.zabe.txt 1
-data.zcpx.txt 2
-data.zelj.txt 1
+data.fp.txt 3.235060386727117
+data.tj.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zcpx.txt 5.1274494005309625
+data.zelj.txt 3.235060386727117

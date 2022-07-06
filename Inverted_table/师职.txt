@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.zcdz.txt 1
-data.zcmx.txt 1
-data.zdcj.txt 1
-data.zdju.txt 1
+data.cq.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zdju.txt 3.235060386727117

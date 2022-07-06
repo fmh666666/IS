@@ -1,10 +1,10 @@
 9
-data.fz.txt 2
-data.tv.txt 1
-data.zaic.txt 1
-data.zaim.txt 1
-data.zbdb.txt 1
-data.zbfx.txt 1
-data.zdwz.txt 1
-data.zefu.txt 1
-data.zeoh.txt 1
+data.fz.txt 4.48169974735425
+data.tv.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zdwz.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

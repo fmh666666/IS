@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.zbfz.txt 1
-data.zdcy.txt 1
-data.zdzn.txt 1
-data.zegl.txt 1
+data.be.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zegl.txt 3.235060386727117

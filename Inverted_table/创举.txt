@@ -1,9 +1,9 @@
 8
-data.gw.txt 2
-data.pn.txt 1
-data.to.txt 1
-data.zaxx.txt 1
-data.zbyv.txt 1
-data.zdgo.txt 1
-data.zemb.txt 1
-data.zfai.txt 1
+data.gw.txt 4.611097637722987
+data.pn.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zbyv.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

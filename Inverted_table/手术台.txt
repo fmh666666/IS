@@ -1,11 +1,11 @@
 10
-data.cf.txt 2
-data.ew.txt 1
-data.uz.txt 1
-data.yx.txt 1
-data.zagb.txt 1
-data.zasq.txt 4
-data.zbsl.txt 1
-data.zbyb.txt 2
-data.zcjo.txt 1
-data.zeqh.txt 1
+data.cf.txt 4.365949390112154
+data.ew.txt 2.7546073728089153
+data.uz.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zagb.txt 2.7546073728089153
+data.zasq.txt 6.396000249308887
+data.zbsl.txt 2.7546073728089153
+data.zbyb.txt 4.365949390112154
+data.zcjo.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153

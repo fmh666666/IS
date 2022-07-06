@@ -1,13 +1,13 @@
 12
-data.nh.txt 1
-data.yx.txt 1
-data.zbcj.txt 1
-data.zblq.txt 1
-data.zbvm.txt 2
-data.zbzo.txt 1
-data.zcpa.txt 1
-data.zcww.txt 3
-data.zczb.txt 1
-data.zczj.txt 1
-data.zczp.txt 1
-data.zdby.txt 1
+data.nh.txt 2.628231699761886
+data.yx.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zbvm.txt 4.165648687329214
+data.zbzo.txt 2.628231699761886
+data.zcpa.txt 2.628231699761886
+data.zcww.txt 5.256463399523772
+data.zczb.txt 2.628231699761886
+data.zczj.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdby.txt 2.628231699761886

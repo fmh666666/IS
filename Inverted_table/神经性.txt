@@ -1,7 +1,7 @@
 6
-data.fz.txt 1
-data.qn.txt 1
-data.zczp.txt 1
-data.zdgp.txt 1
-data.zegz.txt 1
-data.zeqh.txt 1
+data.fz.txt 3.1086847136800873
+data.qn.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873

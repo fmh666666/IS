@@ -1,6 +1,6 @@
 5
-data.zabe.txt 2
-data.zawb.txt 1
-data.zawu.txt 1
-data.zdlg.txt 4
-data.zfcg.txt 2
+data.zabe.txt 5.1274494005309625
+data.zawb.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zdlg.txt 7.511577600598868
+data.zfcg.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zcdl.txt 1
-data.zcwq.txt 1
-data.zelt.txt 1
-data.zfas.txt 1
+data.zacd.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zcwq.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

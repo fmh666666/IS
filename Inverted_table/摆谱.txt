@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.ha.txt 1
-data.ka.txt 1
-data.zaim.txt 1
-data.zbdx.txt 1
-data.zbor.txt 1
-data.zcon.txt 2
-data.zcqe.txt 1
-data.zdji.txt 1
-data.zdkk.txt 1
-data.zdpf.txt 1
-data.zduk.txt 1
-data.zfaj.txt 4
+data.be.txt 2.5727503226135906
+data.ha.txt 2.5727503226135906
+data.ka.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zcon.txt 4.077712785060798
+data.zcqe.txt 2.5727503226135906
+data.zdji.txt 2.5727503226135906
+data.zdkk.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906
+data.zduk.txt 2.5727503226135906
+data.zfaj.txt 5.97374125520702

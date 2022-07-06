@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zbye.txt 1
-data.zeel.txt 1
+data.zabe.txt 3.5891377275982888
+data.zbye.txt 3.5891377275982888
+data.zeel.txt 3.5891377275982888

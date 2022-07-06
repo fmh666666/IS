@@ -1,6 +1,6 @@
 5
-data.ff.txt 2
-data.zabe.txt 1
-data.zcsu.txt 7
-data.zeeq.txt 1
-data.zeqn.txt 1
+data.ff.txt 5.1274494005309625
+data.zabe.txt 3.235060386727117
+data.zcsu.txt 9.70518116018135
+data.zeeq.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117

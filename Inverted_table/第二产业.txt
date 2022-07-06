@@ -1,4 +1,4 @@
 3
-data.zbdx.txt 1
-data.zdtr.txt 1
-data.zeew.txt 1
+data.zbdx.txt 3.5891377275982888
+data.zdtr.txt 3.5891377275982888
+data.zeew.txt 3.5891377275982888

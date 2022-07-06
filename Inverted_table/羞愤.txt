@@ -1,5 +1,5 @@
 4
-data.zadv.txt 1
-data.zavg.txt 1
-data.zerw.txt 1
-data.zfby.txt 1
+data.zadv.txt 3.389731710180695
+data.zavg.txt 3.389731710180695
+data.zerw.txt 3.389731710180695
+data.zfby.txt 3.389731710180695

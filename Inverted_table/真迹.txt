@@ -1,9 +1,9 @@
 8
-data.zadv.txt 1
-data.zajo.txt 1
-data.zctp.txt 4
-data.zczl.txt 1
-data.zdcw.txt 1
-data.zdzg.txt 1
-data.zdzi.txt 1
-data.zeel.txt 1
+data.zadv.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zctp.txt 6.7551359407091605
+data.zczl.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935

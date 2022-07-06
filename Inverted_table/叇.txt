@@ -1,2 +1,2 @@
 1
-data.zagr.txt 1
+data.zagr.txt 4.350637738017098

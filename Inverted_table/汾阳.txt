@@ -1,7 +1,7 @@
 6
-data.zbbt.txt 1
-data.zbup.txt 1
-data.zccu.txt 2
-data.zdwn.txt 3
-data.zebv.txt 1
-data.zecf.txt 1
+data.zbbt.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zccu.txt 4.927148697748023
+data.zdwn.txt 6.2173694273601745
+data.zebv.txt 3.1086847136800873
+data.zecf.txt 3.1086847136800873

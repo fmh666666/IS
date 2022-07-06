@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.zcem.txt 1
-data.zdds.txt 1
-data.zdmw.txt 1
-data.zeez.txt 1
-data.zewg.txt 1
+data.cz.txt 3.1086847136800873
+data.zcem.txt 3.1086847136800873
+data.zdds.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873
+data.zewg.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zasw.txt 1
-data.zbzf.txt 1
-data.zczl.txt 1
-data.zddv.txt 1
-data.zdhw.txt 1
+data.zabe.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zczl.txt 3.1086847136800873
+data.zddv.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873

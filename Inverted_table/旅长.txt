@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zaxp.txt 2
-data.zedk.txt 2
-data.zevq.txt 1
+data.zaim.txt 3.389731710180695
+data.zaxp.txt 5.372597648141796
+data.zedk.txt 5.372597648141796
+data.zevq.txt 3.389731710180695

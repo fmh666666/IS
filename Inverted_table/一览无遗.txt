@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zawb.txt 1
-data.zebv.txt 1
-data.zefp.txt 1
-data.zefu.txt 1
+data.gk.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zebv.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zefu.txt 3.235060386727117

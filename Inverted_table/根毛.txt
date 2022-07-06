@@ -1,8 +1,8 @@
 7
-data.zavg.txt 1
-data.zbga.txt 1
-data.zcts.txt 1
-data.zcvt.txt 1
-data.zdwn.txt 1
-data.zegl.txt 1
-data.zeyu.txt 1
+data.zavg.txt 3.0018356045764243
+data.zbga.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zcvt.txt 3.0018356045764243
+data.zdwn.txt 3.0018356045764243
+data.zegl.txt 3.0018356045764243
+data.zeyu.txt 3.0018356045764243

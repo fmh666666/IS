@@ -1,9 +1,9 @@
 8
-data.uz.txt 1
-data.zaim.txt 1
-data.zawc.txt 1
-data.zbqu.txt 2
-data.zbts.txt 131
-data.zciy.txt 1
-data.zdst.txt 3
-data.zeqn.txt 1
+data.uz.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbqu.txt 4.611097637722987
+data.zbts.txt 20.494105739526336
+data.zciy.txt 2.9092786962624935
+data.zdst.txt 5.818557392524987
+data.zeqn.txt 2.9092786962624935

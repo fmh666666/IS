@@ -1,7 +1,7 @@
 6
-data.mu.txt 1
-data.zbzf.txt 1
-data.zcpx.txt 1
-data.zdgv.txt 1
-data.zdzg.txt 4
-data.zelt.txt 1
+data.mu.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zdzg.txt 7.21814237484067
+data.zelt.txt 3.1086847136800873

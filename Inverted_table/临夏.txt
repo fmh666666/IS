@@ -1,4 +1,4 @@
 3
-data.zdcy.txt 1
-data.zdhv.txt 1
-data.zeew.txt 16
+data.zdcy.txt 3.5891377275982888
+data.zdhv.txt 3.5891377275982888
+data.zeew.txt 14.670467093687689

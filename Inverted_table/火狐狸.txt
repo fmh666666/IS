@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zauy.txt 3
-data.zdpw.txt 3
+data.zabe.txt 3.5891377275982888
+data.zauy.txt 7.1782754551965775
+data.zdpw.txt 7.1782754551965775

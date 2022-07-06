@@ -1,4 +1,4 @@
 3
-data.zajr.txt 1
-data.zauy.txt 1
-data.zcbe.txt 1
+data.zajr.txt 3.5891377275982888
+data.zauy.txt 3.5891377275982888
+data.zcbe.txt 3.5891377275982888

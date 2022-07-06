@@ -1,5 +1,5 @@
 4
-data.kt.txt 1
-data.zawo.txt 1
-data.zbkr.txt 3
-data.zfai.txt 1
+data.kt.txt 3.389731710180695
+data.zawo.txt 3.389731710180695
+data.zbkr.txt 6.77946342036139
+data.zfai.txt 3.389731710180695

@@ -1,5 +1,5 @@
 4
-data.zaxj.txt 1
-data.zbdb.txt 3
-data.zcue.txt 1
-data.zdyv.txt 1
+data.zaxj.txt 3.389731710180695
+data.zbdb.txt 6.77946342036139
+data.zcue.txt 3.389731710180695
+data.zdyv.txt 3.389731710180695

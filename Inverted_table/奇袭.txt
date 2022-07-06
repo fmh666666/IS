@@ -1,7 +1,7 @@
 6
-data.zaim.txt 1
-data.zbel.txt 1
-data.zbmt.txt 1
-data.zcic.txt 1
-data.zdil.txt 1
-data.zdlm.txt 1
+data.zaim.txt 3.1086847136800873
+data.zbel.txt 3.1086847136800873
+data.zbmt.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873
+data.zdlm.txt 3.1086847136800873

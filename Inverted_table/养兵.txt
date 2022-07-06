@@ -1,2 +1,2 @@
 1
-data.zbpc.txt 2
+data.zbpc.txt 6.8955976689794145

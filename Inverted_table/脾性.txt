@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.cq.txt 1
-data.zabe.txt 2
-data.zaop.txt 1
-data.zawu.txt 1
-data.zbjq.txt 1
-data.zbrj.txt 1
-data.zdzn.txt 1
+data.bb.txt 2.9092786962624935
+data.cq.txt 2.9092786962624935
+data.zabe.txt 4.611097637722987
+data.zaop.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935

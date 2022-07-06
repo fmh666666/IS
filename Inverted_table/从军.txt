@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.hg.txt 1
-data.zadv.txt 1
-data.zajo.txt 1
-data.zamr.txt 1
-data.zasw.txt 1
-data.zbga.txt 1
-data.zdoc.txt 1
-data.zefp.txt 1
-data.zess.txt 1
-data.zevq.txt 1
+data.aj.txt 2.6885433903988862
+data.hg.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zasw.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zdoc.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862
+data.zess.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862

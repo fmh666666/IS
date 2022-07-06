@@ -1,9 +1,9 @@
 8
-data.zacd.txt 1
-data.zajn.txt 1
-data.zbnx.txt 1
-data.zbsu.txt 1
-data.zcef.txt 1
-data.zddv.txt 1
-data.zdme.txt 3
-data.zdqx.txt 1
+data.zacd.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zdme.txt 5.818557392524987
+data.zdqx.txt 2.9092786962624935

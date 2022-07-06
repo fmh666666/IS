@@ -1,9 +1,9 @@
 8
-data.fe.txt 1
-data.ga.txt 1
-data.zbfp.txt 1
-data.zdkv.txt 1
-data.zdlm.txt 1
-data.zdwv.txt 1
-data.zejn.txt 1
-data.zfaj.txt 1
+data.fe.txt 2.9092786962624935
+data.ga.txt 2.9092786962624935
+data.zbfp.txt 2.9092786962624935
+data.zdkv.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935
+data.zdwv.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

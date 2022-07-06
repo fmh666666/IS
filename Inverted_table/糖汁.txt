@@ -1,7 +1,7 @@
 6
-data.zbvg.txt 2
-data.zcrk.txt 1
-data.zcts.txt 1
-data.zdwk.txt 3
-data.zekw.txt 1
-data.zfcp.txt 1
+data.zbvg.txt 4.927148697748023
+data.zcrk.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdwk.txt 6.2173694273601745
+data.zekw.txt 3.1086847136800873
+data.zfcp.txt 3.1086847136800873

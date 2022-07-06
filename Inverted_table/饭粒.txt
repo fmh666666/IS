@@ -1,8 +1,8 @@
 7
-data.zaop.txt 2
-data.zciy.txt 1
-data.zcjd.txt 1
-data.zcts.txt 1
-data.zdxw.txt 1
-data.zebf.txt 1
-data.zedo.txt 1
+data.zaop.txt 4.757796866583254
+data.zciy.txt 3.0018356045764243
+data.zcjd.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zdxw.txt 3.0018356045764243
+data.zebf.txt 3.0018356045764243
+data.zedo.txt 3.0018356045764243

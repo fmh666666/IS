@@ -1,6 +1,6 @@
 5
-data.ry.txt 2
-data.zbcc.txt 1
-data.zcel.txt 1
-data.zdey.txt 1
-data.zexk.txt 1
+data.ry.txt 5.1274494005309625
+data.zbcc.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zdey.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

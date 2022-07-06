@@ -1,7 +1,7 @@
 6
-data.zbfr.txt 1
-data.zcbe.txt 1
-data.zcee.txt 2
-data.zctp.txt 1
-data.zdoq.txt 1
-data.zezh.txt 1
+data.zbfr.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zcee.txt 4.927148697748023
+data.zctp.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873
+data.zezh.txt 3.1086847136800873

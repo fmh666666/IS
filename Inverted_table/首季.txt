@@ -1,6 +1,6 @@
 5
-data.zayc.txt 1
-data.zbfz.txt 1
-data.zbut.txt 1
-data.zdzg.txt 1
-data.zeva.txt 2
+data.zayc.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117
+data.zeva.txt 5.1274494005309625

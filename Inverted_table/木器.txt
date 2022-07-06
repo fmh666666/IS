@@ -1,7 +1,7 @@
 6
-data.cq.txt 3
-data.kt.txt 1
-data.zacd.txt 1
-data.zaim.txt 1
-data.zazo.txt 1
-data.zblr.txt 1
+data.cq.txt 6.2173694273601745
+data.kt.txt 3.1086847136800873
+data.zacd.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zazo.txt 3.1086847136800873
+data.zblr.txt 3.1086847136800873

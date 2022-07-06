@@ -1,9 +1,9 @@
 8
-data.zalm.txt 1
-data.zavg.txt 1
-data.zavx.txt 1
-data.zcdv.txt 1
-data.zcej.txt 1
-data.zclh.txt 1
-data.zcon.txt 1
-data.zdrq.txt 1
+data.zalm.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zavx.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcej.txt 2.9092786962624935
+data.zclh.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.mo.txt 4
-data.zajr.txt 1
-data.zejn.txt 3
+data.mo.txt 8.333719726130651
+data.zajr.txt 3.5891377275982888
+data.zejn.txt 7.1782754551965775

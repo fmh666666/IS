@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.jf.txt 1
-data.zapl.txt 1
-data.zcdg.txt 1
-data.zcmx.txt 1
-data.zczp.txt 1
-data.zefv.txt 1
-data.zexv.txt 2
+data.fp.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zefv.txt 2.9092786962624935
+data.zexv.txt 4.611097637722987

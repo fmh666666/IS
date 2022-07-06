@@ -1,4 +1,4 @@
 3
-data.zbua.txt 1
-data.zecf.txt 1
-data.zedy.txt 1
+data.zbua.txt 3.5891377275982888
+data.zecf.txt 3.5891377275982888
+data.zedy.txt 3.5891377275982888

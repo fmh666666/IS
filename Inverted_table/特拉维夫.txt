@@ -1,4 +1,4 @@
 3
-data.cf.txt 1
-data.zbga.txt 1
-data.zbpx.txt 3
+data.cf.txt 3.5891377275982888
+data.zbga.txt 3.5891377275982888
+data.zbpx.txt 7.1782754551965775

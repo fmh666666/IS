@@ -1,7 +1,7 @@
 6
-data.zate.txt 1
-data.zbpx.txt 1
-data.zcdg.txt 3
-data.zcxr.txt 1
-data.zdqq.txt 1
-data.zerw.txt 1
+data.zate.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zcdg.txt 6.2173694273601745
+data.zcxr.txt 3.1086847136800873
+data.zdqq.txt 3.1086847136800873
+data.zerw.txt 3.1086847136800873

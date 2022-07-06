@@ -1,5 +1,5 @@
 4
-data.fz.txt 1
-data.hg.txt 1
-data.kq.txt 1
-data.zezn.txt 1
+data.fz.txt 3.389731710180695
+data.hg.txt 3.389731710180695
+data.kq.txt 3.389731710180695
+data.zezn.txt 3.389731710180695

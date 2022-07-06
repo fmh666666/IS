@@ -1,4 +1,4 @@
 3
-data.zako.txt 1
-data.zayc.txt 1
-data.zbrj.txt 1
+data.zako.txt 3.5891377275982888
+data.zayc.txt 3.5891377275982888
+data.zbrj.txt 3.5891377275982888

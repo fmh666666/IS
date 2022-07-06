@@ -1,4 +1,4 @@
 3
-data.uz.txt 1
-data.zanh.txt 1
-data.zbzf.txt 1
+data.uz.txt 3.5891377275982888
+data.zanh.txt 3.5891377275982888
+data.zbzf.txt 3.5891377275982888

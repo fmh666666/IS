@@ -1,4 +1,4 @@
 3
-data.zbhv.txt 1
-data.zbmt.txt 1
-data.zety.txt 1
+data.zbhv.txt 3.5891377275982888
+data.zbmt.txt 3.5891377275982888
+data.zety.txt 3.5891377275982888

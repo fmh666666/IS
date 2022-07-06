@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.zafv.txt 1
-data.zafy.txt 1
-data.zahd.txt 1
-data.zajo.txt 1
-data.zavx.txt 1
-data.zaxx.txt 1
-data.zcnn.txt 1
-data.zddp.txt 1
-data.zdux.txt 1
-data.zdyv.txt 1
-data.zfai.txt 1
+data.fp.txt 2.628231699761886
+data.zafv.txt 2.628231699761886
+data.zafy.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zavx.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdux.txt 2.628231699761886
+data.zdyv.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

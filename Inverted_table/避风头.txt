@@ -1,8 +1,8 @@
 7
-data.zawo.txt 1
-data.zbua.txt 2
-data.zcdv.txt 1
-data.zdaw.txt 1
-data.zdgt.txt 1
-data.zdpf.txt 1
-data.zeay.txt 1
+data.zawo.txt 3.0018356045764243
+data.zbua.txt 4.757796866583254
+data.zcdv.txt 3.0018356045764243
+data.zdaw.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243
+data.zdpf.txt 3.0018356045764243
+data.zeay.txt 3.0018356045764243

@@ -1,7 +1,7 @@
 6
-data.hu.txt 1
-data.ud.txt 2
-data.zamp.txt 1
-data.zawc.txt 1
-data.zbnx.txt 1
-data.zcmx.txt 1
+data.hu.txt 3.1086847136800873
+data.ud.txt 4.927148697748023
+data.zamp.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zcmx.txt 3.1086847136800873

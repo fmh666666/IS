@@ -1,11 +1,11 @@
 10
-data.ee.txt 1
-data.ka.txt 1
-data.zadv.txt 1
-data.zaoo.txt 1
-data.zapl.txt 1
-data.zbaf.txt 1
-data.zcon.txt 1
-data.zdqz.txt 1
-data.zeez.txt 1
-data.zevq.txt 1
+data.ee.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zaoo.txt 2.7546073728089153
+data.zapl.txt 2.7546073728089153
+data.zbaf.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zdqz.txt 2.7546073728089153
+data.zeez.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153

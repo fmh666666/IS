@@ -1,4 +1,4 @@
 3
-data.zarr.txt 1
-data.zbjh.txt 1
-data.zbvm.txt 1
+data.zarr.txt 3.5891377275982888
+data.zbjh.txt 3.5891377275982888
+data.zbvm.txt 3.5891377275982888

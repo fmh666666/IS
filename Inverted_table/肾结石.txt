@@ -1,11 +1,11 @@
 10
-data.cq.txt 1
-data.dg.txt 3
-data.ry.txt 1
-data.zaim.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zcon.txt 1
-data.zctp.txt 6
-data.zehb.txt 2
-data.zeid.txt 1
+data.cq.txt 2.7546073728089153
+data.dg.txt 5.509214745617831
+data.ry.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zctp.txt 7.733160566391275
+data.zehb.txt 4.365949390112154
+data.zeid.txt 2.7546073728089153

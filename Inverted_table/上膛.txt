@@ -1,8 +1,8 @@
 7
-data.zamr.txt 2
-data.zanh.txt 1
-data.zazo.txt 1
-data.zbia.txt 1
-data.zcaq.txt 2
-data.zdgv.txt 1
-data.zeyu.txt 1
+data.zamr.txt 4.757796866583254
+data.zanh.txt 3.0018356045764243
+data.zazo.txt 3.0018356045764243
+data.zbia.txt 3.0018356045764243
+data.zcaq.txt 4.757796866583254
+data.zdgv.txt 3.0018356045764243
+data.zeyu.txt 3.0018356045764243

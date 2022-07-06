@@ -1,7 +1,7 @@
 6
-data.zajo.txt 1
-data.zawb.txt 1
-data.zaxx.txt 2
-data.zcnn.txt 1
-data.zdkv.txt 1
-data.zesq.txt 1
+data.zajo.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zaxx.txt 4.927148697748023
+data.zcnn.txt 3.1086847136800873
+data.zdkv.txt 3.1086847136800873
+data.zesq.txt 3.1086847136800873

@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.hp.txt 1
-data.zabe.txt 1
-data.zakb.txt 1
-data.zasy.txt 1
-data.zbjh.txt 2
-data.zbpp.txt 1
-data.zbuj.txt 1
-data.zcni.txt 1
-data.zcuh.txt 1
-data.zeec.txt 1
-data.zelt.txt 1
-data.zfby.txt 1
+data.ga.txt 2.5727503226135906
+data.hp.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zakb.txt 2.5727503226135906
+data.zasy.txt 2.5727503226135906
+data.zbjh.txt 4.077712785060798
+data.zbpp.txt 2.5727503226135906
+data.zbuj.txt 2.5727503226135906
+data.zcni.txt 2.5727503226135906
+data.zcuh.txt 2.5727503226135906
+data.zeec.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zfby.txt 2.5727503226135906

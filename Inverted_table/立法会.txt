@@ -1,6 +1,6 @@
 5
-data.ga.txt 2
-data.zafq.txt 2
-data.zbdb.txt 2
-data.zbeb.txt 1
-data.zeos.txt 1
+data.ga.txt 5.1274494005309625
+data.zafq.txt 5.1274494005309625
+data.zbdb.txt 5.1274494005309625
+data.zbeb.txt 3.235060386727117
+data.zeos.txt 3.235060386727117

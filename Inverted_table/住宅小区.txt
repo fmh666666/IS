@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.zbla.txt 1
-data.zdof.txt 1
+data.hp.txt 3.5891377275982888
+data.zbla.txt 3.5891377275982888
+data.zdof.txt 3.5891377275982888

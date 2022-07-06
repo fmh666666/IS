@@ -1,13 +1,13 @@
 12
-data.zafv.txt 2
-data.zarr.txt 1
-data.zaxp.txt 2
-data.zazo.txt 1
-data.zbcc.txt 1
-data.zbjc.txt 4
-data.zbpc.txt 4
-data.zdlg.txt 1
-data.zdwv.txt 2
-data.zemb.txt 1
-data.zenw.txt 1
-data.zeva.txt 2
+data.zafv.txt 4.165648687329214
+data.zarr.txt 2.628231699761886
+data.zaxp.txt 4.165648687329214
+data.zazo.txt 2.628231699761886
+data.zbcc.txt 2.628231699761886
+data.zbjc.txt 6.1025650235506905
+data.zbpc.txt 6.1025650235506905
+data.zdlg.txt 2.628231699761886
+data.zdwv.txt 4.165648687329214
+data.zemb.txt 2.628231699761886
+data.zenw.txt 2.628231699761886
+data.zeva.txt 4.165648687329214

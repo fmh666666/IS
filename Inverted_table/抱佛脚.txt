@@ -1,9 +1,9 @@
 8
-data.zacd.txt 1
-data.zakb.txt 1
-data.zbux.txt 1
-data.zbwa.txt 1
-data.zcpa.txt 1
-data.zcql.txt 1
-data.zdud.txt 3
-data.zeqv.txt 1
+data.zacd.txt 2.9092786962624935
+data.zakb.txt 2.9092786962624935
+data.zbux.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zcpa.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdud.txt 5.818557392524987
+data.zeqv.txt 2.9092786962624935

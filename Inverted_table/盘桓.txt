@@ -1,5 +1,5 @@
 4
-data.zail.txt 1
-data.zbts.txt 1
-data.zduo.txt 1
-data.zeaf.txt 1
+data.zail.txt 3.389731710180695
+data.zbts.txt 3.389731710180695
+data.zduo.txt 3.389731710180695
+data.zeaf.txt 3.389731710180695

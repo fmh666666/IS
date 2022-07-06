@@ -1,13 +1,13 @@
 12
-data.ft.txt 1
-data.zako.txt 1
-data.zbcj.txt 1
-data.zcni.txt 2
-data.zcoy.txt 1
-data.zctp.txt 2
-data.zdtr.txt 1
-data.zdwz.txt 1
-data.zefp.txt 1
-data.zenw.txt 1
-data.zezh.txt 1
-data.zfbr.txt 1
+data.ft.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zcni.txt 4.165648687329214
+data.zcoy.txt 2.628231699761886
+data.zctp.txt 4.165648687329214
+data.zdtr.txt 2.628231699761886
+data.zdwz.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zenw.txt 2.628231699761886
+data.zezh.txt 2.628231699761886
+data.zfbr.txt 2.628231699761886

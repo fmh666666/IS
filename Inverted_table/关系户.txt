@@ -1,7 +1,7 @@
 6
-data.hz.txt 1
-data.op.txt 1
-data.zbpx.txt 1
-data.zcni.txt 2
-data.zcse.txt 1
-data.zeac.txt 1
+data.hz.txt 3.1086847136800873
+data.op.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zcni.txt 4.927148697748023
+data.zcse.txt 3.1086847136800873
+data.zeac.txt 3.1086847136800873

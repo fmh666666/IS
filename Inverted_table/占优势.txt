@@ -1,9 +1,9 @@
 8
-data.ha.txt 1
-data.ok.txt 1
-data.zcdz.txt 1
-data.zduk.txt 1
-data.zebf.txt 1
-data.zedo.txt 1
-data.zeoo.txt 1
-data.zezf.txt 1
+data.ha.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zezf.txt 2.9092786962624935

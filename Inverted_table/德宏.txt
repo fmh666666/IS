@@ -1,12 +1,12 @@
 11
-data.bf.txt 1
-data.zaip.txt 1
-data.zbhv.txt 4
-data.zbkf.txt 4
-data.zbpx.txt 3
-data.zcaq.txt 4
-data.zdqx.txt 5
-data.zduc.txt 1
-data.zedd.txt 4
-data.zefd.txt 5
-data.zelj.txt 1
+data.bf.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zbhv.txt 6.2426044324908965
+data.zbkf.txt 6.2426044324908965
+data.zbpx.txt 5.3770867807977725
+data.zcaq.txt 6.2426044324908965
+data.zdqx.txt 6.949783845742841
+data.zduc.txt 2.6885433903988862
+data.zedd.txt 6.2426044324908965
+data.zefd.txt 6.949783845742841
+data.zelj.txt 2.6885433903988862

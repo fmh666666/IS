@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zacd.txt 1
-data.zbeb.txt 1
-data.zbpx.txt 1
-data.zdzn.txt 2
+data.op.txt 5.1274494005309625
+data.zacd.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zdzn.txt 5.1274494005309625

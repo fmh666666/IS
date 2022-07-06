@@ -1,6 +1,6 @@
 5
-data.zabj.txt 1
-data.zalm.txt 1
-data.zcnn.txt 1
-data.zdkp.txt 2
-data.zewd.txt 1
+data.zabj.txt 3.235060386727117
+data.zalm.txt 3.235060386727117
+data.zcnn.txt 3.235060386727117
+data.zdkp.txt 5.1274494005309625
+data.zewd.txt 3.235060386727117

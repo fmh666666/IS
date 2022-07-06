@@ -1,13 +1,13 @@
 12
-data.ry.txt 3
-data.vm.txt 1
-data.zabe.txt 1
-data.zbha.txt 1
-data.zbyv.txt 1
-data.zcda.txt 1
-data.zcic.txt 1
-data.zcxr.txt 2
-data.zdwv.txt 2
-data.zedo.txt 1
-data.zeqh.txt 1
-data.zeta.txt 1
+data.ry.txt 5.256463399523772
+data.vm.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zbha.txt 2.628231699761886
+data.zbyv.txt 2.628231699761886
+data.zcda.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zcxr.txt 4.165648687329214
+data.zdwv.txt 4.165648687329214
+data.zedo.txt 2.628231699761886
+data.zeqh.txt 2.628231699761886
+data.zeta.txt 2.628231699761886

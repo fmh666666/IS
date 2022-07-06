@@ -1,5 +1,5 @@
 4
-data.ew.txt 1
-data.zdey.txt 1
-data.zdwl.txt 1
-data.zfaj.txt 1
+data.ew.txt 3.389731710180695
+data.zdey.txt 3.389731710180695
+data.zdwl.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

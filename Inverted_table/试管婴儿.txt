@@ -1,11 +1,11 @@
 10
-data.zapl.txt 1
-data.zbds.txt 1
-data.zcpc.txt 1
-data.zctm.txt 1
-data.zdcy.txt 1
-data.zdqx.txt 1
-data.zdwk.txt 1
-data.zebf.txt 1
-data.zedk.txt 1
-data.zene.txt 1
+data.zapl.txt 2.7546073728089153
+data.zbds.txt 2.7546073728089153
+data.zcpc.txt 2.7546073728089153
+data.zctm.txt 2.7546073728089153
+data.zdcy.txt 2.7546073728089153
+data.zdqx.txt 2.7546073728089153
+data.zdwk.txt 2.7546073728089153
+data.zebf.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

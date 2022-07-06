@@ -1,6 +1,6 @@
 5
-data.tz.txt 2
-data.zdkk.txt 1
-data.zdpw.txt 1
-data.zdzi.txt 1
-data.zeac.txt 1
+data.tz.txt 5.1274494005309625
+data.zdkk.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117
+data.zeac.txt 3.235060386727117

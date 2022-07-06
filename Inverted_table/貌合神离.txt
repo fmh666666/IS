@@ -1,7 +1,7 @@
 6
-data.ry.txt 1
-data.to.txt 1
-data.zabe.txt 2
-data.zane.txt 1
-data.zcxr.txt 1
-data.zdaw.txt 1
+data.ry.txt 3.1086847136800873
+data.to.txt 3.1086847136800873
+data.zabe.txt 4.927148697748023
+data.zane.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.op.txt 2
-data.zbhd.txt 1
-data.zbye.txt 1
-data.zcdz.txt 1
+data.op.txt 5.372597648141796
+data.zbhd.txt 3.389731710180695
+data.zbye.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695

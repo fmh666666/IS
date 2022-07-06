@@ -1,4 +1,4 @@
 3
-data.zbsu.txt 1
-data.zcic.txt 1
-data.zegl.txt 1
+data.zbsu.txt 3.5891377275982888
+data.zcic.txt 3.5891377275982888
+data.zegl.txt 3.5891377275982888

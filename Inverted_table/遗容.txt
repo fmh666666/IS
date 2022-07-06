@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zadv.txt 1
-data.zahd.txt 1
-data.zefv.txt 1
-data.zfdk.txt 1
+data.zabe.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zahd.txt 3.235060386727117
+data.zefv.txt 3.235060386727117
+data.zfdk.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.zajh.txt 1
-data.zarc.txt 6
-data.zbhd.txt 1
-data.zdeb.txt 1
-data.zdoq.txt 3
-data.zebv.txt 1
+data.zajh.txt 3.1086847136800873
+data.zarc.txt 8.727181332075027
+data.zbhd.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zdoq.txt 6.2173694273601745
+data.zebv.txt 3.1086847136800873

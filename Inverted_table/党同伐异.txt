@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zakb.txt 1
-data.zcgo.txt 1
-data.zcmx.txt 1
-data.zdcy.txt 1
-data.zedy.txt 1
+data.hp.txt 3.1086847136800873
+data.zakb.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zcmx.txt 3.1086847136800873
+data.zdcy.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873

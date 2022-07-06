@@ -1,4 +1,4 @@
 3
-data.zbjq.txt 1
-data.zdlw.txt 1
-data.zeaf.txt 1
+data.zbjq.txt 3.5891377275982888
+data.zdlw.txt 3.5891377275982888
+data.zeaf.txt 3.5891377275982888

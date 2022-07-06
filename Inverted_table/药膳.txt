@@ -1,10 +1,10 @@
 9
-data.ry.txt 1
-data.zabe.txt 1
-data.zafl.txt 1
-data.zbcj.txt 1
-data.zctp.txt 4
-data.zcxq.txt 2
-data.zdoq.txt 1
-data.zeid.txt 2
-data.zenw.txt 1
+data.ry.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zafl.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zctp.txt 6.565571457682201
+data.zcxq.txt 4.48169974735425
+data.zdoq.txt 2.82763771717948
+data.zeid.txt 4.48169974735425
+data.zenw.txt 2.82763771717948

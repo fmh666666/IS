@@ -1,7 +1,7 @@
 6
-data.tj.txt 1
-data.zbil.txt 1
-data.zcln.txt 1
-data.zdgo.txt 1
-data.zegz.txt 1
-data.zess.txt 2
+data.tj.txt 3.1086847136800873
+data.zbil.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zdgo.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zess.txt 4.927148697748023

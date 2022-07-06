@@ -1,14 +1,14 @@
 13
-data.tz.txt 1
-data.zabe.txt 1
-data.zafe.txt 1
-data.zaim.txt 1
-data.zbsf.txt 1
-data.zcql.txt 1
-data.zcrg.txt 1
-data.zcww.txt 1
-data.zdme.txt 1
-data.zeec.txt 1
-data.zesi.txt 1
-data.zevt.txt 1
-data.zeyg.txt 1
+data.tz.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zafe.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zbsf.txt 2.5727503226135906
+data.zcql.txt 2.5727503226135906
+data.zcrg.txt 2.5727503226135906
+data.zcww.txt 2.5727503226135906
+data.zdme.txt 2.5727503226135906
+data.zeec.txt 2.5727503226135906
+data.zesi.txt 2.5727503226135906
+data.zevt.txt 2.5727503226135906
+data.zeyg.txt 2.5727503226135906

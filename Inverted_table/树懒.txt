@@ -1,9 +1,9 @@
 8
-data.gw.txt 4
-data.xe.txt 1
-data.zbdx.txt 1
-data.zblr.txt 1
-data.zcwn.txt 1
-data.zdil.txt 1
-data.zejn.txt 2
-data.zeos.txt 1
+data.gw.txt 6.7551359407091605
+data.xe.txt 2.9092786962624935
+data.zbdx.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zcwn.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zejn.txt 4.611097637722987
+data.zeos.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.zavx.txt 1
-data.zbua.txt 1
-data.zcku.txt 1
-data.zdou.txt 1
-data.zdpw.txt 2
-data.zejn.txt 1
+data.zavx.txt 3.1086847136800873
+data.zbua.txt 3.1086847136800873
+data.zcku.txt 3.1086847136800873
+data.zdou.txt 3.1086847136800873
+data.zdpw.txt 4.927148697748023
+data.zejn.txt 3.1086847136800873

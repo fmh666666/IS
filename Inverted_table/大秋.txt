@@ -1,6 +1,6 @@
 5
-data.nh.txt 1
-data.zcdv.txt 3
-data.zczl.txt 1
-data.zddv.txt 1
-data.zdud.txt 1
+data.nh.txt 3.235060386727117
+data.zcdv.txt 6.470120773454234
+data.zczl.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zdud.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.hg.txt 1
-data.zbdx.txt 1
-data.zbhe.txt 1
-data.zbnx.txt 1
-data.zbyb.txt 1
-data.zccu.txt 2
-data.zcmy.txt 2
-data.zebf.txt 1
-data.zeve.txt 1
+data.hg.txt 2.82763771717948
+data.zbdx.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbyb.txt 2.82763771717948
+data.zccu.txt 4.48169974735425
+data.zcmy.txt 4.48169974735425
+data.zebf.txt 2.82763771717948
+data.zeve.txt 2.82763771717948

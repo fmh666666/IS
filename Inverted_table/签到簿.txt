@@ -1,11 +1,11 @@
 10
-data.hu.txt 1
-data.ng.txt 2
-data.to.txt 1
-data.zacw.txt 1
-data.zaqw.txt 1
-data.zbcj.txt 1
-data.zbvm.txt 1
-data.zcrk.txt 1
-data.zemb.txt 1
-data.zeva.txt 1
+data.hu.txt 2.7546073728089153
+data.ng.txt 4.365949390112154
+data.to.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zaqw.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbvm.txt 2.7546073728089153
+data.zcrk.txt 2.7546073728089153
+data.zemb.txt 2.7546073728089153
+data.zeva.txt 2.7546073728089153

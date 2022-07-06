@@ -1,7 +1,7 @@
 6
-data.mi.txt 1
-data.zavg.txt 1
-data.zawc.txt 5
-data.zbgu.txt 1
-data.zcll.txt 1
-data.zegz.txt 2
+data.mi.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zawc.txt 8.03583341142811
+data.zbgu.txt 3.1086847136800873
+data.zcll.txt 3.1086847136800873
+data.zegz.txt 4.927148697748023

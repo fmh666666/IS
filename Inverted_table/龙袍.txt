@@ -1,12 +1,12 @@
 11
-data.mu.txt 1
-data.zazn.txt 1
-data.zbla.txt 1
-data.zcjy.txt 1
-data.zclm.txt 1
-data.zcpa.txt 1
-data.zczp.txt 1
-data.zdoc.txt 1
-data.zduo.txt 1
-data.zdwn.txt 1
-data.zeac.txt 1
+data.mu.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zbla.txt 2.6885433903988862
+data.zcjy.txt 2.6885433903988862
+data.zclm.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdoc.txt 2.6885433903988862
+data.zduo.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zeac.txt 2.6885433903988862

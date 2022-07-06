@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zawb.txt 1
-data.zdaq.txt 2
-data.zdar.txt 3
+data.op.txt 3.389731710180695
+data.zawb.txt 3.389731710180695
+data.zdaq.txt 5.372597648141796
+data.zdar.txt 6.77946342036139

@@ -1,7 +1,7 @@
 6
-data.zaoo.txt 1
-data.zate.txt 1
-data.zazg.txt 2
-data.zefs.txt 1
-data.zeoh.txt 1
-data.zerh.txt 1
+data.zaoo.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zazg.txt 4.927148697748023
+data.zefs.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zerh.txt 3.1086847136800873

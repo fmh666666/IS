@@ -1,4 +1,4 @@
 3
-data.zaet.txt 1
-data.zcdl.txt 2
-data.zdnh.txt 1
+data.zaet.txt 3.5891377275982888
+data.zcdl.txt 5.688648708166832
+data.zdnh.txt 3.5891377275982888

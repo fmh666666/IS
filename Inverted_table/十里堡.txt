@@ -1,2 +1,2 @@
 1
-data.zccl.txt 4
+data.zccl.txt 10.101867994579104

@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zbcc.txt 1
-data.zcdv.txt 1
-data.zcee.txt 1
-data.zczl.txt 1
+data.zalm.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zczl.txt 3.235060386727117

@@ -1,2 +1,2 @@
 1
-data.zeid.txt 3
+data.zeid.txt 8.701275476034196

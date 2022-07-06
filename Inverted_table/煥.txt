@@ -1,10 +1,10 @@
 9
-data.zawz.txt 2
-data.zbes.txt 1
-data.zbkr.txt 2
-data.zccx.txt 1
-data.zdcy.txt 1
-data.zdil.txt 1
-data.zdll.txt 1
-data.zdqk.txt 11
-data.zdqq.txt 8
+data.zawz.txt 4.48169974735425
+data.zbes.txt 2.82763771717948
+data.zbkr.txt 4.48169974735425
+data.zccx.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zdll.txt 2.82763771717948
+data.zdqk.txt 10.136975181713211
+data.zdqq.txt 8.9633994947085

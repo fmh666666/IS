@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.jf.txt 1
-data.zcxq.txt 2
-data.zdgp.txt 1
-data.zdqx.txt 1
-data.zeay.txt 1
+data.bs.txt 3.1086847136800873
+data.jf.txt 3.1086847136800873
+data.zcxq.txt 4.927148697748023
+data.zdgp.txt 3.1086847136800873
+data.zdqx.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873

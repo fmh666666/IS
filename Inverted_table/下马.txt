@@ -1,11 +1,11 @@
 10
-data.tv.txt 1
-data.wc.txt 1
-data.zbaq.txt 1
-data.zbfp.txt 1
-data.zctp.txt 1
-data.zdby.txt 1
-data.zdtv.txt 1
-data.zeeh.txt 1
-data.zenn.txt 1
-data.zeyy.txt 1
+data.tv.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.zbaq.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zdtv.txt 2.7546073728089153
+data.zeeh.txt 2.7546073728089153
+data.zenn.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153

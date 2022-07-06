@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zcdg.txt 1
-data.zcgo.txt 1
-data.zddp.txt 1
-data.zfcg.txt 1
+data.hz.txt 3.235060386727117
+data.zcdg.txt 3.235060386727117
+data.zcgo.txt 3.235060386727117
+data.zddp.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

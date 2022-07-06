@@ -1,14 +1,14 @@
 13
-data.ka.txt 1
-data.op.txt 1
-data.zasy.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zawu.txt 2
-data.zbeb.txt 1
-data.zcdy.txt 1
-data.zcih.txt 2
-data.zedd.txt 1
-data.zeew.txt 1
-data.zene.txt 1
-data.zfae.txt 1
+data.ka.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.zasy.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zawu.txt 4.077712785060798
+data.zbeb.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcih.txt 4.077712785060798
+data.zedd.txt 2.5727503226135906
+data.zeew.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906

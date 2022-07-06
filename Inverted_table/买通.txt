@@ -1,11 +1,11 @@
 10
-data.mo.txt 1
-data.zacw.txt 1
-data.zasw.txt 1
-data.zbfz.txt 1
-data.zbrd.txt 2
-data.zcee.txt 1
-data.zcjy.txt 2
-data.zcpc.txt 1
-data.zdoq.txt 3
-data.zene.txt 1
+data.mo.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zasw.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zbrd.txt 4.365949390112154
+data.zcee.txt 2.7546073728089153
+data.zcjy.txt 4.365949390112154
+data.zcpc.txt 2.7546073728089153
+data.zdoq.txt 5.509214745617831
+data.zene.txt 2.7546073728089153

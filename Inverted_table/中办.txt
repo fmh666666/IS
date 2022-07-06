@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.zawc.txt 1
-data.zemf.txt 1
-data.zeyg.txt 2
-data.zfae.txt 1
-data.zfbr.txt 2
+data.be.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zemf.txt 3.1086847136800873
+data.zeyg.txt 4.927148697748023
+data.zfae.txt 3.1086847136800873
+data.zfbr.txt 4.927148697748023

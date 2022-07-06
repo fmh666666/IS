@@ -1,13 +1,13 @@
 12
-data.ha.txt 1
-data.pa.txt 2
-data.tj.txt 2
-data.zasw.txt 1
-data.zbds.txt 1
-data.zbpx.txt 1
-data.zclh.txt 1
-data.zcse.txt 1
-data.zdep.txt 1
-data.zdlo.txt 1
-data.zene.txt 2
-data.zeqv.txt 1
+data.ha.txt 2.628231699761886
+data.pa.txt 4.165648687329214
+data.tj.txt 4.165648687329214
+data.zasw.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zclh.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zdep.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zene.txt 4.165648687329214
+data.zeqv.txt 2.628231699761886

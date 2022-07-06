@@ -1,12 +1,12 @@
 11
-data.zawo.txt 1
-data.zblq.txt 1
-data.zbpc.txt 1
-data.zcku.txt 1
-data.zdeb.txt 1
-data.zdkp.txt 8
-data.zdnc.txt 1
-data.zdwk.txt 1
-data.zdzi.txt 1
-data.zejn.txt 2
-data.zelt.txt 1
+data.zawo.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zbpc.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zdkp.txt 8.52248091068791
+data.zdnc.txt 2.6885433903988862
+data.zdwk.txt 2.6885433903988862
+data.zdzi.txt 2.6885433903988862
+data.zejn.txt 4.261240455343955
+data.zelt.txt 2.6885433903988862

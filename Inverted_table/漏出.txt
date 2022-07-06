@@ -1,6 +1,6 @@
 5
-data.zbkj.txt 1
-data.zclh.txt 1
-data.zcmx.txt 1
-data.zdst.txt 1
-data.zdvl.txt 1
+data.zbkj.txt 3.235060386727117
+data.zclh.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zdst.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.xe.txt 2
-data.zair.txt 1
-data.zcjd.txt 1
+data.xe.txt 5.688648708166832
+data.zair.txt 3.5891377275982888
+data.zcjd.txt 3.5891377275982888

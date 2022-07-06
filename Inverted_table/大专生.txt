@@ -1,9 +1,9 @@
 8
-data.ng.txt 1
-data.zbcc.txt 2
-data.zbcv.txt 1
-data.zbor.txt 1
-data.zbvn.txt 1
-data.zcak.txt 1
-data.zcgi.txt 1
-data.zeac.txt 1
+data.ng.txt 2.9092786962624935
+data.zbcc.txt 4.611097637722987
+data.zbcv.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zcgi.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935

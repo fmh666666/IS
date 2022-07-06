@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.gw.txt 1
-data.sq.txt 1
-data.zblh.txt 2
-data.zcuh.txt 1
-data.zdds.txt 1
-data.zdod.txt 1
-data.zduk.txt 1
-data.zfaw.txt 1
+data.fp.txt 2.82763771717948
+data.gw.txt 2.82763771717948
+data.sq.txt 2.82763771717948
+data.zblh.txt 4.48169974735425
+data.zcuh.txt 2.82763771717948
+data.zdds.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zfaw.txt 2.82763771717948

@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.hg.txt 2
-data.zaxk.txt 1
-data.zcrn.txt 1
-data.zeoh.txt 2
-data.zeqn.txt 1
+data.be.txt 3.1086847136800873
+data.hg.txt 4.927148697748023
+data.zaxk.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873
+data.zeoh.txt 4.927148697748023
+data.zeqn.txt 3.1086847136800873

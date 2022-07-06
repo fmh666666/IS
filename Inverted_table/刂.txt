@@ -1,7 +1,7 @@
 6
-data.to.txt 1
-data.zbem.txt 1
-data.zcfn.txt 1
-data.zdkk.txt 1
-data.zdnc.txt 2
-data.zezy.txt 2
+data.to.txt 3.1086847136800873
+data.zbem.txt 3.1086847136800873
+data.zcfn.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zdnc.txt 4.927148697748023
+data.zezy.txt 4.927148697748023

@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zawc.txt 1
-data.zcao.txt 6
-data.zeyy.txt 2
-data.zfcj.txt 2
+data.ng.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zcao.txt 9.081962699831948
+data.zeyy.txt 5.1274494005309625
+data.zfcj.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.ok.txt 1
-data.zard.txt 1
-data.zcdy.txt 1
-data.zdqq.txt 1
-data.zesi.txt 2
+data.ok.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zdqq.txt 3.235060386727117
+data.zesi.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.zafy.txt 1
-data.zcem.txt 1
-data.zcsu.txt 1
-data.zeag.txt 1
+data.tv.txt 3.235060386727117
+data.zafy.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zeag.txt 3.235060386727117

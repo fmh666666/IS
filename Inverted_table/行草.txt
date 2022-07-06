@@ -1,4 +1,4 @@
 3
-data.mi.txt 1
-data.zbia.txt 1
-data.zdlw.txt 1
+data.mi.txt 3.5891377275982888
+data.zbia.txt 3.5891377275982888
+data.zdlw.txt 3.5891377275982888

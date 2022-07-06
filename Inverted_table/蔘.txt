@@ -1,2 +1,2 @@
 1
-data.zbgd.txt 3
+data.zbgd.txt 8.701275476034196

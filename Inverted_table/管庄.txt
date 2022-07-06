@@ -1,6 +1,6 @@
 5
-data.zbxw.txt 4
-data.zbxy.txt 3
-data.zcxr.txt 1
-data.zdkc.txt 2
-data.zedk.txt 1
+data.zbxw.txt 7.511577600598868
+data.zbxy.txt 6.470120773454234
+data.zcxr.txt 3.235060386727117
+data.zdkc.txt 5.1274494005309625
+data.zedk.txt 3.235060386727117

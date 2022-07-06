@@ -1,6 +1,6 @@
 5
-data.zbsu.txt 1
-data.zbvf.txt 1
-data.zdby.txt 1
-data.zdju.txt 4
-data.zdrq.txt 2
+data.zbsu.txt 3.235060386727117
+data.zbvf.txt 3.235060386727117
+data.zdby.txt 3.235060386727117
+data.zdju.txt 7.511577600598868
+data.zdrq.txt 5.1274494005309625

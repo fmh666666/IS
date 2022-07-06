@@ -1,10 +1,10 @@
 9
-data.en.txt 1
-data.zane.txt 2
-data.zcdl.txt 1
-data.zcfn.txt 5
-data.zcgo.txt 1
-data.zdod.txt 2
-data.zedy.txt 1
-data.zeeq.txt 1
-data.zfcg.txt 1
+data.en.txt 2.82763771717948
+data.zane.txt 4.48169974735425
+data.zcdl.txt 2.82763771717948
+data.zcfn.txt 7.309337464533731
+data.zcgo.txt 2.82763771717948
+data.zdod.txt 4.48169974735425
+data.zedy.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

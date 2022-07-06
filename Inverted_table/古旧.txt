@@ -1,9 +1,9 @@
 8
-data.zcdv.txt 1
-data.zcee.txt 1
-data.zcem.txt 1
-data.zcrv.txt 1
-data.zcue.txt 1
-data.zdpw.txt 1
-data.zeaf.txt 1
-data.zeeq.txt 1
+data.zcdv.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zcrv.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935

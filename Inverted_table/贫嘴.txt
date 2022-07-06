@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.zafy.txt 1
-data.zajr.txt 1
-data.zbdb.txt 4
-data.zbfx.txt 1
-data.zbkf.txt 1
-data.zcda.txt 1
-data.zezf.txt 1
+data.bf.txt 2.9092786962624935
+data.zafy.txt 2.9092786962624935
+data.zajr.txt 2.9092786962624935
+data.zbdb.txt 6.7551359407091605
+data.zbfx.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zcda.txt 2.9092786962624935
+data.zezf.txt 2.9092786962624935

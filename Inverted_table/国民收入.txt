@@ -1,6 +1,6 @@
 5
-data.zapl.txt 2
-data.zcdy.txt 1
-data.zciq.txt 2
-data.zdju.txt 1
-data.zelt.txt 2
+data.zapl.txt 5.1274494005309625
+data.zcdy.txt 3.235060386727117
+data.zciq.txt 5.1274494005309625
+data.zdju.txt 3.235060386727117
+data.zelt.txt 5.1274494005309625

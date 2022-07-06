@@ -1,7 +1,7 @@
 6
-data.op.txt 4
-data.zbfg.txt 2
-data.zbhv.txt 1
-data.zcni.txt 1
-data.zcxr.txt 1
-data.zfaz.txt 1
+data.op.txt 7.21814237484067
+data.zbfg.txt 4.927148697748023
+data.zbhv.txt 3.1086847136800873
+data.zcni.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zfaz.txt 3.1086847136800873

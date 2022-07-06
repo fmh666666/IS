@@ -1,5 +1,5 @@
 4
-data.kq.txt 1
-data.zaql.txt 1
-data.zdtr.txt 1
-data.zduo.txt 1
+data.kq.txt 3.389731710180695
+data.zaql.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695
+data.zduo.txt 3.389731710180695

@@ -1,12 +1,12 @@
 11
-data.jf.txt 1
-data.zasy.txt 1
-data.zbdb.txt 1
-data.zblh.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 1
-data.zdmw.txt 1
-data.zdrq.txt 1
-data.zeeh.txt 1
-data.zexk.txt 1
-data.zfcj.txt 1
+data.jf.txt 2.6885433903988862
+data.zasy.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zblh.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zexk.txt 2.6885433903988862
+data.zfcj.txt 2.6885433903988862

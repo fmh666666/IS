@@ -1,2 +1,2 @@
 1
-data.zcic.txt 1
+data.zcic.txt 4.350637738017098

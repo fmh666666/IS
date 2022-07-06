@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zcfn.txt 1
-data.zdby.txt 1
-data.zdqx.txt 1
-data.zeai.txt 1
+data.zadv.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zdby.txt 3.235060386727117
+data.zdqx.txt 3.235060386727117
+data.zeai.txt 3.235060386727117

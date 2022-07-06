@@ -1,8 +1,8 @@
 7
-data.zacp.txt 1
-data.zail.txt 1
-data.zcby.txt 1
-data.zcic.txt 1
-data.zddx.txt 1
-data.zeaf.txt 1
-data.zevt.txt 1
+data.zacp.txt 3.0018356045764243
+data.zail.txt 3.0018356045764243
+data.zcby.txt 3.0018356045764243
+data.zcic.txt 3.0018356045764243
+data.zddx.txt 3.0018356045764243
+data.zeaf.txt 3.0018356045764243
+data.zevt.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.mx.txt 1
-data.zafq.txt 1
-data.zbmw.txt 1
-data.zcdv.txt 1
-data.zdgo.txt 1
+data.mx.txt 3.235060386727117
+data.zafq.txt 3.235060386727117
+data.zbmw.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117

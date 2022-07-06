@@ -1,6 +1,6 @@
 5
-data.zall.txt 1
-data.zbes.txt 1
-data.zbof.txt 1
-data.zbxw.txt 1
-data.zeam.txt 1
+data.zall.txt 3.235060386727117
+data.zbes.txt 3.235060386727117
+data.zbof.txt 3.235060386727117
+data.zbxw.txt 3.235060386727117
+data.zeam.txt 3.235060386727117

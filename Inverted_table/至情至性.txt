@@ -1,4 +1,4 @@
 3
-data.zawb.txt 1
-data.zdaa.txt 1
-data.zedx.txt 1
+data.zawb.txt 3.5891377275982888
+data.zdaa.txt 3.5891377275982888
+data.zedx.txt 3.5891377275982888

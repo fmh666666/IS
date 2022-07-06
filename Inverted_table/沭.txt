@@ -1,4 +1,4 @@
 3
-data.hp.txt 4
-data.zbnp.txt 3
-data.zfae.txt 2
+data.hp.txt 8.333719726130651
+data.zbnp.txt 7.1782754551965775
+data.zfae.txt 5.688648708166832

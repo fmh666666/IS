@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zall.txt 1
-data.zbkj.txt 1
-data.zbru.txt 1
-data.zdcj.txt 1
-data.zdpg.txt 1
+data.zabe.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zbru.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873
+data.zdpg.txt 3.1086847136800873

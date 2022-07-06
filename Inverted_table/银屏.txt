@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.ry.txt 1
-data.zclh.txt 1
-data.zdcw.txt 1
-data.zeyy.txt 1
+data.mk.txt 3.235060386727117
+data.ry.txt 3.235060386727117
+data.zclh.txt 3.235060386727117
+data.zdcw.txt 3.235060386727117
+data.zeyy.txt 3.235060386727117

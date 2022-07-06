@@ -1,7 +1,7 @@
 6
-data.zbcc.txt 1
-data.zbpx.txt 2
-data.zbvf.txt 1
-data.zbwq.txt 2
-data.zciq.txt 1
-data.zcxr.txt 3
+data.zbcc.txt 3.1086847136800873
+data.zbpx.txt 4.927148697748023
+data.zbvf.txt 3.1086847136800873
+data.zbwq.txt 4.927148697748023
+data.zciq.txt 3.1086847136800873
+data.zcxr.txt 6.2173694273601745

@@ -1,6 +1,6 @@
 5
-data.zafy.txt 1
-data.zbhv.txt 1
-data.zbpp.txt 1
-data.zebc.txt 1
-data.zedd.txt 1
+data.zafy.txt 3.235060386727117
+data.zbhv.txt 3.235060386727117
+data.zbpp.txt 3.235060386727117
+data.zebc.txt 3.235060386727117
+data.zedd.txt 3.235060386727117

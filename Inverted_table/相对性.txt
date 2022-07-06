@@ -1,2 +1,2 @@
 1
-data.zaet.txt 1
+data.zaet.txt 4.350637738017098

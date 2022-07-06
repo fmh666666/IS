@@ -1,9 +1,9 @@
 8
-data.nh.txt 1
-data.tv.txt 1
-data.zacd.txt 1
-data.zbcc.txt 2
-data.zbkj.txt 1
-data.zbta.txt 1
-data.zcef.txt 1
-data.zdzg.txt 3
+data.nh.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zbcc.txt 4.611097637722987
+data.zbkj.txt 2.9092786962624935
+data.zbta.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zdzg.txt 5.818557392524987

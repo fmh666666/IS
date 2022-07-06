@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zbvm.txt 1
-data.zenw.txt 1
+data.zabe.txt 3.5891377275982888
+data.zbvm.txt 3.5891377275982888
+data.zenw.txt 3.5891377275982888

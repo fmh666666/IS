@@ -1,7 +1,7 @@
 6
-data.zddl.txt 1
-data.zdgt.txt 1
-data.zdod.txt 1
-data.zebn.txt 1
-data.zehp.txt 1
-data.zfcj.txt 1
+data.zddl.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zebn.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

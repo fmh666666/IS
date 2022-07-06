@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zaej.txt 1
-data.zaoo.txt 1
-data.zcts.txt 1
-data.zelt.txt 1
+data.vi.txt 3.235060386727117
+data.zaej.txt 3.235060386727117
+data.zaoo.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

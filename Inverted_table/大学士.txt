@@ -1,9 +1,9 @@
 8
-data.nh.txt 1
-data.pq.txt 2
-data.zacp.txt 1
-data.zass.txt 2
-data.zazo.txt 1
-data.zbfz.txt 1
-data.zcdv.txt 1
-data.zczp.txt 1
+data.nh.txt 2.9092786962624935
+data.pq.txt 4.611097637722987
+data.zacp.txt 2.9092786962624935
+data.zass.txt 4.611097637722987
+data.zazo.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935

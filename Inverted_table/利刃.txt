@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.mt.txt 1
-data.zahd.txt 1
-data.zajh.txt 2
-data.zavx.txt 1
-data.zayv.txt 1
-data.zbux.txt 1
-data.zcel.txt 1
-data.zcon.txt 1
-data.zdod.txt 1
-data.zeob.txt 1
-data.zeva.txt 1
-data.zezy.txt 1
+data.fp.txt 2.5727503226135906
+data.mt.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zajh.txt 4.077712785060798
+data.zavx.txt 2.5727503226135906
+data.zayv.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zcel.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zeob.txt 2.5727503226135906
+data.zeva.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906

@@ -1,7 +1,7 @@
 6
-data.xk.txt 1
-data.zawc.txt 2
-data.zduc.txt 1
-data.zeay.txt 2
-data.zeid.txt 1
-data.zfai.txt 2
+data.xk.txt 3.1086847136800873
+data.zawc.txt 4.927148697748023
+data.zduc.txt 3.1086847136800873
+data.zeay.txt 4.927148697748023
+data.zeid.txt 3.1086847136800873
+data.zfai.txt 4.927148697748023

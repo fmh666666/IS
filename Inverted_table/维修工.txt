@@ -1,7 +1,7 @@
 6
-data.zbsm.txt 1
-data.zcxr.txt 3
-data.zdgv.txt 1
-data.zdll.txt 1
-data.zdsh.txt 1
-data.zeid.txt 1
+data.zbsm.txt 3.1086847136800873
+data.zcxr.txt 6.2173694273601745
+data.zdgv.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873
+data.zdsh.txt 3.1086847136800873
+data.zeid.txt 3.1086847136800873

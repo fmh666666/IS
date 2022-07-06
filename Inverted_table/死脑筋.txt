@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zbyb.txt 1
-data.zddp.txt 1
-data.zefu.txt 1
-data.zejk.txt 1
+data.zabe.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zddp.txt 3.235060386727117
+data.zefu.txt 3.235060386727117
+data.zejk.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.pa.txt 1
-data.zaej.txt 1
-data.zbhe.txt 1
-data.zbla.txt 1
-data.zcko.txt 1
-data.zcvq.txt 1
-data.zdpw.txt 1
-data.zexu.txt 1
+data.pa.txt 2.9092786962624935
+data.zaej.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zexu.txt 2.9092786962624935

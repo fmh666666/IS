@@ -1,10 +1,10 @@
 9
-data.fj.txt 1
-data.hu.txt 1
-data.zazo.txt 1
-data.zbfx.txt 1
-data.zbyv.txt 1
-data.zcis.txt 1
-data.zcue.txt 1
-data.zelt.txt 1
-data.zeqh.txt 1
+data.fj.txt 2.82763771717948
+data.hu.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zcis.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeqh.txt 2.82763771717948

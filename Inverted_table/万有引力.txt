@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.to.txt 6
-data.ye.txt 6
-data.zakb.txt 1
-data.zbha.txt 4
-data.zczl.txt 2
-data.zduk.txt 1
-data.zejn.txt 1
+data.cf.txt 2.9092786962624935
+data.to.txt 8.16737786758984
+data.ye.txt 8.16737786758984
+data.zakb.txt 2.9092786962624935
+data.zbha.txt 6.7551359407091605
+data.zczl.txt 4.611097637722987
+data.zduk.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935

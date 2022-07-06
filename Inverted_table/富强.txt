@@ -1,14 +1,14 @@
 13
-data.ha.txt 1
-data.zafi.txt 1
-data.zaim.txt 1
-data.zawu.txt 1
-data.zbfg.txt 1
-data.zbpx.txt 3
-data.zbru.txt 1
-data.zcdz.txt 1
-data.zcef.txt 1
-data.zcqp.txt 1
-data.zedy.txt 1
-data.zeez.txt 1
-data.zfaj.txt 1
+data.ha.txt 2.5727503226135906
+data.zafi.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zawu.txt 2.5727503226135906
+data.zbfg.txt 2.5727503226135906
+data.zbpx.txt 5.145500645227181
+data.zbru.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcef.txt 2.5727503226135906
+data.zcqp.txt 2.5727503226135906
+data.zedy.txt 2.5727503226135906
+data.zeez.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

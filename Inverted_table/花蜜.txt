@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zamr.txt 1
-data.zanm.txt 1
-data.zaoo.txt 2
-data.zcku.txt 2
+data.zabe.txt 3.235060386727117
+data.zamr.txt 3.235060386727117
+data.zanm.txt 3.235060386727117
+data.zaoo.txt 5.1274494005309625
+data.zcku.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.zasw.txt 1
-data.zazw.txt 1
-data.zbot.txt 1
-data.zcvq.txt 1
-data.zeoh.txt 1
+data.zasw.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

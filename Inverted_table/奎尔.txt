@@ -1,9 +1,9 @@
 8
-data.uz.txt 1
-data.zbcj.txt 1
-data.zbrj.txt 1
-data.zcdv.txt 1
-data.zdzn.txt 1
-data.zeik.txt 2
-data.zeqv.txt 1
-data.zess.txt 3
+data.uz.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zeik.txt 4.611097637722987
+data.zeqv.txt 2.9092786962624935
+data.zess.txt 5.818557392524987

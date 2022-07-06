@@ -1,4 +1,4 @@
 3
-data.zcby.txt 1
-data.zcdg.txt 1
-data.zcih.txt 1
+data.zcby.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888
+data.zcih.txt 3.5891377275982888

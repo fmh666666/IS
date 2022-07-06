@@ -1,8 +1,8 @@
 7
-data.cq.txt 1
-data.zbsl.txt 1
-data.zchd.txt 1
-data.zcku.txt 1
-data.zcli.txt 1
-data.zeds.txt 1
-data.zegz.txt 1
+data.cq.txt 3.0018356045764243
+data.zbsl.txt 3.0018356045764243
+data.zchd.txt 3.0018356045764243
+data.zcku.txt 3.0018356045764243
+data.zcli.txt 3.0018356045764243
+data.zeds.txt 3.0018356045764243
+data.zegz.txt 3.0018356045764243

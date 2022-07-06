@@ -1,11 +1,11 @@
 10
-data.xe.txt 1
-data.zayv.txt 1
-data.zbfx.txt 1
-data.zbkr.txt 1
-data.zbkv.txt 1
-data.zbut.txt 1
-data.zcli.txt 1
-data.zdaw.txt 1
-data.zeqv.txt 3
-data.zewn.txt 1
+data.xe.txt 2.7546073728089153
+data.zayv.txt 2.7546073728089153
+data.zbfx.txt 2.7546073728089153
+data.zbkr.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zbut.txt 2.7546073728089153
+data.zcli.txt 2.7546073728089153
+data.zdaw.txt 2.7546073728089153
+data.zeqv.txt 5.509214745617831
+data.zewn.txt 2.7546073728089153

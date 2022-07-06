@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.zabx.txt 1
-data.zawz.txt 3
-data.zbta.txt 1
-data.zbvn.txt 1
-data.zclh.txt 1
-data.zdzg.txt 1
-data.zene.txt 1
+data.kt.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zawz.txt 5.818557392524987
+data.zbta.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zclh.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

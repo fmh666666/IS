@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.zbel.txt 1
-data.zbjk.txt 1
-data.zbzf.txt 1
-data.zegz.txt 1
+data.hu.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zegz.txt 3.235060386727117

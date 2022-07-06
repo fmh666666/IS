@@ -1,8 +1,8 @@
 7
-data.zafk.txt 2
-data.zagr.txt 8
-data.zasj.txt 4
-data.zbkv.txt 2
-data.zcko.txt 25
-data.zdmw.txt 11
-data.zfas.txt 2
+data.zafk.txt 4.757796866583254
+data.zagr.txt 9.515593733166508
+data.zasj.txt 6.970046426499191
+data.zbkv.txt 4.757796866583254
+data.zcko.txt 14.109947303081105
+data.zdmw.txt 10.761468075736103
+data.zfas.txt 4.757796866583254

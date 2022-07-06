@@ -1,7 +1,7 @@
 6
-data.zail.txt 1
-data.zane.txt 1
-data.zbgu.txt 2
-data.zeag.txt 1
-data.zeam.txt 1
-data.zesi.txt 1
+data.zail.txt 3.1086847136800873
+data.zane.txt 3.1086847136800873
+data.zbgu.txt 4.927148697748023
+data.zeag.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zesi.txt 3.1086847136800873

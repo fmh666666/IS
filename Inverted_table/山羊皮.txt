@@ -1,5 +1,5 @@
 4
-data.zavg.txt 2
-data.zdzg.txt 1
-data.zesq.txt 1
-data.zete.txt 230
+data.zavg.txt 5.372597648141796
+data.zdzg.txt 3.389731710180695
+data.zesq.txt 3.389731710180695
+data.zete.txt 26.615322706068884

@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.tv.txt 1
-data.tz.txt 2
-data.zaxj.txt 4
-data.zaxk.txt 5
-data.zdby.txt 1
+data.ev.txt 3.1086847136800873
+data.tv.txt 3.1086847136800873
+data.tz.txt 4.927148697748023
+data.zaxj.txt 7.21814237484067
+data.zaxk.txt 8.03583341142811
+data.zdby.txt 3.1086847136800873

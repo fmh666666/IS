@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.ha.txt 1
-data.ry.txt 1
-data.zcxr.txt 1
-data.zdlm.txt 1
-data.zdme.txt 1
-data.zdpg.txt 3
-data.zfae.txt 1
+data.ga.txt 2.9092786962624935
+data.ha.txt 2.9092786962624935
+data.ry.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zdpg.txt 5.818557392524987
+data.zfae.txt 2.9092786962624935

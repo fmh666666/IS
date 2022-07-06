@@ -1,4 +1,4 @@
 3
-data.nh.txt 2
-data.zbjc.txt 1
-data.zewp.txt 1
+data.nh.txt 5.688648708166832
+data.zbjc.txt 3.5891377275982888
+data.zewp.txt 3.5891377275982888

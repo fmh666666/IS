@@ -1,8 +1,8 @@
 7
-data.cq.txt 1
-data.zbil.txt 1
-data.zblq.txt 1
-data.zcef.txt 1
-data.zdlw.txt 1
-data.zehb.txt 1
-data.zeid.txt 1
+data.cq.txt 3.0018356045764243
+data.zbil.txt 3.0018356045764243
+data.zblq.txt 3.0018356045764243
+data.zcef.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zehb.txt 3.0018356045764243
+data.zeid.txt 3.0018356045764243

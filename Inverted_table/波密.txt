@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.jf.txt 1
-data.ok.txt 1
-data.qn.txt 1
-data.yx.txt 1
-data.zaxp.txt 1
-data.zcko.txt 2
-data.zcpx.txt 1
-data.zcxr.txt 1
+data.bs.txt 2.82763771717948
+data.jf.txt 2.82763771717948
+data.ok.txt 2.82763771717948
+data.qn.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zcko.txt 4.48169974735425
+data.zcpx.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zafk.txt 1
-data.zbhe.txt 1
-data.zbts.txt 1
-data.zcao.txt 1
-data.zdux.txt 1
+data.zafk.txt 3.235060386727117
+data.zbhe.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zcao.txt 3.235060386727117
+data.zdux.txt 3.235060386727117

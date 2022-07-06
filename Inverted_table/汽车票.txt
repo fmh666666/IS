@@ -1,9 +1,9 @@
 8
-data.fz.txt 1
-data.zcaq.txt 2
-data.zcls.txt 2
-data.zdfl.txt 2
-data.zdoq.txt 1
-data.zdwz.txt 3
-data.zeac.txt 1
-data.zerh.txt 1
+data.fz.txt 2.9092786962624935
+data.zcaq.txt 4.611097637722987
+data.zcls.txt 4.611097637722987
+data.zdfl.txt 4.611097637722987
+data.zdoq.txt 2.9092786962624935
+data.zdwz.txt 5.818557392524987
+data.zeac.txt 2.9092786962624935
+data.zerh.txt 2.9092786962624935

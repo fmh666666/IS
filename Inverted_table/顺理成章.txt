@@ -1,7 +1,7 @@
 6
-data.zbor.txt 1
-data.zcee.txt 1
-data.zcih.txt 1
-data.zdgv.txt 1
-data.zefs.txt 1
-data.zeos.txt 1
+data.zbor.txt 3.1086847136800873
+data.zcee.txt 3.1086847136800873
+data.zcih.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zefs.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873

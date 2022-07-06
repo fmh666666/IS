@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.mk.txt 1
-data.ry.txt 1
-data.zawu.txt 1
-data.zcel.txt 1
+data.bs.txt 3.235060386727117
+data.mk.txt 3.235060386727117
+data.ry.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zcel.txt 3.235060386727117

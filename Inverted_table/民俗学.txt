@@ -1,4 +1,4 @@
 3
-data.jd.txt 1
-data.zako.txt 3
-data.zebc.txt 1
+data.jd.txt 3.5891377275982888
+data.zako.txt 7.1782754551965775
+data.zebc.txt 3.5891377275982888

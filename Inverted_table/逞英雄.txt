@@ -1,5 +1,5 @@
 4
-data.cf.txt 1
-data.zbia.txt 1
-data.zeqv.txt 1
-data.zezn.txt 2
+data.cf.txt 3.389731710180695
+data.zbia.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695
+data.zezn.txt 5.372597648141796

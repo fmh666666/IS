@@ -1,10 +1,10 @@
 9
-data.zbls.txt 1
-data.zcbe.txt 1
-data.zciy.txt 1
-data.zclm.txt 1
-data.zdgt.txt 1
-data.zdlo.txt 1
-data.zdoc.txt 1
-data.zedo.txt 1
-data.zefv.txt 1
+data.zbls.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zclm.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948
+data.zdoc.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zefv.txt 2.82763771717948

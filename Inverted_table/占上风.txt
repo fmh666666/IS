@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.ry.txt 1
-data.zane.txt 4
-data.zbut.txt 1
-data.zbxy.txt 1
-data.zcrk.txt 1
-data.zdsh.txt 1
-data.zedo.txt 1
+data.be.txt 2.9092786962624935
+data.ry.txt 2.9092786962624935
+data.zane.txt 6.7551359407091605
+data.zbut.txt 2.9092786962624935
+data.zbxy.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zdsh.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

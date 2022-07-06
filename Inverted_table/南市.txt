@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.jd.txt 1
-data.zbgu.txt 6
-data.zbhv.txt 1
-data.zedx.txt 1
+data.gw.txt 3.235060386727117
+data.jd.txt 3.235060386727117
+data.zbgu.txt 9.081962699831948
+data.zbhv.txt 3.235060386727117
+data.zedx.txt 3.235060386727117

@@ -1,11 +1,11 @@
 10
-data.dg.txt 1
-data.zamr.txt 1
-data.zaqf.txt 1
-data.zbkj.txt 1
-data.zcaq.txt 1
-data.zcvq.txt 1
-data.zdga.txt 1
-data.zebn.txt 1
-data.zefs.txt 2
-data.zezh.txt 1
+data.dg.txt 2.7546073728089153
+data.zamr.txt 2.7546073728089153
+data.zaqf.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zcaq.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zdga.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zefs.txt 4.365949390112154
+data.zezh.txt 2.7546073728089153

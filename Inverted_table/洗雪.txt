@@ -1,4 +1,4 @@
 3
-data.hc.txt 1
-data.zctn.txt 1
-data.zeez.txt 1
+data.hc.txt 3.5891377275982888
+data.zctn.txt 3.5891377275982888
+data.zeez.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.zcuh.txt 2
-data.zdju.txt 1
-data.zdmw.txt 1
-data.zedo.txt 1
-data.zegz.txt 1
-data.zfas.txt 2
+data.zcuh.txt 4.927148697748023
+data.zdju.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zfas.txt 4.927148697748023

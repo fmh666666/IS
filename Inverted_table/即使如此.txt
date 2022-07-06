@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.hu.txt 1
-data.ok.txt 2
-data.zafi.txt 1
-data.zagr.txt 1
-data.zapf.txt 1
-data.zawu.txt 1
-data.zazn.txt 1
-data.zbjh.txt 1
-data.zbre.txt 1
-data.zczp.txt 1
+data.cq.txt 2.6885433903988862
+data.hu.txt 2.6885433903988862
+data.ok.txt 4.261240455343955
+data.zafi.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zapf.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862

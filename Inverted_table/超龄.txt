@@ -1,12 +1,12 @@
 11
-data.zawc.txt 1
-data.zbcc.txt 1
-data.zbot.txt 1
-data.zciq.txt 1
-data.zcue.txt 1
-data.zdji.txt 1
-data.zdqx.txt 1
-data.zdrq.txt 1
-data.zduk.txt 1
-data.zemf.txt 1
-data.zene.txt 1
+data.zawc.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbot.txt 2.6885433903988862
+data.zciq.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zdji.txt 2.6885433903988862
+data.zdqx.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zemf.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862

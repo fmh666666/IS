@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zchw.txt 1
-data.zelj.txt 2
+data.ry.txt 3.5891377275982888
+data.zchw.txt 3.5891377275982888
+data.zelj.txt 5.688648708166832

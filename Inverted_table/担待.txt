@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zakb.txt 1
-data.zbdb.txt 1
-data.zcjo.txt 1
-data.zcvt.txt 1
-data.zdlm.txt 2
+data.hp.txt 3.1086847136800873
+data.zakb.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zdlm.txt 4.927148697748023

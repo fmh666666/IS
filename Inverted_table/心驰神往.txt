@@ -1,5 +1,5 @@
 4
-data.dg.txt 1
-data.zcdv.txt 1
-data.zduc.txt 1
-data.zdzg.txt 1
+data.dg.txt 3.389731710180695
+data.zcdv.txt 3.389731710180695
+data.zduc.txt 3.389731710180695
+data.zdzg.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zbor.txt 1
-data.zcsu.txt 2
-data.zefv.txt 1
+data.zbor.txt 3.5891377275982888
+data.zcsu.txt 5.688648708166832
+data.zefv.txt 3.5891377275982888

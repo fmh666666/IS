@@ -1,5 +1,5 @@
 4
-data.zbds.txt 1
-data.zbkv.txt 1
-data.zcvq.txt 1
-data.zelt.txt 1
+data.zbds.txt 3.389731710180695
+data.zbkv.txt 3.389731710180695
+data.zcvq.txt 3.389731710180695
+data.zelt.txt 3.389731710180695

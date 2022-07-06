@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.vm.txt 1
-data.zair.txt 1
-data.zaop.txt 1
-data.zcdg.txt 1
-data.zdhv.txt 1
-data.zeyu.txt 1
-data.zfaj.txt 1
+data.kq.txt 2.9092786962624935
+data.vm.txt 2.9092786962624935
+data.zair.txt 2.9092786962624935
+data.zaop.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

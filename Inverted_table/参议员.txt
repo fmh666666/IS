@@ -1,11 +1,11 @@
 10
-data.fp.txt 2
-data.vi.txt 1
-data.zaim.txt 1
-data.zapl.txt 2
-data.zawc.txt 2
-data.zawo.txt 1
-data.zazn.txt 1
-data.zbha.txt 2
-data.zbpm.txt 2
-data.zcdy.txt 2
+data.fp.txt 4.365949390112154
+data.vi.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zapl.txt 4.365949390112154
+data.zawc.txt 4.365949390112154
+data.zawo.txt 2.7546073728089153
+data.zazn.txt 2.7546073728089153
+data.zbha.txt 4.365949390112154
+data.zbpm.txt 4.365949390112154
+data.zcdy.txt 4.365949390112154

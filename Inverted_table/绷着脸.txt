@@ -1,4 +1,4 @@
 3
-data.ok.txt 1
-data.zdkp.txt 1
-data.zeta.txt 1
+data.ok.txt 3.5891377275982888
+data.zdkp.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

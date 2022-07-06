@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.zabe.txt 1
-data.zajh.txt 1
-data.zbmw.txt 1
-data.zbye.txt 1
-data.zcpc.txt 1
-data.zcrk.txt 1
-data.zcvt.txt 1
-data.zcww.txt 1
-data.zdof.txt 1
-data.zeaj.txt 1
-data.zeyg.txt 1
+data.fp.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zajh.txt 2.628231699761886
+data.zbmw.txt 2.628231699761886
+data.zbye.txt 2.628231699761886
+data.zcpc.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zcvt.txt 2.628231699761886
+data.zcww.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zeaj.txt 2.628231699761886
+data.zeyg.txt 2.628231699761886

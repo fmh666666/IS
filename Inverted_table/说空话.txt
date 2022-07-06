@@ -1,3 +1,3 @@
 2
-data.zard.txt 1
-data.zbgd.txt 1
+data.zard.txt 3.8701847240988965
+data.zbgd.txt 3.8701847240988965

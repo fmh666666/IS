@@ -1,5 +1,5 @@
 4
-data.zavx.txt 1
-data.zbcc.txt 2
-data.zbls.txt 1
-data.zcni.txt 1
+data.zavx.txt 3.389731710180695
+data.zbcc.txt 5.372597648141796
+data.zbls.txt 3.389731710180695
+data.zcni.txt 3.389731710180695

@@ -1,5 +1,5 @@
 4
-data.zaoo.txt 1
-data.zaxk.txt 3
-data.zbmt.txt 1
-data.zdbf.txt 3
+data.zaoo.txt 3.389731710180695
+data.zaxk.txt 6.77946342036139
+data.zbmt.txt 3.389731710180695
+data.zdbf.txt 6.77946342036139

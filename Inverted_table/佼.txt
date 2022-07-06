@@ -1,13 +1,13 @@
 12
-data.mk.txt 1
-data.qb.txt 2
-data.zalc.txt 3
-data.zasr.txt 1
-data.zbse.txt 2
-data.zbsf.txt 1
-data.zbvn.txt 2
-data.zcef.txt 2
-data.zcku.txt 4
-data.zdaw.txt 1
-data.zeta.txt 1
-data.zeyy.txt 1
+data.mk.txt 2.628231699761886
+data.qb.txt 4.165648687329214
+data.zalc.txt 5.256463399523772
+data.zasr.txt 2.628231699761886
+data.zbse.txt 4.165648687329214
+data.zbsf.txt 2.628231699761886
+data.zbvn.txt 4.165648687329214
+data.zcef.txt 4.165648687329214
+data.zcku.txt 6.1025650235506905
+data.zdaw.txt 2.628231699761886
+data.zeta.txt 2.628231699761886
+data.zeyy.txt 2.628231699761886

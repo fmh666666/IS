@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.uz.txt 1
-data.zasy.txt 1
-data.zawc.txt 1
-data.zbxw.txt 1
-data.zcem.txt 1
-data.zdkk.txt 1
-data.zdqz.txt 1
-data.zeel.txt 1
-data.zfaz.txt 1
+data.bs.txt 2.7546073728089153
+data.uz.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbxw.txt 2.7546073728089153
+data.zcem.txt 2.7546073728089153
+data.zdkk.txt 2.7546073728089153
+data.zdqz.txt 2.7546073728089153
+data.zeel.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

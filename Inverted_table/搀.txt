@@ -1,6 +1,6 @@
 5
-data.hc.txt 2
-data.zdro.txt 1
-data.zess.txt 1
-data.zewn.txt 1
-data.zfai.txt 2
+data.hc.txt 5.1274494005309625
+data.zdro.txt 3.235060386727117
+data.zess.txt 3.235060386727117
+data.zewn.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

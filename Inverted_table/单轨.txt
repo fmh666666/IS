@@ -1,2 +1,2 @@
 1
-data.zeta.txt 2
+data.zeta.txt 6.8955976689794145

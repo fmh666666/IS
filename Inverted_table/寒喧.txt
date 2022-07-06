@@ -1,4 +1,4 @@
 3
-data.zbjq.txt 1
-data.zbxy.txt 1
-data.zeik.txt 2
+data.zbjq.txt 3.5891377275982888
+data.zbxy.txt 3.5891377275982888
+data.zeik.txt 5.688648708166832

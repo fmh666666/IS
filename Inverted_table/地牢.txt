@@ -1,14 +1,14 @@
 13
-data.ek.txt 8
-data.en.txt 8
-data.fp.txt 1
-data.zafy.txt 1
-data.zail.txt 1
-data.zaxp.txt 1
-data.zbfg.txt 2
-data.zcjd.txt 1
-data.zdil.txt 1
-data.zdkk.txt 2
-data.zdlw.txt 1
-data.zexk.txt 2
-data.zfcg.txt 1
+data.ek.txt 8.155425570121595
+data.en.txt 8.155425570121595
+data.fp.txt 2.5727503226135906
+data.zafy.txt 2.5727503226135906
+data.zail.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbfg.txt 4.077712785060798
+data.zcjd.txt 2.5727503226135906
+data.zdil.txt 2.5727503226135906
+data.zdkk.txt 4.077712785060798
+data.zdlw.txt 2.5727503226135906
+data.zexk.txt 4.077712785060798
+data.zfcg.txt 2.5727503226135906

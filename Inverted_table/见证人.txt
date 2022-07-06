@@ -1,13 +1,13 @@
 12
-data.ew.txt 1
-data.ry.txt 1
-data.zabx.txt 1
-data.zahd.txt 1
-data.zazg.txt 1
-data.zazx.txt 1
-data.zbqu.txt 1
-data.zcgo.txt 1
-data.zciq.txt 1
-data.zcqg.txt 1
-data.zcwn.txt 1
-data.zene.txt 1
+data.ew.txt 2.628231699761886
+data.ry.txt 2.628231699761886
+data.zabx.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zazg.txt 2.628231699761886
+data.zazx.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zcgo.txt 2.628231699761886
+data.zciq.txt 2.628231699761886
+data.zcqg.txt 2.628231699761886
+data.zcwn.txt 2.628231699761886
+data.zene.txt 2.628231699761886

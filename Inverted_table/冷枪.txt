@@ -1,7 +1,7 @@
 6
-data.sq.txt 1
-data.zabe.txt 1
-data.zaej.txt 52
-data.zbls.txt 1
-data.zebc.txt 1
-data.zfaj.txt 1
+data.sq.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zaej.txt 17.806298758276114
+data.zbls.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

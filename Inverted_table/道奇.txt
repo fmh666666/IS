@@ -1,6 +1,6 @@
 5
-data.zalc.txt 1
-data.zbts.txt 2
-data.zcrk.txt 1
-data.zejn.txt 1
-data.zeqn.txt 2
+data.zalc.txt 3.235060386727117
+data.zbts.txt 5.1274494005309625
+data.zcrk.txt 3.235060386727117
+data.zejn.txt 3.235060386727117
+data.zeqn.txt 5.1274494005309625

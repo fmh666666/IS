@@ -1,11 +1,11 @@
 10
-data.zawb.txt 17
-data.zawc.txt 15
-data.zbaq.txt 1
-data.zbil.txt 1
-data.zbvf.txt 1
-data.zbvg.txt 1
-data.zbye.txt 1
-data.zdil.txt 1
-data.zdux.txt 1
-data.zfbr.txt 1
+data.zawb.txt 11.486506153033222
+data.zawc.txt 11.018429491235661
+data.zbaq.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zbvf.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zbye.txt 2.7546073728089153
+data.zdil.txt 2.7546073728089153
+data.zdux.txt 2.7546073728089153
+data.zfbr.txt 2.7546073728089153

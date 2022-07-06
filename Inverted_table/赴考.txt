@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zeoh.txt 1
-data.zfdk.txt 1
+data.hz.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888
+data.zfdk.txt 3.5891377275982888

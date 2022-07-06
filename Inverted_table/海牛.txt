@@ -1,5 +1,5 @@
 4
-data.be.txt 1
-data.zcgo.txt 3
-data.zcqs.txt 1
-data.zdrq.txt 1
+data.be.txt 3.389731710180695
+data.zcgo.txt 6.77946342036139
+data.zcqs.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695

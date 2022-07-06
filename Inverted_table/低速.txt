@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.gw.txt 4
-data.hz.txt 2
-data.zapl.txt 1
-data.zbel.txt 3
-data.zbrj.txt 1
-data.zbzf.txt 1
-data.zcqp.txt 1
-data.zduk.txt 1
+data.ga.txt 2.82763771717948
+data.gw.txt 6.565571457682201
+data.hz.txt 4.48169974735425
+data.zapl.txt 2.82763771717948
+data.zbel.txt 5.65527543435896
+data.zbrj.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zduk.txt 2.82763771717948

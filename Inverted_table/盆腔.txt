@@ -1,13 +1,13 @@
 12
-data.ka.txt 1
-data.zazg.txt 1
-data.zcft.txt 1
-data.zcql.txt 1
-data.zcxp.txt 1
-data.zcxq.txt 1
-data.zdpw.txt 2
-data.zedk.txt 1
-data.zeeq.txt 1
-data.zegz.txt 1
-data.zexu.txt 1
-data.zfby.txt 1
+data.ka.txt 2.628231699761886
+data.zazg.txt 2.628231699761886
+data.zcft.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zcxp.txt 2.628231699761886
+data.zcxq.txt 2.628231699761886
+data.zdpw.txt 4.165648687329214
+data.zedk.txt 2.628231699761886
+data.zeeq.txt 2.628231699761886
+data.zegz.txt 2.628231699761886
+data.zexu.txt 2.628231699761886
+data.zfby.txt 2.628231699761886

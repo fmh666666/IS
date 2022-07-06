@@ -1,10 +1,10 @@
 9
-data.ev.txt 1
-data.kt.txt 1
-data.tz.txt 1
-data.zbkj.txt 4
-data.zelt.txt 1
-data.zeob.txt 1
-data.zexk.txt 1
-data.zfaj.txt 1
-data.zfbr.txt 1
+data.ev.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zbkj.txt 6.565571457682201
+data.zelt.txt 2.82763771717948
+data.zeob.txt 2.82763771717948
+data.zexk.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948
+data.zfbr.txt 2.82763771717948

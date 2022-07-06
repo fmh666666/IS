@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.zaip.txt 1
-data.zazw.txt 1
-data.zbds.txt 1
-data.zcpb.txt 1
-data.zcpc.txt 1
-data.zdgt.txt 1
-data.zeoh.txt 1
+data.ft.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zazw.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zcpc.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

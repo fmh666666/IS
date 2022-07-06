@@ -1,5 +1,5 @@
 4
-data.hg.txt 3
-data.ok.txt 2
-data.zawb.txt 1
-data.zdeb.txt 1
+data.hg.txt 6.77946342036139
+data.ok.txt 5.372597648141796
+data.zawb.txt 3.389731710180695
+data.zdeb.txt 3.389731710180695

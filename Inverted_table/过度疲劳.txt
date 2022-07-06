@@ -1,9 +1,9 @@
 8
-data.co.txt 1
-data.qn.txt 1
-data.zbfz.txt 1
-data.zbor.txt 1
-data.zctp.txt 1
-data.zdaq.txt 1
-data.zdgv.txt 1
-data.zewg.txt 1
+data.co.txt 2.9092786962624935
+data.qn.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdaq.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zewg.txt 2.9092786962624935

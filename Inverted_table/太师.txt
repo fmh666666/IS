@@ -1,5 +1,5 @@
 4
-data.tv.txt 3
-data.tz.txt 3
-data.uz.txt 2
-data.zcdv.txt 1
+data.tv.txt 6.77946342036139
+data.tz.txt 6.77946342036139
+data.uz.txt 5.372597648141796
+data.zcdv.txt 3.389731710180695

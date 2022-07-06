@@ -1,7 +1,7 @@
 6
-data.zacw.txt 1
-data.zbla.txt 1
-data.zbmw.txt 1
-data.zcue.txt 1
-data.zebn.txt 2
-data.zejk.txt 1
+data.zacw.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zbmw.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zebn.txt 4.927148697748023
+data.zejk.txt 3.1086847136800873

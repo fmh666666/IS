@@ -1,11 +1,11 @@
 10
-data.en.txt 1
-data.kq.txt 1
-data.zafi.txt 1
-data.zatz.txt 1
-data.zawo.txt 1
-data.zayv.txt 1
-data.zcak.txt 1
-data.zcaq.txt 1
-data.zccx.txt 1
-data.zdpz.txt 1
+data.en.txt 2.7546073728089153
+data.kq.txt 2.7546073728089153
+data.zafi.txt 2.7546073728089153
+data.zatz.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zayv.txt 2.7546073728089153
+data.zcak.txt 2.7546073728089153
+data.zcaq.txt 2.7546073728089153
+data.zccx.txt 2.7546073728089153
+data.zdpz.txt 2.7546073728089153

@@ -1,8 +1,8 @@
 7
-data.zacw.txt 2
-data.zajn.txt 1
-data.zbcc.txt 1
-data.zbuj.txt 1
-data.zcxq.txt 1
-data.zddb.txt 3
-data.zeds.txt 1
+data.zacw.txt 4.757796866583254
+data.zajn.txt 3.0018356045764243
+data.zbcc.txt 3.0018356045764243
+data.zbuj.txt 3.0018356045764243
+data.zcxq.txt 3.0018356045764243
+data.zddb.txt 6.003671209152849
+data.zeds.txt 3.0018356045764243

@@ -1,7 +1,7 @@
 6
-data.zbjk.txt 2
-data.zcjd.txt 2
-data.zcni.txt 3
-data.zcse.txt 3
-data.zcww.txt 1
-data.zebc.txt 2
+data.zbjk.txt 4.927148697748023
+data.zcjd.txt 4.927148697748023
+data.zcni.txt 6.2173694273601745
+data.zcse.txt 6.2173694273601745
+data.zcww.txt 3.1086847136800873
+data.zebc.txt 4.927148697748023

@@ -1,8 +1,8 @@
 7
-data.ew.txt 1
-data.pq.txt 1
-data.zadv.txt 1
-data.zcej.txt 1
-data.zemb.txt 1
-data.zexu.txt 1
-data.zfby.txt 1
+data.ew.txt 3.0018356045764243
+data.pq.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zemb.txt 3.0018356045764243
+data.zexu.txt 3.0018356045764243
+data.zfby.txt 3.0018356045764243

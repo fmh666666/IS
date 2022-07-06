@@ -1,12 +1,12 @@
 11
-data.zamr.txt 1
-data.zayc.txt 1
-data.zbfp.txt 2
-data.zbsu.txt 1
-data.zcao.txt 1
-data.zcda.txt 1
-data.zcse.txt 1
-data.zdhv.txt 1
-data.zdhw.txt 1
-data.zeta.txt 3
-data.zeyy.txt 2
+data.zamr.txt 2.6885433903988862
+data.zayc.txt 2.6885433903988862
+data.zbfp.txt 4.261240455343955
+data.zbsu.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcda.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdhv.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zeta.txt 5.3770867807977725
+data.zeyy.txt 4.261240455343955

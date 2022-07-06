@@ -1,4 +1,4 @@
 3
-data.jd.txt 1
-data.ka.txt 1
-data.zcel.txt 1
+data.jd.txt 3.5891377275982888
+data.ka.txt 3.5891377275982888
+data.zcel.txt 3.5891377275982888

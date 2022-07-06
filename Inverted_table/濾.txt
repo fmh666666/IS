@@ -1,7 +1,7 @@
 6
-data.pa.txt 1
-data.vm.txt 1
-data.zccx.txt 1
-data.zcoy.txt 2
-data.zene.txt 1
-data.zenw.txt 1
+data.pa.txt 3.1086847136800873
+data.vm.txt 3.1086847136800873
+data.zccx.txt 3.1086847136800873
+data.zcoy.txt 4.927148697748023
+data.zene.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873

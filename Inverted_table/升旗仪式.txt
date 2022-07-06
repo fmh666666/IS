@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.bf.txt 1
-data.tj.txt 1
-data.uz.txt 1
-data.ye.txt 1
-data.zabx.txt 3
-data.zawc.txt 1
-data.zbup.txt 1
-data.zczl.txt 1
-data.zdlw.txt 1
-data.zeac.txt 1
-data.zfaj.txt 1
+data.bb.txt 2.628231699761886
+data.bf.txt 2.628231699761886
+data.tj.txt 2.628231699761886
+data.uz.txt 2.628231699761886
+data.ye.txt 2.628231699761886
+data.zabx.txt 5.256463399523772
+data.zawc.txt 2.628231699761886
+data.zbup.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zdlw.txt 2.628231699761886
+data.zeac.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

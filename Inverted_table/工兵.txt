@@ -1,5 +1,5 @@
 4
-data.zane.txt 1
-data.zbdx.txt 2
-data.zebv.txt 1
-data.zeds.txt 1
+data.zane.txt 3.389731710180695
+data.zbdx.txt 5.372597648141796
+data.zebv.txt 3.389731710180695
+data.zeds.txt 3.389731710180695

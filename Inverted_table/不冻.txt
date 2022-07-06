@@ -1,10 +1,10 @@
 9
-data.zasr.txt 1
-data.zaxx.txt 1
-data.zbye.txt 1
-data.zchw.txt 1
-data.zclh.txt 1
-data.zdwk.txt 1
-data.zebf.txt 1
-data.zeoh.txt 1
-data.zfby.txt 1
+data.zasr.txt 2.82763771717948
+data.zaxx.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zchw.txt 2.82763771717948
+data.zclh.txt 2.82763771717948
+data.zdwk.txt 2.82763771717948
+data.zebf.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zfby.txt 2.82763771717948

@@ -1,13 +1,13 @@
 12
-data.fj.txt 1
-data.mo.txt 1
-data.wc.txt 1
-data.zadv.txt 1
-data.zail.txt 1
-data.zajo.txt 1
-data.zbre.txt 1
-data.zcln.txt 1
-data.zegl.txt 2
-data.zegn.txt 2
-data.zeoo.txt 1
-data.zfaj.txt 1
+data.fj.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zail.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zbre.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zegl.txt 4.165648687329214
+data.zegn.txt 4.165648687329214
+data.zeoo.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

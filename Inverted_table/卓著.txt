@@ -1,5 +1,5 @@
 4
-data.zamr.txt 1
-data.zayv.txt 1
-data.zbvm.txt 1
-data.zcll.txt 1
+data.zamr.txt 3.389731710180695
+data.zayv.txt 3.389731710180695
+data.zbvm.txt 3.389731710180695
+data.zcll.txt 3.389731710180695

@@ -1,13 +1,13 @@
 12
-data.cz.txt 3
-data.zahp.txt 1
-data.zasy.txt 2
-data.zbdb.txt 1
-data.zbgd.txt 2
-data.zbjc.txt 2
-data.zcxh.txt 1
-data.zdbf.txt 1
-data.zddv.txt 1
-data.zdlo.txt 1
-data.zdzg.txt 2
-data.zefu.txt 1
+data.cz.txt 5.256463399523772
+data.zahp.txt 2.628231699761886
+data.zasy.txt 4.165648687329214
+data.zbdb.txt 2.628231699761886
+data.zbgd.txt 4.165648687329214
+data.zbjc.txt 4.165648687329214
+data.zcxh.txt 2.628231699761886
+data.zdbf.txt 2.628231699761886
+data.zddv.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zdzg.txt 4.165648687329214
+data.zefu.txt 2.628231699761886

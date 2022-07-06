@@ -1,11 +1,11 @@
 10
-data.ft.txt 2
-data.hu.txt 1
-data.tj.txt 1
-data.zabe.txt 1
-data.zcyv.txt 1
-data.zdaw.txt 1
-data.zdcj.txt 2
-data.zdod.txt 4
-data.zejk.txt 2
-data.zeva.txt 1
+data.ft.txt 4.365949390112154
+data.hu.txt 2.7546073728089153
+data.tj.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zcyv.txt 2.7546073728089153
+data.zdaw.txt 2.7546073728089153
+data.zdcj.txt 4.365949390112154
+data.zdod.txt 6.396000249308887
+data.zejk.txt 4.365949390112154
+data.zeva.txt 2.7546073728089153

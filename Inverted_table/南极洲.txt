@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.gw.txt 3
-data.ha.txt 1
-data.zaxx.txt 2
-data.zcel.txt 1
-data.zeec.txt 1
-data.zeos.txt 1
-data.zevt.txt 1
+data.bb.txt 2.9092786962624935
+data.gw.txt 5.818557392524987
+data.ha.txt 2.9092786962624935
+data.zaxx.txt 4.611097637722987
+data.zcel.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zeos.txt 2.9092786962624935
+data.zevt.txt 2.9092786962624935

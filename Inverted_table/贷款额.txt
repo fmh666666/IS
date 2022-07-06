@@ -1,6 +1,6 @@
 5
-data.bb.txt 2
-data.zbkv.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcmy.txt 2
+data.bb.txt 5.1274494005309625
+data.zbkv.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zcmy.txt 5.1274494005309625

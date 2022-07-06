@@ -1,9 +1,9 @@
 8
-data.uz.txt 1
-data.zacp.txt 1
-data.zaqw.txt 1
-data.zaxj.txt 1
-data.zbsl.txt 1
-data.zbzf.txt 1
-data.zcdv.txt 5
-data.zczb.txt 4
+data.uz.txt 2.9092786962624935
+data.zacp.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbsl.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zcdv.txt 7.52037633398548
+data.zczb.txt 6.7551359407091605

@@ -1,6 +1,6 @@
 5
-data.mo.txt 2
-data.zafq.txt 1
-data.zbil.txt 1
-data.zbzo.txt 2
-data.zdaa.txt 1
+data.mo.txt 5.1274494005309625
+data.zafq.txt 3.235060386727117
+data.zbil.txt 3.235060386727117
+data.zbzo.txt 5.1274494005309625
+data.zdaa.txt 3.235060386727117

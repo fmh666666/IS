@@ -1,4 +1,4 @@
 3
-data.wg.txt 7
-data.zawb.txt 2
-data.zdkv.txt 1
+data.wg.txt 10.767413182794865
+data.zawb.txt 5.688648708166832
+data.zdkv.txt 3.5891377275982888

@@ -1,2 +1,2 @@
 1
-data.zaxj.txt 5
+data.zaxj.txt 11.246235406996512

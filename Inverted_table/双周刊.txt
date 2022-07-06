@@ -1,6 +1,6 @@
 5
-data.zbla.txt 1
-data.zbpc.txt 1
-data.zcgi.txt 1
-data.zcwn.txt 1
-data.zdux.txt 2
+data.zbla.txt 3.235060386727117
+data.zbpc.txt 3.235060386727117
+data.zcgi.txt 3.235060386727117
+data.zcwn.txt 3.235060386727117
+data.zdux.txt 5.1274494005309625

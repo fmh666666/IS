@@ -1,2 +1,2 @@
 1
-data.zbwq.txt 2
+data.zbwq.txt 6.8955976689794145

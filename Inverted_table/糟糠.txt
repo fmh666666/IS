@@ -1,10 +1,10 @@
 9
-data.zaim.txt 1
-data.zbpc.txt 2
-data.zcih.txt 1
-data.zcon.txt 2
-data.zcue.txt 1
-data.zdcy.txt 1
-data.zdil.txt 1
-data.zeeq.txt 1
-data.zemb.txt 1
+data.zaim.txt 2.82763771717948
+data.zbpc.txt 4.48169974735425
+data.zcih.txt 2.82763771717948
+data.zcon.txt 4.48169974735425
+data.zcue.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zemb.txt 2.82763771717948

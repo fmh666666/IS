@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.zauy.txt 1
-data.zbkr.txt 1
-data.zcrk.txt 1
+data.fp.txt 3.389731710180695
+data.zauy.txt 3.389731710180695
+data.zbkr.txt 3.389731710180695
+data.zcrk.txt 3.389731710180695

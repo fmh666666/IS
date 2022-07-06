@@ -1,13 +1,13 @@
 12
-data.ew.txt 1
-data.mx.txt 1
-data.zbhe.txt 1
-data.zbta.txt 1
-data.zbxy.txt 1
-data.zcby.txt 1
-data.zcee.txt 1
-data.zcft.txt 2
-data.zcnn.txt 1
-data.zdcy.txt 4
-data.zddp.txt 2
-data.zfcg.txt 3
+data.ew.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbta.txt 2.628231699761886
+data.zbxy.txt 2.628231699761886
+data.zcby.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcft.txt 4.165648687329214
+data.zcnn.txt 2.628231699761886
+data.zdcy.txt 6.1025650235506905
+data.zddp.txt 4.165648687329214
+data.zfcg.txt 5.256463399523772

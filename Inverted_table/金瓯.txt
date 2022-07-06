@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zawm.txt 1
-data.zcdv.txt 1
-data.zcjo.txt 12
-data.zfaj.txt 1
+data.zahd.txt 3.235060386727117
+data.zawm.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zcjo.txt 11.971145945629907
+data.zfaj.txt 3.235060386727117

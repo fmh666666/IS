@@ -1,11 +1,11 @@
 10
-data.cq.txt 3
-data.zaic.txt 1
-data.zapf.txt 2
-data.zcjy.txt 2
-data.zdof.txt 1
-data.zdzm.txt 1
-data.zeid.txt 1
-data.zeik.txt 1
-data.zeqv.txt 1
-data.zexk.txt 2
+data.cq.txt 5.509214745617831
+data.zaic.txt 2.7546073728089153
+data.zapf.txt 4.365949390112154
+data.zcjy.txt 4.365949390112154
+data.zdof.txt 2.7546073728089153
+data.zdzm.txt 2.7546073728089153
+data.zeid.txt 2.7546073728089153
+data.zeik.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153
+data.zexk.txt 4.365949390112154

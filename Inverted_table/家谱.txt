@@ -1,9 +1,9 @@
 8
-data.zaeh.txt 3
-data.zbds.txt 1
-data.zbes.txt 1
-data.zbla.txt 1
-data.zdkv.txt 1
-data.zelt.txt 1
-data.zenn.txt 1
-data.zeve.txt 1
+data.zaeh.txt 5.818557392524987
+data.zbds.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zdkv.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zenn.txt 2.9092786962624935
+data.zeve.txt 2.9092786962624935

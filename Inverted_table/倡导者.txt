@@ -1,5 +1,5 @@
 4
-data.zair.txt 1
-data.zbkr.txt 1
-data.zbts.txt 2
-data.zdep.txt 1
+data.zair.txt 3.389731710180695
+data.zbkr.txt 3.389731710180695
+data.zbts.txt 5.372597648141796
+data.zdep.txt 3.389731710180695

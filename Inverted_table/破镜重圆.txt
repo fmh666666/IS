@@ -1,5 +1,5 @@
 4
-data.jd.txt 1
-data.ok.txt 1
-data.zbtj.txt 1
-data.zcjy.txt 1
+data.jd.txt 3.389731710180695
+data.ok.txt 3.389731710180695
+data.zbtj.txt 3.389731710180695
+data.zcjy.txt 3.389731710180695

@@ -1,5 +1,5 @@
 4
-data.hz.txt 23
-data.zahd.txt 1
-data.zbnp.txt 1
-data.zdfl.txt 1
+data.hz.txt 15.541792778683881
+data.zahd.txt 3.389731710180695
+data.zbnp.txt 3.389731710180695
+data.zdfl.txt 3.389731710180695

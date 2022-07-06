@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zbnx.txt 1
-data.zcao.txt 1
-data.zciy.txt 1
-data.zdux.txt 1
+data.zazn.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zcao.txt 3.235060386727117
+data.zciy.txt 3.235060386727117
+data.zdux.txt 3.235060386727117

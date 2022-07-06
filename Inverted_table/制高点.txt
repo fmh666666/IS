@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zaqr.txt 2
-data.zdep.txt 1
-data.zfaj.txt 2
+data.zaim.txt 3.389731710180695
+data.zaqr.txt 5.372597648141796
+data.zdep.txt 3.389731710180695
+data.zfaj.txt 5.372597648141796

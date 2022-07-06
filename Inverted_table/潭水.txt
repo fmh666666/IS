@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.zalm.txt 1
-data.zamp.txt 1
-data.zaoo.txt 1
-data.zbcc.txt 1
-data.zcel.txt 1
-data.zdme.txt 1
-data.zegk.txt 1
-data.zenn.txt 1
+data.ka.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zamp.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zcel.txt 2.82763771717948
+data.zdme.txt 2.82763771717948
+data.zegk.txt 2.82763771717948
+data.zenn.txt 2.82763771717948

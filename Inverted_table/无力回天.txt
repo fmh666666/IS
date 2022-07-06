@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zawc.txt 1
-data.zbia.txt 1
-data.zbkj.txt 1
-data.zbsm.txt 1
-data.zdux.txt 1
+data.fp.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbia.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zdux.txt 3.1086847136800873

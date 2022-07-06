@@ -1,6 +1,6 @@
 5
-data.zafq.txt 1
-data.zcuh.txt 1
-data.zddx.txt 1
-data.zdle.txt 1
-data.zeyg.txt 1
+data.zafq.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zddx.txt 3.235060386727117
+data.zdle.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117

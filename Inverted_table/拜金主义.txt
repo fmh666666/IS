@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.ng.txt 1
-data.vi.txt 1
-data.zabe.txt 1
-data.zawb.txt 1
-data.zcnn.txt 2
-data.zczp.txt 1
-data.zdeb.txt 1
-data.zeec.txt 1
+data.bf.txt 2.82763771717948
+data.ng.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zcnn.txt 4.48169974735425
+data.zczp.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zeec.txt 2.82763771717948

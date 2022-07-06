@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.ga.txt 2
-data.zawb.txt 1
+data.fp.txt 3.5891377275982888
+data.ga.txt 5.688648708166832
+data.zawb.txt 3.5891377275982888

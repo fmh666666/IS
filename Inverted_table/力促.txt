@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zarc.txt 1
-data.zcrg.txt 1
-data.zdgp.txt 2
-data.zevy.txt 2
+data.zahd.txt 3.235060386727117
+data.zarc.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zdgp.txt 5.1274494005309625
+data.zevy.txt 5.1274494005309625

@@ -1,4 +1,4 @@
 3
-data.cq.txt 1
-data.zcrk.txt 1
-data.zdof.txt 1
+data.cq.txt 3.5891377275982888
+data.zcrk.txt 3.5891377275982888
+data.zdof.txt 3.5891377275982888

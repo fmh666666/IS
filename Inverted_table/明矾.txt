@@ -1,4 +1,4 @@
 3
-data.zbhe.txt 1
-data.zcue.txt 2
-data.zdsh.txt 1
+data.zbhe.txt 3.5891377275982888
+data.zcue.txt 5.688648708166832
+data.zdsh.txt 3.5891377275982888

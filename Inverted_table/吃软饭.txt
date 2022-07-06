@@ -1,9 +1,9 @@
 8
-data.jj.txt 1
-data.op.txt 1
-data.zadv.txt 1
-data.zaoc.txt 1
-data.zasj.txt 1
-data.zcxp.txt 1
-data.zdoq.txt 1
-data.zexx.txt 4
+data.jj.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zasj.txt 2.9092786962624935
+data.zcxp.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935
+data.zexx.txt 6.7551359407091605

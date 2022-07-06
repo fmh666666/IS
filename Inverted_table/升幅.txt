@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.zeag.txt 2
-data.zelt.txt 2
+data.ga.txt 3.5891377275982888
+data.zeag.txt 5.688648708166832
+data.zelt.txt 5.688648708166832

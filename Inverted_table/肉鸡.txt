@@ -1,9 +1,9 @@
 8
-data.gw.txt 2
-data.zagr.txt 1
-data.zawo.txt 1
-data.zbhe.txt 1
-data.zblh.txt 2
-data.zbsl.txt 3
-data.zdgv.txt 1
-data.zdof.txt 1
+data.gw.txt 4.611097637722987
+data.zagr.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zblh.txt 4.611097637722987
+data.zbsl.txt 5.818557392524987
+data.zdgv.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935

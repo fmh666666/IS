@@ -1,14 +1,14 @@
 13
-data.fz.txt 1
-data.ka.txt 1
-data.zadv.txt 1
-data.zaim.txt 1
-data.zasr.txt 1
-data.zbhe.txt 1
-data.zbjh.txt 1
-data.zbkf.txt 1
-data.zbsd.txt 1
-data.zbuj.txt 1
-data.zczl.txt 1
-data.zdud.txt 1
-data.zexm.txt 1
+data.fz.txt 2.5727503226135906
+data.ka.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zasr.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zbkf.txt 2.5727503226135906
+data.zbsd.txt 2.5727503226135906
+data.zbuj.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906

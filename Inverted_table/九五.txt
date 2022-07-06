@@ -1,10 +1,10 @@
 9
-data.jf.txt 1
-data.zbeb.txt 1
-data.zbpc.txt 1
-data.zbvp.txt 1
-data.zbzf.txt 1
-data.zcse.txt 2
-data.zcsu.txt 1
-data.zdib.txt 1
-data.zdzn.txt 1
+data.jf.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zbpc.txt 2.82763771717948
+data.zbvp.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zcse.txt 4.48169974735425
+data.zcsu.txt 2.82763771717948
+data.zdib.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948

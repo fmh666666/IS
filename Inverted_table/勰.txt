@@ -1,5 +1,5 @@
 4
-data.fp.txt 5
-data.zaxj.txt 1
-data.zbye.txt 1
-data.zbzf.txt 1
+data.fp.txt 8.762329358322491
+data.zaxj.txt 3.389731710180695
+data.zbye.txt 3.389731710180695
+data.zbzf.txt 3.389731710180695

@@ -1,14 +1,14 @@
 13
-data.ka.txt 4
-data.ud.txt 1
-data.xk.txt 2
-data.zabe.txt 1
-data.zaxk.txt 2
-data.zbaf.txt 1
-data.zbhe.txt 1
-data.zblq.txt 1
-data.zbph.txt 1
-data.zchw.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 1
-data.zewg.txt 1
+data.ka.txt 5.97374125520702
+data.ud.txt 2.5727503226135906
+data.xk.txt 4.077712785060798
+data.zabe.txt 2.5727503226135906
+data.zaxk.txt 4.077712785060798
+data.zbaf.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zbph.txt 2.5727503226135906
+data.zchw.txt 2.5727503226135906
+data.zcxr.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zewg.txt 2.5727503226135906

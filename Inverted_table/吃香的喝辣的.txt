@@ -1,4 +1,4 @@
 3
-data.wc.txt 1
-data.zayd.txt 1
-data.zcxr.txt 1
+data.wc.txt 3.5891377275982888
+data.zayd.txt 3.5891377275982888
+data.zcxr.txt 3.5891377275982888

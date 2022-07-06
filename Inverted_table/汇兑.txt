@@ -1,3 +1,3 @@
 2
-data.zbhd.txt 2
-data.zeqv.txt 1
+data.zbhd.txt 6.134097658560606
+data.zeqv.txt 3.8701847240988965

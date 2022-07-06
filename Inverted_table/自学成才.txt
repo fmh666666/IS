@@ -1,10 +1,10 @@
 9
-data.be.txt 1
-data.zacw.txt 1
-data.zbcj.txt 1
-data.zblr.txt 1
-data.zbmw.txt 1
-data.zcdg.txt 1
-data.zcxq.txt 1
-data.zdkc.txt 1
-data.zdtr.txt 1
+data.be.txt 2.82763771717948
+data.zacw.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zblr.txt 2.82763771717948
+data.zbmw.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdtr.txt 2.82763771717948

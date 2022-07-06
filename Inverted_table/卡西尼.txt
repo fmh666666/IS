@@ -1,5 +1,5 @@
 4
-data.zcll.txt 3
-data.zctm.txt 4
-data.zdqx.txt 4
-data.zewv.txt 4
+data.zcll.txt 6.77946342036139
+data.zctm.txt 7.870713291999142
+data.zdqx.txt 7.870713291999142
+data.zewv.txt 7.870713291999142

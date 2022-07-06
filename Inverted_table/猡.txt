@@ -1,4 +1,4 @@
 3
-data.hu.txt 2
-data.zdof.txt 2
-data.zdzg.txt 1
+data.hu.txt 5.688648708166832
+data.zdof.txt 5.688648708166832
+data.zdzg.txt 3.5891377275982888

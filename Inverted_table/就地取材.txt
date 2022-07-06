@@ -1,9 +1,9 @@
 8
-data.fz.txt 1
-data.zaoc.txt 1
-data.zazn.txt 1
-data.zbel.txt 1
-data.zbes.txt 1
-data.zbhe.txt 1
-data.zbyb.txt 1
-data.zdou.txt 1
+data.fz.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935

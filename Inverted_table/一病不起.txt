@@ -1,6 +1,6 @@
 5
-data.jj.txt 1
-data.zbph.txt 1
-data.zdlw.txt 1
-data.zdwk.txt 1
-data.zeil.txt 1
+data.jj.txt 3.235060386727117
+data.zbph.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117
+data.zdwk.txt 3.235060386727117
+data.zeil.txt 3.235060386727117

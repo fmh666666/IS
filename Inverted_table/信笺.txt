@@ -1,7 +1,7 @@
 6
-data.ng.txt 1
-data.zacd.txt 1
-data.zass.txt 2
-data.zavx.txt 3
-data.zazn.txt 1
-data.zbgu.txt 1
+data.ng.txt 3.1086847136800873
+data.zacd.txt 3.1086847136800873
+data.zass.txt 4.927148697748023
+data.zavx.txt 6.2173694273601745
+data.zazn.txt 3.1086847136800873
+data.zbgu.txt 3.1086847136800873

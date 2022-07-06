@@ -1,4 +1,4 @@
 3
-data.zbcc.txt 1
-data.zbdx.txt 1
-data.zefv.txt 1
+data.zbcc.txt 3.5891377275982888
+data.zbdx.txt 3.5891377275982888
+data.zefv.txt 3.5891377275982888

@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.ga.txt 1
-data.hp.txt 1
-data.to.txt 1
-data.zalt.txt 1
-data.zaxp.txt 1
-data.zcdz.txt 1
-data.zeva.txt 1
-data.zevq.txt 1
-data.zevy.txt 1
+data.ek.txt 2.7546073728089153
+data.ga.txt 2.7546073728089153
+data.hp.txt 2.7546073728089153
+data.to.txt 2.7546073728089153
+data.zalt.txt 2.7546073728089153
+data.zaxp.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zeva.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153
+data.zevy.txt 2.7546073728089153

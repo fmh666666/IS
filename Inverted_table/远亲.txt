@@ -1,13 +1,13 @@
 12
-data.zarr.txt 1
-data.zbkj.txt 2
-data.zcdz.txt 1
-data.zcnn.txt 1
-data.zddl.txt 1
-data.zdkv.txt 1
-data.zdod.txt 1
-data.zdou.txt 1
-data.zedx.txt 1
-data.zene.txt 1
-data.zevy.txt 1
-data.zfai.txt 1
+data.zarr.txt 2.628231699761886
+data.zbkj.txt 4.165648687329214
+data.zcdz.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zddl.txt 2.628231699761886
+data.zdkv.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdou.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zevy.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

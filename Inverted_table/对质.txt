@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.fp.txt 1
-data.zbhd.txt 1
-data.zbvm.txt 1
-data.zcmy.txt 1
-data.zdme.txt 1
-data.zdpw.txt 1
-data.zdzi.txt 1
-data.zelj.txt 1
+data.cf.txt 2.82763771717948
+data.fp.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zdme.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zdzi.txt 2.82763771717948
+data.zelj.txt 2.82763771717948

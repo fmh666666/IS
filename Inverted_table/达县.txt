@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.jf.txt 1
-data.zaic.txt 1
-data.zcdg.txt 1
-data.zdeb.txt 1
-data.zeik.txt 1
-data.zeoh.txt 1
-data.zerh.txt 1
+data.bs.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zeik.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zerh.txt 2.9092786962624935

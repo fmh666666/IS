@@ -1,5 +1,5 @@
 4
-data.ry.txt 1
-data.zbfz.txt 2
-data.zbux.txt 1
-data.zeyy.txt 2
+data.ry.txt 3.389731710180695
+data.zbfz.txt 5.372597648141796
+data.zbux.txt 3.389731710180695
+data.zeyy.txt 5.372597648141796

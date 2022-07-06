@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.mi.txt 1
-data.op.txt 4
-data.zbjk.txt 1
-data.zbts.txt 2
-data.zcjd.txt 1
-data.zdfl.txt 1
-data.zebc.txt 1
+data.gw.txt 2.9092786962624935
+data.mi.txt 2.9092786962624935
+data.op.txt 6.7551359407091605
+data.zbjk.txt 2.9092786962624935
+data.zbts.txt 4.611097637722987
+data.zcjd.txt 2.9092786962624935
+data.zdfl.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935

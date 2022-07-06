@@ -1,14 +1,14 @@
 13
-data.to.txt 1
-data.zawm.txt 1
-data.zbjh.txt 1
-data.zbjq.txt 1
-data.zblh.txt 1
-data.zcgo.txt 1
-data.zcsr.txt 1
-data.zcvt.txt 1
-data.zdqz.txt 3
-data.zefv.txt 1
-data.zeos.txt 1
-data.zety.txt 1
-data.zfcj.txt 1
+data.to.txt 2.5727503226135906
+data.zawm.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zbjq.txt 2.5727503226135906
+data.zblh.txt 2.5727503226135906
+data.zcgo.txt 2.5727503226135906
+data.zcsr.txt 2.5727503226135906
+data.zcvt.txt 2.5727503226135906
+data.zdqz.txt 5.145500645227181
+data.zefv.txt 2.5727503226135906
+data.zeos.txt 2.5727503226135906
+data.zety.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

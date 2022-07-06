@@ -1,14 +1,14 @@
 13
-data.hp.txt 1
-data.kt.txt 1
-data.wg.txt 1
-data.xe.txt 1
-data.zalm.txt 1
-data.zaop.txt 1
-data.zass.txt 1
-data.zavx.txt 2
-data.zawo.txt 1
-data.zbjq.txt 1
-data.zcrv.txt 1
-data.zczp.txt 1
-data.zdxw.txt 1
+data.hp.txt 2.5727503226135906
+data.kt.txt 2.5727503226135906
+data.wg.txt 2.5727503226135906
+data.xe.txt 2.5727503226135906
+data.zalm.txt 2.5727503226135906
+data.zaop.txt 2.5727503226135906
+data.zass.txt 2.5727503226135906
+data.zavx.txt 4.077712785060798
+data.zawo.txt 2.5727503226135906
+data.zbjq.txt 2.5727503226135906
+data.zcrv.txt 2.5727503226135906
+data.zczp.txt 2.5727503226135906
+data.zdxw.txt 2.5727503226135906

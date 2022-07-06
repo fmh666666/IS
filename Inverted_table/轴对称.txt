@@ -1,4 +1,4 @@
 3
-data.ew.txt 1
-data.kt.txt 4
-data.zeun.txt 1
+data.ew.txt 3.5891377275982888
+data.kt.txt 8.333719726130651
+data.zeun.txt 3.5891377275982888

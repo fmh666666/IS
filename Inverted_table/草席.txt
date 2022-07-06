@@ -1,7 +1,7 @@
 6
-data.sq.txt 1
-data.zciy.txt 1
-data.zdof.txt 1
-data.zene.txt 1
-data.zezm.txt 1
-data.zfae.txt 2
+data.sq.txt 3.1086847136800873
+data.zciy.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873
+data.zfae.txt 4.927148697748023

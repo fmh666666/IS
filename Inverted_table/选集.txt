@@ -1,5 +1,5 @@
 4
-data.zacw.txt 1
-data.zbtx.txt 1
-data.zdkp.txt 2
-data.zeeq.txt 1
+data.zacw.txt 3.389731710180695
+data.zbtx.txt 3.389731710180695
+data.zdkp.txt 5.372597648141796
+data.zeeq.txt 3.389731710180695

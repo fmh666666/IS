@@ -1,10 +1,10 @@
 9
-data.ep.txt 6
-data.fz.txt 6
-data.zbgw.txt 1
-data.zcdv.txt 6
-data.zcft.txt 1
-data.zcll.txt 1
-data.zdkc.txt 1
-data.zdwk.txt 6
-data.zedx.txt 1
+data.ep.txt 7.938182663119541
+data.fz.txt 7.938182663119541
+data.zbgw.txt 2.82763771717948
+data.zcdv.txt 7.938182663119541
+data.zcft.txt 2.82763771717948
+data.zcll.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdwk.txt 7.938182663119541
+data.zedx.txt 2.82763771717948

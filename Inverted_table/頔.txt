@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zagr.txt 1
-data.zbdb.txt 7
-data.zcjd.txt 2
-data.zcku.txt 10
-data.zcql.txt 2
-data.zdlw.txt 1
-data.zeqh.txt 1
+data.kq.txt 2.9092786962624935
+data.zagr.txt 2.9092786962624935
+data.zbdb.txt 8.72783608878748
+data.zcjd.txt 4.611097637722987
+data.zcku.txt 10.064450709278365
+data.zcql.txt 4.611097637722987
+data.zdlw.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935

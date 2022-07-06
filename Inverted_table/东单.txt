@@ -1,7 +1,7 @@
 6
-data.zarr.txt 1
-data.zcmx.txt 1
-data.zcql.txt 1
-data.zeac.txt 1
-data.zegn.txt 1
-data.zewg.txt 1
+data.zarr.txt 3.1086847136800873
+data.zcmx.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zeac.txt 3.1086847136800873
+data.zegn.txt 3.1086847136800873
+data.zewg.txt 3.1086847136800873

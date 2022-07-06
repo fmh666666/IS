@@ -1,5 +1,5 @@
 4
-data.kt.txt 2
-data.op.txt 1
-data.zcxr.txt 1
-data.zfbr.txt 1
+data.kt.txt 5.372597648141796
+data.op.txt 3.389731710180695
+data.zcxr.txt 3.389731710180695
+data.zfbr.txt 3.389731710180695

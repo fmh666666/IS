@@ -1,6 +1,6 @@
 5
-data.mu.txt 4
-data.zalm.txt 2
-data.zalt.txt 1
-data.zdlo.txt 1
-data.zegk.txt 1
+data.mu.txt 7.511577600598868
+data.zalm.txt 5.1274494005309625
+data.zalt.txt 3.235060386727117
+data.zdlo.txt 3.235060386727117
+data.zegk.txt 3.235060386727117

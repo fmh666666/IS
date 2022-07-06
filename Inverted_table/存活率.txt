@@ -1,5 +1,5 @@
 4
-data.zcel.txt 1
-data.zctp.txt 1
-data.zdby.txt 1
-data.zdwn.txt 2
+data.zcel.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zdby.txt 3.389731710180695
+data.zdwn.txt 5.372597648141796

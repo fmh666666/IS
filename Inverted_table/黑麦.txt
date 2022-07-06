@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zarc.txt 1
-data.zbcj.txt 1
-data.zdzn.txt 1
+data.zaim.txt 3.389731710180695
+data.zarc.txt 3.389731710180695
+data.zbcj.txt 3.389731710180695
+data.zdzn.txt 3.389731710180695

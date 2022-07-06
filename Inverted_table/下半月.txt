@@ -1,11 +1,11 @@
 10
-data.dg.txt 1
-data.ev.txt 2
-data.hu.txt 1
-data.zalc.txt 1
-data.zeay.txt 1
-data.zeel.txt 1
-data.zeez.txt 1
-data.zewp.txt 2
-data.zewv.txt 2
-data.zfaj.txt 1
+data.dg.txt 2.7546073728089153
+data.ev.txt 4.365949390112154
+data.hu.txt 2.7546073728089153
+data.zalc.txt 2.7546073728089153
+data.zeay.txt 2.7546073728089153
+data.zeel.txt 2.7546073728089153
+data.zeez.txt 2.7546073728089153
+data.zewp.txt 4.365949390112154
+data.zewv.txt 4.365949390112154
+data.zfaj.txt 2.7546073728089153

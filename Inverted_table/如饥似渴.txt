@@ -1,4 +1,4 @@
 3
-data.zazw.txt 1
-data.zdmw.txt 1
-data.zeos.txt 1
+data.zazw.txt 3.5891377275982888
+data.zdmw.txt 3.5891377275982888
+data.zeos.txt 3.5891377275982888

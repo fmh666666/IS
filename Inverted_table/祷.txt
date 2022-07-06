@@ -1,7 +1,7 @@
 6
-data.en.txt 1
-data.jf.txt 2
-data.zako.txt 1
-data.zazg.txt 1
-data.zdwv.txt 1
-data.zenw.txt 1
+data.en.txt 3.1086847136800873
+data.jf.txt 4.927148697748023
+data.zako.txt 3.1086847136800873
+data.zazg.txt 3.1086847136800873
+data.zdwv.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zaet.txt 3
-data.zcmy.txt 1
-data.zenn.txt 1
+data.zaet.txt 7.1782754551965775
+data.zcmy.txt 3.5891377275982888
+data.zenn.txt 3.5891377275982888

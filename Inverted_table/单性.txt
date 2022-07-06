@@ -1,2 +1,2 @@
 1
-data.zbgw.txt 4
+data.zbgw.txt 10.101867994579104

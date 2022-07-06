@@ -1,6 +1,6 @@
 5
-data.mi.txt 2
-data.tv.txt 1
-data.zajr.txt 1
-data.zdgv.txt 1
-data.zeoh.txt 1
+data.mi.txt 5.1274494005309625
+data.tv.txt 3.235060386727117
+data.zajr.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

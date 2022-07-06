@@ -1,12 +1,12 @@
 11
-data.zaet.txt 1
-data.zagb.txt 1
-data.zazo.txt 1
-data.zbcj.txt 1
-data.zbfx.txt 1
-data.zbht.txt 1
-data.zbor.txt 1
-data.zcel.txt 1
-data.zctp.txt 1
-data.zeds.txt 1
-data.zefp.txt 1
+data.zaet.txt 2.6885433903988862
+data.zagb.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbfx.txt 2.6885433903988862
+data.zbht.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zeds.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862

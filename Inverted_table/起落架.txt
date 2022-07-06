@@ -1,7 +1,7 @@
 6
-data.dg.txt 2
-data.zbup.txt 2
-data.zbvp.txt 1
-data.zcqs.txt 1
-data.zefp.txt 1
-data.zesq.txt 1
+data.dg.txt 4.927148697748023
+data.zbup.txt 4.927148697748023
+data.zbvp.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873
+data.zesq.txt 3.1086847136800873

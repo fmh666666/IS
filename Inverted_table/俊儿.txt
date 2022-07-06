@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zaop.txt 1
-data.zbel.txt 2
-data.zbfp.txt 1
-data.zcda.txt 1
+data.zajh.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zbel.txt 5.1274494005309625
+data.zbfp.txt 3.235060386727117
+data.zcda.txt 3.235060386727117

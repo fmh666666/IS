@@ -1,5 +1,5 @@
 4
-data.zacw.txt 1
-data.zbcc.txt 1
-data.zbla.txt 1
-data.zdod.txt 1
+data.zacw.txt 3.389731710180695
+data.zbcc.txt 3.389731710180695
+data.zbla.txt 3.389731710180695
+data.zdod.txt 3.389731710180695

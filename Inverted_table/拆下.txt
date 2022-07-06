@@ -1,11 +1,11 @@
 10
-data.fj.txt 1
-data.zalt.txt 1
-data.zasy.txt 1
-data.zbor.txt 1
-data.zcej.txt 1
-data.zcxr.txt 1
-data.zdaw.txt 1
-data.zeaf.txt 1
-data.zeag.txt 1
-data.zeaj.txt 1
+data.fj.txt 2.7546073728089153
+data.zalt.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zcej.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdaw.txt 2.7546073728089153
+data.zeaf.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153
+data.zeaj.txt 2.7546073728089153

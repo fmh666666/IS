@@ -1,6 +1,6 @@
 5
-data.mi.txt 1
-data.zazn.txt 1
-data.zbes.txt 1
-data.zcdy.txt 1
-data.zedo.txt 1
+data.mi.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zbes.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zedo.txt 3.235060386727117

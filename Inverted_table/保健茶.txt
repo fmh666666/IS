@@ -1,4 +1,4 @@
 3
-data.gw.txt 2
-data.zasw.txt 1
-data.zeeq.txt 1
+data.gw.txt 5.688648708166832
+data.zasw.txt 3.5891377275982888
+data.zeeq.txt 3.5891377275982888

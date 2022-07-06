@@ -1,6 +1,6 @@
 5
-data.zasd.txt 1
-data.zcvi.txt 1
-data.zeel.txt 1
-data.zeoh.txt 1
-data.zexm.txt 1
+data.zasd.txt 3.235060386727117
+data.zcvi.txt 3.235060386727117
+data.zeel.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

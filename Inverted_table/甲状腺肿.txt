@@ -1,4 +1,4 @@
 3
-data.zate.txt 1
-data.zbpc.txt 1
-data.zcwn.txt 1
+data.zate.txt 3.5891377275982888
+data.zbpc.txt 3.5891377275982888
+data.zcwn.txt 3.5891377275982888

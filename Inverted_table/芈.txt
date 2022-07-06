@@ -1,11 +1,11 @@
 10
-data.ev.txt 1
-data.ft.txt 1
-data.zadv.txt 1
-data.zawu.txt 2
-data.zbnx.txt 1
-data.zbvm.txt 1
-data.zdof.txt 1
-data.zejk.txt 1
-data.zeqh.txt 1
-data.zfai.txt 3
+data.ev.txt 2.7546073728089153
+data.ft.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zawu.txt 4.365949390112154
+data.zbnx.txt 2.7546073728089153
+data.zbvm.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zejk.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153
+data.zfai.txt 5.509214745617831

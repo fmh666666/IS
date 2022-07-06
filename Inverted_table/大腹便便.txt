@@ -1,4 +1,4 @@
 3
-data.zcvq.txt 1
-data.zczl.txt 1
-data.zdlo.txt 1
+data.zcvq.txt 3.5891377275982888
+data.zczl.txt 3.5891377275982888
+data.zdlo.txt 3.5891377275982888

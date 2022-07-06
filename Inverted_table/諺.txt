@@ -1,7 +1,7 @@
 6
-data.zacw.txt 1
-data.zaej.txt 1
-data.zawm.txt 1
-data.zbux.txt 1
-data.zdxw.txt 1
-data.zeyu.txt 1
+data.zacw.txt 3.1086847136800873
+data.zaej.txt 3.1086847136800873
+data.zawm.txt 3.1086847136800873
+data.zbux.txt 3.1086847136800873
+data.zdxw.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

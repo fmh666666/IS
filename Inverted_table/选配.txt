@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.zcdy.txt 1
-data.zcue.txt 2
-data.zcvi.txt 1
-data.zddx.txt 1
-data.zdoq.txt 6
-data.zeew.txt 1
-data.zefp.txt 1
+data.ew.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcue.txt 4.611097637722987
+data.zcvi.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zdoq.txt 8.16737786758984
+data.zeew.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935

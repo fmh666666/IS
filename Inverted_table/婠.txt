@@ -1,7 +1,7 @@
 6
-data.zalt.txt 4
-data.zasd.txt 4
-data.zaxk.txt 2
-data.zeai.txt 2
-data.zeaj.txt 2
-data.zeta.txt 2
+data.zalt.txt 7.21814237484067
+data.zasd.txt 7.21814237484067
+data.zaxk.txt 4.927148697748023
+data.zeai.txt 4.927148697748023
+data.zeaj.txt 4.927148697748023
+data.zeta.txt 4.927148697748023

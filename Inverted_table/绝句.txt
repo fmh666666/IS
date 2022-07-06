@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.kq.txt 1
-data.ud.txt 1
-data.zawo.txt 1
-data.zcao.txt 1
-data.zcjo.txt 1
-data.zdux.txt 1
-data.zdxw.txt 1
-data.zezn.txt 1
+data.bf.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zawo.txt 2.82763771717948
+data.zcao.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zdxw.txt 2.82763771717948
+data.zezn.txt 2.82763771717948

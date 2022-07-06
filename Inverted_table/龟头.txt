@@ -1,6 +1,6 @@
 5
-data.fz.txt 1
-data.nh.txt 1
-data.zbwq.txt 4
-data.zdil.txt 1
-data.zdll.txt 2
+data.fz.txt 3.235060386727117
+data.nh.txt 3.235060386727117
+data.zbwq.txt 7.511577600598868
+data.zdil.txt 3.235060386727117
+data.zdll.txt 5.1274494005309625

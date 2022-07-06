@@ -1,11 +1,11 @@
 10
-data.bb.txt 2
-data.mt.txt 4
-data.zacw.txt 1
-data.zass.txt 1
-data.zazg.txt 1
-data.zcis.txt 1
-data.zdzg.txt 1
-data.zeai.txt 1
-data.zefp.txt 2
-data.zefw.txt 2
+data.bb.txt 4.365949390112154
+data.mt.txt 6.396000249308887
+data.zacw.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zcis.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zeai.txt 2.7546073728089153
+data.zefp.txt 4.365949390112154
+data.zefw.txt 4.365949390112154

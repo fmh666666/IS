@@ -1,4 +1,4 @@
 3
-data.zciq.txt 1
-data.zdst.txt 1
-data.zfby.txt 1
+data.zciq.txt 3.5891377275982888
+data.zdst.txt 3.5891377275982888
+data.zfby.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zbdx.txt 1
-data.zbla.txt 1
-data.zblr.txt 1
+data.zbdx.txt 3.5891377275982888
+data.zbla.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888

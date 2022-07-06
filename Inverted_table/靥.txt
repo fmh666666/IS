@@ -1,11 +1,11 @@
 10
-data.ev.txt 1
-data.zamp.txt 1
-data.zaxj.txt 1
-data.zbla.txt 1
-data.zbmw.txt 1
-data.zcdv.txt 1
-data.zdby.txt 1
-data.zdll.txt 1
-data.zdod.txt 1
-data.zdof.txt 2
+data.ev.txt 2.7546073728089153
+data.zamp.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zdll.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zdof.txt 4.365949390112154

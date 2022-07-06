@@ -1,4 +1,4 @@
 3
-data.zapl.txt 2
-data.zbia.txt 1
-data.zdzm.txt 2
+data.zapl.txt 5.688648708166832
+data.zbia.txt 3.5891377275982888
+data.zdzm.txt 5.688648708166832

@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.zate.txt 2
-data.zcfn.txt 1
-data.zduk.txt 3
-data.zdwk.txt 1
-data.zerw.txt 1
+data.mo.txt 3.1086847136800873
+data.zate.txt 4.927148697748023
+data.zcfn.txt 3.1086847136800873
+data.zduk.txt 6.2173694273601745
+data.zdwk.txt 3.1086847136800873
+data.zerw.txt 3.1086847136800873

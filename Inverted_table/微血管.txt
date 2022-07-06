@@ -1,5 +1,5 @@
 4
-data.zaqw.txt 1
-data.zdlw.txt 1
-data.zdod.txt 1
-data.zfai.txt 1
+data.zaqw.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695
+data.zdod.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

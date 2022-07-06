@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.nh.txt 2
-data.zard.txt 1
-data.zbkf.txt 1
-data.zfaz.txt 1
+data.ep.txt 3.235060386727117
+data.nh.txt 5.1274494005309625
+data.zard.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

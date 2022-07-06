@@ -1,6 +1,6 @@
 5
-data.zbhv.txt 1
-data.zcse.txt 1
-data.zdgt.txt 1
-data.zenn.txt 2
-data.zevl.txt 1
+data.zbhv.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zenn.txt 5.1274494005309625
+data.zevl.txt 3.235060386727117

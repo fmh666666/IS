@@ -1,10 +1,10 @@
 9
-data.zako.txt 1
-data.zaxj.txt 1
-data.zbfx.txt 1
-data.zbjq.txt 1
-data.zbkr.txt 2
-data.zdrq.txt 1
-data.zebf.txt 1
-data.zexm.txt 1
-data.zfcj.txt 1
+data.zako.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zbjq.txt 2.82763771717948
+data.zbkr.txt 4.48169974735425
+data.zdrq.txt 2.82763771717948
+data.zebf.txt 2.82763771717948
+data.zexm.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948

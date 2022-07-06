@@ -1,9 +1,9 @@
 8
-data.pa.txt 1
-data.zagb.txt 1
-data.zbse.txt 1
-data.zbye.txt 1
-data.zbyv.txt 1
-data.zdju.txt 1
-data.zedo.txt 1
-data.zeqh.txt 1
+data.pa.txt 2.9092786962624935
+data.zagb.txt 2.9092786962624935
+data.zbse.txt 2.9092786962624935
+data.zbye.txt 2.9092786962624935
+data.zbyv.txt 2.9092786962624935
+data.zdju.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935

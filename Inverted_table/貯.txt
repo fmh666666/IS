@@ -1,6 +1,6 @@
 5
-data.zaim.txt 2
-data.zapl.txt 2
-data.zass.txt 1
-data.zdll.txt 2
-data.zegl.txt 1
+data.zaim.txt 5.1274494005309625
+data.zapl.txt 5.1274494005309625
+data.zass.txt 3.235060386727117
+data.zdll.txt 5.1274494005309625
+data.zegl.txt 3.235060386727117

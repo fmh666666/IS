@@ -1,9 +1,9 @@
 8
-data.hu.txt 1
-data.zako.txt 1
-data.zbwa.txt 1
-data.zbye.txt 1
-data.zcej.txt 1
-data.zcem.txt 4
-data.zdxw.txt 1
-data.zedy.txt 1
+data.hu.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zbye.txt 2.9092786962624935
+data.zcej.txt 2.9092786962624935
+data.zcem.txt 6.7551359407091605
+data.zdxw.txt 2.9092786962624935
+data.zedy.txt 2.9092786962624935

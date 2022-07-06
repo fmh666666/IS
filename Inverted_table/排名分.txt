@@ -1,4 +1,4 @@
 3
-data.mt.txt 2
-data.tz.txt 1
-data.zbfz.txt 1
+data.mt.txt 5.688648708166832
+data.tz.txt 3.5891377275982888
+data.zbfz.txt 3.5891377275982888

@@ -1,13 +1,13 @@
 12
-data.jj.txt 1
-data.op.txt 1
-data.qb.txt 2
-data.ry.txt 1
-data.zapl.txt 1
-data.zawu.txt 1
-data.zbhd.txt 2
-data.zbph.txt 1
-data.zbxw.txt 1
-data.zbxy.txt 1
-data.zdlw.txt 1
-data.zewd.txt 1
+data.jj.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.qb.txt 4.165648687329214
+data.ry.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbhd.txt 4.165648687329214
+data.zbph.txt 2.628231699761886
+data.zbxw.txt 2.628231699761886
+data.zbxy.txt 2.628231699761886
+data.zdlw.txt 2.628231699761886
+data.zewd.txt 2.628231699761886

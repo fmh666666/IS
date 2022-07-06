@@ -1,5 +1,5 @@
 4
-data.ee.txt 1
-data.zcls.txt 1
-data.zdux.txt 1
-data.zefw.txt 1
+data.ee.txt 3.389731710180695
+data.zcls.txt 3.389731710180695
+data.zdux.txt 3.389731710180695
+data.zefw.txt 3.389731710180695

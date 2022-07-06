@@ -1,11 +1,11 @@
 10
-data.nh.txt 1
-data.zabe.txt 1
-data.zard.txt 1
-data.zbpx.txt 1
-data.zcgi.txt 1
-data.zcpc.txt 1
-data.zdud.txt 1
-data.zeaj.txt 1
-data.zfai.txt 1
-data.zfaz.txt 1
+data.nh.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zard.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zcgi.txt 2.7546073728089153
+data.zcpc.txt 2.7546073728089153
+data.zdud.txt 2.7546073728089153
+data.zeaj.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

@@ -1,6 +1,6 @@
 5
-data.mt.txt 2
-data.zbkf.txt 1
-data.zbrj.txt 1
-data.zdji.txt 1
-data.zebn.txt 1
+data.mt.txt 5.1274494005309625
+data.zbkf.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zebn.txt 3.235060386727117

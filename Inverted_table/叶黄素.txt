@@ -1,4 +1,4 @@
 3
-data.hu.txt 1
-data.to.txt 1
-data.zeeq.txt 3
+data.hu.txt 3.5891377275982888
+data.to.txt 3.5891377275982888
+data.zeeq.txt 7.1782754551965775

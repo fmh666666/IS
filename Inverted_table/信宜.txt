@@ -1,7 +1,7 @@
 6
-data.ng.txt 1
-data.ud.txt 1
-data.zaxp.txt 21
-data.zbye.txt 1
-data.zcjy.txt 1
-data.zedo.txt 1
+data.ng.txt 3.1086847136800873
+data.ud.txt 3.1086847136800873
+data.zaxp.txt 13.862966904559416
+data.zbye.txt 3.1086847136800873
+data.zcjy.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

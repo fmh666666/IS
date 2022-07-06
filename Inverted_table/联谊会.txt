@@ -1,14 +1,14 @@
 13
-data.aj.txt 2
-data.ng.txt 14
-data.zaip.txt 1
-data.zbhd.txt 1
-data.zbhv.txt 1
-data.zblq.txt 3
-data.zcdy.txt 1
-data.zcxr.txt 2
-data.zdby.txt 1
-data.zddb.txt 2
-data.zdvl.txt 3
-data.zeeh.txt 1
-data.zezy.txt 1
+data.aj.txt 4.077712785060798
+data.ng.txt 10.051454040267819
+data.zaip.txt 2.5727503226135906
+data.zbhd.txt 2.5727503226135906
+data.zbhv.txt 2.5727503226135906
+data.zblq.txt 5.145500645227181
+data.zcdy.txt 2.5727503226135906
+data.zcxr.txt 4.077712785060798
+data.zdby.txt 2.5727503226135906
+data.zddb.txt 4.077712785060798
+data.zdvl.txt 5.145500645227181
+data.zeeh.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906

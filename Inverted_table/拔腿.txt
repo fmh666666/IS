@@ -1,11 +1,11 @@
 10
-data.zafe.txt 1
-data.zafk.txt 1
-data.zaqf.txt 1
-data.zbre.txt 1
-data.zbzf.txt 1
-data.zcel.txt 1
-data.zdcw.txt 1
-data.zdzm.txt 1
-data.zehb.txt 1
-data.zfai.txt 1
+data.zafe.txt 2.7546073728089153
+data.zafk.txt 2.7546073728089153
+data.zaqf.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zbzf.txt 2.7546073728089153
+data.zcel.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zdzm.txt 2.7546073728089153
+data.zehb.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

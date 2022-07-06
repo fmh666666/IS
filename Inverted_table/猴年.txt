@@ -1,4 +1,4 @@
 3
-data.zarc.txt 1
-data.zdle.txt 1
-data.zevt.txt 1
+data.zarc.txt 3.5891377275982888
+data.zdle.txt 3.5891377275982888
+data.zevt.txt 3.5891377275982888

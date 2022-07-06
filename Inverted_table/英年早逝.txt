@@ -1,13 +1,13 @@
 12
-data.sq.txt 1
-data.zawo.txt 1
-data.zazn.txt 1
-data.zbcj.txt 1
-data.zbgu.txt 1
-data.zcel.txt 1
-data.zcjo.txt 1
-data.zcpb.txt 1
-data.zctp.txt 1
-data.zelt.txt 1
-data.zemb.txt 1
-data.zezm.txt 1
+data.sq.txt 2.628231699761886
+data.zawo.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zcel.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zcpb.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zemb.txt 2.628231699761886
+data.zezm.txt 2.628231699761886

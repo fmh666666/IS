@@ -1,13 +1,13 @@
 12
-data.by.txt 1
-data.gk.txt 1
-data.mt.txt 1
-data.vm.txt 2
-data.zbga.txt 1
-data.zbla.txt 1
-data.zbuj.txt 1
-data.zcdl.txt 1
-data.zcfx.txt 1
-data.zcni.txt 3
-data.zdds.txt 2
-data.zdkk.txt 2
+data.by.txt 2.628231699761886
+data.gk.txt 2.628231699761886
+data.mt.txt 2.628231699761886
+data.vm.txt 4.165648687329214
+data.zbga.txt 2.628231699761886
+data.zbla.txt 2.628231699761886
+data.zbuj.txt 2.628231699761886
+data.zcdl.txt 2.628231699761886
+data.zcfx.txt 2.628231699761886
+data.zcni.txt 5.256463399523772
+data.zdds.txt 4.165648687329214
+data.zdkk.txt 4.165648687329214

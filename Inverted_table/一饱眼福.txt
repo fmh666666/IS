@@ -1,7 +1,7 @@
 6
-data.zaql.txt 1
-data.zcmn.txt 1
-data.zctm.txt 1
-data.zdro.txt 1
-data.zeid.txt 1
-data.zerv.txt 1
+data.zaql.txt 3.1086847136800873
+data.zcmn.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zdro.txt 3.1086847136800873
+data.zeid.txt 3.1086847136800873
+data.zerv.txt 3.1086847136800873

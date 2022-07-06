@@ -1,9 +1,9 @@
 8
-data.ee.txt 1
-data.zavg.txt 1
-data.zayd.txt 1
-data.zazn.txt 1
-data.zblq.txt 1
-data.zcrg.txt 1
-data.zedd.txt 1
-data.zeez.txt 6
+data.ee.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcrg.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zeez.txt 8.16737786758984

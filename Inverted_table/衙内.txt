@@ -1,7 +1,7 @@
 6
-data.zabe.txt 2
-data.zbpx.txt 3
-data.zbsm.txt 1
-data.zcni.txt 1
-data.zelt.txt 2
-data.zfai.txt 1
+data.zabe.txt 4.927148697748023
+data.zbpx.txt 6.2173694273601745
+data.zbsm.txt 3.1086847136800873
+data.zcni.txt 3.1086847136800873
+data.zelt.txt 4.927148697748023
+data.zfai.txt 3.1086847136800873

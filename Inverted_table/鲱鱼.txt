@@ -1,4 +1,4 @@
 3
-data.zcdv.txt 4
-data.zciy.txt 2
-data.zefp.txt 1
+data.zcdv.txt 8.333719726130651
+data.zciy.txt 5.688648708166832
+data.zefp.txt 3.5891377275982888

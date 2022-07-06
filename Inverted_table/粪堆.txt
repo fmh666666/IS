@@ -1,5 +1,5 @@
 4
-data.zaoc.txt 2
-data.zbfd.txt 1
-data.zbsm.txt 1
-data.zcli.txt 1
+data.zaoc.txt 5.372597648141796
+data.zbfd.txt 3.389731710180695
+data.zbsm.txt 3.389731710180695
+data.zcli.txt 3.389731710180695

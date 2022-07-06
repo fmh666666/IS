@@ -1,11 +1,11 @@
 10
-data.gz.txt 1
-data.zbla.txt 1
-data.zblh.txt 1
-data.zcao.txt 2
-data.zcni.txt 1
-data.zdwl.txt 1
-data.zehp.txt 1
-data.zenw.txt 1
-data.zeun.txt 1
-data.zezy.txt 1
+data.gz.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zblh.txt 2.7546073728089153
+data.zcao.txt 4.365949390112154
+data.zcni.txt 2.7546073728089153
+data.zdwl.txt 2.7546073728089153
+data.zehp.txt 2.7546073728089153
+data.zenw.txt 2.7546073728089153
+data.zeun.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153

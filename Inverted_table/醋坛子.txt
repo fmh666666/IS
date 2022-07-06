@@ -1,6 +1,6 @@
 5
-data.zaop.txt 1
-data.zcrv.txt 1
-data.zdeq.txt 1
-data.zdgo.txt 2
-data.zdic.txt 1
+data.zaop.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117
+data.zdeq.txt 3.235060386727117
+data.zdgo.txt 5.1274494005309625
+data.zdic.txt 3.235060386727117

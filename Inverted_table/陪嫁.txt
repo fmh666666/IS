@@ -1,5 +1,5 @@
 4
-data.mx.txt 2
-data.zahd.txt 2
-data.zdeb.txt 4
-data.zefd.txt 1
+data.mx.txt 5.372597648141796
+data.zahd.txt 5.372597648141796
+data.zdeb.txt 7.870713291999142
+data.zefd.txt 3.389731710180695

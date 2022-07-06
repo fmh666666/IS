@@ -1,7 +1,7 @@
 6
-data.zajr.txt 1
-data.zawb.txt 1
-data.zciq.txt 1
-data.zdaw.txt 1
-data.zebc.txt 1
-data.zeyu.txt 1
+data.zajr.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

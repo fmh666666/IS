@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zalj.txt 1
-data.zdga.txt 1
-data.zdll.txt 1
-data.zeeh.txt 1
+data.ka.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zdga.txt 3.235060386727117
+data.zdll.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117

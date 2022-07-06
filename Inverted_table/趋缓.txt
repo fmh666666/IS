@@ -1,4 +1,4 @@
 3
-data.zcih.txt 1
-data.zdgt.txt 1
-data.zelt.txt 2
+data.zcih.txt 3.5891377275982888
+data.zdgt.txt 3.5891377275982888
+data.zelt.txt 5.688648708166832

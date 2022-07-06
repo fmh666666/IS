@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zaxx.txt 1
-data.zbzf.txt 1
-data.zcqg.txt 1
-data.zevq.txt 1
+data.zawc.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

@@ -1,11 +1,11 @@
 10
-data.hz.txt 1
-data.zafy.txt 1
-data.zarr.txt 1
-data.zcdy.txt 1
-data.zciq.txt 1
-data.zctp.txt 1
-data.zebn.txt 4
-data.zeec.txt 1
-data.zevt.txt 1
-data.zexu.txt 1
+data.hz.txt 2.7546073728089153
+data.zafy.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zebn.txt 6.396000249308887
+data.zeec.txt 2.7546073728089153
+data.zevt.txt 2.7546073728089153
+data.zexu.txt 2.7546073728089153

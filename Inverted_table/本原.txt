@@ -1,6 +1,6 @@
 5
-data.zcfn.txt 1
-data.zdil.txt 1
-data.zdkp.txt 1
-data.zesq.txt 1
-data.zfaw.txt 1
+data.zcfn.txt 3.235060386727117
+data.zdil.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zesq.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

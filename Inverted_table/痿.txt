@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.yx.txt 1
-data.zagr.txt 1
-data.zbeb.txt 1
-data.zbrj.txt 1
-data.zcdg.txt 1
-data.zcxr.txt 1
-data.zdll.txt 1
-data.zdoq.txt 1
-data.zerw.txt 1
+data.ek.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zagr.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdll.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zerw.txt 2.7546073728089153

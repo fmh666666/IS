@@ -1,13 +1,13 @@
 12
-data.en.txt 2
-data.ud.txt 1
-data.zasy.txt 1
-data.zawb.txt 1
-data.zaxj.txt 2
-data.zazw.txt 1
-data.zcmx.txt 1
-data.zdcy.txt 1
-data.zddm.txt 1
-data.zdep.txt 1
-data.zeeh.txt 1
-data.zene.txt 1
+data.en.txt 4.165648687329214
+data.ud.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zaxj.txt 4.165648687329214
+data.zazw.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zdcy.txt 2.628231699761886
+data.zddm.txt 2.628231699761886
+data.zdep.txt 2.628231699761886
+data.zeeh.txt 2.628231699761886
+data.zene.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.hc.txt 1
-data.zbcj.txt 1
-data.zbds.txt 2
-data.zbgu.txt 1
-data.zbts.txt 2
-data.zcej.txt 4
-data.zcfx.txt 1
-data.zdgp.txt 1
-data.zeoh.txt 1
+data.hc.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbds.txt 4.48169974735425
+data.zbgu.txt 2.82763771717948
+data.zbts.txt 4.48169974735425
+data.zcej.txt 6.565571457682201
+data.zcfx.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

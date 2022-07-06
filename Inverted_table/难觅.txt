@@ -1,14 +1,14 @@
 13
-data.aj.txt 1
-data.be.txt 1
-data.bs.txt 1
-data.ft.txt 1
-data.zafe.txt 1
-data.zahd.txt 1
-data.zbdx.txt 1
-data.zbtj.txt 1
-data.zcdy.txt 1
-data.zcue.txt 1
-data.zdcj.txt 1
-data.zefv.txt 1
-data.zerh.txt 1
+data.aj.txt 2.5727503226135906
+data.be.txt 2.5727503226135906
+data.bs.txt 2.5727503226135906
+data.ft.txt 2.5727503226135906
+data.zafe.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zbtj.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zefv.txt 2.5727503226135906
+data.zerh.txt 2.5727503226135906

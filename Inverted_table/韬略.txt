@@ -1,9 +1,9 @@
 8
-data.zaim.txt 1
-data.zarr.txt 1
-data.zbjh.txt 1
-data.zbor.txt 1
-data.zckd.txt 1
-data.zcon.txt 2
-data.zdju.txt 1
-data.zebf.txt 1
+data.zaim.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zckd.txt 2.9092786962624935
+data.zcon.txt 4.611097637722987
+data.zdju.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.gk.txt 2
-data.ha.txt 1
-data.zcby.txt 4
-data.zcnn.txt 2
+data.ga.txt 3.235060386727117
+data.gk.txt 5.1274494005309625
+data.ha.txt 3.235060386727117
+data.zcby.txt 7.511577600598868
+data.zcnn.txt 5.1274494005309625

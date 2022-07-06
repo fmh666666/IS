@@ -1,4 +1,4 @@
 3
-data.zcjo.txt 1
-data.zeeh.txt 2
-data.zeta.txt 13
+data.zcjo.txt 3.5891377275982888
+data.zeeh.txt 5.688648708166832
+data.zeta.txt 13.665121193113988

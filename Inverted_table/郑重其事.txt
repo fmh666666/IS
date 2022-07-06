@@ -1,5 +1,5 @@
 4
-data.zaoy.txt 1
-data.zbyb.txt 1
-data.zdgp.txt 1
-data.zdlw.txt 1
+data.zaoy.txt 3.389731710180695
+data.zbyb.txt 3.389731710180695
+data.zdgp.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695

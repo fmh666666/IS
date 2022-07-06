@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.uz.txt 1
-data.zake.txt 3
-data.zasr.txt 1
-data.zasy.txt 1
-data.zbaq.txt 3
-data.zblq.txt 1
-data.zbvp.txt 1
-data.zcic.txt 1
-data.zdds.txt 1
-data.zefv.txt 1
-data.zenw.txt 1
+data.aj.txt 2.628231699761886
+data.uz.txt 2.628231699761886
+data.zake.txt 5.256463399523772
+data.zasr.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zbaq.txt 5.256463399523772
+data.zblq.txt 2.628231699761886
+data.zbvp.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zdds.txt 2.628231699761886
+data.zefv.txt 2.628231699761886
+data.zenw.txt 2.628231699761886

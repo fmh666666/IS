@@ -1,10 +1,10 @@
 9
-data.sq.txt 1
-data.wc.txt 1
-data.zacw.txt 5
-data.zagb.txt 1
-data.zbyv.txt 2
-data.zcft.txt 1
-data.zcqp.txt 1
-data.zdyv.txt 1
-data.zefs.txt 1
+data.sq.txt 2.82763771717948
+data.wc.txt 2.82763771717948
+data.zacw.txt 7.309337464533731
+data.zagb.txt 2.82763771717948
+data.zbyv.txt 4.48169974735425
+data.zcft.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zefs.txt 2.82763771717948

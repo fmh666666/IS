@@ -1,4 +1,4 @@
 3
-data.zbcc.txt 1
-data.zcdv.txt 2
-data.zcxh.txt 1
+data.zbcc.txt 3.5891377275982888
+data.zcdv.txt 5.688648708166832
+data.zcxh.txt 3.5891377275982888

@@ -1,14 +1,14 @@
 13
-data.fz.txt 1
-data.zaeh.txt 1
-data.zaic.txt 1
-data.zajo.txt 1
-data.zane.txt 2
-data.zbel.txt 1
-data.zbwa.txt 1
-data.zcmy.txt 1
-data.zcnn.txt 1
-data.zcpb.txt 1
-data.zcsu.txt 2
-data.zfaj.txt 1
-data.zfcj.txt 2
+data.fz.txt 2.5727503226135906
+data.zaeh.txt 2.5727503226135906
+data.zaic.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zane.txt 4.077712785060798
+data.zbel.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zcnn.txt 2.5727503226135906
+data.zcpb.txt 2.5727503226135906
+data.zcsu.txt 4.077712785060798
+data.zfaj.txt 2.5727503226135906
+data.zfcj.txt 4.077712785060798

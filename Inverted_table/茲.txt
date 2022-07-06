@@ -1,6 +1,6 @@
 5
-data.ev.txt 1
-data.mu.txt 1
-data.zagr.txt 1
-data.zawz.txt 1
-data.zdwk.txt 1
+data.ev.txt 3.235060386727117
+data.mu.txt 3.235060386727117
+data.zagr.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zdwk.txt 3.235060386727117

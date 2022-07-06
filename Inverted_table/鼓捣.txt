@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.zaim.txt 1
-data.zaoo.txt 1
-data.zapf.txt 1
-data.zaxk.txt 3
-data.zbtj.txt 1
-data.zcih.txt 1
-data.zctp.txt 1
-data.zeac.txt 1
-data.zelj.txt 1
-data.zeoh.txt 1
-data.zeos.txt 1
-data.zewg.txt 1
+data.ew.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zaoo.txt 2.5727503226135906
+data.zapf.txt 2.5727503226135906
+data.zaxk.txt 5.145500645227181
+data.zbtj.txt 2.5727503226135906
+data.zcih.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zeac.txt 2.5727503226135906
+data.zelj.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zeos.txt 2.5727503226135906
+data.zewg.txt 2.5727503226135906

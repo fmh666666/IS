@@ -1,6 +1,6 @@
 5
-data.op.txt 4
-data.zafy.txt 1
-data.zawc.txt 1
-data.zdmw.txt 1
-data.zene.txt 1
+data.op.txt 7.511577600598868
+data.zafy.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zene.txt 3.235060386727117

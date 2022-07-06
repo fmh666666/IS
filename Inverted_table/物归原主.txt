@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.hz.txt 1
-data.zawb.txt 1
-data.zbsd.txt 1
-data.zdaw.txt 1
-data.zdzi.txt 1
-data.zerh.txt 1
-data.zerw.txt 1
+data.hg.txt 2.9092786962624935
+data.hz.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbsd.txt 2.9092786962624935
+data.zdaw.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zerh.txt 2.9092786962624935
+data.zerw.txt 2.9092786962624935

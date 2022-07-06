@@ -1,7 +1,7 @@
 6
-data.ry.txt 2
-data.zbfz.txt 1
-data.zcku.txt 1
-data.zexk.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.ry.txt 4.927148697748023
+data.zbfz.txt 3.1086847136800873
+data.zcku.txt 3.1086847136800873
+data.zexk.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

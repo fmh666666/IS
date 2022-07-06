@@ -1,4 +1,4 @@
 3
-data.ok.txt 1
-data.zako.txt 1
-data.zcnn.txt 1
+data.ok.txt 3.5891377275982888
+data.zako.txt 3.5891377275982888
+data.zcnn.txt 3.5891377275982888

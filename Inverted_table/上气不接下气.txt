@@ -1,9 +1,9 @@
 8
-data.zanh.txt 1
-data.zcdg.txt 1
-data.zcko.txt 1
-data.zdgo.txt 1
-data.zdwl.txt 1
-data.zebn.txt 1
-data.zedk.txt 1
-data.zfae.txt 1
+data.zanh.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

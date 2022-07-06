@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.pa.txt 1
-data.zamr.txt 2
-data.zbts.txt 2
-data.zcao.txt 2
-data.zcon.txt 2
-data.zdey.txt 1
-data.zdpf.txt 1
-data.zdzi.txt 1
-data.zefw.txt 1
-data.zejk.txt 1
-data.zeos.txt 1
-data.zfae.txt 1
+data.hg.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.zamr.txt 4.077712785060798
+data.zbts.txt 4.077712785060798
+data.zcao.txt 4.077712785060798
+data.zcon.txt 4.077712785060798
+data.zdey.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906
+data.zdzi.txt 2.5727503226135906
+data.zefw.txt 2.5727503226135906
+data.zejk.txt 2.5727503226135906
+data.zeos.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906

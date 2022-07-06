@@ -1,4 +1,4 @@
 3
-data.zagr.txt 1
-data.zasq.txt 1
-data.zbwa.txt 1
+data.zagr.txt 3.5891377275982888
+data.zasq.txt 3.5891377275982888
+data.zbwa.txt 3.5891377275982888

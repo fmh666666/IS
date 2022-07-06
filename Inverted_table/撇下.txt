@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zajh.txt 1
-data.zavg.txt 1
-data.zaxp.txt 1
-data.zchw.txt 1
-data.zcmn.txt 1
-data.zczp.txt 1
-data.zefw.txt 1
-data.zess.txt 1
+data.fp.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zchw.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zess.txt 2.82763771717948

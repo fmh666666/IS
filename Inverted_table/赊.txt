@@ -1,6 +1,6 @@
 5
-data.jj.txt 1
-data.zafi.txt 1
-data.zaxk.txt 1
-data.zbeb.txt 1
-data.zdou.txt 1
+data.jj.txt 3.235060386727117
+data.zafi.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zdou.txt 3.235060386727117

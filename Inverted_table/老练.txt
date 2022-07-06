@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.zazo.txt 1
-data.zbhd.txt 1
-data.zcpc.txt 1
-data.zcrg.txt 1
-data.zekw.txt 1
+data.dg.txt 3.1086847136800873
+data.zazo.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zcpc.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873
+data.zekw.txt 3.1086847136800873

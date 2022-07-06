@@ -1,6 +1,6 @@
 5
-data.zblq.txt 1
-data.zcdv.txt 1
-data.zcpx.txt 1
-data.zdaq.txt 1
-data.zdgo.txt 1
+data.zblq.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zcpx.txt 3.235060386727117
+data.zdaq.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117

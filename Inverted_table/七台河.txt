@@ -1,4 +1,4 @@
 3
-data.zbsl.txt 1
-data.zdkv.txt 2
-data.zelt.txt 2
+data.zbsl.txt 3.5891377275982888
+data.zdkv.txt 5.688648708166832
+data.zelt.txt 5.688648708166832

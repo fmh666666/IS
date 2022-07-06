@@ -1,13 +1,13 @@
 12
-data.aj.txt 2
-data.cz.txt 1
-data.mu.txt 1
-data.uz.txt 1
-data.zaxj.txt 1
-data.zbnx.txt 1
-data.zbyb.txt 1
-data.zcak.txt 1
-data.zcis.txt 1
-data.zefp.txt 1
-data.zerw.txt 1
-data.zexk.txt 1
+data.aj.txt 4.165648687329214
+data.cz.txt 2.628231699761886
+data.mu.txt 2.628231699761886
+data.uz.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zbnx.txt 2.628231699761886
+data.zbyb.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zerw.txt 2.628231699761886
+data.zexk.txt 2.628231699761886

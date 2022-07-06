@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zbxw.txt 1
-data.zdaw.txt 1
-data.zevl.txt 1
-data.zeyu.txt 1
+data.zawc.txt 3.235060386727117
+data.zbxw.txt 3.235060386727117
+data.zdaw.txt 3.235060386727117
+data.zevl.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117

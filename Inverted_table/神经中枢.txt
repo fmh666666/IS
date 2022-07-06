@@ -1,3 +1,3 @@
 2
-data.ud.txt 1
-data.zcsu.txt 1
+data.ud.txt 3.8701847240988965
+data.zcsu.txt 3.8701847240988965

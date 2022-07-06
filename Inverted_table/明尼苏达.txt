@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.zaoy.txt 1
-data.zbds.txt 2
-data.zbgw.txt 1
-data.zbuj.txt 1
-data.zcko.txt 1
-data.zcvt.txt 1
-data.zcxq.txt 1
-data.zcyv.txt 1
-data.zdnh.txt 1
-data.zdoq.txt 1
-data.zdst.txt 2
+data.bs.txt 2.628231699761886
+data.zaoy.txt 2.628231699761886
+data.zbds.txt 4.165648687329214
+data.zbgw.txt 2.628231699761886
+data.zbuj.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zcvt.txt 2.628231699761886
+data.zcxq.txt 2.628231699761886
+data.zcyv.txt 2.628231699761886
+data.zdnh.txt 2.628231699761886
+data.zdoq.txt 2.628231699761886
+data.zdst.txt 4.165648687329214

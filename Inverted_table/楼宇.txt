@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.uz.txt 1
-data.wg.txt 1
-data.zbil.txt 2
-data.zbts.txt 1
-data.zcej.txt 3
-data.zdtr.txt 1
-data.zeid.txt 1
+data.jf.txt 2.9092786962624935
+data.uz.txt 2.9092786962624935
+data.wg.txt 2.9092786962624935
+data.zbil.txt 4.611097637722987
+data.zbts.txt 2.9092786962624935
+data.zcej.txt 5.818557392524987
+data.zdtr.txt 2.9092786962624935
+data.zeid.txt 2.9092786962624935

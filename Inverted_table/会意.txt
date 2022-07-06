@@ -1,13 +1,13 @@
 12
-data.bf.txt 2
-data.ye.txt 1
-data.zaoc.txt 1
-data.zarr.txt 1
-data.zciy.txt 2
-data.zcql.txt 2
-data.zcrg.txt 1
-data.zctp.txt 1
-data.zcuh.txt 1
-data.zedo.txt 1
-data.zevy.txt 1
-data.zexu.txt 1
+data.bf.txt 4.165648687329214
+data.ye.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zciy.txt 4.165648687329214
+data.zcql.txt 4.165648687329214
+data.zcrg.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zcuh.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zevy.txt 2.628231699761886
+data.zexu.txt 2.628231699761886

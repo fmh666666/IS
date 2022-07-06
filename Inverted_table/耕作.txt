@@ -1,11 +1,11 @@
 10
-data.by.txt 1
-data.gw.txt 1
-data.ng.txt 1
-data.op.txt 1
-data.zail.txt 1
-data.zamr.txt 1
-data.zbts.txt 1
-data.zbye.txt 1
-data.zelj.txt 1
-data.zfaj.txt 1
+data.by.txt 2.7546073728089153
+data.gw.txt 2.7546073728089153
+data.ng.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zail.txt 2.7546073728089153
+data.zamr.txt 2.7546073728089153
+data.zbts.txt 2.7546073728089153
+data.zbye.txt 2.7546073728089153
+data.zelj.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

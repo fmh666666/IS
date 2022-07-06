@@ -1,6 +1,6 @@
 5
-data.zaoy.txt 1
-data.zaqf.txt 1
-data.zbzg.txt 1
-data.zeid.txt 1
-data.zewd.txt 1
+data.zaoy.txt 3.235060386727117
+data.zaqf.txt 3.235060386727117
+data.zbzg.txt 3.235060386727117
+data.zeid.txt 3.235060386727117
+data.zewd.txt 3.235060386727117

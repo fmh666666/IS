@@ -1,7 +1,7 @@
 6
-data.zbwa.txt 1
-data.zcaq.txt 3
-data.zchw.txt 2
-data.zcve.txt 1
-data.zdgt.txt 1
-data.zeez.txt 1
+data.zbwa.txt 3.1086847136800873
+data.zcaq.txt 6.2173694273601745
+data.zchw.txt 4.927148697748023
+data.zcve.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873

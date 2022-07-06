@@ -1,4 +1,4 @@
 3
-data.zane.txt 1
-data.zcfx.txt 1
-data.zcvi.txt 1
+data.zane.txt 3.5891377275982888
+data.zcfx.txt 3.5891377275982888
+data.zcvi.txt 3.5891377275982888

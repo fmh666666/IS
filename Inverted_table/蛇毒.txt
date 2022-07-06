@@ -1,12 +1,12 @@
 11
-data.dg.txt 2
-data.ha.txt 1
-data.hu.txt 1
-data.xe.txt 1
-data.zawc.txt 1
-data.zbcv.txt 1
-data.zdcj.txt 1
-data.zddb.txt 1
-data.zdmw.txt 3
-data.zdux.txt 1
-data.zdwd.txt 1
+data.dg.txt 4.261240455343955
+data.ha.txt 2.6885433903988862
+data.hu.txt 2.6885433903988862
+data.xe.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbcv.txt 2.6885433903988862
+data.zdcj.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zdmw.txt 5.3770867807977725
+data.zdux.txt 2.6885433903988862
+data.zdwd.txt 2.6885433903988862

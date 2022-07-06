@@ -1,6 +1,6 @@
 5
-data.zalj.txt 1
-data.zayd.txt 3
-data.zazn.txt 3
-data.zcko.txt 3
-data.zeyg.txt 3
+data.zalj.txt 3.235060386727117
+data.zayd.txt 6.470120773454234
+data.zazn.txt 6.470120773454234
+data.zcko.txt 6.470120773454234
+data.zeyg.txt 6.470120773454234

@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zaej.txt 1
-data.zaic.txt 1
-data.zawc.txt 1
-data.zbnx.txt 1
-data.zcmv.txt 1
-data.zcxr.txt 1
-data.zdkc.txt 2
+data.yx.txt 2.9092786962624935
+data.zaej.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zcmv.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdkc.txt 4.611097637722987

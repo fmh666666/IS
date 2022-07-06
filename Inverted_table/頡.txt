@@ -1,6 +1,6 @@
 5
-data.mu.txt 1
-data.zafu.txt 1
-data.zbqu.txt 10
-data.zcaq.txt 1
-data.zdkk.txt 1
+data.mu.txt 3.235060386727117
+data.zafu.txt 3.235060386727117
+data.zbqu.txt 11.191470190044793
+data.zcaq.txt 3.235060386727117
+data.zdkk.txt 3.235060386727117

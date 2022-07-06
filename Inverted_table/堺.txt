@@ -1,13 +1,13 @@
 12
-data.fp.txt 2
-data.zass.txt 4
-data.zbmw.txt 1
-data.zbsu.txt 1
-data.zbzg.txt 3
-data.zcfn.txt 1
-data.zcic.txt 3
-data.zcvq.txt 1
-data.zdwz.txt 1
-data.zedx.txt 1
-data.zegn.txt 2
-data.zesi.txt 1
+data.fp.txt 4.165648687329214
+data.zass.txt 6.1025650235506905
+data.zbmw.txt 2.628231699761886
+data.zbsu.txt 2.628231699761886
+data.zbzg.txt 5.256463399523772
+data.zcfn.txt 2.628231699761886
+data.zcic.txt 5.256463399523772
+data.zcvq.txt 2.628231699761886
+data.zdwz.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zegn.txt 4.165648687329214
+data.zesi.txt 2.628231699761886

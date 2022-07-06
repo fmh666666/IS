@@ -1,4 +1,4 @@
 3
-data.ka.txt 1
-data.zadv.txt 1
-data.zeac.txt 1
+data.ka.txt 3.5891377275982888
+data.zadv.txt 3.5891377275982888
+data.zeac.txt 3.5891377275982888

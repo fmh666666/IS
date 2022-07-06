@@ -1,4 +1,4 @@
 3
-data.zarr.txt 2
-data.zdoq.txt 2
-data.zezy.txt 1
+data.zarr.txt 5.688648708166832
+data.zdoq.txt 5.688648708166832
+data.zezy.txt 3.5891377275982888

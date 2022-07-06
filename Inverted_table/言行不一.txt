@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zabe.txt 1
-data.zapl.txt 2
-data.zdcy.txt 1
-data.zevq.txt 1
+data.ga.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zapl.txt 5.1274494005309625
+data.zdcy.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

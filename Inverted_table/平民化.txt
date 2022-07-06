@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.gw.txt 1
-data.pn.txt 1
-data.zajr.txt 1
-data.zall.txt 1
-data.zawc.txt 1
-data.zcaq.txt 1
-data.zcsu.txt 1
-data.zeec.txt 1
-data.zeqn.txt 1
-data.zeqv.txt 1
+data.dg.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zajr.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zcaq.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862
+data.zeqv.txt 2.6885433903988862

@@ -1,12 +1,12 @@
 11
-data.aj.txt 4
-data.ok.txt 1
-data.zarr.txt 2
-data.zbkr.txt 1
-data.zcsu.txt 1
-data.zcue.txt 1
-data.zcuh.txt 2
-data.zcvt.txt 1
-data.zcxr.txt 1
-data.zegl.txt 1
-data.zfae.txt 1
+data.aj.txt 6.2426044324908965
+data.ok.txt 2.6885433903988862
+data.zarr.txt 4.261240455343955
+data.zbkr.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zcuh.txt 4.261240455343955
+data.zcvt.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zegl.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

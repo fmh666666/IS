@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.zalt.txt 1
-data.zbaq.txt 1
-data.zckd.txt 1
-data.zess.txt 1
+data.jf.txt 3.235060386727117
+data.zalt.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zess.txt 3.235060386727117

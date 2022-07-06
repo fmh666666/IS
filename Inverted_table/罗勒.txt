@@ -1,7 +1,7 @@
 6
-data.kt.txt 5
-data.zbvg.txt 1
-data.zczp.txt 1
-data.zekw.txt 1
-data.zemb.txt 2
-data.zfcj.txt 1
+data.kt.txt 8.03583341142811
+data.zbvg.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zekw.txt 3.1086847136800873
+data.zemb.txt 4.927148697748023
+data.zfcj.txt 3.1086847136800873

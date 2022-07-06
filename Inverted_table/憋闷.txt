@@ -1,7 +1,7 @@
 6
-data.zcee.txt 5
-data.zcef.txt 1
-data.zctp.txt 1
-data.zczb.txt 2
-data.zddb.txt 1
-data.zdil.txt 1
+data.zcee.txt 8.03583341142811
+data.zcef.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zczb.txt 4.927148697748023
+data.zddb.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873

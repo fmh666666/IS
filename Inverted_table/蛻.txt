@@ -1,13 +1,13 @@
 12
-data.ee.txt 1
-data.jj.txt 1
-data.zalc.txt 1
-data.zall.txt 1
-data.zalt.txt 1
-data.zamp.txt 1
-data.zayc.txt 1
-data.zbfp.txt 1
-data.zbta.txt 1
-data.zbvn.txt 1
-data.zchw.txt 1
-data.zdwd.txt 2
+data.ee.txt 2.628231699761886
+data.jj.txt 2.628231699761886
+data.zalc.txt 2.628231699761886
+data.zall.txt 2.628231699761886
+data.zalt.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zayc.txt 2.628231699761886
+data.zbfp.txt 2.628231699761886
+data.zbta.txt 2.628231699761886
+data.zbvn.txt 2.628231699761886
+data.zchw.txt 2.628231699761886
+data.zdwd.txt 4.165648687329214

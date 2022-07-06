@@ -1,4 +1,4 @@
 3
-data.zdtr.txt 4
-data.zdzn.txt 1
-data.zene.txt 4
+data.zdtr.txt 8.333719726130651
+data.zdzn.txt 3.5891377275982888
+data.zene.txt 8.333719726130651

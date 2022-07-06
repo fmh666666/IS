@@ -1,8 +1,8 @@
 7
-data.zaun.txt 2
-data.zckd.txt 1
-data.zcll.txt 1
-data.zcoy.txt 3
-data.zedy.txt 1
-data.zeeh.txt 3
-data.zfaj.txt 1
+data.zaun.txt 4.757796866583254
+data.zckd.txt 3.0018356045764243
+data.zcll.txt 3.0018356045764243
+data.zcoy.txt 6.003671209152849
+data.zedy.txt 3.0018356045764243
+data.zeeh.txt 6.003671209152849
+data.zfaj.txt 3.0018356045764243

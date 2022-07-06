@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.zawb.txt 1
-data.zazg.txt 1
-data.zazn.txt 1
-data.zbvm.txt 1
-data.zewg.txt 1
-data.zezh.txt 1
-data.zfcj.txt 1
+data.jf.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zewg.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935
+data.zfcj.txt 2.9092786962624935

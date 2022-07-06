@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zaoo.txt 1
-data.zcby.txt 1
-data.zchw.txt 1
-data.zcon.txt 2
+data.zalt.txt 3.235060386727117
+data.zaoo.txt 3.235060386727117
+data.zcby.txt 3.235060386727117
+data.zchw.txt 3.235060386727117
+data.zcon.txt 5.1274494005309625

@@ -1,10 +1,10 @@
 9
-data.qb.txt 1
-data.ud.txt 1
-data.zalj.txt 2
-data.zasy.txt 1
-data.zaxx.txt 1
-data.zblq.txt 1
-data.zbut.txt 1
-data.zdlm.txt 2
-data.zegk.txt 1
+data.qb.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zalj.txt 4.48169974735425
+data.zasy.txt 2.82763771717948
+data.zaxx.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zbut.txt 2.82763771717948
+data.zdlm.txt 4.48169974735425
+data.zegk.txt 2.82763771717948

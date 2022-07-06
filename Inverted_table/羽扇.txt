@@ -1,9 +1,9 @@
 8
-data.be.txt 2
-data.fj.txt 1
-data.tv.txt 2
-data.zahd.txt 1
-data.zblq.txt 1
-data.zbvp.txt 1
-data.zdoq.txt 1
-data.zebf.txt 1
+data.be.txt 4.611097637722987
+data.fj.txt 2.9092786962624935
+data.tv.txt 4.611097637722987
+data.zahd.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

@@ -1,8 +1,8 @@
 7
-data.jf.txt 1
-data.zbdb.txt 1
-data.zbwq.txt 1
-data.zcln.txt 1
-data.zdfl.txt 1
-data.zeoh.txt 1
-data.zess.txt 1
+data.jf.txt 3.0018356045764243
+data.zbdb.txt 3.0018356045764243
+data.zbwq.txt 3.0018356045764243
+data.zcln.txt 3.0018356045764243
+data.zdfl.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243
+data.zess.txt 3.0018356045764243

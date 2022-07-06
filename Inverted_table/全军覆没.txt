@@ -1,12 +1,12 @@
 11
-data.pa.txt 1
-data.pn.txt 1
-data.zajr.txt 1
-data.zbfg.txt 1
-data.zbsl.txt 1
-data.zbua.txt 1
-data.zdgp.txt 1
-data.zelt.txt 1
-data.zeqh.txt 1
-data.zevq.txt 2
-data.zfcp.txt 1
+data.pa.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zajr.txt 2.6885433903988862
+data.zbfg.txt 2.6885433903988862
+data.zbsl.txt 2.6885433903988862
+data.zbua.txt 2.6885433903988862
+data.zdgp.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862
+data.zevq.txt 4.261240455343955
+data.zfcp.txt 2.6885433903988862

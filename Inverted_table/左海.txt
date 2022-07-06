@@ -1,4 +1,4 @@
 3
-data.zaej.txt 1
-data.zafq.txt 1
-data.zddp.txt 4
+data.zaej.txt 3.5891377275982888
+data.zafq.txt 3.5891377275982888
+data.zddp.txt 8.333719726130651

@@ -1,11 +1,11 @@
 10
-data.jf.txt 1
-data.kq.txt 1
-data.zajo.txt 1
-data.zazn.txt 1
-data.zbye.txt 1
-data.zcdy.txt 1
-data.zcon.txt 1
-data.zcqe.txt 2
-data.zdlo.txt 1
-data.zfaz.txt 1
+data.jf.txt 2.7546073728089153
+data.kq.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zazn.txt 2.7546073728089153
+data.zbye.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zcqe.txt 4.365949390112154
+data.zdlo.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

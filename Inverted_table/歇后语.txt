@@ -1,11 +1,11 @@
 10
-data.cf.txt 2
-data.zaim.txt 1
-data.zapr.txt 5
-data.zasq.txt 1
-data.zayc.txt 1
-data.zbcc.txt 1
-data.zbpc.txt 1
-data.zewp.txt 2
-data.zfaw.txt 2
-data.zfaz.txt 1
+data.cf.txt 4.365949390112154
+data.zaim.txt 2.7546073728089153
+data.zapr.txt 7.120556762921068
+data.zasq.txt 2.7546073728089153
+data.zayc.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zewp.txt 4.365949390112154
+data.zfaw.txt 4.365949390112154
+data.zfaz.txt 2.7546073728089153

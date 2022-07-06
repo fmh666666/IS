@@ -1,9 +1,9 @@
 8
-data.vm.txt 2
-data.zafq.txt 2
-data.zail.txt 1
-data.zbdx.txt 9
-data.zbfp.txt 2
-data.zdhw.txt 1
-data.zdzm.txt 1
-data.zemb.txt 3
+data.vm.txt 4.611097637722987
+data.zafq.txt 4.611097637722987
+data.zail.txt 2.9092786962624935
+data.zbdx.txt 9.664414636971655
+data.zbfp.txt 4.611097637722987
+data.zdhw.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zemb.txt 5.818557392524987

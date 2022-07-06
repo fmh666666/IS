@@ -1,4 +1,4 @@
 3
-data.zbkj.txt 1
-data.zdod.txt 2
-data.zeik.txt 1
+data.zbkj.txt 3.5891377275982888
+data.zdod.txt 5.688648708166832
+data.zeik.txt 3.5891377275982888

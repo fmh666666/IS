@@ -1,4 +1,4 @@
 3
-data.zazw.txt 1
-data.zbjk.txt 1
-data.zemb.txt 30
+data.zazw.txt 3.5891377275982888
+data.zbjk.txt 3.5891377275982888
+data.zemb.txt 17.781292887537777

@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zcak.txt 2
-data.zdmw.txt 1
-data.zeew.txt 1
-data.zfai.txt 1
+data.pa.txt 3.235060386727117
+data.zcak.txt 5.1274494005309625
+data.zdmw.txt 3.235060386727117
+data.zeew.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

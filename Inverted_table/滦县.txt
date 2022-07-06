@@ -1,4 +1,4 @@
 3
-data.zcuh.txt 1
-data.zdwd.txt 2
-data.zeay.txt 1
+data.zcuh.txt 3.5891377275982888
+data.zdwd.txt 5.688648708166832
+data.zeay.txt 3.5891377275982888

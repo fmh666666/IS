@@ -1,7 +1,7 @@
 6
-data.zacp.txt 1
-data.zapf.txt 1
-data.zaxj.txt 1
-data.zdnh.txt 1
-data.zebf.txt 1
-data.zevt.txt 1
+data.zacp.txt 3.1086847136800873
+data.zapf.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zevt.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zaip.txt 1
-data.zbut.txt 1
-data.zdgt.txt 1
-data.zduo.txt 1
-data.zeag.txt 1
+data.zaip.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zeag.txt 3.235060386727117

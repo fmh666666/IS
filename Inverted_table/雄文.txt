@@ -1,5 +1,5 @@
 4
-data.zapr.txt 1
-data.zasd.txt 1
-data.zbpx.txt 1
-data.zcby.txt 2
+data.zapr.txt 3.389731710180695
+data.zasd.txt 3.389731710180695
+data.zbpx.txt 3.389731710180695
+data.zcby.txt 5.372597648141796

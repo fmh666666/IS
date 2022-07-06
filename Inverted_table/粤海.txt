@@ -1,4 +1,4 @@
 3
-data.hz.txt 4
-data.zbtx.txt 1
-data.zeec.txt 1
+data.hz.txt 8.333719726130651
+data.zbtx.txt 3.5891377275982888
+data.zeec.txt 3.5891377275982888

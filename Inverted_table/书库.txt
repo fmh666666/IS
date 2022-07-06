@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.zawu.txt 2
-data.zczb.txt 1
+data.ga.txt 3.5891377275982888
+data.zawu.txt 5.688648708166832
+data.zczb.txt 3.5891377275982888

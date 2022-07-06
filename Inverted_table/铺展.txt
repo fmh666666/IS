@@ -1,7 +1,7 @@
 6
-data.zaxk.txt 1
-data.zdaw.txt 1
-data.zdlw.txt 1
-data.zdro.txt 1
-data.zezm.txt 1
-data.zfaj.txt 1
+data.zaxk.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zdlw.txt 3.1086847136800873
+data.zdro.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

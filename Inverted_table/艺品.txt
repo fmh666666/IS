@@ -1,7 +1,7 @@
 6
-data.zbup.txt 1
-data.zbvp.txt 1
-data.zdji.txt 1
-data.zdwd.txt 1
-data.zedd.txt 1
-data.zfcp.txt 2
+data.zbup.txt 3.1086847136800873
+data.zbvp.txt 3.1086847136800873
+data.zdji.txt 3.1086847136800873
+data.zdwd.txt 3.1086847136800873
+data.zedd.txt 3.1086847136800873
+data.zfcp.txt 4.927148697748023

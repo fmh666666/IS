@@ -1,5 +1,5 @@
 4
-data.zajo.txt 2
-data.zbup.txt 1
-data.zdzg.txt 1
-data.zefd.txt 1
+data.zajo.txt 5.372597648141796
+data.zbup.txt 3.389731710180695
+data.zdzg.txt 3.389731710180695
+data.zefd.txt 3.389731710180695

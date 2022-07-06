@@ -1,10 +1,10 @@
 9
-data.vi.txt 1
-data.zafy.txt 1
-data.zawc.txt 1
-data.zbsf.txt 1
-data.zbyb.txt 1
-data.zcem.txt 1
-data.zcve.txt 1
-data.zdoc.txt 1
-data.zexk.txt 1
+data.vi.txt 2.82763771717948
+data.zafy.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbsf.txt 2.82763771717948
+data.zbyb.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zdoc.txt 2.82763771717948
+data.zexk.txt 2.82763771717948

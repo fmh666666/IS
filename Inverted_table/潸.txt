@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zacd.txt 1
-data.zcsu.txt 1
-data.zevq.txt 1
-data.zfas.txt 2
+data.zabe.txt 3.235060386727117
+data.zacd.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zevq.txt 3.235060386727117
+data.zfas.txt 5.1274494005309625

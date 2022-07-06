@@ -1,9 +1,9 @@
 8
-data.pn.txt 1
-data.zbfz.txt 1
-data.zbts.txt 1
-data.zcls.txt 1
-data.zdux.txt 1
-data.zeeh.txt 1
-data.zeik.txt 1
-data.zfai.txt 1
+data.pn.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zeik.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

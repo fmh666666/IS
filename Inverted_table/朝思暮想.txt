@@ -1,11 +1,11 @@
 10
-data.ye.txt 1
-data.zbpp.txt 1
-data.zbvn.txt 1
-data.zcaq.txt 1
-data.zcdg.txt 1
-data.zdkv.txt 1
-data.zdlg.txt 1
-data.zegz.txt 1
-data.zemf.txt 1
-data.zezf.txt 1
+data.ye.txt 2.7546073728089153
+data.zbpp.txt 2.7546073728089153
+data.zbvn.txt 2.7546073728089153
+data.zcaq.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zdkv.txt 2.7546073728089153
+data.zdlg.txt 2.7546073728089153
+data.zegz.txt 2.7546073728089153
+data.zemf.txt 2.7546073728089153
+data.zezf.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.zasw.txt 1
-data.zbha.txt 1
-data.zbsf.txt 1
-data.zcgo.txt 1
-data.zdeb.txt 1
-data.zedd.txt 1
-data.zehp.txt 1
-data.zfcg.txt 1
+data.zasw.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

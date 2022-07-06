@@ -1,14 +1,14 @@
 13
-data.en.txt 1
-data.xe.txt 1
-data.yx.txt 1
-data.zahp.txt 1
-data.zard.txt 1
-data.zbfx.txt 1
-data.zcak.txt 1
-data.zcmn.txt 1
-data.zcpa.txt 1
-data.zdcw.txt 1
-data.zddx.txt 1
-data.zebf.txt 1
-data.zekw.txt 1
+data.en.txt 2.5727503226135906
+data.xe.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zahp.txt 2.5727503226135906
+data.zard.txt 2.5727503226135906
+data.zbfx.txt 2.5727503226135906
+data.zcak.txt 2.5727503226135906
+data.zcmn.txt 2.5727503226135906
+data.zcpa.txt 2.5727503226135906
+data.zdcw.txt 2.5727503226135906
+data.zddx.txt 2.5727503226135906
+data.zebf.txt 2.5727503226135906
+data.zekw.txt 2.5727503226135906

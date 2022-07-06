@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.hz.txt 4
-data.zabe.txt 4
-data.zblq.txt 1
-data.zczp.txt 1
+data.dg.txt 3.235060386727117
+data.hz.txt 7.511577600598868
+data.zabe.txt 7.511577600598868
+data.zblq.txt 3.235060386727117
+data.zczp.txt 3.235060386727117

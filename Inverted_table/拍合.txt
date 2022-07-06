@@ -1,11 +1,11 @@
 10
-data.kt.txt 2
-data.zavg.txt 1
-data.zblq.txt 1
-data.zbpx.txt 1
-data.zbvf.txt 1
-data.zcdv.txt 1
-data.zcee.txt 1
-data.zcgi.txt 1
-data.zclh.txt 1
-data.zdst.txt 1
+data.kt.txt 4.365949390112154
+data.zavg.txt 2.7546073728089153
+data.zblq.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zbvf.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zcgi.txt 2.7546073728089153
+data.zclh.txt 2.7546073728089153
+data.zdst.txt 2.7546073728089153

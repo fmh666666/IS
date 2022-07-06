@@ -1,8 +1,8 @@
 7
-data.zafy.txt 1
-data.zaub.txt 1
-data.zdwn.txt 1
-data.zeai.txt 1
-data.zefu.txt 1
-data.zenw.txt 1
-data.zezh.txt 1
+data.zafy.txt 3.0018356045764243
+data.zaub.txt 3.0018356045764243
+data.zdwn.txt 3.0018356045764243
+data.zeai.txt 3.0018356045764243
+data.zefu.txt 3.0018356045764243
+data.zenw.txt 3.0018356045764243
+data.zezh.txt 3.0018356045764243

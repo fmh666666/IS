@@ -1,10 +1,10 @@
 9
-data.kq.txt 1
-data.kt.txt 1
-data.zbjk.txt 1
-data.zcni.txt 1
-data.zctp.txt 1
-data.zdey.txt 1
-data.zdou.txt 1
-data.zedk.txt 1
-data.zezn.txt 1
+data.kq.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdey.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zedk.txt 2.82763771717948
+data.zezn.txt 2.82763771717948

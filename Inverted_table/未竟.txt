@@ -1,5 +1,5 @@
 4
-data.zaet.txt 1
-data.zbsm.txt 1
-data.zdlg.txt 1
-data.zess.txt 1
+data.zaet.txt 3.389731710180695
+data.zbsm.txt 3.389731710180695
+data.zdlg.txt 3.389731710180695
+data.zess.txt 3.389731710180695

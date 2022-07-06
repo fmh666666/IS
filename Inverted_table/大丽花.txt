@@ -1,8 +1,8 @@
 7
-data.zagr.txt 2
-data.zbcc.txt 1
-data.zbcv.txt 2
-data.zcts.txt 1
-data.zdlm.txt 1
-data.zeaj.txt 2
-data.zess.txt 2
+data.zagr.txt 4.757796866583254
+data.zbcc.txt 3.0018356045764243
+data.zbcv.txt 4.757796866583254
+data.zcts.txt 3.0018356045764243
+data.zdlm.txt 3.0018356045764243
+data.zeaj.txt 4.757796866583254
+data.zess.txt 4.757796866583254

@@ -1,4 +1,4 @@
 3
-data.zcon.txt 1
-data.zcxr.txt 1
-data.zebn.txt 1
+data.zcon.txt 3.5891377275982888
+data.zcxr.txt 3.5891377275982888
+data.zebn.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.pa.txt 1
-data.xk.txt 1
-data.zalj.txt 1
-data.zfaw.txt 1
+data.jf.txt 3.235060386727117
+data.pa.txt 3.235060386727117
+data.xk.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

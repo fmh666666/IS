@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zbux.txt 2
-data.zbzf.txt 1
-data.zcll.txt 2
-data.zeqn.txt 1
+data.zako.txt 3.235060386727117
+data.zbux.txt 5.1274494005309625
+data.zbzf.txt 3.235060386727117
+data.zcll.txt 5.1274494005309625
+data.zeqn.txt 3.235060386727117

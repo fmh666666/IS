@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.zafe.txt 1
-data.zazn.txt 1
-data.zcdz.txt 1
-data.zcmv.txt 1
-data.zcpa.txt 1
-data.zelt.txt 1
-data.zeqn.txt 1
-data.zfcj.txt 1
+data.gw.txt 2.82763771717948
+data.zafe.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcmv.txt 2.82763771717948
+data.zcpa.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeqn.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948

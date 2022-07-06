@@ -1,4 +1,4 @@
 3
-data.zaop.txt 1
-data.zcfn.txt 1
-data.zdey.txt 1
+data.zaop.txt 3.5891377275982888
+data.zcfn.txt 3.5891377275982888
+data.zdey.txt 3.5891377275982888

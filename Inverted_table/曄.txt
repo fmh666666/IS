@@ -1,4 +1,4 @@
 3
-data.ka.txt 2
-data.kq.txt 1
-data.zcel.txt 2
+data.ka.txt 5.688648708166832
+data.kq.txt 3.5891377275982888
+data.zcel.txt 5.688648708166832

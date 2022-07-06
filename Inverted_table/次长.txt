@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.mu.txt 1
-data.zaim.txt 1
-data.zbil.txt 1
-data.zcel.txt 1
-data.zcts.txt 1
-data.zdmw.txt 1
-data.zdwv.txt 1
-data.zegk.txt 1
-data.zeoh.txt 1
+data.ek.txt 2.7546073728089153
+data.mu.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zcel.txt 2.7546073728089153
+data.zcts.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153
+data.zdwv.txt 2.7546073728089153
+data.zegk.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

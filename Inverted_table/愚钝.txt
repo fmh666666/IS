@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.to.txt 1
-data.zarr.txt 1
-data.zass.txt 1
-data.zbts.txt 1
-data.zcrv.txt 1
-data.zcxq.txt 2
-data.zezy.txt 1
+data.ft.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcrv.txt 2.9092786962624935
+data.zcxq.txt 4.611097637722987
+data.zezy.txt 2.9092786962624935

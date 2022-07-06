@@ -1,5 +1,5 @@
 4
-data.zbhv.txt 1
-data.zbsd.txt 1
-data.zbtj.txt 1
-data.zdeb.txt 1
+data.zbhv.txt 3.389731710180695
+data.zbsd.txt 3.389731710180695
+data.zbtj.txt 3.389731710180695
+data.zdeb.txt 3.389731710180695

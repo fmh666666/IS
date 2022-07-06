@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.xe.txt 1
-data.zalj.txt 1
-data.zcts.txt 1
-data.zeqn.txt 1
-data.zevq.txt 1
+data.fp.txt 3.1086847136800873
+data.xe.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zeqn.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

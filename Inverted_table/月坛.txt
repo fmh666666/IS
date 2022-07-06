@@ -1,8 +1,8 @@
 7
-data.bb.txt 1
-data.zbpx.txt 1
-data.zccl.txt 1
-data.zcql.txt 1
-data.zcxr.txt 4
-data.zdle.txt 1
-data.zedo.txt 1
+data.bb.txt 3.0018356045764243
+data.zbpx.txt 3.0018356045764243
+data.zccl.txt 3.0018356045764243
+data.zcql.txt 3.0018356045764243
+data.zcxr.txt 6.970046426499191
+data.zdle.txt 3.0018356045764243
+data.zedo.txt 3.0018356045764243

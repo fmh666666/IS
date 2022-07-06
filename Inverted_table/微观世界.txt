@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zcak.txt 1
-data.zddx.txt 1
-data.zdkp.txt 1
-data.zeik.txt 1
+data.zawc.txt 3.235060386727117
+data.zcak.txt 3.235060386727117
+data.zddx.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

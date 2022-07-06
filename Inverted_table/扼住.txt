@@ -1,8 +1,8 @@
 7
-data.zcmy.txt 1
-data.zcwn.txt 1
-data.zdgv.txt 1
-data.zdkp.txt 1
-data.zdnc.txt 1
-data.zdtv.txt 2
-data.zezy.txt 1
+data.zcmy.txt 3.0018356045764243
+data.zcwn.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdkp.txt 3.0018356045764243
+data.zdnc.txt 3.0018356045764243
+data.zdtv.txt 4.757796866583254
+data.zezy.txt 3.0018356045764243

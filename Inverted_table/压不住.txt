@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zaoo.txt 1
-data.zazx.txt 1
-data.zblq.txt 1
-data.zbor.txt 1
-data.zciq.txt 1
-data.zdll.txt 1
-data.zeqh.txt 1
+data.ok.txt 2.9092786962624935
+data.zaoo.txt 2.9092786962624935
+data.zazx.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zdll.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935

@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.ry.txt 1
-data.zbds.txt 1
-data.zbpm.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 2
-data.zckd.txt 1
-data.zdju.txt 1
-data.zdqx.txt 5
-data.zduc.txt 1
-data.zfaj.txt 2
-data.zfcg.txt 2
+data.kq.txt 2.628231699761886
+data.ry.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbpm.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zcdy.txt 4.165648687329214
+data.zckd.txt 2.628231699761886
+data.zdju.txt 2.628231699761886
+data.zdqx.txt 6.7938803870911
+data.zduc.txt 2.628231699761886
+data.zfaj.txt 4.165648687329214
+data.zfcg.txt 4.165648687329214

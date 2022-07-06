@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.ha.txt 1
-data.zadv.txt 1
-data.zagb.txt 1
-data.zajn.txt 1
-data.zaub.txt 1
-data.zcon.txt 2
-data.zdkv.txt 1
-data.zeaf.txt 1
-data.zeoh.txt 1
-data.zeqv.txt 1
-data.zfaz.txt 2
+data.bs.txt 2.628231699761886
+data.ha.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zagb.txt 2.628231699761886
+data.zajn.txt 2.628231699761886
+data.zaub.txt 2.628231699761886
+data.zcon.txt 4.165648687329214
+data.zdkv.txt 2.628231699761886
+data.zeaf.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886
+data.zfaz.txt 4.165648687329214

@@ -1,8 +1,8 @@
 7
-data.gw.txt 1
-data.op.txt 1
-data.zccu.txt 1
-data.zctn.txt 2
-data.zdlw.txt 1
-data.zdnc.txt 1
-data.zeid.txt 1
+data.gw.txt 3.0018356045764243
+data.op.txt 3.0018356045764243
+data.zccu.txt 3.0018356045764243
+data.zctn.txt 4.757796866583254
+data.zdlw.txt 3.0018356045764243
+data.zdnc.txt 3.0018356045764243
+data.zeid.txt 3.0018356045764243

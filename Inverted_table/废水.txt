@@ -1,12 +1,12 @@
 11
-data.by.txt 3
-data.mx.txt 1
-data.zafy.txt 1
-data.zate.txt 1
-data.zbjh.txt 1
-data.zbpx.txt 1
-data.zctp.txt 2
-data.zczj.txt 1
-data.zdme.txt 2
-data.zeec.txt 1
-data.zene.txt 2
+data.by.txt 5.3770867807977725
+data.mx.txt 2.6885433903988862
+data.zafy.txt 2.6885433903988862
+data.zate.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zctp.txt 4.261240455343955
+data.zczj.txt 2.6885433903988862
+data.zdme.txt 4.261240455343955
+data.zeec.txt 2.6885433903988862
+data.zene.txt 4.261240455343955

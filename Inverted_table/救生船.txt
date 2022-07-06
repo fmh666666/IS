@@ -1,6 +1,6 @@
 5
-data.zakb.txt 2
-data.zall.txt 1
-data.zaop.txt 1
-data.zbdb.txt 1
-data.zdil.txt 1
+data.zakb.txt 5.1274494005309625
+data.zall.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zdil.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.zalj.txt 1
-data.zbcc.txt 1
-data.zcgo.txt 2
-data.zdoq.txt 1
-data.zdwn.txt 1
+data.jf.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zcgo.txt 4.927148697748023
+data.zdoq.txt 3.1086847136800873
+data.zdwn.txt 3.1086847136800873

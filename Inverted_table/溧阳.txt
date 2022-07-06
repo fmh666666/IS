@@ -1,7 +1,7 @@
 6
-data.zbfz.txt 1
-data.zbga.txt 1
-data.zcln.txt 1
-data.zcrv.txt 1
-data.zeec.txt 1
-data.zeva.txt 1
+data.zbfz.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zcrv.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zeva.txt 3.1086847136800873

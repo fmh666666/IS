@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zafv.txt 2
-data.zcue.txt 2
-data.zczp.txt 1
-data.zfai.txt 1
+data.op.txt 3.235060386727117
+data.zafv.txt 5.1274494005309625
+data.zcue.txt 5.1274494005309625
+data.zczp.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

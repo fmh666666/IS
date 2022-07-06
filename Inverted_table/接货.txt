@@ -1,4 +1,4 @@
 3
-data.to.txt 1
-data.zazn.txt 2
-data.zeta.txt 1
+data.to.txt 3.5891377275982888
+data.zazn.txt 5.688648708166832
+data.zeta.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zajo.txt 1
-data.zapr.txt 1
-data.zaqr.txt 1
-data.zctp.txt 1
-data.zcve.txt 1
-data.zeoh.txt 1
-data.zfai.txt 2
+data.ok.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zapr.txt 2.9092786962624935
+data.zaqr.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zcve.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zfai.txt 4.611097637722987

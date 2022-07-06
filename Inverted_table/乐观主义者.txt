@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zaim.txt 2
-data.zdtr.txt 1
-data.zesq.txt 1
-data.zete.txt 1
+data.gw.txt 3.235060386727117
+data.zaim.txt 5.1274494005309625
+data.zdtr.txt 3.235060386727117
+data.zesq.txt 3.235060386727117
+data.zete.txt 3.235060386727117

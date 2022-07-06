@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zazg.txt 1
-data.zdji.txt 1
-data.zenn.txt 1
-data.zewv.txt 1
+data.zaxp.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zenn.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

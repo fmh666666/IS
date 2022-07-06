@@ -1,12 +1,12 @@
 11
-data.ok.txt 1
-data.op.txt 1
-data.zbts.txt 1
-data.zcel.txt 1
-data.zcic.txt 1
-data.zciq.txt 1
-data.zcqp.txt 1
-data.zdgt.txt 1
-data.zdro.txt 1
-data.zene.txt 1
-data.zewd.txt 1
+data.ok.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zciq.txt 2.6885433903988862
+data.zcqp.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zdro.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zewd.txt 2.6885433903988862

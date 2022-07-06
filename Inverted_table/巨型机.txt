@@ -1,4 +1,4 @@
 3
-data.co.txt 2
-data.ng.txt 1
-data.zdey.txt 1
+data.co.txt 5.688648708166832
+data.ng.txt 3.5891377275982888
+data.zdey.txt 3.5891377275982888

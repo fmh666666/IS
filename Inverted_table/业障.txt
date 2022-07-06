@@ -1,8 +1,8 @@
 7
-data.jf.txt 14
-data.zabe.txt 1
-data.zavg.txt 2
-data.zbjh.txt 16
-data.zcem.txt 1
-data.zcjo.txt 2
-data.zeve.txt 1
+data.jf.txt 11.727843293082445
+data.zabe.txt 3.0018356045764243
+data.zavg.txt 4.757796866583254
+data.zbjh.txt 12.269891489248383
+data.zcem.txt 3.0018356045764243
+data.zcjo.txt 4.757796866583254
+data.zeve.txt 3.0018356045764243

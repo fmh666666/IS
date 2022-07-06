@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.zagr.txt 2
-data.zcbm.txt 1
-data.zeid.txt 17
-data.zfaj.txt 1
+data.tv.txt 3.235060386727117
+data.zagr.txt 5.1274494005309625
+data.zcbm.txt 3.235060386727117
+data.zeid.txt 13.48995918778904
+data.zfaj.txt 3.235060386727117

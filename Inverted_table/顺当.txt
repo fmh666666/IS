@@ -1,6 +1,6 @@
 5
-data.jd.txt 1
-data.zazg.txt 1
-data.zcon.txt 1
-data.zdlo.txt 1
-data.zeeh.txt 1
+data.jd.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zdlo.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117

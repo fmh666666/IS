@@ -1,10 +1,10 @@
 9
-data.ng.txt 8
-data.zabx.txt 1
-data.zasw.txt 1
-data.zaxj.txt 1
-data.zazo.txt 1
-data.zcdg.txt 1
-data.zcic.txt 1
-data.zebf.txt 1
-data.zedo.txt 1
+data.ng.txt 8.9633994947085
+data.zabx.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zebf.txt 2.82763771717948
+data.zedo.txt 2.82763771717948

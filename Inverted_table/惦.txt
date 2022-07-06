@@ -1,14 +1,14 @@
 13
-data.hc.txt 1
-data.mu.txt 1
-data.pn.txt 1
-data.zanh.txt 1
-data.zaqf.txt 1
-data.zaqw.txt 1
-data.zazx.txt 1
-data.zbsd.txt 1
-data.zbye.txt 1
-data.zcgi.txt 1
-data.zeoh.txt 1
-data.zexx.txt 1
-data.zfaj.txt 1
+data.hc.txt 2.5727503226135906
+data.mu.txt 2.5727503226135906
+data.pn.txt 2.5727503226135906
+data.zanh.txt 2.5727503226135906
+data.zaqf.txt 2.5727503226135906
+data.zaqw.txt 2.5727503226135906
+data.zazx.txt 2.5727503226135906
+data.zbsd.txt 2.5727503226135906
+data.zbye.txt 2.5727503226135906
+data.zcgi.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zexx.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

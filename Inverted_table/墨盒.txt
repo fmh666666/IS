@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.zalm.txt 1
-data.zbzf.txt 2
-data.zcni.txt 2
-data.zdud.txt 1
-data.zefd.txt 1
+data.dg.txt 3.1086847136800873
+data.zalm.txt 3.1086847136800873
+data.zbzf.txt 4.927148697748023
+data.zcni.txt 4.927148697748023
+data.zdud.txt 3.1086847136800873
+data.zefd.txt 3.1086847136800873

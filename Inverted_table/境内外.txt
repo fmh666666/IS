@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.zasq.txt 1
-data.zcse.txt 2
-data.zdtv.txt 1
-data.zexv.txt 1
+data.ha.txt 3.235060386727117
+data.zasq.txt 3.235060386727117
+data.zcse.txt 5.1274494005309625
+data.zdtv.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

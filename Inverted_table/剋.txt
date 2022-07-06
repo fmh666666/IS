@@ -1,9 +1,9 @@
 8
-data.mx.txt 1
-data.zall.txt 1
-data.zbvp.txt 1
-data.zcfx.txt 1
-data.zcwq.txt 1
-data.zdar.txt 1
-data.zdou.txt 1
-data.zefw.txt 1
+data.mx.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zcfx.txt 2.9092786962624935
+data.zcwq.txt 2.9092786962624935
+data.zdar.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935

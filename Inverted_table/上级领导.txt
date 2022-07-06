@@ -1,11 +1,11 @@
 10
-data.jj.txt 1
-data.zamp.txt 1
-data.zawb.txt 1
-data.zbes.txt 1
-data.zciq.txt 1
-data.zctp.txt 1
-data.zcvq.txt 1
-data.zefv.txt 1
-data.zelj.txt 1
-data.zene.txt 1
+data.jj.txt 2.7546073728089153
+data.zamp.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbes.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153
+data.zelj.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

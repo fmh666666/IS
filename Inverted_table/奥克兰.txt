@@ -1,13 +1,13 @@
 12
-data.ek.txt 1
-data.mx.txt 1
-data.zacd.txt 2
-data.zajo.txt 1
-data.zasq.txt 1
-data.zbeb.txt 1
-data.zbfd.txt 1
-data.zblr.txt 1
-data.zbpx.txt 1
-data.zcku.txt 1
-data.zdar.txt 1
-data.zexm.txt 1
+data.ek.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zacd.txt 4.165648687329214
+data.zajo.txt 2.628231699761886
+data.zasq.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbfd.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zcku.txt 2.628231699761886
+data.zdar.txt 2.628231699761886
+data.zexm.txt 2.628231699761886

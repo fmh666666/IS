@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.be.txt 2
-data.zawo.txt 2
-data.zazw.txt 1
-data.zbfx.txt 1
-data.zbgw.txt 1
-data.zbof.txt 1
-data.zbsm.txt 2
-data.zbwa.txt 1
-data.zclh.txt 1
-data.zdlo.txt 1
-data.zeeq.txt 1
+data.bb.txt 2.628231699761886
+data.be.txt 4.165648687329214
+data.zawo.txt 4.165648687329214
+data.zazw.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zbgw.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zbsm.txt 4.165648687329214
+data.zbwa.txt 2.628231699761886
+data.zclh.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zeeq.txt 2.628231699761886

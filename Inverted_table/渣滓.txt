@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.uz.txt 1
-data.zako.txt 1
-data.zamp.txt 1
-data.zasy.txt 1
-data.zauy.txt 1
-data.zbds.txt 1
-data.zbtj.txt 1
-data.zcfn.txt 2
-data.zdvl.txt 1
-data.zesq.txt 1
-data.zfcp.txt 1
+data.ev.txt 2.628231699761886
+data.uz.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zauy.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbtj.txt 2.628231699761886
+data.zcfn.txt 4.165648687329214
+data.zdvl.txt 2.628231699761886
+data.zesq.txt 2.628231699761886
+data.zfcp.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.zaxp.txt 1
-data.zerw.txt 1
-data.zeyy.txt 1
+data.zaxp.txt 3.5891377275982888
+data.zerw.txt 3.5891377275982888
+data.zeyy.txt 3.5891377275982888

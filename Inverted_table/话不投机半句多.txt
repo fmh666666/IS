@@ -1,6 +1,6 @@
 5
-data.zazo.txt 1
-data.zcql.txt 1
-data.zdof.txt 1
-data.zedx.txt 1
-data.zeos.txt 1
+data.zazo.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zedx.txt 3.235060386727117
+data.zeos.txt 3.235060386727117

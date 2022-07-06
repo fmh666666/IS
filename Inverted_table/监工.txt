@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.ye.txt 1
-data.zdpw.txt 1
-data.zezm.txt 1
-data.zfcj.txt 1
+data.op.txt 3.235060386727117
+data.ye.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117
+data.zezm.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

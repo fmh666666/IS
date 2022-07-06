@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.ud.txt 1
-data.zawb.txt 1
-data.zaxj.txt 1
-data.zayc.txt 1
-data.zcls.txt 1
-data.zcrn.txt 1
-data.zdgv.txt 1
-data.zdou.txt 2
-data.zdpz.txt 1
-data.zeec.txt 1
-data.zeqn.txt 1
-data.zfai.txt 1
+data.hg.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zayc.txt 2.5727503226135906
+data.zcls.txt 2.5727503226135906
+data.zcrn.txt 2.5727503226135906
+data.zdgv.txt 2.5727503226135906
+data.zdou.txt 4.077712785060798
+data.zdpz.txt 2.5727503226135906
+data.zeec.txt 2.5727503226135906
+data.zeqn.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

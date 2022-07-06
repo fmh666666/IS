@@ -1,5 +1,5 @@
 4
-data.kt.txt 2
-data.zclm.txt 1
-data.zdby.txt 1
-data.zejk.txt 1
+data.kt.txt 5.372597648141796
+data.zclm.txt 3.389731710180695
+data.zdby.txt 3.389731710180695
+data.zejk.txt 3.389731710180695

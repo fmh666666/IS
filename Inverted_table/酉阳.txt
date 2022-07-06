@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zagr.txt 3
-data.zbtj.txt 1
-data.zcdg.txt 1
-data.zdtr.txt 1
-data.zdzn.txt 1
+data.fp.txt 3.1086847136800873
+data.zagr.txt 6.2173694273601745
+data.zbtj.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873

@@ -1,13 +1,13 @@
 12
-data.hu.txt 1
-data.tv.txt 1
-data.zapf.txt 1
-data.zbph.txt 3
-data.zdbf.txt 1
-data.zdkk.txt 1
-data.zdpg.txt 1
-data.zdro.txt 1
-data.zeag.txt 1
-data.zefs.txt 1
-data.zelt.txt 1
-data.zexk.txt 1
+data.hu.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zbph.txt 5.256463399523772
+data.zdbf.txt 2.628231699761886
+data.zdkk.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886
+data.zdro.txt 2.628231699761886
+data.zeag.txt 2.628231699761886
+data.zefs.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zexk.txt 2.628231699761886

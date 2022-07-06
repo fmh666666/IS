@@ -1,9 +1,9 @@
 8
-data.ud.txt 1
-data.vm.txt 1
-data.zaoc.txt 1
-data.zapr.txt 1
-data.zayv.txt 2
-data.zbmt.txt 4
-data.zbzo.txt 4
-data.zdme.txt 1
+data.ud.txt 2.9092786962624935
+data.vm.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zapr.txt 2.9092786962624935
+data.zayv.txt 4.611097637722987
+data.zbmt.txt 6.7551359407091605
+data.zbzo.txt 6.7551359407091605
+data.zdme.txt 2.9092786962624935

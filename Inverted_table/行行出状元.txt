@@ -1,9 +1,9 @@
 8
-data.mk.txt 1
-data.zavx.txt 2
-data.zbcv.txt 1
-data.zcda.txt 1
-data.zchd.txt 1
-data.zdnc.txt 1
-data.zeac.txt 2
-data.zeec.txt 1
+data.mk.txt 2.9092786962624935
+data.zavx.txt 4.611097637722987
+data.zbcv.txt 2.9092786962624935
+data.zcda.txt 2.9092786962624935
+data.zchd.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935
+data.zeac.txt 4.611097637722987
+data.zeec.txt 2.9092786962624935

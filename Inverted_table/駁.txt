@@ -1,6 +1,6 @@
 5
-data.zalc.txt 2
-data.zbjh.txt 1
-data.zbxy.txt 1
-data.zdwd.txt 1
-data.zevq.txt 1
+data.zalc.txt 5.1274494005309625
+data.zbjh.txt 3.235060386727117
+data.zbxy.txt 3.235060386727117
+data.zdwd.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

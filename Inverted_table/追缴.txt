@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.hp.txt 6
-data.zaic.txt 1
-data.zbeb.txt 1
-data.zdaq.txt 1
-data.zexv.txt 1
+data.fp.txt 3.1086847136800873
+data.hp.txt 8.727181332075027
+data.zaic.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zdaq.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zdnh.txt 2
-data.zdpg.txt 1
-data.zfai.txt 1
+data.zdnh.txt 5.688648708166832
+data.zdpg.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

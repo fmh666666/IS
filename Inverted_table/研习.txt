@@ -1,14 +1,14 @@
 13
-data.cq.txt 1
-data.jf.txt 1
-data.kt.txt 1
-data.zawb.txt 1
-data.zbhd.txt 15
-data.zbhe.txt 1
-data.zbjh.txt 1
-data.zbye.txt 1
-data.zczl.txt 1
-data.zdlm.txt 1
-data.zdud.txt 1
-data.zefv.txt 1
-data.zejn.txt 1
+data.cq.txt 2.5727503226135906
+data.jf.txt 2.5727503226135906
+data.kt.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zbhd.txt 10.291001290454362
+data.zbhe.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zbye.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdlm.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zefv.txt 2.5727503226135906
+data.zejn.txt 2.5727503226135906

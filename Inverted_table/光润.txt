@@ -1,4 +1,4 @@
 3
-data.zajr.txt 1
-data.zawu.txt 1
-data.zdga.txt 2
+data.zajr.txt 3.5891377275982888
+data.zawu.txt 3.5891377275982888
+data.zdga.txt 5.688648708166832

@@ -1,7 +1,7 @@
 6
-data.mu.txt 1
-data.zazw.txt 1
-data.zcqp.txt 1
-data.zcrg.txt 1
-data.zeve.txt 1
-data.zezn.txt 1
+data.mu.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873
+data.zeve.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873

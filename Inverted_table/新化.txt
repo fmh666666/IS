@@ -1,10 +1,10 @@
 9
-data.fz.txt 2
-data.hu.txt 1
-data.zawc.txt 1
-data.zblq.txt 1
-data.zbut.txt 1
-data.zcln.txt 1
-data.zcqp.txt 1
-data.zcqs.txt 1
-data.zcue.txt 1
+data.fz.txt 4.48169974735425
+data.hu.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zbut.txt 2.82763771717948
+data.zcln.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zcqs.txt 2.82763771717948
+data.zcue.txt 2.82763771717948

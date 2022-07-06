@@ -1,4 +1,4 @@
 3
-data.zcrk.txt 1
-data.zdoc.txt 1
-data.zfaw.txt 2
+data.zcrk.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888
+data.zfaw.txt 5.688648708166832

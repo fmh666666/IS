@@ -1,9 +1,9 @@
 8
-data.sq.txt 1
-data.zasd.txt 29
-data.zazw.txt 1
-data.zbfg.txt 1
-data.zblr.txt 1
-data.zcfn.txt 2
-data.zdrq.txt 1
-data.zebf.txt 1
+data.sq.txt 2.9092786962624935
+data.zasd.txt 14.275512274694641
+data.zazw.txt 2.9092786962624935
+data.zbfg.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zcfn.txt 4.611097637722987
+data.zdrq.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

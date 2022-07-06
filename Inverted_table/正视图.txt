@@ -1,2 +1,2 @@
 1
-data.zafk.txt 1
+data.zafk.txt 4.350637738017098

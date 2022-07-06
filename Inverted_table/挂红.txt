@@ -1,4 +1,4 @@
 3
-data.zdpw.txt 3
-data.zdrq.txt 1
-data.zeoh.txt 2
+data.zdpw.txt 7.1782754551965775
+data.zdrq.txt 3.5891377275982888
+data.zeoh.txt 5.688648708166832

@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.cf.txt 1
-data.nh.txt 2
-data.zasr.txt 1
-data.zbkf.txt 3
-data.zblq.txt 1
-data.zcww.txt 1
-data.zewd.txt 4
+data.bf.txt 2.9092786962624935
+data.cf.txt 2.9092786962624935
+data.nh.txt 4.611097637722987
+data.zasr.txt 2.9092786962624935
+data.zbkf.txt 5.818557392524987
+data.zblq.txt 2.9092786962624935
+data.zcww.txt 2.9092786962624935
+data.zewd.txt 6.7551359407091605

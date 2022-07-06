@@ -1,4 +1,4 @@
 3
-data.zazw.txt 1
-data.zbux.txt 1
-data.zccx.txt 2
+data.zazw.txt 3.5891377275982888
+data.zbux.txt 3.5891377275982888
+data.zccx.txt 5.688648708166832

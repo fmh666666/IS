@@ -1,10 +1,10 @@
 9
-data.cz.txt 1
-data.zako.txt 1
-data.zaoy.txt 1
-data.zciq.txt 1
-data.zdcj.txt 1
-data.zdkc.txt 1
-data.zefd.txt 1
-data.zelt.txt 1
-data.zeve.txt 1
+data.cz.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zciq.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeve.txt 2.82763771717948

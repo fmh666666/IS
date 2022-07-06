@@ -1,10 +1,10 @@
 9
-data.ft.txt 1
-data.mi.txt 1
-data.zaoc.txt 1
-data.zazn.txt 2
-data.zbkj.txt 1
-data.zbwq.txt 1
-data.zbxw.txt 1
-data.zdmw.txt 1
-data.zeqn.txt 1
+data.ft.txt 2.82763771717948
+data.mi.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zazn.txt 4.48169974735425
+data.zbkj.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zbxw.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zeqn.txt 2.82763771717948

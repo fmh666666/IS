@@ -1,7 +1,7 @@
 6
-data.op.txt 2
-data.zbre.txt 1
-data.zcdy.txt 1
-data.zdtr.txt 1
-data.zegz.txt 1
-data.zexv.txt 2
+data.op.txt 4.927148697748023
+data.zbre.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zexv.txt 4.927148697748023

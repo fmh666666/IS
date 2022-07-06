@@ -1,2 +1,2 @@
 1
-data.zaqf.txt 2
+data.zaqf.txt 6.8955976689794145

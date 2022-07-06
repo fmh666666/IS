@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.bf.txt 2
-data.zasy.txt 1
-data.zcao.txt 4
-data.zcon.txt 1
-data.zdcy.txt 1
-data.zdvl.txt 3
-data.zeai.txt 4
-data.zefd.txt 1
-data.zeos.txt 1
-data.zeqh.txt 1
+data.be.txt 2.6885433903988862
+data.bf.txt 4.261240455343955
+data.zasy.txt 2.6885433903988862
+data.zcao.txt 6.2426044324908965
+data.zcon.txt 2.6885433903988862
+data.zdcy.txt 2.6885433903988862
+data.zdvl.txt 5.3770867807977725
+data.zeai.txt 6.2426044324908965
+data.zefd.txt 2.6885433903988862
+data.zeos.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

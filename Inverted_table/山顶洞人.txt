@@ -1,5 +1,5 @@
 4
-data.mt.txt 1
-data.pq.txt 1
-data.zbjc.txt 1
-data.zblr.txt 1
+data.mt.txt 3.389731710180695
+data.pq.txt 3.389731710180695
+data.zbjc.txt 3.389731710180695
+data.zblr.txt 3.389731710180695

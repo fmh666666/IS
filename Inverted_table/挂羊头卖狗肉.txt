@@ -1,4 +1,4 @@
 3
-data.zcse.txt 2
-data.zczj.txt 1
-data.zdcy.txt 1
+data.zcse.txt 5.688648708166832
+data.zczj.txt 3.5891377275982888
+data.zdcy.txt 3.5891377275982888

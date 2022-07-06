@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.tz.txt 1
-data.zawu.txt 1
-data.zbhe.txt 1
-data.zcfn.txt 1
-data.zclm.txt 1
-data.zdib.txt 1
-data.zeeq.txt 1
+data.ok.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zclm.txt 2.9092786962624935
+data.zdib.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935

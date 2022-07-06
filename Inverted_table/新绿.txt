@@ -1,7 +1,7 @@
 6
-data.zdby.txt 1
-data.zddv.txt 1
-data.zdou.txt 1
-data.zebf.txt 2
-data.zerh.txt 1
-data.zevt.txt 1
+data.zdby.txt 3.1086847136800873
+data.zddv.txt 3.1086847136800873
+data.zdou.txt 3.1086847136800873
+data.zebf.txt 4.927148697748023
+data.zerh.txt 3.1086847136800873
+data.zevt.txt 3.1086847136800873

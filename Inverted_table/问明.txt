@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zacw.txt 1
-data.zbdx.txt 1
-data.zdzm.txt 1
-data.zeoh.txt 1
+data.bf.txt 3.235060386727117
+data.zacw.txt 3.235060386727117
+data.zbdx.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.pq.txt 1
-data.tz.txt 4
-data.zafe.txt 2
-data.zazx.txt 1
-data.zcem.txt 1
-data.zcli.txt 1
-data.zczj.txt 1
-data.zdil.txt 2
-data.zdoq.txt 1
-data.zdzm.txt 1
-data.zeqn.txt 1
+data.pq.txt 2.6885433903988862
+data.tz.txt 6.2426044324908965
+data.zafe.txt 4.261240455343955
+data.zazx.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcli.txt 2.6885433903988862
+data.zczj.txt 2.6885433903988862
+data.zdil.txt 4.261240455343955
+data.zdoq.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862

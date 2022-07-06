@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.pq.txt 1
-data.zadv.txt 1
-data.zbwa.txt 1
-data.zcqs.txt 1
-data.zdou.txt 1
-data.zezy.txt 1
-data.zfaz.txt 1
+data.bb.txt 2.9092786962624935
+data.pq.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

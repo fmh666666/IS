@@ -1,9 +1,9 @@
 8
-data.zagr.txt 1
-data.zaim.txt 1
-data.zapl.txt 2
-data.zbfz.txt 1
-data.zbsf.txt 1
-data.zcpa.txt 1
-data.zdxw.txt 1
-data.zeqv.txt 1
+data.zagr.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zapl.txt 4.611097637722987
+data.zbfz.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zcpa.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

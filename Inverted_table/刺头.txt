@@ -1,4 +1,4 @@
 3
-data.zcve.txt 1
-data.zdzi.txt 2
-data.zehp.txt 1
+data.zcve.txt 3.5891377275982888
+data.zdzi.txt 5.688648708166832
+data.zehp.txt 3.5891377275982888

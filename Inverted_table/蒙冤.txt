@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zawb.txt 1
-data.zduo.txt 1
-data.zelt.txt 3
-data.zeqh.txt 1
-data.zfae.txt 2
+data.hp.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873
+data.zelt.txt 6.2173694273601745
+data.zeqh.txt 3.1086847136800873
+data.zfae.txt 4.927148697748023

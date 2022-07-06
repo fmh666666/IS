@@ -1,8 +1,8 @@
 7
-data.cq.txt 1
-data.gw.txt 1
-data.zbcc.txt 1
-data.zdic.txt 1
-data.zebn.txt 12
-data.zeqv.txt 2
-data.zezy.txt 1
+data.cq.txt 3.0018356045764243
+data.gw.txt 3.0018356045764243
+data.zbcc.txt 3.0018356045764243
+data.zdic.txt 3.0018356045764243
+data.zebn.txt 11.108111698504679
+data.zeqv.txt 4.757796866583254
+data.zezy.txt 3.0018356045764243

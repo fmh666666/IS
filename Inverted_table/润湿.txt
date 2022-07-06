@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zcmx.txt 1
-data.zcxq.txt 1
-data.zemf.txt 1
-data.zewn.txt 1
+data.zazn.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zemf.txt 3.235060386727117
+data.zewn.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.gz.txt 2
-data.zaxk.txt 1
-data.zcic.txt 1
-data.zddb.txt 1
-data.zddv.txt 1
-data.zdof.txt 1
-data.zeaf.txt 1
-data.zezn.txt 1
-data.zfaj.txt 1
+data.gz.txt 4.48169974735425
+data.zaxk.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zddv.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zeaf.txt 2.82763771717948
+data.zezn.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

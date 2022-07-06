@@ -1,4 +1,4 @@
 3
-data.zbgu.txt 3
-data.zcaq.txt 1
-data.zdqq.txt 1
+data.zbgu.txt 7.1782754551965775
+data.zcaq.txt 3.5891377275982888
+data.zdqq.txt 3.5891377275982888

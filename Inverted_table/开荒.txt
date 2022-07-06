@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.zawb.txt 8
-data.zawc.txt 20
-data.zbcj.txt 1
-data.zbdb.txt 1
-data.zblr.txt 1
-data.zcgo.txt 1
-data.zdds.txt 1
-data.zeeh.txt 1
-data.zemb.txt 1
+data.cf.txt 2.7546073728089153
+data.zawb.txt 8.731898780224308
+data.zawc.txt 12.099109956503428
+data.zbcj.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zblr.txt 2.7546073728089153
+data.zcgo.txt 2.7546073728089153
+data.zdds.txt 2.7546073728089153
+data.zeeh.txt 2.7546073728089153
+data.zemb.txt 2.7546073728089153

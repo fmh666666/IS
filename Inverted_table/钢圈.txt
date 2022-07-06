@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.qb.txt 2
-data.zbdb.txt 1
-data.zcll.txt 1
+data.bs.txt 3.389731710180695
+data.qb.txt 5.372597648141796
+data.zbdb.txt 3.389731710180695
+data.zcll.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zaub.txt 1
-data.zbha.txt 1
-data.zbxy.txt 1
-data.zcrv.txt 1
+data.vi.txt 3.235060386727117
+data.zaub.txt 3.235060386727117
+data.zbha.txt 3.235060386727117
+data.zbxy.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117

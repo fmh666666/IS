@@ -1,6 +1,6 @@
 5
-data.pn.txt 1
-data.zaip.txt 1
-data.zaub.txt 1
-data.zdju.txt 1
-data.zdux.txt 1
+data.pn.txt 3.235060386727117
+data.zaip.txt 3.235060386727117
+data.zaub.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zdux.txt 3.235060386727117

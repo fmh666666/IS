@@ -1,7 +1,7 @@
 6
-data.tz.txt 1
-data.zair.txt 1
-data.zazw.txt 1
-data.zbgu.txt 1
-data.zeeh.txt 1
-data.zefp.txt 1
+data.tz.txt 3.1086847136800873
+data.zair.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zbgu.txt 3.1086847136800873
+data.zeeh.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873

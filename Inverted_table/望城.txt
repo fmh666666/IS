@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.ft.txt 2
-data.zalc.txt 1
-data.zbfd.txt 1
-data.zdwd.txt 1
+data.ek.txt 3.235060386727117
+data.ft.txt 5.1274494005309625
+data.zalc.txt 3.235060386727117
+data.zbfd.txt 3.235060386727117
+data.zdwd.txt 3.235060386727117

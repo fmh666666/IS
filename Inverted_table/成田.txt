@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zank.txt 1
-data.zazx.txt 1
-data.zbga.txt 1
-data.zdrq.txt 1
-data.zegl.txt 2
+data.op.txt 3.1086847136800873
+data.zank.txt 3.1086847136800873
+data.zazx.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zdrq.txt 3.1086847136800873
+data.zegl.txt 4.927148697748023

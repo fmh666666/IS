@@ -1,6 +1,6 @@
 5
-data.zcej.txt 2
-data.zdgo.txt 1
-data.zene.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.zcej.txt 5.1274494005309625
+data.zdgo.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zfae.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

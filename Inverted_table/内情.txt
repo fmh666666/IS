@@ -1,10 +1,10 @@
 9
-data.jf.txt 2
-data.op.txt 1
-data.qn.txt 2
-data.zanm.txt 2
-data.zawo.txt 1
-data.zcmy.txt 2
-data.zcse.txt 1
-data.zdzn.txt 1
-data.zeeq.txt 1
+data.jf.txt 4.48169974735425
+data.op.txt 2.82763771717948
+data.qn.txt 4.48169974735425
+data.zanm.txt 4.48169974735425
+data.zawo.txt 2.82763771717948
+data.zcmy.txt 4.48169974735425
+data.zcse.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948

@@ -1,2 +1,2 @@
 1
-data.zfai.txt 4
+data.zfai.txt 10.101867994579104

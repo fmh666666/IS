@@ -1,4 +1,4 @@
 3
-data.zbqu.txt 2
-data.zciq.txt 3
-data.zfdk.txt 1
+data.zbqu.txt 5.688648708166832
+data.zciq.txt 7.1782754551965775
+data.zfdk.txt 3.5891377275982888

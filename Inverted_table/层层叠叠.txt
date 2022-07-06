@@ -1,4 +1,4 @@
 3
-data.zbha.txt 1
-data.zcnn.txt 1
-data.zdoc.txt 1
+data.zbha.txt 3.5891377275982888
+data.zcnn.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888

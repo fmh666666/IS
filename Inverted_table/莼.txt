@@ -1,14 +1,14 @@
 13
-data.co.txt 10
-data.qn.txt 1
-data.zajn.txt 1
-data.zarc.txt 1
-data.zbcv.txt 1
-data.zcdv.txt 1
-data.zddb.txt 6
-data.zdeb.txt 1
-data.zdlw.txt 1
-data.zdoq.txt 3
-data.zdpz.txt 1
-data.zdwk.txt 1
-data.zeaj.txt 1
+data.co.txt 8.900253812908762
+data.qn.txt 2.5727503226135906
+data.zajn.txt 2.5727503226135906
+data.zarc.txt 2.5727503226135906
+data.zbcv.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zddb.txt 7.222623281414552
+data.zdeb.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zdoq.txt 5.145500645227181
+data.zdpz.txt 2.5727503226135906
+data.zdwk.txt 2.5727503226135906
+data.zeaj.txt 2.5727503226135906

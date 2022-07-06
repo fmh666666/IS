@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zadv.txt 1
-data.zbor.txt 1
-data.zcdy.txt 1
-data.zfai.txt 1
+data.op.txt 5.1274494005309625
+data.zadv.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

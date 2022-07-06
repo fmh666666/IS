@@ -1,10 +1,10 @@
 9
-data.dg.txt 1
-data.tz.txt 1
-data.zass.txt 2
-data.zcby.txt 1
-data.zddb.txt 1
-data.zdib.txt 1
-data.zdic.txt 1
-data.zexu.txt 1
-data.zfae.txt 1
+data.dg.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zass.txt 4.48169974735425
+data.zcby.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zdib.txt 2.82763771717948
+data.zdic.txt 2.82763771717948
+data.zexu.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

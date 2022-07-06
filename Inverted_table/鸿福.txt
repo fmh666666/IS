@@ -1,11 +1,11 @@
 10
-data.jd.txt 1
-data.mk.txt 1
-data.zaoo.txt 1
-data.zbcj.txt 1
-data.zbgd.txt 1
-data.zbph.txt 1
-data.zctn.txt 47
-data.zehj.txt 7
-data.zemb.txt 1
-data.zfby.txt 2
+data.jd.txt 2.7546073728089153
+data.mk.txt 2.7546073728089153
+data.zaoo.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbgd.txt 2.7546073728089153
+data.zbph.txt 2.7546073728089153
+data.zctn.txt 15.384378881347816
+data.zehj.txt 8.263822118426747
+data.zemb.txt 2.7546073728089153
+data.zfby.txt 4.365949390112154

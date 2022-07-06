@@ -1,14 +1,14 @@
 13
-data.fj.txt 1
-data.zabe.txt 1
-data.zalm.txt 1
-data.zaxp.txt 1
-data.zbdb.txt 4
-data.zbds.txt 2
-data.zbsm.txt 2
-data.zbyv.txt 1
-data.zeai.txt 1
-data.zeve.txt 1
-data.zexm.txt 1
-data.zeyy.txt 1
-data.zfai.txt 1
+data.fj.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zalm.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbdb.txt 5.97374125520702
+data.zbds.txt 4.077712785060798
+data.zbsm.txt 4.077712785060798
+data.zbyv.txt 2.5727503226135906
+data.zeai.txt 2.5727503226135906
+data.zeve.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906
+data.zeyy.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

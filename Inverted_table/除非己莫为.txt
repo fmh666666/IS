@@ -1,5 +1,5 @@
 4
-data.zahd.txt 1
-data.zccl.txt 1
-data.zddm.txt 1
-data.zdpw.txt 1
+data.zahd.txt 3.389731710180695
+data.zccl.txt 3.389731710180695
+data.zddm.txt 3.389731710180695
+data.zdpw.txt 3.389731710180695

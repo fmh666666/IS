@@ -1,5 +1,5 @@
 4
-data.zbfp.txt 1
-data.zcbe.txt 2
-data.zdwn.txt 1
-data.zegn.txt 1
+data.zbfp.txt 3.389731710180695
+data.zcbe.txt 5.372597648141796
+data.zdwn.txt 3.389731710180695
+data.zegn.txt 3.389731710180695

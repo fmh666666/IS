@@ -1,6 +1,6 @@
 5
-data.zate.txt 1
-data.zbre.txt 1
-data.zcni.txt 1
-data.zdof.txt 1
-data.zevy.txt 3
+data.zate.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zevy.txt 6.470120773454234

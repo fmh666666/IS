@@ -1,4 +1,4 @@
 3
-data.zanh.txt 1
-data.zcby.txt 1
-data.zduc.txt 1
+data.zanh.txt 3.5891377275982888
+data.zcby.txt 3.5891377275982888
+data.zduc.txt 3.5891377275982888

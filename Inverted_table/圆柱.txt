@@ -1,6 +1,6 @@
 5
-data.xe.txt 1
-data.zbcc.txt 1
-data.zbfd.txt 1
-data.zbhd.txt 4
-data.zbhe.txt 4
+data.xe.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zbfd.txt 3.235060386727117
+data.zbhd.txt 7.511577600598868
+data.zbhe.txt 7.511577600598868

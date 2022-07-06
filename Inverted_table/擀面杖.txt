@@ -1,12 +1,12 @@
 11
-data.sq.txt 1
-data.zabe.txt 1
-data.zahd.txt 1
-data.zawu.txt 1
-data.zcvi.txt 1
-data.zdlg.txt 1
-data.zdrq.txt 1
-data.zdud.txt 1
-data.zebc.txt 1
-data.zeel.txt 1
-data.zess.txt 1
+data.sq.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zcvi.txt 2.6885433903988862
+data.zdlg.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zdud.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zeel.txt 2.6885433903988862
+data.zess.txt 2.6885433903988862

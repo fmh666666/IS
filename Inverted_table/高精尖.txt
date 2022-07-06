@@ -1,2 +1,2 @@
 1
-data.zayc.txt 2
+data.zayc.txt 6.8955976689794145

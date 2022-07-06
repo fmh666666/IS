@@ -1,7 +1,7 @@
 6
-data.zazx.txt 1
-data.zbfz.txt 2
-data.zcku.txt 1
-data.zcqe.txt 3
-data.zcuh.txt 1
-data.zeds.txt 1
+data.zazx.txt 3.1086847136800873
+data.zbfz.txt 4.927148697748023
+data.zcku.txt 3.1086847136800873
+data.zcqe.txt 6.2173694273601745
+data.zcuh.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873

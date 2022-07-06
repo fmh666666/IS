@@ -1,5 +1,5 @@
 4
-data.ry.txt 3
-data.zaxk.txt 1
-data.zbgd.txt 1
-data.zeqh.txt 2
+data.ry.txt 6.77946342036139
+data.zaxk.txt 3.389731710180695
+data.zbgd.txt 3.389731710180695
+data.zeqh.txt 5.372597648141796

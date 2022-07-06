@@ -1,2 +1,2 @@
 1
-data.zdcw.txt 2
+data.zdcw.txt 6.8955976689794145

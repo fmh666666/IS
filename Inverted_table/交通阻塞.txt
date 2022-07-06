@@ -1,4 +1,4 @@
 3
-data.xk.txt 1
-data.zczj.txt 1
-data.zdds.txt 1
+data.xk.txt 3.5891377275982888
+data.zczj.txt 3.5891377275982888
+data.zdds.txt 3.5891377275982888

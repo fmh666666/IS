@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zefv.txt 1
-data.zfas.txt 1
+data.ud.txt 3.5891377275982888
+data.zefv.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

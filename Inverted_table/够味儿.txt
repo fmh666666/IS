@@ -1,14 +1,14 @@
 13
-data.ff.txt 1
-data.ga.txt 1
-data.zbem.txt 1
-data.zbfx.txt 1
-data.zbre.txt 1
-data.zcwn.txt 1
-data.zdtr.txt 1
-data.zeew.txt 2
-data.zelt.txt 1
-data.zesi.txt 1
-data.zess.txt 1
-data.zewg.txt 1
-data.zfaz.txt 1
+data.ff.txt 2.5727503226135906
+data.ga.txt 2.5727503226135906
+data.zbem.txt 2.5727503226135906
+data.zbfx.txt 2.5727503226135906
+data.zbre.txt 2.5727503226135906
+data.zcwn.txt 2.5727503226135906
+data.zdtr.txt 2.5727503226135906
+data.zeew.txt 4.077712785060798
+data.zelt.txt 2.5727503226135906
+data.zesi.txt 2.5727503226135906
+data.zess.txt 2.5727503226135906
+data.zewg.txt 2.5727503226135906
+data.zfaz.txt 2.5727503226135906

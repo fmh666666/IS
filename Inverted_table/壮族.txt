@@ -1,6 +1,6 @@
 5
-data.zbcj.txt 1
-data.zcue.txt 1
-data.zefu.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.zbcj.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zefu.txt 3.235060386727117
+data.zfai.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

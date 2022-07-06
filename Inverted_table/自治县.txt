@@ -1,13 +1,13 @@
 12
-data.by.txt 1
-data.zbfd.txt 1
-data.zbfx.txt 1
-data.zbfz.txt 1
-data.zbjq.txt 1
-data.zcse.txt 1
-data.zcwq.txt 1
-data.zdgt.txt 1
-data.zdoq.txt 2
-data.zeag.txt 1
-data.zeqn.txt 1
-data.zeta.txt 1
+data.by.txt 2.628231699761886
+data.zbfd.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbjq.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zcwq.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdoq.txt 4.165648687329214
+data.zeag.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zeta.txt 2.628231699761886

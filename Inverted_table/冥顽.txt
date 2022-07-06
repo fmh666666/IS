@@ -1,4 +1,4 @@
 3
-data.ft.txt 1
-data.zdju.txt 1
-data.zfae.txt 1
+data.ft.txt 3.5891377275982888
+data.zdju.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

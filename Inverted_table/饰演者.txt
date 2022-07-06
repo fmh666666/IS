@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.tv.txt 1
-data.zavg.txt 1
-data.zcdv.txt 1
-data.zddp.txt 1
+data.gk.txt 3.235060386727117
+data.tv.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zddp.txt 3.235060386727117

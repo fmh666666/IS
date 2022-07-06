@@ -1,10 +1,10 @@
 9
-data.cz.txt 1
-data.zafu.txt 2
-data.zbtx.txt 1
-data.zbua.txt 1
-data.zbvg.txt 1
-data.zcgo.txt 1
-data.zcmy.txt 1
-data.zcrn.txt 1
-data.zeos.txt 1
+data.cz.txt 2.82763771717948
+data.zafu.txt 4.48169974735425
+data.zbtx.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zeos.txt 2.82763771717948

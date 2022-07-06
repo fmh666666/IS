@@ -1,7 +1,7 @@
 6
-data.pq.txt 1
-data.zbuj.txt 1
-data.zcqs.txt 1
-data.zdgo.txt 1
-data.zdpf.txt 1
-data.zeds.txt 1
+data.pq.txt 3.1086847136800873
+data.zbuj.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zdgo.txt 3.1086847136800873
+data.zdpf.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873

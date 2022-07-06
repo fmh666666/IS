@@ -1,9 +1,9 @@
 8
-data.zawm.txt 1
-data.zbcv.txt 2
-data.zbjq.txt 1
-data.zbmw.txt 1
-data.zcda.txt 1
-data.zcdy.txt 1
-data.zdgv.txt 1
-data.zefv.txt 1
+data.zawm.txt 2.9092786962624935
+data.zbcv.txt 4.611097637722987
+data.zbjq.txt 2.9092786962624935
+data.zbmw.txt 2.9092786962624935
+data.zcda.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zefv.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.zbor.txt 2
-data.zcbe.txt 1
-data.zctm.txt 1
+data.zbor.txt 5.688648708166832
+data.zcbe.txt 3.5891377275982888
+data.zctm.txt 3.5891377275982888

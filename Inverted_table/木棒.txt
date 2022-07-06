@@ -1,6 +1,6 @@
 5
-data.zasw.txt 1
-data.zawc.txt 2
-data.zbbt.txt 1
-data.zbpx.txt 2
-data.zdro.txt 3
+data.zasw.txt 3.235060386727117
+data.zawc.txt 5.1274494005309625
+data.zbbt.txt 3.235060386727117
+data.zbpx.txt 5.1274494005309625
+data.zdro.txt 6.470120773454234

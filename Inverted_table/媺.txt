@@ -1,9 +1,9 @@
 8
-data.ek.txt 2
-data.ud.txt 1
-data.zall.txt 1
-data.zcic.txt 1
-data.zdlw.txt 1
-data.zeag.txt 1
-data.zeam.txt 5
-data.zejn.txt 1
+data.ek.txt 4.611097637722987
+data.ud.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zeam.txt 7.52037633398548
+data.zejn.txt 2.9092786962624935

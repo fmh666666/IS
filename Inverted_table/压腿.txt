@@ -1,7 +1,7 @@
 6
-data.zacw.txt 3
-data.zbse.txt 1
-data.zcxq.txt 1
-data.zdcj.txt 1
-data.zdnh.txt 1
-data.zfbr.txt 2
+data.zacw.txt 6.2173694273601745
+data.zbse.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873
+data.zfbr.txt 4.927148697748023

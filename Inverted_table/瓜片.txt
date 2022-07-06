@@ -1,4 +1,4 @@
 3
-data.zdux.txt 3
-data.zdvl.txt 1
-data.zeaf.txt 1
+data.zdux.txt 7.1782754551965775
+data.zdvl.txt 3.5891377275982888
+data.zeaf.txt 3.5891377275982888

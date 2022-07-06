@@ -1,14 +1,14 @@
 13
-data.ry.txt 1
-data.uz.txt 1
-data.zavg.txt 1
-data.zbgu.txt 1
-data.zbil.txt 1
-data.zcel.txt 1
-data.zciq.txt 1
-data.zciy.txt 1
-data.zcjo.txt 1
-data.zdod.txt 1
-data.zdzg.txt 1
-data.zezy.txt 1
-data.zfai.txt 1
+data.ry.txt 2.5727503226135906
+data.uz.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zbil.txt 2.5727503226135906
+data.zcel.txt 2.5727503226135906
+data.zciq.txt 2.5727503226135906
+data.zciy.txt 2.5727503226135906
+data.zcjo.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zdzg.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

@@ -1,7 +1,7 @@
 6
-data.en.txt 1
-data.zaop.txt 1
-data.zbfz.txt 1
-data.zdoc.txt 1
-data.zeqv.txt 1
-data.zfas.txt 1
+data.en.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zdoc.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873
+data.zfas.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zaet.txt 1
-data.zblq.txt 3
-data.zblr.txt 8
-data.zdwn.txt 1
-data.zewp.txt 1
+data.zaet.txt 3.235060386727117
+data.zblq.txt 6.470120773454234
+data.zblr.txt 10.254898801061925
+data.zdwn.txt 3.235060386727117
+data.zewp.txt 3.235060386727117

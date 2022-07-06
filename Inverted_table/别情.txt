@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.fp.txt 1
-data.zass.txt 1
-data.zazn.txt 1
-data.zbwa.txt 1
+data.be.txt 3.235060386727117
+data.fp.txt 3.235060386727117
+data.zass.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zall.txt 1
-data.zbjh.txt 1
-data.zblr.txt 1
-data.zcln.txt 1
-data.zcql.txt 1
-data.zdro.txt 1
-data.zeyu.txt 1
-data.zfae.txt 1
+data.op.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zblr.txt 2.82763771717948
+data.zcln.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zdro.txt 2.82763771717948
+data.zeyu.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

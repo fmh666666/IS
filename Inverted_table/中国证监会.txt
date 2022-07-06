@@ -1,7 +1,7 @@
 6
-data.ud.txt 1
-data.zbvm.txt 1
-data.zcdz.txt 9
-data.zeam.txt 1
-data.zelt.txt 2
-data.zfai.txt 1
+data.ud.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zcdz.txt 10.326827088520758
+data.zeam.txt 3.1086847136800873
+data.zelt.txt 4.927148697748023
+data.zfai.txt 3.1086847136800873

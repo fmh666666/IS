@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zbgw.txt 1
-data.zezy.txt 1
+data.fp.txt 3.5891377275982888
+data.zbgw.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

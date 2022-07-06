@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.zauy.txt 1
-data.zbha.txt 1
-data.zblr.txt 1
-data.zcxq.txt 3
-data.zdme.txt 1
-data.zdux.txt 1
-data.zeyu.txt 1
+data.ka.txt 2.9092786962624935
+data.zauy.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zcxq.txt 5.818557392524987
+data.zdme.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

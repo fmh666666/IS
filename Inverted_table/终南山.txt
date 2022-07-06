@@ -1,6 +1,6 @@
 5
-data.zayc.txt 1
-data.zblq.txt 1
-data.zckd.txt 1
-data.zeeh.txt 1
-data.zefp.txt 1
+data.zayc.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zefp.txt 3.235060386727117

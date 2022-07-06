@@ -1,4 +1,4 @@
 3
-data.zasr.txt 2
-data.zcmx.txt 1
-data.zebf.txt 1
+data.zasr.txt 5.688648708166832
+data.zcmx.txt 3.5891377275982888
+data.zebf.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.zarr.txt 1
-data.zavx.txt 7
-data.zebn.txt 14
-data.zezy.txt 2
+data.zarr.txt 3.389731710180695
+data.zavx.txt 10.169195130542084
+data.zebn.txt 13.243310940140939
+data.zezy.txt 5.372597648141796

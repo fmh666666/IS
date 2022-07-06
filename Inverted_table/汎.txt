@@ -1,8 +1,8 @@
 7
-data.zbfd.txt 1
-data.zbxy.txt 1
-data.zcpa.txt 1
-data.zddb.txt 1
-data.zdqk.txt 3
-data.zefu.txt 1
-data.zeqv.txt 1
+data.zbfd.txt 3.0018356045764243
+data.zbxy.txt 3.0018356045764243
+data.zcpa.txt 3.0018356045764243
+data.zddb.txt 3.0018356045764243
+data.zdqk.txt 6.003671209152849
+data.zefu.txt 3.0018356045764243
+data.zeqv.txt 3.0018356045764243

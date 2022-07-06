@@ -1,6 +1,6 @@
 5
-data.zanm.txt 1
-data.zbjh.txt 1
-data.zbjk.txt 1
-data.zbjq.txt 1
-data.zexk.txt 1
+data.zanm.txt 3.235060386727117
+data.zbjh.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbjq.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.hg.txt 1
-data.zcuh.txt 1
-data.zeay.txt 1
-data.zehp.txt 1
-data.zexk.txt 1
+data.hg.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

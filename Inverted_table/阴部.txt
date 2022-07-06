@@ -1,7 +1,7 @@
 6
-data.zaoo.txt 1
-data.zawc.txt 2
-data.zcts.txt 1
-data.zdmw.txt 1
-data.zdtr.txt 1
-data.zezf.txt 1
+data.zaoo.txt 3.1086847136800873
+data.zawc.txt 4.927148697748023
+data.zcts.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873
+data.zezf.txt 3.1086847136800873

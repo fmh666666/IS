@@ -1,8 +1,8 @@
 7
-data.kt.txt 3
-data.zbaf.txt 5
-data.zcgi.txt 1
-data.zddp.txt 1
-data.zdmw.txt 1
-data.zedk.txt 1
-data.zewg.txt 1
+data.kt.txt 6.003671209152849
+data.zbaf.txt 7.759632471159678
+data.zcgi.txt 3.0018356045764243
+data.zddp.txt 3.0018356045764243
+data.zdmw.txt 3.0018356045764243
+data.zedk.txt 3.0018356045764243
+data.zewg.txt 3.0018356045764243

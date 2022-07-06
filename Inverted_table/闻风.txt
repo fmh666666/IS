@@ -1,13 +1,13 @@
 12
-data.be.txt 1
-data.zall.txt 1
-data.zaoy.txt 1
-data.zaun.txt 2
-data.zbcv.txt 2
-data.zbdb.txt 1
-data.zdgv.txt 1
-data.zdkc.txt 1
-data.zdkp.txt 1
-data.zedo.txt 1
-data.zevq.txt 1
-data.zewg.txt 1
+data.be.txt 2.628231699761886
+data.zall.txt 2.628231699761886
+data.zaoy.txt 2.628231699761886
+data.zaun.txt 4.165648687329214
+data.zbcv.txt 4.165648687329214
+data.zbdb.txt 2.628231699761886
+data.zdgv.txt 2.628231699761886
+data.zdkc.txt 2.628231699761886
+data.zdkp.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zevq.txt 2.628231699761886
+data.zewg.txt 2.628231699761886

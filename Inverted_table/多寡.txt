@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zake.txt 1
-data.zbnp.txt 1
-data.zcdz.txt 1
-data.zdcy.txt 2
+data.tz.txt 3.235060386727117
+data.zake.txt 3.235060386727117
+data.zbnp.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zdcy.txt 5.1274494005309625

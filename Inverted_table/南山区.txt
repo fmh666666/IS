@@ -1,5 +1,5 @@
 4
-data.zakb.txt 1
-data.zcll.txt 1
-data.zdeq.txt 1
-data.zduk.txt 1
+data.zakb.txt 3.389731710180695
+data.zcll.txt 3.389731710180695
+data.zdeq.txt 3.389731710180695
+data.zduk.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zbpc.txt 2
-data.zbwa.txt 1
-data.zcko.txt 4
+data.zbpc.txt 5.688648708166832
+data.zbwa.txt 3.5891377275982888
+data.zcko.txt 8.333719726130651

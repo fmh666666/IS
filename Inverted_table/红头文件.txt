@@ -1,4 +1,4 @@
 3
-data.bs.txt 2
-data.zaim.txt 1
-data.zdzg.txt 1
+data.bs.txt 5.688648708166832
+data.zaim.txt 3.5891377275982888
+data.zdzg.txt 3.5891377275982888

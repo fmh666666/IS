@@ -1,5 +1,5 @@
 4
-data.zadv.txt 1
-data.zcih.txt 1
-data.zcql.txt 1
-data.zevy.txt 1
+data.zadv.txt 3.389731710180695
+data.zcih.txt 3.389731710180695
+data.zcql.txt 3.389731710180695
+data.zevy.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zbdb.txt 2
-data.zccx.txt 1
-data.zdtv.txt 1
+data.zbdb.txt 5.688648708166832
+data.zccx.txt 3.5891377275982888
+data.zdtv.txt 3.5891377275982888

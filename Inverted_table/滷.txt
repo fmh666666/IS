@@ -1,9 +1,9 @@
 8
-data.zalc.txt 1
-data.zbgd.txt 2
-data.zbgw.txt 1
-data.zbvn.txt 1
-data.zbvp.txt 1
-data.zdey.txt 1
-data.zdib.txt 1
-data.zerv.txt 1
+data.zalc.txt 2.9092786962624935
+data.zbgd.txt 4.611097637722987
+data.zbgw.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zdey.txt 2.9092786962624935
+data.zdib.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935

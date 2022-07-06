@@ -1,9 +1,9 @@
 8
-data.tv.txt 1
-data.zaoc.txt 1
-data.zaoy.txt 1
-data.zbga.txt 1
-data.zbil.txt 1
-data.zdqz.txt 1
-data.zecf.txt 1
-data.zewn.txt 1
+data.tv.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zbil.txt 2.9092786962624935
+data.zdqz.txt 2.9092786962624935
+data.zecf.txt 2.9092786962624935
+data.zewn.txt 2.9092786962624935

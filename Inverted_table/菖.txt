@@ -1,6 +1,6 @@
 5
-data.pq.txt 1
-data.zalc.txt 1
-data.zbkj.txt 3
-data.zdou.txt 2
-data.zdqk.txt 1
+data.pq.txt 3.235060386727117
+data.zalc.txt 3.235060386727117
+data.zbkj.txt 6.470120773454234
+data.zdou.txt 5.1274494005309625
+data.zdqk.txt 3.235060386727117

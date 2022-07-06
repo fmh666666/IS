@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zbvg.txt 1
-data.zbvp.txt 1
-data.zdwl.txt 1
-data.zedo.txt 1
+data.zazn.txt 3.235060386727117
+data.zbvg.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zdwl.txt 3.235060386727117
+data.zedo.txt 3.235060386727117

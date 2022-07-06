@@ -1,11 +1,11 @@
 10
-data.dg.txt 1
-data.pn.txt 1
-data.zaip.txt 1
-data.zasq.txt 1
-data.zayd.txt 1
-data.zbfz.txt 1
-data.zbrj.txt 1
-data.zedk.txt 1
-data.zeel.txt 1
-data.zeik.txt 1
+data.dg.txt 2.7546073728089153
+data.pn.txt 2.7546073728089153
+data.zaip.txt 2.7546073728089153
+data.zasq.txt 2.7546073728089153
+data.zayd.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zeel.txt 2.7546073728089153
+data.zeik.txt 2.7546073728089153

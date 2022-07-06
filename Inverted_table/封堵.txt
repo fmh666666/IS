@@ -1,6 +1,6 @@
 5
-data.zbeb.txt 3
-data.zcse.txt 1
-data.zelt.txt 3
-data.zene.txt 1
-data.zfaj.txt 1
+data.zbeb.txt 6.470120773454234
+data.zcse.txt 3.235060386727117
+data.zelt.txt 6.470120773454234
+data.zene.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

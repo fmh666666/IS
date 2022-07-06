@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.pn.txt 1
-data.tz.txt 1
-data.zabe.txt 4
-data.zalj.txt 1
-data.zbhe.txt 1
-data.zcmn.txt 1
-data.zddb.txt 6
-data.zdro.txt 1
-data.zezh.txt 1
+data.bb.txt 2.7546073728089153
+data.pn.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zabe.txt 6.396000249308887
+data.zalj.txt 2.7546073728089153
+data.zbhe.txt 2.7546073728089153
+data.zcmn.txt 2.7546073728089153
+data.zddb.txt 7.733160566391275
+data.zdro.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153

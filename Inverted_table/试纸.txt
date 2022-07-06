@@ -1,6 +1,6 @@
 5
-data.zaim.txt 2
-data.zcda.txt 1
-data.zcmy.txt 2
-data.zcxr.txt 2
-data.zdgv.txt 1
+data.zaim.txt 5.1274494005309625
+data.zcda.txt 3.235060386727117
+data.zcmy.txt 5.1274494005309625
+data.zcxr.txt 5.1274494005309625
+data.zdgv.txt 3.235060386727117

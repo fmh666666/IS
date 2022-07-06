@@ -1,8 +1,8 @@
 7
-data.zawu.txt 1
-data.zaxk.txt 1
-data.zblq.txt 1
-data.zbvn.txt 5
-data.zbvp.txt 2
-data.zdlw.txt 1
-data.zevq.txt 1
+data.zawu.txt 3.0018356045764243
+data.zaxk.txt 3.0018356045764243
+data.zblq.txt 3.0018356045764243
+data.zbvn.txt 7.759632471159678
+data.zbvp.txt 4.757796866583254
+data.zdlw.txt 3.0018356045764243
+data.zevq.txt 3.0018356045764243

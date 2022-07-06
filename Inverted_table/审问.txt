@@ -1,5 +1,5 @@
 4
-data.uz.txt 1
-data.zalt.txt 1
-data.zdil.txt 1
-data.zevq.txt 1
+data.uz.txt 3.389731710180695
+data.zalt.txt 3.389731710180695
+data.zdil.txt 3.389731710180695
+data.zevq.txt 3.389731710180695

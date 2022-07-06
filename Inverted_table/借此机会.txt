@@ -1,12 +1,12 @@
 11
-data.gk.txt 1
-data.jf.txt 1
-data.zbcj.txt 1
-data.zbga.txt 1
-data.zbzf.txt 1
-data.zcef.txt 1
-data.zcpb.txt 1
-data.zdqq.txt 1
-data.zexv.txt 1
-data.zezf.txt 1
-data.zfcp.txt 1
+data.gk.txt 2.6885433903988862
+data.jf.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zcef.txt 2.6885433903988862
+data.zcpb.txt 2.6885433903988862
+data.zdqq.txt 2.6885433903988862
+data.zexv.txt 2.6885433903988862
+data.zezf.txt 2.6885433903988862
+data.zfcp.txt 2.6885433903988862

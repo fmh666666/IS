@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.ka.txt 2
-data.zahd.txt 1
-data.zbor.txt 2
-data.zccu.txt 1
-data.zcdv.txt 1
-data.zcko.txt 1
-data.zdzg.txt 1
-data.zebn.txt 1
-data.zebv.txt 1
-data.zefu.txt 1
-data.zeqh.txt 1
+data.bf.txt 2.628231699761886
+data.ka.txt 4.165648687329214
+data.zahd.txt 2.628231699761886
+data.zbor.txt 4.165648687329214
+data.zccu.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zebn.txt 2.628231699761886
+data.zebv.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zeqh.txt 2.628231699761886

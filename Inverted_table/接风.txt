@@ -1,10 +1,10 @@
 9
-data.ye.txt 1
-data.zacp.txt 1
-data.zbvg.txt 1
-data.zbvm.txt 1
-data.zcis.txt 1
-data.zdga.txt 1
-data.zduk.txt 1
-data.zesi.txt 4
-data.zevq.txt 1
+data.ye.txt 2.82763771717948
+data.zacp.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zcis.txt 2.82763771717948
+data.zdga.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zesi.txt 6.565571457682201
+data.zevq.txt 2.82763771717948

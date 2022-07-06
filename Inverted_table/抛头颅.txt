@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zadv.txt 1
-data.zajn.txt 1
-data.zcee.txt 1
-data.zdof.txt 1
+data.hp.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zajn.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zdof.txt 3.235060386727117

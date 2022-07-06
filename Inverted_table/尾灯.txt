@@ -1,12 +1,12 @@
 11
-data.gz.txt 1
-data.hz.txt 1
-data.zafk.txt 1
-data.zair.txt 1
-data.zane.txt 2
-data.zbjk.txt 1
-data.zbvm.txt 1
-data.zcel.txt 1
-data.zcih.txt 1
-data.zdlw.txt 1
-data.zehj.txt 1
+data.gz.txt 2.6885433903988862
+data.hz.txt 2.6885433903988862
+data.zafk.txt 2.6885433903988862
+data.zair.txt 2.6885433903988862
+data.zane.txt 4.261240455343955
+data.zbjk.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zcih.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zehj.txt 2.6885433903988862

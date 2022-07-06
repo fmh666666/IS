@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zahd.txt 1
-data.zbpx.txt 2
-data.zdst.txt 1
-data.zdud.txt 1
-data.zduk.txt 1
+data.op.txt 3.1086847136800873
+data.zahd.txt 3.1086847136800873
+data.zbpx.txt 4.927148697748023
+data.zdst.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873

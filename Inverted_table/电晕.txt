@@ -1,7 +1,7 @@
 6
-data.hu.txt 1
-data.nh.txt 1
-data.zblh.txt 1
-data.zbof.txt 1
-data.zcak.txt 2
-data.zdnc.txt 2
+data.hu.txt 3.1086847136800873
+data.nh.txt 3.1086847136800873
+data.zblh.txt 3.1086847136800873
+data.zbof.txt 3.1086847136800873
+data.zcak.txt 4.927148697748023
+data.zdnc.txt 4.927148697748023

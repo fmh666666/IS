@@ -1,6 +1,6 @@
 5
-data.zaql.txt 1
-data.zbdb.txt 1
-data.zcdl.txt 1
-data.zddp.txt 1
-data.zfaj.txt 1
+data.zaql.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zddp.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

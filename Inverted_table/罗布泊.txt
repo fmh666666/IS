@@ -1,3 +1,3 @@
 2
-data.zdzi.txt 3
-data.zfcg.txt 2
+data.zdzi.txt 7.740369448197793
+data.zfcg.txt 6.134097658560606

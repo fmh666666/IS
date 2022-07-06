@@ -1,10 +1,10 @@
 9
-data.zacp.txt 1
-data.zass.txt 1
-data.zawm.txt 1
-data.zazw.txt 4
-data.zbjh.txt 1
-data.zdey.txt 1
-data.zdib.txt 2
-data.zdro.txt 1
-data.zdwd.txt 1
+data.zacp.txt 2.82763771717948
+data.zass.txt 2.82763771717948
+data.zawm.txt 2.82763771717948
+data.zazw.txt 6.565571457682201
+data.zbjh.txt 2.82763771717948
+data.zdey.txt 2.82763771717948
+data.zdib.txt 4.48169974735425
+data.zdro.txt 2.82763771717948
+data.zdwd.txt 2.82763771717948

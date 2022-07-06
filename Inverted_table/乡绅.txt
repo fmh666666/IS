@@ -1,10 +1,10 @@
 9
-data.gk.txt 1
-data.zadv.txt 1
-data.zalt.txt 1
-data.zbfz.txt 1
-data.zbre.txt 1
-data.zbzo.txt 1
-data.zdgt.txt 1
-data.zdoc.txt 1
-data.zfai.txt 3
+data.gk.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbre.txt 2.82763771717948
+data.zbzo.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdoc.txt 2.82763771717948
+data.zfai.txt 5.65527543435896

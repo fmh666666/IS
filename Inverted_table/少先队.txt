@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.fp.txt 1
-data.zasd.txt 2
-data.zbpx.txt 1
-data.zcmy.txt 2
-data.zcqp.txt 1
-data.zctn.txt 3
-data.zddb.txt 1
-data.zeds.txt 1
-data.zfcj.txt 5
+data.bs.txt 2.7546073728089153
+data.fp.txt 2.7546073728089153
+data.zasd.txt 4.365949390112154
+data.zbpx.txt 2.7546073728089153
+data.zcmy.txt 4.365949390112154
+data.zcqp.txt 2.7546073728089153
+data.zctn.txt 5.509214745617831
+data.zddb.txt 2.7546073728089153
+data.zeds.txt 2.7546073728089153
+data.zfcj.txt 7.120556762921068

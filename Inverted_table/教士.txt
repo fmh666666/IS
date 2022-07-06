@@ -1,6 +1,6 @@
 5
-data.yx.txt 1
-data.zajo.txt 1
-data.zall.txt 1
-data.zasd.txt 2
-data.zazn.txt 1
+data.yx.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zall.txt 3.235060386727117
+data.zasd.txt 5.1274494005309625
+data.zazn.txt 3.235060386727117

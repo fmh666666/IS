@@ -1,4 +1,4 @@
 3
-data.hz.txt 3
-data.zddp.txt 1
-data.zedx.txt 1
+data.hz.txt 7.1782754551965775
+data.zddp.txt 3.5891377275982888
+data.zedx.txt 3.5891377275982888

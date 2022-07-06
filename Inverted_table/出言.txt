@@ -1,10 +1,10 @@
 9
-data.tv.txt 1
-data.zbor.txt 1
-data.zbxy.txt 1
-data.zcih.txt 1
-data.zcpc.txt 1
-data.zcse.txt 1
-data.zeaf.txt 1
-data.zeqh.txt 1
-data.zeun.txt 1
+data.tv.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zbxy.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zeaf.txt 2.82763771717948
+data.zeqh.txt 2.82763771717948
+data.zeun.txt 2.82763771717948

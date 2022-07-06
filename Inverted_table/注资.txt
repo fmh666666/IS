@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zavg.txt 1
-data.zawo.txt 3
-data.zcmy.txt 1
-data.zddv.txt 1
+data.zahd.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zawo.txt 6.470120773454234
+data.zcmy.txt 3.235060386727117
+data.zddv.txt 3.235060386727117

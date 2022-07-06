@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.ng.txt 5
-data.zajn.txt 1
-data.zawc.txt 2
-data.zbpp.txt 1
-data.zbvm.txt 1
-data.zcon.txt 1
-data.zcsu.txt 1
-data.zdep.txt 1
-data.zdkv.txt 1
-data.zdrq.txt 1
-data.zdzg.txt 1
-data.zedo.txt 1
+data.bs.txt 2.5727503226135906
+data.ng.txt 6.650463107674388
+data.zajn.txt 2.5727503226135906
+data.zawc.txt 4.077712785060798
+data.zbpp.txt 2.5727503226135906
+data.zbvm.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zdep.txt 2.5727503226135906
+data.zdkv.txt 2.5727503226135906
+data.zdrq.txt 2.5727503226135906
+data.zdzg.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906

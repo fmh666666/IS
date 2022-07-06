@@ -1,3 +1,3 @@
 2
-data.zaxj.txt 1
-data.zegl.txt 1
+data.zaxj.txt 3.8701847240988965
+data.zegl.txt 3.8701847240988965

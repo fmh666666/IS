@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.zasd.txt 1
-data.zawu.txt 2
-data.zbwa.txt 2
-data.zdeb.txt 2
-data.zdzn.txt 1
-data.zeds.txt 1
-data.zeva.txt 1
+data.cf.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zawu.txt 4.611097637722987
+data.zbwa.txt 4.611097637722987
+data.zdeb.txt 4.611097637722987
+data.zdzn.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zeva.txt 2.9092786962624935

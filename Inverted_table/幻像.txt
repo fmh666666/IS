@@ -1,11 +1,11 @@
 10
-data.tv.txt 1
-data.zadv.txt 1
-data.zbcc.txt 1
-data.zbil.txt 1
-data.zbre.txt 1
-data.zddl.txt 1
-data.zdkp.txt 2
-data.zeve.txt 1
-data.zfaz.txt 1
-data.zfcj.txt 1
+data.tv.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zddl.txt 2.7546073728089153
+data.zdkp.txt 4.365949390112154
+data.zeve.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153
+data.zfcj.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.op.txt 2
-data.zawb.txt 1
-data.zawc.txt 3
-data.zbpx.txt 1
-data.zcel.txt 1
-data.zcfx.txt 1
-data.zcmy.txt 1
-data.zfai.txt 2
+data.op.txt 4.611097637722987
+data.zawb.txt 2.9092786962624935
+data.zawc.txt 5.818557392524987
+data.zbpx.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zcfx.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zfai.txt 4.611097637722987

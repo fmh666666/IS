@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.jf.txt 1
-data.zake.txt 1
-data.zako.txt 1
-data.zawc.txt 1
-data.zbjq.txt 2
-data.zcee.txt 1
-data.zcpx.txt 1
-data.zeyy.txt 1
-data.zezy.txt 1
+data.hp.txt 2.7546073728089153
+data.jf.txt 2.7546073728089153
+data.zake.txt 2.7546073728089153
+data.zako.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbjq.txt 4.365949390112154
+data.zcee.txt 2.7546073728089153
+data.zcpx.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153

@@ -1,2 +1,2 @@
 1
-data.zcgo.txt 4
+data.zcgo.txt 10.101867994579104

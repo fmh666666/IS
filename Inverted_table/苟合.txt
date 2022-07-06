@@ -1,5 +1,5 @@
 4
-data.zcoy.txt 1
-data.zdkv.txt 1
-data.zeai.txt 1
-data.zezf.txt 1
+data.zcoy.txt 3.389731710180695
+data.zdkv.txt 3.389731710180695
+data.zeai.txt 3.389731710180695
+data.zezf.txt 3.389731710180695

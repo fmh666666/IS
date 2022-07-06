@@ -1,7 +1,7 @@
 6
-data.zbdb.txt 2
-data.zbta.txt 2
-data.zcbe.txt 1
-data.zcue.txt 1
-data.zeds.txt 1
-data.zfby.txt 1
+data.zbdb.txt 4.927148697748023
+data.zbta.txt 4.927148697748023
+data.zcbe.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

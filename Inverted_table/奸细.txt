@@ -1,10 +1,10 @@
 9
-data.kq.txt 1
-data.ry.txt 1
-data.zadv.txt 1
-data.zavg.txt 2
-data.zawc.txt 1
-data.zddx.txt 1
-data.zdgv.txt 1
-data.zefu.txt 1
-data.zeik.txt 1
+data.kq.txt 2.82763771717948
+data.ry.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zavg.txt 4.48169974735425
+data.zawc.txt 2.82763771717948
+data.zddx.txt 2.82763771717948
+data.zdgv.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zeik.txt 2.82763771717948

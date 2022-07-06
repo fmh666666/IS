@@ -1,4 +1,4 @@
 3
-data.zcdy.txt 1
-data.zctn.txt 1
-data.zeqv.txt 1
+data.zcdy.txt 3.5891377275982888
+data.zctn.txt 3.5891377275982888
+data.zeqv.txt 3.5891377275982888

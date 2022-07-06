@@ -1,8 +1,8 @@
 7
-data.op.txt 2
-data.zbcc.txt 1
-data.zcmy.txt 1
-data.zdgt.txt 1
-data.zdhv.txt 1
-data.zevq.txt 1
-data.zfaw.txt 1
+data.op.txt 4.757796866583254
+data.zbcc.txt 3.0018356045764243
+data.zcmy.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243
+data.zdhv.txt 3.0018356045764243
+data.zevq.txt 3.0018356045764243
+data.zfaw.txt 3.0018356045764243

@@ -1,14 +1,14 @@
 13
-data.ga.txt 2
-data.tv.txt 2
-data.zagr.txt 1
-data.zawb.txt 1
-data.zazg.txt 1
-data.zcts.txt 1
-data.zdcy.txt 12
-data.zdhv.txt 1
-data.zdof.txt 1
-data.zeaf.txt 3
-data.zedo.txt 1
-data.zeun.txt 2
-data.zevq.txt 1
+data.ga.txt 4.077712785060798
+data.tv.txt 4.077712785060798
+data.zagr.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zazg.txt 2.5727503226135906
+data.zcts.txt 2.5727503226135906
+data.zdcy.txt 9.520307478659639
+data.zdhv.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zeaf.txt 5.145500645227181
+data.zedo.txt 2.5727503226135906
+data.zeun.txt 4.077712785060798
+data.zevq.txt 2.5727503226135906

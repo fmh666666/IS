@@ -1,9 +1,9 @@
 8
-data.mk.txt 2
-data.zagr.txt 2
-data.zasj.txt 4
-data.zawu.txt 1
-data.zbwq.txt 1
-data.zdst.txt 1
-data.zevt.txt 1
-data.zfai.txt 1
+data.mk.txt 4.611097637722987
+data.zagr.txt 4.611097637722987
+data.zasj.txt 6.7551359407091605
+data.zawu.txt 2.9092786962624935
+data.zbwq.txt 2.9092786962624935
+data.zdst.txt 2.9092786962624935
+data.zevt.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

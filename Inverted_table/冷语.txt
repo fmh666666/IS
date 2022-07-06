@@ -1,5 +1,5 @@
 4
-data.mk.txt 1
-data.zdpf.txt 1
-data.zdqz.txt 1
-data.zedo.txt 2
+data.mk.txt 3.389731710180695
+data.zdpf.txt 3.389731710180695
+data.zdqz.txt 3.389731710180695
+data.zedo.txt 5.372597648141796

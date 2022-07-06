@@ -1,7 +1,7 @@
 6
-data.zafl.txt 1
-data.zbdb.txt 1
-data.zbzf.txt 2
-data.zcdz.txt 1
-data.zcxp.txt 1
-data.zess.txt 1
+data.zafl.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbzf.txt 4.927148697748023
+data.zcdz.txt 3.1086847136800873
+data.zcxp.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873

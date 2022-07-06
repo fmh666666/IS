@@ -1,6 +1,6 @@
 5
-data.zbjk.txt 2
-data.zdfl.txt 2
-data.zdnh.txt 1
-data.zdtr.txt 1
-data.zedk.txt 1
+data.zbjk.txt 5.1274494005309625
+data.zdfl.txt 5.1274494005309625
+data.zdnh.txt 3.235060386727117
+data.zdtr.txt 3.235060386727117
+data.zedk.txt 3.235060386727117

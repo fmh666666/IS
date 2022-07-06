@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.zaoy.txt 1
-data.zapl.txt 1
-data.zauy.txt 1
-data.zbjh.txt 1
-data.zbrj.txt 1
-data.zdod.txt 1
-data.zdou.txt 1
-data.zeaj.txt 1
+data.bb.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zauy.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zbrj.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948

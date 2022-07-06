@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zawm.txt 1
-data.zcln.txt 1
-data.zeoh.txt 1
-data.zezy.txt 1
+data.zadv.txt 3.235060386727117
+data.zawm.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

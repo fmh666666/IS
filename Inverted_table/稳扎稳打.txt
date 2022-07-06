@@ -1,11 +1,11 @@
 10
-data.fe.txt 1
-data.zapl.txt 1
-data.zazw.txt 1
-data.zblh.txt 1
-data.zcmv.txt 1
-data.zdcw.txt 1
-data.zedk.txt 1
-data.zejk.txt 1
-data.zevt.txt 1
-data.zfaz.txt 1
+data.fe.txt 2.7546073728089153
+data.zapl.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zblh.txt 2.7546073728089153
+data.zcmv.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zejk.txt 2.7546073728089153
+data.zevt.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

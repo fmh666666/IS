@@ -1,14 +1,14 @@
 13
-data.ev.txt 1
-data.jf.txt 6
-data.mu.txt 1
-data.zane.txt 1
-data.zavg.txt 1
-data.zbjh.txt 3
-data.zcku.txt 1
-data.zdod.txt 1
-data.zdof.txt 5
-data.zefs.txt 1
-data.zekw.txt 1
-data.zeoh.txt 1
-data.zeqh.txt 1
+data.ev.txt 2.5727503226135906
+data.jf.txt 7.222623281414552
+data.mu.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zbjh.txt 5.145500645227181
+data.zcku.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zdof.txt 6.650463107674388
+data.zefs.txt 2.5727503226135906
+data.zekw.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906

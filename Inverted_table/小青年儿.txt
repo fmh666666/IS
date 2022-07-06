@@ -1,4 +1,4 @@
 3
-data.zalt.txt 1
-data.zcdv.txt 1
-data.zeac.txt 1
+data.zalt.txt 3.5891377275982888
+data.zcdv.txt 3.5891377275982888
+data.zeac.txt 3.5891377275982888

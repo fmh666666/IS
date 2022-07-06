@@ -1,6 +1,6 @@
 5
-data.ye.txt 1
-data.zalj.txt 1
-data.zayd.txt 1
-data.zexx.txt 1
-data.zfaj.txt 1
+data.ye.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zayd.txt 3.235060386727117
+data.zexx.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

@@ -1,2 +1,2 @@
 1
-data.zcdz.txt 1
+data.zcdz.txt 4.350637738017098

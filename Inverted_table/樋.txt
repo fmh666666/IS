@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.mt.txt 1
-data.mu.txt 1
-data.zarc.txt 1
+data.fp.txt 3.389731710180695
+data.mt.txt 3.389731710180695
+data.mu.txt 3.389731710180695
+data.zarc.txt 3.389731710180695

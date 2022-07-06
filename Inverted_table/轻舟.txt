@@ -1,14 +1,14 @@
 13
-data.by.txt 1
-data.zadv.txt 1
-data.zaxj.txt 1
-data.zdkc.txt 1
-data.zdpw.txt 1
-data.zdtv.txt 1
-data.zeac.txt 1
-data.zeoh.txt 1
-data.zewd.txt 1
-data.zezh.txt 1
-data.zfaj.txt 1
-data.zfas.txt 1
-data.zfaw.txt 1
+data.by.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zdkc.txt 2.5727503226135906
+data.zdpw.txt 2.5727503226135906
+data.zdtv.txt 2.5727503226135906
+data.zeac.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zewd.txt 2.5727503226135906
+data.zezh.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906
+data.zfaw.txt 2.5727503226135906

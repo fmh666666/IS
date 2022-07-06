@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.uz.txt 1
-data.zbup.txt 1
-data.zbvm.txt 2
-data.zcee.txt 2
-data.zcqg.txt 1
-data.zddx.txt 1
-data.zeec.txt 1
+data.ft.txt 2.9092786962624935
+data.uz.txt 2.9092786962624935
+data.zbup.txt 2.9092786962624935
+data.zbvm.txt 4.611097637722987
+data.zcee.txt 4.611097637722987
+data.zcqg.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935

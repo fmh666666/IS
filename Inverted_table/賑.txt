@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.zcfx.txt 3
-data.zerw.txt 1
+data.hp.txt 3.5891377275982888
+data.zcfx.txt 7.1782754551965775
+data.zerw.txt 3.5891377275982888

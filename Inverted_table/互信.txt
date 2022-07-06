@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.zbes.txt 1
-data.zbzg.txt 1
-data.zbzo.txt 1
-data.zcdy.txt 1
-data.zdic.txt 1
-data.zesi.txt 2
-data.zexm.txt 2
+data.ka.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zbzo.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zdic.txt 2.9092786962624935
+data.zesi.txt 4.611097637722987
+data.zexm.txt 4.611097637722987

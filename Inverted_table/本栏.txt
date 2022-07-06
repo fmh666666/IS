@@ -1,5 +1,5 @@
 4
-data.mk.txt 1
-data.ry.txt 1
-data.zcft.txt 2
-data.zcln.txt 1
+data.mk.txt 3.389731710180695
+data.ry.txt 3.389731710180695
+data.zcft.txt 5.372597648141796
+data.zcln.txt 3.389731710180695

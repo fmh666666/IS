@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.zank.txt 1
-data.zbpx.txt 1
-data.zczp.txt 1
-data.zdey.txt 2
-data.zdju.txt 2
-data.zdpf.txt 1
-data.zebf.txt 1
+data.ka.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdey.txt 4.611097637722987
+data.zdju.txt 4.611097637722987
+data.zdpf.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

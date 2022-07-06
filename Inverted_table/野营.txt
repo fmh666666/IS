@@ -1,10 +1,10 @@
 9
-data.dg.txt 1
-data.zagr.txt 2
-data.zaqf.txt 1
-data.zarc.txt 2
-data.zazn.txt 2
-data.zazw.txt 1
-data.zcdv.txt 1
-data.zczl.txt 1
-data.zdtr.txt 1
+data.dg.txt 2.82763771717948
+data.zagr.txt 4.48169974735425
+data.zaqf.txt 2.82763771717948
+data.zarc.txt 4.48169974735425
+data.zazn.txt 4.48169974735425
+data.zazw.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdtr.txt 2.82763771717948

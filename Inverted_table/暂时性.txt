@@ -1,12 +1,12 @@
 11
-data.zair.txt 1
-data.zajh.txt 1
-data.zawo.txt 1
-data.zbaf.txt 1
-data.zbjh.txt 1
-data.zcku.txt 1
-data.zdou.txt 3
-data.zebv.txt 2
-data.zedy.txt 1
-data.zegl.txt 1
-data.zfcg.txt 1
+data.zair.txt 2.6885433903988862
+data.zajh.txt 2.6885433903988862
+data.zawo.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zdou.txt 5.3770867807977725
+data.zebv.txt 4.261240455343955
+data.zedy.txt 2.6885433903988862
+data.zegl.txt 2.6885433903988862
+data.zfcg.txt 2.6885433903988862

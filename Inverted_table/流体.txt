@@ -1,14 +1,14 @@
 13
-data.cf.txt 1
-data.ga.txt 1
-data.hu.txt 1
-data.qn.txt 1
-data.zafe.txt 1
-data.zajh.txt 1
-data.zbia.txt 5
-data.zbye.txt 2
-data.zbyv.txt 1
-data.zdnh.txt 1
-data.zeew.txt 1
-data.zehp.txt 6
-data.zfai.txt 1
+data.cf.txt 2.5727503226135906
+data.ga.txt 2.5727503226135906
+data.hu.txt 2.5727503226135906
+data.qn.txt 2.5727503226135906
+data.zafe.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zbia.txt 6.650463107674388
+data.zbye.txt 4.077712785060798
+data.zbyv.txt 2.5727503226135906
+data.zdnh.txt 2.5727503226135906
+data.zeew.txt 2.5727503226135906
+data.zehp.txt 7.222623281414552
+data.zfai.txt 2.5727503226135906

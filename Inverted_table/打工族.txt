@@ -1,5 +1,5 @@
 4
-data.zbnp.txt 1
-data.zcmx.txt 1
-data.zcpb.txt 1
-data.zene.txt 1
+data.zbnp.txt 3.389731710180695
+data.zcmx.txt 3.389731710180695
+data.zcpb.txt 3.389731710180695
+data.zene.txt 3.389731710180695

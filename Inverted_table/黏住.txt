@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.zbjc.txt 1
-data.zbwa.txt 1
-data.zcsu.txt 2
-data.zekw.txt 1
-data.zfas.txt 1
+data.ka.txt 3.1086847136800873
+data.zbjc.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zcsu.txt 4.927148697748023
+data.zekw.txt 3.1086847136800873
+data.zfas.txt 3.1086847136800873

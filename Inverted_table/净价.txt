@@ -1,8 +1,8 @@
 7
-data.ye.txt 1
-data.zbfr.txt 1
-data.zbhv.txt 1
-data.zbkf.txt 1
-data.zedd.txt 1
-data.zewv.txt 1
-data.zezn.txt 1
+data.ye.txt 3.0018356045764243
+data.zbfr.txt 3.0018356045764243
+data.zbhv.txt 3.0018356045764243
+data.zbkf.txt 3.0018356045764243
+data.zedd.txt 3.0018356045764243
+data.zewv.txt 3.0018356045764243
+data.zezn.txt 3.0018356045764243

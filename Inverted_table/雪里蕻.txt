@@ -1,8 +1,8 @@
 7
-data.ok.txt 1
-data.qn.txt 1
-data.zcpc.txt 1
-data.zddx.txt 1
-data.zeeq.txt 2
-data.zegz.txt 1
-data.zewg.txt 1
+data.ok.txt 3.0018356045764243
+data.qn.txt 3.0018356045764243
+data.zcpc.txt 3.0018356045764243
+data.zddx.txt 3.0018356045764243
+data.zeeq.txt 4.757796866583254
+data.zegz.txt 3.0018356045764243
+data.zewg.txt 3.0018356045764243

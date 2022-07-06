@@ -1,4 +1,4 @@
 3
-data.zasr.txt 1
-data.zcgi.txt 1
-data.zdst.txt 1
+data.zasr.txt 3.5891377275982888
+data.zcgi.txt 3.5891377275982888
+data.zdst.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zbjh.txt 2
-data.zcic.txt 1
-data.zcmy.txt 2
-data.zdwd.txt 1
-data.zehb.txt 1
+data.zbjh.txt 5.1274494005309625
+data.zcic.txt 3.235060386727117
+data.zcmy.txt 5.1274494005309625
+data.zdwd.txt 3.235060386727117
+data.zehb.txt 3.235060386727117

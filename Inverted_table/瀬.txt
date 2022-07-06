@@ -1,7 +1,7 @@
 6
-data.zbel.txt 1
-data.zbnp.txt 1
-data.zcic.txt 3
-data.zcrn.txt 2
-data.zdkp.txt 1
-data.zeqh.txt 1
+data.zbel.txt 3.1086847136800873
+data.zbnp.txt 3.1086847136800873
+data.zcic.txt 6.2173694273601745
+data.zcrn.txt 4.927148697748023
+data.zdkp.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873

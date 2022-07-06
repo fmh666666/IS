@@ -1,5 +1,5 @@
 4
-data.zafl.txt 1
-data.zclm.txt 1
-data.zebv.txt 1
-data.zeik.txt 1
+data.zafl.txt 3.389731710180695
+data.zclm.txt 3.389731710180695
+data.zebv.txt 3.389731710180695
+data.zeik.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.ew.txt 1
-data.zctp.txt 1
-data.zfai.txt 1
+data.ew.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

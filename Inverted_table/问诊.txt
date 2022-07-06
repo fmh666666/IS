@@ -1,9 +1,9 @@
 8
-data.zafe.txt 1
-data.zall.txt 1
-data.zamr.txt 3
-data.zaqr.txt 1
-data.zazn.txt 1
-data.zcao.txt 3
-data.zene.txt 1
-data.zeqn.txt 1
+data.zafe.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zamr.txt 5.818557392524987
+data.zaqr.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zcao.txt 5.818557392524987
+data.zene.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935

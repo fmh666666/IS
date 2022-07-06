@@ -1,14 +1,14 @@
 13
-data.dg.txt 1
-data.tv.txt 1
-data.zako.txt 1
-data.zasw.txt 1
-data.zbkf.txt 1
-data.zcmx.txt 1
-data.zdgp.txt 1
-data.zdod.txt 1
-data.zedd.txt 1
-data.zeoh.txt 1
-data.zesi.txt 1
-data.zewn.txt 1
-data.zewv.txt 1
+data.dg.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zbkf.txt 2.5727503226135906
+data.zcmx.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zedd.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zesi.txt 2.5727503226135906
+data.zewn.txt 2.5727503226135906
+data.zewv.txt 2.5727503226135906

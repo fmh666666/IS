@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.zawu.txt 1
-data.zbga.txt 1
-data.zcrn.txt 1
-data.zezn.txt 4
+data.hu.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zbga.txt 3.235060386727117
+data.zcrn.txt 3.235060386727117
+data.zezn.txt 7.511577600598868

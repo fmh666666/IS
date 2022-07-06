@@ -1,5 +1,5 @@
 4
-data.zbqu.txt 1
-data.zcls.txt 1
-data.zdux.txt 1
-data.zeec.txt 1
+data.zbqu.txt 3.389731710180695
+data.zcls.txt 3.389731710180695
+data.zdux.txt 3.389731710180695
+data.zeec.txt 3.389731710180695

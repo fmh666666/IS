@@ -1,7 +1,7 @@
 6
-data.zapl.txt 1
-data.zauy.txt 1
-data.zbpm.txt 1
-data.zbtx.txt 1
-data.zcon.txt 1
-data.zerw.txt 2
+data.zapl.txt 3.1086847136800873
+data.zauy.txt 3.1086847136800873
+data.zbpm.txt 3.1086847136800873
+data.zbtx.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zerw.txt 4.927148697748023

@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zafq.txt 2
-data.zawb.txt 1
+data.op.txt 3.5891377275982888
+data.zafq.txt 5.688648708166832
+data.zawb.txt 3.5891377275982888

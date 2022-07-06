@@ -1,5 +1,5 @@
 4
-data.zafi.txt 1
-data.zazn.txt 2
-data.zbse.txt 1
-data.zcll.txt 1
+data.zafi.txt 3.389731710180695
+data.zazn.txt 5.372597648141796
+data.zbse.txt 3.389731710180695
+data.zcll.txt 3.389731710180695

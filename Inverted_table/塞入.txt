@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.zaxk.txt 1
-data.zbmw.txt 1
-data.zbvg.txt 1
-data.zcni.txt 1
-data.zczj.txt 1
-data.zdil.txt 1
-data.zdmw.txt 2
-data.zefv.txt 1
-data.zehb.txt 1
+data.fp.txt 2.7546073728089153
+data.zaxk.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zczj.txt 2.7546073728089153
+data.zdil.txt 2.7546073728089153
+data.zdmw.txt 4.365949390112154
+data.zefv.txt 2.7546073728089153
+data.zehb.txt 2.7546073728089153

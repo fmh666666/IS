@@ -1,5 +1,5 @@
 4
-data.zbts.txt 11
-data.zdlw.txt 1
-data.zdpz.txt 1
-data.zdtv.txt 1
+data.zbts.txt 12.152061068503187
+data.zdlw.txt 3.389731710180695
+data.zdpz.txt 3.389731710180695
+data.zdtv.txt 3.389731710180695

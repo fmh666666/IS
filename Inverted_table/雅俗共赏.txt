@@ -1,5 +1,5 @@
 4
-data.zabx.txt 1
-data.zbhd.txt 2
-data.zcni.txt 1
-data.zddv.txt 1
+data.zabx.txt 3.389731710180695
+data.zbhd.txt 5.372597648141796
+data.zcni.txt 3.389731710180695
+data.zddv.txt 3.389731710180695

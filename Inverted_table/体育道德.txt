@@ -1,4 +1,4 @@
 3
-data.zccx.txt 1
-data.zcyv.txt 1
-data.zdep.txt 1
+data.zccx.txt 3.5891377275982888
+data.zcyv.txt 3.5891377275982888
+data.zdep.txt 3.5891377275982888

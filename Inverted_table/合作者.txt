@@ -1,10 +1,10 @@
 9
-data.zbfg.txt 1
-data.zblq.txt 1
-data.zbpx.txt 1
-data.zbvf.txt 1
-data.zcem.txt 1
-data.zcsu.txt 3
-data.zdqz.txt 1
-data.zebn.txt 1
-data.zeos.txt 1
+data.zbfg.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zbpx.txt 2.82763771717948
+data.zbvf.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcsu.txt 5.65527543435896
+data.zdqz.txt 2.82763771717948
+data.zebn.txt 2.82763771717948
+data.zeos.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.zass.txt 1
-data.zavg.txt 1
-data.zcej.txt 1
-data.zess.txt 2
+data.fe.txt 3.235060386727117
+data.zass.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zcej.txt 3.235060386727117
+data.zess.txt 5.1274494005309625

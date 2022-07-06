@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zajo.txt 1
-data.zalj.txt 2
-data.zaxp.txt 1
-data.zcln.txt 2
-data.zdlo.txt 1
-data.zdpz.txt 1
-data.zduk.txt 1
+data.kq.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zalj.txt 4.611097637722987
+data.zaxp.txt 2.9092786962624935
+data.zcln.txt 4.611097637722987
+data.zdlo.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935

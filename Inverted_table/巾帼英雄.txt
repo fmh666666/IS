@@ -1,5 +1,5 @@
 4
-data.zagr.txt 1
-data.zbnp.txt 1
-data.zcxr.txt 1
-data.zexm.txt 1
+data.zagr.txt 3.389731710180695
+data.zbnp.txt 3.389731710180695
+data.zcxr.txt 3.389731710180695
+data.zexm.txt 3.389731710180695

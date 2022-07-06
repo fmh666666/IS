@@ -1,6 +1,6 @@
 5
-data.zafk.txt 1
-data.zafy.txt 1
-data.zaoy.txt 1
-data.zctm.txt 1
-data.zezy.txt 1
+data.zafk.txt 3.235060386727117
+data.zafy.txt 3.235060386727117
+data.zaoy.txt 3.235060386727117
+data.zctm.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

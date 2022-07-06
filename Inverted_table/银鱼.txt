@@ -1,12 +1,12 @@
 11
-data.zasw.txt 2
-data.zbia.txt 1
-data.zcql.txt 1
-data.zcsr.txt 1
-data.zdby.txt 1
-data.zdkv.txt 4
-data.zdmw.txt 1
-data.zduo.txt 12
-data.zedk.txt 5
-data.zene.txt 1
-data.zeta.txt 2
+data.zasw.txt 4.261240455343955
+data.zbia.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zcsr.txt 2.6885433903988862
+data.zdby.txt 2.6885433903988862
+data.zdkv.txt 6.2426044324908965
+data.zdmw.txt 2.6885433903988862
+data.zduo.txt 9.948792745777752
+data.zedk.txt 6.949783845742841
+data.zene.txt 2.6885433903988862
+data.zeta.txt 4.261240455343955

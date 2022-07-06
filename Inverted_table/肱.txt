@@ -1,10 +1,10 @@
 9
-data.gk.txt 1
-data.mx.txt 2
-data.zaxk.txt 1
-data.zbsf.txt 1
-data.zcem.txt 1
-data.zcxp.txt 1
-data.zdnh.txt 1
-data.zekw.txt 2
-data.zezf.txt 1
+data.gk.txt 2.82763771717948
+data.mx.txt 4.48169974735425
+data.zaxk.txt 2.82763771717948
+data.zbsf.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcxp.txt 2.82763771717948
+data.zdnh.txt 2.82763771717948
+data.zekw.txt 4.48169974735425
+data.zezf.txt 2.82763771717948

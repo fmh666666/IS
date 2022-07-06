@@ -1,4 +1,4 @@
 3
-data.zaql.txt 1
-data.zbsu.txt 1
-data.zcdv.txt 1
+data.zaql.txt 3.5891377275982888
+data.zbsu.txt 3.5891377275982888
+data.zcdv.txt 3.5891377275982888

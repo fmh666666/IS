@@ -1,12 +1,12 @@
 11
-data.fz.txt 1
-data.qn.txt 1
-data.zajo.txt 1
-data.zawu.txt 1
-data.zaxp.txt 1
-data.zbvn.txt 3
-data.zbvp.txt 1
-data.zdcy.txt 2
-data.zeag.txt 2
-data.zeoh.txt 3
-data.zfcp.txt 2
+data.fz.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zbvn.txt 5.3770867807977725
+data.zbvp.txt 2.6885433903988862
+data.zdcy.txt 4.261240455343955
+data.zeag.txt 4.261240455343955
+data.zeoh.txt 5.3770867807977725
+data.zfcp.txt 4.261240455343955

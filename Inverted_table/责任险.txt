@@ -1,2 +1,2 @@
 1
-data.zbkf.txt 1
+data.zbkf.txt 4.350637738017098

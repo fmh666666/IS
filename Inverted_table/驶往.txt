@@ -1,7 +1,7 @@
 6
-data.hz.txt 2
-data.zbsm.txt 1
-data.zcrn.txt 1
-data.zdcj.txt 1
-data.zddb.txt 1
-data.zexv.txt 1
+data.hz.txt 4.927148697748023
+data.zbsm.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873
+data.zddb.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

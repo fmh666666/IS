@@ -1,5 +1,5 @@
 4
-data.to.txt 2
-data.zcql.txt 2
-data.zctp.txt 3
-data.zcts.txt 1
+data.to.txt 5.372597648141796
+data.zcql.txt 5.372597648141796
+data.zctp.txt 6.77946342036139
+data.zcts.txt 3.389731710180695

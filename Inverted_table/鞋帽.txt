@@ -1,10 +1,10 @@
 9
-data.sq.txt 1
-data.zajr.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zctm.txt 1
-data.zdgp.txt 1
-data.zdqx.txt 1
-data.zdtv.txt 1
-data.zeyu.txt 1
+data.sq.txt 2.82763771717948
+data.zajr.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zdtv.txt 2.82763771717948
+data.zeyu.txt 2.82763771717948

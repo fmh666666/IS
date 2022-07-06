@@ -1,7 +1,7 @@
 6
-data.zabe.txt 2
-data.zbhd.txt 1
-data.zbhv.txt 1
-data.zbvn.txt 1
-data.zcxq.txt 1
-data.zdnh.txt 2
+data.zabe.txt 4.927148697748023
+data.zbhd.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zbvn.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zdnh.txt 4.927148697748023

@@ -1,4 +1,4 @@
 3
-data.dg.txt 1
-data.zako.txt 2
-data.zbmt.txt 1
+data.dg.txt 3.5891377275982888
+data.zako.txt 5.688648708166832
+data.zbmt.txt 3.5891377275982888

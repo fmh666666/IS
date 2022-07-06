@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.ff.txt 1
-data.vz.txt 1
-data.zbhv.txt 1
-data.zbqu.txt 1
-data.zbwq.txt 1
-data.zbzo.txt 1
-data.zcao.txt 1
-data.zdep.txt 1
-data.zdux.txt 1
-data.zevq.txt 2
+data.dg.txt 2.6885433903988862
+data.ff.txt 2.6885433903988862
+data.vz.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zbwq.txt 2.6885433903988862
+data.zbzo.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zdux.txt 2.6885433903988862
+data.zevq.txt 4.261240455343955

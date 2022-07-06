@@ -1,9 +1,9 @@
 8
-data.zabx.txt 1
-data.zajo.txt 1
-data.zbcc.txt 1
-data.zbof.txt 1
-data.zccu.txt 1
-data.zcej.txt 2
-data.zcgo.txt 2
-data.zdaq.txt 1
+data.zabx.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcej.txt 4.611097637722987
+data.zcgo.txt 4.611097637722987
+data.zdaq.txt 2.9092786962624935

@@ -1,8 +1,8 @@
 7
-data.zasq.txt 2
-data.zaxj.txt 1
-data.zbil.txt 1
-data.zbua.txt 1
-data.zcel.txt 1
-data.zcvq.txt 1
-data.zexm.txt 3
+data.zasq.txt 4.757796866583254
+data.zaxj.txt 3.0018356045764243
+data.zbil.txt 3.0018356045764243
+data.zbua.txt 3.0018356045764243
+data.zcel.txt 3.0018356045764243
+data.zcvq.txt 3.0018356045764243
+data.zexm.txt 6.003671209152849

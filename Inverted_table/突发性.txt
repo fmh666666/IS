@@ -1,5 +1,5 @@
 4
-data.zank.txt 1
-data.zcni.txt 1
-data.zcue.txt 2
-data.zeam.txt 1
+data.zank.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zcue.txt 5.372597648141796
+data.zeam.txt 3.389731710180695

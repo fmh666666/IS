@@ -1,13 +1,13 @@
 12
-data.wc.txt 1
-data.zabe.txt 1
-data.zacw.txt 1
-data.zaic.txt 1
-data.zaim.txt 1
-data.zair.txt 1
-data.zawc.txt 1
-data.zblr.txt 1
-data.zbzf.txt 1
-data.zcft.txt 1
-data.zcpc.txt 1
-data.zdou.txt 1
+data.wc.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zair.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcft.txt 2.628231699761886
+data.zcpc.txt 2.628231699761886
+data.zdou.txt 2.628231699761886

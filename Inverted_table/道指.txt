@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zasj.txt 1
-data.zazn.txt 2
-data.zbeb.txt 3
-data.zbhd.txt 2
-data.zcdz.txt 1
-data.zelt.txt 1
-data.zexv.txt 1
+data.kq.txt 2.9092786962624935
+data.zasj.txt 2.9092786962624935
+data.zazn.txt 4.611097637722987
+data.zbeb.txt 5.818557392524987
+data.zbhd.txt 4.611097637722987
+data.zcdz.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935

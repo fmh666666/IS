@@ -1,5 +1,5 @@
 4
-data.ee.txt 1
-data.tv.txt 2
-data.zagb.txt 1
-data.zdod.txt 2
+data.ee.txt 3.389731710180695
+data.tv.txt 5.372597648141796
+data.zagb.txt 3.389731710180695
+data.zdod.txt 5.372597648141796

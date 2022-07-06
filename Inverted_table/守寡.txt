@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zako.txt 1
-data.zaop.txt 1
-data.zbdb.txt 1
-data.zeoh.txt 2
+data.zaim.txt 3.235060386727117
+data.zako.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zeoh.txt 5.1274494005309625

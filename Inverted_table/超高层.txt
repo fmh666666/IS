@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zaqp.txt 1
-data.zccu.txt 1
-data.zcmy.txt 1
-data.zezy.txt 1
+data.zabe.txt 3.235060386727117
+data.zaqp.txt 3.235060386727117
+data.zccu.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

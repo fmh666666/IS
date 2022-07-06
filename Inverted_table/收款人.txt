@@ -1,11 +1,11 @@
 10
-data.zadv.txt 2
-data.zafq.txt 1
-data.zawc.txt 3
-data.zccx.txt 3
-data.zcoy.txt 3
-data.zdgt.txt 3
-data.zdkv.txt 3
-data.zdoq.txt 2
-data.zduc.txt 3
-data.zfaz.txt 3
+data.zadv.txt 4.365949390112154
+data.zafq.txt 2.7546073728089153
+data.zawc.txt 5.509214745617831
+data.zccx.txt 5.509214745617831
+data.zcoy.txt 5.509214745617831
+data.zdgt.txt 5.509214745617831
+data.zdkv.txt 5.509214745617831
+data.zdoq.txt 4.365949390112154
+data.zduc.txt 5.509214745617831
+data.zfaz.txt 5.509214745617831

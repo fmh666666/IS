@@ -1,10 +1,10 @@
 9
-data.jd.txt 1
-data.zbcj.txt 1
-data.zcgo.txt 1
-data.zciy.txt 1
-data.zcve.txt 1
-data.zdkp.txt 1
-data.zebv.txt 1
-data.zedo.txt 1
-data.zess.txt 1
+data.jd.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zdkp.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zess.txt 2.82763771717948

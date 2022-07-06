@@ -1,4 +1,4 @@
 3
-data.zall.txt 1
-data.zezy.txt 2
-data.zfas.txt 2
+data.zall.txt 3.5891377275982888
+data.zezy.txt 5.688648708166832
+data.zfas.txt 5.688648708166832

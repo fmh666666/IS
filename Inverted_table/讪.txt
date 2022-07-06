@@ -1,9 +1,9 @@
 8
-data.sq.txt 2
-data.zapf.txt 2
-data.zawb.txt 2
-data.zbph.txt 2
-data.zccu.txt 2
-data.zddm.txt 2
-data.zdkv.txt 2
-data.zeez.txt 2
+data.sq.txt 4.611097637722987
+data.zapf.txt 4.611097637722987
+data.zawb.txt 4.611097637722987
+data.zbph.txt 4.611097637722987
+data.zccu.txt 4.611097637722987
+data.zddm.txt 4.611097637722987
+data.zdkv.txt 4.611097637722987
+data.zeez.txt 4.611097637722987

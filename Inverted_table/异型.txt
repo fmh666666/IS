@@ -1,8 +1,8 @@
 7
-data.tv.txt 1
-data.zagr.txt 1
-data.zasj.txt 9
-data.zbha.txt 2
-data.zcni.txt 1
-data.zene.txt 1
-data.zenw.txt 1
+data.tv.txt 3.0018356045764243
+data.zagr.txt 3.0018356045764243
+data.zasj.txt 9.971882031075616
+data.zbha.txt 4.757796866583254
+data.zcni.txt 3.0018356045764243
+data.zene.txt 3.0018356045764243
+data.zenw.txt 3.0018356045764243

@@ -1,7 +1,7 @@
 6
-data.zalm.txt 1
-data.zchd.txt 1
-data.zcpa.txt 1
-data.zdaa.txt 3
-data.zdlm.txt 1
-data.zduk.txt 4
+data.zalm.txt 3.1086847136800873
+data.zchd.txt 3.1086847136800873
+data.zcpa.txt 3.1086847136800873
+data.zdaa.txt 6.2173694273601745
+data.zdlm.txt 3.1086847136800873
+data.zduk.txt 7.21814237484067

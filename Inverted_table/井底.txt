@@ -1,11 +1,11 @@
 10
-data.hp.txt 2
-data.zabe.txt 1
-data.zanh.txt 1
-data.zawu.txt 1
-data.zbhe.txt 2
-data.zbil.txt 2
-data.zcue.txt 1
-data.zdgp.txt 1
-data.zemb.txt 1
-data.zfae.txt 1
+data.hp.txt 4.365949390112154
+data.zabe.txt 2.7546073728089153
+data.zanh.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbhe.txt 4.365949390112154
+data.zbil.txt 4.365949390112154
+data.zcue.txt 2.7546073728089153
+data.zdgp.txt 2.7546073728089153
+data.zemb.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153

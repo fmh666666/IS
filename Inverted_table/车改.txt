@@ -1,8 +1,8 @@
 7
-data.zbts.txt 1
-data.zbvf.txt 1
-data.zcej.txt 3
-data.zcpb.txt 1
-data.zcue.txt 1
-data.zejn.txt 1
-data.zexk.txt 1
+data.zbts.txt 3.0018356045764243
+data.zbvf.txt 3.0018356045764243
+data.zcej.txt 6.003671209152849
+data.zcpb.txt 3.0018356045764243
+data.zcue.txt 3.0018356045764243
+data.zejn.txt 3.0018356045764243
+data.zexk.txt 3.0018356045764243

@@ -1,12 +1,12 @@
 11
-data.fe.txt 1
-data.zako.txt 1
-data.zbkv.txt 1
-data.zbpx.txt 1
-data.zbts.txt 1
-data.zcrv.txt 12
-data.zctn.txt 1
-data.zczl.txt 1
-data.zdme.txt 1
-data.zduk.txt 1
-data.zeag.txt 1
+data.fe.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zcrv.txt 9.948792745777752
+data.zctn.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862

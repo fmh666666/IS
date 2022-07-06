@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zabe.txt 1
-data.zaic.txt 1
-data.zate.txt 1
-data.zbds.txt 1
-data.zcak.txt 1
-data.zcko.txt 1
-data.zdme.txt 1
+data.ry.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zate.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935

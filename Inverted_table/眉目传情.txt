@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zawb.txt 1
-data.zdll.txt 1
-data.zegk.txt 1
-data.zevq.txt 1
+data.zalt.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zdll.txt 3.235060386727117
+data.zegk.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

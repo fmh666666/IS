@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.tv.txt 3
-data.tz.txt 1
-data.zbcv.txt 1
-data.zczp.txt 1
-data.zdji.txt 2
-data.zdlm.txt 1
-data.zeam.txt 1
+data.aj.txt 2.9092786962624935
+data.tv.txt 5.818557392524987
+data.tz.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zczp.txt 2.9092786962624935
+data.zdji.txt 4.611097637722987
+data.zdlm.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935

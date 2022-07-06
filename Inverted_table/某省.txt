@@ -1,5 +1,5 @@
 4
-data.zasq.txt 1
-data.zbeb.txt 1
-data.zcxr.txt 1
-data.zdtr.txt 1
+data.zasq.txt 3.389731710180695
+data.zbeb.txt 3.389731710180695
+data.zcxr.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695

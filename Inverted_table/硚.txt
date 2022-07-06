@@ -1,6 +1,6 @@
 5
-data.zbvf.txt 1
-data.zbvg.txt 1
-data.zbzf.txt 1
-data.zdst.txt 1
-data.zeid.txt 1
+data.zbvf.txt 3.235060386727117
+data.zbvg.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zdst.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

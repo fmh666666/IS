@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.op.txt 1
-data.zabe.txt 1
-data.zahd.txt 1
-data.zcxq.txt 1
-data.zcxr.txt 1
-data.zdcy.txt 2
-data.zddm.txt 1
+data.hp.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zcxq.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdcy.txt 4.611097637722987
+data.zddm.txt 2.9092786962624935

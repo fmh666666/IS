@@ -1,5 +1,5 @@
 4
-data.zaxx.txt 1
-data.zbnp.txt 1
-data.zcni.txt 1
-data.zdlw.txt 2
+data.zaxx.txt 3.389731710180695
+data.zbnp.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zdlw.txt 5.372597648141796

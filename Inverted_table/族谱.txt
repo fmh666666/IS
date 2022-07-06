@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.ga.txt 1
-data.zabe.txt 1
-data.zadv.txt 2
-data.zbkv.txt 1
+data.ew.txt 3.235060386727117
+data.ga.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zadv.txt 5.1274494005309625
+data.zbkv.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.dg.txt 3
-data.hz.txt 1
-data.zawb.txt 1
-data.zbcv.txt 1
-data.zbta.txt 1
-data.zbzg.txt 1
-data.zcee.txt 1
-data.zcue.txt 1
-data.zelt.txt 1
+data.dg.txt 5.65527543435896
+data.hz.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zbta.txt 2.82763771717948
+data.zbzg.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zelt.txt 2.82763771717948

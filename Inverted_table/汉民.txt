@@ -1,9 +1,9 @@
 8
-data.be.txt 3
-data.tv.txt 1
-data.zafq.txt 1
-data.zaxj.txt 1
-data.zaxp.txt 1
-data.zbfx.txt 1
-data.zbre.txt 1
-data.zeoh.txt 1
+data.be.txt 5.818557392524987
+data.tv.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

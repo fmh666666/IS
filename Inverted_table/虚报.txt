@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.zako.txt 1
-data.zaxx.txt 2
-data.zbpx.txt 1
-data.zehj.txt 1
-data.zelt.txt 2
+data.ha.txt 3.1086847136800873
+data.zako.txt 3.1086847136800873
+data.zaxx.txt 4.927148697748023
+data.zbpx.txt 3.1086847136800873
+data.zehj.txt 3.1086847136800873
+data.zelt.txt 4.927148697748023

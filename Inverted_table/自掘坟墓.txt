@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.ga.txt 1
-data.zacw.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zbre.txt 1
-data.zcbm.txt 1
-data.zcku.txt 1
-data.zddm.txt 2
-data.zdkv.txt 1
-data.zeik.txt 1
+data.be.txt 2.6885433903988862
+data.ga.txt 2.6885433903988862
+data.zacw.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbhe.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zcbm.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zddm.txt 4.261240455343955
+data.zdkv.txt 2.6885433903988862
+data.zeik.txt 2.6885433903988862

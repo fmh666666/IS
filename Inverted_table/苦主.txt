@@ -1,7 +1,7 @@
 6
-data.mu.txt 1
-data.zabe.txt 1
-data.zawc.txt 2
-data.zbeb.txt 1
-data.zcqs.txt 1
-data.zdil.txt 1
+data.mu.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zawc.txt 4.927148697748023
+data.zbeb.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zaxk.txt 2
-data.zazn.txt 1
-data.zbyb.txt 1
-data.zdcy.txt 1
-data.zddb.txt 1
+data.fp.txt 3.1086847136800873
+data.zaxk.txt 4.927148697748023
+data.zazn.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zdcy.txt 3.1086847136800873
+data.zddb.txt 3.1086847136800873

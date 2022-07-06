@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zadv.txt 2
-data.zalt.txt 2
-data.zdby.txt 1
-data.zefp.txt 1
+data.zacw.txt 3.235060386727117
+data.zadv.txt 5.1274494005309625
+data.zalt.txt 5.1274494005309625
+data.zdby.txt 3.235060386727117
+data.zefp.txt 3.235060386727117

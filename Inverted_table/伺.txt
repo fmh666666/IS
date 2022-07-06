@@ -1,9 +1,9 @@
 8
-data.zapl.txt 1
-data.zasr.txt 1
-data.zawu.txt 1
-data.zbdx.txt 1
-data.zdgv.txt 1
-data.zdnh.txt 1
-data.zdpw.txt 1
-data.zdtr.txt 1
+data.zapl.txt 2.9092786962624935
+data.zasr.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zbdx.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zdnh.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935

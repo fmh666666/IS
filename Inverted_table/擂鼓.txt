@@ -1,12 +1,12 @@
 11
-data.jd.txt 1
-data.zabe.txt 1
-data.zbhv.txt 1
-data.zbse.txt 1
-data.zcrn.txt 1
-data.zdcw.txt 1
-data.zdzn.txt 1
-data.zeqv.txt 1
-data.zerv.txt 2
-data.zewv.txt 1
-data.zezy.txt 1
+data.jd.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbse.txt 2.6885433903988862
+data.zcrn.txt 2.6885433903988862
+data.zdcw.txt 2.6885433903988862
+data.zdzn.txt 2.6885433903988862
+data.zeqv.txt 2.6885433903988862
+data.zerv.txt 4.261240455343955
+data.zewv.txt 2.6885433903988862
+data.zezy.txt 2.6885433903988862

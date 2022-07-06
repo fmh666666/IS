@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.zahd.txt 1
-data.zaim.txt 1
-data.zaub.txt 1
-data.zbdx.txt 1
-data.zcmx.txt 1
-data.zcse.txt 1
-data.zcue.txt 1
-data.zebf.txt 1
-data.zeeh.txt 1
-data.zewn.txt 1
+data.aj.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zaub.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862

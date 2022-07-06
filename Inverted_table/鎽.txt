@@ -1,6 +1,6 @@
 5
-data.zamp.txt 1
-data.zbua.txt 2
-data.zcgi.txt 1
-data.zdeq.txt 1
-data.zdst.txt 1
+data.zamp.txt 3.235060386727117
+data.zbua.txt 5.1274494005309625
+data.zcgi.txt 3.235060386727117
+data.zdeq.txt 3.235060386727117
+data.zdst.txt 3.235060386727117

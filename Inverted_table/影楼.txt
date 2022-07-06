@@ -1,10 +1,10 @@
 9
-data.hu.txt 1
-data.mo.txt 2
-data.zbsl.txt 1
-data.zbwq.txt 1
-data.zcoy.txt 1
-data.zcxp.txt 1
-data.zczl.txt 1
-data.zdrq.txt 1
-data.zefs.txt 1
+data.hu.txt 2.82763771717948
+data.mo.txt 4.48169974735425
+data.zbsl.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zcoy.txt 2.82763771717948
+data.zcxp.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zefs.txt 2.82763771717948

@@ -1,9 +1,9 @@
 8
-data.vz.txt 1
-data.zacd.txt 1
-data.zapl.txt 1
-data.zawu.txt 1
-data.zayd.txt 1
-data.zbjh.txt 1
-data.zbqu.txt 1
-data.zebc.txt 1
+data.vz.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935

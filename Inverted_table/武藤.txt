@@ -1,7 +1,7 @@
 6
-data.zaoy.txt 1
-data.zccu.txt 1
-data.zckd.txt 1
-data.zdof.txt 1
-data.zeam.txt 1
-data.zeoo.txt 1
+data.zaoy.txt 3.1086847136800873
+data.zccu.txt 3.1086847136800873
+data.zckd.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zeoo.txt 3.1086847136800873

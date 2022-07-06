@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.zbdb.txt 1
-data.zcda.txt 1
-data.zcuh.txt 1
-data.zfas.txt 1
+data.ew.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zcda.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

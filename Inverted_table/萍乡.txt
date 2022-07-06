@@ -1,4 +1,4 @@
 3
-data.zblr.txt 1
-data.zbnx.txt 1
-data.zelt.txt 2
+data.zblr.txt 3.5891377275982888
+data.zbnx.txt 3.5891377275982888
+data.zelt.txt 5.688648708166832

@@ -1,2 +1,2 @@
 1
-data.cz.txt 4
+data.cz.txt 10.101867994579104

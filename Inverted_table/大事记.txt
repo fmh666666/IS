@@ -1,6 +1,6 @@
 5
-data.zbor.txt 1
-data.zbzo.txt 1
-data.zcls.txt 1
-data.zctm.txt 2
-data.zeob.txt 1
+data.zbor.txt 3.235060386727117
+data.zbzo.txt 3.235060386727117
+data.zcls.txt 3.235060386727117
+data.zctm.txt 5.1274494005309625
+data.zeob.txt 3.235060386727117

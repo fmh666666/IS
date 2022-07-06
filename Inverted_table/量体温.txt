@@ -1,7 +1,7 @@
 6
-data.cn.txt 1
-data.zass.txt 1
-data.zbpx.txt 1
-data.zbta.txt 1
-data.zcql.txt 1
-data.zcue.txt 1
+data.cn.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zbta.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873

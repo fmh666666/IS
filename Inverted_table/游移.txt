@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.zarc.txt 1
-data.zbup.txt 1
-data.zbwa.txt 1
-data.zcbm.txt 1
-data.zcve.txt 1
+data.ev.txt 3.1086847136800873
+data.zarc.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zcbm.txt 3.1086847136800873
+data.zcve.txt 3.1086847136800873

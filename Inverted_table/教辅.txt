@@ -1,5 +1,5 @@
 4
-data.zcts.txt 2
-data.zdof.txt 1
-data.zdpw.txt 1
-data.zebc.txt 1
+data.zcts.txt 5.372597648141796
+data.zdof.txt 3.389731710180695
+data.zdpw.txt 3.389731710180695
+data.zebc.txt 3.389731710180695

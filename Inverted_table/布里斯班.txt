@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zbzf.txt 1
-data.zcao.txt 2
-data.zcue.txt 1
-data.zcuh.txt 1
-data.zdlm.txt 1
-data.zdux.txt 2
-data.zfaw.txt 4
+data.op.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zcao.txt 4.611097637722987
+data.zcue.txt 2.9092786962624935
+data.zcuh.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935
+data.zdux.txt 4.611097637722987
+data.zfaw.txt 6.7551359407091605

@@ -1,5 +1,5 @@
 4
-data.zajn.txt 6
-data.zbpp.txt 2
-data.zejn.txt 2
-data.zezf.txt 1
+data.zajn.txt 9.516180001030515
+data.zbpp.txt 5.372597648141796
+data.zejn.txt 5.372597648141796
+data.zezf.txt 3.389731710180695

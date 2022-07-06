@@ -1,9 +1,9 @@
 8
-data.hu.txt 2
-data.pa.txt 1
-data.zafq.txt 1
-data.zciq.txt 1
-data.zevq.txt 1
-data.zezf.txt 1
-data.zezm.txt 1
-data.zfcg.txt 1
+data.hu.txt 4.611097637722987
+data.pa.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935
+data.zezf.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

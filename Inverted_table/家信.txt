@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.zbds.txt 1
-data.zcdz.txt 1
-data.zdji.txt 2
-data.zedd.txt 2
+data.kq.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zdji.txt 5.1274494005309625
+data.zedd.txt 5.1274494005309625

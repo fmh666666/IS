@@ -1,10 +1,10 @@
 9
-data.cz.txt 1
-data.zajo.txt 1
-data.zbor.txt 1
-data.zbyv.txt 1
-data.zcsu.txt 1
-data.zdfl.txt 1
-data.zdsh.txt 1
-data.zezy.txt 5
-data.zfaj.txt 1
+data.cz.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zdsh.txt 2.82763771717948
+data.zezy.txt 7.309337464533731
+data.zfaj.txt 2.82763771717948

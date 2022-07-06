@@ -1,6 +1,6 @@
 5
-data.zbfz.txt 2
-data.zctp.txt 1
-data.zcts.txt 1
-data.zddb.txt 1
-data.zdvl.txt 1
+data.zbfz.txt 5.1274494005309625
+data.zctp.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117

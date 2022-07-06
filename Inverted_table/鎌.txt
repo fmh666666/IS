@@ -1,4 +1,4 @@
 3
-data.zazo.txt 1
-data.zbsu.txt 2
-data.zdof.txt 1
+data.zazo.txt 3.5891377275982888
+data.zbsu.txt 5.688648708166832
+data.zdof.txt 3.5891377275982888

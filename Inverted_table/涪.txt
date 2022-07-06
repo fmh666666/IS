@@ -1,5 +1,5 @@
 4
-data.ep.txt 1
-data.zaim.txt 9
-data.zaxx.txt 1
-data.zcse.txt 1
+data.ep.txt 3.389731710180695
+data.zaim.txt 11.260445002179837
+data.zaxx.txt 3.389731710180695
+data.zcse.txt 3.389731710180695

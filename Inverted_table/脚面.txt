@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.wg.txt 1
-data.zabx.txt 1
-data.zbua.txt 1
-data.zddp.txt 2
-data.zdkc.txt 1
+data.jf.txt 3.1086847136800873
+data.wg.txt 3.1086847136800873
+data.zabx.txt 3.1086847136800873
+data.zbua.txt 3.1086847136800873
+data.zddp.txt 4.927148697748023
+data.zdkc.txt 3.1086847136800873

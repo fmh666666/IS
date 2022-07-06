@@ -1,13 +1,13 @@
 12
-data.ft.txt 1
-data.hp.txt 1
-data.zahd.txt 1
-data.zbhd.txt 1
-data.zbot.txt 1
-data.zcao.txt 1
-data.zckd.txt 1
-data.zcpa.txt 1
-data.zdcy.txt 1
-data.zdxw.txt 1
-data.zedd.txt 1
-data.zety.txt 1
+data.ft.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zbot.txt 2.628231699761886
+data.zcao.txt 2.628231699761886
+data.zckd.txt 2.628231699761886
+data.zcpa.txt 2.628231699761886
+data.zdcy.txt 2.628231699761886
+data.zdxw.txt 2.628231699761886
+data.zedd.txt 2.628231699761886
+data.zety.txt 2.628231699761886

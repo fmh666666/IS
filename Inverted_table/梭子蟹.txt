@@ -1,6 +1,6 @@
 5
-data.zaqr.txt 1
-data.zcel.txt 2
-data.zctn.txt 1
-data.zcxp.txt 1
-data.zdst.txt 1
+data.zaqr.txt 3.235060386727117
+data.zcel.txt 5.1274494005309625
+data.zctn.txt 3.235060386727117
+data.zcxp.txt 3.235060386727117
+data.zdst.txt 3.235060386727117

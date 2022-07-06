@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.zarr.txt 1
-data.zbpx.txt 1
-data.zbzg.txt 1
-data.zcni.txt 1
-data.zcon.txt 1
-data.zdby.txt 1
-data.zdwl.txt 1
+data.fp.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.gz.txt 1
-data.hz.txt 1
-data.ok.txt 1
-data.pa.txt 1
-data.zawb.txt 2
-data.zctp.txt 1
-data.zdpw.txt 2
-data.zefu.txt 1
+data.gz.txt 2.9092786962624935
+data.hz.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zawb.txt 4.611097637722987
+data.zctp.txt 2.9092786962624935
+data.zdpw.txt 4.611097637722987
+data.zefu.txt 2.9092786962624935

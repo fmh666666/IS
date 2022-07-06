@@ -1,6 +1,6 @@
 5
-data.zafv.txt 1
-data.zaim.txt 1
-data.zaxx.txt 2
-data.zcse.txt 1
-data.zduk.txt 1
+data.zafv.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zaxx.txt 5.1274494005309625
+data.zcse.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

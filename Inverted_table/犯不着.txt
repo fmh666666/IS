@@ -1,12 +1,12 @@
 11
-data.zabe.txt 1
-data.zako.txt 1
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zbyv.txt 1
-data.zcdv.txt 1
-data.zcgo.txt 1
-data.zdtv.txt 1
-data.zduc.txt 1
-data.zduk.txt 1
-data.zfai.txt 1
+data.zabe.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbyv.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcgo.txt 2.6885433903988862
+data.zdtv.txt 2.6885433903988862
+data.zduc.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

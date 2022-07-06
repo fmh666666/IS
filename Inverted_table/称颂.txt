@@ -1,2 +1,2 @@
 1
-data.zabe.txt 1
+data.zabe.txt 4.350637738017098

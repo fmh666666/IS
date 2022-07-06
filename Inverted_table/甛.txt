@@ -1,2 +1,2 @@
 1
-data.zbta.txt 86
+data.zbta.txt 28.030913116951286

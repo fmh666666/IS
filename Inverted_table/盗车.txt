@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.op.txt 1
-data.pa.txt 1
-data.zanh.txt 2
-data.zbsl.txt 1
-data.zbwq.txt 2
-data.zdcj.txt 2
-data.zeoh.txt 1
+data.ft.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zanh.txt 4.611097637722987
+data.zbsl.txt 2.9092786962624935
+data.zbwq.txt 4.611097637722987
+data.zdcj.txt 4.611097637722987
+data.zeoh.txt 2.9092786962624935

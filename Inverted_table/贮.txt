@@ -1,5 +1,5 @@
 4
-data.bb.txt 1
-data.zbwq.txt 1
-data.zdof.txt 2
-data.zdpf.txt 1
+data.bb.txt 3.389731710180695
+data.zbwq.txt 3.389731710180695
+data.zdof.txt 5.372597648141796
+data.zdpf.txt 3.389731710180695

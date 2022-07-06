@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.co.txt 2
-data.yx.txt 1
-data.zajn.txt 1
-data.zajo.txt 1
-data.zawc.txt 1
-data.zcgo.txt 3
-data.zcis.txt 3
-data.zdgt.txt 1
+data.bb.txt 2.82763771717948
+data.co.txt 4.48169974735425
+data.yx.txt 2.82763771717948
+data.zajn.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zcgo.txt 5.65527543435896
+data.zcis.txt 5.65527543435896
+data.zdgt.txt 2.82763771717948

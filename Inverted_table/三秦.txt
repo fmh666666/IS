@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.kq.txt 1
-data.pn.txt 1
-data.zaxp.txt 1
-data.zcvq.txt 1
-data.zdeb.txt 1
-data.zdgt.txt 1
-data.zdzi.txt 1
+data.hp.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.pn.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935

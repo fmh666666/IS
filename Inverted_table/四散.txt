@@ -1,8 +1,8 @@
 7
-data.zall.txt 1
-data.zalm.txt 2
-data.zblr.txt 1
-data.zcel.txt 1
-data.zcjy.txt 2
-data.zdud.txt 1
-data.zeam.txt 1
+data.zall.txt 3.0018356045764243
+data.zalm.txt 4.757796866583254
+data.zblr.txt 3.0018356045764243
+data.zcel.txt 3.0018356045764243
+data.zcjy.txt 4.757796866583254
+data.zdud.txt 3.0018356045764243
+data.zeam.txt 3.0018356045764243

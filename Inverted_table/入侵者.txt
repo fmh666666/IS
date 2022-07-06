@@ -1,4 +1,4 @@
 3
-data.zasy.txt 1
-data.zbru.txt 1
-data.zess.txt 2
+data.zasy.txt 3.5891377275982888
+data.zbru.txt 3.5891377275982888
+data.zess.txt 5.688648708166832

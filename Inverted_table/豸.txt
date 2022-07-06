@@ -1,10 +1,10 @@
 9
-data.tv.txt 1
-data.zajh.txt 1
-data.zayv.txt 3
-data.zcfn.txt 7
-data.zcmn.txt 1
-data.zcts.txt 4
-data.zdhv.txt 1
-data.zedx.txt 1
-data.zefu.txt 1
+data.tv.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zayv.txt 5.65527543435896
+data.zcfn.txt 8.48291315153844
+data.zcmn.txt 2.82763771717948
+data.zcts.txt 6.565571457682201
+data.zdhv.txt 2.82763771717948
+data.zedx.txt 2.82763771717948
+data.zefu.txt 2.82763771717948

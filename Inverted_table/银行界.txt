@@ -1,4 +1,4 @@
 3
-data.op.txt 2
-data.zass.txt 1
-data.zcdy.txt 1
+data.op.txt 5.688648708166832
+data.zass.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888

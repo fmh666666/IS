@@ -1,10 +1,10 @@
 9
-data.zbhd.txt 1
-data.zbkr.txt 2
-data.zbpm.txt 1
-data.zcqe.txt 1
-data.zdeb.txt 1
-data.zdgt.txt 1
-data.zdpw.txt 4
-data.zeac.txt 2
-data.zewn.txt 2
+data.zbhd.txt 2.82763771717948
+data.zbkr.txt 4.48169974735425
+data.zbpm.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdpw.txt 6.565571457682201
+data.zeac.txt 4.48169974735425
+data.zewn.txt 4.48169974735425

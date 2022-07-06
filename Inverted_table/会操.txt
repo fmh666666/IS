@@ -1,6 +1,6 @@
 5
-data.zbfr.txt 1
-data.zblh.txt 1
-data.zcic.txt 1
-data.zdou.txt 1
-data.zduk.txt 1
+data.zbfr.txt 3.235060386727117
+data.zblh.txt 3.235060386727117
+data.zcic.txt 3.235060386727117
+data.zdou.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

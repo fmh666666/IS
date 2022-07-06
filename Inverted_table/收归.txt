@@ -1,5 +1,5 @@
 4
-data.ka.txt 1
-data.zcdy.txt 1
-data.zeay.txt 1
-data.zelt.txt 1
+data.ka.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zeay.txt 3.389731710180695
+data.zelt.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zaip.txt 2
-data.zcuh.txt 2
-data.zemb.txt 3
+data.zaip.txt 5.688648708166832
+data.zcuh.txt 5.688648708166832
+data.zemb.txt 7.1782754551965775

@@ -1,13 +1,13 @@
 12
-data.bb.txt 3
-data.fp.txt 2
-data.op.txt 1
-data.to.txt 1
-data.zahd.txt 1
-data.zbnp.txt 1
-data.zbpx.txt 1
-data.zbrj.txt 1
-data.zbsm.txt 5
-data.zcdz.txt 1
-data.zdpf.txt 1
-data.zfai.txt 3
+data.bb.txt 5.256463399523772
+data.fp.txt 4.165648687329214
+data.op.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zbsm.txt 6.7938803870911
+data.zcdz.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zfai.txt 5.256463399523772

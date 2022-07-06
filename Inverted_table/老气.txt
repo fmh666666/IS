@@ -1,9 +1,9 @@
 8
-data.ep.txt 2
-data.zbds.txt 1
-data.zbjq.txt 1
-data.zbta.txt 1
-data.zdoc.txt 1
-data.zduo.txt 2
-data.zeun.txt 1
-data.zeyg.txt 1
+data.ep.txt 4.611097637722987
+data.zbds.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zbta.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zduo.txt 4.611097637722987
+data.zeun.txt 2.9092786962624935
+data.zeyg.txt 2.9092786962624935

@@ -1,10 +1,10 @@
 9
-data.mk.txt 1
-data.to.txt 1
-data.yx.txt 1
-data.zaej.txt 1
-data.zafq.txt 3
-data.zbru.txt 1
-data.zdoq.txt 3
-data.zduc.txt 1
-data.zeqv.txt 1
+data.mk.txt 2.82763771717948
+data.to.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zaej.txt 2.82763771717948
+data.zafq.txt 5.65527543435896
+data.zbru.txt 2.82763771717948
+data.zdoq.txt 5.65527543435896
+data.zduc.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

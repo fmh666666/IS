@@ -1,4 +1,4 @@
 3
-data.zadv.txt 6
-data.zaej.txt 2
-data.zcfn.txt 1
+data.zadv.txt 10.0759834655157
+data.zaej.txt 5.688648708166832
+data.zcfn.txt 3.5891377275982888

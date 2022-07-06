@@ -1,3 +1,3 @@
 2
-data.dg.txt 1
-data.ng.txt 2
+data.dg.txt 3.8701847240988965
+data.ng.txt 6.134097658560606

@@ -1,3 +1,3 @@
 2
-data.zehp.txt 2
-data.zemf.txt 1
+data.zehp.txt 6.134097658560606
+data.zemf.txt 3.8701847240988965

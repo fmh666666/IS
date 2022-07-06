@@ -1,7 +1,7 @@
 6
-data.fp.txt 3
-data.zcmx.txt 2
-data.zcvq.txt 2
-data.zdgt.txt 1
-data.zdkk.txt 1
-data.zelt.txt 4
+data.fp.txt 6.2173694273601745
+data.zcmx.txt 4.927148697748023
+data.zcvq.txt 4.927148697748023
+data.zdgt.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zelt.txt 7.21814237484067

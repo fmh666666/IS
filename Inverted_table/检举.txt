@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.ga.txt 1
-data.op.txt 2
-data.zbut.txt 1
-data.zciq.txt 1
-data.zcse.txt 1
-data.zcue.txt 2
-data.zelt.txt 1
+data.fp.txt 2.9092786962624935
+data.ga.txt 2.9092786962624935
+data.op.txt 4.611097637722987
+data.zbut.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zcue.txt 4.611097637722987
+data.zelt.txt 2.9092786962624935

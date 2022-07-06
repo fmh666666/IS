@@ -1,5 +1,5 @@
 4
-data.zavx.txt 1
-data.zctp.txt 10
-data.zeec.txt 3
-data.zeyg.txt 1
+data.zavx.txt 3.389731710180695
+data.zctp.txt 11.726545056896576
+data.zeec.txt 6.77946342036139
+data.zeyg.txt 3.389731710180695

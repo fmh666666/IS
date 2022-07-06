@@ -1,8 +1,8 @@
 7
-data.be.txt 1
-data.cz.txt 1
-data.ha.txt 2
-data.zajo.txt 1
-data.zbls.txt 1
-data.zcue.txt 1
-data.zfai.txt 1
+data.be.txt 3.0018356045764243
+data.cz.txt 3.0018356045764243
+data.ha.txt 4.757796866583254
+data.zajo.txt 3.0018356045764243
+data.zbls.txt 3.0018356045764243
+data.zcue.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

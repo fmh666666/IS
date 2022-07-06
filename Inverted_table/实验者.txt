@@ -1,8 +1,8 @@
 7
-data.ha.txt 2
-data.kt.txt 1
-data.zavx.txt 1
-data.zazn.txt 1
-data.zbut.txt 1
-data.zcts.txt 1
-data.zeai.txt 1
+data.ha.txt 4.757796866583254
+data.kt.txt 3.0018356045764243
+data.zavx.txt 3.0018356045764243
+data.zazn.txt 3.0018356045764243
+data.zbut.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zeai.txt 3.0018356045764243

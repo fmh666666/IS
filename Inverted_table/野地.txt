@@ -1,13 +1,13 @@
 12
-data.cq.txt 1
-data.zabe.txt 2
-data.zbsl.txt 1
-data.zcis.txt 1
-data.zctn.txt 2
-data.zcuh.txt 1
-data.zdeq.txt 1
-data.zdlw.txt 2
-data.zdnc.txt 1
-data.zeid.txt 1
-data.zeob.txt 1
-data.zeoh.txt 2
+data.cq.txt 2.628231699761886
+data.zabe.txt 4.165648687329214
+data.zbsl.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zctn.txt 4.165648687329214
+data.zcuh.txt 2.628231699761886
+data.zdeq.txt 2.628231699761886
+data.zdlw.txt 4.165648687329214
+data.zdnc.txt 2.628231699761886
+data.zeid.txt 2.628231699761886
+data.zeob.txt 2.628231699761886
+data.zeoh.txt 4.165648687329214

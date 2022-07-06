@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zazw.txt 2
-data.zcvi.txt 2
-data.zcxr.txt 1
-data.zewv.txt 1
+data.zabe.txt 3.235060386727117
+data.zazw.txt 5.1274494005309625
+data.zcvi.txt 5.1274494005309625
+data.zcxr.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

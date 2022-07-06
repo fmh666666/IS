@@ -1,11 +1,11 @@
 10
-data.zbdx.txt 1
-data.zbts.txt 1
-data.zcbe.txt 1
-data.zcda.txt 1
-data.zcku.txt 3
-data.zcqe.txt 1
-data.zdcj.txt 1
-data.zdcy.txt 1
-data.zdeq.txt 1
-data.zfcg.txt 1
+data.zbdx.txt 2.7546073728089153
+data.zbts.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zcda.txt 2.7546073728089153
+data.zcku.txt 5.509214745617831
+data.zcqe.txt 2.7546073728089153
+data.zdcj.txt 2.7546073728089153
+data.zdcy.txt 2.7546073728089153
+data.zdeq.txt 2.7546073728089153
+data.zfcg.txt 2.7546073728089153

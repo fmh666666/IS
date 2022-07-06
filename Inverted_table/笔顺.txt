@@ -1,7 +1,7 @@
 6
-data.pa.txt 2
-data.zbes.txt 2
-data.zcih.txt 2
-data.zcql.txt 2
-data.zdgv.txt 2
-data.zedo.txt 4
+data.pa.txt 4.927148697748023
+data.zbes.txt 4.927148697748023
+data.zcih.txt 4.927148697748023
+data.zcql.txt 4.927148697748023
+data.zdgv.txt 4.927148697748023
+data.zedo.txt 7.21814237484067

@@ -1,4 +1,4 @@
 3
-data.xe.txt 1
-data.zabe.txt 3
-data.zaip.txt 1
+data.xe.txt 3.5891377275982888
+data.zabe.txt 7.1782754551965775
+data.zaip.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zfai.txt 1
-data.zfcj.txt 1
+data.mo.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888
+data.zfcj.txt 3.5891377275982888

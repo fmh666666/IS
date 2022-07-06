@@ -1,3 +1,3 @@
 2
-data.zeeh.txt 4
-data.zfaj.txt 1
+data.zeeh.txt 8.986290643289122
+data.zfaj.txt 3.8701847240988965

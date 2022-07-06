@@ -1,8 +1,8 @@
 7
-data.ye.txt 1
-data.zacw.txt 1
-data.zadv.txt 1
-data.zaqw.txt 1
-data.zcrv.txt 1
-data.zeec.txt 1
-data.zegk.txt 1
+data.ye.txt 3.0018356045764243
+data.zacw.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zcrv.txt 3.0018356045764243
+data.zeec.txt 3.0018356045764243
+data.zegk.txt 3.0018356045764243

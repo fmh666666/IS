@@ -1,8 +1,8 @@
 7
-data.fp.txt 1
-data.zawz.txt 1
-data.zaxk.txt 3
-data.zbeb.txt 1
-data.zbpm.txt 1
-data.zeoh.txt 1
-data.zexv.txt 1
+data.fp.txt 3.0018356045764243
+data.zawz.txt 3.0018356045764243
+data.zaxk.txt 6.003671209152849
+data.zbeb.txt 3.0018356045764243
+data.zbpm.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243
+data.zexv.txt 3.0018356045764243

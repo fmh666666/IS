@@ -1,2 +1,2 @@
 1
-data.zefv.txt 2
+data.zefv.txt 6.8955976689794145

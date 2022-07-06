@@ -1,10 +1,10 @@
 9
-data.bf.txt 2
-data.cf.txt 1
-data.fe.txt 1
-data.sq.txt 1
-data.ye.txt 1
-data.zalt.txt 1
-data.zbkv.txt 1
-data.zcxq.txt 1
-data.zeez.txt 1
+data.bf.txt 4.48169974735425
+data.cf.txt 2.82763771717948
+data.fe.txt 2.82763771717948
+data.sq.txt 2.82763771717948
+data.ye.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zeez.txt 2.82763771717948

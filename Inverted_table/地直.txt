@@ -1,7 +1,7 @@
 6
-data.kq.txt 1
-data.zaim.txt 1
-data.zbvm.txt 1
-data.zczl.txt 1
-data.zdcw.txt 1
-data.zdod.txt 1
+data.kq.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zczl.txt 3.1086847136800873
+data.zdcw.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.uz.txt 1
-data.zawb.txt 1
-data.zbfd.txt 3
-data.zbjc.txt 2
-data.zcxq.txt 2
-data.zdpf.txt 1
-data.zeds.txt 1
-data.zeyy.txt 2
+data.uz.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbfd.txt 5.818557392524987
+data.zbjc.txt 4.611097637722987
+data.zcxq.txt 4.611097637722987
+data.zdpf.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zeyy.txt 4.611097637722987

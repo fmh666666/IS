@@ -1,4 +1,4 @@
 3
-data.zauy.txt 1
-data.zctn.txt 2
-data.zdqx.txt 1
+data.zauy.txt 3.5891377275982888
+data.zctn.txt 5.688648708166832
+data.zdqx.txt 3.5891377275982888

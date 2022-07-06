@@ -1,5 +1,5 @@
 4
-data.bb.txt 1
-data.zbkj.txt 1
-data.zbvm.txt 1
-data.zcgo.txt 2
+data.bb.txt 3.389731710180695
+data.zbkj.txt 3.389731710180695
+data.zbvm.txt 3.389731710180695
+data.zcgo.txt 5.372597648141796

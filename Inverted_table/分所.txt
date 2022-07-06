@@ -1,5 +1,5 @@
 4
-data.zall.txt 1
-data.zalm.txt 8
-data.zebv.txt 1
-data.zeqv.txt 7
+data.zall.txt 3.389731710180695
+data.zalm.txt 10.745195296283592
+data.zebv.txt 3.389731710180695
+data.zeqv.txt 10.169195130542084

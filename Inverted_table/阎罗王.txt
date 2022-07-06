@@ -1,6 +1,6 @@
 5
-data.nh.txt 1
-data.zaub.txt 1
-data.zbfd.txt 1
-data.zbua.txt 1
-data.zfaz.txt 1
+data.nh.txt 3.235060386727117
+data.zaub.txt 3.235060386727117
+data.zbfd.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

@@ -1,11 +1,11 @@
 10
-data.xe.txt 5
-data.zaet.txt 1
-data.zbfr.txt 3
-data.zbph.txt 4
-data.zcft.txt 5
-data.zcxr.txt 4
-data.zczj.txt 6
-data.zdnh.txt 1
-data.zehj.txt 1
-data.zeva.txt 5
+data.xe.txt 7.120556762921068
+data.zaet.txt 2.7546073728089153
+data.zbfr.txt 5.509214745617831
+data.zbph.txt 6.396000249308887
+data.zcft.txt 7.120556762921068
+data.zcxr.txt 6.396000249308887
+data.zczj.txt 7.733160566391275
+data.zdnh.txt 2.7546073728089153
+data.zehj.txt 2.7546073728089153
+data.zeva.txt 7.120556762921068

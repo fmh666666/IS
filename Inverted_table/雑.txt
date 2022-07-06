@@ -1,9 +1,9 @@
 8
-data.zbcc.txt 1
-data.zccx.txt 3
-data.zcef.txt 1
-data.zcfx.txt 2
-data.zchw.txt 1
-data.zeez.txt 1
-data.zegl.txt 1
-data.zegn.txt 1
+data.zbcc.txt 2.9092786962624935
+data.zccx.txt 5.818557392524987
+data.zcef.txt 2.9092786962624935
+data.zcfx.txt 4.611097637722987
+data.zchw.txt 2.9092786962624935
+data.zeez.txt 2.9092786962624935
+data.zegl.txt 2.9092786962624935
+data.zegn.txt 2.9092786962624935

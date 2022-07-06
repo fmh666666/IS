@@ -1,11 +1,11 @@
 10
-data.zane.txt 1
-data.zazn.txt 1
-data.zbcc.txt 1
-data.zbot.txt 1
-data.zcgi.txt 1
-data.zdod.txt 1
-data.zdpz.txt 1
-data.zdwz.txt 1
-data.zenn.txt 1
-data.zfas.txt 1
+data.zane.txt 2.7546073728089153
+data.zazn.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zcgi.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zdpz.txt 2.7546073728089153
+data.zdwz.txt 2.7546073728089153
+data.zenn.txt 2.7546073728089153
+data.zfas.txt 2.7546073728089153

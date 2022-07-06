@@ -1,10 +1,10 @@
 9
-data.to.txt 1
-data.zabe.txt 2
-data.zauy.txt 1
-data.zcse.txt 1
-data.zcvq.txt 1
-data.zdaq.txt 2
-data.zdwl.txt 2
-data.zezm.txt 1
-data.zezn.txt 2
+data.to.txt 2.82763771717948
+data.zabe.txt 4.48169974735425
+data.zauy.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zdaq.txt 4.48169974735425
+data.zdwl.txt 4.48169974735425
+data.zezm.txt 2.82763771717948
+data.zezn.txt 4.48169974735425

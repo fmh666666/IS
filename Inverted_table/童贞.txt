@@ -1,6 +1,6 @@
 5
-data.ft.txt 2
-data.tz.txt 1
-data.zdrq.txt 3
-data.zdxw.txt 1
-data.zejn.txt 1
+data.ft.txt 5.1274494005309625
+data.tz.txt 3.235060386727117
+data.zdrq.txt 6.470120773454234
+data.zdxw.txt 3.235060386727117
+data.zejn.txt 3.235060386727117

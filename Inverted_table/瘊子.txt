@@ -1,7 +1,7 @@
 6
-data.zcpa.txt 1
-data.zcxp.txt 1
-data.zcxq.txt 1
-data.zdsh.txt 1
-data.zdwd.txt 1
-data.zdwz.txt 1
+data.zcpa.txt 3.1086847136800873
+data.zcxp.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zdsh.txt 3.1086847136800873
+data.zdwd.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873

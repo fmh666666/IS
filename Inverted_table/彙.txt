@@ -1,10 +1,10 @@
 9
-data.zass.txt 1
-data.zbaq.txt 2
-data.zbmt.txt 1
-data.zcih.txt 1
-data.zckd.txt 7
-data.zcli.txt 1
-data.zcll.txt 7
-data.zczp.txt 1
-data.zdux.txt 9
+data.zass.txt 2.82763771717948
+data.zbaq.txt 4.48169974735425
+data.zbmt.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zckd.txt 8.48291315153844
+data.zcli.txt 2.82763771717948
+data.zcll.txt 8.48291315153844
+data.zczp.txt 2.82763771717948
+data.zdux.txt 9.393209174861681

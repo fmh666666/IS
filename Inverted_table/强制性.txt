@@ -1,13 +1,13 @@
 12
-data.ha.txt 1
-data.op.txt 1
-data.zaic.txt 1
-data.zalj.txt 2
-data.zasq.txt 2
-data.zblq.txt 1
-data.zbnx.txt 1
-data.zcdg.txt 1
-data.zcee.txt 1
-data.zcse.txt 1
-data.zdgt.txt 1
-data.zduo.txt 1
+data.ha.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zalj.txt 4.165648687329214
+data.zasq.txt 4.165648687329214
+data.zblq.txt 2.628231699761886
+data.zbnx.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zduo.txt 2.628231699761886

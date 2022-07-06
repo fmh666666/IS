@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.zabe.txt 1
-data.zbvm.txt 1
-data.zelj.txt 1
+data.ga.txt 3.389731710180695
+data.zabe.txt 3.389731710180695
+data.zbvm.txt 3.389731710180695
+data.zelj.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.co.txt 4
-data.ga.txt 1
-data.zbcj.txt 1
-data.zcby.txt 1
-data.zdud.txt 1
-data.zduk.txt 1
+data.co.txt 7.21814237484067
+data.ga.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zcby.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873

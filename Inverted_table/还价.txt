@@ -1,14 +1,14 @@
 13
-data.kt.txt 1
-data.nh.txt 2
-data.zaim.txt 1
-data.zarc.txt 1
-data.zaxx.txt 1
-data.zcbe.txt 1
-data.zcbm.txt 2
-data.zdib.txt 1
-data.zegk.txt 1
-data.zehp.txt 1
-data.zeob.txt 1
-data.zess.txt 1
-data.zezh.txt 1
+data.kt.txt 2.5727503226135906
+data.nh.txt 4.077712785060798
+data.zaim.txt 2.5727503226135906
+data.zarc.txt 2.5727503226135906
+data.zaxx.txt 2.5727503226135906
+data.zcbe.txt 2.5727503226135906
+data.zcbm.txt 4.077712785060798
+data.zdib.txt 2.5727503226135906
+data.zegk.txt 2.5727503226135906
+data.zehp.txt 2.5727503226135906
+data.zeob.txt 2.5727503226135906
+data.zess.txt 2.5727503226135906
+data.zezh.txt 2.5727503226135906

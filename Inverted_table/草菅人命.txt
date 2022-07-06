@@ -1,14 +1,14 @@
 13
-data.by.txt 1
-data.cq.txt 1
-data.ff.txt 1
-data.zabx.txt 1
-data.zahd.txt 1
-data.zaim.txt 1
-data.zanh.txt 1
-data.zass.txt 1
-data.zcgo.txt 1
-data.zcni.txt 1
-data.zeag.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
+data.by.txt 2.5727503226135906
+data.cq.txt 2.5727503226135906
+data.ff.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zanh.txt 2.5727503226135906
+data.zass.txt 2.5727503226135906
+data.zcgo.txt 2.5727503226135906
+data.zcni.txt 2.5727503226135906
+data.zeag.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfaj.txt 4.077712785060798

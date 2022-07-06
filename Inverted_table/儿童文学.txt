@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.zasd.txt 3
-data.zawu.txt 1
-data.zbga.txt 1
-data.zbmt.txt 1
-data.zefu.txt 1
+data.kt.txt 3.1086847136800873
+data.zasd.txt 6.2173694273601745
+data.zawu.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zbmt.txt 3.1086847136800873
+data.zefu.txt 3.1086847136800873

@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.fp.txt 1
-data.mx.txt 1
-data.zcql.txt 1
-data.zdfl.txt 1
-data.zdgt.txt 1
-data.zdju.txt 1
-data.zdkk.txt 1
-data.zdpf.txt 1
-data.zfaw.txt 1
-data.zfbr.txt 1
+data.cq.txt 2.6885433903988862
+data.fp.txt 2.6885433903988862
+data.mx.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zdfl.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zdju.txt 2.6885433903988862
+data.zdkk.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zfaw.txt 2.6885433903988862
+data.zfbr.txt 2.6885433903988862

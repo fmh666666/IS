@@ -1,12 +1,12 @@
 11
-data.mx.txt 3
-data.to.txt 1
-data.zalt.txt 1
-data.zaxj.txt 1
-data.zaxk.txt 2
-data.zbdb.txt 1
-data.zblr.txt 1
-data.zcaq.txt 1
-data.zczl.txt 1
-data.zdgo.txt 1
-data.zdlo.txt 1
+data.mx.txt 5.3770867807977725
+data.to.txt 2.6885433903988862
+data.zalt.txt 2.6885433903988862
+data.zaxj.txt 2.6885433903988862
+data.zaxk.txt 4.261240455343955
+data.zbdb.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zcaq.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862

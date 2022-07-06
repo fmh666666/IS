@@ -1,6 +1,6 @@
 5
-data.aj.txt 1
-data.bs.txt 1
-data.to.txt 1
-data.vi.txt 1
-data.zabj.txt 1
+data.aj.txt 3.235060386727117
+data.bs.txt 3.235060386727117
+data.to.txt 3.235060386727117
+data.vi.txt 3.235060386727117
+data.zabj.txt 3.235060386727117

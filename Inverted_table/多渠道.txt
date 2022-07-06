@@ -1,8 +1,8 @@
 7
-data.hc.txt 1
-data.zbmt.txt 1
-data.zcee.txt 1
-data.zciq.txt 2
-data.zcsu.txt 1
-data.zdoq.txt 1
-data.zdpf.txt 2
+data.hc.txt 3.0018356045764243
+data.zbmt.txt 3.0018356045764243
+data.zcee.txt 3.0018356045764243
+data.zciq.txt 4.757796866583254
+data.zcsu.txt 3.0018356045764243
+data.zdoq.txt 3.0018356045764243
+data.zdpf.txt 4.757796866583254

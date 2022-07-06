@@ -1,4 +1,4 @@
 3
-data.zbta.txt 1
-data.zcis.txt 1
-data.zdpw.txt 1
+data.zbta.txt 3.5891377275982888
+data.zcis.txt 3.5891377275982888
+data.zdpw.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.vz.txt 2
-data.zbhv.txt 2
-data.zdzm.txt 1
-data.zety.txt 1
-data.zewv.txt 1
+data.vz.txt 5.1274494005309625
+data.zbhv.txt 5.1274494005309625
+data.zdzm.txt 3.235060386727117
+data.zety.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

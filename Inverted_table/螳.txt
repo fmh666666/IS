@@ -1,4 +1,4 @@
 3
-data.mo.txt 2
-data.op.txt 1
-data.zdil.txt 2
+data.mo.txt 5.688648708166832
+data.op.txt 3.5891377275982888
+data.zdil.txt 5.688648708166832

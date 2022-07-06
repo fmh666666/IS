@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zaim.txt 1
-data.zdvl.txt 1
-data.zdzn.txt 1
-data.zeaj.txt 2
+data.vi.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zeaj.txt 5.1274494005309625

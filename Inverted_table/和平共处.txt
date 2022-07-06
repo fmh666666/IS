@@ -1,9 +1,9 @@
 8
-data.kt.txt 2
-data.zarr.txt 1
-data.zbem.txt 1
-data.zbpc.txt 1
-data.zbyv.txt 1
-data.zcef.txt 1
-data.zeyu.txt 1
-data.zfaj.txt 1
+data.kt.txt 4.611097637722987
+data.zarr.txt 2.9092786962624935
+data.zbem.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zbyv.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

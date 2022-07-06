@@ -1,9 +1,9 @@
 8
-data.zbkf.txt 1
-data.zbzo.txt 1
-data.zckd.txt 1
-data.zcqe.txt 1
-data.zdgv.txt 2
-data.zdpf.txt 1
-data.zdrq.txt 1
-data.zdux.txt 1
+data.zbkf.txt 2.9092786962624935
+data.zbzo.txt 2.9092786962624935
+data.zckd.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zdgv.txt 4.611097637722987
+data.zdpf.txt 2.9092786962624935
+data.zdrq.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935

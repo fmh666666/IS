@@ -1,4 +1,4 @@
 3
-data.zdgp.txt 1
-data.zdwv.txt 1
-data.zevt.txt 1
+data.zdgp.txt 3.5891377275982888
+data.zdwv.txt 3.5891377275982888
+data.zevt.txt 3.5891377275982888

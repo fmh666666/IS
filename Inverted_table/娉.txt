@@ -1,7 +1,7 @@
 6
-data.kt.txt 2
-data.mi.txt 1
-data.mo.txt 1
-data.zake.txt 1
-data.zbwa.txt 1
-data.zcel.txt 1
+data.kt.txt 4.927148697748023
+data.mi.txt 3.1086847136800873
+data.mo.txt 3.1086847136800873
+data.zake.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zcel.txt 3.1086847136800873

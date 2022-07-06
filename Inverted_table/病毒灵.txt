@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zanh.txt 2
-data.zcts.txt 2
+data.ud.txt 3.5891377275982888
+data.zanh.txt 5.688648708166832
+data.zcts.txt 5.688648708166832

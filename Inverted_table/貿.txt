@@ -1,6 +1,6 @@
 5
-data.zbvn.txt 1
-data.zcft.txt 1
-data.zdpz.txt 1
-data.zeai.txt 1
-data.zejn.txt 1
+data.zbvn.txt 3.235060386727117
+data.zcft.txt 3.235060386727117
+data.zdpz.txt 3.235060386727117
+data.zeai.txt 3.235060386727117
+data.zejn.txt 3.235060386727117

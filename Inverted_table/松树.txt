@@ -1,13 +1,13 @@
 12
-data.ew.txt 1
-data.jd.txt 1
-data.yx.txt 2
-data.zacd.txt 2
-data.zavx.txt 3
-data.zawb.txt 1
-data.zazn.txt 1
-data.zbzg.txt 1
-data.zcdz.txt 2
-data.zdar.txt 1
-data.zdpf.txt 2
-data.zedx.txt 3
+data.ew.txt 2.628231699761886
+data.jd.txt 2.628231699761886
+data.yx.txt 4.165648687329214
+data.zacd.txt 4.165648687329214
+data.zavx.txt 5.256463399523772
+data.zawb.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbzg.txt 2.628231699761886
+data.zcdz.txt 4.165648687329214
+data.zdar.txt 2.628231699761886
+data.zdpf.txt 4.165648687329214
+data.zedx.txt 5.256463399523772

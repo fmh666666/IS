@@ -1,3 +1,3 @@
 2
-data.zaej.txt 15
-data.zdwv.txt 1
+data.zaej.txt 15.480738896395586
+data.zdwv.txt 3.8701847240988965

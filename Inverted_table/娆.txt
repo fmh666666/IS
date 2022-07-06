@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.zbfx.txt 1
-data.zbha.txt 1
-data.zbkj.txt 8
-data.zbts.txt 2
-data.zcjd.txt 2
-data.zcrv.txt 1
-data.zdgo.txt 1
-data.zdgt.txt 1
-data.zebc.txt 1
-data.zeds.txt 19
-data.zewp.txt 1
+data.cz.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zbha.txt 2.628231699761886
+data.zbkj.txt 8.331297374658428
+data.zbts.txt 4.165648687329214
+data.zcjd.txt 4.165648687329214
+data.zcrv.txt 2.628231699761886
+data.zdgo.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zebc.txt 2.628231699761886
+data.zeds.txt 11.359028423074463
+data.zewp.txt 2.628231699761886

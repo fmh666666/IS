@@ -1,5 +1,5 @@
 4
-data.qb.txt 3
-data.zddv.txt 1
-data.zdey.txt 1
-data.zenn.txt 1
+data.qb.txt 6.77946342036139
+data.zddv.txt 3.389731710180695
+data.zdey.txt 3.389731710180695
+data.zenn.txt 3.389731710180695

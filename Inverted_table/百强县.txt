@@ -1,4 +1,4 @@
 3
-data.zbes.txt 1
-data.zcni.txt 1
-data.zcue.txt 1
+data.zbes.txt 3.5891377275982888
+data.zcni.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888

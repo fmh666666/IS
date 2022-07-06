@@ -1,13 +1,13 @@
 12
-data.ok.txt 1
-data.zabe.txt 1
-data.zaqf.txt 1
-data.zbts.txt 1
-data.zcjo.txt 1
-data.zcrk.txt 1
-data.zduk.txt 1
-data.zdwv.txt 1
-data.zebc.txt 1
-data.zeoh.txt 1
-data.zexx.txt 1
-data.zfcj.txt 1
+data.ok.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zaqf.txt 2.628231699761886
+data.zbts.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zduk.txt 2.628231699761886
+data.zdwv.txt 2.628231699761886
+data.zebc.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zexx.txt 2.628231699761886
+data.zfcj.txt 2.628231699761886

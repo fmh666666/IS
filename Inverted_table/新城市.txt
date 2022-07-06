@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.jj.txt 2
-data.mx.txt 1
-data.ud.txt 1
-data.zafq.txt 1
-data.zarr.txt 1
-data.zavg.txt 1
-data.zbcj.txt 1
-data.zbfz.txt 1
-data.zbqu.txt 2
-data.zdpg.txt 1
-data.zdux.txt 2
-data.zefs.txt 1
+data.ga.txt 2.5727503226135906
+data.jj.txt 4.077712785060798
+data.mx.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.zafq.txt 2.5727503226135906
+data.zarr.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zbcj.txt 2.5727503226135906
+data.zbfz.txt 2.5727503226135906
+data.zbqu.txt 4.077712785060798
+data.zdpg.txt 2.5727503226135906
+data.zdux.txt 4.077712785060798
+data.zefs.txt 2.5727503226135906

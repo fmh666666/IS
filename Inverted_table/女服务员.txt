@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.op.txt 1
-data.zabx.txt 2
-data.zbdb.txt 1
-data.zbkv.txt 2
-data.zbmw.txt 1
-data.zddm.txt 2
-data.zdlw.txt 2
-data.zeaf.txt 2
+data.ka.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zabx.txt 4.48169974735425
+data.zbdb.txt 2.82763771717948
+data.zbkv.txt 4.48169974735425
+data.zbmw.txt 2.82763771717948
+data.zddm.txt 4.48169974735425
+data.zdlw.txt 4.48169974735425
+data.zeaf.txt 4.48169974735425

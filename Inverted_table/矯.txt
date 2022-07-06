@@ -1,6 +1,6 @@
 5
-data.zavg.txt 1
-data.zbkv.txt 1
-data.zbvp.txt 1
-data.zeam.txt 1
-data.zexm.txt 1
+data.zavg.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

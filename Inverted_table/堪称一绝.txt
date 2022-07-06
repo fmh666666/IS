@@ -1,4 +1,4 @@
 3
-data.zatz.txt 1
-data.zaun.txt 1
-data.zcrg.txt 1
+data.zatz.txt 3.5891377275982888
+data.zaun.txt 3.5891377275982888
+data.zcrg.txt 3.5891377275982888

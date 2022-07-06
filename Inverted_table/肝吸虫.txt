@@ -1,4 +1,4 @@
 3
-data.zdme.txt 2
-data.zeel.txt 2
-data.zefw.txt 3
+data.zdme.txt 5.688648708166832
+data.zeel.txt 5.688648708166832
+data.zefw.txt 7.1782754551965775

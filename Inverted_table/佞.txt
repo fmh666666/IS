@@ -1,7 +1,7 @@
 6
-data.zalc.txt 1
-data.zblq.txt 1
-data.zcgo.txt 1
-data.zcvq.txt 1
-data.zcww.txt 1
-data.zeam.txt 1
+data.zalc.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zcvq.txt 3.1086847136800873
+data.zcww.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873

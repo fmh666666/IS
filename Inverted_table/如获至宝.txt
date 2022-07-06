@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.zawu.txt 1
-data.zcnn.txt 1
-data.zdwd.txt 1
-data.zdwk.txt 1
+data.ft.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zcnn.txt 3.235060386727117
+data.zdwd.txt 3.235060386727117
+data.zdwk.txt 3.235060386727117

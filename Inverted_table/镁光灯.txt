@@ -1,7 +1,7 @@
 6
-data.zagr.txt 1
-data.zazw.txt 1
-data.zbcv.txt 2
-data.zbil.txt 1
-data.zexm.txt 1
-data.zfcg.txt 1
+data.zagr.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zbcv.txt 4.927148697748023
+data.zbil.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873
+data.zfcg.txt 3.1086847136800873

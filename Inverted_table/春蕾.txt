@@ -1,11 +1,11 @@
 10
-data.by.txt 1
-data.zajo.txt 1
-data.zawu.txt 4
-data.zaxx.txt 1
-data.zbhd.txt 2
-data.zcni.txt 1
-data.zcsu.txt 3
-data.zcue.txt 1
-data.zdzm.txt 1
-data.zene.txt 1
+data.by.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zawu.txt 6.396000249308887
+data.zaxx.txt 2.7546073728089153
+data.zbhd.txt 4.365949390112154
+data.zcni.txt 2.7546073728089153
+data.zcsu.txt 5.509214745617831
+data.zcue.txt 2.7546073728089153
+data.zdzm.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

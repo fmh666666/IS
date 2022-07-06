@@ -1,5 +1,5 @@
 4
-data.zbht.txt 1
-data.zbjk.txt 1
-data.zciq.txt 1
-data.zdkv.txt 1
+data.zbht.txt 3.389731710180695
+data.zbjk.txt 3.389731710180695
+data.zciq.txt 3.389731710180695
+data.zdkv.txt 3.389731710180695

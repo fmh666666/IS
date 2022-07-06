@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.op.txt 2
-data.zawc.txt 1
-data.zbds.txt 1
-data.zcdy.txt 1
-data.zcse.txt 1
-data.zfae.txt 1
-data.zfaj.txt 1
+data.hp.txt 2.9092786962624935
+data.op.txt 4.611097637722987
+data.zawc.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

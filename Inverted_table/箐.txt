@@ -1,10 +1,10 @@
 9
-data.kq.txt 1
-data.zauy.txt 1
-data.zaxj.txt 4
-data.zaxk.txt 3
-data.zbvp.txt 1
-data.zcdg.txt 1
-data.zcxh.txt 1
-data.zdbf.txt 1
-data.zeob.txt 17
+data.kq.txt 2.82763771717948
+data.zauy.txt 2.82763771717948
+data.zaxj.txt 6.565571457682201
+data.zaxk.txt 5.65527543435896
+data.zbvp.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcxh.txt 2.82763771717948
+data.zdbf.txt 2.82763771717948
+data.zeob.txt 11.79103721188798

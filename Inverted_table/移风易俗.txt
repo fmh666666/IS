@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.zbpx.txt 1
-data.zeds.txt 1
-data.zeyg.txt 1
-data.zfaz.txt 1
+data.cz.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zeds.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

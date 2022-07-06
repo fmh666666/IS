@@ -1,4 +1,4 @@
 3
-data.zawo.txt 2
-data.zexv.txt 1
-data.zfaz.txt 1
+data.zawo.txt 5.688648708166832
+data.zexv.txt 3.5891377275982888
+data.zfaz.txt 3.5891377275982888

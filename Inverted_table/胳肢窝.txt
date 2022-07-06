@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zcjo.txt 1
-data.zess.txt 1
-data.zewd.txt 1
-data.zezn.txt 2
+data.zako.txt 3.235060386727117
+data.zcjo.txt 3.235060386727117
+data.zess.txt 3.235060386727117
+data.zewd.txt 3.235060386727117
+data.zezn.txt 5.1274494005309625

@@ -1,12 +1,12 @@
 11
-data.gw.txt 2
-data.zbdx.txt 1
-data.zcdy.txt 3
-data.zcjo.txt 1
-data.zcmx.txt 1
-data.zcql.txt 1
-data.zcrg.txt 1
-data.zeaf.txt 1
-data.zeag.txt 3
-data.zeai.txt 1
-data.zelt.txt 1
+data.gw.txt 4.261240455343955
+data.zbdx.txt 2.6885433903988862
+data.zcdy.txt 5.3770867807977725
+data.zcjo.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zcrg.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zeag.txt 5.3770867807977725
+data.zeai.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862

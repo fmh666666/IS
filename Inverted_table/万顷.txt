@@ -1,8 +1,8 @@
 7
-data.vm.txt 1
-data.zbpc.txt 1
-data.zbqu.txt 1
-data.zcda.txt 1
-data.zctm.txt 1
-data.zeqh.txt 1
-data.zfai.txt 1
+data.vm.txt 3.0018356045764243
+data.zbpc.txt 3.0018356045764243
+data.zbqu.txt 3.0018356045764243
+data.zcda.txt 3.0018356045764243
+data.zctm.txt 3.0018356045764243
+data.zeqh.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

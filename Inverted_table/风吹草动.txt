@@ -1,13 +1,13 @@
 12
-data.xe.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zawz.txt 1
-data.zbdb.txt 1
-data.zbsd.txt 1
-data.zbyv.txt 1
-data.zcon.txt 1
-data.zdgp.txt 1
-data.zdgv.txt 1
-data.zdlm.txt 1
-data.zebc.txt 1
+data.xe.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zawz.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbsd.txt 2.628231699761886
+data.zbyv.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zdgv.txt 2.628231699761886
+data.zdlm.txt 2.628231699761886
+data.zebc.txt 2.628231699761886

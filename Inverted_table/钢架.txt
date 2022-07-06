@@ -1,4 +1,4 @@
 3
-data.zbhd.txt 1
-data.zcqe.txt 2
-data.zctn.txt 1
+data.zbhd.txt 3.5891377275982888
+data.zcqe.txt 5.688648708166832
+data.zctn.txt 3.5891377275982888

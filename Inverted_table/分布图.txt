@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.zblr.txt 4
-data.zbls.txt 1
-data.zbpx.txt 1
-data.zcrk.txt 1
-data.zcww.txt 1
-data.zdcy.txt 2
-data.zebf.txt 2
-data.zeec.txt 1
-data.zeez.txt 1
-data.zeun.txt 1
-data.zeyy.txt 1
+data.kq.txt 2.628231699761886
+data.zblr.txt 6.1025650235506905
+data.zbls.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zcww.txt 2.628231699761886
+data.zdcy.txt 4.165648687329214
+data.zebf.txt 4.165648687329214
+data.zeec.txt 2.628231699761886
+data.zeez.txt 2.628231699761886
+data.zeun.txt 2.628231699761886
+data.zeyy.txt 2.628231699761886

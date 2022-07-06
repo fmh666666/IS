@@ -1,7 +1,7 @@
 6
-data.zalt.txt 1
-data.zbbt.txt 1
-data.zbup.txt 1
-data.zdcy.txt 2
-data.zedd.txt 1
-data.zelt.txt 1
+data.zalt.txt 3.1086847136800873
+data.zbbt.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zdcy.txt 4.927148697748023
+data.zedd.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

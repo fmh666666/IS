@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zbse.txt 2
-data.zcuh.txt 1
-data.zdkv.txt 1
-data.zdnc.txt 3
-data.zejk.txt 2
+data.ok.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zbse.txt 4.611097637722987
+data.zcuh.txt 2.9092786962624935
+data.zdkv.txt 2.9092786962624935
+data.zdnc.txt 5.818557392524987
+data.zejk.txt 4.611097637722987

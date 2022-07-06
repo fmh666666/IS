@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.ff.txt 1
-data.zazn.txt 1
-data.zbfz.txt 1
-data.zcdy.txt 1
-data.zcku.txt 1
-data.zcmy.txt 1
-data.zdou.txt 1
-data.zduc.txt 1
+data.fe.txt 2.82763771717948
+data.ff.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcku.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zduc.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.zbhv.txt 1
-data.zblq.txt 1
-data.zeec.txt 1
+data.zbhv.txt 3.5891377275982888
+data.zblq.txt 3.5891377275982888
+data.zeec.txt 3.5891377275982888

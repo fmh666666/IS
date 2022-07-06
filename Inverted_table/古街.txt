@@ -1,5 +1,5 @@
 4
-data.zcee.txt 1
-data.zdkv.txt 1
-data.zdpg.txt 1
-data.zfaw.txt 1
+data.zcee.txt 3.389731710180695
+data.zdkv.txt 3.389731710180695
+data.zdpg.txt 3.389731710180695
+data.zfaw.txt 3.389731710180695

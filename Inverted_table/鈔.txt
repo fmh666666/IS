@@ -1,4 +1,4 @@
 3
-data.hp.txt 3
-data.tv.txt 1
-data.zefp.txt 1
+data.hp.txt 7.1782754551965775
+data.tv.txt 3.5891377275982888
+data.zefp.txt 3.5891377275982888

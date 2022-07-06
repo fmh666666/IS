@@ -1,12 +1,12 @@
 11
-data.uz.txt 1
-data.zalc.txt 1
-data.zawc.txt 1
-data.zaxx.txt 1
-data.zbes.txt 1
-data.zbfz.txt 1
-data.zbhv.txt 1
-data.zbof.txt 2
-data.zcef.txt 1
-data.zcls.txt 2
-data.zewv.txt 2
+data.uz.txt 2.6885433903988862
+data.zalc.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zaxx.txt 2.6885433903988862
+data.zbes.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbof.txt 4.261240455343955
+data.zcef.txt 2.6885433903988862
+data.zcls.txt 4.261240455343955
+data.zewv.txt 4.261240455343955

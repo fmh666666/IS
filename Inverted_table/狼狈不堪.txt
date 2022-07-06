@@ -1,13 +1,13 @@
 12
-data.en.txt 1
-data.zaoc.txt 1
-data.zasy.txt 1
-data.zaub.txt 1
-data.zbem.txt 1
-data.zbtx.txt 1
-data.zcda.txt 1
-data.zdnc.txt 1
-data.zdtr.txt 1
-data.zerv.txt 1
-data.zezf.txt 1
-data.zfaz.txt 1
+data.en.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zaub.txt 2.628231699761886
+data.zbem.txt 2.628231699761886
+data.zbtx.txt 2.628231699761886
+data.zcda.txt 2.628231699761886
+data.zdnc.txt 2.628231699761886
+data.zdtr.txt 2.628231699761886
+data.zerv.txt 2.628231699761886
+data.zezf.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.zazn.txt 2
-data.zbor.txt 2
-data.zctm.txt 1
-data.zdpf.txt 1
-data.zdtv.txt 1
+data.ka.txt 3.1086847136800873
+data.zazn.txt 4.927148697748023
+data.zbor.txt 4.927148697748023
+data.zctm.txt 3.1086847136800873
+data.zdpf.txt 3.1086847136800873
+data.zdtv.txt 3.1086847136800873

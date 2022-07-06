@@ -1,13 +1,13 @@
 12
-data.mu.txt 1
-data.tz.txt 5
-data.zajh.txt 12
-data.zaxj.txt 1
-data.zbcc.txt 10
-data.zbvn.txt 2
-data.zcfn.txt 25
-data.zcih.txt 1
-data.zcjd.txt 4
-data.zcvq.txt 1
-data.zdqq.txt 1
-data.zeds.txt 1
+data.mu.txt 2.628231699761886
+data.tz.txt 6.7938803870911
+data.zajh.txt 9.725612970276357
+data.zaxj.txt 2.628231699761886
+data.zbcc.txt 9.092187843261117
+data.zbvn.txt 4.165648687329214
+data.zcfn.txt 12.353844670038244
+data.zcih.txt 2.628231699761886
+data.zcjd.txt 6.1025650235506905
+data.zcvq.txt 2.628231699761886
+data.zdqq.txt 2.628231699761886
+data.zeds.txt 2.628231699761886

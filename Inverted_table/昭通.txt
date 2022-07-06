@@ -1,11 +1,11 @@
 10
-data.fp.txt 2
-data.mo.txt 1
-data.zalm.txt 1
-data.zbil.txt 1
-data.zcej.txt 2
-data.zcis.txt 1
-data.zcko.txt 2
-data.zctn.txt 4
-data.zcxr.txt 1
-data.zeid.txt 1
+data.fp.txt 4.365949390112154
+data.mo.txt 2.7546073728089153
+data.zalm.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zcej.txt 4.365949390112154
+data.zcis.txt 2.7546073728089153
+data.zcko.txt 4.365949390112154
+data.zctn.txt 6.396000249308887
+data.zcxr.txt 2.7546073728089153
+data.zeid.txt 2.7546073728089153

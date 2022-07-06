@@ -1,9 +1,9 @@
 8
-data.ud.txt 1
-data.zaqw.txt 1
-data.zavx.txt 1
-data.zbaq.txt 1
-data.zbes.txt 1
-data.zbkj.txt 1
-data.zdcw.txt 1
-data.zeqv.txt 2
+data.ud.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zavx.txt 2.9092786962624935
+data.zbaq.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zeqv.txt 4.611097637722987

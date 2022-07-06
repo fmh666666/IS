@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.ew.txt 1
-data.fj.txt 1
-data.ft.txt 1
-data.vm.txt 8
-data.zapf.txt 1
-data.zbpx.txt 1
-data.zbvp.txt 2
-data.zcdy.txt 1
-data.zcue.txt 1
-data.zdzg.txt 1
-data.zfaz.txt 1
+data.ev.txt 2.628231699761886
+data.ew.txt 2.628231699761886
+data.fj.txt 2.628231699761886
+data.ft.txt 2.628231699761886
+data.vm.txt 8.331297374658428
+data.zapf.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zbvp.txt 4.165648687329214
+data.zcdy.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

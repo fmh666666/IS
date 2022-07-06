@@ -1,6 +1,6 @@
 5
-data.zbaq.txt 1
-data.zbds.txt 1
-data.zdod.txt 1
-data.zefs.txt 1
-data.zegz.txt 1
+data.zbaq.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zdod.txt 3.235060386727117
+data.zefs.txt 3.235060386727117
+data.zegz.txt 3.235060386727117

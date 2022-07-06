@@ -1,5 +1,5 @@
 4
-data.co.txt 4
-data.zbkr.txt 1
-data.zdaa.txt 1
-data.zezn.txt 2
+data.co.txt 7.870713291999142
+data.zbkr.txt 3.389731710180695
+data.zdaa.txt 3.389731710180695
+data.zezn.txt 5.372597648141796

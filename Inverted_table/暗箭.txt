@@ -1,11 +1,11 @@
 10
-data.mx.txt 1
-data.zabe.txt 1
-data.zbes.txt 1
-data.zcku.txt 1
-data.zcon.txt 1
-data.zcvt.txt 1
-data.zdby.txt 1
-data.zdcy.txt 1
-data.zenn.txt 1
-data.zfas.txt 1
+data.mx.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zbes.txt 2.7546073728089153
+data.zcku.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zcvt.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zdcy.txt 2.7546073728089153
+data.zenn.txt 2.7546073728089153
+data.zfas.txt 2.7546073728089153

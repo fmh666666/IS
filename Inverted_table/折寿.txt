@@ -1,6 +1,6 @@
 5
-data.zasy.txt 1
-data.zawu.txt 1
-data.zbzg.txt 3
-data.zdgt.txt 1
-data.zdwv.txt 1
+data.zasy.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zbzg.txt 6.470120773454234
+data.zdgt.txt 3.235060386727117
+data.zdwv.txt 3.235060386727117

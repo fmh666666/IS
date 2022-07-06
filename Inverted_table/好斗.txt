@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.fp.txt 1
-data.kq.txt 1
-data.zbxy.txt 2
-data.zbzg.txt 1
-data.zcel.txt 1
-data.zcrk.txt 1
-data.zexu.txt 1
+data.ev.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.zbxy.txt 4.611097637722987
+data.zbzg.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zexu.txt 2.9092786962624935

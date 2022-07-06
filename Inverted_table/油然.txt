@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.zarr.txt 1
-data.zcej.txt 1
-data.zcoy.txt 1
-data.zdsh.txt 1
+data.hu.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zcej.txt 3.235060386727117
+data.zcoy.txt 3.235060386727117
+data.zdsh.txt 3.235060386727117

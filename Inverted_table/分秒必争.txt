@@ -1,7 +1,7 @@
 6
-data.ud.txt 1
-data.zanm.txt 1
-data.zavx.txt 1
-data.zcqp.txt 1
-data.zehj.txt 1
-data.zeoo.txt 1
+data.ud.txt 3.1086847136800873
+data.zanm.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zehj.txt 3.1086847136800873
+data.zeoo.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.ep.txt 1
-data.hg.txt 1
-data.zbel.txt 1
-data.zbwq.txt 1
-data.zene.txt 2
-data.zezy.txt 1
-data.zfaj.txt 1
+data.aj.txt 2.9092786962624935
+data.ep.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbwq.txt 2.9092786962624935
+data.zene.txt 4.611097637722987
+data.zezy.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

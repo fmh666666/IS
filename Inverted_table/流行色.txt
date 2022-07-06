@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zbdb.txt 2
-data.zcli.txt 1
-data.zdpz.txt 2
-data.zezm.txt 1
+data.zagr.txt 3.235060386727117
+data.zbdb.txt 5.1274494005309625
+data.zcli.txt 3.235060386727117
+data.zdpz.txt 5.1274494005309625
+data.zezm.txt 3.235060386727117

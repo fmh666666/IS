@@ -1,4 +1,4 @@
 3
-data.zair.txt 3
-data.zcku.txt 1
-data.zecf.txt 2
+data.zair.txt 7.1782754551965775
+data.zcku.txt 3.5891377275982888
+data.zecf.txt 5.688648708166832

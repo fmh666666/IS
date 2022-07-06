@@ -1,3 +1,3 @@
 2
-data.zccu.txt 2
-data.zenn.txt 2
+data.zccu.txt 6.134097658560606
+data.zenn.txt 6.134097658560606

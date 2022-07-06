@@ -1,7 +1,7 @@
 6
-data.yx.txt 1
-data.zaim.txt 1
-data.zcdz.txt 1
-data.zcfx.txt 1
-data.zdnc.txt 1
-data.zeam.txt 1
+data.yx.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zdnc.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873

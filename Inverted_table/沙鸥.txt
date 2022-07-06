@@ -1,4 +1,4 @@
 3
-data.zcbm.txt 1
-data.zdme.txt 1
-data.zeta.txt 1
+data.zcbm.txt 3.5891377275982888
+data.zdme.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

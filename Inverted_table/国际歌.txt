@@ -1,12 +1,12 @@
 11
-data.cn.txt 38
-data.co.txt 24
-data.zafu.txt 1
-data.zbgd.txt 2
-data.zbvp.txt 1
-data.zcao.txt 1
-data.zcdy.txt 1
-data.zcrn.txt 1
-data.zdoc.txt 1
-data.zeay.txt 1
-data.zeyu.txt 1
+data.cn.txt 14.210033201121707
+data.co.txt 12.485208864981793
+data.zafu.txt 2.6885433903988862
+data.zbgd.txt 4.261240455343955
+data.zbvp.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcrn.txt 2.6885433903988862
+data.zdoc.txt 2.6885433903988862
+data.zeay.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862

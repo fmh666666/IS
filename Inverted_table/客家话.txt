@@ -1,14 +1,14 @@
 13
-data.jd.txt 3
-data.vm.txt 1
-data.zasw.txt 1
-data.zayc.txt 1
-data.zbel.txt 1
-data.zbes.txt 1
-data.zccl.txt 1
-data.zcem.txt 1
-data.zddb.txt 1
-data.zdkp.txt 2
-data.zdqz.txt 3
-data.zeik.txt 2
-data.zejk.txt 1
+data.jd.txt 5.145500645227181
+data.vm.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zayc.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zbes.txt 2.5727503226135906
+data.zccl.txt 2.5727503226135906
+data.zcem.txt 2.5727503226135906
+data.zddb.txt 2.5727503226135906
+data.zdkp.txt 4.077712785060798
+data.zdqz.txt 5.145500645227181
+data.zeik.txt 4.077712785060798
+data.zejk.txt 2.5727503226135906

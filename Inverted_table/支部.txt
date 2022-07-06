@@ -1,12 +1,12 @@
 11
-data.cq.txt 2
-data.jj.txt 4
-data.zamr.txt 1
-data.zbel.txt 1
-data.zbmw.txt 1
-data.zbph.txt 1
-data.zcaq.txt 1
-data.zeoh.txt 1
-data.zevq.txt 2
-data.zfaj.txt 1
-data.zfby.txt 1
+data.cq.txt 4.261240455343955
+data.jj.txt 6.2426044324908965
+data.zamr.txt 2.6885433903988862
+data.zbel.txt 2.6885433903988862
+data.zbmw.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zcaq.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862
+data.zevq.txt 4.261240455343955
+data.zfaj.txt 2.6885433903988862
+data.zfby.txt 2.6885433903988862

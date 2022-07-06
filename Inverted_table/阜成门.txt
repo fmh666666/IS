@@ -1,6 +1,6 @@
 5
-data.gz.txt 1
-data.zawb.txt 1
-data.zbrj.txt 1
-data.zcrg.txt 1
-data.zevq.txt 1
+data.gz.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

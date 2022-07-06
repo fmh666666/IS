@@ -1,11 +1,11 @@
 10
-data.zbgu.txt 1
-data.zbqu.txt 1
-data.zcdg.txt 1
-data.zdcj.txt 1
-data.zdgt.txt 491
-data.zdou.txt 1
-data.zegk.txt 2
-data.zene.txt 1
-data.zerw.txt 2
-data.zfae.txt 2
+data.zbgu.txt 2.7546073728089153
+data.zbqu.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zdcj.txt 2.7546073728089153
+data.zdgt.txt 24.63311638785814
+data.zdou.txt 2.7546073728089153
+data.zegk.txt 4.365949390112154
+data.zene.txt 2.7546073728089153
+data.zerw.txt 4.365949390112154
+data.zfae.txt 4.365949390112154

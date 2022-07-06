@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.ev.txt 1
-data.zail.txt 1
-data.zbel.txt 3
-data.zbvn.txt 1
-data.zdlm.txt 1
-data.zdme.txt 2
-data.zedx.txt 1
-data.zexv.txt 2
-data.zfai.txt 2
+data.bf.txt 2.7546073728089153
+data.ev.txt 2.7546073728089153
+data.zail.txt 2.7546073728089153
+data.zbel.txt 5.509214745617831
+data.zbvn.txt 2.7546073728089153
+data.zdlm.txt 2.7546073728089153
+data.zdme.txt 4.365949390112154
+data.zedx.txt 2.7546073728089153
+data.zexv.txt 4.365949390112154
+data.zfai.txt 4.365949390112154

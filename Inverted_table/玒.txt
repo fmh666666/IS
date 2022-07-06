@@ -1,4 +1,4 @@
 3
-data.zbnp.txt 2
-data.zcjo.txt 4
-data.zewd.txt 1
+data.zbnp.txt 5.688648708166832
+data.zcjo.txt 8.333719726130651
+data.zewd.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.jj.txt 1
-data.zcpb.txt 1
-data.zdux.txt 1
+data.jj.txt 3.5891377275982888
+data.zcpb.txt 3.5891377275982888
+data.zdux.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.co.txt 2
-data.zbts.txt 1
-data.zeay.txt 1
-data.zevy.txt 1
+data.co.txt 5.372597648141796
+data.zbts.txt 3.389731710180695
+data.zeay.txt 3.389731710180695
+data.zevy.txt 3.389731710180695

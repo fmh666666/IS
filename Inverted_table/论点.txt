@@ -1,11 +1,11 @@
 10
-data.zblr.txt 4
-data.zbnx.txt 2
-data.zbut.txt 1
-data.zcdv.txt 1
-data.zcic.txt 1
-data.zdzn.txt 1
-data.zebc.txt 1
-data.zebn.txt 3
-data.zeoh.txt 1
-data.zevq.txt 1
+data.zblr.txt 6.396000249308887
+data.zbnx.txt 4.365949390112154
+data.zbut.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcic.txt 2.7546073728089153
+data.zdzn.txt 2.7546073728089153
+data.zebc.txt 2.7546073728089153
+data.zebn.txt 5.509214745617831
+data.zeoh.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153

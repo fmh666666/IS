@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zajo.txt 1
-data.zawc.txt 1
-data.zbyb.txt 1
-data.zdju.txt 1
+data.dg.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zdju.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.qb.txt 2
-data.zalj.txt 2
-data.zaxj.txt 1
-data.zcpa.txt 2
-data.zczb.txt 2
-data.zerw.txt 2
+data.qb.txt 4.927148697748023
+data.zalj.txt 4.927148697748023
+data.zaxj.txt 3.1086847136800873
+data.zcpa.txt 4.927148697748023
+data.zczb.txt 4.927148697748023
+data.zerw.txt 4.927148697748023

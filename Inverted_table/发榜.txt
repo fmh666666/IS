@@ -1,6 +1,6 @@
 5
-data.zbfp.txt 1
-data.zdwd.txt 1
-data.zexm.txt 1
-data.zeyu.txt 1
-data.zfai.txt 1
+data.zbfp.txt 3.235060386727117
+data.zdwd.txt 3.235060386727117
+data.zexm.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

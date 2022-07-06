@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.hg.txt 2
-data.tv.txt 1
-data.zbgd.txt 1
-data.zbux.txt 2
-data.zdfl.txt 1
+data.ev.txt 3.1086847136800873
+data.hg.txt 4.927148697748023
+data.tv.txt 3.1086847136800873
+data.zbgd.txt 3.1086847136800873
+data.zbux.txt 4.927148697748023
+data.zdfl.txt 3.1086847136800873

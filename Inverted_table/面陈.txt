@@ -1,2 +1,2 @@
 1
-data.zcqe.txt 2
+data.zcqe.txt 6.8955976689794145

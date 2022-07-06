@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.ga.txt 1
-data.zcts.txt 4
-data.zefw.txt 1
-data.zezn.txt 1
+data.ft.txt 3.235060386727117
+data.ga.txt 3.235060386727117
+data.zcts.txt 7.511577600598868
+data.zefw.txt 3.235060386727117
+data.zezn.txt 3.235060386727117

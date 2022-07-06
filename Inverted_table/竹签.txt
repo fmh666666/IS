@@ -1,13 +1,13 @@
 12
-data.fz.txt 1
-data.pa.txt 3
-data.zaip.txt 1
-data.zavx.txt 1
-data.zbga.txt 1
-data.zcdy.txt 1
-data.zcfn.txt 16
-data.zcvt.txt 2
-data.zduk.txt 1
-data.zeaj.txt 1
-data.zegz.txt 1
-data.zekw.txt 2
+data.fz.txt 2.628231699761886
+data.pa.txt 5.256463399523772
+data.zaip.txt 2.628231699761886
+data.zavx.txt 2.628231699761886
+data.zbga.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcfn.txt 10.742799410972928
+data.zcvt.txt 4.165648687329214
+data.zduk.txt 2.628231699761886
+data.zeaj.txt 2.628231699761886
+data.zegz.txt 2.628231699761886
+data.zekw.txt 4.165648687329214

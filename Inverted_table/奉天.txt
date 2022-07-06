@@ -1,14 +1,14 @@
 13
-data.hp.txt 3
-data.pa.txt 1
-data.uz.txt 1
-data.wc.txt 1
-data.yx.txt 1
-data.zard.txt 1
-data.zbkj.txt 1
-data.zbsm.txt 1
-data.zcqp.txt 1
-data.zdmw.txt 1
-data.zemb.txt 2
-data.zfai.txt 20
-data.zfaj.txt 12
+data.hp.txt 5.145500645227181
+data.pa.txt 2.5727503226135906
+data.uz.txt 2.5727503226135906
+data.wc.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zard.txt 2.5727503226135906
+data.zbkj.txt 2.5727503226135906
+data.zbsm.txt 2.5727503226135906
+data.zcqp.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zemb.txt 4.077712785060798
+data.zfai.txt 11.30033606647535
+data.zfaj.txt 9.520307478659639

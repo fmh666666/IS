@@ -1,4 +1,4 @@
 3
-data.kq.txt 1
-data.zbhd.txt 2
-data.zbse.txt 1
+data.kq.txt 3.5891377275982888
+data.zbhd.txt 5.688648708166832
+data.zbse.txt 3.5891377275982888

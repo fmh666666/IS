@@ -1,7 +1,7 @@
 6
-data.zahd.txt 1
-data.zasj.txt 1
-data.zcqs.txt 1
-data.zcts.txt 2
-data.zeai.txt 1
-data.zfaj.txt 3
+data.zahd.txt 3.1086847136800873
+data.zasj.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zcts.txt 4.927148697748023
+data.zeai.txt 3.1086847136800873
+data.zfaj.txt 6.2173694273601745

@@ -1,9 +1,9 @@
 8
-data.jj.txt 1
-data.pa.txt 1
-data.zaoo.txt 1
-data.zcby.txt 1
-data.zciy.txt 1
-data.zcmv.txt 1
-data.zdeq.txt 2
-data.zezf.txt 1
+data.jj.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zaoo.txt 2.9092786962624935
+data.zcby.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zcmv.txt 2.9092786962624935
+data.zdeq.txt 4.611097637722987
+data.zezf.txt 2.9092786962624935

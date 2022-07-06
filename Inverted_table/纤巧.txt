@@ -1,5 +1,5 @@
 4
-data.zank.txt 1
-data.zbhd.txt 1
-data.zdnh.txt 1
-data.zdoc.txt 1
+data.zank.txt 3.389731710180695
+data.zbhd.txt 3.389731710180695
+data.zdnh.txt 3.389731710180695
+data.zdoc.txt 3.389731710180695

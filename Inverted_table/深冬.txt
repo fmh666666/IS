@@ -1,6 +1,6 @@
 5
-data.mu.txt 1
-data.yx.txt 1
-data.zbtj.txt 1
-data.zeoh.txt 2
-data.zeta.txt 1
+data.mu.txt 3.235060386727117
+data.yx.txt 3.235060386727117
+data.zbtj.txt 3.235060386727117
+data.zeoh.txt 5.1274494005309625
+data.zeta.txt 3.235060386727117

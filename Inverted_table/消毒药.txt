@@ -1,7 +1,7 @@
 6
-data.zalj.txt 1
-data.zbye.txt 1
-data.zcic.txt 1
-data.zdkk.txt 1
-data.zeyy.txt 1
-data.zfby.txt 1
+data.zalj.txt 3.1086847136800873
+data.zbye.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

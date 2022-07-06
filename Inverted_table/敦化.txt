@@ -1,5 +1,5 @@
 4
-data.zbvp.txt 4
-data.zcse.txt 1
-data.zdyv.txt 1
-data.zehp.txt 1
+data.zbvp.txt 7.870713291999142
+data.zcse.txt 3.389731710180695
+data.zdyv.txt 3.389731710180695
+data.zehp.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zawu.txt 1
-data.zcrn.txt 3
-data.zfai.txt 2
-data.zfaj.txt 4
+data.zako.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zcrn.txt 6.470120773454234
+data.zfai.txt 5.1274494005309625
+data.zfaj.txt 7.511577600598868

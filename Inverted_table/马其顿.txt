@@ -1,9 +1,9 @@
 8
-data.ga.txt 3
-data.tz.txt 1
-data.yx.txt 1
-data.zbyv.txt 1
-data.zcts.txt 3
-data.zeoh.txt 3
-data.zeun.txt 1
-data.zevq.txt 1
+data.ga.txt 5.818557392524987
+data.tz.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zbyv.txt 2.9092786962624935
+data.zcts.txt 5.818557392524987
+data.zeoh.txt 5.818557392524987
+data.zeun.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

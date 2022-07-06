@@ -1,10 +1,10 @@
 9
-data.be.txt 2
-data.zalt.txt 1
-data.zbsm.txt 2
-data.zdju.txt 1
-data.zedx.txt 1
-data.zehp.txt 6
-data.zeoo.txt 1
-data.zeyy.txt 1
-data.zfaz.txt 1
+data.be.txt 4.48169974735425
+data.zalt.txt 2.82763771717948
+data.zbsm.txt 4.48169974735425
+data.zdju.txt 2.82763771717948
+data.zedx.txt 2.82763771717948
+data.zehp.txt 7.938182663119541
+data.zeoo.txt 2.82763771717948
+data.zeyy.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948

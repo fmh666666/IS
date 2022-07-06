@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.bf.txt 1
-data.zabj.txt 4
-data.zajh.txt 1
-data.zake.txt 1
-data.zbeb.txt 1
-data.zccu.txt 1
-data.zcic.txt 1
-data.zeez.txt 1
-data.zegl.txt 4
-data.zegn.txt 3
+data.be.txt 2.6885433903988862
+data.bf.txt 2.6885433903988862
+data.zabj.txt 6.2426044324908965
+data.zajh.txt 2.6885433903988862
+data.zake.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zccu.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zeez.txt 2.6885433903988862
+data.zegl.txt 6.2426044324908965
+data.zegn.txt 5.3770867807977725

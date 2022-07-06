@@ -1,4 +1,4 @@
 3
-data.ew.txt 1
-data.zdhv.txt 2
-data.zess.txt 2
+data.ew.txt 3.5891377275982888
+data.zdhv.txt 5.688648708166832
+data.zess.txt 5.688648708166832

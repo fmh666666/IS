@@ -1,12 +1,12 @@
 11
-data.ye.txt 1
-data.zair.txt 1
-data.zako.txt 2
-data.zbcc.txt 2
-data.zbia.txt 1
-data.zbjc.txt 4
-data.zbxy.txt 1
-data.zegk.txt 1
-data.zehj.txt 1
-data.zenw.txt 1
-data.zezn.txt 1
+data.ye.txt 2.6885433903988862
+data.zair.txt 2.6885433903988862
+data.zako.txt 4.261240455343955
+data.zbcc.txt 4.261240455343955
+data.zbia.txt 2.6885433903988862
+data.zbjc.txt 6.2426044324908965
+data.zbxy.txt 2.6885433903988862
+data.zegk.txt 2.6885433903988862
+data.zehj.txt 2.6885433903988862
+data.zenw.txt 2.6885433903988862
+data.zezn.txt 2.6885433903988862

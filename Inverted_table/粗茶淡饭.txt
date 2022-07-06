@@ -1,11 +1,11 @@
 10
-data.ew.txt 1
-data.to.txt 1
-data.zafv.txt 1
-data.zaip.txt 1
-data.zbhd.txt 1
-data.zbnp.txt 1
-data.zbor.txt 1
-data.zdaa.txt 1
-data.zeag.txt 1
-data.zelj.txt 1
+data.ew.txt 2.7546073728089153
+data.to.txt 2.7546073728089153
+data.zafv.txt 2.7546073728089153
+data.zaip.txt 2.7546073728089153
+data.zbhd.txt 2.7546073728089153
+data.zbnp.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zdaa.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153
+data.zelj.txt 2.7546073728089153

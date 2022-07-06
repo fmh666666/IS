@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.zadv.txt 6
-data.zaxj.txt 1
-data.zbcc.txt 13
-data.zbwa.txt 1
-data.zbzg.txt 1
-data.zcfn.txt 1
-data.zdkp.txt 1
-data.zdof.txt 1
-data.zeoh.txt 1
+data.cf.txt 2.7546073728089153
+data.zadv.txt 7.733160566391275
+data.zaxj.txt 2.7546073728089153
+data.zbcc.txt 10.48776793920019
+data.zbwa.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zdkp.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

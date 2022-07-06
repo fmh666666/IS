@@ -1,11 +1,11 @@
 10
-data.wg.txt 1
-data.zasj.txt 1
-data.zawb.txt 1
-data.zciq.txt 1
-data.zcpa.txt 1
-data.zdcw.txt 1
-data.zdnh.txt 1
-data.zdst.txt 1
-data.zexk.txt 1
-data.zfcj.txt 1
+data.wg.txt 2.7546073728089153
+data.zasj.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zdnh.txt 2.7546073728089153
+data.zdst.txt 2.7546073728089153
+data.zexk.txt 2.7546073728089153
+data.zfcj.txt 2.7546073728089153

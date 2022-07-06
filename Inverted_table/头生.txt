@@ -1,6 +1,6 @@
 5
-data.ff.txt 1
-data.nh.txt 2
-data.zawb.txt 1
-data.zdeq.txt 1
-data.zeqv.txt 2
+data.ff.txt 3.235060386727117
+data.nh.txt 5.1274494005309625
+data.zawb.txt 3.235060386727117
+data.zdeq.txt 3.235060386727117
+data.zeqv.txt 5.1274494005309625

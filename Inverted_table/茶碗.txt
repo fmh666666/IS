@@ -1,7 +1,7 @@
 6
-data.zbhd.txt 1
-data.zbsl.txt 1
-data.zcjd.txt 1
-data.zene.txt 1
-data.zfai.txt 30
-data.zfaj.txt 39
+data.zbhd.txt 3.1086847136800873
+data.zbsl.txt 3.1086847136800873
+data.zcjd.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zfai.txt 15.401034338669968
+data.zfaj.txt 16.544196515880934

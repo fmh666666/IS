@@ -1,4 +1,4 @@
 3
-data.zbph.txt 1
-data.zfaj.txt 1
-data.zfcg.txt 1
+data.zbph.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

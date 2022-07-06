@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.mu.txt 1
-data.zalj.txt 1
-data.zbta.txt 1
-data.zcxq.txt 1
-data.zejk.txt 1
+data.jf.txt 3.1086847136800873
+data.mu.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zbta.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

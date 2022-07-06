@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zcdz.txt 1
-data.zcef.txt 1
-data.zedo.txt 1
-data.zeds.txt 1
+data.zawc.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zeds.txt 3.235060386727117

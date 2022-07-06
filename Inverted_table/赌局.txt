@@ -1,12 +1,12 @@
 11
-data.ud.txt 1
-data.zagr.txt 1
-data.zaim.txt 2
-data.zazw.txt 1
-data.zazx.txt 2
-data.zbfp.txt 1
-data.zblh.txt 1
-data.zbph.txt 1
-data.zcpa.txt 2
-data.zdkk.txt 1
-data.zduc.txt 1
+data.ud.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zaim.txt 4.261240455343955
+data.zazw.txt 2.6885433903988862
+data.zazx.txt 4.261240455343955
+data.zbfp.txt 2.6885433903988862
+data.zblh.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zcpa.txt 4.261240455343955
+data.zdkk.txt 2.6885433903988862
+data.zduc.txt 2.6885433903988862

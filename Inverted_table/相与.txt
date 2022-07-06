@@ -1,6 +1,6 @@
 5
-data.zasd.txt 1
-data.zaxx.txt 1
-data.zbkv.txt 1
-data.zdlw.txt 1
-data.zdoq.txt 1
+data.zasd.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117

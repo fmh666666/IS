@@ -1,4 +1,4 @@
 3
-data.co.txt 2
-data.fj.txt 1
-data.zaxx.txt 2
+data.co.txt 5.688648708166832
+data.fj.txt 3.5891377275982888
+data.zaxx.txt 5.688648708166832

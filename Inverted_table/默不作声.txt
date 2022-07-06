@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.zazo.txt 1
-data.zcef.txt 1
-data.zdro.txt 1
+data.ga.txt 3.389731710180695
+data.zazo.txt 3.389731710180695
+data.zcef.txt 3.389731710180695
+data.zdro.txt 3.389731710180695

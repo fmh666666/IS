@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.xe.txt 1
-data.zcef.txt 1
-data.zcxq.txt 1
-data.zewg.txt 1
+data.fp.txt 3.235060386727117
+data.xe.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zewg.txt 3.235060386727117

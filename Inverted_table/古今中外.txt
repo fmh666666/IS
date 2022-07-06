@@ -1,10 +1,10 @@
 9
-data.by.txt 1
-data.ga.txt 1
-data.gw.txt 1
-data.zaim.txt 1
-data.zbkv.txt 1
-data.zbot.txt 1
-data.zbqu.txt 1
-data.zccu.txt 1
-data.zdmw.txt 1
+data.by.txt 2.82763771717948
+data.ga.txt 2.82763771717948
+data.gw.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zbot.txt 2.82763771717948
+data.zbqu.txt 2.82763771717948
+data.zccu.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948

@@ -1,14 +1,14 @@
 13
-data.mo.txt 1
-data.zajr.txt 1
-data.zbcc.txt 1
-data.zbla.txt 1
-data.zbmt.txt 1
-data.zbzf.txt 1
-data.zdod.txt 1
-data.zduo.txt 1
-data.zebn.txt 1
-data.zedo.txt 2
-data.zety.txt 1
-data.zezh.txt 1
-data.zfas.txt 1
+data.mo.txt 2.5727503226135906
+data.zajr.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zbmt.txt 2.5727503226135906
+data.zbzf.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zebn.txt 2.5727503226135906
+data.zedo.txt 4.077712785060798
+data.zety.txt 2.5727503226135906
+data.zezh.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906

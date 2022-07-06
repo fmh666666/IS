@@ -1,12 +1,12 @@
 11
-data.zair.txt 1
-data.zalm.txt 1
-data.zbmw.txt 1
-data.zcse.txt 1
-data.zdby.txt 2
-data.zdil.txt 1
-data.zdlw.txt 1
-data.zdnc.txt 2
-data.zdpw.txt 1
-data.zeag.txt 1
-data.zenw.txt 1
+data.zair.txt 2.6885433903988862
+data.zalm.txt 2.6885433903988862
+data.zbmw.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdby.txt 4.261240455343955
+data.zdil.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zdnc.txt 4.261240455343955
+data.zdpw.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zenw.txt 2.6885433903988862

@@ -1,11 +1,11 @@
 10
-data.qb.txt 4
-data.vi.txt 1
-data.zaxk.txt 1
-data.zbcj.txt 1
-data.zbgw.txt 1
-data.zbsu.txt 1
-data.zbzf.txt 1
-data.zeay.txt 1
-data.zeec.txt 1
-data.zerh.txt 1
+data.qb.txt 6.396000249308887
+data.vi.txt 2.7546073728089153
+data.zaxk.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbgw.txt 2.7546073728089153
+data.zbsu.txt 2.7546073728089153
+data.zbzf.txt 2.7546073728089153
+data.zeay.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153
+data.zerh.txt 2.7546073728089153

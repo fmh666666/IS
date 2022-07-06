@@ -1,4 +1,4 @@
 3
-data.zahp.txt 1
-data.zbvg.txt 1
-data.zctp.txt 1
+data.zahp.txt 3.5891377275982888
+data.zbvg.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888

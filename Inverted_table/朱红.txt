@@ -1,10 +1,10 @@
 9
-data.co.txt 1
-data.zasw.txt 1
-data.zaub.txt 1
-data.zbgu.txt 1
-data.zcpa.txt 1
-data.zctp.txt 1
-data.zdcj.txt 1
-data.zdpg.txt 2
-data.zewn.txt 1
+data.co.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zaub.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zcpa.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zdpg.txt 4.48169974735425
+data.zewn.txt 2.82763771717948

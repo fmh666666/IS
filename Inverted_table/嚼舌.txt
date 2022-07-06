@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.zake.txt 1
-data.zbem.txt 1
-data.zbha.txt 1
-data.zbor.txt 1
-data.zcjy.txt 1
-data.zcpx.txt 1
-data.zcrn.txt 1
-data.zeoh.txt 1
+data.aj.txt 2.82763771717948
+data.zake.txt 2.82763771717948
+data.zbem.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zcjy.txt 2.82763771717948
+data.zcpx.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

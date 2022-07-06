@@ -1,4 +1,4 @@
 3
-data.zaej.txt 1
-data.zcak.txt 2
-data.zefu.txt 1
+data.zaej.txt 3.5891377275982888
+data.zcak.txt 5.688648708166832
+data.zefu.txt 3.5891377275982888

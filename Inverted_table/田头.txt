@@ -1,6 +1,6 @@
 5
-data.zcvq.txt 2
-data.zdgo.txt 1
-data.zelt.txt 1
-data.zezf.txt 2
-data.zfae.txt 1
+data.zcvq.txt 5.1274494005309625
+data.zdgo.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zezf.txt 5.1274494005309625
+data.zfae.txt 3.235060386727117

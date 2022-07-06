@@ -1,6 +1,6 @@
 5
-data.zasq.txt 1
-data.zbof.txt 1
-data.zczj.txt 1
-data.zdgt.txt 2
-data.zemf.txt 1
+data.zasq.txt 3.235060386727117
+data.zbof.txt 3.235060386727117
+data.zczj.txt 3.235060386727117
+data.zdgt.txt 5.1274494005309625
+data.zemf.txt 3.235060386727117

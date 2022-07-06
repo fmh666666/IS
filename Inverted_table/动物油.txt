@@ -1,4 +1,4 @@
 3
-data.zbha.txt 1
-data.zewn.txt 1
-data.zexx.txt 1
+data.zbha.txt 3.5891377275982888
+data.zewn.txt 3.5891377275982888
+data.zexx.txt 3.5891377275982888

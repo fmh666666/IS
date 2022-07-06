@@ -1,11 +1,11 @@
 10
-data.qb.txt 1
-data.zacw.txt 1
-data.zake.txt 1
-data.zasy.txt 1
-data.zbht.txt 1
-data.zbyb.txt 1
-data.zcmy.txt 2
-data.zcvq.txt 1
-data.zdpw.txt 1
-data.zevq.txt 1
+data.qb.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zake.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zbht.txt 2.7546073728089153
+data.zbyb.txt 2.7546073728089153
+data.zcmy.txt 4.365949390112154
+data.zcvq.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153

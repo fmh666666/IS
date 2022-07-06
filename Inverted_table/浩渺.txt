@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.mk.txt 1
-data.zcis.txt 2
-data.zdkp.txt 1
-data.zeaf.txt 1
+data.kq.txt 3.235060386727117
+data.mk.txt 3.235060386727117
+data.zcis.txt 5.1274494005309625
+data.zdkp.txt 3.235060386727117
+data.zeaf.txt 3.235060386727117

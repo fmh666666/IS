@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zaub.txt 3
-data.zbdb.txt 2
-data.zbpx.txt 1
-data.zexm.txt 1
+data.op.txt 3.235060386727117
+data.zaub.txt 6.470120773454234
+data.zbdb.txt 5.1274494005309625
+data.zbpx.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

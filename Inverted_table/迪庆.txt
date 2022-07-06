@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.vm.txt 1
-data.zalj.txt 1
-data.zblq.txt 1
-data.zcgi.txt 1
-data.zeay.txt 1
+data.kt.txt 3.1086847136800873
+data.vm.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zcgi.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873

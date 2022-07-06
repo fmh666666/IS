@@ -1,4 +1,4 @@
 3
-data.zauy.txt 1
-data.zcoy.txt 1
-data.zenw.txt 1
+data.zauy.txt 3.5891377275982888
+data.zcoy.txt 3.5891377275982888
+data.zenw.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zass.txt 1
-data.zdeb.txt 1
-data.zenn.txt 1
+data.zass.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888
+data.zenn.txt 3.5891377275982888

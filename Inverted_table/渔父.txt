@@ -1,4 +1,4 @@
 3
-data.be.txt 1
-data.zahp.txt 2
-data.zewd.txt 1
+data.be.txt 3.5891377275982888
+data.zahp.txt 5.688648708166832
+data.zewd.txt 3.5891377275982888

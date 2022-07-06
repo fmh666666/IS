@@ -1,14 +1,14 @@
 13
-data.ek.txt 2
-data.zabe.txt 1
-data.zaim.txt 1
-data.zbia.txt 1
-data.zbsf.txt 1
-data.zcao.txt 1
-data.zcsr.txt 1
-data.zctm.txt 1
-data.zdmw.txt 1
-data.zdst.txt 1
-data.zeez.txt 1
-data.zewn.txt 1
-data.zexv.txt 1
+data.ek.txt 4.077712785060798
+data.zabe.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zbia.txt 2.5727503226135906
+data.zbsf.txt 2.5727503226135906
+data.zcao.txt 2.5727503226135906
+data.zcsr.txt 2.5727503226135906
+data.zctm.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zdst.txt 2.5727503226135906
+data.zeez.txt 2.5727503226135906
+data.zewn.txt 2.5727503226135906
+data.zexv.txt 2.5727503226135906

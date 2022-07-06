@@ -1,7 +1,7 @@
 6
-data.zbdb.txt 1
-data.zbux.txt 2
-data.zcjy.txt 2
-data.zdeb.txt 2
-data.zduc.txt 1
-data.zenn.txt 1
+data.zbdb.txt 3.1086847136800873
+data.zbux.txt 4.927148697748023
+data.zcjy.txt 4.927148697748023
+data.zdeb.txt 4.927148697748023
+data.zduc.txt 3.1086847136800873
+data.zenn.txt 3.1086847136800873

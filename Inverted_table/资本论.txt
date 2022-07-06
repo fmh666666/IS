@@ -1,7 +1,7 @@
 6
-data.zawb.txt 1
-data.zbfz.txt 1
-data.zbzf.txt 1
-data.zcdz.txt 1
-data.zcts.txt 1
-data.zdoq.txt 1
+data.zawb.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873

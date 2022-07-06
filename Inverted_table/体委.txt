@@ -1,7 +1,7 @@
 6
-data.ew.txt 5
-data.jj.txt 1
-data.zbfg.txt 1
-data.zbfx.txt 1
-data.zcee.txt 1
-data.zcrn.txt 2
+data.ew.txt 8.03583341142811
+data.jj.txt 3.1086847136800873
+data.zbfg.txt 3.1086847136800873
+data.zbfx.txt 3.1086847136800873
+data.zcee.txt 3.1086847136800873
+data.zcrn.txt 4.927148697748023

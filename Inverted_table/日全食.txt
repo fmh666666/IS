@@ -1,4 +1,4 @@
 3
-data.gw.txt 1
-data.zabx.txt 2
-data.zbkj.txt 1
+data.gw.txt 3.5891377275982888
+data.zabx.txt 5.688648708166832
+data.zbkj.txt 3.5891377275982888

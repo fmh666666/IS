@@ -1,8 +1,8 @@
 7
-data.hg.txt 1
-data.mt.txt 4
-data.zawu.txt 1
-data.zbrj.txt 1
-data.zcjo.txt 1
-data.zdlw.txt 1
-data.zeeh.txt 1
+data.hg.txt 3.0018356045764243
+data.mt.txt 6.970046426499191
+data.zawu.txt 3.0018356045764243
+data.zbrj.txt 3.0018356045764243
+data.zcjo.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zeeh.txt 3.0018356045764243

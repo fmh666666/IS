@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zedd.txt 1
-data.zfas.txt 1
+data.mo.txt 3.5891377275982888
+data.zedd.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

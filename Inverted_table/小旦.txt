@@ -1,4 +1,4 @@
 3
-data.mu.txt 1
-data.zafq.txt 1
-data.zbfx.txt 1
+data.mu.txt 3.5891377275982888
+data.zafq.txt 3.5891377275982888
+data.zbfx.txt 3.5891377275982888

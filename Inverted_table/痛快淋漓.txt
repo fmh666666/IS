@@ -1,8 +1,8 @@
 7
-data.mx.txt 1
-data.sq.txt 1
-data.zasq.txt 1
-data.zbor.txt 1
-data.zdlw.txt 1
-data.zefs.txt 1
-data.zejk.txt 1
+data.mx.txt 3.0018356045764243
+data.sq.txt 3.0018356045764243
+data.zasq.txt 3.0018356045764243
+data.zbor.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zefs.txt 3.0018356045764243
+data.zejk.txt 3.0018356045764243

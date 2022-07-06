@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.zahd.txt 1
-data.zapl.txt 1
-data.zbaf.txt 1
-data.zcve.txt 1
-data.zduk.txt 1
+data.cf.txt 3.1086847136800873
+data.zahd.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zbaf.txt 3.1086847136800873
+data.zcve.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873

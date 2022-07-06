@@ -1,6 +1,6 @@
 5
-data.zbpx.txt 1
-data.zcmy.txt 1
-data.zdtv.txt 1
-data.zeds.txt 2
-data.zeik.txt 1
+data.zbpx.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zdtv.txt 3.235060386727117
+data.zeds.txt 5.1274494005309625
+data.zeik.txt 3.235060386727117

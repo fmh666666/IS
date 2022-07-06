@@ -1,6 +1,6 @@
 5
-data.uz.txt 1
-data.zadv.txt 1
-data.zawz.txt 1
-data.zcft.txt 1
-data.zeaf.txt 1
+data.uz.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zcft.txt 3.235060386727117
+data.zeaf.txt 3.235060386727117

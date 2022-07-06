@@ -1,6 +1,6 @@
 5
-data.zawu.txt 1
-data.zbfz.txt 1
-data.zbsm.txt 1
-data.zcqs.txt 1
-data.zcxr.txt 1
+data.zawu.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zcqs.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117

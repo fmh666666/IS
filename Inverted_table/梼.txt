@@ -1,3 +1,3 @@
 2
-data.zbhd.txt 3
-data.zbhe.txt 1
+data.zbhd.txt 7.740369448197793
+data.zbhe.txt 3.8701847240988965

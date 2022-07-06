@@ -1,12 +1,12 @@
 11
-data.ft.txt 1
-data.zaej.txt 1
-data.zaub.txt 1
-data.zbfr.txt 1
-data.zbhv.txt 3
-data.zbjq.txt 2
-data.zbmt.txt 3
-data.zcon.txt 2
-data.zcqs.txt 1
-data.zeeq.txt 1
-data.zeoh.txt 1
+data.ft.txt 2.6885433903988862
+data.zaej.txt 2.6885433903988862
+data.zaub.txt 2.6885433903988862
+data.zbfr.txt 2.6885433903988862
+data.zbhv.txt 5.3770867807977725
+data.zbjq.txt 4.261240455343955
+data.zbmt.txt 5.3770867807977725
+data.zcon.txt 4.261240455343955
+data.zcqs.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

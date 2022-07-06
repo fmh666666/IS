@@ -1,8 +1,8 @@
 7
-data.dg.txt 1
-data.zarr.txt 1
-data.zcej.txt 1
-data.zckd.txt 1
-data.zcvi.txt 1
-data.zcxr.txt 1
-data.zdod.txt 1
+data.dg.txt 3.0018356045764243
+data.zarr.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zckd.txt 3.0018356045764243
+data.zcvi.txt 3.0018356045764243
+data.zcxr.txt 3.0018356045764243
+data.zdod.txt 3.0018356045764243

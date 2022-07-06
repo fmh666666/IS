@@ -1,5 +1,5 @@
 4
-data.uz.txt 2
-data.zctp.txt 1
-data.zdwv.txt 1
-data.zeaj.txt 2
+data.uz.txt 5.372597648141796
+data.zctp.txt 3.389731710180695
+data.zdwv.txt 3.389731710180695
+data.zeaj.txt 5.372597648141796

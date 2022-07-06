@@ -1,10 +1,10 @@
 9
-data.mo.txt 1
-data.zanh.txt 1
-data.zbdx.txt 3
-data.zcpa.txt 1
-data.zcrn.txt 1
-data.zdey.txt 1
-data.zdzm.txt 2
-data.zeaf.txt 1
-data.zfdk.txt 1
+data.mo.txt 2.82763771717948
+data.zanh.txt 2.82763771717948
+data.zbdx.txt 5.65527543435896
+data.zcpa.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zdey.txt 2.82763771717948
+data.zdzm.txt 4.48169974735425
+data.zeaf.txt 2.82763771717948
+data.zfdk.txt 2.82763771717948

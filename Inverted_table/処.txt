@@ -1,3 +1,3 @@
 2
-data.bs.txt 4
-data.zbua.txt 1
+data.bs.txt 8.986290643289122
+data.zbua.txt 3.8701847240988965

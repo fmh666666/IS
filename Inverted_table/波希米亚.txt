@@ -1,5 +1,5 @@
 4
-data.xe.txt 1
-data.zayd.txt 2
-data.zbwq.txt 1
-data.zcjd.txt 1
+data.xe.txt 3.389731710180695
+data.zayd.txt 5.372597648141796
+data.zbwq.txt 3.389731710180695
+data.zcjd.txt 3.389731710180695

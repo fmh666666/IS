@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zaxp.txt 1
-data.zbvf.txt 1
-data.zcef.txt 1
-data.zddx.txt 1
+data.qn.txt 3.235060386727117
+data.zaxp.txt 3.235060386727117
+data.zbvf.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zddx.txt 3.235060386727117

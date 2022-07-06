@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.hc.txt 1
-data.jd.txt 1
-data.vm.txt 1
-data.zahd.txt 2
-data.zake.txt 1
-data.zdga.txt 1
-data.zdgp.txt 2
-data.zdpw.txt 1
-data.zemf.txt 1
-data.zeoh.txt 1
+data.cq.txt 2.6885433903988862
+data.hc.txt 2.6885433903988862
+data.jd.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.zahd.txt 4.261240455343955
+data.zake.txt 2.6885433903988862
+data.zdga.txt 2.6885433903988862
+data.zdgp.txt 4.261240455343955
+data.zdpw.txt 2.6885433903988862
+data.zemf.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

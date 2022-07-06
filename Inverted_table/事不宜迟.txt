@@ -1,9 +1,9 @@
 8
-data.tz.txt 1
-data.zamr.txt 1
-data.zawo.txt 1
-data.zbhv.txt 1
-data.zbzo.txt 1
-data.zcll.txt 1
-data.zdil.txt 2
-data.zedd.txt 1
+data.tz.txt 2.9092786962624935
+data.zamr.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zbhv.txt 2.9092786962624935
+data.zbzo.txt 2.9092786962624935
+data.zcll.txt 2.9092786962624935
+data.zdil.txt 4.611097637722987
+data.zedd.txt 2.9092786962624935

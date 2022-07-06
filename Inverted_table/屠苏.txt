@@ -1,10 +1,10 @@
 9
-data.tv.txt 40
-data.tz.txt 25
-data.zadv.txt 2
-data.zair.txt 1
-data.zaxj.txt 9
-data.zaxk.txt 8
-data.zbcc.txt 1
-data.zcdv.txt 1
-data.zcfn.txt 1
+data.tv.txt 15.149216120008626
+data.tz.txt 13.291140634344238
+data.zadv.txt 4.48169974735425
+data.zair.txt 2.82763771717948
+data.zaxj.txt 9.393209174861681
+data.zaxk.txt 8.9633994947085
+data.zbcc.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948

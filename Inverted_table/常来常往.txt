@@ -1,7 +1,7 @@
 6
-data.zakb.txt 1
-data.zbkj.txt 1
-data.zblq.txt 1
-data.zdkv.txt 2
-data.zefd.txt 1
-data.zeun.txt 1
+data.zakb.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zdkv.txt 4.927148697748023
+data.zefd.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873

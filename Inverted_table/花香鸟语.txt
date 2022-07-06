@@ -1,3 +1,3 @@
 2
-data.zbhd.txt 3
-data.zcfx.txt 1
+data.zbhd.txt 7.740369448197793
+data.zcfx.txt 3.8701847240988965

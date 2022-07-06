@@ -1,14 +1,14 @@
 13
-data.gk.txt 15
-data.mt.txt 1
-data.mu.txt 5
-data.zahp.txt 1
-data.zajh.txt 193
-data.zasw.txt 5
-data.zbbt.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zdwk.txt 1
-data.zekw.txt 3
-data.zesq.txt 1
-data.zeta.txt 1
+data.gk.txt 10.291001290454362
+data.mt.txt 2.5727503226135906
+data.mu.txt 6.650463107674388
+data.zahp.txt 2.5727503226135906
+data.zajh.txt 19.552678216572104
+data.zasw.txt 6.650463107674388
+data.zbbt.txt 2.5727503226135906
+data.zdod.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zdwk.txt 2.5727503226135906
+data.zekw.txt 5.145500645227181
+data.zesq.txt 2.5727503226135906
+data.zeta.txt 2.5727503226135906

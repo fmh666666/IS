@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.zavg.txt 1
-data.zbdx.txt 1
-data.zbgu.txt 2
-data.zdar.txt 1
-data.zdzg.txt 2
-data.zebc.txt 1
-data.zedx.txt 1
-data.zefs.txt 1
-data.zezn.txt 2
+data.ek.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zbdx.txt 2.7546073728089153
+data.zbgu.txt 4.365949390112154
+data.zdar.txt 2.7546073728089153
+data.zdzg.txt 4.365949390112154
+data.zebc.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zefs.txt 2.7546073728089153
+data.zezn.txt 4.365949390112154

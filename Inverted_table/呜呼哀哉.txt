@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.ng.txt 1
-data.zawb.txt 1
-data.zewn.txt 1
-data.zfae.txt 2
+data.kq.txt 3.235060386727117
+data.ng.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zewn.txt 3.235060386727117
+data.zfae.txt 5.1274494005309625

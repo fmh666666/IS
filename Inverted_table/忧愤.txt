@@ -1,4 +1,4 @@
 3
-data.ep.txt 1
-data.zbot.txt 1
-data.zfai.txt 1
+data.ep.txt 3.5891377275982888
+data.zbot.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

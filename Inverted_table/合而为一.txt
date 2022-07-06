@@ -1,8 +1,8 @@
 7
-data.jf.txt 1
-data.pn.txt 1
-data.zcbm.txt 1
-data.zcvt.txt 2
-data.zesq.txt 1
-data.zexm.txt 1
-data.zfai.txt 1
+data.jf.txt 3.0018356045764243
+data.pn.txt 3.0018356045764243
+data.zcbm.txt 3.0018356045764243
+data.zcvt.txt 4.757796866583254
+data.zesq.txt 3.0018356045764243
+data.zexm.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

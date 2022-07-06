@@ -1,5 +1,5 @@
 4
-data.zalm.txt 1
-data.zdcw.txt 1
-data.zdlo.txt 1
-data.zeqh.txt 1
+data.zalm.txt 3.389731710180695
+data.zdcw.txt 3.389731710180695
+data.zdlo.txt 3.389731710180695
+data.zeqh.txt 3.389731710180695

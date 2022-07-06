@@ -1,9 +1,9 @@
 8
-data.qb.txt 1
-data.zapf.txt 1
-data.zawc.txt 1
-data.zdqx.txt 1
-data.zebn.txt 1
-data.zedx.txt 3
-data.zefp.txt 1
-data.zevt.txt 1
+data.qb.txt 2.9092786962624935
+data.zapf.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zdqx.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zedx.txt 5.818557392524987
+data.zefp.txt 2.9092786962624935
+data.zevt.txt 2.9092786962624935

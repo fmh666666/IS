@@ -1,7 +1,7 @@
 6
-data.gk.txt 1
-data.zawb.txt 1
-data.zbjh.txt 1
-data.zcdz.txt 2
-data.zcql.txt 1
-data.zehb.txt 1
+data.gk.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zcdz.txt 4.927148697748023
+data.zcql.txt 3.1086847136800873
+data.zehb.txt 3.1086847136800873

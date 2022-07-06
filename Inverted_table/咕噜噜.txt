@@ -1,11 +1,11 @@
 10
-data.be.txt 25
-data.cq.txt 1
-data.ng.txt 1
-data.tv.txt 1
-data.zajo.txt 1
-data.zalm.txt 1
-data.zcel.txt 1
-data.zclh.txt 1
-data.zcpb.txt 1
-data.zeaf.txt 1
+data.be.txt 12.947865903035314
+data.cq.txt 2.7546073728089153
+data.ng.txt 2.7546073728089153
+data.tv.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zalm.txt 2.7546073728089153
+data.zcel.txt 2.7546073728089153
+data.zclh.txt 2.7546073728089153
+data.zcpb.txt 2.7546073728089153
+data.zeaf.txt 2.7546073728089153

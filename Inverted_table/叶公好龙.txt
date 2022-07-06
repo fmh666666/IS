@@ -1,5 +1,5 @@
 4
-data.zaqw.txt 1
-data.zbsl.txt 1
-data.zcdg.txt 1
-data.zeez.txt 1
+data.zaqw.txt 3.389731710180695
+data.zbsl.txt 3.389731710180695
+data.zcdg.txt 3.389731710180695
+data.zeez.txt 3.389731710180695

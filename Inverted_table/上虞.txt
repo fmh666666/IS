@@ -1,14 +1,14 @@
 13
-data.hz.txt 1
-data.zaic.txt 1
-data.zane.txt 1
-data.zayv.txt 2
-data.zbkf.txt 2
-data.zbzo.txt 4
-data.zcdv.txt 1
-data.zcln.txt 2
-data.zcuh.txt 1
-data.zdpg.txt 2
-data.zety.txt 2
-data.zewn.txt 2
-data.zfcj.txt 1
+data.hz.txt 2.5727503226135906
+data.zaic.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zayv.txt 4.077712785060798
+data.zbkf.txt 4.077712785060798
+data.zbzo.txt 5.97374125520702
+data.zcdv.txt 2.5727503226135906
+data.zcln.txt 4.077712785060798
+data.zcuh.txt 2.5727503226135906
+data.zdpg.txt 4.077712785060798
+data.zety.txt 4.077712785060798
+data.zewn.txt 4.077712785060798
+data.zfcj.txt 2.5727503226135906

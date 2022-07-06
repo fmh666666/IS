@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.zajo.txt 1
-data.zbeb.txt 3
-data.zbfz.txt 1
-data.zbyb.txt 1
-data.zdud.txt 1
+data.ft.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zbeb.txt 6.2173694273601745
+data.zbfz.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873

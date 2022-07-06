@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.hz.txt 1
-data.ka.txt 1
-data.zbem.txt 1
-data.zbfz.txt 1
-data.zddv.txt 1
-data.zeaj.txt 1
-data.zefs.txt 1
+data.gw.txt 2.9092786962624935
+data.hz.txt 2.9092786962624935
+data.ka.txt 2.9092786962624935
+data.zbem.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935
+data.zefs.txt 2.9092786962624935

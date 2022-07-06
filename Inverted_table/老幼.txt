@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zbes.txt 1
-data.zcts.txt 1
-data.zdwv.txt 2
-data.zfby.txt 1
+data.zajh.txt 3.235060386727117
+data.zbes.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdwv.txt 5.1274494005309625
+data.zfby.txt 3.235060386727117

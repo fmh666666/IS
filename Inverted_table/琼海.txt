@@ -1,6 +1,6 @@
 5
-data.hz.txt 25
-data.zadv.txt 1
-data.zbsl.txt 1
-data.zbsm.txt 3
-data.zbyb.txt 1
+data.hz.txt 15.206206332357024
+data.zadv.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zbsm.txt 6.470120773454234
+data.zbyb.txt 3.235060386727117

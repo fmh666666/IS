@@ -1,5 +1,5 @@
 4
-data.zanh.txt 1
-data.zawb.txt 1
-data.zccu.txt 1
-data.zdzg.txt 1
+data.zanh.txt 3.389731710180695
+data.zawb.txt 3.389731710180695
+data.zccu.txt 3.389731710180695
+data.zdzg.txt 3.389731710180695

@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.hz.txt 7
-data.zarc.txt 2
-data.zbcj.txt 1
-data.zbgu.txt 1
-data.zctn.txt 1
-data.zcue.txt 1
-data.zdgt.txt 1
-data.zfaj.txt 1
+data.fp.txt 2.82763771717948
+data.hz.txt 8.48291315153844
+data.zarc.txt 4.48169974735425
+data.zbcj.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

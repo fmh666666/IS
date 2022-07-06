@@ -1,11 +1,11 @@
 10
-data.zaoc.txt 1
-data.zbmw.txt 1
-data.zbpc.txt 1
-data.zcbe.txt 1
-data.zccx.txt 1
-data.zdep.txt 1
-data.zdhv.txt 1
-data.zebn.txt 1
-data.zeez.txt 1
-data.zezy.txt 1
+data.zaoc.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zccx.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153
+data.zdhv.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zeez.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153

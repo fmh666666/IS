@@ -1,12 +1,12 @@
 11
-data.ha.txt 1
-data.xk.txt 1
-data.zbaf.txt 1
-data.zbel.txt 2
-data.zbpx.txt 3
-data.zcdl.txt 2
-data.zcmy.txt 1
-data.zdey.txt 2
-data.zdkk.txt 1
-data.zfai.txt 2
-data.zfas.txt 1
+data.ha.txt 2.6885433903988862
+data.xk.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zbel.txt 4.261240455343955
+data.zbpx.txt 5.3770867807977725
+data.zcdl.txt 4.261240455343955
+data.zcmy.txt 2.6885433903988862
+data.zdey.txt 4.261240455343955
+data.zdkk.txt 2.6885433903988862
+data.zfai.txt 4.261240455343955
+data.zfas.txt 2.6885433903988862

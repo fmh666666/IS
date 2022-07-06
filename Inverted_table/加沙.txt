@@ -1,11 +1,11 @@
 10
-data.zadv.txt 2
-data.zaxp.txt 1
-data.zbpx.txt 1
-data.zcby.txt 1
-data.zcem.txt 1
-data.zcue.txt 3
-data.zdcw.txt 1
-data.zdyv.txt 1
-data.zene.txt 1
-data.zeqv.txt 1
+data.zadv.txt 4.365949390112154
+data.zaxp.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zcby.txt 2.7546073728089153
+data.zcem.txt 2.7546073728089153
+data.zcue.txt 5.509214745617831
+data.zdcw.txt 2.7546073728089153
+data.zdyv.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153

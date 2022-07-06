@@ -1,4 +1,4 @@
 3
-data.zayc.txt 1
-data.zbia.txt 1
-data.zcby.txt 1
+data.zayc.txt 3.5891377275982888
+data.zbia.txt 3.5891377275982888
+data.zcby.txt 3.5891377275982888

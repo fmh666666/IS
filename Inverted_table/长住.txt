@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.jj.txt 1
-data.zapl.txt 1
-data.zbaf.txt 1
-data.zbem.txt 1
-data.zbux.txt 1
-data.zcmn.txt 1
-data.zcon.txt 1
-data.zdgo.txt 1
-data.zdzg.txt 2
-data.zeec.txt 1
+data.hu.txt 2.6885433903988862
+data.jj.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zbem.txt 2.6885433903988862
+data.zbux.txt 2.6885433903988862
+data.zcmn.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zdzg.txt 4.261240455343955
+data.zeec.txt 2.6885433903988862

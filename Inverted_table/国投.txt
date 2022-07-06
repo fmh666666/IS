@@ -1,13 +1,13 @@
 12
-data.dg.txt 4
-data.kq.txt 3
-data.op.txt 2
-data.zbkj.txt 1
-data.zbnp.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcls.txt 3
-data.zcqp.txt 1
-data.zdkv.txt 1
-data.zdvl.txt 1
-data.zety.txt 3
+data.dg.txt 6.1025650235506905
+data.kq.txt 5.256463399523772
+data.op.txt 4.165648687329214
+data.zbkj.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcdz.txt 4.165648687329214
+data.zcls.txt 5.256463399523772
+data.zcqp.txt 2.628231699761886
+data.zdkv.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zety.txt 5.256463399523772

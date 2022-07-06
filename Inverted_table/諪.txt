@@ -1,7 +1,7 @@
 6
-data.zanh.txt 6
-data.zasy.txt 2
-data.zavx.txt 2
-data.zbbt.txt 30
-data.zbds.txt 2
-data.zfdk.txt 1
+data.zanh.txt 8.727181332075027
+data.zasy.txt 4.927148697748023
+data.zavx.txt 4.927148697748023
+data.zbbt.txt 15.401034338669968
+data.zbds.txt 4.927148697748023
+data.zfdk.txt 3.1086847136800873

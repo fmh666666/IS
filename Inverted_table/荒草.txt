@@ -1,4 +1,4 @@
 3
-data.hc.txt 1
-data.zbpm.txt 1
-data.zdwd.txt 1
+data.hc.txt 3.5891377275982888
+data.zbpm.txt 3.5891377275982888
+data.zdwd.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.op.txt 3
-data.zcqe.txt 1
-data.zdou.txt 1
+data.op.txt 7.1782754551965775
+data.zcqe.txt 3.5891377275982888
+data.zdou.txt 3.5891377275982888

@@ -1,10 +1,10 @@
 9
-data.ee.txt 1
-data.zapl.txt 1
-data.zawb.txt 1
-data.zbvm.txt 2
-data.zctp.txt 1
-data.zedo.txt 1
-data.zeeh.txt 1
-data.zeva.txt 1
-data.zfby.txt 1
+data.ee.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbvm.txt 4.48169974735425
+data.zctp.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zeeh.txt 2.82763771717948
+data.zeva.txt 2.82763771717948
+data.zfby.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.ff.txt 2
-data.zako.txt 1
-data.zaxk.txt 1
-data.zcbe.txt 1
-data.zexk.txt 1
+data.ff.txt 5.1274494005309625
+data.zako.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zcbe.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.zaqw.txt 1
-data.zaub.txt 1
-data.zcdl.txt 1
-data.zcqs.txt 1
-data.zedk.txt 1
-data.zefs.txt 1
-data.zfdk.txt 2
+data.ev.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zefs.txt 2.9092786962624935
+data.zfdk.txt 4.611097637722987

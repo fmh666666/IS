@@ -1,4 +1,4 @@
 3
-data.zcej.txt 1
-data.zcqs.txt 1
-data.zeyg.txt 2
+data.zcej.txt 3.5891377275982888
+data.zcqs.txt 3.5891377275982888
+data.zeyg.txt 5.688648708166832

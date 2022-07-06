@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.zaqr.txt 1
-data.zawb.txt 1
-data.zbfp.txt 1
-data.zcse.txt 1
-data.zeay.txt 1
-data.zene.txt 1
-data.zexv.txt 1
-data.zfaj.txt 1
+data.gw.txt 2.82763771717948
+data.zaqr.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbfp.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zexv.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

@@ -1,10 +1,10 @@
 9
-data.uz.txt 1
-data.zair.txt 2
-data.zayc.txt 1
-data.zayv.txt 1
-data.zazo.txt 1
-data.zbxw.txt 1
-data.zbxy.txt 2
-data.zdep.txt 7
-data.zdof.txt 2
+data.uz.txt 2.82763771717948
+data.zair.txt 4.48169974735425
+data.zayc.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbxw.txt 2.82763771717948
+data.zbxy.txt 4.48169974735425
+data.zdep.txt 8.48291315153844
+data.zdof.txt 4.48169974735425

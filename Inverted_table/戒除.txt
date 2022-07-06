@@ -1,7 +1,7 @@
 6
-data.hz.txt 1
-data.ka.txt 1
-data.zall.txt 1
-data.zard.txt 2
-data.zbjh.txt 5
-data.zeoo.txt 1
+data.hz.txt 3.1086847136800873
+data.ka.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zard.txt 4.927148697748023
+data.zbjh.txt 8.03583341142811
+data.zeoo.txt 3.1086847136800873

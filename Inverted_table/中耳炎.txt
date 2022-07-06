@@ -1,7 +1,7 @@
 6
-data.zbwa.txt 1
-data.zcln.txt 1
-data.zctp.txt 4
-data.zcts.txt 3
-data.zczp.txt 1
-data.zewd.txt 1
+data.zbwa.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zctp.txt 7.21814237484067
+data.zcts.txt 6.2173694273601745
+data.zczp.txt 3.1086847136800873
+data.zewd.txt 3.1086847136800873

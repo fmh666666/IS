@@ -1,11 +1,11 @@
 10
-data.sq.txt 1
-data.zbjk.txt 1
-data.zbsu.txt 2
-data.zbup.txt 1
-data.zbut.txt 1
-data.zcvt.txt 1
-data.zdkv.txt 1
-data.zefu.txt 1
-data.zeqh.txt 1
-data.zewv.txt 2
+data.sq.txt 2.7546073728089153
+data.zbjk.txt 2.7546073728089153
+data.zbsu.txt 4.365949390112154
+data.zbup.txt 2.7546073728089153
+data.zbut.txt 2.7546073728089153
+data.zcvt.txt 2.7546073728089153
+data.zdkv.txt 2.7546073728089153
+data.zefu.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153
+data.zewv.txt 4.365949390112154

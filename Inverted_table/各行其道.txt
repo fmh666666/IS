@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.hz.txt 2
-data.zahd.txt 1
+data.hp.txt 3.5891377275982888
+data.hz.txt 5.688648708166832
+data.zahd.txt 3.5891377275982888

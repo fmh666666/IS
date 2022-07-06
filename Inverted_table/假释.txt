@@ -1,8 +1,8 @@
 7
-data.ga.txt 1
-data.zbil.txt 1
-data.zdeq.txt 1
-data.zefw.txt 1
-data.zeoo.txt 1
-data.zeyu.txt 1
-data.zfby.txt 1
+data.ga.txt 3.0018356045764243
+data.zbil.txt 3.0018356045764243
+data.zdeq.txt 3.0018356045764243
+data.zefw.txt 3.0018356045764243
+data.zeoo.txt 3.0018356045764243
+data.zeyu.txt 3.0018356045764243
+data.zfby.txt 3.0018356045764243

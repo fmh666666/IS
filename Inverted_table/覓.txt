@@ -1,7 +1,7 @@
 6
-data.zall.txt 1
-data.zass.txt 1
-data.zdby.txt 1
-data.zdwk.txt 1
-data.zdwz.txt 1
-data.zeaf.txt 1
+data.zall.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873
+data.zdwk.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zeaf.txt 3.1086847136800873

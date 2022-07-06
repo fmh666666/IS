@@ -1,9 +1,9 @@
 8
-data.gz.txt 1
-data.zajr.txt 1
-data.zawb.txt 1
-data.zazx.txt 1
-data.zbnx.txt 2
-data.zdju.txt 1
-data.zelt.txt 1
-data.zesi.txt 1
+data.gz.txt 2.9092786962624935
+data.zajr.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zazx.txt 2.9092786962624935
+data.zbnx.txt 4.611097637722987
+data.zdju.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zesi.txt 2.9092786962624935

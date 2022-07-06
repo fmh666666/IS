@@ -1,12 +1,12 @@
 11
-data.zacp.txt 1
-data.zahd.txt 1
-data.zazg.txt 1
-data.zbcj.txt 1
-data.zbil.txt 1
-data.zbxw.txt 1
-data.zcts.txt 3
-data.zddp.txt 1
-data.zeeq.txt 1
-data.zene.txt 1
-data.zfae.txt 1
+data.zacp.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zazg.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbxw.txt 2.6885433903988862
+data.zcts.txt 5.3770867807977725
+data.zddp.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

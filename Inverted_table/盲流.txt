@@ -1,9 +1,9 @@
 8
-data.zagr.txt 2
-data.zaoy.txt 2
-data.zaqr.txt 1
-data.zawb.txt 1
-data.zbsu.txt 1
-data.zdtr.txt 1
-data.zemb.txt 1
-data.zene.txt 2
+data.zagr.txt 4.611097637722987
+data.zaoy.txt 4.611097637722987
+data.zaqr.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zene.txt 4.611097637722987

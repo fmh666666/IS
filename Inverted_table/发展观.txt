@@ -1,12 +1,12 @@
 11
-data.gz.txt 1
-data.op.txt 1
-data.zaim.txt 1
-data.zbcc.txt 1
-data.zbfz.txt 1
-data.zbwa.txt 1
-data.zbye.txt 1
-data.zcjd.txt 1
-data.zdby.txt 1
-data.zdou.txt 2
-data.zexv.txt 1
+data.gz.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbwa.txt 2.6885433903988862
+data.zbye.txt 2.6885433903988862
+data.zcjd.txt 2.6885433903988862
+data.zdby.txt 2.6885433903988862
+data.zdou.txt 4.261240455343955
+data.zexv.txt 2.6885433903988862

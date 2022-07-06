@@ -1,6 +1,6 @@
 5
-data.ok.txt 1
-data.vm.txt 1
-data.zdxw.txt 1
-data.zdzm.txt 1
-data.zeds.txt 2
+data.ok.txt 3.235060386727117
+data.vm.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117
+data.zeds.txt 5.1274494005309625

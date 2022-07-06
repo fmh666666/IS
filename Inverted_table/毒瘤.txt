@@ -1,11 +1,11 @@
 10
-data.zaxp.txt 1
-data.zbhd.txt 1
-data.zcdy.txt 2
-data.zcmx.txt 1
-data.zcvt.txt 1
-data.zczl.txt 2
-data.zeob.txt 1
-data.zess.txt 1
-data.zfaj.txt 1
-data.zfcg.txt 1
+data.zaxp.txt 2.7546073728089153
+data.zbhd.txt 2.7546073728089153
+data.zcdy.txt 4.365949390112154
+data.zcmx.txt 2.7546073728089153
+data.zcvt.txt 2.7546073728089153
+data.zczl.txt 4.365949390112154
+data.zeob.txt 2.7546073728089153
+data.zess.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153
+data.zfcg.txt 2.7546073728089153

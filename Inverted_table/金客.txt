@@ -1,4 +1,4 @@
 3
-data.zamr.txt 1
-data.zcrg.txt 1
-data.zdoq.txt 1
+data.zamr.txt 3.5891377275982888
+data.zcrg.txt 3.5891377275982888
+data.zdoq.txt 3.5891377275982888

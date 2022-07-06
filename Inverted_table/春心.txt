@@ -1,11 +1,11 @@
 10
-data.cq.txt 1
-data.ek.txt 1
-data.tj.txt 1
-data.zamr.txt 2
-data.zaop.txt 1
-data.zard.txt 1
-data.zbsl.txt 1
-data.zdcw.txt 1
-data.zefv.txt 1
-data.zegk.txt 1
+data.cq.txt 2.7546073728089153
+data.ek.txt 2.7546073728089153
+data.tj.txt 2.7546073728089153
+data.zamr.txt 4.365949390112154
+data.zaop.txt 2.7546073728089153
+data.zard.txt 2.7546073728089153
+data.zbsl.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153
+data.zegk.txt 2.7546073728089153

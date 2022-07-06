@@ -1,4 +1,4 @@
 3
-data.zalm.txt 1
-data.zdkv.txt 1
-data.zeaj.txt 1
+data.zalm.txt 3.5891377275982888
+data.zdkv.txt 3.5891377275982888
+data.zeaj.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.by.txt 1
-data.zbut.txt 1
-data.zbwq.txt 1
-data.zdju.txt 1
-data.zeeq.txt 1
+data.by.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

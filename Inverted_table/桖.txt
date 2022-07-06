@@ -1,6 +1,6 @@
 5
-data.mx.txt 1
-data.zbmt.txt 1
-data.zbre.txt 1
-data.zdaw.txt 2
-data.zdeb.txt 1
+data.mx.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zdaw.txt 5.1274494005309625
+data.zdeb.txt 3.235060386727117

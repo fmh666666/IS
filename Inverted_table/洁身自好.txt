@@ -1,9 +1,9 @@
 8
-data.zadv.txt 1
-data.zaql.txt 1
-data.zasy.txt 1
-data.zblr.txt 1
-data.zbor.txt 2
-data.zbpx.txt 1
-data.zcsu.txt 1
-data.zene.txt 1
+data.zadv.txt 2.9092786962624935
+data.zaql.txt 2.9092786962624935
+data.zasy.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zbor.txt 4.611097637722987
+data.zbpx.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

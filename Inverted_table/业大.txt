@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.zaip.txt 1
-data.zbgu.txt 2
-data.zbqu.txt 1
-data.zccx.txt 1
-data.zcdz.txt 1
-data.zdgt.txt 1
+data.kq.txt 3.0018356045764243
+data.zaip.txt 3.0018356045764243
+data.zbgu.txt 4.757796866583254
+data.zbqu.txt 3.0018356045764243
+data.zccx.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243

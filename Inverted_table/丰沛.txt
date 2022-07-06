@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zass.txt 1
-data.zbre.txt 2
-data.zcdg.txt 1
-data.zcrv.txt 1
+data.zacd.txt 3.235060386727117
+data.zass.txt 3.235060386727117
+data.zbre.txt 5.1274494005309625
+data.zcdg.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117

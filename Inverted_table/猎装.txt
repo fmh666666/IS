@@ -1,3 +1,3 @@
 2
-data.zbot.txt 1
-data.zcrn.txt 1
+data.zbot.txt 3.8701847240988965
+data.zcrn.txt 3.8701847240988965

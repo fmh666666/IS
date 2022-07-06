@@ -1,12 +1,12 @@
 11
-data.en.txt 1
-data.zbcj.txt 1
-data.zbre.txt 1
-data.zcis.txt 1
-data.zcqp.txt 1
-data.zcts.txt 2
-data.zdaa.txt 1
-data.zdeq.txt 1
-data.zewn.txt 1
-data.zewp.txt 1
-data.zfas.txt 1
+data.en.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcqp.txt 2.6885433903988862
+data.zcts.txt 4.261240455343955
+data.zdaa.txt 2.6885433903988862
+data.zdeq.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862
+data.zewp.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

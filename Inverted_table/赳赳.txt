@@ -1,4 +1,4 @@
 3
-data.zbds.txt 1
-data.zdpz.txt 1
-data.zebc.txt 1
+data.zbds.txt 3.5891377275982888
+data.zdpz.txt 3.5891377275982888
+data.zebc.txt 3.5891377275982888

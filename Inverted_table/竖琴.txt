@@ -1,14 +1,14 @@
 13
-data.fe.txt 5
-data.tz.txt 1
-data.zasy.txt 1
-data.zavg.txt 1
-data.zbcj.txt 1
-data.zbil.txt 4
-data.zbkv.txt 1
-data.zcku.txt 1
-data.zcxh.txt 1
-data.zerw.txt 1
-data.zeun.txt 2
-data.zfas.txt 1
-data.zfcj.txt 1
+data.fe.txt 6.650463107674388
+data.tz.txt 2.5727503226135906
+data.zasy.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zbcj.txt 2.5727503226135906
+data.zbil.txt 5.97374125520702
+data.zbkv.txt 2.5727503226135906
+data.zcku.txt 2.5727503226135906
+data.zcxh.txt 2.5727503226135906
+data.zerw.txt 2.5727503226135906
+data.zeun.txt 4.077712785060798
+data.zfas.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

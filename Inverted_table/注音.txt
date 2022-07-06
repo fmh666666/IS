@@ -1,5 +1,5 @@
 4
-data.zamr.txt 1
-data.zavg.txt 1
-data.zaxj.txt 1
-data.zcdg.txt 1
+data.zamr.txt 3.389731710180695
+data.zavg.txt 3.389731710180695
+data.zaxj.txt 3.389731710180695
+data.zcdg.txt 3.389731710180695

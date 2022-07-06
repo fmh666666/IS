@@ -1,6 +1,6 @@
 5
-data.zbfx.txt 1
-data.zbgd.txt 1
-data.zcdv.txt 1
-data.zdll.txt 1
-data.zdtr.txt 3
+data.zbfx.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdll.txt 3.235060386727117
+data.zdtr.txt 6.470120773454234

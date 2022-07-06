@@ -1,5 +1,5 @@
 4
-data.zail.txt 1
-data.zdnc.txt 1
-data.zdwl.txt 1
-data.zegz.txt 1
+data.zail.txt 3.389731710180695
+data.zdnc.txt 3.389731710180695
+data.zdwl.txt 3.389731710180695
+data.zegz.txt 3.389731710180695

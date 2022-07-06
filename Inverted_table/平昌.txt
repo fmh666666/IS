@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.tz.txt 2
-data.ud.txt 1
-data.zbel.txt 1
-data.zdwz.txt 2
+data.to.txt 3.235060386727117
+data.tz.txt 5.1274494005309625
+data.ud.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zdwz.txt 5.1274494005309625

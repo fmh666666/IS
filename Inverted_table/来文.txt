@@ -1,11 +1,11 @@
 10
-data.zajr.txt 1
-data.zass.txt 1
-data.zbjq.txt 1
-data.zbkj.txt 1
-data.zcko.txt 1
-data.zcku.txt 1
-data.zcmv.txt 2
-data.zcqp.txt 1
-data.zebn.txt 1
-data.zedx.txt 1
+data.zajr.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zbjq.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zcku.txt 2.7546073728089153
+data.zcmv.txt 4.365949390112154
+data.zcqp.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153

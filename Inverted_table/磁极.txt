@@ -1,7 +1,7 @@
 6
-data.gw.txt 7
-data.zawb.txt 1
-data.zbsm.txt 1
-data.zdju.txt 1
-data.zdkv.txt 2
-data.zdpw.txt 2
+data.gw.txt 9.326054141040261
+data.zawb.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zdkv.txt 4.927148697748023
+data.zdpw.txt 4.927148697748023

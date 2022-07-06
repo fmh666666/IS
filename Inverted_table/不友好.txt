@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zaip.txt 1
-data.zbia.txt 1
-data.zcdy.txt 2
-data.zdme.txt 1
-data.zeac.txt 1
-data.zenw.txt 1
-data.zeqn.txt 1
+data.kq.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zcdy.txt 4.611097637722987
+data.zdme.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935

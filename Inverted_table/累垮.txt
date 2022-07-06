@@ -1,7 +1,7 @@
 6
-data.zbga.txt 1
-data.zcbe.txt 1
-data.zcoy.txt 1
-data.zcqe.txt 1
-data.zcse.txt 1
-data.zdgo.txt 1
+data.zbga.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zcoy.txt 3.1086847136800873
+data.zcqe.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zdgo.txt 3.1086847136800873

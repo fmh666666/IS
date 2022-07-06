@@ -1,12 +1,12 @@
 11
-data.hz.txt 1
-data.pa.txt 1
-data.zafe.txt 1
-data.zaql.txt 1
-data.zbnp.txt 1
-data.zbux.txt 1
-data.zcda.txt 1
-data.zcis.txt 1
-data.zcnn.txt 1
-data.zdwz.txt 1
-data.zegn.txt 1
+data.hz.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zafe.txt 2.6885433903988862
+data.zaql.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zbux.txt 2.6885433903988862
+data.zcda.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcnn.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zegn.txt 2.6885433903988862

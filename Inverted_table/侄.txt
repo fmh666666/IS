@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.hc.txt 1
-data.ng.txt 2
-data.zadv.txt 1
-data.zawb.txt 1
-data.zbla.txt 2
-data.zbrj.txt 1
-data.zbsf.txt 1
-data.zdaw.txt 1
-data.zddb.txt 2
-data.zdlm.txt 1
-data.zehj.txt 1
+data.aj.txt 2.628231699761886
+data.hc.txt 2.628231699761886
+data.ng.txt 4.165648687329214
+data.zadv.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbla.txt 4.165648687329214
+data.zbrj.txt 2.628231699761886
+data.zbsf.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zddb.txt 4.165648687329214
+data.zdlm.txt 2.628231699761886
+data.zehj.txt 2.628231699761886

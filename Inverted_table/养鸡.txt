@@ -1,10 +1,10 @@
 9
-data.zbbt.txt 1
-data.zbnp.txt 1
-data.zcon.txt 1
-data.zcpc.txt 1
-data.zcue.txt 1
-data.zdud.txt 1
-data.zeoh.txt 1
-data.zess.txt 1
-data.zevq.txt 2
+data.zbbt.txt 2.82763771717948
+data.zbnp.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdud.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zess.txt 2.82763771717948
+data.zevq.txt 4.48169974735425

@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zawm.txt 2
-data.zbdx.txt 1
-data.zbfp.txt 1
-data.zdou.txt 4
-data.zdqx.txt 1
+data.op.txt 3.1086847136800873
+data.zawm.txt 4.927148697748023
+data.zbdx.txt 3.1086847136800873
+data.zbfp.txt 3.1086847136800873
+data.zdou.txt 7.21814237484067
+data.zdqx.txt 3.1086847136800873

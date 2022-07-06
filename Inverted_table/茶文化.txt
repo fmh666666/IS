@@ -1,14 +1,14 @@
 13
-data.bf.txt 1
-data.zafu.txt 1
-data.zaim.txt 1
-data.zajo.txt 4
-data.zazn.txt 1
-data.zbtx.txt 1
-data.zbwa.txt 1
-data.zcmy.txt 1
-data.zcsu.txt 1
-data.zdpw.txt 1
-data.zeeh.txt 1
-data.zeoh.txt 2
-data.zesq.txt 1
+data.bf.txt 2.5727503226135906
+data.zafu.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zajo.txt 5.97374125520702
+data.zazn.txt 2.5727503226135906
+data.zbtx.txt 2.5727503226135906
+data.zbwa.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zdpw.txt 2.5727503226135906
+data.zeeh.txt 2.5727503226135906
+data.zeoh.txt 4.077712785060798
+data.zesq.txt 2.5727503226135906

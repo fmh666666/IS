@@ -1,4 +1,4 @@
 3
-data.zamp.txt 1
-data.zbfz.txt 1
-data.zbhd.txt 1
+data.zamp.txt 3.5891377275982888
+data.zbfz.txt 3.5891377275982888
+data.zbhd.txt 3.5891377275982888

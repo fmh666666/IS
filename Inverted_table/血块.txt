@@ -1,6 +1,6 @@
 5
-data.bs.txt 2
-data.cq.txt 1
-data.zcxp.txt 1
-data.zdoc.txt 1
-data.zedy.txt 1
+data.bs.txt 5.1274494005309625
+data.cq.txt 3.235060386727117
+data.zcxp.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117
+data.zedy.txt 3.235060386727117

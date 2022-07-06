@@ -1,14 +1,14 @@
 13
-data.zagr.txt 1
-data.zalm.txt 1
-data.zanm.txt 1
-data.zazn.txt 1
-data.zbdx.txt 1
-data.zcgi.txt 1
-data.zcln.txt 1
-data.zcmx.txt 1
-data.zdil.txt 1
-data.zdwd.txt 1
-data.zeeh.txt 5
-data.zegz.txt 1
-data.zfas.txt 3
+data.zagr.txt 2.5727503226135906
+data.zalm.txt 2.5727503226135906
+data.zanm.txt 2.5727503226135906
+data.zazn.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zcgi.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zcmx.txt 2.5727503226135906
+data.zdil.txt 2.5727503226135906
+data.zdwd.txt 2.5727503226135906
+data.zeeh.txt 6.650463107674388
+data.zegz.txt 2.5727503226135906
+data.zfas.txt 5.145500645227181

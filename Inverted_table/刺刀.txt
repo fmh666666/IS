@@ -1,11 +1,11 @@
 10
-data.zaim.txt 2
-data.zbem.txt 1
-data.zbwq.txt 3
-data.zcee.txt 1
-data.zcrg.txt 1
-data.zctm.txt 3
-data.zdby.txt 1
-data.zdle.txt 1
-data.zdod.txt 2
-data.zelj.txt 1
+data.zaim.txt 4.365949390112154
+data.zbem.txt 2.7546073728089153
+data.zbwq.txt 5.509214745617831
+data.zcee.txt 2.7546073728089153
+data.zcrg.txt 2.7546073728089153
+data.zctm.txt 5.509214745617831
+data.zdby.txt 2.7546073728089153
+data.zdle.txt 2.7546073728089153
+data.zdod.txt 4.365949390112154
+data.zelj.txt 2.7546073728089153

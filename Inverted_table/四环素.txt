@@ -1,4 +1,4 @@
 3
-data.zdaq.txt 30
-data.zdar.txt 33
-data.zdwn.txt 4
+data.zdaq.txt 17.781292887537777
+data.zdar.txt 18.25960482128598
+data.zdwn.txt 8.333719726130651

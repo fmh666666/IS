@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zaim.txt 2
-data.zavx.txt 3
-data.zbhd.txt 1
-data.zbil.txt 2
+data.gw.txt 3.235060386727117
+data.zaim.txt 5.1274494005309625
+data.zavx.txt 6.470120773454234
+data.zbhd.txt 3.235060386727117
+data.zbil.txt 5.1274494005309625

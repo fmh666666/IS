@@ -1,9 +1,9 @@
 8
-data.zake.txt 1
-data.zbmt.txt 5
-data.zctm.txt 12
-data.zdqx.txt 12
-data.zevl.txt 6
-data.zewv.txt 6
-data.zeyu.txt 1
-data.zfai.txt 1
+data.zake.txt 2.9092786962624935
+data.zbmt.txt 7.52037633398548
+data.zctm.txt 10.765610438791466
+data.zdqx.txt 10.765610438791466
+data.zevl.txt 8.16737786758984
+data.zewv.txt 8.16737786758984
+data.zeyu.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

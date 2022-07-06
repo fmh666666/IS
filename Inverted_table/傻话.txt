@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.zamp.txt 1
-data.zbem.txt 1
-data.zbga.txt 1
-data.zdic.txt 1
-data.zenw.txt 2
+data.bf.txt 3.1086847136800873
+data.zamp.txt 3.1086847136800873
+data.zbem.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zdic.txt 3.1086847136800873
+data.zenw.txt 4.927148697748023

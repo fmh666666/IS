@@ -1,4 +1,4 @@
 3
-data.ok.txt 2
-data.op.txt 1
-data.zfai.txt 1
+data.ok.txt 5.688648708166832
+data.op.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

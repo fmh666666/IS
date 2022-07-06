@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.hu.txt 1
-data.xe.txt 1
-data.zcdl.txt 1
-data.zclm.txt 1
-data.zcmy.txt 1
-data.zcqg.txt 1
-data.zcvq.txt 2
-data.zczl.txt 1
-data.zddx.txt 2
-data.zdju.txt 1
-data.zfdk.txt 1
+data.cf.txt 2.628231699761886
+data.hu.txt 2.628231699761886
+data.xe.txt 2.628231699761886
+data.zcdl.txt 2.628231699761886
+data.zclm.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zcqg.txt 2.628231699761886
+data.zcvq.txt 4.165648687329214
+data.zczl.txt 2.628231699761886
+data.zddx.txt 4.165648687329214
+data.zdju.txt 2.628231699761886
+data.zfdk.txt 2.628231699761886

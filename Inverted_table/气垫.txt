@@ -1,14 +1,14 @@
 13
-data.zafk.txt 1
-data.zahd.txt 2
-data.zapr.txt 4
-data.zawo.txt 2
-data.zbcv.txt 1
-data.zbse.txt 1
-data.zcuh.txt 1
-data.zdby.txt 1
-data.zdmw.txt 1
-data.zduc.txt 1
-data.zdzg.txt 1
-data.zeac.txt 2
-data.zfai.txt 1
+data.zafk.txt 2.5727503226135906
+data.zahd.txt 4.077712785060798
+data.zapr.txt 5.97374125520702
+data.zawo.txt 4.077712785060798
+data.zbcv.txt 2.5727503226135906
+data.zbse.txt 2.5727503226135906
+data.zcuh.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zduc.txt 2.5727503226135906
+data.zdzg.txt 2.5727503226135906
+data.zeac.txt 4.077712785060798
+data.zfai.txt 2.5727503226135906

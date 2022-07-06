@@ -1,11 +1,11 @@
 10
-data.ep.txt 1
-data.zaxx.txt 1
-data.zbyv.txt 1
-data.zcdv.txt 1
-data.zcem.txt 1
-data.zctp.txt 1
-data.zcvq.txt 1
-data.zeeh.txt 1
-data.zeoh.txt 1
-data.zfaj.txt 1
+data.ep.txt 2.7546073728089153
+data.zaxx.txt 2.7546073728089153
+data.zbyv.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcem.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zeeh.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

@@ -1,14 +1,14 @@
 13
-data.op.txt 1
-data.tv.txt 1
-data.zako.txt 1
-data.zbia.txt 1
-data.zccu.txt 1
-data.zcel.txt 1
-data.zcft.txt 1
-data.zcmv.txt 2
-data.zdaw.txt 1
-data.zddp.txt 1
-data.zdeb.txt 1
-data.zdwl.txt 1
-data.zenn.txt 1
+data.op.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zbia.txt 2.5727503226135906
+data.zccu.txt 2.5727503226135906
+data.zcel.txt 2.5727503226135906
+data.zcft.txt 2.5727503226135906
+data.zcmv.txt 4.077712785060798
+data.zdaw.txt 2.5727503226135906
+data.zddp.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdwl.txt 2.5727503226135906
+data.zenn.txt 2.5727503226135906

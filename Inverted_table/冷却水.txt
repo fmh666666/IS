@@ -1,4 +1,4 @@
 3
-data.zaip.txt 1
-data.zbeb.txt 1
-data.zbnp.txt 2
+data.zaip.txt 3.5891377275982888
+data.zbeb.txt 3.5891377275982888
+data.zbnp.txt 5.688648708166832

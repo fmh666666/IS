@@ -1,8 +1,8 @@
 7
-data.zasw.txt 2
-data.zbgd.txt 1
-data.zbgu.txt 2
-data.zcpa.txt 2
-data.zdmw.txt 1
-data.zdpg.txt 4
-data.zewn.txt 2
+data.zasw.txt 4.757796866583254
+data.zbgd.txt 3.0018356045764243
+data.zbgu.txt 4.757796866583254
+data.zcpa.txt 4.757796866583254
+data.zdmw.txt 3.0018356045764243
+data.zdpg.txt 6.970046426499191
+data.zewn.txt 4.757796866583254

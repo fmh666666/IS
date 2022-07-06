@@ -1,12 +1,12 @@
 11
-data.cq.txt 4
-data.ye.txt 1
-data.zafy.txt 3
-data.zbcv.txt 1
-data.zbjk.txt 2
-data.zccu.txt 1
-data.zcgi.txt 1
-data.zdll.txt 1
-data.zdou.txt 11
-data.zesq.txt 1
-data.zess.txt 1
+data.cq.txt 6.2426044324908965
+data.ye.txt 2.6885433903988862
+data.zafy.txt 5.3770867807977725
+data.zbcv.txt 2.6885433903988862
+data.zbjk.txt 4.261240455343955
+data.zccu.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zdll.txt 2.6885433903988862
+data.zdou.txt 9.638327236141729
+data.zesq.txt 2.6885433903988862
+data.zess.txt 2.6885433903988862

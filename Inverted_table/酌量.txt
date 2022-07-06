@@ -1,11 +1,11 @@
 10
-data.ka.txt 1
-data.zacd.txt 1
-data.zazg.txt 2
-data.zbvf.txt 1
-data.zcxp.txt 1
-data.zddm.txt 1
-data.zdji.txt 1
-data.zdkp.txt 1
-data.zdro.txt 1
-data.zexu.txt 1
+data.ka.txt 2.7546073728089153
+data.zacd.txt 2.7546073728089153
+data.zazg.txt 4.365949390112154
+data.zbvf.txt 2.7546073728089153
+data.zcxp.txt 2.7546073728089153
+data.zddm.txt 2.7546073728089153
+data.zdji.txt 2.7546073728089153
+data.zdkp.txt 2.7546073728089153
+data.zdro.txt 2.7546073728089153
+data.zexu.txt 2.7546073728089153

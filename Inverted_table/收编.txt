@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.ye.txt 1
-data.zarr.txt 1
-data.zelt.txt 1
-data.zezm.txt 1
+data.tz.txt 3.235060386727117
+data.ye.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zezm.txt 3.235060386727117

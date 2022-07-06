@@ -1,6 +1,6 @@
 5
-data.zbcv.txt 3
-data.zcse.txt 1
-data.zcuh.txt 1
-data.zedd.txt 1
-data.zedx.txt 1
+data.zbcv.txt 6.470120773454234
+data.zcse.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zedd.txt 3.235060386727117
+data.zedx.txt 3.235060386727117

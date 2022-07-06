@@ -1,6 +1,6 @@
 5
-data.ud.txt 1
-data.zamr.txt 1
-data.zavg.txt 1
-data.zdgt.txt 1
-data.zeqv.txt 2
+data.ud.txt 3.235060386727117
+data.zamr.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zeqv.txt 5.1274494005309625

@@ -1,7 +1,7 @@
 6
-data.ry.txt 1
-data.zbha.txt 1
-data.zbor.txt 2
-data.zdaa.txt 1
-data.zdgp.txt 1
-data.zewd.txt 1
+data.ry.txt 3.1086847136800873
+data.zbha.txt 3.1086847136800873
+data.zbor.txt 4.927148697748023
+data.zdaa.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873
+data.zewd.txt 3.1086847136800873

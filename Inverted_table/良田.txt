@@ -1,6 +1,6 @@
 5
-data.zdcw.txt 1
-data.zdds.txt 1
-data.zedd.txt 1
-data.zedy.txt 1
-data.zfaj.txt 1
+data.zdcw.txt 3.235060386727117
+data.zdds.txt 3.235060386727117
+data.zedd.txt 3.235060386727117
+data.zedy.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

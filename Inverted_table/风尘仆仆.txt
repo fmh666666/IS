@@ -1,9 +1,9 @@
 8
-data.xe.txt 1
-data.zbaf.txt 1
-data.zcjo.txt 2
-data.zdle.txt 1
-data.zdwn.txt 1
-data.zeik.txt 1
-data.zeoh.txt 1
-data.zevq.txt 1
+data.xe.txt 2.9092786962624935
+data.zbaf.txt 2.9092786962624935
+data.zcjo.txt 4.611097637722987
+data.zdle.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zeik.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

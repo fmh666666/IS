@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zczb.txt 1
-data.zdzm.txt 1
-data.zexm.txt 1
-data.zfai.txt 1
+data.zawb.txt 3.235060386727117
+data.zczb.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117
+data.zexm.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

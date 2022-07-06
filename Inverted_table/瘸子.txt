@@ -1,11 +1,11 @@
 10
-data.mk.txt 1
-data.zabj.txt 3
-data.zacp.txt 1
-data.zafu.txt 1
-data.zapl.txt 1
-data.zbcj.txt 1
-data.zbkv.txt 1
-data.zbmt.txt 1
-data.zcbe.txt 1
-data.zebn.txt 1
+data.mk.txt 2.7546073728089153
+data.zabj.txt 5.509214745617831
+data.zacp.txt 2.7546073728089153
+data.zafu.txt 2.7546073728089153
+data.zapl.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zbmt.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153

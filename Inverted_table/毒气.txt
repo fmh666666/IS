@@ -1,11 +1,11 @@
 10
-data.op.txt 1
-data.zabe.txt 3
-data.zaic.txt 1
-data.zbeb.txt 1
-data.zbvf.txt 1
-data.zcej.txt 1
-data.zdle.txt 1
-data.zedo.txt 1
-data.zene.txt 3
-data.zerh.txt 1
+data.op.txt 2.7546073728089153
+data.zabe.txt 5.509214745617831
+data.zaic.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbvf.txt 2.7546073728089153
+data.zcej.txt 2.7546073728089153
+data.zdle.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zene.txt 5.509214745617831
+data.zerh.txt 2.7546073728089153

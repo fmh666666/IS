@@ -1,14 +1,14 @@
 13
-data.ep.txt 1
-data.kq.txt 1
-data.zall.txt 1
-data.zalt.txt 1
-data.zaoc.txt 1
-data.zaxp.txt 1
-data.zbil.txt 1
-data.zbzf.txt 1
-data.zdji.txt 1
-data.zdlw.txt 1
-data.zelt.txt 1
-data.zeoh.txt 2
-data.zfcj.txt 1
+data.ep.txt 2.5727503226135906
+data.kq.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zalt.txt 2.5727503226135906
+data.zaoc.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbil.txt 2.5727503226135906
+data.zbzf.txt 2.5727503226135906
+data.zdji.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zeoh.txt 4.077712785060798
+data.zfcj.txt 2.5727503226135906

@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.gw.txt 1
-data.zbzo.txt 1
-data.zdux.txt 1
-data.zeqn.txt 1
+data.dg.txt 3.235060386727117
+data.gw.txt 3.235060386727117
+data.zbzo.txt 3.235060386727117
+data.zdux.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117

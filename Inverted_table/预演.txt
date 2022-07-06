@@ -1,13 +1,13 @@
 12
-data.fz.txt 1
-data.wc.txt 1
-data.zawz.txt 1
-data.zcdg.txt 1
-data.zcic.txt 1
-data.zcpx.txt 1
-data.zcvi.txt 1
-data.zdoq.txt 1
-data.zdud.txt 1
-data.zeel.txt 1
-data.zezy.txt 1
-data.zfai.txt 1
+data.fz.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.zawz.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zcpx.txt 2.628231699761886
+data.zcvi.txt 2.628231699761886
+data.zdoq.txt 2.628231699761886
+data.zdud.txt 2.628231699761886
+data.zeel.txt 2.628231699761886
+data.zezy.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.sq.txt 1
-data.yx.txt 1
-data.zawu.txt 1
-data.zaxp.txt 1
-data.zbpx.txt 1
-data.zbta.txt 1
-data.zchd.txt 2
-data.zduk.txt 1
-data.zene.txt 1
+data.sq.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zbpx.txt 2.82763771717948
+data.zbta.txt 2.82763771717948
+data.zchd.txt 4.48169974735425
+data.zduk.txt 2.82763771717948
+data.zene.txt 2.82763771717948

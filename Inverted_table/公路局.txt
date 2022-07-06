@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zawc.txt 2
-data.zbpx.txt 1
-data.zcon.txt 1
-data.zfby.txt 1
+data.op.txt 3.235060386727117
+data.zawc.txt 5.1274494005309625
+data.zbpx.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zfby.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.mo.txt 1
-data.pn.txt 1
-data.to.txt 1
-data.zail.txt 1
-data.zako.txt 1
-data.zcdy.txt 1
-data.zeoh.txt 1
-data.zfai.txt 1
+data.mo.txt 2.9092786962624935
+data.pn.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

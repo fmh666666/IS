@@ -1,8 +1,8 @@
 7
-data.ye.txt 1
-data.zawb.txt 1
-data.zcmy.txt 1
-data.zcpb.txt 1
-data.zdof.txt 1
-data.zefp.txt 1
-data.zewp.txt 1
+data.ye.txt 3.0018356045764243
+data.zawb.txt 3.0018356045764243
+data.zcmy.txt 3.0018356045764243
+data.zcpb.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zefp.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

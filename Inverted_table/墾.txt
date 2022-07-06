@@ -1,7 +1,7 @@
 6
-data.hg.txt 2
-data.zail.txt 1
-data.zbvn.txt 2
-data.zbvp.txt 2
-data.zdep.txt 1
-data.zeeh.txt 1
+data.hg.txt 4.927148697748023
+data.zail.txt 3.1086847136800873
+data.zbvn.txt 4.927148697748023
+data.zbvp.txt 4.927148697748023
+data.zdep.txt 3.1086847136800873
+data.zeeh.txt 3.1086847136800873

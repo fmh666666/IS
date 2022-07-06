@@ -1,9 +1,9 @@
 8
-data.zabx.txt 1
-data.zakb.txt 1
-data.zbpp.txt 1
-data.zcdy.txt 1
-data.zctp.txt 1
-data.zdux.txt 2
-data.zeqv.txt 1
-data.zezy.txt 1
+data.zabx.txt 2.9092786962624935
+data.zakb.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdux.txt 4.611097637722987
+data.zeqv.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

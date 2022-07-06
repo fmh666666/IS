@@ -1,9 +1,9 @@
 8
-data.zbls.txt 1
-data.zcbe.txt 1
-data.zcqe.txt 1
-data.zcts.txt 2
-data.zcue.txt 1
-data.zdaa.txt 1
-data.zdpw.txt 1
-data.zexk.txt 1
+data.zbls.txt 2.9092786962624935
+data.zcbe.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zcts.txt 4.611097637722987
+data.zcue.txt 2.9092786962624935
+data.zdaa.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zexk.txt 2.9092786962624935

@@ -1,12 +1,12 @@
 11
-data.hg.txt 1
-data.op.txt 1
-data.zako.txt 1
-data.zbia.txt 1
-data.zbvm.txt 1
-data.zbzf.txt 1
-data.zcdv.txt 1
-data.zcxq.txt 1
-data.zduo.txt 1
-data.zeqh.txt 1
-data.zewd.txt 2
+data.hg.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zbia.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcxq.txt 2.6885433903988862
+data.zduo.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862
+data.zewd.txt 4.261240455343955

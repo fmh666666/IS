@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.zcem.txt 2
-data.zdgv.txt 1
-data.zdnh.txt 1
-data.zdzg.txt 1
+data.tv.txt 3.235060386727117
+data.zcem.txt 5.1274494005309625
+data.zdgv.txt 3.235060386727117
+data.zdnh.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117

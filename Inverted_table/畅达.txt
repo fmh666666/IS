@@ -1,8 +1,8 @@
 7
-data.hz.txt 1
-data.zbfx.txt 1
-data.zbut.txt 1
-data.zcll.txt 1
-data.zcni.txt 2
-data.zeai.txt 2
-data.zevl.txt 1
+data.hz.txt 3.0018356045764243
+data.zbfx.txt 3.0018356045764243
+data.zbut.txt 3.0018356045764243
+data.zcll.txt 3.0018356045764243
+data.zcni.txt 4.757796866583254
+data.zeai.txt 4.757796866583254
+data.zevl.txt 3.0018356045764243

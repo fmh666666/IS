@@ -1,13 +1,13 @@
 12
-data.ew.txt 1
-data.mx.txt 1
-data.zafq.txt 1
-data.zbpp.txt 1
-data.zbqu.txt 1
-data.zbvm.txt 1
-data.zcko.txt 1
-data.zcln.txt 1
-data.zcrg.txt 1
-data.zdqz.txt 1
-data.zeel.txt 5
-data.zeoh.txt 1
+data.ew.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zdqz.txt 2.628231699761886
+data.zeel.txt 6.7938803870911
+data.zeoh.txt 2.628231699761886

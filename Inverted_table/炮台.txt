@@ -1,7 +1,7 @@
 6
-data.vm.txt 2
-data.zacd.txt 1
-data.zclm.txt 1
-data.zcln.txt 1
-data.zczb.txt 1
-data.zdwk.txt 1
+data.vm.txt 4.927148697748023
+data.zacd.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zdwk.txt 3.1086847136800873

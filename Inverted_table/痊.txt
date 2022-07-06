@@ -1,8 +1,8 @@
 7
-data.jf.txt 1
-data.zajn.txt 1
-data.zalc.txt 1
-data.zduc.txt 1
-data.zedk.txt 1
-data.zexm.txt 1
-data.zfcg.txt 1
+data.jf.txt 3.0018356045764243
+data.zajn.txt 3.0018356045764243
+data.zalc.txt 3.0018356045764243
+data.zduc.txt 3.0018356045764243
+data.zedk.txt 3.0018356045764243
+data.zexm.txt 3.0018356045764243
+data.zfcg.txt 3.0018356045764243

@@ -1,7 +1,7 @@
 6
-data.zake.txt 1
-data.zaoy.txt 1
-data.zawu.txt 2
-data.zdod.txt 1
-data.zdwl.txt 2
-data.zfaw.txt 1
+data.zake.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zawu.txt 4.927148697748023
+data.zdod.txt 3.1086847136800873
+data.zdwl.txt 4.927148697748023
+data.zfaw.txt 3.1086847136800873

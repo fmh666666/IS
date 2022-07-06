@@ -1,7 +1,7 @@
 6
-data.hu.txt 1
-data.yx.txt 1
-data.zbph.txt 1
-data.zdwz.txt 1
-data.zeec.txt 1
-data.zfai.txt 1
+data.hu.txt 3.1086847136800873
+data.yx.txt 3.1086847136800873
+data.zbph.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

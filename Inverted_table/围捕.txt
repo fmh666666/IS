@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zbeb.txt 1
-data.zbpx.txt 1
-data.zcgi.txt 1
-data.zdgt.txt 1
-data.zehb.txt 1
-data.zfai.txt 2
-data.zfaj.txt 3
+data.op.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcgi.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935
+data.zfai.txt 4.611097637722987
+data.zfaj.txt 5.818557392524987

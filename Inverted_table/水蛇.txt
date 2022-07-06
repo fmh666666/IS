@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.ha.txt 2
-data.hu.txt 6
-data.jf.txt 1
-data.pa.txt 1
-data.sq.txt 1
-data.zbcv.txt 1
-data.zcee.txt 1
-data.zcmy.txt 1
+data.fp.txt 2.82763771717948
+data.ha.txt 4.48169974735425
+data.hu.txt 7.938182663119541
+data.jf.txt 2.82763771717948
+data.pa.txt 2.82763771717948
+data.sq.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zail.txt 1
-data.zaxk.txt 1
-data.zbla.txt 1
-data.zeoo.txt 1
+data.zacd.txt 3.235060386727117
+data.zail.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

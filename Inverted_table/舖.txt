@@ -1,12 +1,12 @@
 11
-data.ye.txt 1
-data.zall.txt 1
-data.zawm.txt 1
-data.zbeb.txt 1
-data.zbgd.txt 1
-data.zbse.txt 1
-data.zbvm.txt 1
-data.zcxh.txt 1
-data.zdwd.txt 1
-data.zeag.txt 1
-data.zefw.txt 1
+data.ye.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zawm.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbgd.txt 2.6885433903988862
+data.zbse.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcxh.txt 2.6885433903988862
+data.zdwd.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zefw.txt 2.6885433903988862

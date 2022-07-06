@@ -1,2 +1,2 @@
 1
-data.xe.txt 1
+data.xe.txt 4.350637738017098

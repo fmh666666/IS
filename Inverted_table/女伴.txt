@@ -1,10 +1,10 @@
 9
-data.zawm.txt 1
-data.zbbt.txt 1
-data.zbfd.txt 1
-data.zcmx.txt 1
-data.zdga.txt 1
-data.zdmw.txt 2
-data.zdwl.txt 2
-data.zdxw.txt 1
-data.zexx.txt 1
+data.zawm.txt 2.82763771717948
+data.zbbt.txt 2.82763771717948
+data.zbfd.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zdga.txt 2.82763771717948
+data.zdmw.txt 4.48169974735425
+data.zdwl.txt 4.48169974735425
+data.zdxw.txt 2.82763771717948
+data.zexx.txt 2.82763771717948

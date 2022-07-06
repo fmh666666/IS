@@ -1,10 +1,10 @@
 9
-data.ee.txt 2
-data.fp.txt 1
-data.zapl.txt 1
-data.zbhd.txt 1
-data.zbts.txt 1
-data.zchw.txt 1
-data.zciy.txt 1
-data.zczp.txt 2
-data.zdme.txt 2
+data.ee.txt 4.48169974735425
+data.fp.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbts.txt 2.82763771717948
+data.zchw.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zczp.txt 4.48169974735425
+data.zdme.txt 4.48169974735425

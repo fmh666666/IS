@@ -1,10 +1,10 @@
 9
-data.nh.txt 1
-data.zako.txt 1
-data.zbjh.txt 1
-data.zbtx.txt 1
-data.zcjo.txt 1
-data.zcon.txt 1
-data.zdkc.txt 1
-data.zdwk.txt 1
-data.zewn.txt 1
+data.nh.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zbtx.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdwk.txt 2.82763771717948
+data.zewn.txt 2.82763771717948

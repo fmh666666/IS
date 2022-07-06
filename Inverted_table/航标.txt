@@ -1,11 +1,11 @@
 10
-data.op.txt 1
-data.vz.txt 3
-data.zbhv.txt 3
-data.zcao.txt 4
-data.zcls.txt 4
-data.zeay.txt 1
-data.zefd.txt 4
-data.zety.txt 3
-data.zevl.txt 8
-data.zevy.txt 1
+data.op.txt 2.7546073728089153
+data.vz.txt 5.509214745617831
+data.zbhv.txt 5.509214745617831
+data.zcao.txt 6.396000249308887
+data.zcls.txt 6.396000249308887
+data.zeay.txt 2.7546073728089153
+data.zefd.txt 6.396000249308887
+data.zety.txt 5.509214745617831
+data.zevl.txt 8.731898780224308
+data.zevy.txt 2.7546073728089153

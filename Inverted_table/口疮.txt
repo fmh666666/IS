@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zadv.txt 1
-data.zahd.txt 1
-data.zbyv.txt 1
-data.zfcg.txt 1
+data.to.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zahd.txt 3.235060386727117
+data.zbyv.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.zapl.txt 1
-data.zaqf.txt 1
-data.zbre.txt 1
-data.zbxw.txt 1
+data.zapl.txt 3.389731710180695
+data.zaqf.txt 3.389731710180695
+data.zbre.txt 3.389731710180695
+data.zbxw.txt 3.389731710180695

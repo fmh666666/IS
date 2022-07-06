@@ -1,9 +1,9 @@
 8
-data.zafk.txt 1
-data.zafy.txt 1
-data.zane.txt 1
-data.zapl.txt 1
-data.zbnx.txt 2
-data.zbtj.txt 1
-data.zduo.txt 1
-data.zdyv.txt 1
+data.zafk.txt 2.9092786962624935
+data.zafy.txt 2.9092786962624935
+data.zane.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zbnx.txt 4.611097637722987
+data.zbtj.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zdyv.txt 2.9092786962624935

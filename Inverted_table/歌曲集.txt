@@ -1,4 +1,4 @@
 3
-data.mx.txt 3
-data.zcku.txt 1
-data.zexx.txt 1
+data.mx.txt 7.1782754551965775
+data.zcku.txt 3.5891377275982888
+data.zexx.txt 3.5891377275982888

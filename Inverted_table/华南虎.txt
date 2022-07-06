@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zasw.txt 1
-data.zbua.txt 1
-data.zcln.txt 1
-data.zdaw.txt 1
-data.zdkv.txt 1
-data.zdst.txt 1
-data.zelt.txt 1
-data.zenw.txt 1
+data.fp.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zcln.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zdkv.txt 2.82763771717948
+data.zdst.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zenw.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.zbbt.txt 2
-data.zbfd.txt 1
-data.zdxw.txt 1
+data.zbbt.txt 5.688648708166832
+data.zbfd.txt 3.5891377275982888
+data.zdxw.txt 3.5891377275982888

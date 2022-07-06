@@ -1,14 +1,14 @@
 13
-data.vm.txt 1
-data.zawc.txt 1
-data.zbsu.txt 1
-data.zcel.txt 1
-data.zcfn.txt 2
-data.zcic.txt 3
-data.zddv.txt 1
-data.zdhv.txt 2
-data.zdoc.txt 1
-data.zegk.txt 1
-data.zegl.txt 1
-data.zegn.txt 5
-data.zemf.txt 1
+data.vm.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zcel.txt 2.5727503226135906
+data.zcfn.txt 4.077712785060798
+data.zcic.txt 5.145500645227181
+data.zddv.txt 2.5727503226135906
+data.zdhv.txt 4.077712785060798
+data.zdoc.txt 2.5727503226135906
+data.zegk.txt 2.5727503226135906
+data.zegl.txt 2.5727503226135906
+data.zegn.txt 6.650463107674388
+data.zemf.txt 2.5727503226135906

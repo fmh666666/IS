@@ -1,13 +1,13 @@
 12
-data.fz.txt 1
-data.op.txt 5
-data.zaim.txt 3
-data.zbeb.txt 1
-data.zbpx.txt 1
-data.zcdz.txt 1
-data.zcfx.txt 1
-data.zddv.txt 1
-data.zdju.txt 1
-data.zedx.txt 1
-data.zfai.txt 3
-data.zfaj.txt 1
+data.fz.txt 2.628231699761886
+data.op.txt 6.7938803870911
+data.zaim.txt 5.256463399523772
+data.zbeb.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zcfx.txt 2.628231699761886
+data.zddv.txt 2.628231699761886
+data.zdju.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zfai.txt 5.256463399523772
+data.zfaj.txt 2.628231699761886

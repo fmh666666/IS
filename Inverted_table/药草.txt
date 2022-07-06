@@ -1,7 +1,7 @@
 6
-data.dg.txt 4
-data.zamr.txt 6
-data.zcaq.txt 5
-data.zcls.txt 4
-data.zcrg.txt 5
-data.zdgo.txt 3
+data.dg.txt 7.21814237484067
+data.zamr.txt 8.727181332075027
+data.zcaq.txt 8.03583341142811
+data.zcls.txt 7.21814237484067
+data.zcrg.txt 8.03583341142811
+data.zdgo.txt 6.2173694273601745

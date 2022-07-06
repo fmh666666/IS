@@ -1,13 +1,13 @@
 12
-data.zafi.txt 1
-data.zanm.txt 1
-data.zawb.txt 1
-data.zbel.txt 1
-data.zbhv.txt 1
-data.zbxw.txt 3
-data.zcdv.txt 1
-data.zcrv.txt 1
-data.zctn.txt 1
-data.zdgt.txt 1
-data.zeez.txt 1
-data.zfaj.txt 1
+data.zafi.txt 2.628231699761886
+data.zanm.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbel.txt 2.628231699761886
+data.zbhv.txt 2.628231699761886
+data.zbxw.txt 5.256463399523772
+data.zcdv.txt 2.628231699761886
+data.zcrv.txt 2.628231699761886
+data.zctn.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zeez.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

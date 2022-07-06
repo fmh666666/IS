@@ -1,13 +1,13 @@
 12
-data.gw.txt 3
-data.kt.txt 1
-data.mo.txt 1
-data.tv.txt 3
-data.tz.txt 5
-data.zalj.txt 1
-data.zbpx.txt 1
-data.zcmn.txt 1
-data.zdgt.txt 1
-data.zdof.txt 1
-data.zeds.txt 1
-data.zeqv.txt 1
+data.gw.txt 5.256463399523772
+data.kt.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.tv.txt 5.256463399523772
+data.tz.txt 6.7938803870911
+data.zalj.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zcmn.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zeds.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886

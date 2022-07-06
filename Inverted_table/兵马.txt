@@ -1,6 +1,6 @@
 5
-data.jd.txt 1
-data.zafq.txt 1
-data.zaxx.txt 1
-data.zbkf.txt 1
-data.zcao.txt 1
+data.jd.txt 3.235060386727117
+data.zafq.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zcao.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.zaim.txt 1
-data.zane.txt 4
-data.zccx.txt 1
-data.zcvi.txt 1
-data.zeeq.txt 1
+data.ft.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zane.txt 7.21814237484067
+data.zccx.txt 3.1086847136800873
+data.zcvi.txt 3.1086847136800873
+data.zeeq.txt 3.1086847136800873

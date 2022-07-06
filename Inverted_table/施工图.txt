@@ -1,6 +1,6 @@
 5
-data.en.txt 1
-data.zarc.txt 2
-data.zawo.txt 1
-data.zcsu.txt 1
-data.zeik.txt 1
+data.en.txt 3.235060386727117
+data.zarc.txt 5.1274494005309625
+data.zawo.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

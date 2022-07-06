@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.ry.txt 1
-data.zasq.txt 1
-data.zbnp.txt 1
-data.zbpp.txt 1
-data.zcwq.txt 1
-data.zefd.txt 1
-data.zegl.txt 1
-data.zezf.txt 1
+data.kt.txt 2.82763771717948
+data.ry.txt 2.82763771717948
+data.zasq.txt 2.82763771717948
+data.zbnp.txt 2.82763771717948
+data.zbpp.txt 2.82763771717948
+data.zcwq.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zegl.txt 2.82763771717948
+data.zezf.txt 2.82763771717948

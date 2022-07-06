@@ -1,4 +1,4 @@
 3
-data.zbcc.txt 1
-data.zdqz.txt 3
-data.zeaj.txt 1
+data.zbcc.txt 3.5891377275982888
+data.zdqz.txt 7.1782754551965775
+data.zeaj.txt 3.5891377275982888

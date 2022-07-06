@@ -1,4 +1,4 @@
 3
-data.ee.txt 1
-data.zbjc.txt 1
-data.zdof.txt 5
+data.ee.txt 3.5891377275982888
+data.zbjc.txt 3.5891377275982888
+data.zdof.txt 9.27778643576512

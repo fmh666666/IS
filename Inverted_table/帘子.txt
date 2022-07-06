@@ -1,7 +1,7 @@
 6
-data.xe.txt 1
-data.zaic.txt 1
-data.zbzg.txt 1
-data.zeqh.txt 1
-data.zfaj.txt 1
-data.zfaz.txt 2
+data.xe.txt 3.1086847136800873
+data.zaic.txt 3.1086847136800873
+data.zbzg.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873
+data.zfaz.txt 4.927148697748023

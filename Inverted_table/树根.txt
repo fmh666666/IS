@@ -1,9 +1,9 @@
 8
-data.tj.txt 1
-data.zasq.txt 1
-data.zawb.txt 1
-data.zbfz.txt 1
-data.zcdg.txt 1
-data.zcdy.txt 1
-data.zdzn.txt 1
-data.zedy.txt 1
+data.tj.txt 2.9092786962624935
+data.zasq.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zedy.txt 2.9092786962624935

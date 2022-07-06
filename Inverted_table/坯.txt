@@ -1,8 +1,8 @@
 7
-data.zcdg.txt 1
-data.zchd.txt 1
-data.zcoy.txt 1
-data.zegl.txt 1
-data.zeva.txt 1
-data.zfai.txt 1
-data.zfaz.txt 6
+data.zcdg.txt 3.0018356045764243
+data.zchd.txt 3.0018356045764243
+data.zcoy.txt 3.0018356045764243
+data.zegl.txt 3.0018356045764243
+data.zeva.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243
+data.zfaz.txt 8.427217959715389

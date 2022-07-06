@@ -1,10 +1,10 @@
 9
-data.xe.txt 1
-data.zbtj.txt 1
-data.zbyb.txt 1
-data.zcql.txt 1
-data.zcqs.txt 1
-data.zcsu.txt 1
-data.zdgt.txt 1
-data.zerw.txt 1
-data.zfcp.txt 1
+data.xe.txt 2.82763771717948
+data.zbtj.txt 2.82763771717948
+data.zbyb.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zcqs.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zerw.txt 2.82763771717948
+data.zfcp.txt 2.82763771717948

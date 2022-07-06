@@ -1,9 +1,9 @@
 8
-data.zcej.txt 3
-data.zcem.txt 4
-data.zcfn.txt 1
-data.zcvq.txt 1
-data.zdqx.txt 4
-data.zefd.txt 4
-data.zene.txt 2
-data.zewv.txt 4
+data.zcej.txt 5.818557392524987
+data.zcem.txt 6.7551359407091605
+data.zcfn.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zdqx.txt 6.7551359407091605
+data.zefd.txt 6.7551359407091605
+data.zene.txt 4.611097637722987
+data.zewv.txt 6.7551359407091605

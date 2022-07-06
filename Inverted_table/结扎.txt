@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.to.txt 1
-data.zbds.txt 1
-data.zbor.txt 1
-data.zcdv.txt 3
-data.zcel.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 6
+data.bs.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zcdv.txt 5.818557392524987
+data.zcel.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdgt.txt 8.16737786758984

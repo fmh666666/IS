@@ -1,4 +1,4 @@
 3
-data.zapl.txt 2
-data.zefs.txt 1
-data.zehp.txt 1
+data.zapl.txt 5.688648708166832
+data.zefs.txt 3.5891377275982888
+data.zehp.txt 3.5891377275982888

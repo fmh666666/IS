@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.qn.txt 1
-data.zaet.txt 1
-data.zagr.txt 1
-data.zbre.txt 1
-data.zcmy.txt 1
-data.zdhv.txt 1
-data.zdkv.txt 1
-data.zeay.txt 1
-data.zebf.txt 1
-data.zeos.txt 1
+data.gw.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zaet.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zdhv.txt 2.6885433903988862
+data.zdkv.txt 2.6885433903988862
+data.zeay.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zeos.txt 2.6885433903988862

@@ -1,7 +1,7 @@
 6
-data.yx.txt 1
-data.zawb.txt 3
-data.zawo.txt 1
-data.zbkv.txt 1
-data.zbpx.txt 2
-data.zcon.txt 2
+data.yx.txt 3.1086847136800873
+data.zawb.txt 6.2173694273601745
+data.zawo.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zbpx.txt 4.927148697748023
+data.zcon.txt 4.927148697748023

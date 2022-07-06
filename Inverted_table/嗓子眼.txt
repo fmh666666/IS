@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zadv.txt 1
-data.zbdb.txt 1
-data.zbts.txt 1
-data.zcdv.txt 2
-data.zcjy.txt 1
-data.zdcw.txt 1
-data.zdof.txt 1
+data.ry.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcdv.txt 4.611097637722987
+data.zcjy.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935

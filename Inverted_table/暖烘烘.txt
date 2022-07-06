@@ -1,4 +1,4 @@
 3
-data.pn.txt 1
-data.zagr.txt 1
-data.zamr.txt 1
+data.pn.txt 3.5891377275982888
+data.zagr.txt 3.5891377275982888
+data.zamr.txt 3.5891377275982888

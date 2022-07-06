@@ -1,6 +1,6 @@
 5
-data.zbux.txt 1
-data.zbwa.txt 1
-data.zcmv.txt 2
-data.zcni.txt 1
-data.zdey.txt 1
+data.zbux.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117
+data.zcmv.txt 5.1274494005309625
+data.zcni.txt 3.235060386727117
+data.zdey.txt 3.235060386727117

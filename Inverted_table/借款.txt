@@ -1,12 +1,12 @@
 11
-data.jf.txt 1
-data.kq.txt 2
-data.tv.txt 1
-data.zbkj.txt 1
-data.zcdv.txt 1
-data.zcdz.txt 1
-data.zcmy.txt 1
-data.zegn.txt 1
-data.zegz.txt 3
-data.zelt.txt 1
-data.zfai.txt 1
+data.jf.txt 2.6885433903988862
+data.kq.txt 4.261240455343955
+data.tv.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zegn.txt 2.6885433903988862
+data.zegz.txt 5.3770867807977725
+data.zelt.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

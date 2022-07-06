@@ -1,5 +1,5 @@
 4
-data.to.txt 1
-data.zbpc.txt 1
-data.zdkv.txt 1
-data.zene.txt 1
+data.to.txt 3.389731710180695
+data.zbpc.txt 3.389731710180695
+data.zdkv.txt 3.389731710180695
+data.zene.txt 3.389731710180695

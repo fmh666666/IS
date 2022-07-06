@@ -1,2 +1,2 @@
 1
-data.zajo.txt 4
+data.zajo.txt 10.101867994579104

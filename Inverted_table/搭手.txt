@@ -1,4 +1,4 @@
 3
-data.mk.txt 1
-data.zaql.txt 1
-data.zbfg.txt 1
+data.mk.txt 3.5891377275982888
+data.zaql.txt 3.5891377275982888
+data.zbfg.txt 3.5891377275982888

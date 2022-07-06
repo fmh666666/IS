@@ -1,7 +1,7 @@
 6
-data.ek.txt 1
-data.zabe.txt 1
-data.zamp.txt 1
-data.zcpc.txt 1
-data.zeam.txt 1
-data.zefv.txt 1
+data.ek.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zamp.txt 3.1086847136800873
+data.zcpc.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873

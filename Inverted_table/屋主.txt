@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zabe.txt 1
-data.zbmw.txt 3
-data.zcem.txt 3
-data.zczp.txt 1
+data.pa.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zbmw.txt 6.470120773454234
+data.zcem.txt 6.470120773454234
+data.zczp.txt 3.235060386727117

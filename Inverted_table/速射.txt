@@ -1,4 +1,4 @@
 3
-data.zagr.txt 1
-data.zduk.txt 3
-data.zevq.txt 1
+data.zagr.txt 3.5891377275982888
+data.zduk.txt 7.1782754551965775
+data.zevq.txt 3.5891377275982888

@@ -1,2 +1,2 @@
 1
-data.zcjd.txt 2
+data.zcjd.txt 6.8955976689794145

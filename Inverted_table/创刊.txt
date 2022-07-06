@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.zbel.txt 1
-data.zbjq.txt 1
-data.zbvp.txt 1
-data.zcej.txt 1
-data.zdtr.txt 1
-data.zedy.txt 1
-data.zevy.txt 1
+data.hg.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zcej.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zedy.txt 2.9092786962624935
+data.zevy.txt 2.9092786962624935

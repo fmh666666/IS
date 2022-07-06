@@ -1,4 +1,4 @@
 3
-data.zbzf.txt 1
-data.zcql.txt 1
-data.zeta.txt 1
+data.zbzf.txt 3.5891377275982888
+data.zcql.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

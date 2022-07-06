@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zasr.txt 1
-data.zawb.txt 2
-data.zbla.txt 1
-data.zdpw.txt 1
+data.zako.txt 3.235060386727117
+data.zasr.txt 3.235060386727117
+data.zawb.txt 5.1274494005309625
+data.zbla.txt 3.235060386727117
+data.zdpw.txt 3.235060386727117

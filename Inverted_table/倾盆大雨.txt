@@ -1,14 +1,14 @@
 13
-data.cn.txt 1
-data.fj.txt 1
-data.tv.txt 1
-data.zbds.txt 1
-data.zbzf.txt 1
-data.zdcj.txt 1
-data.zdcy.txt 1
-data.zddp.txt 1
-data.zdlo.txt 1
-data.zeay.txt 1
-data.zeob.txt 1
-data.zeta.txt 1
-data.zezh.txt 1
+data.cn.txt 2.5727503226135906
+data.fj.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zbds.txt 2.5727503226135906
+data.zbzf.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zdcy.txt 2.5727503226135906
+data.zddp.txt 2.5727503226135906
+data.zdlo.txt 2.5727503226135906
+data.zeay.txt 2.5727503226135906
+data.zeob.txt 2.5727503226135906
+data.zeta.txt 2.5727503226135906
+data.zezh.txt 2.5727503226135906

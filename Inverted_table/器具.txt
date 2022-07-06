@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.mu.txt 1
-data.ng.txt 1
-data.sq.txt 1
-data.zadv.txt 1
-data.zbgu.txt 1
-data.zbrj.txt 1
-data.zdaq.txt 10
-data.zdpw.txt 1
-data.zeac.txt 1
-data.zeec.txt 1
-data.zekw.txt 1
-data.zess.txt 1
+data.ew.txt 2.5727503226135906
+data.mu.txt 2.5727503226135906
+data.ng.txt 2.5727503226135906
+data.sq.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zbrj.txt 2.5727503226135906
+data.zdaq.txt 8.900253812908762
+data.zdpw.txt 2.5727503226135906
+data.zeac.txt 2.5727503226135906
+data.zeec.txt 2.5727503226135906
+data.zekw.txt 2.5727503226135906
+data.zess.txt 2.5727503226135906

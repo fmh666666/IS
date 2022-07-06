@@ -1,4 +1,4 @@
 3
-data.zbhv.txt 4
-data.zbqu.txt 4
-data.zbzo.txt 4
+data.zbhv.txt 8.333719726130651
+data.zbqu.txt 8.333719726130651
+data.zbzo.txt 8.333719726130651

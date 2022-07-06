@@ -1,7 +1,7 @@
 6
-data.bb.txt 3
-data.zajo.txt 1
-data.zcnn.txt 1
-data.zctp.txt 1
-data.zdme.txt 1
-data.zdzn.txt 1
+data.bb.txt 6.2173694273601745
+data.zajo.txt 3.1086847136800873
+data.zcnn.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zdme.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873

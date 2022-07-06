@@ -1,5 +1,5 @@
 4
-data.pa.txt 1
-data.zbzf.txt 2
-data.zbzg.txt 1
-data.zebc.txt 1
+data.pa.txt 3.389731710180695
+data.zbzf.txt 5.372597648141796
+data.zbzg.txt 3.389731710180695
+data.zebc.txt 3.389731710180695

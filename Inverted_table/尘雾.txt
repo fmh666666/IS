@@ -1,7 +1,7 @@
 6
-data.hp.txt 4
-data.zaim.txt 2
-data.zaqf.txt 1
-data.zenw.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.hp.txt 7.21814237484067
+data.zaim.txt 4.927148697748023
+data.zaqf.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

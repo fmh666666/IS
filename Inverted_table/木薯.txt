@@ -1,6 +1,6 @@
 5
-data.zcdv.txt 1
-data.zcem.txt 1
-data.zcts.txt 1
-data.zebc.txt 1
-data.zeqn.txt 1
+data.zcdv.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zebc.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117

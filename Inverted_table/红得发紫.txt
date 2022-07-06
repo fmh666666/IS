@@ -1,5 +1,5 @@
 4
-data.zcyx.txt 10
-data.zczj.txt 1
-data.zdgo.txt 1
-data.zedo.txt 1
+data.zcyx.txt 11.726545056896576
+data.zczj.txt 3.389731710180695
+data.zdgo.txt 3.389731710180695
+data.zedo.txt 3.389731710180695

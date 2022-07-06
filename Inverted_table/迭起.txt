@@ -1,8 +1,8 @@
 7
-data.zalm.txt 1
-data.zazn.txt 1
-data.zbfr.txt 1
-data.zbwq.txt 1
-data.zcsu.txt 1
-data.zdlw.txt 1
-data.zesi.txt 2
+data.zalm.txt 3.0018356045764243
+data.zazn.txt 3.0018356045764243
+data.zbfr.txt 3.0018356045764243
+data.zbwq.txt 3.0018356045764243
+data.zcsu.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zesi.txt 4.757796866583254

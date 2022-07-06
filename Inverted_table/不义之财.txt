@@ -1,7 +1,7 @@
 6
-data.hg.txt 1
-data.zabx.txt 1
-data.zbkv.txt 1
-data.zcon.txt 1
-data.zess.txt 1
-data.zfcj.txt 1
+data.hg.txt 3.1086847136800873
+data.zabx.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

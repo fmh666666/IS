@@ -1,7 +1,7 @@
 6
-data.ok.txt 1
-data.zadv.txt 1
-data.zako.txt 1
-data.zdaw.txt 1
-data.zdof.txt 1
-data.zefv.txt 1
+data.ok.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zako.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873

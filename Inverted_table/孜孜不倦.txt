@@ -1,10 +1,10 @@
 9
-data.vi.txt 1
-data.zaqp.txt 1
-data.zbmt.txt 1
-data.zbph.txt 1
-data.zcon.txt 1
-data.zcxr.txt 1
-data.zeeq.txt 1
-data.zesq.txt 1
-data.zeyy.txt 1
+data.vi.txt 2.82763771717948
+data.zaqp.txt 2.82763771717948
+data.zbmt.txt 2.82763771717948
+data.zbph.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zesq.txt 2.82763771717948
+data.zeyy.txt 2.82763771717948

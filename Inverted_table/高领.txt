@@ -1,11 +1,11 @@
 10
-data.ff.txt 2
-data.pq.txt 1
-data.tv.txt 1
-data.zaxj.txt 1
-data.zbgw.txt 4
-data.zbha.txt 1
-data.zclh.txt 1
-data.zcrv.txt 1
-data.zduc.txt 1
-data.zefw.txt 1
+data.ff.txt 4.365949390112154
+data.pq.txt 2.7546073728089153
+data.tv.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zbgw.txt 6.396000249308887
+data.zbha.txt 2.7546073728089153
+data.zclh.txt 2.7546073728089153
+data.zcrv.txt 2.7546073728089153
+data.zduc.txt 2.7546073728089153
+data.zefw.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zbmw.txt 1
-data.zeeq.txt 1
+data.jf.txt 3.5891377275982888
+data.zbmw.txt 3.5891377275982888
+data.zeeq.txt 3.5891377275982888

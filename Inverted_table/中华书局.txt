@@ -1,4 +1,4 @@
 3
-data.zaxj.txt 20
-data.zaxk.txt 9
-data.zbla.txt 2
+data.zaxj.txt 15.764632173682532
+data.zaxk.txt 11.922857453728941
+data.zbla.txt 5.688648708166832

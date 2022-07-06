@@ -1,6 +1,6 @@
 5
-data.zblr.txt 1
-data.zcdz.txt 1
-data.zdqz.txt 1
-data.zeay.txt 1
-data.zfaw.txt 4
+data.zblr.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zfaw.txt 7.511577600598868

@@ -1,7 +1,7 @@
 6
-data.zalm.txt 1
-data.zavx.txt 1
-data.zbhd.txt 3
-data.zcfn.txt 1
-data.zctm.txt 1
-data.zety.txt 1
+data.zalm.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zbhd.txt 6.2173694273601745
+data.zcfn.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zety.txt 3.1086847136800873

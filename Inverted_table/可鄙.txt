@@ -1,6 +1,6 @@
 5
-data.zaoy.txt 1
-data.zbdb.txt 1
-data.zeam.txt 1
-data.zevt.txt 1
-data.zfai.txt 1
+data.zaoy.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zevt.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

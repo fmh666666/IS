@@ -1,7 +1,7 @@
 6
-data.zbes.txt 1
-data.zdaw.txt 1
-data.zdkp.txt 2
-data.zegl.txt 3
-data.zesi.txt 1
-data.zeyu.txt 1
+data.zbes.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zdkp.txt 4.927148697748023
+data.zegl.txt 6.2173694273601745
+data.zesi.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

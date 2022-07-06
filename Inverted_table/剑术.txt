@@ -1,8 +1,8 @@
 7
-data.nh.txt 1
-data.zalm.txt 1
-data.zcoy.txt 1
-data.zdlo.txt 1
-data.zdxw.txt 1
-data.zenn.txt 1
-data.zevq.txt 2
+data.nh.txt 3.0018356045764243
+data.zalm.txt 3.0018356045764243
+data.zcoy.txt 3.0018356045764243
+data.zdlo.txt 3.0018356045764243
+data.zdxw.txt 3.0018356045764243
+data.zenn.txt 3.0018356045764243
+data.zevq.txt 4.757796866583254

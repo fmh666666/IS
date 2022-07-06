@@ -1,7 +1,7 @@
 6
-data.zaop.txt 1
-data.zbsl.txt 3
-data.zbsm.txt 1
-data.zddv.txt 1
-data.zdrq.txt 1
-data.zeil.txt 2
+data.zaop.txt 3.1086847136800873
+data.zbsl.txt 6.2173694273601745
+data.zbsm.txt 3.1086847136800873
+data.zddv.txt 3.1086847136800873
+data.zdrq.txt 3.1086847136800873
+data.zeil.txt 4.927148697748023

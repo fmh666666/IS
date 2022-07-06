@@ -1,12 +1,12 @@
 11
-data.mo.txt 1
-data.zaxj.txt 2
-data.zaxk.txt 2
-data.zayd.txt 1
-data.zbga.txt 1
-data.zcdv.txt 1
-data.zclm.txt 4
-data.zcln.txt 2
-data.zebv.txt 2
-data.zeoh.txt 1
-data.zevy.txt 1
+data.mo.txt 2.6885433903988862
+data.zaxj.txt 4.261240455343955
+data.zaxk.txt 4.261240455343955
+data.zayd.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zclm.txt 6.2426044324908965
+data.zcln.txt 4.261240455343955
+data.zebv.txt 4.261240455343955
+data.zeoh.txt 2.6885433903988862
+data.zevy.txt 2.6885433903988862

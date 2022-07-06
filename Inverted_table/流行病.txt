@@ -1,10 +1,10 @@
 9
-data.jf.txt 1
-data.ka.txt 1
-data.nh.txt 2
-data.zbkv.txt 1
-data.zcdv.txt 1
-data.zczp.txt 1
-data.zdtr.txt 1
-data.zefp.txt 1
-data.zene.txt 2
+data.jf.txt 2.82763771717948
+data.ka.txt 2.82763771717948
+data.nh.txt 4.48169974735425
+data.zbkv.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zdtr.txt 2.82763771717948
+data.zefp.txt 2.82763771717948
+data.zene.txt 4.48169974735425

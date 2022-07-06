@@ -1,2 +1,2 @@
 1
-data.zclh.txt 2
+data.zclh.txt 6.8955976689794145

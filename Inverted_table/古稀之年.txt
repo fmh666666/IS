@@ -1,4 +1,4 @@
 3
-data.zbsf.txt 1
-data.zbwa.txt 1
-data.zcda.txt 1
+data.zbsf.txt 3.5891377275982888
+data.zbwa.txt 3.5891377275982888
+data.zcda.txt 3.5891377275982888

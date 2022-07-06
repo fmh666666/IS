@@ -1,5 +1,5 @@
 4
-data.hc.txt 1
-data.ud.txt 1
-data.zbnp.txt 1
-data.zczj.txt 1
+data.hc.txt 3.389731710180695
+data.ud.txt 3.389731710180695
+data.zbnp.txt 3.389731710180695
+data.zczj.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.zayc.txt 1
-data.zeoh.txt 1
-data.zeun.txt 1
-data.zfbr.txt 1
-data.zfdk.txt 1
+data.ft.txt 3.1086847136800873
+data.zayc.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873
+data.zfbr.txt 3.1086847136800873
+data.zfdk.txt 3.1086847136800873

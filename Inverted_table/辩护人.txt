@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.hp.txt 1
-data.zawc.txt 1
-data.zdzn.txt 1
-data.zeam.txt 1
-data.zfae.txt 1
+data.ga.txt 3.1086847136800873
+data.hp.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

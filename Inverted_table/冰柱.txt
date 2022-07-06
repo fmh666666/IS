@@ -1,6 +1,6 @@
 5
-data.gw.txt 4
-data.zbcj.txt 2
-data.zcue.txt 2
-data.zenw.txt 4
-data.zerv.txt 4
+data.gw.txt 7.511577600598868
+data.zbcj.txt 5.1274494005309625
+data.zcue.txt 5.1274494005309625
+data.zenw.txt 7.511577600598868
+data.zerv.txt 7.511577600598868

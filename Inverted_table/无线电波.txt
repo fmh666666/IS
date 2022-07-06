@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zbnx.txt 1
-data.zciq.txt 1
-data.zcln.txt 1
-data.zdtr.txt 1
+data.gw.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zdtr.txt 3.235060386727117

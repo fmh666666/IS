@@ -1,10 +1,10 @@
 9
-data.fe.txt 2
-data.ng.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.zail.txt 1
-data.zavg.txt 2
-data.zefd.txt 1
-data.zeoh.txt 2
-data.zeqh.txt 2
+data.fe.txt 4.48169974735425
+data.ng.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zail.txt 2.82763771717948
+data.zavg.txt 4.48169974735425
+data.zefd.txt 2.82763771717948
+data.zeoh.txt 4.48169974735425
+data.zeqh.txt 4.48169974735425

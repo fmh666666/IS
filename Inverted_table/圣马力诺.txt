@@ -1,4 +1,4 @@
 3
-data.zalj.txt 1
-data.zaqr.txt 2
-data.zdud.txt 2
+data.zalj.txt 3.5891377275982888
+data.zaqr.txt 5.688648708166832
+data.zdud.txt 5.688648708166832

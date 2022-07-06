@@ -1,14 +1,14 @@
 13
-data.ek.txt 1
-data.gw.txt 1
-data.ha.txt 1
-data.pn.txt 1
-data.zamr.txt 1
-data.zasj.txt 1
-data.zazn.txt 1
-data.zcao.txt 1
-data.zcdy.txt 2
-data.zcls.txt 1
-data.zcrg.txt 1
-data.zcue.txt 2
-data.zeec.txt 1
+data.ek.txt 2.5727503226135906
+data.gw.txt 2.5727503226135906
+data.ha.txt 2.5727503226135906
+data.pn.txt 2.5727503226135906
+data.zamr.txt 2.5727503226135906
+data.zasj.txt 2.5727503226135906
+data.zazn.txt 2.5727503226135906
+data.zcao.txt 2.5727503226135906
+data.zcdy.txt 4.077712785060798
+data.zcls.txt 2.5727503226135906
+data.zcrg.txt 2.5727503226135906
+data.zcue.txt 4.077712785060798
+data.zeec.txt 2.5727503226135906

@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.zbhd.txt 1
-data.zbjk.txt 1
-data.zcdz.txt 1
-data.zcve.txt 1
-data.zczl.txt 1
-data.zdwn.txt 1
-data.zegn.txt 1
-data.zeoh.txt 2
+data.ka.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdwn.txt 2.82763771717948
+data.zegn.txt 2.82763771717948
+data.zeoh.txt 4.48169974735425

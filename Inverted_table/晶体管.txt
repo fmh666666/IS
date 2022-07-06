@@ -1,4 +1,4 @@
 3
-data.zcee.txt 1
-data.zcon.txt 1
-data.zcrg.txt 2
+data.zcee.txt 3.5891377275982888
+data.zcon.txt 3.5891377275982888
+data.zcrg.txt 5.688648708166832

@@ -1,6 +1,6 @@
 5
-data.en.txt 1
-data.tz.txt 1
-data.zaqf.txt 1
-data.zcjy.txt 1
-data.zeqv.txt 2
+data.en.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zaqf.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117
+data.zeqv.txt 5.1274494005309625

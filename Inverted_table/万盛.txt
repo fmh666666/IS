@@ -1,10 +1,10 @@
 9
-data.zahp.txt 1
-data.zazn.txt 1
-data.zbfd.txt 1
-data.zbhv.txt 1
-data.zbre.txt 1
-data.zciq.txt 1
-data.zckd.txt 1
-data.zctm.txt 1
-data.zdzn.txt 1
+data.zahp.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbfd.txt 2.82763771717948
+data.zbhv.txt 2.82763771717948
+data.zbre.txt 2.82763771717948
+data.zciq.txt 2.82763771717948
+data.zckd.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948

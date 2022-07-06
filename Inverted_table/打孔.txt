@@ -1,5 +1,5 @@
 4
-data.zair.txt 2
-data.zcbe.txt 1
-data.zebn.txt 1
-data.zeeq.txt 1
+data.zair.txt 5.372597648141796
+data.zcbe.txt 3.389731710180695
+data.zebn.txt 3.389731710180695
+data.zeeq.txt 3.389731710180695

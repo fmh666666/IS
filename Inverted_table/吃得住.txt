@@ -1,5 +1,5 @@
 4
-data.zbwq.txt 1
-data.zczp.txt 2
-data.zeai.txt 1
-data.zewg.txt 1
+data.zbwq.txt 3.389731710180695
+data.zczp.txt 5.372597648141796
+data.zeai.txt 3.389731710180695
+data.zewg.txt 3.389731710180695

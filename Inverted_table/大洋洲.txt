@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.mx.txt 1
-data.zbeb.txt 1
-data.zcku.txt 1
-data.zdud.txt 1
+data.ha.txt 3.235060386727117
+data.mx.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zcku.txt 3.235060386727117
+data.zdud.txt 3.235060386727117

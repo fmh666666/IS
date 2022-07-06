@@ -1,7 +1,7 @@
 6
-data.ng.txt 1
-data.yx.txt 1
-data.zbdb.txt 1
-data.zbkv.txt 1
-data.zbzg.txt 1
-data.zezy.txt 1
+data.ng.txt 3.1086847136800873
+data.yx.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zbzg.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.zalm.txt 1
-data.zcdl.txt 1
-data.zcon.txt 1
-data.zexk.txt 1
+data.cz.txt 3.235060386727117
+data.zalm.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

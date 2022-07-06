@@ -1,12 +1,12 @@
 11
-data.hp.txt 1
-data.mi.txt 2
-data.zard.txt 1
-data.zasj.txt 1
-data.zcdv.txt 1
-data.zcdz.txt 1
-data.zcjy.txt 1
-data.zdgo.txt 1
-data.zeeq.txt 1
-data.zfcg.txt 1
-data.zfcj.txt 1
+data.hp.txt 2.6885433903988862
+data.mi.txt 4.261240455343955
+data.zard.txt 2.6885433903988862
+data.zasj.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcjy.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862
+data.zfcg.txt 2.6885433903988862
+data.zfcj.txt 2.6885433903988862

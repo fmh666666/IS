@@ -1,7 +1,7 @@
 6
-data.zavg.txt 1
-data.zbyb.txt 1
-data.zcdg.txt 1
-data.zcej.txt 1
-data.zedo.txt 1
-data.zelt.txt 1
+data.zavg.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcej.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

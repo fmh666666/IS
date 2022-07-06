@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zafq.txt 1
-data.zcis.txt 1
-data.zcse.txt 1
-data.zcue.txt 1
-data.zcvq.txt 1
-data.zdeb.txt 1
-data.zehp.txt 1
+data.gw.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zcis.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935

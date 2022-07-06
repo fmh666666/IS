@@ -1,9 +1,9 @@
 8
-data.ng.txt 1
-data.zaql.txt 1
-data.zazw.txt 1
-data.zcee.txt 1
-data.zcrk.txt 1
-data.zcvi.txt 1
-data.zeag.txt 1
-data.zeay.txt 1
+data.ng.txt 2.9092786962624935
+data.zaql.txt 2.9092786962624935
+data.zazw.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zcvi.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935

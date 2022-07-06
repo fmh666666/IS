@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.zawu.txt 1
-data.zebn.txt 2
-data.zesq.txt 1
+data.ga.txt 3.389731710180695
+data.zawu.txt 3.389731710180695
+data.zebn.txt 5.372597648141796
+data.zesq.txt 3.389731710180695

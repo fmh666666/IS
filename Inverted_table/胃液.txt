@@ -1,6 +1,6 @@
 5
-data.zaoc.txt 2
-data.zbcj.txt 2
-data.zcft.txt 1
-data.zdle.txt 1
-data.zezf.txt 1
+data.zaoc.txt 5.1274494005309625
+data.zbcj.txt 5.1274494005309625
+data.zcft.txt 3.235060386727117
+data.zdle.txt 3.235060386727117
+data.zezf.txt 3.235060386727117

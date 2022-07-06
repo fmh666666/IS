@@ -1,3 +1,3 @@
 2
-data.zabe.txt 1
-data.zbvm.txt 4
+data.zabe.txt 3.8701847240988965
+data.zbvm.txt 8.986290643289122

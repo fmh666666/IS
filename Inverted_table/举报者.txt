@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.mx.txt 1
-data.zawb.txt 2
-data.zawc.txt 2
-data.zbdb.txt 1
-data.zdnh.txt 1
+data.ft.txt 3.1086847136800873
+data.mx.txt 3.1086847136800873
+data.zawb.txt 4.927148697748023
+data.zawc.txt 4.927148697748023
+data.zbdb.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873

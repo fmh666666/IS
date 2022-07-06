@@ -1,12 +1,12 @@
 11
-data.zayc.txt 1
-data.zbbt.txt 1
-data.zbcc.txt 1
-data.zbfg.txt 1
-data.zbnp.txt 2
-data.zbut.txt 1
-data.zbxw.txt 1
-data.zcse.txt 1
-data.zdud.txt 1
-data.zeai.txt 1
-data.zfaj.txt 1
+data.zayc.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbfg.txt 2.6885433903988862
+data.zbnp.txt 4.261240455343955
+data.zbut.txt 2.6885433903988862
+data.zbxw.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdud.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

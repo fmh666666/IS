@@ -1,2 +1,2 @@
 1
-data.zard.txt 2
+data.zard.txt 6.8955976689794145

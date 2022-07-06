@@ -1,6 +1,6 @@
 5
-data.zbsu.txt 1
-data.zbvp.txt 1
-data.zdrq.txt 1
-data.zegk.txt 1
-data.zegn.txt 2
+data.zbsu.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117
+data.zegk.txt 3.235060386727117
+data.zegn.txt 5.1274494005309625

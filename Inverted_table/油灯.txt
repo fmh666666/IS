@@ -1,7 +1,7 @@
 6
-data.yx.txt 1
-data.zabe.txt 1
-data.zail.txt 1
-data.zavg.txt 1
-data.zawb.txt 1
-data.zdgp.txt 1
+data.yx.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zail.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873

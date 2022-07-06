@@ -1,4 +1,4 @@
 3
-data.zcsu.txt 1
-data.zcue.txt 1
-data.zcuh.txt 1
+data.zcsu.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888
+data.zcuh.txt 3.5891377275982888

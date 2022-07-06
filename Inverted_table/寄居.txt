@@ -1,10 +1,10 @@
 9
-data.hc.txt 1
-data.zabe.txt 1
-data.zcse.txt 1
-data.zcxr.txt 1
-data.zczl.txt 1
-data.zdep.txt 1
-data.zdkc.txt 1
-data.zdzn.txt 1
-data.zenw.txt 2
+data.hc.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zczl.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zenw.txt 4.48169974735425

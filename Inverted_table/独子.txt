@@ -1,8 +1,8 @@
 7
-data.be.txt 1
-data.zbtj.txt 2
-data.zcdz.txt 2
-data.zdkv.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
-data.zevq.txt 1
+data.be.txt 3.0018356045764243
+data.zbtj.txt 4.757796866583254
+data.zcdz.txt 4.757796866583254
+data.zdkv.txt 3.0018356045764243
+data.zelt.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243
+data.zevq.txt 3.0018356045764243

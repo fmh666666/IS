@@ -1,5 +1,5 @@
 4
-data.zcak.txt 1
-data.zcxp.txt 1
-data.zexk.txt 1
-data.zfaj.txt 1
+data.zcak.txt 3.389731710180695
+data.zcxp.txt 3.389731710180695
+data.zexk.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

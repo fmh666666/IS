@@ -1,10 +1,10 @@
 9
-data.mt.txt 1
-data.op.txt 4
-data.pa.txt 1
-data.zajo.txt 1
-data.zapr.txt 1
-data.zbvm.txt 1
-data.zbwa.txt 1
-data.zbye.txt 1
-data.zdlo.txt 1
+data.mt.txt 2.82763771717948
+data.op.txt 6.565571457682201
+data.pa.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zapr.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zbwa.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948

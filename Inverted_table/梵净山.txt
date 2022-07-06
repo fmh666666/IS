@@ -1,5 +1,5 @@
 4
-data.ev.txt 3
-data.ew.txt 1
-data.zahd.txt 1
-data.zeds.txt 2
+data.ev.txt 6.77946342036139
+data.ew.txt 3.389731710180695
+data.zahd.txt 3.389731710180695
+data.zeds.txt 5.372597648141796

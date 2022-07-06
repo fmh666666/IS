@@ -1,11 +1,11 @@
 10
-data.kt.txt 3
-data.ye.txt 2
-data.yx.txt 2
-data.zafe.txt 1
-data.zaoy.txt 2
-data.zcxp.txt 1
-data.zczj.txt 1
-data.zczp.txt 1
-data.zdsh.txt 1
-data.zdxw.txt 1
+data.kt.txt 5.509214745617831
+data.ye.txt 4.365949390112154
+data.yx.txt 4.365949390112154
+data.zafe.txt 2.7546073728089153
+data.zaoy.txt 4.365949390112154
+data.zcxp.txt 2.7546073728089153
+data.zczj.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zdsh.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153

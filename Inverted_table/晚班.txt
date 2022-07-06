@@ -1,6 +1,6 @@
 5
-data.zbkr.txt 1
-data.zbta.txt 4
-data.zcft.txt 1
-data.zcqe.txt 1
-data.zeds.txt 1
+data.zbkr.txt 3.235060386727117
+data.zbta.txt 7.511577600598868
+data.zcft.txt 3.235060386727117
+data.zcqe.txt 3.235060386727117
+data.zeds.txt 3.235060386727117

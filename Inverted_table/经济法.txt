@@ -1,7 +1,7 @@
 6
-data.hu.txt 2
-data.zako.txt 1
-data.zcgi.txt 3
-data.zcvq.txt 1
-data.zebv.txt 2
-data.zeqv.txt 1
+data.hu.txt 4.927148697748023
+data.zako.txt 3.1086847136800873
+data.zcgi.txt 6.2173694273601745
+data.zcvq.txt 3.1086847136800873
+data.zebv.txt 4.927148697748023
+data.zeqv.txt 3.1086847136800873

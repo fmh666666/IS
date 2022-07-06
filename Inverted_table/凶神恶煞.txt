@@ -1,10 +1,10 @@
 9
-data.vm.txt 1
-data.zahd.txt 1
-data.zazx.txt 1
-data.zcve.txt 1
-data.zcvq.txt 1
-data.zdkk.txt 1
-data.zdod.txt 1
-data.zehp.txt 1
-data.zfae.txt 1
+data.vm.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zazx.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zdkk.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

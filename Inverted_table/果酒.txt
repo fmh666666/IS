@@ -1,12 +1,12 @@
 11
-data.cn.txt 1
-data.qn.txt 1
-data.zaoo.txt 2
-data.zapl.txt 1
-data.zazn.txt 1
-data.zbjk.txt 1
-data.zcvt.txt 1
-data.zczp.txt 1
-data.zdpf.txt 1
-data.zedy.txt 1
-data.zfby.txt 1
+data.cn.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zaoo.txt 4.261240455343955
+data.zapl.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zedy.txt 2.6885433903988862
+data.zfby.txt 2.6885433903988862

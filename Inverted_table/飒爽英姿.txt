@@ -1,9 +1,9 @@
 8
-data.zasw.txt 1
-data.zavx.txt 3
-data.zawu.txt 1
-data.zbzg.txt 1
-data.zcej.txt 1
-data.zcel.txt 1
-data.zdgp.txt 1
-data.zeeh.txt 1
+data.zasw.txt 2.9092786962624935
+data.zavx.txt 5.818557392524987
+data.zawu.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zcej.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935

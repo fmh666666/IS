@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.tz.txt 1
-data.zcql.txt 1
-data.zddv.txt 2
-data.zddx.txt 1
+data.cq.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zddv.txt 5.1274494005309625
+data.zddx.txt 3.235060386727117

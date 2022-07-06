@@ -1,9 +1,9 @@
 8
-data.zadv.txt 2
-data.zalm.txt 1
-data.zass.txt 1
-data.zavg.txt 1
-data.zaxj.txt 1
-data.zazw.txt 1
-data.zazx.txt 1
-data.zbrj.txt 1
+data.zadv.txt 4.611097637722987
+data.zalm.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zazw.txt 2.9092786962624935
+data.zazx.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935

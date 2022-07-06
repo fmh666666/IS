@@ -1,4 +1,4 @@
 3
-data.zaej.txt 1
-data.zbla.txt 2
-data.zdnc.txt 2
+data.zaej.txt 3.5891377275982888
+data.zbla.txt 5.688648708166832
+data.zdnc.txt 5.688648708166832

@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.ka.txt 2
-data.mt.txt 1
-data.zcqp.txt 1
-data.zdtv.txt 1
-data.zesq.txt 1
+data.ft.txt 3.1086847136800873
+data.ka.txt 4.927148697748023
+data.mt.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zdtv.txt 3.1086847136800873
+data.zesq.txt 3.1086847136800873

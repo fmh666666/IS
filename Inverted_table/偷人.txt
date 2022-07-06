@@ -1,5 +1,5 @@
 4
-data.ha.txt 1
-data.zalt.txt 1
-data.zdou.txt 2
-data.zemf.txt 1
+data.ha.txt 3.389731710180695
+data.zalt.txt 3.389731710180695
+data.zdou.txt 5.372597648141796
+data.zemf.txt 3.389731710180695

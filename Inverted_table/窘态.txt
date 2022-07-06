@@ -1,4 +1,4 @@
 3
-data.ka.txt 1
-data.zaic.txt 1
-data.zedo.txt 1
+data.ka.txt 3.5891377275982888
+data.zaic.txt 3.5891377275982888
+data.zedo.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.mx.txt 1
-data.xe.txt 1
-data.zaqf.txt 1
-data.zbsd.txt 1
-data.zbut.txt 1
-data.zcdz.txt 1
-data.zdgt.txt 1
-data.zduc.txt 1
+data.mx.txt 2.9092786962624935
+data.xe.txt 2.9092786962624935
+data.zaqf.txt 2.9092786962624935
+data.zbsd.txt 2.9092786962624935
+data.zbut.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zduc.txt 2.9092786962624935

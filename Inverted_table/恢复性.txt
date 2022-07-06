@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zbse.txt 1
-data.zbxy.txt 1
-data.zcdz.txt 1
-data.zexx.txt 1
+data.zacw.txt 3.235060386727117
+data.zbse.txt 3.235060386727117
+data.zbxy.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zexx.txt 3.235060386727117

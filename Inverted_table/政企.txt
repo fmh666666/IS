@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zbot.txt 1
-data.zdaw.txt 1
-data.zduc.txt 1
-data.zenn.txt 1
+data.ga.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zdaw.txt 3.235060386727117
+data.zduc.txt 3.235060386727117
+data.zenn.txt 3.235060386727117

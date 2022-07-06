@@ -1,5 +1,5 @@
 4
-data.zasj.txt 1
-data.zeoo.txt 1
-data.zeqv.txt 1
-data.zfai.txt 1
+data.zasj.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.mk.txt 1
-data.zarc.txt 1
-data.zbux.txt 1
+data.mk.txt 3.5891377275982888
+data.zarc.txt 3.5891377275982888
+data.zbux.txt 3.5891377275982888

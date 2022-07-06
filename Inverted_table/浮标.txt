@@ -1,4 +1,4 @@
 3
-data.zbsm.txt 1
-data.zfai.txt 5
-data.zfaj.txt 3
+data.zbsm.txt 3.5891377275982888
+data.zfai.txt 9.27778643576512
+data.zfaj.txt 7.1782754551965775

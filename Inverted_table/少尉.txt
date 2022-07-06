@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zblr.txt 2
-data.zcel.txt 1
-data.zedk.txt 1
-data.zevq.txt 1
+data.zaxp.txt 3.235060386727117
+data.zblr.txt 5.1274494005309625
+data.zcel.txt 3.235060386727117
+data.zedk.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.hc.txt 2
-data.jf.txt 1
-data.zbor.txt 1
-data.zbvp.txt 1
-data.zcku.txt 1
-data.zcqe.txt 1
-data.zctn.txt 2
-data.zczl.txt 1
-data.zdgp.txt 1
-data.zdqx.txt 2
-data.zeay.txt 1
-data.zewv.txt 2
-data.zezy.txt 1
+data.hc.txt 4.077712785060798
+data.jf.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zbvp.txt 2.5727503226135906
+data.zcku.txt 2.5727503226135906
+data.zcqe.txt 2.5727503226135906
+data.zctn.txt 4.077712785060798
+data.zczl.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zdqx.txt 4.077712785060798
+data.zeay.txt 2.5727503226135906
+data.zewv.txt 4.077712785060798
+data.zezy.txt 2.5727503226135906

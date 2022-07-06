@@ -1,5 +1,5 @@
 4
-data.zbeb.txt 1
-data.zbvg.txt 1
-data.zdmw.txt 1
-data.zduk.txt 1
+data.zbeb.txt 3.389731710180695
+data.zbvg.txt 3.389731710180695
+data.zdmw.txt 3.389731710180695
+data.zduk.txt 3.389731710180695

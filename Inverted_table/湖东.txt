@@ -1,4 +1,4 @@
 3
-data.zczb.txt 1
-data.zddb.txt 5
-data.zeil.txt 1
+data.zczb.txt 3.5891377275982888
+data.zddb.txt 9.27778643576512
+data.zeil.txt 3.5891377275982888

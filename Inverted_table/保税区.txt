@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zdwn.txt 1
-data.zeay.txt 1
-data.zexv.txt 1
-data.zfcg.txt 3
+data.hz.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zexv.txt 3.235060386727117
+data.zfcg.txt 6.470120773454234

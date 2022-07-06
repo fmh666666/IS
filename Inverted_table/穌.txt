@@ -1,9 +1,9 @@
 8
-data.zanh.txt 1
-data.zbds.txt 1
-data.zbhd.txt 1
-data.zcem.txt 1
-data.zcpb.txt 1
-data.zdqz.txt 1
-data.zejk.txt 1
-data.zfaj.txt 1
+data.zanh.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zdqz.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

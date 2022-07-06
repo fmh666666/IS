@@ -1,4 +1,4 @@
 3
-data.ee.txt 1
-data.zbfd.txt 1
-data.zcqe.txt 1
+data.ee.txt 3.5891377275982888
+data.zbfd.txt 3.5891377275982888
+data.zcqe.txt 3.5891377275982888

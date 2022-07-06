@@ -1,5 +1,5 @@
 4
-data.zaeh.txt 20
-data.zaxp.txt 1
-data.zdpg.txt 2
-data.zeeh.txt 2
+data.zaeh.txt 14.88877764917231
+data.zaxp.txt 3.389731710180695
+data.zdpg.txt 5.372597648141796
+data.zeeh.txt 5.372597648141796

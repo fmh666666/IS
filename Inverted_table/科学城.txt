@@ -1,2 +1,2 @@
 1
-data.zbnp.txt 2
+data.zbnp.txt 6.8955976689794145

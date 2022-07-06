@@ -1,10 +1,10 @@
 9
-data.uz.txt 1
-data.zasw.txt 3
-data.zbga.txt 1
-data.zbkr.txt 1
-data.zcfn.txt 1
-data.zcqp.txt 1
-data.zdey.txt 4
-data.zdgv.txt 1
-data.zezf.txt 2
+data.uz.txt 2.82763771717948
+data.zasw.txt 5.65527543435896
+data.zbga.txt 2.82763771717948
+data.zbkr.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zdey.txt 6.565571457682201
+data.zdgv.txt 2.82763771717948
+data.zezf.txt 4.48169974735425

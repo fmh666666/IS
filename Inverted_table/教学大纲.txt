@@ -1,5 +1,5 @@
 4
-data.zass.txt 1
-data.zazn.txt 1
-data.zcjo.txt 1
-data.zdlw.txt 1
+data.zass.txt 3.389731710180695
+data.zazn.txt 3.389731710180695
+data.zcjo.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695

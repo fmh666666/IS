@@ -1,4 +1,4 @@
 3
-data.zaop.txt 1
-data.zapl.txt 1
-data.zdwl.txt 1
+data.zaop.txt 3.5891377275982888
+data.zapl.txt 3.5891377275982888
+data.zdwl.txt 3.5891377275982888

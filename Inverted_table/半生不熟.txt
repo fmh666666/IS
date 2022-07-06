@@ -1,6 +1,6 @@
 5
-data.pq.txt 1
-data.zcxr.txt 1
-data.zdbf.txt 1
-data.zeam.txt 1
-data.zebn.txt 1
+data.pq.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zdbf.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zebn.txt 3.235060386727117

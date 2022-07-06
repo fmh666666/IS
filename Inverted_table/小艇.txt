@@ -1,7 +1,7 @@
 6
-data.zahd.txt 4
-data.zbjq.txt 1
-data.zcsu.txt 1
-data.zemf.txt 1
-data.zfai.txt 1
-data.zfcg.txt 1
+data.zahd.txt 7.21814237484067
+data.zbjq.txt 3.1086847136800873
+data.zcsu.txt 3.1086847136800873
+data.zemf.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873
+data.zfcg.txt 3.1086847136800873

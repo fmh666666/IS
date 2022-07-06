@@ -1,5 +1,5 @@
 4
-data.aj.txt 1
-data.mx.txt 4
-data.zcko.txt 1
-data.zcpa.txt 1
+data.aj.txt 3.389731710180695
+data.mx.txt 7.870713291999142
+data.zcko.txt 3.389731710180695
+data.zcpa.txt 3.389731710180695

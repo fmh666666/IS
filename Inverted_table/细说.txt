@@ -1,11 +1,11 @@
 10
-data.mk.txt 1
-data.zbcc.txt 1
-data.zbkj.txt 1
-data.zbnx.txt 1
-data.zbor.txt 1
-data.zbsd.txt 1
-data.zbvm.txt 1
-data.zcdz.txt 1
-data.zciy.txt 1
-data.zdwn.txt 1
+data.mk.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbsd.txt 2.7546073728089153
+data.zbvm.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zdwn.txt 2.7546073728089153

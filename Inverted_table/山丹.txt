@@ -1,13 +1,13 @@
 12
-data.qn.txt 3
-data.tv.txt 1
-data.vz.txt 2
-data.zafe.txt 1
-data.zasq.txt 3
-data.zcao.txt 2
-data.zcfn.txt 1
-data.zcls.txt 2
-data.zddb.txt 1
-data.zdux.txt 2
-data.zeeh.txt 1
-data.zfaj.txt 1
+data.qn.txt 5.256463399523772
+data.tv.txt 2.628231699761886
+data.vz.txt 4.165648687329214
+data.zafe.txt 2.628231699761886
+data.zasq.txt 5.256463399523772
+data.zcao.txt 4.165648687329214
+data.zcfn.txt 2.628231699761886
+data.zcls.txt 4.165648687329214
+data.zddb.txt 2.628231699761886
+data.zdux.txt 4.165648687329214
+data.zeeh.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

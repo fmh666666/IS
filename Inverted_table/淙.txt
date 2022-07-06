@@ -1,4 +1,4 @@
 3
-data.zaxk.txt 1
-data.zbkj.txt 3
-data.zenn.txt 1
+data.zaxk.txt 3.5891377275982888
+data.zbkj.txt 7.1782754551965775
+data.zenn.txt 3.5891377275982888

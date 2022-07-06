@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zbye.txt 1
-data.zbzf.txt 1
-data.zcfn.txt 1
-data.zewd.txt 2
+data.zako.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zewd.txt 5.1274494005309625

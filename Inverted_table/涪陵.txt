@@ -1,9 +1,9 @@
 8
-data.bs.txt 2
-data.zagr.txt 3
-data.zawc.txt 3
-data.zbtj.txt 9
-data.zcdy.txt 1
-data.zcyv.txt 1
-data.zdod.txt 3
-data.zdzn.txt 1
+data.bs.txt 4.611097637722987
+data.zagr.txt 5.818557392524987
+data.zawc.txt 5.818557392524987
+data.zbtj.txt 9.664414636971655
+data.zcdy.txt 2.9092786962624935
+data.zcyv.txt 2.9092786962624935
+data.zdod.txt 5.818557392524987
+data.zdzn.txt 2.9092786962624935

@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zacw.txt 2
-data.zahp.txt 1
-data.zcfn.txt 1
-data.zcql.txt 1
+data.tz.txt 3.235060386727117
+data.zacw.txt 5.1274494005309625
+data.zahp.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zcql.txt 3.235060386727117

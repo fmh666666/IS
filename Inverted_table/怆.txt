@@ -1,10 +1,10 @@
 9
-data.fz.txt 1
-data.wc.txt 1
-data.zbbt.txt 1
-data.zbuj.txt 1
-data.zbyb.txt 1
-data.zduo.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zeqv.txt 1
+data.fz.txt 2.82763771717948
+data.wc.txt 2.82763771717948
+data.zbbt.txt 2.82763771717948
+data.zbuj.txt 2.82763771717948
+data.zbyb.txt 2.82763771717948
+data.zduo.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

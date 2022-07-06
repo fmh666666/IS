@@ -1,6 +1,6 @@
 5
-data.bs.txt 2
-data.zbpc.txt 1
-data.zdle.txt 1
-data.zduk.txt 1
-data.zedx.txt 1
+data.bs.txt 5.1274494005309625
+data.zbpc.txt 3.235060386727117
+data.zdle.txt 3.235060386727117
+data.zduk.txt 3.235060386727117
+data.zedx.txt 3.235060386727117

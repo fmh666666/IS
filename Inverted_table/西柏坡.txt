@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.op.txt 1
-data.zawc.txt 1
-data.zcdz.txt 2
-data.zdju.txt 1
+data.hp.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zcdz.txt 5.1274494005309625
+data.zdju.txt 3.235060386727117

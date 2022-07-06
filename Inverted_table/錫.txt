@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.hu.txt 1
-data.mx.txt 1
-data.zaql.txt 1
-data.zbhv.txt 2
-data.zbnx.txt 2
-data.zcem.txt 1
-data.zcqs.txt 1
-data.zcwq.txt 2
-data.zdey.txt 1
-data.zdib.txt 1
-data.zeam.txt 1
+data.cz.txt 2.628231699761886
+data.hu.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zaql.txt 2.628231699761886
+data.zbhv.txt 4.165648687329214
+data.zbnx.txt 4.165648687329214
+data.zcem.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zcwq.txt 4.165648687329214
+data.zdey.txt 2.628231699761886
+data.zdib.txt 2.628231699761886
+data.zeam.txt 2.628231699761886

@@ -1,13 +1,13 @@
 12
-data.hg.txt 1
-data.hp.txt 1
-data.zacw.txt 1
-data.zbaq.txt 3
-data.zbgd.txt 1
-data.zdcy.txt 1
-data.zddb.txt 1
-data.zdqz.txt 1
-data.zdst.txt 1
-data.zefp.txt 1
-data.zeos.txt 3
-data.zfaw.txt 2
+data.hg.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zbaq.txt 5.256463399523772
+data.zbgd.txt 2.628231699761886
+data.zdcy.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdqz.txt 2.628231699761886
+data.zdst.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zeos.txt 5.256463399523772
+data.zfaw.txt 4.165648687329214

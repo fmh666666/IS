@@ -1,4 +1,4 @@
 3
-data.uz.txt 1
-data.zcdz.txt 1
-data.zeel.txt 1
+data.uz.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zeel.txt 3.5891377275982888

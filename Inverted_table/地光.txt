@@ -1,2 +1,2 @@
 1
-data.zdaw.txt 3
+data.zdaw.txt 8.701275476034196

@@ -1,7 +1,7 @@
 6
-data.zaqr.txt 1
-data.zawb.txt 1
-data.zbnx.txt 1
-data.zcrn.txt 1
-data.zenw.txt 1
-data.zewn.txt 1
+data.zaqr.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873
+data.zewn.txt 3.1086847136800873

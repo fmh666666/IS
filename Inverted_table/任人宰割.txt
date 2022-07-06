@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.zasd.txt 1
-data.zchw.txt 1
-data.zene.txt 1
-data.zfai.txt 1
+data.hu.txt 3.235060386727117
+data.zasd.txt 3.235060386727117
+data.zchw.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

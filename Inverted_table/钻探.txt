@@ -1,4 +1,4 @@
 3
-data.gw.txt 2
-data.zahd.txt 1
-data.zdll.txt 2
+data.gw.txt 5.688648708166832
+data.zahd.txt 3.5891377275982888
+data.zdll.txt 5.688648708166832

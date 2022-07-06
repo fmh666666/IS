@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.zasd.txt 1
-data.zazo.txt 1
-data.zbcc.txt 1
-data.zbil.txt 1
-data.zbpc.txt 1
-data.zccx.txt 5
-data.zdar.txt 1
+data.be.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zazo.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbil.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zccx.txt 7.52037633398548
+data.zdar.txt 2.9092786962624935

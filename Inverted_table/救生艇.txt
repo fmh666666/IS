@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.be.txt 2
-data.ft.txt 1
-data.zawu.txt 1
-data.zcjd.txt 1
-data.zcxq.txt 2
-data.zdeq.txt 1
-data.zdvl.txt 2
-data.zelt.txt 1
+data.bb.txt 2.82763771717948
+data.be.txt 4.48169974735425
+data.ft.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zcjd.txt 2.82763771717948
+data.zcxq.txt 4.48169974735425
+data.zdeq.txt 2.82763771717948
+data.zdvl.txt 4.48169974735425
+data.zelt.txt 2.82763771717948

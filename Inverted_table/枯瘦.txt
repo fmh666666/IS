@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.ok.txt 1
-data.zafi.txt 1
-data.zbre.txt 1
-data.zczp.txt 1
+data.hu.txt 3.235060386727117
+data.ok.txt 3.235060386727117
+data.zafi.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zczp.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.zapf.txt 2
-data.zaqp.txt 1
-data.zbeb.txt 1
-data.zbgu.txt 1
-data.zbjq.txt 1
-data.zdzg.txt 1
+data.zapf.txt 4.927148697748023
+data.zaqp.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbgu.txt 3.1086847136800873
+data.zbjq.txt 3.1086847136800873
+data.zdzg.txt 3.1086847136800873

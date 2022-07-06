@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zbds.txt 1
-data.zcts.txt 1
-data.zddv.txt 1
-data.zdpg.txt 1
+data.zadv.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zdpg.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.mx.txt 8
-data.ry.txt 1
-data.zaoc.txt 2
-data.zapr.txt 1
-data.zbcj.txt 1
-data.zbzo.txt 1
-data.zcni.txt 3
-data.zcxq.txt 2
-data.zdwz.txt 1
-data.zeeh.txt 3
-data.zewn.txt 1
-data.zfai.txt 1
+data.bs.txt 2.5727503226135906
+data.mx.txt 8.155425570121595
+data.ry.txt 2.5727503226135906
+data.zaoc.txt 4.077712785060798
+data.zapr.txt 2.5727503226135906
+data.zbcj.txt 2.5727503226135906
+data.zbzo.txt 2.5727503226135906
+data.zcni.txt 5.145500645227181
+data.zcxq.txt 4.077712785060798
+data.zdwz.txt 2.5727503226135906
+data.zeeh.txt 5.145500645227181
+data.zewn.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

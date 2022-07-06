@@ -1,6 +1,6 @@
 5
-data.zaeh.txt 1
-data.zasd.txt 1
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zcvq.txt 1
+data.zaeh.txt 3.235060386727117
+data.zasd.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117

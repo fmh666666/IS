@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zaim.txt 1
-data.zbvn.txt 1
-data.zccl.txt 1
-data.zcrv.txt 1
+data.to.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zbvn.txt 3.235060386727117
+data.zccl.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.jj.txt 1
-data.zacw.txt 3
-data.zbjh.txt 2
-data.zbxw.txt 1
-data.zcsu.txt 1
-data.zdnc.txt 2
-data.zdod.txt 1
-data.zeaf.txt 1
-data.zebc.txt 1
-data.zedd.txt 1
-data.zeoh.txt 1
+data.jj.txt 2.6885433903988862
+data.zacw.txt 5.3770867807977725
+data.zbjh.txt 4.261240455343955
+data.zbxw.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zdnc.txt 4.261240455343955
+data.zdod.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

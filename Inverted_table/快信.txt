@@ -1,7 +1,7 @@
 6
-data.zaqp.txt 1
-data.zbmt.txt 2
-data.zcoy.txt 1
-data.zcuh.txt 1
-data.zddl.txt 1
-data.zdkp.txt 1
+data.zaqp.txt 3.1086847136800873
+data.zbmt.txt 4.927148697748023
+data.zcoy.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873
+data.zddl.txt 3.1086847136800873
+data.zdkp.txt 3.1086847136800873

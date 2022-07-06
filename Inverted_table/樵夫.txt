@@ -1,9 +1,9 @@
 8
-data.zalm.txt 1
-data.zbes.txt 1
-data.zddl.txt 1
-data.zdwn.txt 2
-data.zeaf.txt 1
-data.zegz.txt 2
-data.zfai.txt 1
-data.zfaj.txt 1
+data.zalm.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zddl.txt 2.9092786962624935
+data.zdwn.txt 4.611097637722987
+data.zeaf.txt 2.9092786962624935
+data.zegz.txt 4.611097637722987
+data.zfai.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

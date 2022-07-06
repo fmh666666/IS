@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.mk.txt 1
-data.zaim.txt 1
-data.zapl.txt 1
-data.zbuj.txt 1
-data.zejk.txt 1
+data.ft.txt 3.1086847136800873
+data.mk.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zbuj.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

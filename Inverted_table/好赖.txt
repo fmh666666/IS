@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.zaoo.txt 1
-data.zaxk.txt 1
-data.zbeb.txt 1
-data.zbla.txt 1
-data.zcdv.txt 1
+data.cf.txt 3.1086847136800873
+data.zaoo.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873

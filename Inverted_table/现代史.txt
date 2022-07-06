@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.zacd.txt 1
-data.zawb.txt 1
-data.zbfz.txt 1
-data.zddp.txt 1
+data.ft.txt 3.235060386727117
+data.zacd.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zddp.txt 3.235060386727117

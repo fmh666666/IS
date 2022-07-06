@@ -1,12 +1,12 @@
 11
-data.jf.txt 1
-data.mt.txt 1
-data.zbfz.txt 1
-data.zbjh.txt 1
-data.zbkf.txt 1
-data.zbpx.txt 1
-data.zcdv.txt 1
-data.zcse.txt 1
-data.zczb.txt 1
-data.zeyu.txt 1
-data.zeyy.txt 1
+data.jf.txt 2.6885433903988862
+data.mt.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zbkf.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zczb.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

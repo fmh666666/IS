@@ -1,7 +1,7 @@
 6
-data.co.txt 1
-data.yx.txt 1
-data.zaip.txt 1
-data.zcak.txt 1
-data.zcdz.txt 1
-data.zefw.txt 1
+data.co.txt 3.1086847136800873
+data.yx.txt 3.1086847136800873
+data.zaip.txt 3.1086847136800873
+data.zcak.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zefw.txt 3.1086847136800873

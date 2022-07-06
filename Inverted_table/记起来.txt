@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.tj.txt 1
-data.zafl.txt 1
-data.zaqp.txt 1
-data.zaxk.txt 1
-data.zbgw.txt 1
-data.zbot.txt 1
-data.zdds.txt 1
-data.zdgo.txt 1
-data.zdud.txt 1
-data.zeil.txt 1
-data.zess.txt 1
+data.aj.txt 2.628231699761886
+data.tj.txt 2.628231699761886
+data.zafl.txt 2.628231699761886
+data.zaqp.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zbgw.txt 2.628231699761886
+data.zbot.txt 2.628231699761886
+data.zdds.txt 2.628231699761886
+data.zdgo.txt 2.628231699761886
+data.zdud.txt 2.628231699761886
+data.zeil.txt 2.628231699761886
+data.zess.txt 2.628231699761886

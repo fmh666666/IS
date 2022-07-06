@@ -1,4 +1,4 @@
 3
-data.zcmv.txt 2
-data.zewn.txt 1
-data.zfaj.txt 1
+data.zcmv.txt 5.688648708166832
+data.zewn.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888

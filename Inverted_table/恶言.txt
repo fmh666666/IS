@@ -1,12 +1,12 @@
 11
-data.jf.txt 1
-data.ka.txt 1
-data.zacp.txt 1
-data.zaop.txt 1
-data.zbaf.txt 2
-data.zbjh.txt 1
-data.zblq.txt 1
-data.zcxq.txt 2
-data.zdle.txt 1
-data.zelj.txt 1
-data.zezh.txt 1
+data.jf.txt 2.6885433903988862
+data.ka.txt 2.6885433903988862
+data.zacp.txt 2.6885433903988862
+data.zaop.txt 2.6885433903988862
+data.zbaf.txt 4.261240455343955
+data.zbjh.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zcxq.txt 4.261240455343955
+data.zdle.txt 2.6885433903988862
+data.zelj.txt 2.6885433903988862
+data.zezh.txt 2.6885433903988862

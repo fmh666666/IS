@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.zcbm.txt 1
-data.zcdv.txt 1
-data.zcni.txt 1
-data.zdvl.txt 1
+data.fe.txt 3.235060386727117
+data.zcbm.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zdaw.txt 2
-data.zeai.txt 1
-data.zegk.txt 3
+data.zdaw.txt 5.688648708166832
+data.zeai.txt 3.5891377275982888
+data.zegk.txt 7.1782754551965775

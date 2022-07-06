@@ -1,11 +1,11 @@
 10
-data.hg.txt 1
-data.jj.txt 1
-data.zanh.txt 1
-data.zbvm.txt 1
-data.zcmy.txt 1
-data.zctn.txt 1
-data.zdzi.txt 1
-data.zegl.txt 3
-data.zegn.txt 2
-data.zfai.txt 1
+data.hg.txt 2.7546073728089153
+data.jj.txt 2.7546073728089153
+data.zanh.txt 2.7546073728089153
+data.zbvm.txt 2.7546073728089153
+data.zcmy.txt 2.7546073728089153
+data.zctn.txt 2.7546073728089153
+data.zdzi.txt 2.7546073728089153
+data.zegl.txt 5.509214745617831
+data.zegn.txt 4.365949390112154
+data.zfai.txt 2.7546073728089153

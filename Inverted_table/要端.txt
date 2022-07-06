@@ -1,9 +1,9 @@
 8
-data.zbor.txt 1
-data.zbrj.txt 1
-data.zcmn.txt 1
-data.zduk.txt 1
-data.zeec.txt 1
-data.zefp.txt 1
-data.zevt.txt 1
-data.zexu.txt 2
+data.zbor.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935
+data.zevt.txt 2.9092786962624935
+data.zexu.txt 4.611097637722987

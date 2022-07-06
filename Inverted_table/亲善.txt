@@ -1,12 +1,12 @@
 11
-data.cf.txt 1
-data.zavg.txt 1
-data.zbcc.txt 1
-data.zbvp.txt 12
-data.zcdl.txt 1
-data.zczl.txt 1
-data.zdgt.txt 1
-data.zeag.txt 1
-data.zebv.txt 1
-data.zeec.txt 1
-data.zelt.txt 1
+data.cf.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbvp.txt 9.948792745777752
+data.zcdl.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zebv.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862

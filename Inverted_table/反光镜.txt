@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zbil.txt 1
-data.zcxr.txt 1
-data.zdud.txt 1
-data.zeeq.txt 1
+data.zabe.txt 3.235060386727117
+data.zbil.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

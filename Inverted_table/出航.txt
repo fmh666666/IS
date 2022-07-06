@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.pn.txt 1
-data.zalm.txt 1
-data.zaqf.txt 1
-data.zbpx.txt 1
-data.zcrn.txt 1
+data.dg.txt 3.1086847136800873
+data.pn.txt 3.1086847136800873
+data.zalm.txt 3.1086847136800873
+data.zaqf.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873

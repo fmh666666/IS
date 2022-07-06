@@ -1,4 +1,4 @@
 3
-data.zahp.txt 4
-data.zdga.txt 1
-data.zeoo.txt 1
+data.zahp.txt 8.333719726130651
+data.zdga.txt 3.5891377275982888
+data.zeoo.txt 3.5891377275982888

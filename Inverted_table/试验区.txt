@@ -1,4 +1,4 @@
 3
-data.zcdy.txt 4
-data.zdgt.txt 1
-data.zewn.txt 3
+data.zcdy.txt 8.333719726130651
+data.zdgt.txt 3.5891377275982888
+data.zewn.txt 7.1782754551965775

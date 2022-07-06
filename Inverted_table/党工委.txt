@@ -1,4 +1,4 @@
 3
-data.zakb.txt 1
-data.zcoy.txt 2
-data.zcpc.txt 1
+data.zakb.txt 3.5891377275982888
+data.zcoy.txt 5.688648708166832
+data.zcpc.txt 3.5891377275982888

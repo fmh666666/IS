@@ -1,7 +1,7 @@
 6
-data.zbnx.txt 1
-data.zdju.txt 1
-data.zdkc.txt 1
-data.zegz.txt 1
-data.zeoh.txt 1
-data.zeun.txt 1
+data.zbnx.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zdkc.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873

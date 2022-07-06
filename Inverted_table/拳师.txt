@@ -1,2 +1,2 @@
 1
-data.zdep.txt 2
+data.zdep.txt 6.8955976689794145

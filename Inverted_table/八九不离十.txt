@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.zall.txt 1
-data.zasq.txt 1
-data.zblr.txt 1
-data.zcql.txt 1
-data.zdhv.txt 1
-data.zduk.txt 1
-data.zdwv.txt 1
-data.zeoo.txt 1
+data.cf.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zasq.txt 2.82763771717948
+data.zblr.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zdhv.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948

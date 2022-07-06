@@ -1,11 +1,11 @@
 10
-data.gw.txt 3
-data.jd.txt 1
-data.zawc.txt 1
-data.zbhd.txt 2
-data.zbjk.txt 1
-data.zbkf.txt 1
-data.zczj.txt 1
-data.zdey.txt 1
-data.zegl.txt 1
-data.zezh.txt 1
+data.gw.txt 5.509214745617831
+data.jd.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbhd.txt 4.365949390112154
+data.zbjk.txt 2.7546073728089153
+data.zbkf.txt 2.7546073728089153
+data.zczj.txt 2.7546073728089153
+data.zdey.txt 2.7546073728089153
+data.zegl.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153

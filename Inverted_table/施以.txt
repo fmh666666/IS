@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.zaic.txt 1
-data.zblh.txt 1
-data.zbrj.txt 3
-data.zbup.txt 1
-data.zdby.txt 1
-data.zeag.txt 1
-data.zefp.txt 1
-data.zefw.txt 2
-data.zewg.txt 1
+data.hp.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zblh.txt 2.7546073728089153
+data.zbrj.txt 5.509214745617831
+data.zbup.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zefw.txt 4.365949390112154
+data.zewg.txt 2.7546073728089153

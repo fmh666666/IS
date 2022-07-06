@@ -1,5 +1,5 @@
 4
-data.gk.txt 1
-data.zbjq.txt 1
-data.zdaw.txt 1
-data.zebc.txt 1
+data.gk.txt 3.389731710180695
+data.zbjq.txt 3.389731710180695
+data.zdaw.txt 3.389731710180695
+data.zebc.txt 3.389731710180695

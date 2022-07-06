@@ -1,4 +1,4 @@
 3
-data.zamr.txt 3
-data.zcrg.txt 2
-data.zevy.txt 3
+data.zamr.txt 7.1782754551965775
+data.zcrg.txt 5.688648708166832
+data.zevy.txt 7.1782754551965775

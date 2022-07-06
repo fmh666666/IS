@@ -1,9 +1,9 @@
 8
-data.hz.txt 3
-data.op.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zbaq.txt 2
-data.zelt.txt 1
-data.zeoh.txt 1
-data.zeyu.txt 1
+data.hz.txt 5.818557392524987
+data.op.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbaq.txt 4.611097637722987
+data.zelt.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

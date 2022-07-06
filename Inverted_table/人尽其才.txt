@@ -1,4 +1,4 @@
 3
-data.zcdz.txt 3
-data.zcql.txt 1
-data.zenn.txt 2
+data.zcdz.txt 7.1782754551965775
+data.zcql.txt 3.5891377275982888
+data.zenn.txt 5.688648708166832

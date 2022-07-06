@@ -1,5 +1,5 @@
 4
-data.zbzo.txt 3
-data.zckd.txt 3
-data.zcls.txt 4
-data.zedd.txt 3
+data.zbzo.txt 6.77946342036139
+data.zckd.txt 6.77946342036139
+data.zcls.txt 7.870713291999142
+data.zedd.txt 6.77946342036139

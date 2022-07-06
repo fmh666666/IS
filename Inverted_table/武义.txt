@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.hz.txt 1
-data.zdlo.txt 1
-data.zdzi.txt 1
+data.fp.txt 3.389731710180695
+data.hz.txt 3.389731710180695
+data.zdlo.txt 3.389731710180695
+data.zdzi.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.zamr.txt 1
-data.zaqw.txt 2
-data.zbhv.txt 1
-data.zbvm.txt 1
-data.zdaq.txt 1
-data.zdar.txt 1
+data.zamr.txt 3.1086847136800873
+data.zaqw.txt 4.927148697748023
+data.zbhv.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zdaq.txt 3.1086847136800873
+data.zdar.txt 3.1086847136800873

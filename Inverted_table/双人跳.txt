@@ -1,7 +1,7 @@
 6
-data.hz.txt 1
-data.zair.txt 2
-data.zcvi.txt 1
-data.zduk.txt 1
-data.zdwl.txt 1
-data.zegk.txt 1
+data.hz.txt 3.1086847136800873
+data.zair.txt 4.927148697748023
+data.zcvi.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zdwl.txt 3.1086847136800873
+data.zegk.txt 3.1086847136800873

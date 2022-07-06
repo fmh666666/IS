@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zbmw.txt 1
-data.zcdz.txt 1
-data.zeaj.txt 1
-data.zevq.txt 1
+data.pa.txt 3.235060386727117
+data.zbmw.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

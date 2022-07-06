@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.hc.txt 1
-data.zbeb.txt 1
-data.zbsu.txt 1
-data.zcvq.txt 1
-data.zexm.txt 1
+data.fp.txt 3.1086847136800873
+data.hc.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbsu.txt 3.1086847136800873
+data.zcvq.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

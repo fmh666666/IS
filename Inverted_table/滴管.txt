@@ -1,4 +1,4 @@
 3
-data.dg.txt 1
-data.zcdg.txt 1
-data.zdrq.txt 1
+data.dg.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888
+data.zdrq.txt 3.5891377275982888

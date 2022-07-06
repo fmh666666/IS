@@ -1,14 +1,14 @@
 13
-data.zaim.txt 3
-data.zarr.txt 1
-data.zawb.txt 3
-data.zcfx.txt 1
-data.zcmy.txt 2
-data.zctp.txt 2
-data.zcue.txt 3
-data.zdgt.txt 2
-data.zdrq.txt 1
-data.zeoo.txt 2
-data.zesq.txt 1
-data.zexm.txt 1
-data.zeyu.txt 1
+data.zaim.txt 5.145500645227181
+data.zarr.txt 2.5727503226135906
+data.zawb.txt 5.145500645227181
+data.zcfx.txt 2.5727503226135906
+data.zcmy.txt 4.077712785060798
+data.zctp.txt 4.077712785060798
+data.zcue.txt 5.145500645227181
+data.zdgt.txt 4.077712785060798
+data.zdrq.txt 2.5727503226135906
+data.zeoo.txt 4.077712785060798
+data.zesq.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906

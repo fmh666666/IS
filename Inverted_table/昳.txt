@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zbls.txt 1
-data.zcko.txt 1
+data.ye.txt 3.5891377275982888
+data.zbls.txt 3.5891377275982888
+data.zcko.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zdaw.txt 2
-data.zdle.txt 1
-data.zeos.txt 1
-data.zfcj.txt 1
+data.zawb.txt 3.235060386727117
+data.zdaw.txt 5.1274494005309625
+data.zdle.txt 3.235060386727117
+data.zeos.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

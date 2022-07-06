@@ -1,8 +1,8 @@
 7
-data.zajh.txt 1
-data.zawu.txt 1
-data.zaxj.txt 1
-data.zbse.txt 2
-data.zbsf.txt 3
-data.zcvq.txt 1
-data.zeob.txt 1
+data.zajh.txt 3.0018356045764243
+data.zawu.txt 3.0018356045764243
+data.zaxj.txt 3.0018356045764243
+data.zbse.txt 4.757796866583254
+data.zbsf.txt 6.003671209152849
+data.zcvq.txt 3.0018356045764243
+data.zeob.txt 3.0018356045764243

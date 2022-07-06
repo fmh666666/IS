@@ -1,6 +1,6 @@
 5
-data.zcue.txt 1
-data.zebf.txt 1
-data.zedo.txt 1
-data.zerw.txt 1
-data.zexv.txt 1
+data.zcue.txt 3.235060386727117
+data.zebf.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zerw.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

@@ -1,8 +1,8 @@
 7
-data.zabe.txt 2
-data.zalm.txt 1
-data.zbds.txt 1
-data.zbuj.txt 1
-data.zcfx.txt 1
-data.zeaj.txt 1
-data.zeva.txt 1
+data.zabe.txt 4.757796866583254
+data.zalm.txt 3.0018356045764243
+data.zbds.txt 3.0018356045764243
+data.zbuj.txt 3.0018356045764243
+data.zcfx.txt 3.0018356045764243
+data.zeaj.txt 3.0018356045764243
+data.zeva.txt 3.0018356045764243

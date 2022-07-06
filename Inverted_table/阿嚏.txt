@@ -1,7 +1,7 @@
 6
-data.zagr.txt 1
-data.zalm.txt 3
-data.zalt.txt 1
-data.zbia.txt 1
-data.zbux.txt 1
-data.zdhv.txt 1
+data.zagr.txt 3.1086847136800873
+data.zalm.txt 6.2173694273601745
+data.zalt.txt 3.1086847136800873
+data.zbia.txt 3.1086847136800873
+data.zbux.txt 3.1086847136800873
+data.zdhv.txt 3.1086847136800873

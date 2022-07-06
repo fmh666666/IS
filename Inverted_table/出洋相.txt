@@ -1,4 +1,4 @@
 3
-data.zdgt.txt 1
-data.zdoc.txt 1
-data.zfaj.txt 2
+data.zdgt.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888
+data.zfaj.txt 5.688648708166832

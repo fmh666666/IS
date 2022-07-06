@@ -1,6 +1,6 @@
 5
-data.zbaq.txt 1
-data.zcmv.txt 2
-data.zcts.txt 1
-data.zdkp.txt 1
-data.zdll.txt 1
+data.zbaq.txt 3.235060386727117
+data.zcmv.txt 5.1274494005309625
+data.zcts.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zdll.txt 3.235060386727117

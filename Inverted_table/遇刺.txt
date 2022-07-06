@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zail.txt 1
-data.zaoo.txt 1
-data.zbga.txt 1
-data.zbhd.txt 2
-data.zdgt.txt 1
-data.zeqn.txt 1
-data.zeta.txt 1
+data.zabe.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zaoo.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zbhd.txt 4.611097637722987
+data.zdgt.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935
+data.zeta.txt 2.9092786962624935

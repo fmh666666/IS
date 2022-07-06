@@ -1,9 +1,9 @@
 8
-data.aj.txt 2
-data.cz.txt 2
-data.zblr.txt 2
-data.zdaa.txt 1
-data.zdkc.txt 2
-data.zdpw.txt 2
-data.zeez.txt 2
-data.zeve.txt 1
+data.aj.txt 4.611097637722987
+data.cz.txt 4.611097637722987
+data.zblr.txt 4.611097637722987
+data.zdaa.txt 2.9092786962624935
+data.zdkc.txt 4.611097637722987
+data.zdpw.txt 4.611097637722987
+data.zeez.txt 4.611097637722987
+data.zeve.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.gw.txt 6
-data.zaim.txt 1
-data.zbmw.txt 1
-data.zbpx.txt 2
-data.zcmx.txt 1
-data.zcsu.txt 1
-data.zeds.txt 1
-data.zfai.txt 1
+data.gw.txt 8.16737786758984
+data.zaim.txt 2.9092786962624935
+data.zbmw.txt 2.9092786962624935
+data.zbpx.txt 4.611097637722987
+data.zcmx.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

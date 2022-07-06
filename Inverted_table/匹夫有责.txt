@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zajh.txt 1
-data.zaub.txt 2
-data.zdgo.txt 1
-data.zegz.txt 1
+data.bf.txt 3.235060386727117
+data.zajh.txt 3.235060386727117
+data.zaub.txt 5.1274494005309625
+data.zdgo.txt 3.235060386727117
+data.zegz.txt 3.235060386727117

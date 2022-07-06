@@ -1,12 +1,12 @@
 11
-data.ee.txt 12
-data.mo.txt 2
-data.pn.txt 2
-data.zblr.txt 1
-data.zbqu.txt 1
-data.zcfn.txt 2
-data.zcts.txt 1
-data.zdcw.txt 1
-data.zdrq.txt 1
-data.zegl.txt 1
-data.zenw.txt 1
+data.ee.txt 9.948792745777752
+data.mo.txt 4.261240455343955
+data.pn.txt 4.261240455343955
+data.zblr.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zcfn.txt 4.261240455343955
+data.zcts.txt 2.6885433903988862
+data.zdcw.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zegl.txt 2.6885433903988862
+data.zenw.txt 2.6885433903988862

@@ -1,11 +1,11 @@
 10
-data.bs.txt 2
-data.ud.txt 1
-data.zaop.txt 1
-data.zavx.txt 2
-data.zawo.txt 2
-data.zcee.txt 2
-data.zcse.txt 1
-data.zcue.txt 1
-data.zdaw.txt 4
-data.zdds.txt 1
+data.bs.txt 4.365949390112154
+data.ud.txt 2.7546073728089153
+data.zaop.txt 2.7546073728089153
+data.zavx.txt 4.365949390112154
+data.zawo.txt 4.365949390112154
+data.zcee.txt 4.365949390112154
+data.zcse.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zdaw.txt 6.396000249308887
+data.zdds.txt 2.7546073728089153

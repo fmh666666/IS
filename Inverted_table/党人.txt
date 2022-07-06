@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zbls.txt 1
-data.zbor.txt 1
-data.zcmx.txt 1
-data.zdll.txt 1
-data.zdst.txt 1
+data.zabe.txt 3.1086847136800873
+data.zbls.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zcmx.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873
+data.zdst.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.gw.txt 1
-data.zbhd.txt 1
-data.zbvm.txt 1
-data.zcdz.txt 1
+data.gw.txt 3.389731710180695
+data.zbhd.txt 3.389731710180695
+data.zbvm.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695

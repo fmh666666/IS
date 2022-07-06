@@ -1,10 +1,10 @@
 9
-data.kq.txt 2
-data.zajh.txt 1
-data.zayc.txt 1
-data.zbcc.txt 1
-data.zdey.txt 1
-data.zdil.txt 1
-data.zegl.txt 1
-data.zezn.txt 1
-data.zfai.txt 2
+data.kq.txt 4.48169974735425
+data.zajh.txt 2.82763771717948
+data.zayc.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zdey.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zegl.txt 2.82763771717948
+data.zezn.txt 2.82763771717948
+data.zfai.txt 4.48169974735425

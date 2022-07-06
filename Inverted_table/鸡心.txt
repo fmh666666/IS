@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.zbfp.txt 2
-data.zcdv.txt 1
-data.zduo.txt 1
-data.zenw.txt 1
+data.mo.txt 3.235060386727117
+data.zbfp.txt 5.1274494005309625
+data.zcdv.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zenw.txt 3.235060386727117

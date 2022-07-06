@@ -1,12 +1,12 @@
 11
-data.op.txt 1
-data.pn.txt 1
-data.zafy.txt 1
-data.zawc.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 1
-data.zcqp.txt 2
-data.zcue.txt 1
-data.zdst.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
+data.op.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.zafy.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcqp.txt 4.261240455343955
+data.zcue.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862
+data.zfaj.txt 4.261240455343955

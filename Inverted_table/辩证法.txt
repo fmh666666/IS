@@ -1,6 +1,6 @@
 5
-data.zblr.txt 1
-data.zcsu.txt 1
-data.zctp.txt 1
-data.zdgp.txt 1
-data.zfas.txt 1
+data.zblr.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

@@ -1,2 +1,2 @@
 1
-data.zedd.txt 6
+data.zedd.txt 12.21378426791186

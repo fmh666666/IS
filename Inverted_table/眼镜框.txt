@@ -1,7 +1,7 @@
 6
-data.zawz.txt 1
-data.zbts.txt 1
-data.zczp.txt 1
-data.zdaq.txt 1
-data.zdle.txt 1
-data.zdof.txt 1
+data.zawz.txt 3.1086847136800873
+data.zbts.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zdaq.txt 3.1086847136800873
+data.zdle.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873

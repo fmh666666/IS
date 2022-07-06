@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.kt.txt 1
-data.tv.txt 2
-data.tz.txt 1
-data.zadv.txt 5
-data.zajr.txt 2
-data.zalm.txt 1
-data.zbts.txt 1
-data.zczp.txt 1
-data.zdgv.txt 3
-data.zfaj.txt 1
+data.gw.txt 2.6885433903988862
+data.kt.txt 2.6885433903988862
+data.tv.txt 4.261240455343955
+data.tz.txt 2.6885433903988862
+data.zadv.txt 6.949783845742841
+data.zajr.txt 4.261240455343955
+data.zalm.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdgv.txt 5.3770867807977725
+data.zfaj.txt 2.6885433903988862

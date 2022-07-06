@@ -1,4 +1,4 @@
 3
-data.zacd.txt 1
-data.zapl.txt 1
-data.zebv.txt 1
+data.zacd.txt 3.5891377275982888
+data.zapl.txt 3.5891377275982888
+data.zebv.txt 3.5891377275982888

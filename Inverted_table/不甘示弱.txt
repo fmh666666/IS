@@ -1,13 +1,13 @@
 12
-data.gw.txt 1
-data.mu.txt 1
-data.nh.txt 1
-data.zagr.txt 1
-data.zaoy.txt 1
-data.zbhe.txt 1
-data.zblq.txt 1
-data.zbua.txt 1
-data.zbux.txt 2
-data.zczp.txt 1
-data.zdeb.txt 1
-data.zdof.txt 1
+data.gw.txt 2.628231699761886
+data.mu.txt 2.628231699761886
+data.nh.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zaoy.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zbua.txt 2.628231699761886
+data.zbux.txt 4.165648687329214
+data.zczp.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdof.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.op.txt 3
-data.zbnx.txt 1
-data.zcmx.txt 2
-data.zdgv.txt 1
+data.fp.txt 3.235060386727117
+data.op.txt 6.470120773454234
+data.zbnx.txt 3.235060386727117
+data.zcmx.txt 5.1274494005309625
+data.zdgv.txt 3.235060386727117

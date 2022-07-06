@@ -1,6 +1,6 @@
 5
-data.jf.txt 3
-data.to.txt 1
-data.zazw.txt 1
-data.zbkf.txt 1
-data.zdro.txt 1
+data.jf.txt 6.470120773454234
+data.to.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zdro.txt 3.235060386727117

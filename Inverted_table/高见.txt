@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.op.txt 1
-data.zafi.txt 2
-data.zbjk.txt 1
-data.zbkv.txt 1
-data.zeaj.txt 1
+data.bs.txt 3.1086847136800873
+data.op.txt 3.1086847136800873
+data.zafi.txt 4.927148697748023
+data.zbjk.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873

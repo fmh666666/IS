@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.op.txt 2
-data.zafl.txt 1
-data.zbpp.txt 1
-data.zcue.txt 1
-data.zedd.txt 1
-data.zelt.txt 1
-data.zeos.txt 1
-data.zexu.txt 2
-data.zexv.txt 1
+data.ga.txt 2.7546073728089153
+data.op.txt 4.365949390112154
+data.zafl.txt 2.7546073728089153
+data.zbpp.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zedd.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153
+data.zexu.txt 4.365949390112154
+data.zexv.txt 2.7546073728089153

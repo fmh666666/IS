@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.zafq.txt 1
-data.zawo.txt 1
-data.zbsf.txt 1
-data.zcic.txt 1
-data.zcqe.txt 1
-data.zcvq.txt 1
-data.zdil.txt 1
-data.zejn.txt 1
+data.ga.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zawo.txt 2.82763771717948
+data.zbsf.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zejn.txt 2.82763771717948

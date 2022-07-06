@@ -1,8 +1,8 @@
 7
-data.cf.txt 1
-data.qn.txt 1
-data.zbwq.txt 1
-data.zcww.txt 1
-data.zcxh.txt 1
-data.zddv.txt 1
-data.zewp.txt 1
+data.cf.txt 3.0018356045764243
+data.qn.txt 3.0018356045764243
+data.zbwq.txt 3.0018356045764243
+data.zcww.txt 3.0018356045764243
+data.zcxh.txt 3.0018356045764243
+data.zddv.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

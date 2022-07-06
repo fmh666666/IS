@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zaxx.txt 1
-data.zebn.txt 4
-data.zegz.txt 1
-data.zerh.txt 1
+data.op.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zebn.txt 7.511577600598868
+data.zegz.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

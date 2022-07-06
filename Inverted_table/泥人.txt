@@ -1,6 +1,6 @@
 5
-data.zbgu.txt 1
-data.zcsu.txt 1
-data.zdlg.txt 1
-data.zdzg.txt 4
-data.zeeq.txt 1
+data.zbgu.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zdlg.txt 3.235060386727117
+data.zdzg.txt 7.511577600598868
+data.zeeq.txt 3.235060386727117

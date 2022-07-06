@@ -1,4 +1,4 @@
 3
-data.zbkf.txt 1
-data.zcni.txt 3
-data.zdhv.txt 1
+data.zbkf.txt 3.5891377275982888
+data.zcni.txt 7.1782754551965775
+data.zdhv.txt 3.5891377275982888

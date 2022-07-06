@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.ye.txt 3
-data.zaim.txt 1
-data.zass.txt 1
-data.zbhd.txt 1
-data.zbor.txt 1
-data.zbpp.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zeac.txt 1
-data.zeam.txt 1
-data.zeqv.txt 1
+data.ga.txt 2.628231699761886
+data.ye.txt 5.256463399523772
+data.zaim.txt 2.628231699761886
+data.zass.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zeac.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886

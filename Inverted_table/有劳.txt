@@ -1,7 +1,7 @@
 6
-data.zbdb.txt 1
-data.zcdz.txt 1
-data.zcql.txt 1
-data.zcse.txt 1
-data.zdcj.txt 1
-data.zedx.txt 1
+data.zbdb.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873

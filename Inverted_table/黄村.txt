@@ -1,6 +1,6 @@
 5
-data.zbuj.txt 1
-data.zbxw.txt 1
-data.zbxy.txt 1
-data.zcli.txt 1
-data.zehb.txt 1
+data.zbuj.txt 3.235060386727117
+data.zbxw.txt 3.235060386727117
+data.zbxy.txt 3.235060386727117
+data.zcli.txt 3.235060386727117
+data.zehb.txt 3.235060386727117

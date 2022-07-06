@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.zacd.txt 1
-data.zass.txt 1
-data.zbcj.txt 1
-data.zduk.txt 2
-data.zewg.txt 1
+data.ka.txt 3.1086847136800873
+data.zacd.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zduk.txt 4.927148697748023
+data.zewg.txt 3.1086847136800873

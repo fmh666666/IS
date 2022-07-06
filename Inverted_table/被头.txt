@@ -1,7 +1,7 @@
 6
-data.xk.txt 1
-data.zalm.txt 1
-data.zavg.txt 2
-data.zcbe.txt 1
-data.zcrn.txt 1
-data.zdcj.txt 1
+data.xk.txt 3.1086847136800873
+data.zalm.txt 3.1086847136800873
+data.zavg.txt 4.927148697748023
+data.zcbe.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873

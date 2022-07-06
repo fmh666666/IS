@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.ew.txt 1
-data.fj.txt 1
-data.hz.txt 1
-data.zayv.txt 4
-data.zbia.txt 1
-data.zbmt.txt 3
-data.zcem.txt 1
-data.zdof.txt 1
-data.zeqv.txt 1
-data.zevq.txt 1
+data.bb.txt 2.6885433903988862
+data.ew.txt 2.6885433903988862
+data.fj.txt 2.6885433903988862
+data.hz.txt 2.6885433903988862
+data.zayv.txt 6.2426044324908965
+data.zbia.txt 2.6885433903988862
+data.zbmt.txt 5.3770867807977725
+data.zcem.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zeqv.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862

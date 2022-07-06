@@ -1,7 +1,7 @@
 6
-data.zard.txt 1
-data.zbpm.txt 1
-data.zbtj.txt 1
-data.zbup.txt 1
-data.zezy.txt 1
-data.zfby.txt 1
+data.zard.txt 3.1086847136800873
+data.zbpm.txt 3.1086847136800873
+data.zbtj.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

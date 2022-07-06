@@ -1,14 +1,14 @@
 13
-data.zacp.txt 1
-data.zadv.txt 1
-data.zbfg.txt 1
-data.zblq.txt 1
-data.zbpc.txt 1
-data.zbuj.txt 1
-data.zcdg.txt 1
-data.zdar.txt 1
-data.zdeb.txt 1
-data.zdgo.txt 1
-data.zdlg.txt 1
-data.zduo.txt 1
-data.zeoh.txt 1
+data.zacp.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zbfg.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zbpc.txt 2.5727503226135906
+data.zbuj.txt 2.5727503226135906
+data.zcdg.txt 2.5727503226135906
+data.zdar.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdgo.txt 2.5727503226135906
+data.zdlg.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906

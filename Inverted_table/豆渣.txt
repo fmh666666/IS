@@ -1,7 +1,7 @@
 6
-data.zbjh.txt 3
-data.zbzf.txt 2
-data.zcrg.txt 1
-data.zeai.txt 1
-data.zedk.txt 1
-data.zeeq.txt 1
+data.zbjh.txt 6.2173694273601745
+data.zbzf.txt 4.927148697748023
+data.zcrg.txt 3.1086847136800873
+data.zeai.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873
+data.zeeq.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zbel.txt 1
-data.zbxw.txt 1
-data.zcmn.txt 1
-data.zdsh.txt 1
+data.bb.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zbxw.txt 3.235060386727117
+data.zcmn.txt 3.235060386727117
+data.zdsh.txt 3.235060386727117

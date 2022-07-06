@@ -1,12 +1,12 @@
 11
-data.op.txt 1
-data.zalt.txt 1
-data.zaoy.txt 1
-data.zbjk.txt 1
-data.zbor.txt 1
-data.zbpx.txt 1
-data.zbre.txt 1
-data.zbua.txt 1
-data.zbwa.txt 2
-data.zdvl.txt 1
-data.zedo.txt 1
+data.op.txt 2.6885433903988862
+data.zalt.txt 2.6885433903988862
+data.zaoy.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zbua.txt 2.6885433903988862
+data.zbwa.txt 4.261240455343955
+data.zdvl.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862

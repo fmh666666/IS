@@ -1,6 +1,6 @@
 5
-data.zajo.txt 1
-data.zbaq.txt 1
-data.zcem.txt 1
-data.zcon.txt 1
-data.zcrg.txt 1
+data.zajo.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117

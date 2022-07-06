@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.fp.txt 1
-data.mt.txt 1
-data.tz.txt 1
-data.zabe.txt 3
-data.zasd.txt 3
-data.zdro.txt 1
-data.zdzi.txt 2
+data.bb.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zabe.txt 5.818557392524987
+data.zasd.txt 5.818557392524987
+data.zdro.txt 2.9092786962624935
+data.zdzi.txt 4.611097637722987

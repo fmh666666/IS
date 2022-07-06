@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.zajr.txt 1
-data.zbyv.txt 1
-data.zcmx.txt 1
-data.zewg.txt 3
+data.bs.txt 3.235060386727117
+data.zajr.txt 3.235060386727117
+data.zbyv.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zewg.txt 6.470120773454234

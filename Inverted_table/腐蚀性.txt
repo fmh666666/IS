@@ -1,4 +1,4 @@
 3
-data.zbhe.txt 1
-data.zctp.txt 1
-data.zenn.txt 1
+data.zbhe.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zenn.txt 3.5891377275982888

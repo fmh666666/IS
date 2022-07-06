@@ -1,4 +1,4 @@
 3
-data.cq.txt 1
-data.zamr.txt 1
-data.zawc.txt 1
+data.cq.txt 3.5891377275982888
+data.zamr.txt 3.5891377275982888
+data.zawc.txt 3.5891377275982888

@@ -1,8 +1,8 @@
 7
-data.by.txt 7
-data.zbcc.txt 1
-data.zcbm.txt 1
-data.zcem.txt 1
-data.zdof.txt 1
-data.zdzm.txt 2
-data.zene.txt 1
+data.by.txt 9.005506813729273
+data.zbcc.txt 3.0018356045764243
+data.zcbm.txt 3.0018356045764243
+data.zcem.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zdzm.txt 4.757796866583254
+data.zene.txt 3.0018356045764243

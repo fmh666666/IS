@@ -1,6 +1,6 @@
 5
-data.zbeb.txt 1
-data.zbel.txt 1
-data.zdhv.txt 4
-data.zdhw.txt 2
-data.zegk.txt 1
+data.zbeb.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zdhv.txt 7.511577600598868
+data.zdhw.txt 5.1274494005309625
+data.zegk.txt 3.235060386727117

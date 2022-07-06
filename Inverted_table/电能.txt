@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.gw.txt 1
-data.kq.txt 1
-data.zaet.txt 1
-data.zajo.txt 1
-data.zbcv.txt 1
-data.zdby.txt 2
-data.zdwv.txt 1
+data.cq.txt 2.9092786962624935
+data.gw.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.zaet.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zdby.txt 4.611097637722987
+data.zdwv.txt 2.9092786962624935

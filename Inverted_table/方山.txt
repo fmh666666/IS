@@ -1,9 +1,9 @@
 8
-data.gz.txt 1
-data.zagb.txt 1
-data.zalj.txt 1
-data.zbmw.txt 1
-data.zcak.txt 1
-data.zccl.txt 1
-data.zcko.txt 1
-data.zevq.txt 1
+data.gz.txt 2.9092786962624935
+data.zagb.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zbmw.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zccl.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

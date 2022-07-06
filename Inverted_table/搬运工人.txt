@@ -1,4 +1,4 @@
 3
-data.ng.txt 1
-data.zasy.txt 1
-data.zdqx.txt 1
+data.ng.txt 3.5891377275982888
+data.zasy.txt 3.5891377275982888
+data.zdqx.txt 3.5891377275982888

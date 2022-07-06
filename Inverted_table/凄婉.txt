@@ -1,7 +1,7 @@
 6
-data.co.txt 2
-data.zank.txt 1
-data.zcis.txt 1
-data.zcse.txt 1
-data.zczj.txt 2
-data.zczp.txt 1
+data.co.txt 4.927148697748023
+data.zank.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zczj.txt 4.927148697748023
+data.zczp.txt 3.1086847136800873

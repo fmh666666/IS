@@ -1,5 +1,5 @@
 4
-data.zchw.txt 1
-data.zciq.txt 1
-data.zeeh.txt 3
-data.zemf.txt 1
+data.zchw.txt 3.389731710180695
+data.zciq.txt 3.389731710180695
+data.zeeh.txt 6.77946342036139
+data.zemf.txt 3.389731710180695

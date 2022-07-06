@@ -1,4 +1,4 @@
 3
-data.zbjh.txt 5
-data.zbsd.txt 2
-data.zdaq.txt 1
+data.zbjh.txt 9.27778643576512
+data.zbsd.txt 5.688648708166832
+data.zdaq.txt 3.5891377275982888

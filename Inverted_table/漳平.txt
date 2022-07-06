@@ -1,5 +1,5 @@
 4
-data.zahp.txt 11
-data.zcqe.txt 8
-data.zcuh.txt 1
-data.zfai.txt 1
+data.zahp.txt 12.152061068503187
+data.zcqe.txt 10.745195296283592
+data.zcuh.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.ng.txt 1
-data.zcee.txt 1
-data.zciy.txt 2
-data.zdud.txt 2
+data.be.txt 3.235060386727117
+data.ng.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zciy.txt 5.1274494005309625
+data.zdud.txt 5.1274494005309625

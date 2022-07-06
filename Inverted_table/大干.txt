@@ -1,11 +1,11 @@
 10
-data.mi.txt 1
-data.zahd.txt 1
-data.zajh.txt 1
-data.zank.txt 1
-data.zaqw.txt 1
-data.zawo.txt 1
-data.zbfz.txt 1
-data.zcic.txt 1
-data.zelt.txt 1
-data.zfai.txt 1
+data.mi.txt 2.7546073728089153
+data.zahd.txt 2.7546073728089153
+data.zajh.txt 2.7546073728089153
+data.zank.txt 2.7546073728089153
+data.zaqw.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zcic.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

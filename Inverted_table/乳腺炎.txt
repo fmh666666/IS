@@ -1,4 +1,4 @@
 3
-data.zctp.txt 4
-data.zcts.txt 4
-data.zdnh.txt 1
+data.zctp.txt 8.333719726130651
+data.zcts.txt 8.333719726130651
+data.zdnh.txt 3.5891377275982888

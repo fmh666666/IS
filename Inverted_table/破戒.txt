@@ -1,9 +1,9 @@
 8
-data.aj.txt 2
-data.jf.txt 1
-data.zanh.txt 1
-data.zaqw.txt 2
-data.zazx.txt 1
-data.zblq.txt 1
-data.zdtv.txt 1
-data.zduk.txt 2
+data.aj.txt 4.611097637722987
+data.jf.txt 2.9092786962624935
+data.zanh.txt 2.9092786962624935
+data.zaqw.txt 4.611097637722987
+data.zazx.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zdtv.txt 2.9092786962624935
+data.zduk.txt 4.611097637722987

@@ -1,2 +1,2 @@
 1
-data.zazn.txt 2
+data.zazn.txt 6.8955976689794145

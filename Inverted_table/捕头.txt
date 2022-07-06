@@ -1,7 +1,7 @@
 6
-data.kq.txt 1
-data.zadv.txt 1
-data.zaoy.txt 1
-data.zawb.txt 1
-data.zcqs.txt 1
-data.zdby.txt 1
+data.kq.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873

@@ -1,11 +1,11 @@
 10
-data.ng.txt 1
-data.zass.txt 1
-data.zblh.txt 1
-data.zbzg.txt 1
-data.zbzo.txt 1
-data.zcqs.txt 1
-data.zcxr.txt 1
-data.zdby.txt 1
-data.zelj.txt 1
-data.zeos.txt 1
+data.ng.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zblh.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zbzo.txt 2.7546073728089153
+data.zcqs.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zelj.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153

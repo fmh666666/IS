@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.ek.txt 1
-data.ha.txt 1
-data.zapl.txt 1
-data.zawu.txt 1
-data.zbwa.txt 1
+data.bf.txt 3.1086847136800873
+data.ek.txt 3.1086847136800873
+data.ha.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873

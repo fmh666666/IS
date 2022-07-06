@@ -1,11 +1,11 @@
 10
-data.op.txt 1
-data.zawo.txt 1
-data.zbmt.txt 1
-data.zddp.txt 1
-data.zdtr.txt 1
-data.zdud.txt 1
-data.zehb.txt 1
-data.zelj.txt 1
-data.zewv.txt 1
-data.zfdk.txt 1
+data.op.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbmt.txt 2.7546073728089153
+data.zddp.txt 2.7546073728089153
+data.zdtr.txt 2.7546073728089153
+data.zdud.txt 2.7546073728089153
+data.zehb.txt 2.7546073728089153
+data.zelj.txt 2.7546073728089153
+data.zewv.txt 2.7546073728089153
+data.zfdk.txt 2.7546073728089153

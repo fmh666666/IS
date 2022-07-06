@@ -1,7 +1,7 @@
 6
-data.aj.txt 2
-data.zbga.txt 2
-data.zbkf.txt 1
-data.zbnp.txt 1
-data.zdds.txt 1
-data.zfae.txt 1
+data.aj.txt 4.927148697748023
+data.zbga.txt 4.927148697748023
+data.zbkf.txt 3.1086847136800873
+data.zbnp.txt 3.1086847136800873
+data.zdds.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

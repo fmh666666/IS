@@ -1,4 +1,4 @@
 3
-data.zasq.txt 2
-data.zbeb.txt 1
-data.zbmt.txt 3
+data.zasq.txt 5.688648708166832
+data.zbeb.txt 3.5891377275982888
+data.zbmt.txt 7.1782754551965775

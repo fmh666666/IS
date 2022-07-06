@@ -1,13 +1,13 @@
 12
-data.fp.txt 13
-data.kt.txt 1
-data.zalc.txt 2
-data.zasr.txt 1
-data.zawc.txt 1
-data.zbhd.txt 2
-data.zdkv.txt 1
-data.zdwv.txt 3
-data.zeaf.txt 2
-data.zeam.txt 58
-data.zeob.txt 1
-data.zfaz.txt 2
+data.fp.txt 10.00661089839624
+data.kt.txt 2.628231699761886
+data.zalc.txt 4.165648687329214
+data.zasr.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbhd.txt 4.165648687329214
+data.zdkv.txt 2.628231699761886
+data.zdwv.txt 5.256463399523772
+data.zeaf.txt 4.165648687329214
+data.zeam.txt 15.460948940716719
+data.zeob.txt 2.628231699761886
+data.zfaz.txt 4.165648687329214

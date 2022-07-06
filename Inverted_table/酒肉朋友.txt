@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.fj.txt 1
-data.zako.txt 1
-data.zbkr.txt 1
-data.zbsf.txt 1
-data.zcuh.txt 1
-data.zdwz.txt 1
-data.zezh.txt 1
+data.bf.txt 2.9092786962624935
+data.fj.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zcuh.txt 2.9092786962624935
+data.zdwz.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935

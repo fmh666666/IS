@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.zasy.txt 1
-data.zaxx.txt 1
-data.zblr.txt 1
-data.zcve.txt 1
-data.zdod.txt 1
-data.zezn.txt 1
-data.zezy.txt 1
+data.aj.txt 2.9092786962624935
+data.zasy.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zcve.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935
+data.zezn.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

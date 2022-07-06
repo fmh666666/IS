@@ -1,6 +1,6 @@
 5
-data.zbhd.txt 1
-data.zbnx.txt 1
-data.zdkv.txt 1
-data.zdme.txt 1
-data.zeeq.txt 1
+data.zbhd.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117
+data.zdme.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

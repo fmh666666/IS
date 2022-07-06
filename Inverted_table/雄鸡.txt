@@ -1,7 +1,7 @@
 6
-data.kt.txt 2
-data.zabe.txt 1
-data.zank.txt 1
-data.zasd.txt 3
-data.zcku.txt 1
-data.zezm.txt 1
+data.kt.txt 4.927148697748023
+data.zabe.txt 3.1086847136800873
+data.zank.txt 3.1086847136800873
+data.zasd.txt 6.2173694273601745
+data.zcku.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873

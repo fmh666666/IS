@@ -1,5 +1,5 @@
 4
-data.hp.txt 1
-data.zapr.txt 1
-data.zdcw.txt 2
-data.zelt.txt 1
+data.hp.txt 3.389731710180695
+data.zapr.txt 3.389731710180695
+data.zdcw.txt 5.372597648141796
+data.zelt.txt 3.389731710180695

@@ -1,10 +1,10 @@
 9
-data.ew.txt 1
-data.zacw.txt 1
-data.zaet.txt 1
-data.zbnx.txt 1
-data.zbpp.txt 1
-data.zcww.txt 1
-data.zdkc.txt 1
-data.zeew.txt 1
-data.zehj.txt 1
+data.ew.txt 2.82763771717948
+data.zacw.txt 2.82763771717948
+data.zaet.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbpp.txt 2.82763771717948
+data.zcww.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zeew.txt 2.82763771717948
+data.zehj.txt 2.82763771717948

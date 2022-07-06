@@ -1,6 +1,6 @@
 5
-data.zcic.txt 1
-data.zdju.txt 1
-data.zeam.txt 1
-data.zesi.txt 1
-data.zevq.txt 1
+data.zcic.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zesi.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zcsr.txt 1
-data.zczl.txt 1
-data.zebv.txt 1
+data.zaim.txt 3.389731710180695
+data.zcsr.txt 3.389731710180695
+data.zczl.txt 3.389731710180695
+data.zebv.txt 3.389731710180695

@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.mx.txt 1
-data.zako.txt 2
-data.zalj.txt 2
-data.zbvn.txt 2
-data.zbvp.txt 1
-data.zdoq.txt 1
-data.zdsh.txt 1
+data.bs.txt 2.9092786962624935
+data.mx.txt 2.9092786962624935
+data.zako.txt 4.611097637722987
+data.zalj.txt 4.611097637722987
+data.zbvn.txt 4.611097637722987
+data.zbvp.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935
+data.zdsh.txt 2.9092786962624935

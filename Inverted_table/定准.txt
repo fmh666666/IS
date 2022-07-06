@@ -1,4 +1,4 @@
 3
-data.dg.txt 1
-data.pn.txt 1
-data.zcrg.txt 1
+data.dg.txt 3.5891377275982888
+data.pn.txt 3.5891377275982888
+data.zcrg.txt 3.5891377275982888

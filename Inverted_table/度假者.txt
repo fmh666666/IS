@@ -1,4 +1,4 @@
 3
-data.zahd.txt 1
-data.zcyv.txt 1
-data.zdgp.txt 1
+data.zahd.txt 3.5891377275982888
+data.zcyv.txt 3.5891377275982888
+data.zdgp.txt 3.5891377275982888

@@ -1,10 +1,10 @@
 9
-data.vi.txt 6
-data.vz.txt 1
-data.zbpp.txt 1
-data.zctm.txt 1
-data.zdqx.txt 1
-data.zdvl.txt 1
-data.zety.txt 1
-data.zevl.txt 1
-data.zewv.txt 2
+data.vi.txt 7.938182663119541
+data.vz.txt 2.82763771717948
+data.zbpp.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zety.txt 2.82763771717948
+data.zevl.txt 2.82763771717948
+data.zewv.txt 4.48169974735425

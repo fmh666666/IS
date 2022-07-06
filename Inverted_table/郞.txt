@@ -1,11 +1,11 @@
 10
-data.ok.txt 1
-data.zasq.txt 4
-data.zazo.txt 1
-data.zbdx.txt 1
-data.zbmw.txt 1
-data.zbzf.txt 3
-data.zdhw.txt 1
-data.zdpz.txt 1
-data.zegn.txt 2
-data.zehb.txt 1
+data.ok.txt 2.7546073728089153
+data.zasq.txt 6.396000249308887
+data.zazo.txt 2.7546073728089153
+data.zbdx.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zbzf.txt 5.509214745617831
+data.zdhw.txt 2.7546073728089153
+data.zdpz.txt 2.7546073728089153
+data.zegn.txt 4.365949390112154
+data.zehb.txt 2.7546073728089153

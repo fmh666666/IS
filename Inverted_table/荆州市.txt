@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zail.txt 1
-data.zbeb.txt 2
-data.zbpp.txt 1
-data.zelt.txt 1
+data.qn.txt 3.235060386727117
+data.zail.txt 3.235060386727117
+data.zbeb.txt 5.1274494005309625
+data.zbpp.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

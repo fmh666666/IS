@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.zaoy.txt 1
-data.zawb.txt 1
-data.zbkv.txt 2
-data.zccl.txt 2
-data.zcli.txt 3
-data.zeqv.txt 1
-data.zewg.txt 1
+data.fp.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbkv.txt 4.611097637722987
+data.zccl.txt 4.611097637722987
+data.zcli.txt 5.818557392524987
+data.zeqv.txt 2.9092786962624935
+data.zewg.txt 2.9092786962624935

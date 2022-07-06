@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.cn.txt 1
-data.zaqp.txt 1
-data.zavg.txt 1
-data.zbkf.txt 1
-data.zbre.txt 1
-data.zcak.txt 1
-data.zcbm.txt 1
-data.zcrk.txt 1
-data.zfaj.txt 1
+data.bf.txt 2.7546073728089153
+data.cn.txt 2.7546073728089153
+data.zaqp.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zbkf.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zcak.txt 2.7546073728089153
+data.zcbm.txt 2.7546073728089153
+data.zcrk.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

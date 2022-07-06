@@ -1,6 +1,6 @@
 5
-data.zarr.txt 1
-data.zawb.txt 1
-data.zawu.txt 1
-data.zeag.txt 1
-data.zeec.txt 1
+data.zarr.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zeag.txt 3.235060386727117
+data.zeec.txt 3.235060386727117

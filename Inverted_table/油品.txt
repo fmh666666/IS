@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.zbdx.txt 1
-data.zcdz.txt 1
-data.zcxr.txt 1
-data.zdaq.txt 1
-data.zddb.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zesi.txt 1
-data.zfaz.txt 1
+data.hp.txt 2.7546073728089153
+data.zbdx.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdaq.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zesi.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

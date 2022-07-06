@@ -1,11 +1,11 @@
 10
-data.jj.txt 2
-data.zbpm.txt 1
-data.zbtj.txt 1
-data.zcdv.txt 1
-data.zcql.txt 1
-data.zczl.txt 2
-data.zdgt.txt 1
-data.zdst.txt 1
-data.zdwv.txt 1
-data.zdzm.txt 1
+data.jj.txt 4.365949390112154
+data.zbpm.txt 2.7546073728089153
+data.zbtj.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zczl.txt 4.365949390112154
+data.zdgt.txt 2.7546073728089153
+data.zdst.txt 2.7546073728089153
+data.zdwv.txt 2.7546073728089153
+data.zdzm.txt 2.7546073728089153

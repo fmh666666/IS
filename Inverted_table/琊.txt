@@ -1,14 +1,14 @@
 13
-data.ev.txt 1
-data.tv.txt 1
-data.tz.txt 2
-data.zadv.txt 14
-data.zbcc.txt 1
-data.zblr.txt 7
-data.zbre.txt 1
-data.zdkp.txt 2
-data.zdvl.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
-data.zenw.txt 1
-data.zewd.txt 1
+data.ev.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.tz.txt 4.077712785060798
+data.zadv.txt 10.051454040267819
+data.zbcc.txt 2.5727503226135906
+data.zblr.txt 7.7182509678407705
+data.zbre.txt 2.5727503226135906
+data.zdkp.txt 4.077712785060798
+data.zdvl.txt 2.5727503226135906
+data.zeai.txt 2.5727503226135906
+data.zeaj.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zewd.txt 2.5727503226135906

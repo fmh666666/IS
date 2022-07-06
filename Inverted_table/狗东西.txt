@@ -1,4 +1,4 @@
 3
-data.zbbt.txt 1
-data.zbzf.txt 1
-data.zdeq.txt 1
+data.zbbt.txt 3.5891377275982888
+data.zbzf.txt 3.5891377275982888
+data.zdeq.txt 3.5891377275982888

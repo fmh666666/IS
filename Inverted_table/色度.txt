@@ -1,7 +1,7 @@
 6
-data.aj.txt 1
-data.zajr.txt 3
-data.zaoy.txt 1
-data.zbof.txt 2
-data.zcpb.txt 1
-data.zdgt.txt 1
+data.aj.txt 3.1086847136800873
+data.zajr.txt 6.2173694273601745
+data.zaoy.txt 3.1086847136800873
+data.zbof.txt 4.927148697748023
+data.zcpb.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873

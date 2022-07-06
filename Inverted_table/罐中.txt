@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.sq.txt 1
-data.zasw.txt 1
-data.zbts.txt 1
-data.zcis.txt 1
-data.zddx.txt 1
-data.zdpg.txt 2
+data.kq.txt 3.0018356045764243
+data.sq.txt 3.0018356045764243
+data.zasw.txt 3.0018356045764243
+data.zbts.txt 3.0018356045764243
+data.zcis.txt 3.0018356045764243
+data.zddx.txt 3.0018356045764243
+data.zdpg.txt 4.757796866583254

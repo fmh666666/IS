@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zate.txt 1
-data.zdhv.txt 1
-data.zdod.txt 1
-data.zdrq.txt 1
-data.zeai.txt 1
+data.tv.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zdhv.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zdrq.txt 3.1086847136800873
+data.zeai.txt 3.1086847136800873

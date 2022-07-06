@@ -1,11 +1,11 @@
 10
-data.yx.txt 1
-data.zacw.txt 1
-data.zcfn.txt 1
-data.zdwk.txt 1
-data.zebn.txt 1
-data.zedk.txt 1
-data.zedx.txt 1
-data.zeqv.txt 1
-data.zesq.txt 1
-data.zfby.txt 1
+data.yx.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zdwk.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153
+data.zesq.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.zafy.txt 1
-data.zasd.txt 2
-data.zcqs.txt 1
-data.zctp.txt 1
-data.zczb.txt 2
-data.zdcy.txt 2
-data.zerh.txt 1
+data.be.txt 2.9092786962624935
+data.zafy.txt 2.9092786962624935
+data.zasd.txt 4.611097637722987
+data.zcqs.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zczb.txt 4.611097637722987
+data.zdcy.txt 4.611097637722987
+data.zerh.txt 2.9092786962624935

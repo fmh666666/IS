@@ -1,7 +1,7 @@
 6
-data.zauy.txt 1
-data.zaxp.txt 1
-data.zcve.txt 1
-data.zczb.txt 1
-data.zdoc.txt 1
-data.zdou.txt 2
+data.zauy.txt 3.1086847136800873
+data.zaxp.txt 3.1086847136800873
+data.zcve.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zdoc.txt 3.1086847136800873
+data.zdou.txt 4.927148697748023

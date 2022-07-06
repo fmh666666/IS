@@ -1,9 +1,9 @@
 8
-data.zbjq.txt 1
-data.zcao.txt 1
-data.zcql.txt 3
-data.zdof.txt 1
-data.zdux.txt 1
-data.zdwn.txt 1
-data.zebf.txt 1
-data.zezy.txt 2
+data.zbjq.txt 2.9092786962624935
+data.zcao.txt 2.9092786962624935
+data.zcql.txt 5.818557392524987
+data.zdof.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935
+data.zezy.txt 4.611097637722987

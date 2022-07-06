@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zcrg.txt 1
-data.zctp.txt 1
-data.zcue.txt 1
-data.zczj.txt 1
-data.zczp.txt 1
+data.fp.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873

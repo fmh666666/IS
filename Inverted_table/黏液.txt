@@ -1,9 +1,9 @@
 8
-data.zako.txt 2
-data.zbjh.txt 1
-data.zcft.txt 1
-data.zctp.txt 2
-data.zduc.txt 1
-data.zdwn.txt 1
-data.zedx.txt 1
-data.zejn.txt 1
+data.zako.txt 4.611097637722987
+data.zbjh.txt 2.9092786962624935
+data.zcft.txt 2.9092786962624935
+data.zctp.txt 4.611097637722987
+data.zduc.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935

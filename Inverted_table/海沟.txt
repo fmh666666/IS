@@ -1,5 +1,5 @@
 4
-data.hc.txt 1
-data.qn.txt 3
-data.zazn.txt 1
-data.zdeb.txt 3
+data.hc.txt 3.389731710180695
+data.qn.txt 6.77946342036139
+data.zazn.txt 3.389731710180695
+data.zdeb.txt 6.77946342036139

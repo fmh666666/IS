@@ -1,4 +1,4 @@
 3
-data.zawc.txt 2
-data.zbvm.txt 1
-data.zcdy.txt 1
+data.zawc.txt 5.688648708166832
+data.zbvm.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888

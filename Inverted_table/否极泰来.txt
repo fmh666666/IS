@@ -1,14 +1,14 @@
 13
-data.pa.txt 1
-data.tv.txt 1
-data.ye.txt 1
-data.zadv.txt 1
-data.zarr.txt 1
-data.zbkj.txt 1
-data.zcbe.txt 1
-data.zcdg.txt 1
-data.zcdv.txt 1
-data.zcdy.txt 1
-data.zdds.txt 1
-data.zdvl.txt 2
-data.zezh.txt 1
+data.pa.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.ye.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zarr.txt 2.5727503226135906
+data.zbkj.txt 2.5727503226135906
+data.zcbe.txt 2.5727503226135906
+data.zcdg.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zdds.txt 2.5727503226135906
+data.zdvl.txt 4.077712785060798
+data.zezh.txt 2.5727503226135906

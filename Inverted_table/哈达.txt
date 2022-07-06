@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.ga.txt 1
-data.jf.txt 6
-data.zalm.txt 1
-data.zarr.txt 1
-data.zbsd.txt 1
-data.zcko.txt 1
-data.zcql.txt 3
-data.zdkk.txt 1
-data.zedy.txt 1
-data.zfbr.txt 1
+data.dg.txt 2.6885433903988862
+data.ga.txt 2.6885433903988862
+data.jf.txt 7.547695520201752
+data.zalm.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zbsd.txt 2.6885433903988862
+data.zcko.txt 2.6885433903988862
+data.zcql.txt 5.3770867807977725
+data.zdkk.txt 2.6885433903988862
+data.zedy.txt 2.6885433903988862
+data.zfbr.txt 2.6885433903988862

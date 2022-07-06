@@ -1,10 +1,10 @@
 9
-data.ew.txt 2
-data.hc.txt 1
-data.zbjk.txt 2
-data.zbkr.txt 1
-data.zcfx.txt 1
-data.zdgt.txt 1
-data.zdpg.txt 1
-data.zdvl.txt 1
-data.zewn.txt 1
+data.ew.txt 4.48169974735425
+data.hc.txt 2.82763771717948
+data.zbjk.txt 4.48169974735425
+data.zbkr.txt 2.82763771717948
+data.zcfx.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdpg.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zewn.txt 2.82763771717948

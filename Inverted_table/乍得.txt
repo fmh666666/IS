@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.zawc.txt 1
-data.zbfx.txt 1
-data.zcpx.txt 1
-data.zcse.txt 1
+data.cq.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbfx.txt 3.235060386727117
+data.zcpx.txt 3.235060386727117
+data.zcse.txt 3.235060386727117

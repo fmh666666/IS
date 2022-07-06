@@ -1,6 +1,6 @@
 5
-data.bf.txt 2
-data.jf.txt 5
-data.zabe.txt 2
-data.zbjh.txt 25
-data.zcmn.txt 1
+data.bf.txt 5.1274494005309625
+data.jf.txt 8.362509787258078
+data.zabe.txt 5.1274494005309625
+data.zbjh.txt 15.206206332357024
+data.zcmn.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.pq.txt 1
-data.zafi.txt 1
-data.zbzf.txt 2
-data.zcsu.txt 1
-data.zcts.txt 3
-data.zdwz.txt 2
+data.pq.txt 3.1086847136800873
+data.zafi.txt 3.1086847136800873
+data.zbzf.txt 4.927148697748023
+data.zcsu.txt 3.1086847136800873
+data.zcts.txt 6.2173694273601745
+data.zdwz.txt 4.927148697748023

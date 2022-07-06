@@ -1,5 +1,5 @@
 4
-data.zcmy.txt 1
-data.zeai.txt 1
-data.zeoo.txt 1
-data.zesi.txt 1
+data.zcmy.txt 3.389731710180695
+data.zeai.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695
+data.zesi.txt 3.389731710180695

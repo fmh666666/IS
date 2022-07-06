@@ -1,6 +1,6 @@
 5
-data.co.txt 2
-data.zaqw.txt 1
-data.zarc.txt 1
-data.zcjy.txt 1
-data.zeqv.txt 1
+data.co.txt 5.1274494005309625
+data.zaqw.txt 3.235060386727117
+data.zarc.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

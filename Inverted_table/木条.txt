@@ -1,4 +1,4 @@
 3
-data.zbrj.txt 1
-data.zevq.txt 1
-data.zewd.txt 2
+data.zbrj.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888
+data.zewd.txt 5.688648708166832

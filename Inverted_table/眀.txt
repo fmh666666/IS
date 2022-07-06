@@ -1,10 +1,10 @@
 9
-data.ev.txt 1
-data.tz.txt 1
-data.zafq.txt 1
-data.zaxj.txt 2
-data.zbcc.txt 1
-data.zbxw.txt 2
-data.zcgi.txt 1
-data.zcls.txt 1
-data.zdof.txt 2
+data.ev.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zaxj.txt 4.48169974735425
+data.zbcc.txt 2.82763771717948
+data.zbxw.txt 4.48169974735425
+data.zcgi.txt 2.82763771717948
+data.zcls.txt 2.82763771717948
+data.zdof.txt 4.48169974735425

@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.zbla.txt 1
-data.zbyb.txt 2
-data.zcdv.txt 1
-data.zcic.txt 1
-data.zcxq.txt 1
-data.zeyg.txt 1
-data.zfby.txt 2
+data.aj.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zbyb.txt 4.611097637722987
+data.zcdv.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zcxq.txt 2.9092786962624935
+data.zeyg.txt 2.9092786962624935
+data.zfby.txt 4.611097637722987

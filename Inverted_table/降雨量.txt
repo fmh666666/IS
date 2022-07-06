@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.zafu.txt 1
-data.zbdx.txt 1
-data.zcxr.txt 1
-data.zdep.txt 1
-data.zeta.txt 2
+data.be.txt 3.1086847136800873
+data.zafu.txt 3.1086847136800873
+data.zbdx.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873
+data.zeta.txt 4.927148697748023

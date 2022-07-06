@@ -1,11 +1,11 @@
 10
-data.ka.txt 1
-data.zawm.txt 1
-data.zcpx.txt 1
-data.zdbf.txt 1
-data.zdgp.txt 1
-data.zdmw.txt 2
-data.zdof.txt 1
-data.zeid.txt 1
-data.zejk.txt 1
-data.zfas.txt 1
+data.ka.txt 2.7546073728089153
+data.zawm.txt 2.7546073728089153
+data.zcpx.txt 2.7546073728089153
+data.zdbf.txt 2.7546073728089153
+data.zdgp.txt 2.7546073728089153
+data.zdmw.txt 4.365949390112154
+data.zdof.txt 2.7546073728089153
+data.zeid.txt 2.7546073728089153
+data.zejk.txt 2.7546073728089153
+data.zfas.txt 2.7546073728089153

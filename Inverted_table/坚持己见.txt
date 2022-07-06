@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.zagb.txt 1
-data.zbcv.txt 1
-data.zbha.txt 1
-data.zbtx.txt 2
-data.zcfx.txt 1
-data.zeay.txt 1
-data.zefw.txt 1
+data.ka.txt 2.9092786962624935
+data.zagb.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbtx.txt 4.611097637722987
+data.zcfx.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935

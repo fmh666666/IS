@@ -1,4 +1,4 @@
 3
-data.zcts.txt 1
-data.zdmw.txt 1
-data.zfas.txt 1
+data.zcts.txt 3.5891377275982888
+data.zdmw.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

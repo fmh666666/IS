@@ -1,5 +1,5 @@
 4
-data.jj.txt 3
-data.yx.txt 4
-data.zblr.txt 1
-data.zcgo.txt 4
+data.jj.txt 6.77946342036139
+data.yx.txt 7.870713291999142
+data.zblr.txt 3.389731710180695
+data.zcgo.txt 7.870713291999142

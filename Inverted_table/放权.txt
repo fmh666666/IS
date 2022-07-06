@@ -1,14 +1,14 @@
 13
-data.fz.txt 1
-data.op.txt 2
-data.pa.txt 1
-data.zank.txt 1
-data.zbjk.txt 1
-data.zbkv.txt 1
-data.zbor.txt 1
-data.zcdz.txt 1
-data.zciq.txt 1
-data.zcqe.txt 1
-data.zcse.txt 3
-data.zdju.txt 1
-data.zdpf.txt 1
+data.fz.txt 2.5727503226135906
+data.op.txt 4.077712785060798
+data.pa.txt 2.5727503226135906
+data.zank.txt 2.5727503226135906
+data.zbjk.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zciq.txt 2.5727503226135906
+data.zcqe.txt 2.5727503226135906
+data.zcse.txt 5.145500645227181
+data.zdju.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906

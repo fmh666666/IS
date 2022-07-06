@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zbmw.txt 1
-data.zevt.txt 2
+data.ye.txt 3.5891377275982888
+data.zbmw.txt 3.5891377275982888
+data.zevt.txt 5.688648708166832

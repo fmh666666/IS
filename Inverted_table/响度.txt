@@ -1,6 +1,6 @@
 5
-data.zbeb.txt 2
-data.zbfp.txt 1
-data.zbot.txt 2
-data.zbse.txt 1
-data.zdqz.txt 1
+data.zbeb.txt 5.1274494005309625
+data.zbfp.txt 3.235060386727117
+data.zbot.txt 5.1274494005309625
+data.zbse.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117

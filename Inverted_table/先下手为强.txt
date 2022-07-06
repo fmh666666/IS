@@ -1,13 +1,13 @@
 12
-data.hp.txt 1
-data.pq.txt 2
-data.zafe.txt 1
-data.zalt.txt 1
-data.zaoy.txt 1
-data.zapl.txt 1
-data.zaqf.txt 1
-data.zasj.txt 1
-data.zayd.txt 1
-data.zbqu.txt 1
-data.zbru.txt 104
-data.zdga.txt 1
+data.hp.txt 2.628231699761886
+data.pq.txt 4.165648687329214
+data.zafe.txt 2.628231699761886
+data.zalt.txt 2.628231699761886
+data.zaoy.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zaqf.txt 2.628231699761886
+data.zasj.txt 2.628231699761886
+data.zayd.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zbru.txt 17.646592909514258
+data.zdga.txt 2.628231699761886

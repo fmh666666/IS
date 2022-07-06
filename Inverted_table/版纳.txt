@@ -1,4 +1,4 @@
 3
-data.zctp.txt 1
-data.zduc.txt 2
-data.zekw.txt 1
+data.zctp.txt 3.5891377275982888
+data.zduc.txt 5.688648708166832
+data.zekw.txt 3.5891377275982888

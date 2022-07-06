@@ -1,11 +1,11 @@
 10
-data.fj.txt 2
-data.tz.txt 1
-data.zaip.txt 1
-data.zaxx.txt 1
-data.zbgw.txt 1
-data.zbwq.txt 1
-data.zcdg.txt 3
-data.zcni.txt 3
-data.zcyv.txt 1
-data.zczb.txt 1
+data.fj.txt 4.365949390112154
+data.tz.txt 2.7546073728089153
+data.zaip.txt 2.7546073728089153
+data.zaxx.txt 2.7546073728089153
+data.zbgw.txt 2.7546073728089153
+data.zbwq.txt 2.7546073728089153
+data.zcdg.txt 5.509214745617831
+data.zcni.txt 5.509214745617831
+data.zcyv.txt 2.7546073728089153
+data.zczb.txt 2.7546073728089153

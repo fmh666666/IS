@@ -1,4 +1,4 @@
 3
-data.zbfz.txt 1
-data.zcak.txt 1
-data.zcsu.txt 1
+data.zbfz.txt 3.5891377275982888
+data.zcak.txt 3.5891377275982888
+data.zcsu.txt 3.5891377275982888

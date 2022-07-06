@@ -1,5 +1,5 @@
 4
-data.zawb.txt 1
-data.zbhd.txt 1
-data.zbil.txt 1
-data.zfaj.txt 1
+data.zawb.txt 3.389731710180695
+data.zbhd.txt 3.389731710180695
+data.zbil.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

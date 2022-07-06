@@ -1,9 +1,9 @@
 8
-data.zaim.txt 1
-data.zbht.txt 1
-data.zcdv.txt 1
-data.zcql.txt 1
-data.zcse.txt 1
-data.zdoc.txt 1
-data.zdzg.txt 1
-data.zezy.txt 1
+data.zaim.txt 2.9092786962624935
+data.zbht.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

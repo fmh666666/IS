@@ -1,6 +1,6 @@
 5
-data.zbcv.txt 4
-data.zbia.txt 1
-data.zcku.txt 1
-data.zeqh.txt 1
-data.zfby.txt 2
+data.zbcv.txt 7.511577600598868
+data.zbia.txt 3.235060386727117
+data.zcku.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117
+data.zfby.txt 5.1274494005309625

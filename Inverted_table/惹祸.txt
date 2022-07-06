@@ -1,13 +1,13 @@
 12
-data.dg.txt 1
-data.ka.txt 1
-data.mo.txt 1
-data.zaic.txt 1
-data.zaoo.txt 1
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zbux.txt 1
-data.zcel.txt 1
-data.zcko.txt 1
-data.zcrk.txt 1
-data.zeec.txt 1
+data.dg.txt 2.628231699761886
+data.ka.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zaoo.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zcel.txt 2.628231699761886
+data.zcko.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zeec.txt 2.628231699761886

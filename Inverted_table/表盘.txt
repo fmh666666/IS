@@ -1,12 +1,12 @@
 11
-data.kq.txt 1
-data.zazw.txt 1
-data.zbcv.txt 2
-data.zbil.txt 1
-data.zcdg.txt 1
-data.zcic.txt 1
-data.zczp.txt 1
-data.zdcj.txt 1
-data.zdkc.txt 1
-data.zdpf.txt 1
-data.zehp.txt 1
+data.kq.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbcv.txt 4.261240455343955
+data.zbil.txt 2.6885433903988862
+data.zcdg.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdcj.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862

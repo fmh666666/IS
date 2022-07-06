@@ -1,13 +1,13 @@
 12
-data.gk.txt 4
-data.zass.txt 1
-data.zbcv.txt 1
-data.zbdb.txt 1
-data.zbht.txt 1
-data.zcbe.txt 1
-data.zcku.txt 4
-data.zcww.txt 1
-data.zdof.txt 2
-data.zdud.txt 1
-data.zegn.txt 1
-data.zelt.txt 1
+data.gk.txt 6.1025650235506905
+data.zass.txt 2.628231699761886
+data.zbcv.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbht.txt 2.628231699761886
+data.zcbe.txt 2.628231699761886
+data.zcku.txt 6.1025650235506905
+data.zcww.txt 2.628231699761886
+data.zdof.txt 4.165648687329214
+data.zdud.txt 2.628231699761886
+data.zegn.txt 2.628231699761886
+data.zelt.txt 2.628231699761886

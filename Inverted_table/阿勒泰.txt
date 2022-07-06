@@ -1,4 +1,4 @@
 3
-data.zdju.txt 1
-data.zehp.txt 1
-data.zfai.txt 3
+data.zdju.txt 3.5891377275982888
+data.zehp.txt 3.5891377275982888
+data.zfai.txt 7.1782754551965775

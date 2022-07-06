@@ -1,10 +1,10 @@
 9
-data.zabe.txt 1
-data.zajr.txt 1
-data.zako.txt 1
-data.zbor.txt 1
-data.zctm.txt 1
-data.zctn.txt 1
-data.zctp.txt 4
-data.zdrq.txt 2
-data.zewv.txt 2
+data.zabe.txt 2.82763771717948
+data.zajr.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zctp.txt 6.565571457682201
+data.zdrq.txt 4.48169974735425
+data.zewv.txt 4.48169974735425

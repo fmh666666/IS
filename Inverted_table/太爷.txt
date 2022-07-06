@@ -1,11 +1,11 @@
 10
-data.ew.txt 1
-data.pq.txt 1
-data.zagr.txt 1
-data.zbxw.txt 1
-data.zbyb.txt 1
-data.zbzg.txt 1
-data.zcko.txt 3
-data.zcmv.txt 1
-data.zcpa.txt 1
-data.zdkc.txt 2
+data.ew.txt 2.7546073728089153
+data.pq.txt 2.7546073728089153
+data.zagr.txt 2.7546073728089153
+data.zbxw.txt 2.7546073728089153
+data.zbyb.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zcko.txt 5.509214745617831
+data.zcmv.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zdkc.txt 4.365949390112154

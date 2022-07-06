@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zall.txt 4
-data.zfcg.txt 1
+data.zabe.txt 3.5891377275982888
+data.zall.txt 8.333719726130651
+data.zfcg.txt 3.5891377275982888

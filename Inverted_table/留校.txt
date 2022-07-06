@@ -1,6 +1,6 @@
 5
-data.zbpp.txt 1
-data.zchw.txt 1
-data.zeqv.txt 2
-data.zevl.txt 1
-data.zexm.txt 1
+data.zbpp.txt 3.235060386727117
+data.zchw.txt 3.235060386727117
+data.zeqv.txt 5.1274494005309625
+data.zevl.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

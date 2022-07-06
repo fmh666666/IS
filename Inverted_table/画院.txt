@@ -1,3 +1,3 @@
 2
-data.zajo.txt 3
-data.zeqh.txt 1
+data.zajo.txt 7.740369448197793
+data.zeqh.txt 3.8701847240988965

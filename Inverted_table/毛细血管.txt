@@ -1,6 +1,6 @@
 5
-data.zafl.txt 2
-data.zaim.txt 1
-data.zawo.txt 1
-data.zazg.txt 1
-data.zczp.txt 1
+data.zafl.txt 5.1274494005309625
+data.zaim.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zczp.txt 3.235060386727117

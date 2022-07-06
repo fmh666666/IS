@@ -1,6 +1,6 @@
 5
-data.zasd.txt 1
-data.zass.txt 3
-data.zbwq.txt 1
-data.zcln.txt 1
-data.zeid.txt 1
+data.zasd.txt 3.235060386727117
+data.zass.txt 6.470120773454234
+data.zbwq.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

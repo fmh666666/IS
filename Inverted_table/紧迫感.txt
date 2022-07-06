@@ -1,14 +1,14 @@
 13
-data.mt.txt 1
-data.vi.txt 1
-data.zafe.txt 1
-data.zafu.txt 1
-data.zauy.txt 1
-data.zaxj.txt 1
-data.zaxk.txt 1
-data.zbpx.txt 1
-data.zcdz.txt 1
-data.zcon.txt 1
-data.zcse.txt 1
-data.zdgp.txt 1
-data.zeaj.txt 2
+data.mt.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.zafe.txt 2.5727503226135906
+data.zafu.txt 2.5727503226135906
+data.zauy.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zeaj.txt 4.077712785060798

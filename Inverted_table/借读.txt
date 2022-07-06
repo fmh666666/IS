@@ -1,6 +1,6 @@
 5
-data.zaip.txt 1
-data.zawb.txt 1
-data.zaxx.txt 1
-data.zazn.txt 1
-data.zdpf.txt 2
+data.zaip.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zdpf.txt 5.1274494005309625

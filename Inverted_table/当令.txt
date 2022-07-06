@@ -1,8 +1,8 @@
 7
-data.zbaf.txt 1
-data.zbjh.txt 1
-data.zblq.txt 1
-data.zbye.txt 1
-data.zcjd.txt 1
-data.zdcj.txt 1
-data.zdgv.txt 1
+data.zbaf.txt 3.0018356045764243
+data.zbjh.txt 3.0018356045764243
+data.zblq.txt 3.0018356045764243
+data.zbye.txt 3.0018356045764243
+data.zcjd.txt 3.0018356045764243
+data.zdcj.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243

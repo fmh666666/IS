@@ -1,8 +1,8 @@
 7
-data.zawb.txt 1
-data.zaxk.txt 2
-data.zcdv.txt 1
-data.zcxq.txt 1
-data.zeeh.txt 2
-data.zeel.txt 2
-data.zelj.txt 1
+data.zawb.txt 3.0018356045764243
+data.zaxk.txt 4.757796866583254
+data.zcdv.txt 3.0018356045764243
+data.zcxq.txt 3.0018356045764243
+data.zeeh.txt 4.757796866583254
+data.zeel.txt 4.757796866583254
+data.zelj.txt 3.0018356045764243

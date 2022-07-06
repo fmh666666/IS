@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.tv.txt 2
-data.zbcj.txt 1
-data.zcmy.txt 1
-data.zexx.txt 1
+data.ha.txt 3.235060386727117
+data.tv.txt 5.1274494005309625
+data.zbcj.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zexx.txt 3.235060386727117

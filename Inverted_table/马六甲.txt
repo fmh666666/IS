@@ -1,14 +1,14 @@
 13
-data.dg.txt 5
-data.op.txt 2
-data.ye.txt 1
-data.zail.txt 3
-data.zajh.txt 2
-data.zaop.txt 1
-data.zbvn.txt 1
-data.zclm.txt 7
-data.zcln.txt 5
-data.zduc.txt 1
-data.zdux.txt 1
-data.zfai.txt 22
-data.zfaj.txt 11
+data.dg.txt 6.650463107674388
+data.op.txt 4.077712785060798
+data.ye.txt 2.5727503226135906
+data.zail.txt 5.145500645227181
+data.zajh.txt 4.077712785060798
+data.zaop.txt 2.5727503226135906
+data.zbvn.txt 2.5727503226135906
+data.zclm.txt 7.7182509678407705
+data.zcln.txt 6.650463107674388
+data.zduc.txt 2.5727503226135906
+data.zdux.txt 2.5727503226135906
+data.zfai.txt 11.637995481808245
+data.zfaj.txt 9.223213430287979

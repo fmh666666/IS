@@ -1,6 +1,6 @@
 5
-data.by.txt 1
-data.kt.txt 1
-data.vi.txt 1
-data.zagr.txt 1
-data.zbfz.txt 1
+data.by.txt 3.235060386727117
+data.kt.txt 3.235060386727117
+data.vi.txt 3.235060386727117
+data.zagr.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117

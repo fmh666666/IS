@@ -1,14 +1,14 @@
 13
-data.fp.txt 1
-data.tz.txt 1
-data.uz.txt 1
-data.zarr.txt 1
-data.zbkv.txt 1
-data.zbua.txt 1
-data.zcbe.txt 1
-data.zcdl.txt 1
-data.zclm.txt 1
-data.zczl.txt 1
-data.zdaa.txt 1
-data.zdkv.txt 1
-data.zexv.txt 1
+data.fp.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.uz.txt 2.5727503226135906
+data.zarr.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbua.txt 2.5727503226135906
+data.zcbe.txt 2.5727503226135906
+data.zcdl.txt 2.5727503226135906
+data.zclm.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdaa.txt 2.5727503226135906
+data.zdkv.txt 2.5727503226135906
+data.zexv.txt 2.5727503226135906

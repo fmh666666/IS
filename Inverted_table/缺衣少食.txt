@@ -1,3 +1,3 @@
 2
-data.zefu.txt 1
-data.zexv.txt 1
+data.zefu.txt 3.8701847240988965
+data.zexv.txt 3.8701847240988965

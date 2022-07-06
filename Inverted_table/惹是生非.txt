@@ -1,5 +1,5 @@
 4
-data.bb.txt 1
-data.zbjh.txt 1
-data.zdey.txt 1
-data.zesq.txt 1
+data.bb.txt 3.389731710180695
+data.zbjh.txt 3.389731710180695
+data.zdey.txt 3.389731710180695
+data.zesq.txt 3.389731710180695

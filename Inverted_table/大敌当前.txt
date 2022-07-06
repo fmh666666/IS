@@ -1,2 +1,2 @@
 1
-data.fe.txt 1
+data.fe.txt 4.350637738017098

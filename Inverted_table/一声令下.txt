@@ -1,8 +1,8 @@
 7
-data.zavx.txt 1
-data.zbcj.txt 1
-data.zbof.txt 1
-data.zcef.txt 1
-data.zcvq.txt 1
-data.zdou.txt 1
-data.zexm.txt 1
+data.zavx.txt 3.0018356045764243
+data.zbcj.txt 3.0018356045764243
+data.zbof.txt 3.0018356045764243
+data.zcef.txt 3.0018356045764243
+data.zcvq.txt 3.0018356045764243
+data.zdou.txt 3.0018356045764243
+data.zexm.txt 3.0018356045764243

@@ -1,8 +1,8 @@
 7
-data.kt.txt 1
-data.mt.txt 1
-data.zadv.txt 1
-data.zaej.txt 1
-data.zazn.txt 1
-data.zbem.txt 1
-data.zdtr.txt 1
+data.kt.txt 3.0018356045764243
+data.mt.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zaej.txt 3.0018356045764243
+data.zazn.txt 3.0018356045764243
+data.zbem.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243

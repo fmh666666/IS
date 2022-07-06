@@ -1,5 +1,5 @@
 4
-data.gz.txt 1
-data.pq.txt 1
-data.uz.txt 1
-data.zdoq.txt 1
+data.gz.txt 3.389731710180695
+data.pq.txt 3.389731710180695
+data.uz.txt 3.389731710180695
+data.zdoq.txt 3.389731710180695

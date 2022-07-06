@@ -1,10 +1,10 @@
 9
-data.zabj.txt 2
-data.zaim.txt 1
-data.zcaq.txt 1
-data.zcda.txt 1
-data.zcql.txt 1
-data.zcuh.txt 1
-data.zdji.txt 1
-data.zdod.txt 1
-data.zebn.txt 1
+data.zabj.txt 4.48169974735425
+data.zaim.txt 2.82763771717948
+data.zcaq.txt 2.82763771717948
+data.zcda.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zcuh.txt 2.82763771717948
+data.zdji.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zebn.txt 2.82763771717948

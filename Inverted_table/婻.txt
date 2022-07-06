@@ -1,4 +1,4 @@
 3
-data.zcih.txt 2
-data.zdtv.txt 1
-data.zdzm.txt 2
+data.zcih.txt 5.688648708166832
+data.zdtv.txt 3.5891377275982888
+data.zdzm.txt 5.688648708166832

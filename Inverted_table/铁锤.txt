@@ -1,10 +1,10 @@
 9
-data.jj.txt 1
-data.zafl.txt 2
-data.zawb.txt 1
-data.zbcv.txt 1
-data.zbeb.txt 1
-data.zcon.txt 1
-data.zdou.txt 1
-data.zeob.txt 4
-data.zfdk.txt 1
+data.jj.txt 2.82763771717948
+data.zafl.txt 4.48169974735425
+data.zawb.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zeob.txt 6.565571457682201
+data.zfdk.txt 2.82763771717948

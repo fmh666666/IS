@@ -1,5 +1,5 @@
 4
-data.zamr.txt 1
-data.zcao.txt 1
-data.zehb.txt 1
-data.zesq.txt 1
+data.zamr.txt 3.389731710180695
+data.zcao.txt 3.389731710180695
+data.zehb.txt 3.389731710180695
+data.zesq.txt 3.389731710180695

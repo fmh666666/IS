@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zavg.txt 1
-data.zawu.txt 2
-data.zbdb.txt 3
-data.zcej.txt 2
+data.zacw.txt 3.235060386727117
+data.zavg.txt 3.235060386727117
+data.zawu.txt 5.1274494005309625
+data.zbdb.txt 6.470120773454234
+data.zcej.txt 5.1274494005309625

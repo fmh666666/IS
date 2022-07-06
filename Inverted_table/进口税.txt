@@ -1,4 +1,4 @@
 3
-data.op.txt 3
-data.zapl.txt 1
-data.zbnp.txt 1
+data.op.txt 7.1782754551965775
+data.zapl.txt 3.5891377275982888
+data.zbnp.txt 3.5891377275982888

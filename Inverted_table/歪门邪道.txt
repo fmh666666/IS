@@ -1,4 +1,4 @@
 3
-data.zawu.txt 1
-data.zdkv.txt 1
-data.zdod.txt 1
+data.zawu.txt 3.5891377275982888
+data.zdkv.txt 3.5891377275982888
+data.zdod.txt 3.5891377275982888

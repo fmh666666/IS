@@ -1,2 +1,2 @@
 1
-data.zdaa.txt 2
+data.zdaa.txt 6.8955976689794145

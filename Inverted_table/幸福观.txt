@@ -1,5 +1,5 @@
 4
-data.zctm.txt 1
-data.zdga.txt 1
-data.zdwl.txt 1
-data.zewv.txt 1
+data.zctm.txt 3.389731710180695
+data.zdga.txt 3.389731710180695
+data.zdwl.txt 3.389731710180695
+data.zewv.txt 3.389731710180695

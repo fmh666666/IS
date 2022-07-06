@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zbsf.txt 1
-data.zcmx.txt 1
-data.zdep.txt 1
-data.zefw.txt 1
+data.pa.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zefw.txt 3.235060386727117

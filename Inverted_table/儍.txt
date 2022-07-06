@@ -1,12 +1,12 @@
 11
-data.en.txt 4
-data.hg.txt 1
-data.tz.txt 1
-data.zaic.txt 1
-data.zanh.txt 17
-data.zaxk.txt 3
-data.zbeb.txt 1
-data.zbgd.txt 1
-data.zddx.txt 1
-data.zdkk.txt 2
-data.zedx.txt 2
+data.en.txt 6.2426044324908965
+data.hg.txt 2.6885433903988862
+data.tz.txt 2.6885433903988862
+data.zaic.txt 2.6885433903988862
+data.zanh.txt 11.211024301086795
+data.zaxk.txt 5.3770867807977725
+data.zbeb.txt 2.6885433903988862
+data.zbgd.txt 2.6885433903988862
+data.zddx.txt 2.6885433903988862
+data.zdkk.txt 4.261240455343955
+data.zedx.txt 4.261240455343955

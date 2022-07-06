@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zctn.txt 1
-data.zezy.txt 2
-data.zfaj.txt 1
-data.zfcg.txt 1
+data.op.txt 3.235060386727117
+data.zctn.txt 3.235060386727117
+data.zezy.txt 5.1274494005309625
+data.zfaj.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

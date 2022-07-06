@@ -1,5 +1,5 @@
 4
-data.zadv.txt 1
-data.zamp.txt 1
-data.zbia.txt 1
-data.zezy.txt 1
+data.zadv.txt 3.389731710180695
+data.zamp.txt 3.389731710180695
+data.zbia.txt 3.389731710180695
+data.zezy.txt 3.389731710180695

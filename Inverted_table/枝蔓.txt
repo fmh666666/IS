@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.zazg.txt 1
-data.zcmn.txt 1
+data.gz.txt 3.5891377275982888
+data.zazg.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888

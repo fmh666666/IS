@@ -1,6 +1,6 @@
 5
-data.zaxx.txt 1
-data.zcfx.txt 1
-data.zdof.txt 1
-data.zdoq.txt 1
-data.zduk.txt 1
+data.zaxx.txt 3.235060386727117
+data.zcfx.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

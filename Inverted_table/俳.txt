@@ -1,9 +1,9 @@
 8
-data.hu.txt 1
-data.mu.txt 1
-data.zbsu.txt 2
-data.zcic.txt 1
-data.zdhv.txt 1
-data.zegl.txt 1
-data.zegn.txt 1
-data.zeqh.txt 1
+data.hu.txt 2.9092786962624935
+data.mu.txt 2.9092786962624935
+data.zbsu.txt 4.611097637722987
+data.zcic.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zegl.txt 2.9092786962624935
+data.zegn.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935

@@ -1,8 +1,8 @@
 7
-data.zaoo.txt 1
-data.zaql.txt 1
-data.zavx.txt 1
-data.zbqu.txt 7
-data.zcgi.txt 1
-data.zcku.txt 10
-data.zdwv.txt 1
+data.zaoo.txt 3.0018356045764243
+data.zaql.txt 3.0018356045764243
+data.zavx.txt 3.0018356045764243
+data.zbqu.txt 9.005506813729273
+data.zcgi.txt 3.0018356045764243
+data.zcku.txt 10.384645004422891
+data.zdwv.txt 3.0018356045764243

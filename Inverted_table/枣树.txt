@@ -1,6 +1,6 @@
 5
-data.zasd.txt 1
-data.zcrn.txt 2
-data.zdaa.txt 1
-data.zdlm.txt 7
-data.zdvl.txt 1
+data.zasd.txt 3.235060386727117
+data.zcrn.txt 5.1274494005309625
+data.zdaa.txt 3.235060386727117
+data.zdlm.txt 9.70518116018135
+data.zdvl.txt 3.235060386727117

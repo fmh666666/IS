@@ -1,7 +1,7 @@
 6
-data.vi.txt 1
-data.zbxw.txt 1
-data.zcdg.txt 1
-data.zcse.txt 1
-data.zddb.txt 1
-data.zedo.txt 1
+data.vi.txt 3.1086847136800873
+data.zbxw.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zddb.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

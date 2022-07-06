@@ -1,4 +1,4 @@
 3
-data.zane.txt 1
-data.zbvg.txt 1
-data.zdxw.txt 1
+data.zane.txt 3.5891377275982888
+data.zbvg.txt 3.5891377275982888
+data.zdxw.txt 3.5891377275982888

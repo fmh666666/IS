@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.ga.txt 2
-data.ng.txt 1
-data.yx.txt 1
-data.zabe.txt 1
-data.zbdx.txt 2
-data.zbyb.txt 1
-data.zcao.txt 1
-data.zcon.txt 1
-data.zess.txt 1
-data.zewn.txt 1
-data.zfai.txt 1
+data.fp.txt 2.628231699761886
+data.ga.txt 4.165648687329214
+data.ng.txt 2.628231699761886
+data.yx.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zbdx.txt 4.165648687329214
+data.zbyb.txt 2.628231699761886
+data.zcao.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zess.txt 2.628231699761886
+data.zewn.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

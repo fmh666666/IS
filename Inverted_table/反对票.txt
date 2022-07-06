@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.hc.txt 1
-data.zafl.txt 1
-data.zajo.txt 1
-data.zcni.txt 1
-data.zcqp.txt 1
-data.zdgt.txt 1
-data.zdzg.txt 1
+data.bf.txt 2.9092786962624935
+data.hc.txt 2.9092786962624935
+data.zafl.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zcqp.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935

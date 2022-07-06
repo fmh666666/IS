@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.zamr.txt 1
-data.zawz.txt 1
-data.zbkf.txt 1
-data.zcbm.txt 1
-data.zclh.txt 3
-data.zcli.txt 7
-data.zcls.txt 1
-data.zdqq.txt 1
-data.zebv.txt 1
+data.ga.txt 2.7546073728089153
+data.zamr.txt 2.7546073728089153
+data.zawz.txt 2.7546073728089153
+data.zbkf.txt 2.7546073728089153
+data.zcbm.txt 2.7546073728089153
+data.zclh.txt 5.509214745617831
+data.zcli.txt 8.263822118426747
+data.zcls.txt 2.7546073728089153
+data.zdqq.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153

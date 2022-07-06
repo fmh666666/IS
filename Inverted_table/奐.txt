@@ -1,4 +1,4 @@
 3
-data.zagr.txt 1
-data.zawm.txt 1
-data.zeez.txt 1
+data.zagr.txt 3.5891377275982888
+data.zawm.txt 3.5891377275982888
+data.zeez.txt 3.5891377275982888

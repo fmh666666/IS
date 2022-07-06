@@ -1,9 +1,9 @@
 8
-data.zaej.txt 1
-data.zaoc.txt 1
-data.zbpm.txt 2
-data.zccl.txt 1
-data.zcdg.txt 1
-data.zcql.txt 1
-data.zewg.txt 1
-data.zezy.txt 1
+data.zaej.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zbpm.txt 4.611097637722987
+data.zccl.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zewg.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

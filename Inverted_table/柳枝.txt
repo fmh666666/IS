@@ -1,4 +1,4 @@
 3
-data.zabx.txt 1
-data.zdxw.txt 1
-data.zefs.txt 1
+data.zabx.txt 3.5891377275982888
+data.zdxw.txt 3.5891377275982888
+data.zefs.txt 3.5891377275982888

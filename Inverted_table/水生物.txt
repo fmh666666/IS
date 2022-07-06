@@ -1,3 +1,3 @@
 2
-data.zaqf.txt 1
-data.zerw.txt 1
+data.zaqf.txt 3.8701847240988965
+data.zerw.txt 3.8701847240988965

@@ -1,7 +1,7 @@
 6
-data.vz.txt 2
-data.zbye.txt 1
-data.zcts.txt 1
-data.zdji.txt 4
-data.zeaf.txt 4
-data.zety.txt 2
+data.vz.txt 4.927148697748023
+data.zbye.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdji.txt 7.21814237484067
+data.zeaf.txt 7.21814237484067
+data.zety.txt 4.927148697748023

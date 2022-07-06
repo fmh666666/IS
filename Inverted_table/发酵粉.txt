@@ -1,13 +1,13 @@
 12
-data.ee.txt 1
-data.kq.txt 2
-data.mo.txt 1
-data.zako.txt 1
-data.zcvi.txt 1
-data.zcww.txt 1
-data.zczp.txt 1
-data.zdle.txt 1
-data.zdqx.txt 1
-data.zeid.txt 1
-data.zeob.txt 1
-data.zerv.txt 1
+data.ee.txt 2.628231699761886
+data.kq.txt 4.165648687329214
+data.mo.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zcvi.txt 2.628231699761886
+data.zcww.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdle.txt 2.628231699761886
+data.zdqx.txt 2.628231699761886
+data.zeid.txt 2.628231699761886
+data.zeob.txt 2.628231699761886
+data.zerv.txt 2.628231699761886

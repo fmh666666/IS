@@ -1,14 +1,14 @@
 13
-data.ev.txt 1
-data.kt.txt 1
-data.zaeh.txt 1
-data.zajh.txt 1
-data.zane.txt 1
-data.zaxj.txt 1
-data.zbcv.txt 1
-data.zcft.txt 1
-data.zcuh.txt 1
-data.zcvq.txt 1
-data.zdds.txt 1
-data.zdgo.txt 1
-data.zeds.txt 1
+data.ev.txt 2.5727503226135906
+data.kt.txt 2.5727503226135906
+data.zaeh.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zbcv.txt 2.5727503226135906
+data.zcft.txt 2.5727503226135906
+data.zcuh.txt 2.5727503226135906
+data.zcvq.txt 2.5727503226135906
+data.zdds.txt 2.5727503226135906
+data.zdgo.txt 2.5727503226135906
+data.zeds.txt 2.5727503226135906

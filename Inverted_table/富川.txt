@@ -1,6 +1,6 @@
 5
-data.zanm.txt 5
-data.zbel.txt 2
-data.zcse.txt 1
-data.zdoq.txt 16
-data.zevq.txt 1
+data.zanm.txt 8.362509787258078
+data.zbel.txt 5.1274494005309625
+data.zcse.txt 3.235060386727117
+data.zdoq.txt 13.223189119948044
+data.zevq.txt 3.235060386727117

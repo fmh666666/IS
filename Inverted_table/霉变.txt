@@ -1,12 +1,12 @@
 11
-data.zacw.txt 1
-data.zbnx.txt 1
-data.zcln.txt 1
-data.zcts.txt 3
-data.zcue.txt 2
-data.zcxr.txt 1
-data.zdcw.txt 1
-data.zdcy.txt 1
-data.zebc.txt 1
-data.zedd.txt 1
-data.zewg.txt 1
+data.zacw.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcln.txt 2.6885433903988862
+data.zcts.txt 5.3770867807977725
+data.zcue.txt 4.261240455343955
+data.zcxr.txt 2.6885433903988862
+data.zdcw.txt 2.6885433903988862
+data.zdcy.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zewg.txt 2.6885433903988862

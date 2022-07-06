@@ -1,4 +1,4 @@
 3
-data.zard.txt 3
-data.zcft.txt 1
-data.zdzg.txt 1
+data.zard.txt 7.1782754551965775
+data.zcft.txt 3.5891377275982888
+data.zdzg.txt 3.5891377275982888

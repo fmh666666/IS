@@ -1,10 +1,10 @@
 9
-data.ng.txt 1
-data.zafe.txt 1
-data.zafy.txt 1
-data.zaqw.txt 1
-data.zasd.txt 3
-data.zcsu.txt 2
-data.zdcw.txt 1
-data.zedk.txt 1
-data.zeel.txt 2
+data.ng.txt 2.82763771717948
+data.zafe.txt 2.82763771717948
+data.zafy.txt 2.82763771717948
+data.zaqw.txt 2.82763771717948
+data.zasd.txt 5.65527543435896
+data.zcsu.txt 4.48169974735425
+data.zdcw.txt 2.82763771717948
+data.zedk.txt 2.82763771717948
+data.zeel.txt 4.48169974735425

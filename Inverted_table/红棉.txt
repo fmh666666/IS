@@ -1,12 +1,12 @@
 11
-data.mx.txt 1
-data.zawu.txt 2
-data.zbdx.txt 1
-data.zcao.txt 2
-data.zcef.txt 3
-data.zciq.txt 2
-data.zcvt.txt 1
-data.zdey.txt 1
-data.zdlo.txt 1
-data.zdlw.txt 1
-data.zduk.txt 1
+data.mx.txt 2.6885433903988862
+data.zawu.txt 4.261240455343955
+data.zbdx.txt 2.6885433903988862
+data.zcao.txt 4.261240455343955
+data.zcef.txt 5.3770867807977725
+data.zciq.txt 4.261240455343955
+data.zcvt.txt 2.6885433903988862
+data.zdey.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862

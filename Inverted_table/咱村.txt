@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.kq.txt 1
-data.zafu.txt 1
-data.zdkc.txt 1
-data.zenw.txt 2
+data.fp.txt 3.235060386727117
+data.kq.txt 3.235060386727117
+data.zafu.txt 3.235060386727117
+data.zdkc.txt 3.235060386727117
+data.zenw.txt 5.1274494005309625

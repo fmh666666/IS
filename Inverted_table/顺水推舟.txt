@@ -1,4 +1,4 @@
 3
-data.zclh.txt 2
-data.zcmv.txt 1
-data.zelt.txt 1
+data.zclh.txt 5.688648708166832
+data.zcmv.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

@@ -1,14 +1,14 @@
 13
-data.pq.txt 1
-data.yx.txt 1
-data.zabx.txt 1
-data.zaop.txt 1
-data.zaqf.txt 1
-data.zass.txt 1
-data.zazw.txt 1
-data.zazx.txt 1
-data.zbux.txt 1
-data.zcda.txt 1
-data.zcdg.txt 1
-data.zcpa.txt 1
-data.zcqg.txt 1
+data.pq.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zaop.txt 2.5727503226135906
+data.zaqf.txt 2.5727503226135906
+data.zass.txt 2.5727503226135906
+data.zazw.txt 2.5727503226135906
+data.zazx.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zcda.txt 2.5727503226135906
+data.zcdg.txt 2.5727503226135906
+data.zcpa.txt 2.5727503226135906
+data.zcqg.txt 2.5727503226135906

@@ -1,7 +1,7 @@
 6
-data.zaoo.txt 3
-data.zcft.txt 1
-data.zcni.txt 1
-data.zcxr.txt 1
-data.zdby.txt 2
-data.zeay.txt 1
+data.zaoo.txt 6.2173694273601745
+data.zcft.txt 3.1086847136800873
+data.zcni.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zdby.txt 4.927148697748023
+data.zeay.txt 3.1086847136800873

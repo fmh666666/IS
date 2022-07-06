@@ -1,6 +1,6 @@
 5
-data.be.txt 2
-data.zbwq.txt 1
-data.zcaq.txt 1
-data.zcmn.txt 1
-data.zctp.txt 1
+data.be.txt 5.1274494005309625
+data.zbwq.txt 3.235060386727117
+data.zcaq.txt 3.235060386727117
+data.zcmn.txt 3.235060386727117
+data.zctp.txt 3.235060386727117

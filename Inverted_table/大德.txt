@@ -1,9 +1,9 @@
 8
-data.jf.txt 14
-data.to.txt 1
-data.zabe.txt 1
-data.zadv.txt 1
-data.zbeb.txt 1
-data.zesi.txt 1
-data.zewv.txt 1
-data.zfae.txt 1
+data.jf.txt 11.366233578432148
+data.to.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zesi.txt 2.9092786962624935
+data.zewv.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

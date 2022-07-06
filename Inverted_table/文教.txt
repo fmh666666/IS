@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.qb.txt 1
-data.zank.txt 1
-data.zawb.txt 1
-data.zbkf.txt 1
-data.zcfn.txt 1
-data.zczp.txt 2
-data.zdzi.txt 1
-data.zeec.txt 1
-data.zene.txt 1
+data.ga.txt 2.7546073728089153
+data.qb.txt 2.7546073728089153
+data.zank.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbkf.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zczp.txt 4.365949390112154
+data.zdzi.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

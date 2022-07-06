@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.fz.txt 1
-data.pn.txt 1
-data.zbkv.txt 1
-data.zbpp.txt 1
-data.zbsd.txt 1
-data.zcpa.txt 1
-data.zehb.txt 1
+data.dg.txt 2.9092786962624935
+data.fz.txt 2.9092786962624935
+data.pn.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zbsd.txt 2.9092786962624935
+data.zcpa.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935

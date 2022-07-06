@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zate.txt 1
-data.zcvi.txt 1
+data.ye.txt 3.5891377275982888
+data.zate.txt 3.5891377275982888
+data.zcvi.txt 3.5891377275982888

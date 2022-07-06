@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.ff.txt 1
-data.kq.txt 1
-data.zazw.txt 1
-data.zbes.txt 1
-data.zbts.txt 2
-data.zcak.txt 1
-data.zcdg.txt 1
-data.zezn.txt 1
+data.bs.txt 2.82763771717948
+data.ff.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zbes.txt 2.82763771717948
+data.zbts.txt 4.48169974735425
+data.zcak.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zezn.txt 2.82763771717948

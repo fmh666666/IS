@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.mt.txt 1
-data.zacw.txt 1
-data.zbor.txt 1
-data.zbqu.txt 1
-data.zcve.txt 1
-data.zeeq.txt 1
-data.zefv.txt 1
+data.aj.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zcve.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935
+data.zefv.txt 2.9092786962624935

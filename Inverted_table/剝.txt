@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.zacd.txt 1
-data.zaej.txt 1
-data.zaoo.txt 1
-data.zchd.txt 3
-data.zcrv.txt 2
-data.zcwq.txt 1
-data.zdst.txt 1
-data.zduc.txt 1
-data.zefu.txt 1
-data.zehp.txt 1
+data.fp.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zaej.txt 2.6885433903988862
+data.zaoo.txt 2.6885433903988862
+data.zchd.txt 5.3770867807977725
+data.zcrv.txt 4.261240455343955
+data.zcwq.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zduc.txt 2.6885433903988862
+data.zefu.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862

@@ -1,10 +1,10 @@
 9
-data.gk.txt 1
-data.zbsl.txt 1
-data.zbzo.txt 3
-data.zcfx.txt 3
-data.zcse.txt 1
-data.zeec.txt 1
-data.zeun.txt 4
-data.zezn.txt 1
-data.zfaj.txt 1
+data.gk.txt 2.82763771717948
+data.zbsl.txt 2.82763771717948
+data.zbzo.txt 5.65527543435896
+data.zcfx.txt 5.65527543435896
+data.zcse.txt 2.82763771717948
+data.zeec.txt 2.82763771717948
+data.zeun.txt 6.565571457682201
+data.zezn.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

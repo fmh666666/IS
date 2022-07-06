@@ -1,5 +1,5 @@
 4
-data.zcts.txt 2
-data.zdsh.txt 2
-data.zejn.txt 2
-data.zeob.txt 2
+data.zcts.txt 5.372597648141796
+data.zdsh.txt 5.372597648141796
+data.zejn.txt 5.372597648141796
+data.zeob.txt 5.372597648141796

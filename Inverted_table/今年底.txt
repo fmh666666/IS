@@ -1,14 +1,14 @@
 13
-data.be.txt 1
-data.ek.txt 1
-data.zamr.txt 1
-data.zavx.txt 1
-data.zaxj.txt 1
-data.zbhe.txt 1
-data.zbjh.txt 1
-data.zbor.txt 1
-data.zctn.txt 1
-data.zdaq.txt 1
-data.zdoq.txt 1
-data.zdwn.txt 1
-data.zeqv.txt 1
+data.be.txt 2.5727503226135906
+data.ek.txt 2.5727503226135906
+data.zamr.txt 2.5727503226135906
+data.zavx.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zctn.txt 2.5727503226135906
+data.zdaq.txt 2.5727503226135906
+data.zdoq.txt 2.5727503226135906
+data.zdwn.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906

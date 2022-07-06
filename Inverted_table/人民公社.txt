@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.fz.txt 1
-data.zajo.txt 2
-data.zawb.txt 1
-data.zawc.txt 1
-data.zfae.txt 1
+data.fp.txt 3.1086847136800873
+data.fz.txt 3.1086847136800873
+data.zajo.txt 4.927148697748023
+data.zawb.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

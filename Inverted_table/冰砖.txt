@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.pa.txt 4
-data.zazn.txt 2
-data.zbua.txt 2
-data.zcln.txt 1
-data.zcts.txt 4
+data.ga.txt 3.1086847136800873
+data.pa.txt 7.21814237484067
+data.zazn.txt 4.927148697748023
+data.zbua.txt 4.927148697748023
+data.zcln.txt 3.1086847136800873
+data.zcts.txt 7.21814237484067

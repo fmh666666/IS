@@ -1,14 +1,14 @@
 13
-data.mt.txt 1
-data.zadv.txt 1
-data.zbia.txt 1
-data.zbil.txt 1
-data.zddb.txt 1
-data.zdgt.txt 1
-data.zdnh.txt 1
-data.zdpg.txt 1
-data.zdtr.txt 1
-data.zeac.txt 1
-data.zedk.txt 3
-data.zedy.txt 1
-data.zelj.txt 1
+data.mt.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zbia.txt 2.5727503226135906
+data.zbil.txt 2.5727503226135906
+data.zddb.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zdnh.txt 2.5727503226135906
+data.zdpg.txt 2.5727503226135906
+data.zdtr.txt 2.5727503226135906
+data.zeac.txt 2.5727503226135906
+data.zedk.txt 5.145500645227181
+data.zedy.txt 2.5727503226135906
+data.zelj.txt 2.5727503226135906

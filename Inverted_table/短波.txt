@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.gz.txt 1
-data.zbcj.txt 4
-data.zcpa.txt 1
-data.zdlw.txt 1
+data.ew.txt 3.235060386727117
+data.gz.txt 3.235060386727117
+data.zbcj.txt 7.511577600598868
+data.zcpa.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117

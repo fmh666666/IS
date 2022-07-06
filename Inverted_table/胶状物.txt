@@ -1,5 +1,5 @@
 4
-data.zbvf.txt 1
-data.zcql.txt 1
-data.zcts.txt 2
-data.zdsh.txt 1
+data.zbvf.txt 3.389731710180695
+data.zcql.txt 3.389731710180695
+data.zcts.txt 5.372597648141796
+data.zdsh.txt 3.389731710180695

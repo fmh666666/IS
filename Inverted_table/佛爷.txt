@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.jf.txt 7
-data.zako.txt 2
-data.zalt.txt 1
-data.zbux.txt 1
-data.zdkp.txt 1
-data.zeaj.txt 1
-data.zeqh.txt 2
+data.aj.txt 2.9092786962624935
+data.jf.txt 8.72783608878748
+data.zako.txt 4.611097637722987
+data.zalt.txt 2.9092786962624935
+data.zbux.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935
+data.zeqh.txt 4.611097637722987

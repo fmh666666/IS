@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.hp.txt 1
-data.op.txt 1
-data.zcli.txt 1
-data.zdju.txt 1
+data.ep.txt 3.235060386727117
+data.hp.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.zcli.txt 3.235060386727117
+data.zdju.txt 3.235060386727117

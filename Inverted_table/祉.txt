@@ -1,12 +1,12 @@
 11
-data.hg.txt 1
-data.ud.txt 1
-data.zaim.txt 1
-data.zawb.txt 1
-data.zbfp.txt 2
-data.zbla.txt 1
-data.zblr.txt 2
-data.zbta.txt 7
-data.zddp.txt 1
-data.zdpf.txt 1
-data.zfcg.txt 1
+data.hg.txt 2.6885433903988862
+data.ud.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbfp.txt 4.261240455343955
+data.zbla.txt 2.6885433903988862
+data.zblr.txt 4.261240455343955
+data.zbta.txt 8.06563017119666
+data.zddp.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zfcg.txt 2.6885433903988862

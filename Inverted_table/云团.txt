@@ -1,8 +1,8 @@
 7
-data.wc.txt 43
-data.zaxj.txt 1
-data.zbdx.txt 1
-data.zbor.txt 2
-data.zcdy.txt 1
-data.zcln.txt 1
-data.zdeb.txt 2
+data.wc.txt 16.388316213575738
+data.zaxj.txt 3.0018356045764243
+data.zbdx.txt 3.0018356045764243
+data.zbor.txt 4.757796866583254
+data.zcdy.txt 3.0018356045764243
+data.zcln.txt 3.0018356045764243
+data.zdeb.txt 4.757796866583254

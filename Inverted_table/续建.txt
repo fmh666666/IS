@@ -1,6 +1,6 @@
 5
-data.fp.txt 3
-data.kt.txt 1
-data.zazn.txt 1
-data.zcdz.txt 2
-data.zelt.txt 3
+data.fp.txt 6.470120773454234
+data.kt.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zcdz.txt 5.1274494005309625
+data.zelt.txt 6.470120773454234

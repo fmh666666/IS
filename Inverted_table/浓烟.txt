@@ -1,10 +1,10 @@
 9
-data.gz.txt 1
-data.zadv.txt 1
-data.zako.txt 1
-data.zbpx.txt 1
-data.zcem.txt 1
-data.zcqp.txt 1
-data.zcue.txt 1
-data.zcwq.txt 1
-data.zcxr.txt 1
+data.gz.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbpx.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zcwq.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948

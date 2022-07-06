@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zcih.txt 1
-data.zeeq.txt 1
+data.ry.txt 3.5891377275982888
+data.zcih.txt 3.5891377275982888
+data.zeeq.txt 3.5891377275982888

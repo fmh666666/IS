@@ -1,4 +1,4 @@
 3
-data.kq.txt 1
-data.tv.txt 1
-data.zdou.txt 2
+data.kq.txt 3.5891377275982888
+data.tv.txt 3.5891377275982888
+data.zdou.txt 5.688648708166832

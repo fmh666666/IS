@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zcfn.txt 1
-data.zddm.txt 1
-data.zdrq.txt 1
-data.zefv.txt 1
-data.zegn.txt 1
+data.fp.txt 3.1086847136800873
+data.zcfn.txt 3.1086847136800873
+data.zddm.txt 3.1086847136800873
+data.zdrq.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zegn.txt 3.1086847136800873

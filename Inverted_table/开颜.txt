@@ -1,6 +1,6 @@
 5
-data.zbdx.txt 1
-data.zbes.txt 1
-data.zbre.txt 1
-data.zbrj.txt 1
-data.zezm.txt 2
+data.zbdx.txt 3.235060386727117
+data.zbes.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zezm.txt 5.1274494005309625

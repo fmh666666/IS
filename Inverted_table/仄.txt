@@ -1,4 +1,4 @@
 3
-data.zccl.txt 2
-data.zdey.txt 2
-data.zdou.txt 1
+data.zccl.txt 5.688648708166832
+data.zdey.txt 5.688648708166832
+data.zdou.txt 3.5891377275982888

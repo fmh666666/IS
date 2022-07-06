@@ -1,6 +1,6 @@
 5
-data.zake.txt 1
-data.zbvp.txt 1
-data.zcdy.txt 2
-data.zefw.txt 1
-data.zeoh.txt 1
+data.zake.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zefw.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

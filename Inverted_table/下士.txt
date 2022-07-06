@@ -1,5 +1,5 @@
 4
-data.zcdl.txt 1
-data.zctn.txt 3
-data.zdey.txt 4
-data.zdgv.txt 2
+data.zcdl.txt 3.389731710180695
+data.zctn.txt 6.77946342036139
+data.zdey.txt 7.870713291999142
+data.zdgv.txt 5.372597648141796

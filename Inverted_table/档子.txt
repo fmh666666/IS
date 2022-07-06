@@ -1,7 +1,7 @@
 6
-data.zane.txt 1
-data.zbts.txt 1
-data.zcbe.txt 1
-data.zcdv.txt 2
-data.zdpz.txt 1
-data.zeqv.txt 1
+data.zane.txt 3.1086847136800873
+data.zbts.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zcdv.txt 4.927148697748023
+data.zdpz.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873

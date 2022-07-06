@@ -1,7 +1,7 @@
 6
-data.zaxp.txt 1
-data.zazg.txt 1
-data.zbes.txt 1
-data.zctp.txt 1
-data.zedo.txt 1
-data.zexk.txt 1
+data.zaxp.txt 3.1086847136800873
+data.zazg.txt 3.1086847136800873
+data.zbes.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zexk.txt 3.1086847136800873

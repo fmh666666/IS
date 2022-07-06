@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.zane.txt 2
-data.zbzg.txt 1
-data.zcpx.txt 1
-data.zdfl.txt 1
-data.zenw.txt 1
+data.ft.txt 3.1086847136800873
+data.zane.txt 4.927148697748023
+data.zbzg.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zdfl.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873

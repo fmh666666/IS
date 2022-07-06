@@ -1,7 +1,7 @@
 6
-data.zbfx.txt 4
-data.zbla.txt 1
-data.zctn.txt 1
-data.zdaq.txt 2
-data.zdar.txt 2
-data.zfai.txt 1
+data.zbfx.txt 7.21814237484067
+data.zbla.txt 3.1086847136800873
+data.zctn.txt 3.1086847136800873
+data.zdaq.txt 4.927148697748023
+data.zdar.txt 4.927148697748023
+data.zfai.txt 3.1086847136800873

@@ -1,8 +1,8 @@
 7
-data.zajh.txt 1
-data.zalt.txt 2
-data.zanh.txt 1
-data.zbem.txt 1
-data.zcpb.txt 1
-data.zdqq.txt 2
-data.zfaj.txt 1
+data.zajh.txt 3.0018356045764243
+data.zalt.txt 4.757796866583254
+data.zanh.txt 3.0018356045764243
+data.zbem.txt 3.0018356045764243
+data.zcpb.txt 3.0018356045764243
+data.zdqq.txt 4.757796866583254
+data.zfaj.txt 3.0018356045764243

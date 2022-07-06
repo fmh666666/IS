@@ -1,11 +1,11 @@
 10
-data.zamr.txt 1
-data.zbcj.txt 1
-data.zbkf.txt 1
-data.zbvg.txt 1
-data.zbvn.txt 1
-data.zcls.txt 1
-data.zdle.txt 1
-data.zdlo.txt 3
-data.zdvl.txt 1
-data.zdwv.txt 1
+data.zamr.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbkf.txt 2.7546073728089153
+data.zbvg.txt 2.7546073728089153
+data.zbvn.txt 2.7546073728089153
+data.zcls.txt 2.7546073728089153
+data.zdle.txt 2.7546073728089153
+data.zdlo.txt 5.509214745617831
+data.zdvl.txt 2.7546073728089153
+data.zdwv.txt 2.7546073728089153

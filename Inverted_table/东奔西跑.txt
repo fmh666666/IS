@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.gw.txt 1
-data.qb.txt 1
-data.uz.txt 2
-data.zaej.txt 1
-data.zarc.txt 1
-data.zbzo.txt 1
-data.zcbe.txt 1
-data.zctm.txt 1
+data.fe.txt 2.82763771717948
+data.gw.txt 2.82763771717948
+data.qb.txt 2.82763771717948
+data.uz.txt 4.48169974735425
+data.zaej.txt 2.82763771717948
+data.zarc.txt 2.82763771717948
+data.zbzo.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zctm.txt 2.82763771717948

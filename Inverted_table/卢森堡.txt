@@ -1,7 +1,7 @@
 6
-data.jj.txt 1
-data.zacd.txt 1
-data.zaqr.txt 2
-data.zcqe.txt 1
-data.zdlo.txt 1
-data.zeqh.txt 3
+data.jj.txt 3.1086847136800873
+data.zacd.txt 3.1086847136800873
+data.zaqr.txt 4.927148697748023
+data.zcqe.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873
+data.zeqh.txt 6.2173694273601745

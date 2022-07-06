@@ -1,12 +1,12 @@
 11
-data.fz.txt 1
-data.hu.txt 1
-data.zalj.txt 1
-data.zcem.txt 1
-data.zciq.txt 1
-data.zcis.txt 1
-data.zcqg.txt 1
-data.zddp.txt 1
-data.zdnh.txt 1
-data.zdyv.txt 1
-data.zeeq.txt 1
+data.fz.txt 2.6885433903988862
+data.hu.txt 2.6885433903988862
+data.zalj.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zciq.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcqg.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862
+data.zdnh.txt 2.6885433903988862
+data.zdyv.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862

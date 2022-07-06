@@ -1,11 +1,11 @@
 10
-data.zacw.txt 1
-data.zajh.txt 3
-data.zane.txt 1
-data.zazg.txt 2
-data.zcjd.txt 1
-data.zdlo.txt 1
-data.zdoc.txt 3
-data.zeew.txt 1
-data.zehp.txt 1
-data.zeqh.txt 1
+data.zacw.txt 2.7546073728089153
+data.zajh.txt 5.509214745617831
+data.zane.txt 2.7546073728089153
+data.zazg.txt 4.365949390112154
+data.zcjd.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153
+data.zdoc.txt 5.509214745617831
+data.zeew.txt 2.7546073728089153
+data.zehp.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153

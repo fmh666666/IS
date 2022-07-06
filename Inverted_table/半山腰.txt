@@ -1,12 +1,12 @@
 11
-data.mx.txt 1
-data.op.txt 2
-data.yx.txt 1
-data.zbsm.txt 2
-data.zciy.txt 1
-data.zcqg.txt 1
-data.zdkk.txt 1
-data.zdpw.txt 1
-data.zeaf.txt 1
-data.zeeq.txt 1
-data.zfaz.txt 1
+data.mx.txt 2.6885433903988862
+data.op.txt 4.261240455343955
+data.yx.txt 2.6885433903988862
+data.zbsm.txt 4.261240455343955
+data.zciy.txt 2.6885433903988862
+data.zcqg.txt 2.6885433903988862
+data.zdkk.txt 2.6885433903988862
+data.zdpw.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862
+data.zfaz.txt 2.6885433903988862

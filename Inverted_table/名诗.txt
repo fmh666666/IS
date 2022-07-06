@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.hg.txt 1
-data.zcln.txt 2
-data.zedk.txt 1
-data.zeeq.txt 1
+data.ga.txt 3.235060386727117
+data.hg.txt 3.235060386727117
+data.zcln.txt 5.1274494005309625
+data.zedk.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

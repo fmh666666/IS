@@ -1,7 +1,7 @@
 6
-data.zail.txt 1
-data.zawu.txt 1
-data.zbkv.txt 1
-data.zcdg.txt 1
-data.zcdv.txt 1
-data.zeva.txt 1
+data.zail.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zeva.txt 3.1086847136800873

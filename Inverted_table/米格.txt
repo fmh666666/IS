@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.mu.txt 1
-data.zahd.txt 1
-data.zalm.txt 3
-data.zaxp.txt 1
-data.zbkr.txt 2
-data.zcls.txt 1
-data.zdcy.txt 1
-data.zewv.txt 2
+data.aj.txt 2.82763771717948
+data.mu.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zalm.txt 5.65527543435896
+data.zaxp.txt 2.82763771717948
+data.zbkr.txt 4.48169974735425
+data.zcls.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zewv.txt 4.48169974735425

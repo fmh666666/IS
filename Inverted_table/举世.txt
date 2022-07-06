@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.zamp.txt 1
-data.zapl.txt 1
-data.zaqw.txt 1
-data.zbnp.txt 1
-data.zcon.txt 1
-data.zdep.txt 1
-data.zeqn.txt 1
+data.fp.txt 2.9092786962624935
+data.zamp.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zbnp.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935

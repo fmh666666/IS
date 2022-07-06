@@ -1,8 +1,8 @@
 7
-data.vi.txt 1
-data.zaim.txt 1
-data.zbaf.txt 1
-data.zcon.txt 4
-data.zdju.txt 1
-data.zduc.txt 1
-data.zebn.txt 14
+data.vi.txt 3.0018356045764243
+data.zaim.txt 3.0018356045764243
+data.zbaf.txt 3.0018356045764243
+data.zcon.txt 6.970046426499191
+data.zdju.txt 3.0018356045764243
+data.zduc.txt 3.0018356045764243
+data.zebn.txt 11.727843293082445

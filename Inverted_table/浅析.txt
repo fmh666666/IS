@@ -1,8 +1,8 @@
 7
-data.gw.txt 2
-data.zanm.txt 1
-data.zcdz.txt 1
-data.zcql.txt 1
-data.zdcy.txt 1
-data.zdds.txt 1
-data.zedo.txt 1
+data.gw.txt 4.757796866583254
+data.zanm.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zcql.txt 3.0018356045764243
+data.zdcy.txt 3.0018356045764243
+data.zdds.txt 3.0018356045764243
+data.zedo.txt 3.0018356045764243

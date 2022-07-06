@@ -1,4 +1,4 @@
 3
-data.zafq.txt 1
-data.zctm.txt 1
-data.zdbf.txt 1
+data.zafq.txt 3.5891377275982888
+data.zctm.txt 3.5891377275982888
+data.zdbf.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.hz.txt 2
-data.zail.txt 1
-data.zazn.txt 1
-data.zbeb.txt 1
-data.zbhe.txt 1
-data.zdpw.txt 1
-data.zejn.txt 1
-data.zeqn.txt 1
+data.hz.txt 4.611097637722987
+data.zail.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935

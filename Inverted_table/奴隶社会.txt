@@ -1,4 +1,4 @@
 3
-data.zako.txt 2
-data.zdgt.txt 1
-data.zdwl.txt 1
+data.zako.txt 5.688648708166832
+data.zdgt.txt 3.5891377275982888
+data.zdwl.txt 3.5891377275982888

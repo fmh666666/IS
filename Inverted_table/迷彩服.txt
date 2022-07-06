@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.zaop.txt 1
-data.zawu.txt 1
-data.zdlm.txt 1
-data.zezy.txt 1
-data.zfaw.txt 1
+data.mo.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zdlm.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873
+data.zfaw.txt 3.1086847136800873

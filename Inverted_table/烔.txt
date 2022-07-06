@@ -1,5 +1,5 @@
 4
-data.tv.txt 1
-data.zazx.txt 1
-data.zbsu.txt 7
-data.zclh.txt 5
+data.tv.txt 3.389731710180695
+data.zazx.txt 3.389731710180695
+data.zbsu.txt 10.169195130542084
+data.zclh.txt 8.762329358322491

@@ -1,13 +1,13 @@
 12
-data.yx.txt 1
-data.zate.txt 1
-data.zavg.txt 1
-data.zbds.txt 1
-data.zbha.txt 1
-data.zcjy.txt 1
-data.zcts.txt 1
-data.zdqq.txt 1
-data.zegn.txt 1
-data.zelj.txt 1
-data.zeqn.txt 1
-data.zezn.txt 1
+data.yx.txt 2.628231699761886
+data.zate.txt 2.628231699761886
+data.zavg.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbha.txt 2.628231699761886
+data.zcjy.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zdqq.txt 2.628231699761886
+data.zegn.txt 2.628231699761886
+data.zelj.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zezn.txt 2.628231699761886

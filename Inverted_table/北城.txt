@@ -1,10 +1,10 @@
 9
-data.zaoo.txt 1
-data.zasj.txt 1
-data.zavg.txt 1
-data.zbel.txt 1
-data.zbye.txt 1
-data.zccu.txt 7
-data.zcni.txt 1
-data.zcqg.txt 1
-data.zdpz.txt 1
+data.zaoo.txt 2.82763771717948
+data.zasj.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zbel.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zccu.txt 8.48291315153844
+data.zcni.txt 2.82763771717948
+data.zcqg.txt 2.82763771717948
+data.zdpz.txt 2.82763771717948

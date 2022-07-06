@@ -1,5 +1,5 @@
 4
-data.zaic.txt 1
-data.zard.txt 1
-data.zcfn.txt 13
-data.zdpz.txt 1
+data.zaic.txt 3.389731710180695
+data.zard.txt 3.389731710180695
+data.zcfn.txt 12.905911711211209
+data.zdpz.txt 3.389731710180695

@@ -1,8 +1,8 @@
 7
-data.jf.txt 1
-data.zazn.txt 1
-data.zcdg.txt 1
-data.zcrg.txt 1
-data.zdeb.txt 1
-data.zdtr.txt 1
-data.zeel.txt 1
+data.jf.txt 3.0018356045764243
+data.zazn.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zcrg.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zeel.txt 3.0018356045764243

@@ -1,7 +1,7 @@
 6
-data.zajh.txt 1
-data.zcdl.txt 1
-data.zduk.txt 2
-data.zeew.txt 1
-data.zevl.txt 2
-data.zfai.txt 1
+data.zajh.txt 3.1086847136800873
+data.zcdl.txt 3.1086847136800873
+data.zduk.txt 4.927148697748023
+data.zeew.txt 3.1086847136800873
+data.zevl.txt 4.927148697748023
+data.zfai.txt 3.1086847136800873

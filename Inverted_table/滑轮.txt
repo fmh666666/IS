@@ -1,11 +1,11 @@
 10
-data.hc.txt 1
-data.kq.txt 1
-data.qn.txt 1
-data.zbdb.txt 1
-data.zbpc.txt 1
-data.zcll.txt 1
-data.zcon.txt 1
-data.zcxr.txt 1
-data.zdpf.txt 1
-data.zdxw.txt 1
+data.hc.txt 2.7546073728089153
+data.kq.txt 2.7546073728089153
+data.qn.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zcll.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153

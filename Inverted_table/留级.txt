@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zalt.txt 4
-data.zbpp.txt 1
-data.zdcw.txt 1
-data.zddv.txt 1
-data.zdfl.txt 1
-data.zedo.txt 1
-data.zegz.txt 1
-data.zeoh.txt 1
+data.op.txt 2.82763771717948
+data.zalt.txt 6.565571457682201
+data.zbpp.txt 2.82763771717948
+data.zdcw.txt 2.82763771717948
+data.zddv.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zegz.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

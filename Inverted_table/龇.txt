@@ -1,5 +1,5 @@
 4
-data.ng.txt 1
-data.zawz.txt 1
-data.zbcj.txt 1
-data.zbil.txt 1
+data.ng.txt 3.389731710180695
+data.zawz.txt 3.389731710180695
+data.zbcj.txt 3.389731710180695
+data.zbil.txt 3.389731710180695

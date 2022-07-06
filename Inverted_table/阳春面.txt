@@ -1,5 +1,5 @@
 4
-data.zbjq.txt 1
-data.zcln.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
+data.zbjq.txt 3.389731710180695
+data.zcln.txt 3.389731710180695
+data.zeai.txt 3.389731710180695
+data.zeaj.txt 3.389731710180695

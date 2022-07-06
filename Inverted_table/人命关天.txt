@@ -1,12 +1,12 @@
 11
-data.hz.txt 1
-data.ud.txt 1
-data.zako.txt 1
-data.zalj.txt 1
-data.zasq.txt 1
-data.zawc.txt 1
-data.zcmn.txt 1
-data.zcmx.txt 1
-data.zdar.txt 2
-data.zeob.txt 1
-data.zeyy.txt 1
+data.hz.txt 2.6885433903988862
+data.ud.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zalj.txt 2.6885433903988862
+data.zasq.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zcmn.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zdar.txt 4.261240455343955
+data.zeob.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

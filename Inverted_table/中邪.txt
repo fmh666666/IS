@@ -1,9 +1,9 @@
 8
-data.fe.txt 1
-data.zaeh.txt 1
-data.zass.txt 1
-data.zcjo.txt 1
-data.zdll.txt 2
-data.zdlm.txt 1
-data.zdlo.txt 1
-data.zefp.txt 1
+data.fe.txt 2.9092786962624935
+data.zaeh.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zcjo.txt 2.9092786962624935
+data.zdll.txt 4.611097637722987
+data.zdlm.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935

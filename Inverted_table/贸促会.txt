@@ -1,3 +1,3 @@
 2
-data.zafv.txt 1
-data.zdxw.txt 1
+data.zafv.txt 3.8701847240988965
+data.zdxw.txt 3.8701847240988965

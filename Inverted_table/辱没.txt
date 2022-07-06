@@ -1,4 +1,4 @@
 3
-data.zcdg.txt 1
-data.zdod.txt 1
-data.zdtv.txt 1
+data.zcdg.txt 3.5891377275982888
+data.zdod.txt 3.5891377275982888
+data.zdtv.txt 3.5891377275982888

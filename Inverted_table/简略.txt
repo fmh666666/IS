@@ -1,6 +1,6 @@
 5
-data.zate.txt 1
-data.zbla.txt 1
-data.zcxr.txt 1
-data.zdzn.txt 1
-data.zeoo.txt 1
+data.zate.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

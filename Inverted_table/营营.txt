@@ -1,4 +1,4 @@
 3
-data.zene.txt 1
-data.zezh.txt 1
-data.zfcj.txt 1
+data.zene.txt 3.5891377275982888
+data.zezh.txt 3.5891377275982888
+data.zfcj.txt 3.5891377275982888

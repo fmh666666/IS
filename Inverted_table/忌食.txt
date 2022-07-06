@@ -1,6 +1,6 @@
 5
-data.zafq.txt 1
-data.zbzf.txt 1
-data.zcrg.txt 1
-data.zcts.txt 1
-data.zcxp.txt 2
+data.zafq.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zcxp.txt 5.1274494005309625

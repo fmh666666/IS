@@ -1,2 +1,2 @@
 1
-data.bb.txt 1
+data.bb.txt 4.350637738017098

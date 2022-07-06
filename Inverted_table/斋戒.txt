@@ -1,8 +1,8 @@
 7
-data.ee.txt 1
-data.jf.txt 2
-data.zcyv.txt 7
-data.zcyx.txt 9
-data.zdji.txt 1
-data.zdle.txt 1
-data.zdud.txt 2
+data.ee.txt 3.0018356045764243
+data.jf.txt 4.757796866583254
+data.zcyv.txt 9.005506813729273
+data.zcyx.txt 9.971882031075616
+data.zdji.txt 3.0018356045764243
+data.zdle.txt 3.0018356045764243
+data.zdud.txt 4.757796866583254

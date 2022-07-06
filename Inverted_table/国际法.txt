@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.hu.txt 1
-data.op.txt 1
-data.zahd.txt 5
-data.zbkf.txt 1
-data.zbpx.txt 1
-data.zbsm.txt 1
-data.zcmy.txt 2
-data.zcue.txt 1
-data.zelt.txt 1
-data.zesq.txt 1
-data.zfaj.txt 9
+data.fp.txt 2.628231699761886
+data.hu.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.zahd.txt 6.7938803870911
+data.zbkf.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zcmy.txt 4.165648687329214
+data.zcue.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zesq.txt 2.628231699761886
+data.zfaj.txt 8.730796723312578

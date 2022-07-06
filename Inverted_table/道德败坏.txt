@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.op.txt 1
-data.zadv.txt 1
-data.zajn.txt 1
-data.zbfz.txt 1
-data.zbor.txt 1
-data.zbot.txt 1
-data.zdzn.txt 1
-data.zfaj.txt 1
+data.hp.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zajn.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zbot.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

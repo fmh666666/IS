@@ -1,6 +1,6 @@
 5
-data.tv.txt 2
-data.zabe.txt 2
-data.zbpx.txt 1
-data.zddx.txt 1
-data.zfdk.txt 1
+data.tv.txt 5.1274494005309625
+data.zabe.txt 5.1274494005309625
+data.zbpx.txt 3.235060386727117
+data.zddx.txt 3.235060386727117
+data.zfdk.txt 3.235060386727117

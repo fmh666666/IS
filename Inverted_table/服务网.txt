@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.ng.txt 1
-data.zako.txt 1
-data.zbrj.txt 1
-data.zctm.txt 1
-data.zddp.txt 1
-data.zefd.txt 1
-data.zeqv.txt 1
+data.gw.txt 2.9092786962624935
+data.ng.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zctm.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.zawo.txt 1
-data.zbcv.txt 3
-data.zewn.txt 1
+data.zawo.txt 3.5891377275982888
+data.zbcv.txt 7.1782754551965775
+data.zewn.txt 3.5891377275982888

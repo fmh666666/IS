@@ -1,4 +1,4 @@
 3
-data.zaql.txt 1
-data.zasr.txt 1
-data.zclh.txt 1
+data.zaql.txt 3.5891377275982888
+data.zasr.txt 3.5891377275982888
+data.zclh.txt 3.5891377275982888

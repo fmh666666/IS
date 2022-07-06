@@ -1,11 +1,11 @@
 10
-data.wg.txt 1
-data.zabx.txt 1
-data.zass.txt 1
-data.zbcc.txt 1
-data.zbls.txt 1
-data.zbmw.txt 1
-data.zcon.txt 1
-data.zebn.txt 3
-data.zeeh.txt 1
-data.zekw.txt 1
+data.wg.txt 2.7546073728089153
+data.zabx.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbls.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zebn.txt 5.509214745617831
+data.zeeh.txt 2.7546073728089153
+data.zekw.txt 2.7546073728089153

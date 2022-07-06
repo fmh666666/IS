@@ -1,4 +1,4 @@
 3
-data.zaim.txt 1
-data.zbds.txt 1
-data.zdmw.txt 2
+data.zaim.txt 3.5891377275982888
+data.zbds.txt 3.5891377275982888
+data.zdmw.txt 5.688648708166832

@@ -1,7 +1,7 @@
 6
-data.zacp.txt 1
-data.zbil.txt 1
-data.zcse.txt 1
-data.zcvi.txt 2
-data.zdju.txt 1
-data.zfaj.txt 1
+data.zacp.txt 3.1086847136800873
+data.zbil.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zcvi.txt 4.927148697748023
+data.zdju.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

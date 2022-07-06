@@ -1,12 +1,12 @@
 11
-data.ud.txt 1
-data.zabe.txt 1
-data.zaxk.txt 1
-data.zbdx.txt 3
-data.zbeb.txt 3
-data.zbla.txt 1
-data.zblq.txt 1
-data.zcmv.txt 1
-data.zcpc.txt 1
-data.zdgo.txt 1
-data.zdoq.txt 1
+data.ud.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbdx.txt 5.3770867807977725
+data.zbeb.txt 5.3770867807977725
+data.zbla.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zcmv.txt 2.6885433903988862
+data.zcpc.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862

@@ -1,6 +1,6 @@
 5
-data.zcdg.txt 1
-data.zcuh.txt 1
-data.zeec.txt 1
-data.zeez.txt 1
-data.zevt.txt 1
+data.zcdg.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zeec.txt 3.235060386727117
+data.zeez.txt 3.235060386727117
+data.zevt.txt 3.235060386727117

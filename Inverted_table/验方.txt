@@ -1,6 +1,6 @@
 5
-data.ye.txt 1
-data.zapr.txt 1
-data.zcxq.txt 4
-data.zefw.txt 4
-data.zeve.txt 1
+data.ye.txt 3.235060386727117
+data.zapr.txt 3.235060386727117
+data.zcxq.txt 7.511577600598868
+data.zefw.txt 7.511577600598868
+data.zeve.txt 3.235060386727117

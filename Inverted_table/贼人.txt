@@ -1,7 +1,7 @@
 6
-data.zasr.txt 1
-data.zawc.txt 1
-data.zbwa.txt 1
-data.zdme.txt 3
-data.zdxw.txt 1
-data.zeoh.txt 1
+data.zasr.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zdme.txt 6.2173694273601745
+data.zdxw.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

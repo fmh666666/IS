@@ -1,10 +1,10 @@
 9
-data.en.txt 1
-data.zaoo.txt 1
-data.zawu.txt 1
-data.zbfr.txt 1
-data.zcft.txt 28
-data.zcli.txt 1
-data.zcmx.txt 1
-data.zduk.txt 1
-data.zdwl.txt 2
+data.en.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zbfr.txt 2.82763771717948
+data.zcft.txt 13.736610291163828
+data.zcli.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zdwl.txt 4.48169974735425

@@ -1,6 +1,6 @@
 5
-data.zasd.txt 1
-data.zbpm.txt 1
-data.zcql.txt 1
-data.zduo.txt 1
-data.zebf.txt 1
+data.zasd.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zebf.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.nh.txt 3
-data.zbds.txt 1
-data.zbla.txt 1
-data.zblq.txt 6
-data.zbot.txt 1
-data.zcxq.txt 1
-data.zdof.txt 1
-data.zdzi.txt 1
-data.zewd.txt 1
+data.nh.txt 5.65527543435896
+data.zbds.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zblq.txt 7.938182663119541
+data.zbot.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zdzi.txt 2.82763771717948
+data.zewd.txt 2.82763771717948

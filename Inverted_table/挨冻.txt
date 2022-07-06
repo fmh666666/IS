@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.ye.txt 1
-data.zafe.txt 1
-data.zahd.txt 1
-data.zank.txt 1
-data.zaoo.txt 1
-data.zbfx.txt 1
-data.zcgi.txt 1
-data.zdaq.txt 1
-data.zedx.txt 1
-data.zefv.txt 1
+data.cz.txt 2.6885433903988862
+data.ye.txt 2.6885433903988862
+data.zafe.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zank.txt 2.6885433903988862
+data.zaoo.txt 2.6885433903988862
+data.zbfx.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zdaq.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862
+data.zefv.txt 2.6885433903988862

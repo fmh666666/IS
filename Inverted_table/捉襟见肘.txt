@@ -1,6 +1,6 @@
 5
-data.jj.txt 1
-data.zawc.txt 1
-data.zawo.txt 1
-data.zdgt.txt 1
-data.zfai.txt 1
+data.jj.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

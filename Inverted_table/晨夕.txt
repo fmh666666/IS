@@ -1,5 +1,5 @@
 4
-data.zajh.txt 1
-data.zbhv.txt 4
-data.zbyb.txt 1
-data.zcaq.txt 4
+data.zajh.txt 3.389731710180695
+data.zbhv.txt 7.870713291999142
+data.zbyb.txt 3.389731710180695
+data.zcaq.txt 7.870713291999142

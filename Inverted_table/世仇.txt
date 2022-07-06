@@ -1,4 +1,4 @@
 3
-data.be.txt 1
-data.zabe.txt 2
-data.zcni.txt 1
+data.be.txt 3.5891377275982888
+data.zabe.txt 5.688648708166832
+data.zcni.txt 3.5891377275982888

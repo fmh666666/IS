@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.op.txt 1
-data.zabe.txt 1
-data.zbjk.txt 1
-data.zbpx.txt 1
-data.zccu.txt 1
-data.zedx.txt 1
-data.zfai.txt 1
+data.kq.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

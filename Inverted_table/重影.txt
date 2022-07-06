@@ -1,6 +1,6 @@
 5
-data.zbup.txt 1
-data.zcue.txt 1
-data.zdey.txt 1
-data.zdzg.txt 1
-data.zene.txt 4
+data.zbup.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zdey.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117
+data.zene.txt 7.511577600598868

@@ -1,10 +1,10 @@
 9
-data.fp.txt 2
-data.gw.txt 2
-data.ka.txt 1
-data.zawb.txt 1
-data.zawu.txt 1
-data.zcdy.txt 1
-data.zcrg.txt 2
-data.zcrk.txt 1
-data.zddp.txt 3
+data.fp.txt 4.48169974735425
+data.gw.txt 4.48169974735425
+data.ka.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcrg.txt 4.48169974735425
+data.zcrk.txt 2.82763771717948
+data.zddp.txt 5.65527543435896

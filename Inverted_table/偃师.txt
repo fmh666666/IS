@@ -1,4 +1,4 @@
 3
-data.tv.txt 25
-data.tz.txt 20
-data.zezm.txt 1
+data.tv.txt 16.87052552868166
+data.tz.txt 15.764632173682532
+data.zezm.txt 3.5891377275982888

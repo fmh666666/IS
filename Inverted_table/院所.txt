@@ -1,6 +1,6 @@
 5
-data.gw.txt 17
-data.zblr.txt 1
-data.zbsl.txt 1
-data.zcln.txt 2
-data.zdju.txt 1
+data.gw.txt 13.48995918778904
+data.zblr.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zcln.txt 5.1274494005309625
+data.zdju.txt 3.235060386727117

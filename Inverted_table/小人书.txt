@@ -1,12 +1,12 @@
 11
-data.ha.txt 1
-data.kq.txt 1
-data.uz.txt 2
-data.zapr.txt 3
-data.zasd.txt 9
-data.zawb.txt 1
-data.zbdb.txt 2
-data.zciq.txt 1
-data.zclm.txt 1
-data.zcmy.txt 1
-data.zeeh.txt 2
+data.ha.txt 2.6885433903988862
+data.kq.txt 2.6885433903988862
+data.uz.txt 4.261240455343955
+data.zapr.txt 5.3770867807977725
+data.zasd.txt 8.931147822889784
+data.zawb.txt 2.6885433903988862
+data.zbdb.txt 4.261240455343955
+data.zciq.txt 2.6885433903988862
+data.zclm.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zeeh.txt 4.261240455343955

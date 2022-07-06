@@ -1,5 +1,5 @@
 4
-data.zalj.txt 1
-data.zbsd.txt 1
-data.zeeh.txt 1
-data.zexm.txt 1
+data.zalj.txt 3.389731710180695
+data.zbsd.txt 3.389731710180695
+data.zeeh.txt 3.389731710180695
+data.zexm.txt 3.389731710180695

@@ -1,3 +1,3 @@
 2
-data.zctn.txt 1
-data.zczj.txt 1
+data.zctn.txt 3.8701847240988965
+data.zczj.txt 3.8701847240988965

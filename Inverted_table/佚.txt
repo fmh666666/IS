@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zaxk.txt 1
-data.zbkj.txt 1
-data.zbye.txt 1
-data.zeob.txt 4
-data.zeqv.txt 1
+data.zawc.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zbye.txt 3.1086847136800873
+data.zeob.txt 7.21814237484067
+data.zeqv.txt 3.1086847136800873

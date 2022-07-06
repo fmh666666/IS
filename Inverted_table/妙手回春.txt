@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zayd.txt 1
-data.zcjo.txt 1
+data.tz.txt 3.5891377275982888
+data.zayd.txt 3.5891377275982888
+data.zcjo.txt 3.5891377275982888

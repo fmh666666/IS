@@ -1,10 +1,10 @@
 9
-data.be.txt 2
-data.tz.txt 1
-data.zaun.txt 1
-data.zawc.txt 1
-data.zbfx.txt 1
-data.zcpx.txt 1
-data.zcse.txt 1
-data.zeam.txt 1
-data.zegk.txt 2
+data.be.txt 4.48169974735425
+data.tz.txt 2.82763771717948
+data.zaun.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zcpx.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zegk.txt 4.48169974735425

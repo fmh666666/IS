@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.tz.txt 1
-data.xk.txt 1
-data.zdof.txt 1
-data.zfaz.txt 1
+data.tv.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.xk.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

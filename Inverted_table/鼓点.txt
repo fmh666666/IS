@@ -1,11 +1,11 @@
 10
-data.dg.txt 1
-data.en.txt 1
-data.ew.txt 2
-data.ye.txt 1
-data.zass.txt 1
-data.zbfp.txt 1
-data.zbgu.txt 1
-data.zcee.txt 1
-data.zcpa.txt 1
-data.zdep.txt 1
+data.dg.txt 2.7546073728089153
+data.en.txt 2.7546073728089153
+data.ew.txt 4.365949390112154
+data.ye.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zbgu.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153

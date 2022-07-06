@@ -1,5 +1,5 @@
 4
-data.dg.txt 1
-data.zayv.txt 1
-data.zcll.txt 1
-data.zcqe.txt 1
+data.dg.txt 3.389731710180695
+data.zayv.txt 3.389731710180695
+data.zcll.txt 3.389731710180695
+data.zcqe.txt 3.389731710180695

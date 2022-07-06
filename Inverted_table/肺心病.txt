@@ -1,7 +1,7 @@
 6
-data.be.txt 2
-data.zaqf.txt 2
-data.zauy.txt 1
-data.zddl.txt 1
-data.zemf.txt 2
-data.zeyg.txt 2
+data.be.txt 4.927148697748023
+data.zaqf.txt 4.927148697748023
+data.zauy.txt 3.1086847136800873
+data.zddl.txt 3.1086847136800873
+data.zemf.txt 4.927148697748023
+data.zeyg.txt 4.927148697748023

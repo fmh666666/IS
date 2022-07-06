@@ -1,6 +1,6 @@
 5
-data.co.txt 1
-data.ok.txt 1
-data.zcrg.txt 1
-data.zdud.txt 1
-data.zevl.txt 1
+data.co.txt 3.235060386727117
+data.ok.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zevl.txt 3.235060386727117

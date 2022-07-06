@@ -1,7 +1,7 @@
 6
-data.zagr.txt 1
-data.zalm.txt 1
-data.zank.txt 1
-data.zcdv.txt 1
-data.zcef.txt 2
-data.zeve.txt 1
+data.zagr.txt 3.1086847136800873
+data.zalm.txt 3.1086847136800873
+data.zank.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zcef.txt 4.927148697748023
+data.zeve.txt 3.1086847136800873

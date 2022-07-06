@@ -1,4 +1,4 @@
 3
-data.bb.txt 1
-data.zbup.txt 1
-data.zeew.txt 1
+data.bb.txt 3.5891377275982888
+data.zbup.txt 3.5891377275982888
+data.zeew.txt 3.5891377275982888

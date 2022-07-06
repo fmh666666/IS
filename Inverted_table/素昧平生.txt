@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.zayv.txt 1
-data.zbrd.txt 1
-data.zcel.txt 1
-data.zcli.txt 1
+data.be.txt 3.235060386727117
+data.zayv.txt 3.235060386727117
+data.zbrd.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zcli.txt 3.235060386727117

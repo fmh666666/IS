@@ -1,4 +1,4 @@
 3
-data.zbzf.txt 4
-data.zcdy.txt 1
-data.zfby.txt 1
+data.zbzf.txt 8.333719726130651
+data.zcdy.txt 3.5891377275982888
+data.zfby.txt 3.5891377275982888

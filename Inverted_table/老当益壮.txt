@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zapl.txt 1
-data.zciq.txt 1
-data.zctn.txt 2
-data.zddp.txt 1
+data.zagr.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zctn.txt 5.1274494005309625
+data.zddp.txt 3.235060386727117

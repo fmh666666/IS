@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.ka.txt 1
-data.zafq.txt 1
-data.zazo.txt 1
-data.zblq.txt 1
-data.zbzf.txt 1
-data.zcdy.txt 2
-data.zcpb.txt 1
-data.zcpx.txt 1
-data.zdju.txt 2
-data.zdpf.txt 1
-data.zeoh.txt 1
+data.bb.txt 2.628231699761886
+data.ka.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zazo.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcdy.txt 4.165648687329214
+data.zcpb.txt 2.628231699761886
+data.zcpx.txt 2.628231699761886
+data.zdju.txt 4.165648687329214
+data.zdpf.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

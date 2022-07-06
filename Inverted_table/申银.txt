@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.xk.txt 1
-data.zbhe.txt 2
-data.zbkv.txt 1
-data.zcdz.txt 1
-data.zexv.txt 1
+data.kt.txt 3.1086847136800873
+data.xk.txt 3.1086847136800873
+data.zbhe.txt 4.927148697748023
+data.zbkv.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

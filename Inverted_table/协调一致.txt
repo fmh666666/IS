@@ -1,4 +1,4 @@
 3
-data.zall.txt 1
-data.zcdg.txt 1
-data.zcjd.txt 1
+data.zall.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888
+data.zcjd.txt 3.5891377275982888

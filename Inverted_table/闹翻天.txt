@@ -1,6 +1,6 @@
 5
-data.zasr.txt 1
-data.zbgd.txt 1
-data.zbsu.txt 1
-data.zeid.txt 2
-data.zezh.txt 1
+data.zasr.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zbsu.txt 3.235060386727117
+data.zeid.txt 5.1274494005309625
+data.zezh.txt 3.235060386727117

@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.ff.txt 1
-data.hp.txt 1
-data.mx.txt 1
-data.zacd.txt 1
-data.zahp.txt 1
-data.zarr.txt 1
-data.zczp.txt 1
-data.zdaw.txt 1
-data.zeqn.txt 1
-data.zete.txt 19
-data.zfas.txt 1
+data.bb.txt 2.628231699761886
+data.ff.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zacd.txt 2.628231699761886
+data.zahp.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zete.txt 11.359028423074463
+data.zfas.txt 2.628231699761886

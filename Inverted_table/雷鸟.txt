@@ -1,6 +1,6 @@
 5
-data.vz.txt 1
-data.zbds.txt 1
-data.zbhv.txt 1
-data.zbkf.txt 2
-data.zckd.txt 2
+data.vz.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zbhv.txt 3.235060386727117
+data.zbkf.txt 5.1274494005309625
+data.zckd.txt 5.1274494005309625

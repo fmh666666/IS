@@ -1,4 +1,4 @@
 3
-data.zaoo.txt 1
-data.zbnx.txt 1
-data.zefu.txt 1
+data.zaoo.txt 3.5891377275982888
+data.zbnx.txt 3.5891377275982888
+data.zefu.txt 3.5891377275982888

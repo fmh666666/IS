@@ -1,4 +1,4 @@
 3
-data.qn.txt 1
-data.zasr.txt 1
-data.zcfx.txt 2
+data.qn.txt 3.5891377275982888
+data.zasr.txt 3.5891377275982888
+data.zcfx.txt 5.688648708166832

@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.gz.txt 2
-data.nh.txt 1
-data.zaip.txt 1
-data.zdwz.txt 1
+data.bf.txt 3.235060386727117
+data.gz.txt 5.1274494005309625
+data.nh.txt 3.235060386727117
+data.zaip.txt 3.235060386727117
+data.zdwz.txt 3.235060386727117

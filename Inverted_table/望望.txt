@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.uz.txt 1
-data.zabe.txt 1
-data.zbjq.txt 2
-data.zbqu.txt 1
-data.zcpc.txt 1
-data.zdey.txt 1
-data.zdxw.txt 1
-data.zeob.txt 1
-data.zeyg.txt 1
+data.bs.txt 2.7546073728089153
+data.uz.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zbjq.txt 4.365949390112154
+data.zbqu.txt 2.7546073728089153
+data.zcpc.txt 2.7546073728089153
+data.zdey.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zeob.txt 2.7546073728089153
+data.zeyg.txt 2.7546073728089153

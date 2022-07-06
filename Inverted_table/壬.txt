@@ -1,12 +1,12 @@
 11
-data.pa.txt 1
-data.zagr.txt 2
-data.zaqp.txt 1
-data.zavg.txt 1
-data.zbof.txt 1
-data.zbwa.txt 1
-data.zdgo.txt 1
-data.zdle.txt 1
-data.zdoc.txt 1
-data.zdrq.txt 1
-data.zegz.txt 1
+data.pa.txt 2.6885433903988862
+data.zagr.txt 4.261240455343955
+data.zaqp.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zbwa.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdoc.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zegz.txt 2.6885433903988862

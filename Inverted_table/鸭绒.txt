@@ -1,5 +1,5 @@
 4
-data.zazo.txt 1
-data.zbgw.txt 2
-data.zcxr.txt 1
-data.zezn.txt 1
+data.zazo.txt 3.389731710180695
+data.zbgw.txt 5.372597648141796
+data.zcxr.txt 3.389731710180695
+data.zezn.txt 3.389731710180695

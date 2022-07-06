@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zadv.txt 1
-data.zdrq.txt 1
+data.hg.txt 3.5891377275982888
+data.zadv.txt 3.5891377275982888
+data.zdrq.txt 3.5891377275982888

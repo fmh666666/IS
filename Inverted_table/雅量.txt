@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zbhd.txt 1
-data.zcft.txt 2
-data.zcon.txt 2
-data.zeeq.txt 1
+data.bf.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zcft.txt 5.1274494005309625
+data.zcon.txt 5.1274494005309625
+data.zeeq.txt 3.235060386727117

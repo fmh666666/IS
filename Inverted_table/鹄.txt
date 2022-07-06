@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zabe.txt 1
-data.zafl.txt 1
-data.zavg.txt 1
-data.zawb.txt 2
-data.zciq.txt 1
-data.zene.txt 1
-data.zfai.txt 1
+data.gw.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zafl.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zawb.txt 4.611097637722987
+data.zciq.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.zahd.txt 1
-data.zbup.txt 1
-data.zcql.txt 1
-data.zduk.txt 1
-data.zeez.txt 1
+data.mo.txt 3.1086847136800873
+data.zahd.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873

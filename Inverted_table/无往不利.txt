@@ -1,14 +1,14 @@
 13
-data.cq.txt 1
-data.tv.txt 1
-data.tz.txt 2
-data.zass.txt 1
-data.zazg.txt 1
-data.zbfz.txt 1
-data.zbpp.txt 1
-data.zddb.txt 1
-data.zdeq.txt 1
-data.zdkc.txt 1
-data.zdwv.txt 1
-data.zeew.txt 1
-data.zeoo.txt 2
+data.cq.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.tz.txt 4.077712785060798
+data.zass.txt 2.5727503226135906
+data.zazg.txt 2.5727503226135906
+data.zbfz.txt 2.5727503226135906
+data.zbpp.txt 2.5727503226135906
+data.zddb.txt 2.5727503226135906
+data.zdeq.txt 2.5727503226135906
+data.zdkc.txt 2.5727503226135906
+data.zdwv.txt 2.5727503226135906
+data.zeew.txt 2.5727503226135906
+data.zeoo.txt 4.077712785060798

@@ -1,7 +1,7 @@
 6
-data.zasd.txt 1
-data.zbph.txt 1
-data.zctp.txt 1
-data.zdll.txt 1
-data.zenn.txt 1
-data.zezy.txt 1
+data.zasd.txt 3.1086847136800873
+data.zbph.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873
+data.zenn.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

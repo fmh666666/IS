@@ -1,2 +1,2 @@
 1
-data.co.txt 9
+data.co.txt 14.452505732596203

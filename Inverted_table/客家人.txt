@@ -1,9 +1,9 @@
 8
-data.jd.txt 24
-data.zbel.txt 1
-data.zchd.txt 1
-data.zddb.txt 3
-data.zdqz.txt 15
-data.zduk.txt 1
-data.zejk.txt 1
-data.zfaj.txt 1
+data.jd.txt 13.510271881418321
+data.zbel.txt 2.9092786962624935
+data.zchd.txt 2.9092786962624935
+data.zddb.txt 5.818557392524987
+data.zdqz.txt 11.637114785049974
+data.zduk.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

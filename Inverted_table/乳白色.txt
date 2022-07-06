@@ -1,14 +1,14 @@
 13
-data.pa.txt 1
-data.zasw.txt 2
-data.zbdx.txt 2
-data.zbgu.txt 1
-data.zbhe.txt 2
-data.zcpa.txt 2
-data.zctp.txt 1
-data.zdpf.txt 1
-data.zdpg.txt 3
-data.zehj.txt 1
-data.zeos.txt 1
-data.zewn.txt 2
-data.zexu.txt 1
+data.pa.txt 2.5727503226135906
+data.zasw.txt 4.077712785060798
+data.zbdx.txt 4.077712785060798
+data.zbgu.txt 2.5727503226135906
+data.zbhe.txt 4.077712785060798
+data.zcpa.txt 4.077712785060798
+data.zctp.txt 2.5727503226135906
+data.zdpf.txt 2.5727503226135906
+data.zdpg.txt 5.145500645227181
+data.zehj.txt 2.5727503226135906
+data.zeos.txt 2.5727503226135906
+data.zewn.txt 4.077712785060798
+data.zexu.txt 2.5727503226135906

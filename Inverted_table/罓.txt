@@ -1,5 +1,5 @@
 4
-data.zawz.txt 2
-data.zazw.txt 2
-data.zdby.txt 4
-data.zdqq.txt 2
+data.zawz.txt 5.372597648141796
+data.zazw.txt 5.372597648141796
+data.zdby.txt 7.870713291999142
+data.zdqq.txt 5.372597648141796

@@ -1,10 +1,10 @@
 9
-data.uz.txt 1
-data.vi.txt 1
-data.zawm.txt 1
-data.zbaf.txt 1
-data.zbhd.txt 1
-data.zbvn.txt 1
-data.zbvp.txt 1
-data.zeay.txt 1
-data.zebc.txt 1
+data.uz.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zawm.txt 2.82763771717948
+data.zbaf.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbvn.txt 2.82763771717948
+data.zbvp.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zebc.txt 2.82763771717948

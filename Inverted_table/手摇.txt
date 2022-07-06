@@ -1,12 +1,12 @@
 11
-data.gz.txt 1
-data.zamr.txt 1
-data.zayv.txt 1
-data.zbcj.txt 5
-data.zbvg.txt 1
-data.zcaq.txt 1
-data.zcrg.txt 1
-data.zddb.txt 1
-data.zdji.txt 2
-data.zdlw.txt 1
-data.zeai.txt 1
+data.gz.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zayv.txt 2.6885433903988862
+data.zbcj.txt 6.949783845742841
+data.zbvg.txt 2.6885433903988862
+data.zcaq.txt 2.6885433903988862
+data.zcrg.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zdji.txt 4.261240455343955
+data.zdlw.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862

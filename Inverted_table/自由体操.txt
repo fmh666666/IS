@@ -1,6 +1,6 @@
 5
-data.ee.txt 2
-data.zbxw.txt 1
-data.zduk.txt 1
-data.zexm.txt 1
-data.zeyu.txt 1
+data.ee.txt 5.1274494005309625
+data.zbxw.txt 3.235060386727117
+data.zduk.txt 3.235060386727117
+data.zexm.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117

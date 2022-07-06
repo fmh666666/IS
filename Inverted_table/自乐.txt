@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.zadv.txt 2
-data.zaun.txt 3
-data.zbls.txt 1
-data.zbre.txt 1
-data.zctp.txt 1
-data.zcxp.txt 1
-data.zdgt.txt 1
-data.zdzg.txt 1
-data.zeve.txt 2
+data.aj.txt 2.7546073728089153
+data.zadv.txt 4.365949390112154
+data.zaun.txt 5.509214745617831
+data.zbls.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zcxp.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zeve.txt 4.365949390112154

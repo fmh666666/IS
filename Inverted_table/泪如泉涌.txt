@@ -1,5 +1,5 @@
 4
-data.zbph.txt 1
-data.zcic.txt 1
-data.zdkc.txt 1
-data.zeai.txt 1
+data.zbph.txt 3.389731710180695
+data.zcic.txt 3.389731710180695
+data.zdkc.txt 3.389731710180695
+data.zeai.txt 3.389731710180695

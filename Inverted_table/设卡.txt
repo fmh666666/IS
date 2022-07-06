@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.zasq.txt 1
-data.zdst.txt 1
-data.zezy.txt 1
-data.zfas.txt 1
+data.bs.txt 3.235060386727117
+data.zasq.txt 3.235060386727117
+data.zdst.txt 3.235060386727117
+data.zezy.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

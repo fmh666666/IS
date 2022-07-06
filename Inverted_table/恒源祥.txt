@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.zaop.txt 1
-data.zaql.txt 1
-data.zcqp.txt 1
-data.zdji.txt 2
-data.zete.txt 4
+data.ha.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zaql.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zdji.txt 4.927148697748023
+data.zete.txt 7.21814237484067

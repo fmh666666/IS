@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.zadv.txt 2
-data.zccx.txt 1
-data.zcdl.txt 1
-data.zchd.txt 1
-data.zcis.txt 1
-data.zcjd.txt 1
-data.zcve.txt 1
-data.zdzn.txt 1
-data.zeeq.txt 1
+data.bs.txt 2.7546073728089153
+data.zadv.txt 4.365949390112154
+data.zccx.txt 2.7546073728089153
+data.zcdl.txt 2.7546073728089153
+data.zchd.txt 2.7546073728089153
+data.zcis.txt 2.7546073728089153
+data.zcjd.txt 2.7546073728089153
+data.zcve.txt 2.7546073728089153
+data.zdzn.txt 2.7546073728089153
+data.zeeq.txt 2.7546073728089153

@@ -1,7 +1,7 @@
 6
-data.zavx.txt 1
-data.zbqu.txt 22
-data.zcao.txt 1
-data.zdoq.txt 2
-data.zdwz.txt 1
-data.zerh.txt 1
+data.zavx.txt 3.1086847136800873
+data.zbqu.txt 14.06232790417923
+data.zcao.txt 3.1086847136800873
+data.zdoq.txt 4.927148697748023
+data.zdwz.txt 3.1086847136800873
+data.zerh.txt 3.1086847136800873

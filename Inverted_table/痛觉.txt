@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.ng.txt 2
-data.zaqw.txt 1
-data.zdaq.txt 2
-data.zdar.txt 2
-data.zezy.txt 1
+data.jf.txt 3.1086847136800873
+data.ng.txt 4.927148697748023
+data.zaqw.txt 3.1086847136800873
+data.zdaq.txt 4.927148697748023
+data.zdar.txt 4.927148697748023
+data.zezy.txt 3.1086847136800873

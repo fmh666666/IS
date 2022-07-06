@@ -1,4 +1,4 @@
 3
-data.zarc.txt 1
-data.zawu.txt 1
-data.zczp.txt 2
+data.zarc.txt 3.5891377275982888
+data.zawu.txt 3.5891377275982888
+data.zczp.txt 5.688648708166832

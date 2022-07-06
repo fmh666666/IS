@@ -1,6 +1,6 @@
 5
-data.zafl.txt 1
-data.zajo.txt 1
-data.zawc.txt 1
-data.zdgv.txt 1
-data.zexm.txt 1
+data.zafl.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

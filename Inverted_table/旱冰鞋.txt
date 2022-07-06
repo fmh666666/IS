@@ -1,2 +1,2 @@
 1
-data.zdzm.txt 20
+data.zdzm.txt 19.109381936891275

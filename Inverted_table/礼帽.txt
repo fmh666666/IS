@@ -1,14 +1,14 @@
 13
-data.op.txt 1
-data.zabj.txt 1
-data.zazn.txt 1
-data.zbux.txt 1
-data.zbxw.txt 1
-data.zbyb.txt 1
-data.zcaq.txt 1
-data.zcdv.txt 1
-data.zcee.txt 1
-data.zcfn.txt 1
-data.zcnn.txt 1
-data.zebf.txt 1
-data.zexu.txt 1
+data.op.txt 2.5727503226135906
+data.zabj.txt 2.5727503226135906
+data.zazn.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zbxw.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zcaq.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zcee.txt 2.5727503226135906
+data.zcfn.txt 2.5727503226135906
+data.zcnn.txt 2.5727503226135906
+data.zebf.txt 2.5727503226135906
+data.zexu.txt 2.5727503226135906

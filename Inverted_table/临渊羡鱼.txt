@@ -1,5 +1,5 @@
 4
-data.zcak.txt 2
-data.zcon.txt 1
-data.zcvq.txt 1
-data.zedk.txt 1
+data.zcak.txt 5.372597648141796
+data.zcon.txt 3.389731710180695
+data.zcvq.txt 3.389731710180695
+data.zedk.txt 3.389731710180695

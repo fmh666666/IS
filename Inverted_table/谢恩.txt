@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.zafq.txt 1
-data.zajo.txt 1
-data.zcdl.txt 1
-data.zdkp.txt 1
-data.zdux.txt 1
-data.zdzn.txt 1
-data.zefd.txt 1
-data.zeve.txt 1
+data.bb.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zcdl.txt 2.82763771717948
+data.zdkp.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zeve.txt 2.82763771717948

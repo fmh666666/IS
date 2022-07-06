@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.op.txt 1
-data.zdtr.txt 1
-data.zfaj.txt 1
+data.ga.txt 3.389731710180695
+data.op.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

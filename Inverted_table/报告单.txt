@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.nh.txt 1
-data.zaej.txt 1
-data.zayc.txt 2
-data.zbnx.txt 1
+data.bb.txt 3.235060386727117
+data.nh.txt 3.235060386727117
+data.zaej.txt 3.235060386727117
+data.zayc.txt 5.1274494005309625
+data.zbnx.txt 3.235060386727117

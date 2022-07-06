@@ -1,5 +1,5 @@
 4
-data.ok.txt 1
-data.zajh.txt 2
-data.zbcj.txt 1
-data.zdcj.txt 1
+data.ok.txt 3.389731710180695
+data.zajh.txt 5.372597648141796
+data.zbcj.txt 3.389731710180695
+data.zdcj.txt 3.389731710180695

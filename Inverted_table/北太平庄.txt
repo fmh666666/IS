@@ -1,4 +1,4 @@
 3
-data.tj.txt 1
-data.yx.txt 1
-data.zewg.txt 2
+data.tj.txt 3.5891377275982888
+data.yx.txt 3.5891377275982888
+data.zewg.txt 5.688648708166832

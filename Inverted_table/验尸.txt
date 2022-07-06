@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.hp.txt 1
-data.ry.txt 1
-data.zaet.txt 1
-data.zazg.txt 1
-data.zbyb.txt 1
-data.zdar.txt 2
-data.zdhw.txt 1
-data.zdil.txt 1
-data.zdmw.txt 1
+data.fp.txt 2.7546073728089153
+data.hp.txt 2.7546073728089153
+data.ry.txt 2.7546073728089153
+data.zaet.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zbyb.txt 2.7546073728089153
+data.zdar.txt 4.365949390112154
+data.zdhw.txt 2.7546073728089153
+data.zdil.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153

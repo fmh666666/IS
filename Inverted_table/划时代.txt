@@ -1,14 +1,14 @@
 13
-data.gw.txt 2
-data.mx.txt 1
-data.zarc.txt 1
-data.zbpm.txt 1
-data.zcic.txt 1
-data.zclh.txt 1
-data.zcqg.txt 1
-data.zcrg.txt 1
-data.zcse.txt 1
-data.zddp.txt 1
-data.zdji.txt 1
-data.zeaj.txt 1
-data.zeyu.txt 1
+data.gw.txt 4.077712785060798
+data.mx.txt 2.5727503226135906
+data.zarc.txt 2.5727503226135906
+data.zbpm.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zclh.txt 2.5727503226135906
+data.zcqg.txt 2.5727503226135906
+data.zcrg.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zddp.txt 2.5727503226135906
+data.zdji.txt 2.5727503226135906
+data.zeaj.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906

@@ -1,8 +1,8 @@
 7
-data.jf.txt 3
-data.tj.txt 1
-data.zbjh.txt 7
-data.zdbf.txt 1
-data.zdqz.txt 1
-data.zdwn.txt 1
-data.zefv.txt 3
+data.jf.txt 6.003671209152849
+data.tj.txt 3.0018356045764243
+data.zbjh.txt 9.005506813729273
+data.zdbf.txt 3.0018356045764243
+data.zdqz.txt 3.0018356045764243
+data.zdwn.txt 3.0018356045764243
+data.zefv.txt 6.003671209152849

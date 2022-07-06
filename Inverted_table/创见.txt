@@ -1,7 +1,7 @@
 6
-data.zbkf.txt 2
-data.zdaw.txt 1
-data.zdvl.txt 2
-data.zeec.txt 1
-data.zene.txt 1
-data.zeqn.txt 1
+data.zbkf.txt 4.927148697748023
+data.zdaw.txt 3.1086847136800873
+data.zdvl.txt 4.927148697748023
+data.zeec.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zeqn.txt 3.1086847136800873

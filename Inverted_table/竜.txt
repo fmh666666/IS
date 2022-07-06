@@ -1,12 +1,12 @@
 11
-data.kt.txt 4
-data.zajo.txt 1
-data.zbnp.txt 1
-data.zbqu.txt 7
-data.zbsu.txt 1
-data.zbvp.txt 1
-data.zbzg.txt 1
-data.zcfn.txt 1
-data.zdrq.txt 3
-data.zdwv.txt 1
-data.zeqh.txt 2
+data.kt.txt 6.2426044324908965
+data.zajo.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zbqu.txt 8.06563017119666
+data.zbsu.txt 2.6885433903988862
+data.zbvp.txt 2.6885433903988862
+data.zbzg.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zdrq.txt 5.3770867807977725
+data.zdwv.txt 2.6885433903988862
+data.zeqh.txt 4.261240455343955

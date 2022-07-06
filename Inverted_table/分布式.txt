@@ -1,4 +1,4 @@
 3
-data.zbsl.txt 5
-data.zcue.txt 1
-data.zdcy.txt 1
+data.zbsl.txt 9.27778643576512
+data.zcue.txt 3.5891377275982888
+data.zdcy.txt 3.5891377275982888

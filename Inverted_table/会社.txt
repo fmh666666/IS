@@ -1,10 +1,10 @@
 9
-data.tz.txt 1
-data.vm.txt 1
-data.zcfn.txt 3
-data.zddm.txt 1
-data.zddv.txt 1
-data.zdep.txt 1
-data.zdrq.txt 3
-data.zdwz.txt 1
-data.zegl.txt 2
+data.tz.txt 2.82763771717948
+data.vm.txt 2.82763771717948
+data.zcfn.txt 5.65527543435896
+data.zddm.txt 2.82763771717948
+data.zddv.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zdrq.txt 5.65527543435896
+data.zdwz.txt 2.82763771717948
+data.zegl.txt 4.48169974735425

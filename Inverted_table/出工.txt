@@ -1,9 +1,9 @@
 8
-data.mx.txt 1
-data.op.txt 1
-data.zaim.txt 1
-data.zawc.txt 1
-data.zcdy.txt 1
-data.zdfl.txt 1
-data.zeay.txt 2
-data.zebn.txt 1
+data.mx.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zdfl.txt 2.9092786962624935
+data.zeay.txt 4.611097637722987
+data.zebn.txt 2.9092786962624935

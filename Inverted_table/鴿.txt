@@ -1,9 +1,9 @@
 8
-data.zafk.txt 1
-data.zalm.txt 1
-data.zbaq.txt 1
-data.zbes.txt 1
-data.zbjh.txt 1
-data.zdlg.txt 1
-data.zdqx.txt 2
-data.zeqv.txt 1
+data.zafk.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zbaq.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zdlg.txt 2.9092786962624935
+data.zdqx.txt 4.611097637722987
+data.zeqv.txt 2.9092786962624935

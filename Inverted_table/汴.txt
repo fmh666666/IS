@@ -1,9 +1,9 @@
 8
-data.hu.txt 1
-data.op.txt 2
-data.zbhv.txt 1
-data.zblr.txt 1
-data.zczl.txt 1
-data.zdlw.txt 1
-data.zfae.txt 1
-data.zfaj.txt 1
+data.hu.txt 2.9092786962624935
+data.op.txt 4.611097637722987
+data.zbhv.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.hu.txt 1
-data.zdpz.txt 1
-data.zenw.txt 1
+data.hu.txt 3.5891377275982888
+data.zdpz.txt 3.5891377275982888
+data.zenw.txt 3.5891377275982888

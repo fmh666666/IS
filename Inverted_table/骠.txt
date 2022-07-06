@@ -1,6 +1,6 @@
 5
-data.ev.txt 2
-data.tj.txt 1
-data.tz.txt 3
-data.zbla.txt 1
-data.zcel.txt 1
+data.ev.txt 5.1274494005309625
+data.tj.txt 3.235060386727117
+data.tz.txt 6.470120773454234
+data.zbla.txt 3.235060386727117
+data.zcel.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.cq.txt 2
-data.mx.txt 2
-data.zasw.txt 2
-data.zbhe.txt 1
-data.zbsl.txt 2
-data.zbvf.txt 1
-data.zbvg.txt 2
-data.zcrg.txt 2
-data.zddl.txt 3
-data.zdpz.txt 1
+data.aj.txt 2.6885433903988862
+data.cq.txt 4.261240455343955
+data.mx.txt 4.261240455343955
+data.zasw.txt 4.261240455343955
+data.zbhe.txt 2.6885433903988862
+data.zbsl.txt 4.261240455343955
+data.zbvf.txt 2.6885433903988862
+data.zbvg.txt 4.261240455343955
+data.zcrg.txt 4.261240455343955
+data.zddl.txt 5.3770867807977725
+data.zdpz.txt 2.6885433903988862

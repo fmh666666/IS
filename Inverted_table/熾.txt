@@ -1,7 +1,7 @@
 6
-data.zcqs.txt 1
-data.zdyv.txt 1
-data.zeam.txt 1
-data.zeva.txt 1
-data.zexm.txt 1
-data.zezf.txt 1
+data.zcqs.txt 3.1086847136800873
+data.zdyv.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zeva.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873
+data.zezf.txt 3.1086847136800873

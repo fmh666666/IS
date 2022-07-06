@@ -1,10 +1,10 @@
 9
-data.mt.txt 1
-data.zapl.txt 1
-data.zaqr.txt 1
-data.zbfg.txt 1
-data.zcef.txt 1
-data.zdju.txt 1
-data.zedo.txt 1
-data.zenn.txt 1
-data.zfaw.txt 1
+data.mt.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zaqr.txt 2.82763771717948
+data.zbfg.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zdju.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zenn.txt 2.82763771717948
+data.zfaw.txt 2.82763771717948

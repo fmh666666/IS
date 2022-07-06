@@ -1,4 +1,4 @@
 3
-data.zbkf.txt 1
-data.zbkr.txt 2
-data.zedd.txt 1
+data.zbkf.txt 3.5891377275982888
+data.zbkr.txt 5.688648708166832
+data.zedd.txt 3.5891377275982888

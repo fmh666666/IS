@@ -1,4 +1,4 @@
 3
-data.zbcc.txt 1
-data.zdeb.txt 1
-data.zdnc.txt 1
+data.zbcc.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888
+data.zdnc.txt 3.5891377275982888

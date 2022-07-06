@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.zbsu.txt 1
-data.zduo.txt 1
-data.zebc.txt 1
+data.bs.txt 3.389731710180695
+data.zbsu.txt 3.389731710180695
+data.zduo.txt 3.389731710180695
+data.zebc.txt 3.389731710180695

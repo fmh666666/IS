@@ -1,6 +1,6 @@
 5
-data.fj.txt 1
-data.zaxj.txt 3
-data.zaxk.txt 3
-data.zcse.txt 1
-data.zewg.txt 1
+data.fj.txt 3.235060386727117
+data.zaxj.txt 6.470120773454234
+data.zaxk.txt 6.470120773454234
+data.zcse.txt 3.235060386727117
+data.zewg.txt 3.235060386727117

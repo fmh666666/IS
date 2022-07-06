@@ -1,10 +1,10 @@
 9
-data.pa.txt 2
-data.zbta.txt 1
-data.zcdg.txt 1
-data.zcln.txt 2
-data.zctp.txt 1
-data.zczl.txt 4
-data.zdar.txt 1
-data.zdji.txt 1
-data.zdju.txt 1
+data.pa.txt 4.48169974735425
+data.zbta.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcln.txt 4.48169974735425
+data.zctp.txt 2.82763771717948
+data.zczl.txt 6.565571457682201
+data.zdar.txt 2.82763771717948
+data.zdji.txt 2.82763771717948
+data.zdju.txt 2.82763771717948

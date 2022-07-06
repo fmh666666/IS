@@ -1,9 +1,9 @@
 8
-data.kq.txt 8
-data.zbnx.txt 1
-data.zcdy.txt 3
-data.zcdz.txt 3
-data.zcqe.txt 3
-data.zcql.txt 3
-data.zdtr.txt 1
-data.zeac.txt 1
+data.kq.txt 9.222195275445975
+data.zbnx.txt 2.9092786962624935
+data.zcdy.txt 5.818557392524987
+data.zcdz.txt 5.818557392524987
+data.zcqe.txt 5.818557392524987
+data.zcql.txt 5.818557392524987
+data.zdtr.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935

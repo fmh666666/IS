@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zcts.txt 1
-data.zewg.txt 2
+data.ry.txt 3.5891377275982888
+data.zcts.txt 3.5891377275982888
+data.zewg.txt 5.688648708166832

@@ -1,4 +1,4 @@
 3
-data.jf.txt 12
-data.zabe.txt 2
-data.zbjh.txt 13
+data.jf.txt 13.281387801083373
+data.zabe.txt 5.688648708166832
+data.zbjh.txt 13.665121193113988

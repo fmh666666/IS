@@ -1,12 +1,12 @@
 11
-data.mt.txt 3
-data.zbut.txt 1
-data.zctp.txt 2
-data.zdby.txt 1
-data.zdle.txt 1
-data.zdlw.txt 1
-data.zdwn.txt 1
-data.zdzm.txt 1
-data.zeeq.txt 3
-data.zess.txt 1
-data.zewg.txt 4
+data.mt.txt 5.3770867807977725
+data.zbut.txt 2.6885433903988862
+data.zctp.txt 4.261240455343955
+data.zdby.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862
+data.zeeq.txt 5.3770867807977725
+data.zess.txt 2.6885433903988862
+data.zewg.txt 6.2426044324908965

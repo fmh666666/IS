@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.fp.txt 1
-data.ha.txt 1
-data.hp.txt 2
-data.op.txt 2
-data.zafi.txt 1
-data.zawu.txt 1
-data.zbeb.txt 1
-data.zbfz.txt 1
-data.zbpx.txt 1
-data.zcxq.txt 1
-data.zene.txt 1
+data.ev.txt 2.628231699761886
+data.fp.txt 2.628231699761886
+data.ha.txt 2.628231699761886
+data.hp.txt 4.165648687329214
+data.op.txt 4.165648687329214
+data.zafi.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zcxq.txt 2.628231699761886
+data.zene.txt 2.628231699761886

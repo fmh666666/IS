@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.vi.txt 1
-data.ye.txt 1
-data.zahd.txt 1
-data.zaic.txt 1
-data.zdtr.txt 1
-data.zeam.txt 1
-data.zexm.txt 1
+data.ew.txt 2.9092786962624935
+data.vi.txt 2.9092786962624935
+data.ye.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zexm.txt 2.9092786962624935

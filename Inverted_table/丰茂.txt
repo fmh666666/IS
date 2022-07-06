@@ -1,5 +1,5 @@
 4
-data.ye.txt 1
-data.zabe.txt 1
-data.zajh.txt 1
-data.zcli.txt 1
+data.ye.txt 3.389731710180695
+data.zabe.txt 3.389731710180695
+data.zajh.txt 3.389731710180695
+data.zcli.txt 3.389731710180695

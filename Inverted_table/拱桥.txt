@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zafv.txt 2
-data.zdpw.txt 1
-data.zeeh.txt 1
-data.zeeq.txt 1
+data.bb.txt 3.235060386727117
+data.zafv.txt 5.1274494005309625
+data.zdpw.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

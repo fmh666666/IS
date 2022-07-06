@@ -1,14 +1,14 @@
 13
-data.nh.txt 1
-data.wc.txt 1
-data.zaet.txt 2
-data.zake.txt 1
-data.zamr.txt 4
-data.zaqf.txt 2
-data.zbzg.txt 1
-data.zcdy.txt 1
-data.zdeb.txt 3
-data.zdga.txt 1
-data.zdpz.txt 4
-data.zdux.txt 5
-data.zeac.txt 1
+data.nh.txt 2.5727503226135906
+data.wc.txt 2.5727503226135906
+data.zaet.txt 4.077712785060798
+data.zake.txt 2.5727503226135906
+data.zamr.txt 5.97374125520702
+data.zaqf.txt 4.077712785060798
+data.zbzg.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zdeb.txt 5.145500645227181
+data.zdga.txt 2.5727503226135906
+data.zdpz.txt 5.97374125520702
+data.zdux.txt 6.650463107674388
+data.zeac.txt 2.5727503226135906

@@ -1,7 +1,7 @@
 6
-data.zbeb.txt 2
-data.zcql.txt 1
-data.zczb.txt 1
-data.zddb.txt 1
-data.zdzm.txt 1
-data.zdzn.txt 2
+data.zbeb.txt 4.927148697748023
+data.zcql.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zddb.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zdzn.txt 4.927148697748023

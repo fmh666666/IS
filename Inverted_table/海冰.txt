@@ -1,10 +1,10 @@
 9
-data.gk.txt 3
-data.gw.txt 1
-data.zayc.txt 3
-data.zcue.txt 1
-data.zdmw.txt 2
-data.zdwk.txt 1
-data.zehp.txt 1
-data.zenw.txt 1
-data.zerv.txt 1
+data.gk.txt 5.65527543435896
+data.gw.txt 2.82763771717948
+data.zayc.txt 5.65527543435896
+data.zcue.txt 2.82763771717948
+data.zdmw.txt 4.48169974735425
+data.zdwk.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zerv.txt 2.82763771717948

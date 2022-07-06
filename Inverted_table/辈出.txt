@@ -1,14 +1,14 @@
 13
-data.ry.txt 1
-data.vi.txt 1
-data.zabe.txt 1
-data.zaxk.txt 2
-data.zcve.txt 1
-data.zddb.txt 1
-data.zdeb.txt 1
-data.zdil.txt 1
-data.zdwz.txt 1
-data.zdyv.txt 1
-data.zelt.txt 1
-data.zenw.txt 1
-data.zesq.txt 1
+data.ry.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zaxk.txt 4.077712785060798
+data.zcve.txt 2.5727503226135906
+data.zddb.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdil.txt 2.5727503226135906
+data.zdwz.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zesq.txt 2.5727503226135906

@@ -1,8 +1,8 @@
 7
-data.hz.txt 2
-data.yx.txt 1
-data.zanh.txt 1
-data.zbua.txt 2
-data.zcxr.txt 1
-data.zdst.txt 2
-data.zfai.txt 1
+data.hz.txt 4.757796866583254
+data.yx.txt 3.0018356045764243
+data.zanh.txt 3.0018356045764243
+data.zbua.txt 4.757796866583254
+data.zcxr.txt 3.0018356045764243
+data.zdst.txt 4.757796866583254
+data.zfai.txt 3.0018356045764243

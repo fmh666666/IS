@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.zcel.txt 1
-data.zess.txt 1
+data.cq.txt 3.235060386727117
+data.tv.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zess.txt 3.235060386727117

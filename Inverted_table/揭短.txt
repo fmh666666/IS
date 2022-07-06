@@ -1,10 +1,10 @@
 9
-data.hc.txt 1
-data.zall.txt 1
-data.zaoc.txt 1
-data.zasw.txt 1
-data.zblh.txt 1
-data.zbor.txt 1
-data.zcxp.txt 1
-data.zdgo.txt 1
-data.zfaj.txt 1
+data.hc.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zblh.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zcxp.txt 2.82763771717948
+data.zdgo.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

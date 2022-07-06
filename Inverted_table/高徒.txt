@@ -1,7 +1,7 @@
 6
-data.zamr.txt 1
-data.zapl.txt 2
-data.zblr.txt 1
-data.zbzf.txt 1
-data.zcfx.txt 1
-data.zdgt.txt 1
+data.zamr.txt 3.1086847136800873
+data.zapl.txt 4.927148697748023
+data.zblr.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873

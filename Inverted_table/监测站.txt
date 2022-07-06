@@ -1,8 +1,8 @@
 7
-data.zair.txt 1
-data.zawc.txt 1
-data.zbeb.txt 1
-data.zciq.txt 1
-data.zclm.txt 1
-data.zcts.txt 1
-data.zeid.txt 1
+data.zair.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zbeb.txt 3.0018356045764243
+data.zciq.txt 3.0018356045764243
+data.zclm.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zeid.txt 3.0018356045764243

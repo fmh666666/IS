@@ -1,6 +1,6 @@
 5
-data.dg.txt 2
-data.zaeh.txt 1
-data.zbsm.txt 1
-data.zbye.txt 1
-data.zedo.txt 1
+data.dg.txt 5.1274494005309625
+data.zaeh.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zedo.txt 3.235060386727117

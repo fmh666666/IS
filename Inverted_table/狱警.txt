@@ -1,8 +1,8 @@
 7
-data.zajo.txt 1
-data.zbkf.txt 1
-data.zcjd.txt 1
-data.zcuh.txt 4
-data.zdgt.txt 1
-data.zdme.txt 2
-data.zevq.txt 1
+data.zajo.txt 3.0018356045764243
+data.zbkf.txt 3.0018356045764243
+data.zcjd.txt 3.0018356045764243
+data.zcuh.txt 6.970046426499191
+data.zdgt.txt 3.0018356045764243
+data.zdme.txt 4.757796866583254
+data.zevq.txt 3.0018356045764243

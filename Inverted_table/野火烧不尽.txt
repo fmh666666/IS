@@ -1,4 +1,4 @@
 3
-data.be.txt 1
-data.yx.txt 1
-data.zaun.txt 2
+data.be.txt 3.5891377275982888
+data.yx.txt 3.5891377275982888
+data.zaun.txt 5.688648708166832

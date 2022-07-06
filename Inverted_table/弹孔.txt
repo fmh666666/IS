@@ -1,7 +1,7 @@
 6
-data.zafe.txt 2
-data.zbeb.txt 2
-data.zbwq.txt 2
-data.zdeq.txt 2
-data.zfai.txt 1
-data.zfby.txt 1
+data.zafe.txt 4.927148697748023
+data.zbeb.txt 4.927148697748023
+data.zbwq.txt 4.927148697748023
+data.zdeq.txt 4.927148697748023
+data.zfai.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

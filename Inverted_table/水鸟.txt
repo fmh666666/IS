@@ -1,8 +1,8 @@
 7
-data.vi.txt 1
-data.zabe.txt 1
-data.zafk.txt 1
-data.zawz.txt 2
-data.zazo.txt 1
-data.zeeq.txt 1
-data.zene.txt 1
+data.vi.txt 3.0018356045764243
+data.zabe.txt 3.0018356045764243
+data.zafk.txt 3.0018356045764243
+data.zawz.txt 4.757796866583254
+data.zazo.txt 3.0018356045764243
+data.zeeq.txt 3.0018356045764243
+data.zene.txt 3.0018356045764243

@@ -1,10 +1,10 @@
 9
-data.zbcj.txt 1
-data.zbfz.txt 1
-data.zbla.txt 1
-data.zbor.txt 1
-data.zcbe.txt 1
-data.zcfn.txt 1
-data.zcgo.txt 1
-data.zebc.txt 1
-data.zeid.txt 1
+data.zbcj.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zeid.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zajh.txt 2
-data.zcfn.txt 3
-data.zdzg.txt 1
-data.zevq.txt 1
+data.gk.txt 3.235060386727117
+data.zajh.txt 5.1274494005309625
+data.zcfn.txt 6.470120773454234
+data.zdzg.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

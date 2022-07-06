@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.pn.txt 2
-data.zamr.txt 2
-data.zbfr.txt 2
-data.zbil.txt 1
-data.zbjc.txt 1
-data.zcls.txt 1
-data.zcrg.txt 2
-data.zdwl.txt 2
-data.zedk.txt 1
-data.zehj.txt 2
+data.fj.txt 2.6885433903988862
+data.pn.txt 4.261240455343955
+data.zamr.txt 4.261240455343955
+data.zbfr.txt 4.261240455343955
+data.zbil.txt 2.6885433903988862
+data.zbjc.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zcrg.txt 4.261240455343955
+data.zdwl.txt 4.261240455343955
+data.zedk.txt 2.6885433903988862
+data.zehj.txt 4.261240455343955

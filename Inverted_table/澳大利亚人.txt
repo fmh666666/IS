@@ -1,11 +1,11 @@
 10
-data.tz.txt 1
-data.zaub.txt 1
-data.zbga.txt 1
-data.zbvf.txt 1
-data.zcvt.txt 1
-data.zdmw.txt 1
-data.zduk.txt 1
-data.zedx.txt 1
-data.zefv.txt 1
-data.zevl.txt 1
+data.tz.txt 2.7546073728089153
+data.zaub.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbvf.txt 2.7546073728089153
+data.zcvt.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153
+data.zevl.txt 2.7546073728089153

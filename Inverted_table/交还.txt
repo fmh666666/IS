@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.op.txt 2
-data.zbye.txt 1
-data.zdou.txt 1
-data.zeac.txt 1
-data.zeay.txt 1
-data.zeel.txt 1
-data.zeob.txt 1
+data.ev.txt 2.9092786962624935
+data.op.txt 4.611097637722987
+data.zbye.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935
+data.zeob.txt 2.9092786962624935

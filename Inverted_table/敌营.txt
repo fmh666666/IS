@@ -1,5 +1,5 @@
 4
-data.zawu.txt 3
-data.zbmw.txt 1
-data.zcxh.txt 1
-data.zene.txt 1
+data.zawu.txt 6.77946342036139
+data.zbmw.txt 3.389731710180695
+data.zcxh.txt 3.389731710180695
+data.zene.txt 3.389731710180695

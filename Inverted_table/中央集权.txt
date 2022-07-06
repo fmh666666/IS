@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.zawu.txt 1
-data.zezy.txt 1
-data.zfaj.txt 1
+data.bs.txt 3.389731710180695
+data.zawu.txt 3.389731710180695
+data.zezy.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

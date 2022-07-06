@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zbwq.txt 1
-data.zcvt.txt 1
-data.zehj.txt 1
-data.zfby.txt 2
+data.zabe.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zcvt.txt 3.235060386727117
+data.zehj.txt 3.235060386727117
+data.zfby.txt 5.1274494005309625

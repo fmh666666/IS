@@ -1,4 +1,4 @@
 3
-data.zahp.txt 1
-data.zdeq.txt 1
-data.zdzi.txt 2
+data.zahp.txt 3.5891377275982888
+data.zdeq.txt 3.5891377275982888
+data.zdzi.txt 5.688648708166832

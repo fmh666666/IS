@@ -1,6 +1,6 @@
 5
-data.zbjk.txt 2
-data.zdju.txt 1
-data.zeai.txt 2
-data.zeaj.txt 1
-data.zeqh.txt 1
+data.zbjk.txt 5.1274494005309625
+data.zdju.txt 3.235060386727117
+data.zeai.txt 5.1274494005309625
+data.zeaj.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

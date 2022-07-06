@@ -1,5 +1,5 @@
 4
-data.ev.txt 2
-data.vm.txt 2
-data.zazw.txt 1
-data.zduk.txt 2
+data.ev.txt 5.372597648141796
+data.vm.txt 5.372597648141796
+data.zazw.txt 3.389731710180695
+data.zduk.txt 5.372597648141796

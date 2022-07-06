@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.zagb.txt 1
-data.zane.txt 1
-data.zbes.txt 2
-data.zbnx.txt 1
-data.zdaw.txt 1
-data.zdkp.txt 2
-data.zduk.txt 1
-data.zeam.txt 2
+data.bs.txt 2.82763771717948
+data.zagb.txt 2.82763771717948
+data.zane.txt 2.82763771717948
+data.zbes.txt 4.48169974735425
+data.zbnx.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zdkp.txt 4.48169974735425
+data.zduk.txt 2.82763771717948
+data.zeam.txt 4.48169974735425

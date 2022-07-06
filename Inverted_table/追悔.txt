@@ -1,12 +1,12 @@
 11
-data.mk.txt 1
-data.wc.txt 1
-data.zacw.txt 1
-data.zaoc.txt 1
-data.zaoy.txt 1
-data.zaxp.txt 1
-data.zcef.txt 1
-data.zdbf.txt 1
-data.zdpf.txt 1
-data.zezh.txt 1
-data.zezy.txt 1
+data.mk.txt 2.6885433903988862
+data.wc.txt 2.6885433903988862
+data.zacw.txt 2.6885433903988862
+data.zaoc.txt 2.6885433903988862
+data.zaoy.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zcef.txt 2.6885433903988862
+data.zdbf.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zezh.txt 2.6885433903988862
+data.zezy.txt 2.6885433903988862

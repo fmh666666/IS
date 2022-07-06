@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zcic.txt 1
-data.zcrg.txt 1
-data.zcwq.txt 1
-data.zdwz.txt 1
+data.zacw.txt 3.235060386727117
+data.zcic.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zcwq.txt 3.235060386727117
+data.zdwz.txt 3.235060386727117

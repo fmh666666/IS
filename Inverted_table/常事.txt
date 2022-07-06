@@ -1,12 +1,12 @@
 11
-data.gk.txt 1
-data.mi.txt 1
-data.op.txt 1
-data.tv.txt 1
-data.zajh.txt 1
-data.zaxp.txt 1
-data.zbof.txt 1
-data.zdwz.txt 1
-data.zefp.txt 1
-data.zevq.txt 1
-data.zeyy.txt 1
+data.gk.txt 2.6885433903988862
+data.mi.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.zajh.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

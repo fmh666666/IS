@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.to.txt 1
-data.xe.txt 1
-data.zaim.txt 1
-data.zbcj.txt 1
-data.zbia.txt 1
-data.zbru.txt 3
-data.zbsf.txt 1
+data.op.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.xe.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zbru.txt 5.818557392524987
+data.zbsf.txt 2.9092786962624935

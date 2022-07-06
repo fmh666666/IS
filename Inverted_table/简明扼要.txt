@@ -1,9 +1,9 @@
 8
-data.zbcc.txt 1
-data.zbor.txt 2
-data.zcak.txt 1
-data.zcdy.txt 1
-data.zcon.txt 1
-data.zcvi.txt 1
-data.zdme.txt 1
-data.zeve.txt 1
+data.zbcc.txt 2.9092786962624935
+data.zbor.txt 4.611097637722987
+data.zcak.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zcvi.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zeve.txt 2.9092786962624935

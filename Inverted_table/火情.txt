@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.kq.txt 1
-data.zapl.txt 1
-data.zcve.txt 1
-data.zduk.txt 1
+data.fe.txt 3.235060386727117
+data.kq.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zduk.txt 3.235060386727117

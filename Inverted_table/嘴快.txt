@@ -1,5 +1,5 @@
 4
-data.vi.txt 1
-data.zadv.txt 1
-data.zcve.txt 1
-data.zedd.txt 2
+data.vi.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zcve.txt 3.389731710180695
+data.zedd.txt 5.372597648141796

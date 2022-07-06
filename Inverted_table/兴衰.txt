@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.cq.txt 1
-data.tv.txt 1
-data.zabe.txt 2
-data.zbjh.txt 3
-data.zbyb.txt 1
-data.zeob.txt 1
-data.zeoh.txt 1
-data.zewd.txt 1
+data.bf.txt 2.82763771717948
+data.cq.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zabe.txt 4.48169974735425
+data.zbjh.txt 5.65527543435896
+data.zbyb.txt 2.82763771717948
+data.zeob.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zewd.txt 2.82763771717948

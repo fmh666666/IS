@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.zbha.txt 1
-data.zbla.txt 1
-data.zcao.txt 1
-data.zchd.txt 1
-data.zcln.txt 3
-data.zdod.txt 1
-data.zecf.txt 1
+data.ft.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zcao.txt 2.9092786962624935
+data.zchd.txt 2.9092786962624935
+data.zcln.txt 5.818557392524987
+data.zdod.txt 2.9092786962624935
+data.zecf.txt 2.9092786962624935

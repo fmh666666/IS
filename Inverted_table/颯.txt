@@ -1,4 +1,4 @@
 3
-data.gk.txt 3
-data.zdds.txt 1
-data.zdqk.txt 1
+data.gk.txt 7.1782754551965775
+data.zdds.txt 3.5891377275982888
+data.zdqk.txt 3.5891377275982888

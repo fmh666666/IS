@@ -1,5 +1,5 @@
 4
-data.fe.txt 1
-data.gw.txt 1
-data.mo.txt 1
-data.zall.txt 1
+data.fe.txt 3.389731710180695
+data.gw.txt 3.389731710180695
+data.mo.txt 3.389731710180695
+data.zall.txt 3.389731710180695

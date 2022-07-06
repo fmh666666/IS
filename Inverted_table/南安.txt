@@ -1,10 +1,10 @@
 9
-data.gk.txt 2
-data.gw.txt 1
-data.mt.txt 2
-data.zahd.txt 2
-data.zcue.txt 1
-data.zcvq.txt 2
-data.zdgt.txt 2
-data.zelt.txt 1
-data.zess.txt 1
+data.gk.txt 4.48169974735425
+data.gw.txt 2.82763771717948
+data.mt.txt 4.48169974735425
+data.zahd.txt 4.48169974735425
+data.zcue.txt 2.82763771717948
+data.zcvq.txt 4.48169974735425
+data.zdgt.txt 4.48169974735425
+data.zelt.txt 2.82763771717948
+data.zess.txt 2.82763771717948

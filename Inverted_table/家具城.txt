@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zbcv.txt 1
-data.zbhd.txt 1
-data.zegk.txt 1
-data.zeyu.txt 1
+data.zaxp.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zegk.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117

@@ -1,13 +1,13 @@
 12
-data.pq.txt 9
-data.tv.txt 1
-data.zbpc.txt 1
-data.zbrj.txt 1
-data.zciy.txt 1
-data.zcue.txt 1
-data.zdju.txt 1
-data.zdlm.txt 2
-data.zdzm.txt 1
-data.zeaj.txt 1
-data.zene.txt 1
-data.zeve.txt 1
+data.pq.txt 8.730796723312578
+data.tv.txt 2.628231699761886
+data.zbpc.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdju.txt 2.628231699761886
+data.zdlm.txt 4.165648687329214
+data.zdzm.txt 2.628231699761886
+data.zeaj.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zeve.txt 2.628231699761886

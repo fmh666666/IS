@@ -1,7 +1,7 @@
 6
-data.by.txt 1
-data.zajh.txt 1
-data.zczb.txt 1
-data.zdby.txt 1
-data.zefp.txt 1
-data.zeos.txt 1
+data.by.txt 3.1086847136800873
+data.zajh.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873

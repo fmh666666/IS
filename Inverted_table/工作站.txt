@@ -1,12 +1,12 @@
 11
-data.hz.txt 1
-data.zasj.txt 1
-data.zavx.txt 2
-data.zbfz.txt 1
-data.zbor.txt 1
-data.zbru.txt 1
-data.zcgi.txt 1
-data.zcln.txt 2
-data.zddm.txt 1
-data.zdeb.txt 1
-data.zdxw.txt 1
+data.hz.txt 2.6885433903988862
+data.zasj.txt 2.6885433903988862
+data.zavx.txt 4.261240455343955
+data.zbfz.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zbru.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zcln.txt 4.261240455343955
+data.zddm.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862

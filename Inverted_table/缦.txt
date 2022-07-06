@@ -1,14 +1,14 @@
 13
-data.fj.txt 1
-data.zayv.txt 2
-data.zbfr.txt 6
-data.zbjh.txt 1
-data.zbkf.txt 6
-data.zbwq.txt 3
-data.zbzo.txt 2
-data.zdji.txt 2
-data.zdkk.txt 1
-data.zdlo.txt 3
-data.zedd.txt 6
-data.zeyy.txt 4
-data.zezm.txt 2
+data.fj.txt 2.5727503226135906
+data.zayv.txt 4.077712785060798
+data.zbfr.txt 7.222623281414552
+data.zbjh.txt 2.5727503226135906
+data.zbkf.txt 7.222623281414552
+data.zbwq.txt 5.145500645227181
+data.zbzo.txt 4.077712785060798
+data.zdji.txt 4.077712785060798
+data.zdkk.txt 2.5727503226135906
+data.zdlo.txt 5.145500645227181
+data.zedd.txt 7.222623281414552
+data.zeyy.txt 5.97374125520702
+data.zezm.txt 4.077712785060798

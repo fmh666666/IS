@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zbsl.txt 1
-data.zbua.txt 11
-data.zcue.txt 1
-data.zevt.txt 1
+data.zalt.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zbua.txt 11.597570173985197
+data.zcue.txt 3.235060386727117
+data.zevt.txt 3.235060386727117

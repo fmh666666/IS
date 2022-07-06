@@ -1,8 +1,8 @@
 7
-data.ff.txt 1
-data.uz.txt 1
-data.zaqw.txt 1
-data.zcyv.txt 1
-data.zdcw.txt 1
-data.zdod.txt 1
-data.zevq.txt 1
+data.ff.txt 3.0018356045764243
+data.uz.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zcyv.txt 3.0018356045764243
+data.zdcw.txt 3.0018356045764243
+data.zdod.txt 3.0018356045764243
+data.zevq.txt 3.0018356045764243

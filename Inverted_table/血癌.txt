@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.to.txt 1
-data.zacw.txt 1
-data.zajo.txt 1
-data.zbel.txt 1
-data.zcmy.txt 1
-data.zdey.txt 1
-data.zdof.txt 1
+data.bb.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zdey.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935

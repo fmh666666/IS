@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.fz.txt 1
-data.zaqp.txt 1
-data.zcjo.txt 5
-data.zdaa.txt 1
-data.zeos.txt 1
+data.dg.txt 3.1086847136800873
+data.fz.txt 3.1086847136800873
+data.zaqp.txt 3.1086847136800873
+data.zcjo.txt 8.03583341142811
+data.zdaa.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873

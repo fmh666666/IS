@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zcgo.txt 1
-data.zdoq.txt 1
+data.zabe.txt 3.5891377275982888
+data.zcgo.txt 3.5891377275982888
+data.zdoq.txt 3.5891377275982888

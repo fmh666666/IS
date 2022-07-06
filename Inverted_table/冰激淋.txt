@@ -1,13 +1,13 @@
 12
-data.hc.txt 3
-data.zall.txt 3
-data.zazg.txt 4
-data.zblh.txt 1
-data.zbru.txt 8
-data.zbup.txt 1
-data.zcdv.txt 2
-data.zcqe.txt 1
-data.zddb.txt 1
-data.zdwn.txt 1
-data.zevt.txt 1
-data.zezm.txt 1
+data.hc.txt 5.256463399523772
+data.zall.txt 5.256463399523772
+data.zazg.txt 6.1025650235506905
+data.zblh.txt 2.628231699761886
+data.zbru.txt 8.331297374658428
+data.zbup.txt 2.628231699761886
+data.zcdv.txt 4.165648687329214
+data.zcqe.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdwn.txt 2.628231699761886
+data.zevt.txt 2.628231699761886
+data.zezm.txt 2.628231699761886

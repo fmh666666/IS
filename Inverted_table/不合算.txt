@@ -1,7 +1,7 @@
 6
-data.pn.txt 1
-data.zasw.txt 2
-data.zbfz.txt 1
-data.zcgo.txt 1
-data.zdzi.txt 1
-data.zerw.txt 1
+data.pn.txt 3.1086847136800873
+data.zasw.txt 4.927148697748023
+data.zbfz.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zdzi.txt 3.1086847136800873
+data.zerw.txt 3.1086847136800873

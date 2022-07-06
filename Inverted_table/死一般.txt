@@ -1,5 +1,5 @@
 4
-data.zbqu.txt 1
-data.zcej.txt 1
-data.zdlm.txt 1
-data.zdst.txt 1
+data.zbqu.txt 3.389731710180695
+data.zcej.txt 3.389731710180695
+data.zdlm.txt 3.389731710180695
+data.zdst.txt 3.389731710180695

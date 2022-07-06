@@ -1,11 +1,11 @@
 10
-data.hz.txt 1
-data.zauy.txt 2
-data.zbcc.txt 2
-data.zbjk.txt 1
-data.zcue.txt 1
-data.zcxq.txt 3
-data.zduo.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zexm.txt 1
+data.hz.txt 2.7546073728089153
+data.zauy.txt 4.365949390112154
+data.zbcc.txt 4.365949390112154
+data.zbjk.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zcxq.txt 5.509214745617831
+data.zduo.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zexm.txt 2.7546073728089153

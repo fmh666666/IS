@@ -1,9 +1,9 @@
 8
-data.ga.txt 2
-data.zadv.txt 1
-data.zaim.txt 1
-data.zbdx.txt 1
-data.zbpx.txt 2
-data.zcse.txt 1
-data.zctp.txt 1
-data.zdkp.txt 1
+data.ga.txt 4.611097637722987
+data.zadv.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zbdx.txt 2.9092786962624935
+data.zbpx.txt 4.611097637722987
+data.zcse.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935

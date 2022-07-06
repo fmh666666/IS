@@ -1,6 +1,6 @@
 5
-data.zadv.txt 3
-data.zcon.txt 2
-data.zdwk.txt 1
-data.zeds.txt 1
-data.zfae.txt 2
+data.zadv.txt 6.470120773454234
+data.zcon.txt 5.1274494005309625
+data.zdwk.txt 3.235060386727117
+data.zeds.txt 3.235060386727117
+data.zfae.txt 5.1274494005309625

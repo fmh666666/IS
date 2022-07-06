@@ -1,7 +1,7 @@
 6
-data.zcon.txt 1
-data.zddl.txt 1
-data.zefp.txt 1
-data.zeqv.txt 2
-data.zexv.txt 1
-data.zfai.txt 1
+data.zcon.txt 3.1086847136800873
+data.zddl.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873
+data.zeqv.txt 4.927148697748023
+data.zexv.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

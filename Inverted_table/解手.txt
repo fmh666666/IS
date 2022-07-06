@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zazn.txt 1
-data.zdeb.txt 1
-data.zfaz.txt 1
+data.op.txt 3.389731710180695
+data.zazn.txt 3.389731710180695
+data.zdeb.txt 3.389731710180695
+data.zfaz.txt 3.389731710180695

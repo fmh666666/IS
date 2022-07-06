@@ -1,12 +1,12 @@
 11
-data.kt.txt 1
-data.tv.txt 1
-data.ye.txt 1
-data.zabe.txt 1
-data.zarc.txt 1
-data.zbjk.txt 1
-data.zbkj.txt 1
-data.zbnx.txt 1
-data.zbvm.txt 1
-data.zcsu.txt 1
-data.zexk.txt 1
+data.kt.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.ye.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zarc.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zexk.txt 2.6885433903988862

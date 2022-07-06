@@ -1,9 +1,9 @@
 8
-data.wg.txt 2
-data.zblr.txt 1
-data.zcnn.txt 1
-data.zdaq.txt 4
-data.zdar.txt 6
-data.zdsh.txt 1
-data.zeam.txt 1
-data.zeva.txt 1
+data.wg.txt 4.611097637722987
+data.zblr.txt 2.9092786962624935
+data.zcnn.txt 2.9092786962624935
+data.zdaq.txt 6.7551359407091605
+data.zdar.txt 8.16737786758984
+data.zdsh.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zeva.txt 2.9092786962624935

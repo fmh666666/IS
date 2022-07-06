@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.gw.txt 1
-data.zazo.txt 1
-data.zbia.txt 1
-data.zbla.txt 1
-data.zbph.txt 1
-data.zchd.txt 1
-data.zdhw.txt 1
-data.zedx.txt 1
-data.zexx.txt 1
-data.zeyu.txt 1
+data.dg.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zbia.txt 2.6885433903988862
+data.zbla.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zchd.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862

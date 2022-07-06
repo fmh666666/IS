@@ -1,5 +1,5 @@
 4
-data.fz.txt 1
-data.pn.txt 1
-data.zbsl.txt 1
-data.zehj.txt 1
+data.fz.txt 3.389731710180695
+data.pn.txt 3.389731710180695
+data.zbsl.txt 3.389731710180695
+data.zehj.txt 3.389731710180695

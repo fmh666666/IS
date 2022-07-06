@@ -1,6 +1,6 @@
 5
-data.zaqp.txt 1
-data.zbgu.txt 1
-data.zbre.txt 1
-data.zbvg.txt 1
-data.zcvt.txt 1
+data.zaqp.txt 3.235060386727117
+data.zbgu.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zbvg.txt 3.235060386727117
+data.zcvt.txt 3.235060386727117

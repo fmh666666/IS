@@ -1,7 +1,7 @@
 6
-data.yx.txt 1
-data.zadv.txt 1
-data.zaet.txt 1
-data.zbor.txt 1
-data.zczp.txt 1
-data.zelt.txt 1
+data.yx.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zaet.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

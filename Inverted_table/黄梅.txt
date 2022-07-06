@@ -1,10 +1,10 @@
 9
-data.ok.txt 1
-data.zagb.txt 1
-data.zavx.txt 2
-data.zbha.txt 1
-data.zbvn.txt 2
-data.zclm.txt 1
-data.zdpw.txt 1
-data.zeid.txt 1
-data.zeoh.txt 1
+data.ok.txt 2.82763771717948
+data.zagb.txt 2.82763771717948
+data.zavx.txt 4.48169974735425
+data.zbha.txt 2.82763771717948
+data.zbvn.txt 4.48169974735425
+data.zclm.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zeid.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

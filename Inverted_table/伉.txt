@@ -1,3 +1,3 @@
 2
-data.zcmx.txt 1
-data.zdoc.txt 1
+data.zcmx.txt 3.8701847240988965
+data.zdoc.txt 3.8701847240988965

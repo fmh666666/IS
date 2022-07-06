@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zarr.txt 1
-data.zbsf.txt 1
-data.zdji.txt 1
-data.zdkk.txt 1
+data.gw.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zdkk.txt 3.235060386727117

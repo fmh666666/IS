@@ -1,10 +1,10 @@
 9
-data.jf.txt 2
-data.zabe.txt 1
-data.zazn.txt 1
-data.zbeb.txt 1
-data.zbla.txt 1
-data.zcem.txt 1
-data.zcue.txt 1
-data.zene.txt 1
-data.zeve.txt 2
+data.jf.txt 4.48169974735425
+data.zabe.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zeve.txt 4.48169974735425

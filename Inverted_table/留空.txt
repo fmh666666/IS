@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zcdy.txt 1
-data.zchd.txt 1
-data.zenn.txt 1
-data.zezn.txt 1
-data.zfai.txt 1
+data.bb.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zchd.txt 3.1086847136800873
+data.zenn.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

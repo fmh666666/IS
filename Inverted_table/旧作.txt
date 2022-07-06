@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zasr.txt 1
-data.zaxj.txt 1
-data.zbeb.txt 1
-data.zcku.txt 1
+data.zajh.txt 3.235060386727117
+data.zasr.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zcku.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zbpx.txt 1
-data.zcdy.txt 2
-data.zcjd.txt 1
-data.zdgo.txt 1
+data.zaim.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zcjd.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117

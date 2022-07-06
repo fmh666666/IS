@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zaxx.txt 1
-data.zcll.txt 2
-data.zdaq.txt 1
-data.zehb.txt 2
+data.zaxp.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zcll.txt 5.1274494005309625
+data.zdaq.txt 3.235060386727117
+data.zehb.txt 5.1274494005309625

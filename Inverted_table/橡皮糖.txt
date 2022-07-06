@@ -1,8 +1,8 @@
 7
-data.fe.txt 1
-data.zalm.txt 3
-data.zaqw.txt 1
-data.zcrn.txt 1
-data.zdkk.txt 1
-data.zdof.txt 1
-data.zfaz.txt 1
+data.fe.txt 3.0018356045764243
+data.zalm.txt 6.003671209152849
+data.zaqw.txt 3.0018356045764243
+data.zcrn.txt 3.0018356045764243
+data.zdkk.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zfaz.txt 3.0018356045764243

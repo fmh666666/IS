@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.jj.txt 1
-data.zapl.txt 1
-data.zbhd.txt 5
-data.zbia.txt 1
-data.zbkv.txt 2
-data.zczb.txt 1
-data.zebc.txt 1
-data.zegn.txt 1
+data.bs.txt 2.82763771717948
+data.jj.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zbhd.txt 7.309337464533731
+data.zbia.txt 2.82763771717948
+data.zbkv.txt 4.48169974735425
+data.zczb.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zegn.txt 2.82763771717948

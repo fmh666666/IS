@@ -1,5 +1,5 @@
 4
-data.zaqw.txt 1
-data.zcjy.txt 1
-data.zcli.txt 1
-data.zeyy.txt 1
+data.zaqw.txt 3.389731710180695
+data.zcjy.txt 3.389731710180695
+data.zcli.txt 3.389731710180695
+data.zeyy.txt 3.389731710180695

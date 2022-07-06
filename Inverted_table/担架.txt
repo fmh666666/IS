@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.mx.txt 1
-data.zbsd.txt 1
-data.zbse.txt 1
-data.zbvg.txt 1
-data.zciq.txt 1
-data.zciy.txt 2
-data.zcvq.txt 1
-data.zddp.txt 1
+data.aj.txt 2.82763771717948
+data.mx.txt 2.82763771717948
+data.zbsd.txt 2.82763771717948
+data.zbse.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zciq.txt 2.82763771717948
+data.zciy.txt 4.48169974735425
+data.zcvq.txt 2.82763771717948
+data.zddp.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.zbsl.txt 1
-data.zbvn.txt 1
-data.zcdy.txt 1
-data.zclm.txt 3
-data.zcln.txt 2
-data.zcsu.txt 1
-data.zctp.txt 2
-data.zdeb.txt 1
-data.zdwn.txt 4
-data.zdzi.txt 1
-data.zdzm.txt 2
+data.zbsl.txt 2.6885433903988862
+data.zbvn.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zclm.txt 5.3770867807977725
+data.zcln.txt 4.261240455343955
+data.zcsu.txt 2.6885433903988862
+data.zctp.txt 4.261240455343955
+data.zdeb.txt 2.6885433903988862
+data.zdwn.txt 6.2426044324908965
+data.zdzi.txt 2.6885433903988862
+data.zdzm.txt 4.261240455343955

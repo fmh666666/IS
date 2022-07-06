@@ -1,12 +1,12 @@
 11
-data.zafy.txt 1
-data.zbse.txt 1
-data.zbyb.txt 1
-data.zcqp.txt 1
-data.zcve.txt 1
-data.zdgv.txt 1
-data.zdoc.txt 1
-data.zdwv.txt 1
-data.zeaj.txt 1
-data.zerv.txt 1
-data.zevq.txt 3
+data.zafy.txt 2.6885433903988862
+data.zbse.txt 2.6885433903988862
+data.zbyb.txt 2.6885433903988862
+data.zcqp.txt 2.6885433903988862
+data.zcve.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zdoc.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zeaj.txt 2.6885433903988862
+data.zerv.txt 2.6885433903988862
+data.zevq.txt 5.3770867807977725

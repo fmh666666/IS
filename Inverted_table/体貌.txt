@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.zabe.txt 1
-data.zaql.txt 1
-data.zbcj.txt 1
-data.zcoy.txt 1
-data.zdkc.txt 1
-data.zehj.txt 1
-data.zesq.txt 1
+data.ft.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zaql.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcoy.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zehj.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935

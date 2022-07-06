@@ -1,13 +1,13 @@
 12
-data.ka.txt 1
-data.wc.txt 1
-data.zagr.txt 1
-data.zbor.txt 1
-data.zbzf.txt 1
-data.zcgi.txt 1
-data.zcic.txt 1
-data.zcql.txt 1
-data.zdlg.txt 1
-data.zdqk.txt 1
-data.zdzm.txt 1
-data.zdzn.txt 1
+data.ka.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zdlg.txt 2.628231699761886
+data.zdqk.txt 2.628231699761886
+data.zdzm.txt 2.628231699761886
+data.zdzn.txt 2.628231699761886

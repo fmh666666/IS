@@ -1,7 +1,7 @@
 6
-data.zbcj.txt 2
-data.zbsm.txt 1
-data.zbvg.txt 1
-data.zbwa.txt 1
-data.zfaj.txt 1
-data.zfby.txt 1
+data.zbcj.txt 4.927148697748023
+data.zbsm.txt 3.1086847136800873
+data.zbvg.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

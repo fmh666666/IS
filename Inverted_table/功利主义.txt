@@ -1,6 +1,6 @@
 5
-data.zbpm.txt 1
-data.zbrj.txt 1
-data.zddl.txt 1
-data.zdgv.txt 1
-data.zeoh.txt 1
+data.zbpm.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zddl.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

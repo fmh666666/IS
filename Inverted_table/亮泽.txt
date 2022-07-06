@@ -1,12 +1,12 @@
 11
-data.ee.txt 1
-data.xe.txt 1
-data.zair.txt 1
-data.zbor.txt 1
-data.zbru.txt 2
-data.zcoy.txt 1
-data.zdep.txt 1
-data.zdkp.txt 1
-data.zedx.txt 2
-data.zeel.txt 1
-data.zexk.txt 2
+data.ee.txt 2.6885433903988862
+data.xe.txt 2.6885433903988862
+data.zair.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zbru.txt 4.261240455343955
+data.zcoy.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zdkp.txt 2.6885433903988862
+data.zedx.txt 4.261240455343955
+data.zeel.txt 2.6885433903988862
+data.zexk.txt 4.261240455343955

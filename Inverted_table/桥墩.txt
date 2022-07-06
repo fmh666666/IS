@@ -1,11 +1,11 @@
 10
-data.zbcj.txt 3
-data.zbdx.txt 1
-data.zbgu.txt 1
-data.zbnp.txt 3
-data.zciq.txt 1
-data.zcll.txt 1
-data.zcon.txt 2
-data.zcpa.txt 1
-data.zcue.txt 1
-data.zene.txt 1
+data.zbcj.txt 5.509214745617831
+data.zbdx.txt 2.7546073728089153
+data.zbgu.txt 2.7546073728089153
+data.zbnp.txt 5.509214745617831
+data.zciq.txt 2.7546073728089153
+data.zcll.txt 2.7546073728089153
+data.zcon.txt 4.365949390112154
+data.zcpa.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

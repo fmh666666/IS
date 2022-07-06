@@ -1,6 +1,6 @@
 5
-data.xk.txt 1
-data.zaoy.txt 1
-data.zbel.txt 1
-data.zbsu.txt 1
-data.zene.txt 1
+data.xk.txt 3.235060386727117
+data.zaoy.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zbsu.txt 3.235060386727117
+data.zene.txt 3.235060386727117

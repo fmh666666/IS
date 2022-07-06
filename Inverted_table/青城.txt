@@ -1,11 +1,11 @@
 10
-data.ep.txt 1
-data.zamp.txt 1
-data.zaxj.txt 1
-data.zbel.txt 1
-data.zbfx.txt 1
-data.zbsu.txt 1
-data.zcis.txt 1
-data.zdcw.txt 1
-data.zeqv.txt 1
-data.zexk.txt 2
+data.ep.txt 2.7546073728089153
+data.zamp.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zbel.txt 2.7546073728089153
+data.zbfx.txt 2.7546073728089153
+data.zbsu.txt 2.7546073728089153
+data.zcis.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153
+data.zexk.txt 4.365949390112154

@@ -1,6 +1,6 @@
 5
-data.zbjk.txt 1
-data.zccu.txt 1
-data.zdkv.txt 2
-data.zdxw.txt 2
-data.zemf.txt 1
+data.zbjk.txt 3.235060386727117
+data.zccu.txt 3.235060386727117
+data.zdkv.txt 5.1274494005309625
+data.zdxw.txt 5.1274494005309625
+data.zemf.txt 3.235060386727117

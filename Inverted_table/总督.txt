@@ -1,14 +1,14 @@
 13
-data.mt.txt 1
-data.op.txt 2
-data.vi.txt 1
-data.zaeh.txt 1
-data.zbkv.txt 1
-data.zbpx.txt 1
-data.zcts.txt 1
-data.zcuh.txt 1
-data.zcxq.txt 1
-data.zcxr.txt 1
-data.zdpw.txt 1
-data.zehb.txt 1
-data.zeqh.txt 3
+data.mt.txt 2.5727503226135906
+data.op.txt 4.077712785060798
+data.vi.txt 2.5727503226135906
+data.zaeh.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcts.txt 2.5727503226135906
+data.zcuh.txt 2.5727503226135906
+data.zcxq.txt 2.5727503226135906
+data.zcxr.txt 2.5727503226135906
+data.zdpw.txt 2.5727503226135906
+data.zehb.txt 2.5727503226135906
+data.zeqh.txt 5.145500645227181

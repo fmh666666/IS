@@ -1,8 +1,8 @@
 7
-data.zamp.txt 1
-data.zanh.txt 1
-data.zcfn.txt 1
-data.zdhw.txt 1
-data.zdlw.txt 1
-data.zdzi.txt 1
-data.zefu.txt 1
+data.zamp.txt 3.0018356045764243
+data.zanh.txt 3.0018356045764243
+data.zcfn.txt 3.0018356045764243
+data.zdhw.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zdzi.txt 3.0018356045764243
+data.zefu.txt 3.0018356045764243

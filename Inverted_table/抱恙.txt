@@ -1,6 +1,6 @@
 5
-data.zabj.txt 1
-data.zasy.txt 1
-data.zbeb.txt 1
-data.zbpm.txt 1
-data.zelj.txt 1
+data.zabj.txt 3.235060386727117
+data.zasy.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zelj.txt 3.235060386727117

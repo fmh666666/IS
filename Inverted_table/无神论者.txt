@@ -1,11 +1,11 @@
 10
-data.vi.txt 1
-data.zahd.txt 1
-data.zawc.txt 1
-data.zbfz.txt 3
-data.zcdv.txt 1
-data.zcel.txt 1
-data.zddv.txt 2
-data.zdoc.txt 1
-data.zenw.txt 1
-data.zeve.txt 1
+data.vi.txt 2.7546073728089153
+data.zahd.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbfz.txt 5.509214745617831
+data.zcdv.txt 2.7546073728089153
+data.zcel.txt 2.7546073728089153
+data.zddv.txt 4.365949390112154
+data.zdoc.txt 2.7546073728089153
+data.zenw.txt 2.7546073728089153
+data.zeve.txt 2.7546073728089153

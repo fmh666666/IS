@@ -1,7 +1,7 @@
 6
-data.zalj.txt 3
-data.zapl.txt 1
-data.zbla.txt 1
-data.zcdz.txt 1
-data.zebv.txt 2
-data.zeoh.txt 3
+data.zalj.txt 6.2173694273601745
+data.zapl.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zebv.txt 4.927148697748023
+data.zeoh.txt 6.2173694273601745

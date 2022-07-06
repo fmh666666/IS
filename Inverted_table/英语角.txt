@@ -1,6 +1,6 @@
 5
-data.xk.txt 1
-data.zajn.txt 2
-data.zbha.txt 1
-data.zeam.txt 1
-data.zfaw.txt 1
+data.xk.txt 3.235060386727117
+data.zajn.txt 5.1274494005309625
+data.zbha.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

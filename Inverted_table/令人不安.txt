@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zblh.txt 1
-data.zbsf.txt 1
-data.zcku.txt 1
-data.zcni.txt 1
+data.hz.txt 3.235060386727117
+data.zblh.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zcku.txt 3.235060386727117
+data.zcni.txt 3.235060386727117

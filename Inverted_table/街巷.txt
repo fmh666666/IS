@@ -1,10 +1,10 @@
 9
-data.zawc.txt 1
-data.zbdx.txt 1
-data.zbhe.txt 1
-data.zbls.txt 1
-data.zcak.txt 3
-data.zcrv.txt 1
-data.zdlo.txt 1
-data.zeeh.txt 1
-data.zeqv.txt 1
+data.zawc.txt 2.82763771717948
+data.zbdx.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zbls.txt 2.82763771717948
+data.zcak.txt 5.65527543435896
+data.zcrv.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948
+data.zeeh.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

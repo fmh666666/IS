@@ -1,8 +1,8 @@
 7
-data.zcby.txt 2
-data.zdil.txt 2
-data.zdlw.txt 1
-data.zdux.txt 5
-data.zedo.txt 1
-data.zfai.txt 3
-data.zfaj.txt 2
+data.zcby.txt 4.757796866583254
+data.zdil.txt 4.757796866583254
+data.zdlw.txt 3.0018356045764243
+data.zdux.txt 7.759632471159678
+data.zedo.txt 3.0018356045764243
+data.zfai.txt 6.003671209152849
+data.zfaj.txt 4.757796866583254

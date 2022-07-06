@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zcih.txt 1
-data.zcsu.txt 1
-data.zdro.txt 1
-data.zexv.txt 1
+data.zagr.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zdro.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

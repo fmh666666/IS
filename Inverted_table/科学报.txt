@@ -1,3 +1,3 @@
 2
-data.gw.txt 3
-data.zctp.txt 1
+data.gw.txt 7.740369448197793
+data.zctp.txt 3.8701847240988965

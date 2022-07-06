@@ -1,10 +1,10 @@
 9
-data.tv.txt 1
-data.vi.txt 1
-data.zbfz.txt 1
-data.zcxr.txt 1
-data.zdlw.txt 3
-data.zdoq.txt 1
-data.zdro.txt 1
-data.zene.txt 1
-data.zfaj.txt 1
+data.tv.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdlw.txt 5.65527543435896
+data.zdoq.txt 2.82763771717948
+data.zdro.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

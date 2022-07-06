@@ -1,4 +1,4 @@
 3
-data.op.txt 7
-data.zblq.txt 1
-data.zcsu.txt 2
+data.op.txt 10.767413182794865
+data.zblq.txt 3.5891377275982888
+data.zcsu.txt 5.688648708166832

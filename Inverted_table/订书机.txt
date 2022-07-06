@@ -1,6 +1,6 @@
 5
-data.kt.txt 4
-data.zaxj.txt 1
-data.zazn.txt 1
-data.zbcc.txt 1
-data.zcfn.txt 1
+data.kt.txt 7.511577600598868
+data.zaxj.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117

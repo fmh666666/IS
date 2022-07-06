@@ -1,10 +1,10 @@
 9
-data.ft.txt 1
-data.zawo.txt 1
-data.zcak.txt 1
-data.zcue.txt 1
-data.zdby.txt 1
-data.zdeq.txt 1
-data.zeai.txt 1
-data.zekw.txt 2
-data.zevq.txt 1
+data.ft.txt 2.82763771717948
+data.zawo.txt 2.82763771717948
+data.zcak.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdby.txt 2.82763771717948
+data.zdeq.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zekw.txt 4.48169974735425
+data.zevq.txt 2.82763771717948

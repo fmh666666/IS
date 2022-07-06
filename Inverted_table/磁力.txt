@@ -1,3 +1,3 @@
 2
-data.zate.txt 2
-data.zdqq.txt 2
+data.zate.txt 6.134097658560606
+data.zdqq.txt 6.134097658560606

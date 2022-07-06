@@ -1,3 +1,3 @@
 2
-data.zcts.txt 4
-data.zdpw.txt 1
+data.zcts.txt 8.986290643289122
+data.zdpw.txt 3.8701847240988965

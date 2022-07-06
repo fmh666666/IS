@@ -1,5 +1,5 @@
 4
-data.zasj.txt 1
-data.zcdy.txt 3
-data.zcdz.txt 1
-data.zeec.txt 1
+data.zasj.txt 3.389731710180695
+data.zcdy.txt 6.77946342036139
+data.zcdz.txt 3.389731710180695
+data.zeec.txt 3.389731710180695

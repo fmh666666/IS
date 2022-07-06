@@ -1,9 +1,9 @@
 8
-data.ff.txt 1
-data.jf.txt 1
-data.ok.txt 1
-data.zalj.txt 1
-data.zbga.txt 1
-data.zcko.txt 2
-data.zcqs.txt 1
-data.zdpz.txt 1
+data.ff.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zcko.txt 4.611097637722987
+data.zcqs.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935

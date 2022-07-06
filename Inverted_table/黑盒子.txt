@@ -1,12 +1,12 @@
 11
-data.gk.txt 2
-data.zbhe.txt 3
-data.zbof.txt 1
-data.zcfn.txt 1
-data.zcqs.txt 1
-data.zdar.txt 2
-data.zdlm.txt 3
-data.zexv.txt 1
-data.zfai.txt 1
-data.zfcp.txt 2
-data.zfdk.txt 2
+data.gk.txt 4.261240455343955
+data.zbhe.txt 5.3770867807977725
+data.zbof.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zdar.txt 4.261240455343955
+data.zdlm.txt 5.3770867807977725
+data.zexv.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862
+data.zfcp.txt 4.261240455343955
+data.zfdk.txt 4.261240455343955

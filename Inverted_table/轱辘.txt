@@ -1,6 +1,6 @@
 5
-data.zcih.txt 1
-data.zdep.txt 1
-data.zdzn.txt 1
-data.zeeh.txt 1
-data.zejk.txt 1
+data.zcih.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zejk.txt 3.235060386727117

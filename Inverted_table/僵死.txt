@@ -1,4 +1,4 @@
 3
-data.pn.txt 1
-data.zacd.txt 1
-data.zbhd.txt 1
+data.pn.txt 3.5891377275982888
+data.zacd.txt 3.5891377275982888
+data.zbhd.txt 3.5891377275982888

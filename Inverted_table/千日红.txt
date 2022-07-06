@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.ee.txt 1
-data.jd.txt 1
-data.xe.txt 1
-data.zahp.txt 1
-data.zbhe.txt 1
-data.zcdl.txt 1
-data.zcxr.txt 1
-data.zdby.txt 1
-data.zdle.txt 1
-data.zdzi.txt 1
-data.zeds.txt 1
+data.bb.txt 2.628231699761886
+data.ee.txt 2.628231699761886
+data.jd.txt 2.628231699761886
+data.xe.txt 2.628231699761886
+data.zahp.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zcdl.txt 2.628231699761886
+data.zcxr.txt 2.628231699761886
+data.zdby.txt 2.628231699761886
+data.zdle.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886
+data.zeds.txt 2.628231699761886

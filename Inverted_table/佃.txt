@@ -1,6 +1,6 @@
 5
-data.zbjc.txt 2
-data.zcfn.txt 1
-data.zcih.txt 1
-data.zdlw.txt 1
-data.zdqk.txt 2
+data.zbjc.txt 5.1274494005309625
+data.zcfn.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117
+data.zdqk.txt 5.1274494005309625

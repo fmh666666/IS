@@ -1,5 +1,5 @@
 4
-data.zafi.txt 1
-data.zbls.txt 1
-data.zdlg.txt 1
-data.zesi.txt 2
+data.zafi.txt 3.389731710180695
+data.zbls.txt 3.389731710180695
+data.zdlg.txt 3.389731710180695
+data.zesi.txt 5.372597648141796

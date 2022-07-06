@@ -1,11 +1,11 @@
 10
-data.ok.txt 1
-data.op.txt 1
-data.zaet.txt 1
-data.zafl.txt 1
-data.zajo.txt 1
-data.zbpx.txt 2
-data.zcvt.txt 1
-data.zedd.txt 1
-data.zeoh.txt 5
-data.zexv.txt 1
+data.ok.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zaet.txt 2.7546073728089153
+data.zafl.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zbpx.txt 4.365949390112154
+data.zcvt.txt 2.7546073728089153
+data.zedd.txt 2.7546073728089153
+data.zeoh.txt 7.120556762921068
+data.zexv.txt 2.7546073728089153

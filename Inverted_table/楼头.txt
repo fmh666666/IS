@@ -1,4 +1,4 @@
 3
-data.zadv.txt 13
-data.zawc.txt 1
-data.zfaz.txt 1
+data.zadv.txt 13.665121193113988
+data.zawc.txt 3.5891377275982888
+data.zfaz.txt 3.5891377275982888

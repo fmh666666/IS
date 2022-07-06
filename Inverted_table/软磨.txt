@@ -1,9 +1,9 @@
 8
-data.pa.txt 1
-data.pq.txt 1
-data.tv.txt 1
-data.zabx.txt 1
-data.zacw.txt 1
-data.zcpx.txt 1
-data.zeid.txt 1
-data.zfaz.txt 1
+data.pa.txt 2.9092786962624935
+data.pq.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zeid.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

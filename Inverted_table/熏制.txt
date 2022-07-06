@@ -1,4 +1,4 @@
 3
-data.zcue.txt 1
-data.zddb.txt 2
-data.zdmw.txt 1
+data.zcue.txt 3.5891377275982888
+data.zddb.txt 5.688648708166832
+data.zdmw.txt 3.5891377275982888

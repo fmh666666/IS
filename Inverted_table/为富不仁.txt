@@ -1,2 +1,2 @@
 1
-data.zank.txt 1
+data.zank.txt 4.350637738017098

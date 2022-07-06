@@ -1,8 +1,8 @@
 7
-data.zabe.txt 2
-data.zafk.txt 1
-data.zbeb.txt 3
-data.zbgw.txt 1
-data.zdlo.txt 1
-data.zeoh.txt 1
-data.zeqh.txt 1
+data.zabe.txt 4.757796866583254
+data.zafk.txt 3.0018356045764243
+data.zbeb.txt 6.003671209152849
+data.zbgw.txt 3.0018356045764243
+data.zdlo.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243
+data.zeqh.txt 3.0018356045764243

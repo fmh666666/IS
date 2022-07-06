@@ -1,6 +1,6 @@
 5
-data.zcdg.txt 1
-data.zdzn.txt 1
-data.zeds.txt 1
-data.zefp.txt 1
-data.zefw.txt 1
+data.zcdg.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zeds.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zefw.txt 3.235060386727117

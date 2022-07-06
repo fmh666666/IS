@@ -1,7 +1,7 @@
 6
-data.zako.txt 1
-data.zcby.txt 2
-data.zcdv.txt 1
-data.zcxq.txt 1
-data.zedd.txt 2
-data.zfby.txt 1
+data.zako.txt 3.1086847136800873
+data.zcby.txt 4.927148697748023
+data.zcdv.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zedd.txt 4.927148697748023
+data.zfby.txt 3.1086847136800873

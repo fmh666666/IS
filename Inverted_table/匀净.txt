@@ -1,4 +1,4 @@
 3
-data.zawo.txt 1
-data.zbkr.txt 2
-data.zeoo.txt 1
+data.zawo.txt 3.5891377275982888
+data.zbkr.txt 5.688648708166832
+data.zeoo.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zbkv.txt 1
-data.zbvm.txt 3
-data.zeqn.txt 1
-data.zesi.txt 2
+data.zagr.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zbvm.txt 6.470120773454234
+data.zeqn.txt 3.235060386727117
+data.zesi.txt 5.1274494005309625

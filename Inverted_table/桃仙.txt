@@ -1,6 +1,6 @@
 5
-data.zabx.txt 1
-data.zaqr.txt 1
-data.zdju.txt 1
-data.zeds.txt 1
-data.zfaj.txt 1
+data.zabx.txt 3.235060386727117
+data.zaqr.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zeds.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

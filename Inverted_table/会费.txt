@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.xk.txt 1
-data.zahd.txt 1
-data.zbnp.txt 1
-data.zbpx.txt 5
-data.zcem.txt 1
-data.zcmy.txt 2
-data.zcni.txt 2
+data.bb.txt 2.9092786962624935
+data.xk.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zbnp.txt 2.9092786962624935
+data.zbpx.txt 7.52037633398548
+data.zcem.txt 2.9092786962624935
+data.zcmy.txt 4.611097637722987
+data.zcni.txt 4.611097637722987

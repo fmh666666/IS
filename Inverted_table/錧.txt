@@ -1,9 +1,9 @@
 8
-data.fz.txt 1
-data.ha.txt 2
-data.sq.txt 1
-data.zahd.txt 1
-data.zazn.txt 1
-data.zccl.txt 1
-data.zccu.txt 1
-data.zczl.txt 1
+data.fz.txt 2.9092786962624935
+data.ha.txt 4.611097637722987
+data.sq.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zccl.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935

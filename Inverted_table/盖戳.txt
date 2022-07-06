@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zbcc.txt 1
-data.zeun.txt 1
+data.ye.txt 3.5891377275982888
+data.zbcc.txt 3.5891377275982888
+data.zeun.txt 3.5891377275982888

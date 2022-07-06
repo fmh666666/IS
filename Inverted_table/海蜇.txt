@@ -1,12 +1,12 @@
 11
-data.cq.txt 4
-data.ry.txt 4
-data.zadv.txt 1
-data.zawc.txt 1
-data.zbaq.txt 1
-data.zbcv.txt 1
-data.zbsl.txt 1
-data.zbvn.txt 1
-data.zcts.txt 1
-data.zemf.txt 2
-data.zeqh.txt 1
+data.cq.txt 6.2426044324908965
+data.ry.txt 6.2426044324908965
+data.zadv.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbaq.txt 2.6885433903988862
+data.zbcv.txt 2.6885433903988862
+data.zbsl.txt 2.6885433903988862
+data.zbvn.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zemf.txt 4.261240455343955
+data.zeqh.txt 2.6885433903988862

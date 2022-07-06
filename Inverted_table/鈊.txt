@@ -1,8 +1,8 @@
 7
-data.mi.txt 1
-data.zbtx.txt 1
-data.zbye.txt 1
-data.zcby.txt 45
-data.zdgt.txt 1
-data.zexx.txt 2
-data.zfcg.txt 1
+data.mi.txt 3.0018356045764243
+data.zbtx.txt 3.0018356045764243
+data.zbye.txt 3.0018356045764243
+data.zcby.txt 16.580824943775742
+data.zdgt.txt 3.0018356045764243
+data.zexx.txt 4.757796866583254
+data.zfcg.txt 3.0018356045764243

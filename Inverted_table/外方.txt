@@ -1,4 +1,4 @@
 3
-data.zasd.txt 2
-data.zblh.txt 1
-data.zdzg.txt 2
+data.zasd.txt 5.688648708166832
+data.zblh.txt 3.5891377275982888
+data.zdzg.txt 5.688648708166832

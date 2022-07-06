@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.ng.txt 1
-data.zcwq.txt 1
-data.zcxp.txt 1
-data.zenw.txt 1
-data.zfcj.txt 2
+data.fp.txt 3.1086847136800873
+data.ng.txt 3.1086847136800873
+data.zcwq.txt 3.1086847136800873
+data.zcxp.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873
+data.zfcj.txt 4.927148697748023

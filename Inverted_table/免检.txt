@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zbcj.txt 2
-data.zcmv.txt 1
-data.zdby.txt 1
-data.zedx.txt 1
-data.zejn.txt 2
+data.hp.txt 3.1086847136800873
+data.zbcj.txt 4.927148697748023
+data.zcmv.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873
+data.zejn.txt 4.927148697748023

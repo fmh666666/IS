@@ -1,6 +1,6 @@
 5
-data.qb.txt 3
-data.zabe.txt 1
-data.zbfz.txt 1
-data.zeob.txt 1
-data.zeqh.txt 1
+data.qb.txt 6.470120773454234
+data.zabe.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zeob.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

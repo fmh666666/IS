@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zasq.txt 1
-data.zejk.txt 2
+data.fp.txt 3.5891377275982888
+data.zasq.txt 3.5891377275982888
+data.zejk.txt 5.688648708166832

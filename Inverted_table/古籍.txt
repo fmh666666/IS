@@ -1,12 +1,12 @@
 11
-data.mt.txt 1
-data.op.txt 1
-data.pa.txt 1
-data.vi.txt 1
-data.zadv.txt 2
-data.zaql.txt 1
-data.zaxj.txt 4
-data.zaxk.txt 1
-data.zbnx.txt 1
-data.zcvt.txt 3
-data.zdzn.txt 1
+data.mt.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.vi.txt 2.6885433903988862
+data.zadv.txt 4.261240455343955
+data.zaql.txt 2.6885433903988862
+data.zaxj.txt 6.2426044324908965
+data.zaxk.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcvt.txt 5.3770867807977725
+data.zdzn.txt 2.6885433903988862

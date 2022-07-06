@@ -1,4 +1,4 @@
 3
-data.gw.txt 2
-data.zbux.txt 1
-data.zcjy.txt 1
+data.gw.txt 5.688648708166832
+data.zbux.txt 3.5891377275982888
+data.zcjy.txt 3.5891377275982888

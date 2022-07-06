@@ -1,4 +1,4 @@
 3
-data.ok.txt 1
-data.zdcj.txt 1
-data.zfai.txt 1
+data.ok.txt 3.5891377275982888
+data.zdcj.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.zaic.txt 1
-data.zbla.txt 1
-data.zcee.txt 1
-data.zdwv.txt 1
+data.zaic.txt 3.389731710180695
+data.zbla.txt 3.389731710180695
+data.zcee.txt 3.389731710180695
+data.zdwv.txt 3.389731710180695

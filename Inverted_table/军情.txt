@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zbaq.txt 1
-data.zbgu.txt 2
-data.zebf.txt 1
-data.zfae.txt 1
-data.zfaj.txt 2
+data.zawc.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zbgu.txt 4.927148697748023
+data.zebf.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873
+data.zfaj.txt 4.927148697748023

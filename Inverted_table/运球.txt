@@ -1,13 +1,13 @@
 12
-data.mx.txt 1
-data.tj.txt 1
-data.zarc.txt 1
-data.zass.txt 2
-data.zayc.txt 1
-data.zbfg.txt 1
-data.zbor.txt 1
-data.zbuj.txt 1
-data.zcrg.txt 1
-data.zdaw.txt 1
-data.zehb.txt 2
-data.zeun.txt 1
+data.mx.txt 2.628231699761886
+data.tj.txt 2.628231699761886
+data.zarc.txt 2.628231699761886
+data.zass.txt 4.165648687329214
+data.zayc.txt 2.628231699761886
+data.zbfg.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbuj.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zehb.txt 4.165648687329214
+data.zeun.txt 2.628231699761886

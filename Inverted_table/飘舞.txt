@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zabx.txt 1
-data.zbds.txt 1
-data.zbeb.txt 1
-data.zddl.txt 1
-data.zdgt.txt 1
-data.zeeh.txt 1
-data.zfai.txt 1
+data.zabe.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zbds.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zddl.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

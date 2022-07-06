@@ -1,6 +1,6 @@
 5
-data.zaqw.txt 1
-data.zbwa.txt 1
-data.zdkv.txt 1
-data.zefw.txt 1
-data.zfaz.txt 1
+data.zaqw.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117
+data.zefw.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

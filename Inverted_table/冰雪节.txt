@@ -1,3 +1,3 @@
 2
-data.pa.txt 3
-data.zcvi.txt 2
+data.pa.txt 7.740369448197793
+data.zcvi.txt 6.134097658560606

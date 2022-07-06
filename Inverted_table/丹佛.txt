@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.nh.txt 1
-data.zafu.txt 1
-data.zagr.txt 2
-data.zawc.txt 1
-data.zbnx.txt 4
-data.zbvm.txt 1
-data.zctp.txt 1
-data.zdeb.txt 1
-data.zdep.txt 2
-data.zdgt.txt 1
-data.zene.txt 1
+data.bs.txt 2.628231699761886
+data.nh.txt 2.628231699761886
+data.zafu.txt 2.628231699761886
+data.zagr.txt 4.165648687329214
+data.zawc.txt 2.628231699761886
+data.zbnx.txt 6.1025650235506905
+data.zbvm.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdep.txt 4.165648687329214
+data.zdgt.txt 2.628231699761886
+data.zene.txt 2.628231699761886

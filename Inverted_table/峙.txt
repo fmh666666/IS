@@ -1,10 +1,10 @@
 9
-data.jd.txt 2
-data.zazo.txt 1
-data.zbzf.txt 1
-data.zcll.txt 4
-data.zcmy.txt 1
-data.zcsr.txt 2
-data.zdcy.txt 1
-data.zdep.txt 1
-data.zeqv.txt 1
+data.jd.txt 4.48169974735425
+data.zazo.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zcll.txt 6.565571457682201
+data.zcmy.txt 2.82763771717948
+data.zcsr.txt 4.48169974735425
+data.zdcy.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

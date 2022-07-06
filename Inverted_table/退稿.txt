@@ -1,4 +1,4 @@
 3
-data.zawo.txt 2
-data.zbcj.txt 1
-data.zbnx.txt 2
+data.zawo.txt 5.688648708166832
+data.zbcj.txt 3.5891377275982888
+data.zbnx.txt 5.688648708166832

@@ -1,12 +1,12 @@
 11
-data.hz.txt 2
-data.jf.txt 1
-data.zbha.txt 1
-data.zbnp.txt 1
-data.zbvm.txt 1
-data.zbxy.txt 2
-data.zcdy.txt 1
-data.zcts.txt 3
-data.zcue.txt 1
-data.zeoh.txt 2
-data.zewg.txt 1
+data.hz.txt 4.261240455343955
+data.jf.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zbxy.txt 4.261240455343955
+data.zcdy.txt 2.6885433903988862
+data.zcts.txt 5.3770867807977725
+data.zcue.txt 2.6885433903988862
+data.zeoh.txt 4.261240455343955
+data.zewg.txt 2.6885433903988862

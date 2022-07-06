@@ -1,10 +1,10 @@
 9
-data.ok.txt 1
-data.pa.txt 1
-data.zaim.txt 1
-data.zaoy.txt 1
-data.zbts.txt 1
-data.zcih.txt 1
-data.zcmv.txt 2
-data.zcrg.txt 3
-data.zfaj.txt 1
+data.ok.txt 2.82763771717948
+data.pa.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zbts.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zcmv.txt 4.48169974735425
+data.zcrg.txt 5.65527543435896
+data.zfaj.txt 2.82763771717948

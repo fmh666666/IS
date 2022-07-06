@@ -1,9 +1,9 @@
 8
-data.tv.txt 1
-data.zadv.txt 1
-data.zarr.txt 1
-data.zbdb.txt 1
-data.zbor.txt 2
-data.zbzg.txt 1
-data.zclh.txt 1
-data.zdod.txt 3
+data.tv.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbor.txt 4.611097637722987
+data.zbzg.txt 2.9092786962624935
+data.zclh.txt 2.9092786962624935
+data.zdod.txt 5.818557392524987

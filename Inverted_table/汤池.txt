@@ -1,6 +1,6 @@
 5
-data.ye.txt 1
-data.zard.txt 1
-data.zbts.txt 1
-data.zdga.txt 1
-data.zeel.txt 6
+data.ye.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zdga.txt 3.235060386727117
+data.zeel.txt 9.081962699831948

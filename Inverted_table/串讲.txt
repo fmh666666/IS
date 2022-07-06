@@ -1,4 +1,4 @@
 3
-data.hu.txt 1
-data.zbnx.txt 1
-data.zcak.txt 1
+data.hu.txt 3.5891377275982888
+data.zbnx.txt 3.5891377275982888
+data.zcak.txt 3.5891377275982888

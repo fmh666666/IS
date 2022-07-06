@@ -1,7 +1,7 @@
 6
-data.zbgw.txt 1
-data.zbyb.txt 1
-data.zcdg.txt 1
-data.zctp.txt 1
-data.zdpz.txt 1
-data.zdro.txt 1
+data.zbgw.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zdpz.txt 3.1086847136800873
+data.zdro.txt 3.1086847136800873

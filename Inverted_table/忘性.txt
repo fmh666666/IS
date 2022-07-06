@@ -1,9 +1,9 @@
 8
-data.ep.txt 1
-data.zass.txt 1
-data.zawu.txt 1
-data.zbof.txt 1
-data.zbpp.txt 1
-data.zcvi.txt 1
-data.zdof.txt 1
-data.zegk.txt 1
+data.ep.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zcvi.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zegk.txt 2.9092786962624935

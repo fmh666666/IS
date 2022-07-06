@@ -1,12 +1,12 @@
 11
-data.co.txt 1
-data.zajo.txt 1
-data.zako.txt 2
-data.zauy.txt 1
-data.zawc.txt 1
-data.zbil.txt 1
-data.zbkj.txt 1
-data.zcll.txt 1
-data.zctm.txt 1
-data.zdgt.txt 1
-data.zeoh.txt 1
+data.co.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zako.txt 4.261240455343955
+data.zauy.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zcll.txt 2.6885433903988862
+data.zctm.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

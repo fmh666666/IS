@@ -1,7 +1,7 @@
 6
-data.hg.txt 2
-data.ye.txt 2
-data.zacw.txt 1
-data.zbls.txt 1
-data.zdzi.txt 1
-data.zefu.txt 1
+data.hg.txt 4.927148697748023
+data.ye.txt 4.927148697748023
+data.zacw.txt 3.1086847136800873
+data.zbls.txt 3.1086847136800873
+data.zdzi.txt 3.1086847136800873
+data.zefu.txt 3.1086847136800873

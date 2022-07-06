@@ -1,3 +1,3 @@
 2
-data.zcej.txt 2
-data.zdst.txt 1
+data.zcej.txt 6.134097658560606
+data.zdst.txt 3.8701847240988965

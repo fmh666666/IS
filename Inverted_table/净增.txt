@@ -1,4 +1,4 @@
 3
-data.zahd.txt 3
-data.zcdz.txt 2
-data.zcmx.txt 2
+data.zahd.txt 7.1782754551965775
+data.zcdz.txt 5.688648708166832
+data.zcmx.txt 5.688648708166832

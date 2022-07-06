@@ -1,5 +1,5 @@
 4
-data.zajh.txt 5
-data.zaqf.txt 1
-data.zbds.txt 1
-data.zewp.txt 1
+data.zajh.txt 8.762329358322491
+data.zaqf.txt 3.389731710180695
+data.zbds.txt 3.389731710180695
+data.zewp.txt 3.389731710180695

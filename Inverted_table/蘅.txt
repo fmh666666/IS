@@ -1,14 +1,14 @@
 13
-data.gw.txt 1
-data.kt.txt 1
-data.zaxj.txt 2
-data.zaxk.txt 8
-data.zbdb.txt 17
-data.zbre.txt 1
-data.zcjo.txt 12
-data.zctn.txt 1
-data.zdzn.txt 1
-data.zeai.txt 2
-data.zeaj.txt 6
-data.zebc.txt 4
-data.zexk.txt 1
+data.gw.txt 2.5727503226135906
+data.kt.txt 2.5727503226135906
+data.zaxj.txt 4.077712785060798
+data.zaxk.txt 8.155425570121595
+data.zbdb.txt 10.728175892735186
+data.zbre.txt 2.5727503226135906
+data.zcjo.txt 9.520307478659639
+data.zctn.txt 2.5727503226135906
+data.zdzn.txt 2.5727503226135906
+data.zeai.txt 4.077712785060798
+data.zeaj.txt 7.222623281414552
+data.zebc.txt 5.97374125520702
+data.zexk.txt 2.5727503226135906

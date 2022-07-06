@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zako.txt 1
-data.zblr.txt 1
-data.zedo.txt 1
-data.zene.txt 4
+data.zajh.txt 3.235060386727117
+data.zako.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zene.txt 7.511577600598868

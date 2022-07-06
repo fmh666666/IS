@@ -1,6 +1,6 @@
 5
-data.zbor.txt 1
-data.zctp.txt 2
-data.zeag.txt 1
-data.zecf.txt 1
-data.zeve.txt 1
+data.zbor.txt 3.235060386727117
+data.zctp.txt 5.1274494005309625
+data.zeag.txt 3.235060386727117
+data.zecf.txt 3.235060386727117
+data.zeve.txt 3.235060386727117

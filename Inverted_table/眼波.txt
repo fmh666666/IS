@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zacd.txt 2
-data.zbnp.txt 1
-data.zeaj.txt 1
-data.zfdk.txt 1
+data.ka.txt 3.235060386727117
+data.zacd.txt 5.1274494005309625
+data.zbnp.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117
+data.zfdk.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.fe.txt 15
-data.ff.txt 26
-data.gz.txt 1
-data.zazo.txt 1
-data.zcpb.txt 1
+data.fe.txt 12.940241546908467
+data.ff.txt 15.382348201592887
+data.gz.txt 3.235060386727117
+data.zazo.txt 3.235060386727117
+data.zcpb.txt 3.235060386727117

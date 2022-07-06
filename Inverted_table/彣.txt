@@ -1,4 +1,4 @@
 3
-data.mi.txt 1
-data.zdwd.txt 1
-data.zdyv.txt 2
+data.mi.txt 3.5891377275982888
+data.zdwd.txt 3.5891377275982888
+data.zdyv.txt 5.688648708166832

@@ -1,10 +1,10 @@
 9
-data.en.txt 1
-data.fz.txt 1
-data.op.txt 1
-data.zbvm.txt 1
-data.zcse.txt 1
-data.zctp.txt 1
-data.zdmw.txt 1
-data.zeay.txt 3
-data.zfby.txt 1
+data.en.txt 2.82763771717948
+data.fz.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zeay.txt 5.65527543435896
+data.zfby.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zbel.txt 1
-data.zeam.txt 1
-data.zefs.txt 1
-data.zeid.txt 1
-data.zfas.txt 1
+data.zbel.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zefs.txt 3.235060386727117
+data.zeid.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

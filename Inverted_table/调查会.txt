@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.ha.txt 1
-data.zelt.txt 1
+data.bs.txt 3.5891377275982888
+data.ha.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

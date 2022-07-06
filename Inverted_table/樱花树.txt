@@ -1,13 +1,13 @@
 12
-data.gz.txt 1
-data.kq.txt 3
-data.zayd.txt 3
-data.zazw.txt 1
-data.zbeb.txt 2
-data.zbha.txt 1
-data.zbua.txt 1
-data.zcic.txt 1
-data.zcln.txt 1
-data.zcvt.txt 1
-data.zdga.txt 1
-data.zdzi.txt 1
+data.gz.txt 2.628231699761886
+data.kq.txt 5.256463399523772
+data.zayd.txt 5.256463399523772
+data.zazw.txt 2.628231699761886
+data.zbeb.txt 4.165648687329214
+data.zbha.txt 2.628231699761886
+data.zbua.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zcvt.txt 2.628231699761886
+data.zdga.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886

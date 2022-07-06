@@ -1,12 +1,12 @@
 11
-data.zanm.txt 1
-data.zaoy.txt 1
-data.zauy.txt 2
-data.zbrj.txt 1
-data.zcdv.txt 1
-data.zcdy.txt 1
-data.zcmy.txt 1
-data.zcql.txt 1
-data.zctp.txt 1
-data.zdep.txt 1
-data.zebc.txt 1
+data.zanm.txt 2.6885433903988862
+data.zaoy.txt 2.6885433903988862
+data.zauy.txt 4.261240455343955
+data.zbrj.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862

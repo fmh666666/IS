@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.mk.txt 10
-data.mo.txt 5
-data.zelj.txt 1
+data.mi.txt 3.389731710180695
+data.mk.txt 11.726545056896576
+data.mo.txt 8.762329358322491
+data.zelj.txt 3.389731710180695

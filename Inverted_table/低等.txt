@@ -1,7 +1,7 @@
 6
-data.ga.txt 2
-data.zciy.txt 1
-data.zdgt.txt 1
-data.zdgv.txt 1
-data.zedy.txt 1
-data.zevq.txt 1
+data.ga.txt 4.927148697748023
+data.zciy.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

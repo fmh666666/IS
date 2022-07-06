@@ -1,7 +1,7 @@
 6
-data.mi.txt 1
-data.zafl.txt 1
-data.zair.txt 1
-data.zbdb.txt 2
-data.zdcy.txt 1
-data.zeew.txt 1
+data.mi.txt 3.1086847136800873
+data.zafl.txt 3.1086847136800873
+data.zair.txt 3.1086847136800873
+data.zbdb.txt 4.927148697748023
+data.zdcy.txt 3.1086847136800873
+data.zeew.txt 3.1086847136800873

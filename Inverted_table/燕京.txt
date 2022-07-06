@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.tj.txt 3
-data.zajo.txt 1
-data.zbjk.txt 1
-data.zcee.txt 1
-data.zcvq.txt 1
-data.zcxp.txt 1
-data.zdeb.txt 1
-data.zdnh.txt 1
-data.zdzm.txt 1
-data.zeel.txt 2
-data.zezy.txt 2
+data.bf.txt 2.628231699761886
+data.tj.txt 5.256463399523772
+data.zajo.txt 2.628231699761886
+data.zbjk.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zcxp.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdnh.txt 2.628231699761886
+data.zdzm.txt 2.628231699761886
+data.zeel.txt 4.165648687329214
+data.zezy.txt 4.165648687329214

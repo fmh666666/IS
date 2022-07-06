@@ -1,6 +1,6 @@
 5
-data.gz.txt 3
-data.zasy.txt 3
-data.zdkv.txt 1
-data.zdwz.txt 3
-data.zefu.txt 2
+data.gz.txt 6.470120773454234
+data.zasy.txt 6.470120773454234
+data.zdkv.txt 3.235060386727117
+data.zdwz.txt 6.470120773454234
+data.zefu.txt 5.1274494005309625

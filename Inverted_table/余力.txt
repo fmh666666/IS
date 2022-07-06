@@ -1,6 +1,6 @@
 5
-data.zbts.txt 1
-data.zdey.txt 2
-data.zdvl.txt 1
-data.zeag.txt 1
-data.zefp.txt 1
+data.zbts.txt 3.235060386727117
+data.zdey.txt 5.1274494005309625
+data.zdvl.txt 3.235060386727117
+data.zeag.txt 3.235060386727117
+data.zefp.txt 3.235060386727117

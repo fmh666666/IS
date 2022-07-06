@@ -1,7 +1,7 @@
 6
-data.jf.txt 2
-data.tz.txt 1
-data.zbla.txt 1
-data.zcku.txt 1
-data.zdkk.txt 1
-data.zeun.txt 1
+data.jf.txt 4.927148697748023
+data.tz.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zcku.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zeun.txt 3.1086847136800873

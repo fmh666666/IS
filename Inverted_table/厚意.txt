@@ -1,6 +1,6 @@
 5
-data.hc.txt 1
-data.zcls.txt 1
-data.zctn.txt 1
-data.zevl.txt 1
-data.zewv.txt 1
+data.hc.txt 3.235060386727117
+data.zcls.txt 3.235060386727117
+data.zctn.txt 3.235060386727117
+data.zevl.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

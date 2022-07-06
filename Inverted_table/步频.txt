@@ -1,4 +1,4 @@
 3
-data.ka.txt 3
-data.zaim.txt 2
-data.zdbf.txt 1
+data.ka.txt 7.1782754551965775
+data.zaim.txt 5.688648708166832
+data.zdbf.txt 3.5891377275982888

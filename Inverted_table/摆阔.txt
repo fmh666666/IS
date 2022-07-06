@@ -1,10 +1,10 @@
 9
-data.hc.txt 2
-data.qb.txt 2
-data.zalc.txt 1
-data.zbyb.txt 2
-data.zcak.txt 2
-data.zcmx.txt 2
-data.zdnc.txt 2
-data.zewn.txt 1
-data.zfaw.txt 2
+data.hc.txt 4.48169974735425
+data.qb.txt 4.48169974735425
+data.zalc.txt 2.82763771717948
+data.zbyb.txt 4.48169974735425
+data.zcak.txt 4.48169974735425
+data.zcmx.txt 4.48169974735425
+data.zdnc.txt 4.48169974735425
+data.zewn.txt 2.82763771717948
+data.zfaw.txt 4.48169974735425

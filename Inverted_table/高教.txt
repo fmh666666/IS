@@ -1,13 +1,13 @@
 12
-data.fz.txt 1
-data.zarr.txt 1
-data.zasj.txt 1
-data.zblq.txt 1
-data.zdep.txt 1
-data.zdkk.txt 1
-data.zebc.txt 1
-data.zebf.txt 1
-data.zeik.txt 1
-data.zeoh.txt 1
-data.zeqv.txt 2
-data.zevy.txt 2
+data.fz.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zasj.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zdep.txt 2.628231699761886
+data.zdkk.txt 2.628231699761886
+data.zebc.txt 2.628231699761886
+data.zebf.txt 2.628231699761886
+data.zeik.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zeqv.txt 4.165648687329214
+data.zevy.txt 4.165648687329214

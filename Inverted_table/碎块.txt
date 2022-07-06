@@ -1,7 +1,7 @@
 6
-data.xk.txt 1
-data.zavx.txt 1
-data.zbjk.txt 1
-data.zbnx.txt 2
-data.zcpb.txt 1
-data.zehp.txt 1
+data.xk.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbnx.txt 4.927148697748023
+data.zcpb.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873

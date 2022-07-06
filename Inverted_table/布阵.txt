@@ -1,7 +1,7 @@
 6
-data.zaim.txt 1
-data.zamr.txt 1
-data.zaqr.txt 1
-data.zbcj.txt 1
-data.zedo.txt 1
-data.zeid.txt 1
+data.zaim.txt 3.1086847136800873
+data.zamr.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zeid.txt 3.1086847136800873

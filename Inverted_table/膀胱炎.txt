@@ -1,6 +1,6 @@
 5
-data.zavg.txt 2
-data.zbga.txt 1
-data.zbjk.txt 1
-data.zcpb.txt 1
-data.zeyg.txt 1
+data.zavg.txt 5.1274494005309625
+data.zbga.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zcpb.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117

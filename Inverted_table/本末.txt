@@ -1,4 +1,4 @@
 3
-data.zbga.txt 1
-data.zbtj.txt 1
-data.zebf.txt 1
+data.zbga.txt 3.5891377275982888
+data.zbtj.txt 3.5891377275982888
+data.zebf.txt 3.5891377275982888

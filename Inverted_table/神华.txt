@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.vz.txt 1
-data.zaqf.txt 3
-data.zbfg.txt 2
-data.zcvi.txt 1
+data.kq.txt 3.235060386727117
+data.vz.txt 3.235060386727117
+data.zaqf.txt 6.470120773454234
+data.zbfg.txt 5.1274494005309625
+data.zcvi.txt 3.235060386727117

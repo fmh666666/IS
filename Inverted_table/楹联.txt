@@ -1,4 +1,4 @@
 3
-data.zeoh.txt 4
-data.zewv.txt 4
-data.zfaj.txt 1
+data.zeoh.txt 8.333719726130651
+data.zewv.txt 8.333719726130651
+data.zfaj.txt 3.5891377275982888

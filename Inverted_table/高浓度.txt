@@ -1,9 +1,9 @@
 8
-data.zahd.txt 2
-data.zate.txt 2
-data.zbeb.txt 1
-data.zbsm.txt 1
-data.zdeb.txt 1
-data.zdwn.txt 1
-data.zelt.txt 1
-data.zene.txt 1
+data.zahd.txt 4.611097637722987
+data.zate.txt 4.611097637722987
+data.zbeb.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

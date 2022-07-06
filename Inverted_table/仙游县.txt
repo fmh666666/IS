@@ -1,4 +1,4 @@
 3
-data.zbhd.txt 6
-data.zcon.txt 1
-data.zeeq.txt 2
+data.zbhd.txt 10.0759834655157
+data.zcon.txt 3.5891377275982888
+data.zeeq.txt 5.688648708166832

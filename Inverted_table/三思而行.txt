@@ -1,6 +1,6 @@
 5
-data.zdkc.txt 1
-data.zelj.txt 1
-data.zelt.txt 1
-data.zerh.txt 1
-data.zewp.txt 1
+data.zdkc.txt 3.235060386727117
+data.zelj.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zerh.txt 3.235060386727117
+data.zewp.txt 3.235060386727117

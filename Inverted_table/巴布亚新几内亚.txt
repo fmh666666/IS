@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.zbjq.txt 1
-data.zdzg.txt 1
+data.mx.txt 3.5891377275982888
+data.zbjq.txt 3.5891377275982888
+data.zdzg.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zajh.txt 3
-data.zbaq.txt 1
-data.zcfn.txt 1
+data.zajh.txt 7.1782754551965775
+data.zbaq.txt 3.5891377275982888
+data.zcfn.txt 3.5891377275982888

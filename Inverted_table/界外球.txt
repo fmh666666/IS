@@ -1,2 +1,2 @@
 1
-data.zbxy.txt 1
+data.zbxy.txt 4.350637738017098

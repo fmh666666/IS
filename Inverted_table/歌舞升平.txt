@@ -1,10 +1,10 @@
 9
-data.zbdx.txt 1
-data.zbvg.txt 1
-data.zbyv.txt 1
-data.zcdg.txt 1
-data.zcdl.txt 1
-data.zcef.txt 1
-data.zcgi.txt 1
-data.zcnn.txt 1
-data.zdme.txt 1
+data.zbdx.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcdl.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zcgi.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zdme.txt 2.82763771717948

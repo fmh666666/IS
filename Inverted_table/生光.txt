@@ -1,5 +1,5 @@
 4
-data.zafi.txt 1
-data.zbsf.txt 1
-data.zeve.txt 1
-data.zexk.txt 2
+data.zafi.txt 3.389731710180695
+data.zbsf.txt 3.389731710180695
+data.zeve.txt 3.389731710180695
+data.zexk.txt 5.372597648141796

@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.ka.txt 1
-data.mo.txt 1
-data.zabx.txt 1
-data.zafu.txt 1
-data.zccu.txt 1
-data.zcsr.txt 1
-data.zdqz.txt 1
-data.zdwn.txt 1
-data.zdyv.txt 1
-data.zecf.txt 1
-data.zfcp.txt 2
+data.cf.txt 2.628231699761886
+data.ka.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.zabx.txt 2.628231699761886
+data.zafu.txt 2.628231699761886
+data.zccu.txt 2.628231699761886
+data.zcsr.txt 2.628231699761886
+data.zdqz.txt 2.628231699761886
+data.zdwn.txt 2.628231699761886
+data.zdyv.txt 2.628231699761886
+data.zecf.txt 2.628231699761886
+data.zfcp.txt 4.165648687329214

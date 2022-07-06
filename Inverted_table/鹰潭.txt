@@ -1,5 +1,5 @@
 4
-data.zbkr.txt 1
-data.zbot.txt 1
-data.zekw.txt 6
-data.zelt.txt 4
+data.zbkr.txt 3.389731710180695
+data.zbot.txt 3.389731710180695
+data.zekw.txt 9.516180001030515
+data.zelt.txt 7.870713291999142

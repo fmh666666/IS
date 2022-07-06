@@ -1,11 +1,11 @@
 10
-data.hu.txt 1
-data.mx.txt 2
-data.zalm.txt 1
-data.zbeb.txt 1
-data.zbhd.txt 1
-data.zcdg.txt 1
-data.zcqs.txt 2
-data.zdtv.txt 1
-data.zeai.txt 2
-data.zezy.txt 1
+data.hu.txt 2.7546073728089153
+data.mx.txt 4.365949390112154
+data.zalm.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbhd.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zcqs.txt 4.365949390112154
+data.zdtv.txt 2.7546073728089153
+data.zeai.txt 4.365949390112154
+data.zezy.txt 2.7546073728089153

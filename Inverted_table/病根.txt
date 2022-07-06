@@ -1,5 +1,5 @@
 4
-data.bf.txt 2
-data.zaxp.txt 1
-data.zcsu.txt 4
-data.zezy.txt 1
+data.bf.txt 5.372597648141796
+data.zaxp.txt 3.389731710180695
+data.zcsu.txt 7.870713291999142
+data.zezy.txt 3.389731710180695

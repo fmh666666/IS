@@ -1,5 +1,5 @@
 4
-data.xe.txt 1
-data.zdlm.txt 1
-data.zdqz.txt 2
-data.zegk.txt 1
+data.xe.txt 3.389731710180695
+data.zdlm.txt 3.389731710180695
+data.zdqz.txt 5.372597648141796
+data.zegk.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zahp.txt 1
-data.zbpx.txt 1
-data.zfae.txt 1
+data.zahp.txt 3.5891377275982888
+data.zbpx.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

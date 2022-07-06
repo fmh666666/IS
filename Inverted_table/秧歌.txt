@@ -1,10 +1,10 @@
 9
-data.cz.txt 2
-data.kq.txt 1
-data.zazw.txt 1
-data.zbux.txt 1
-data.zbyb.txt 1
-data.zcee.txt 1
-data.zebc.txt 1
-data.zeeq.txt 1
-data.zeos.txt 1
+data.cz.txt 4.48169974735425
+data.kq.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zbux.txt 2.82763771717948
+data.zbyb.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zeos.txt 2.82763771717948

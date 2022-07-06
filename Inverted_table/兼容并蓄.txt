@@ -1,2 +1,2 @@
 1
-data.zdtr.txt 3
+data.zdtr.txt 8.701275476034196

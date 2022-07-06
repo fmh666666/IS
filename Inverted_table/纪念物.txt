@@ -1,9 +1,9 @@
 8
-data.zamp.txt 2
-data.zbfp.txt 2
-data.zbwa.txt 2
-data.zcql.txt 2
-data.zdcw.txt 2
-data.zdgp.txt 2
-data.zeay.txt 2
-data.zelt.txt 1
+data.zamp.txt 4.611097637722987
+data.zbfp.txt 4.611097637722987
+data.zbwa.txt 4.611097637722987
+data.zcql.txt 4.611097637722987
+data.zdcw.txt 4.611097637722987
+data.zdgp.txt 4.611097637722987
+data.zeay.txt 4.611097637722987
+data.zelt.txt 2.9092786962624935

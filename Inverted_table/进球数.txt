@@ -1,12 +1,12 @@
 11
-data.bs.txt 2
-data.mu.txt 2
-data.zbil.txt 1
-data.zcej.txt 2
-data.zcko.txt 1
-data.zcvt.txt 1
-data.zddp.txt 1
-data.zdst.txt 1
-data.zebf.txt 1
-data.zehb.txt 1
-data.zexx.txt 1
+data.bs.txt 4.261240455343955
+data.mu.txt 4.261240455343955
+data.zbil.txt 2.6885433903988862
+data.zcej.txt 4.261240455343955
+data.zcko.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zehb.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

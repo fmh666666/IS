@@ -1,11 +1,11 @@
 10
-data.fj.txt 1
-data.zarr.txt 1
-data.zbaf.txt 1
-data.zbkj.txt 1
-data.zbre.txt 1
-data.zcmn.txt 1
-data.zdju.txt 1
-data.zdou.txt 1
-data.zezh.txt 1
-data.zfby.txt 1
+data.fj.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zbaf.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zcmn.txt 2.7546073728089153
+data.zdju.txt 2.7546073728089153
+data.zdou.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

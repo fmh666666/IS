@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zabe.txt 1
-data.zduo.txt 1
-data.zenw.txt 2
-data.zeqv.txt 1
+data.tz.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zenw.txt 5.1274494005309625
+data.zeqv.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.ew.txt 3
-data.ka.txt 1
-data.ud.txt 1
-data.zaet.txt 1
-data.zbbt.txt 1
-data.zcww.txt 1
-data.zdkc.txt 1
-data.zeew.txt 1
-data.zenn.txt 1
+data.ew.txt 5.65527543435896
+data.ka.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zaet.txt 2.82763771717948
+data.zbbt.txt 2.82763771717948
+data.zcww.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zeew.txt 2.82763771717948
+data.zenn.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.mx.txt 1
-data.vz.txt 1
-data.zamr.txt 1
-data.zcao.txt 1
-data.zcaq.txt 1
-data.zcll.txt 1
-data.zcqg.txt 1
-data.zeag.txt 1
-data.zedd.txt 1
-data.zfaw.txt 1
+data.cq.txt 2.6885433903988862
+data.mx.txt 2.6885433903988862
+data.vz.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcaq.txt 2.6885433903988862
+data.zcll.txt 2.6885433903988862
+data.zcqg.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zfaw.txt 2.6885433903988862

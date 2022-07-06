@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.hc.txt 1
-data.zbvm.txt 2
-data.zbwq.txt 1
-data.zdgt.txt 4
-data.zdwk.txt 1
-data.zdwn.txt 1
-data.zeai.txt 1
+data.fp.txt 2.9092786962624935
+data.hc.txt 2.9092786962624935
+data.zbvm.txt 4.611097637722987
+data.zbwq.txt 2.9092786962624935
+data.zdgt.txt 6.7551359407091605
+data.zdwk.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935

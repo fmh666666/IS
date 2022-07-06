@@ -1,4 +1,4 @@
 3
-data.zajo.txt 2
-data.zbgd.txt 5
-data.zbla.txt 3
+data.zajo.txt 5.688648708166832
+data.zbgd.txt 9.27778643576512
+data.zbla.txt 7.1782754551965775

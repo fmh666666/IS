@@ -1,8 +1,8 @@
 7
-data.aj.txt 1
-data.zalj.txt 1
-data.zarr.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcsu.txt 1
-data.zebn.txt 3
+data.aj.txt 3.0018356045764243
+data.zalj.txt 3.0018356045764243
+data.zarr.txt 3.0018356045764243
+data.zcdy.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zcsu.txt 3.0018356045764243
+data.zebn.txt 6.003671209152849

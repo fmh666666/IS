@@ -1,5 +1,5 @@
 4
-data.cz.txt 1
-data.zcdy.txt 1
-data.zdle.txt 1
-data.zexv.txt 1
+data.cz.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zdle.txt 3.389731710180695
+data.zexv.txt 3.389731710180695

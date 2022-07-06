@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.en.txt 1
-data.zaqf.txt 1
-data.zbcj.txt 1
-data.zcmx.txt 1
-data.zdlm.txt 1
-data.zewp.txt 1
+data.bs.txt 3.0018356045764243
+data.en.txt 3.0018356045764243
+data.zaqf.txt 3.0018356045764243
+data.zbcj.txt 3.0018356045764243
+data.zcmx.txt 3.0018356045764243
+data.zdlm.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

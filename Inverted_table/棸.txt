@@ -1,3 +1,3 @@
 2
-data.ew.txt 3
-data.zeaj.txt 3
+data.ew.txt 7.740369448197793
+data.zeaj.txt 7.740369448197793

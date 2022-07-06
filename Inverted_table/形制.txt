@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.tv.txt 1
-data.zasw.txt 1
-data.zaxj.txt 2
-data.zbdx.txt 1
-data.zbzf.txt 1
+data.kt.txt 3.1086847136800873
+data.tv.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zaxj.txt 4.927148697748023
+data.zbdx.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873

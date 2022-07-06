@@ -1,10 +1,10 @@
 9
-data.gk.txt 1
-data.zadv.txt 1
-data.zafy.txt 1
-data.zajh.txt 1
-data.zajo.txt 1
-data.zcvi.txt 1
-data.zddl.txt 1
-data.zdgp.txt 1
-data.zehp.txt 1
+data.gk.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zafy.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zcvi.txt 2.82763771717948
+data.zddl.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zehp.txt 2.82763771717948

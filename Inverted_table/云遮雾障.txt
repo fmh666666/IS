@@ -1,5 +1,5 @@
 4
-data.zauy.txt 1
-data.zavg.txt 1
-data.zbuj.txt 1
-data.zcbm.txt 1
+data.zauy.txt 3.389731710180695
+data.zavg.txt 3.389731710180695
+data.zbuj.txt 3.389731710180695
+data.zcbm.txt 3.389731710180695

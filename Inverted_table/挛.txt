@@ -1,4 +1,4 @@
 3
-data.zall.txt 1
-data.zdme.txt 1
-data.zelj.txt 1
+data.zall.txt 3.5891377275982888
+data.zdme.txt 3.5891377275982888
+data.zelj.txt 3.5891377275982888

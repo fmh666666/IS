@@ -1,5 +1,5 @@
 4
-data.zbds.txt 2
-data.zcdl.txt 1
-data.zcln.txt 1
-data.zerv.txt 1
+data.zbds.txt 5.372597648141796
+data.zcdl.txt 3.389731710180695
+data.zcln.txt 3.389731710180695
+data.zerv.txt 3.389731710180695

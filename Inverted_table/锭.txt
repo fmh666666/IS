@@ -1,7 +1,7 @@
 6
-data.zacp.txt 2
-data.zbdb.txt 1
-data.zbvm.txt 2
-data.zclm.txt 1
-data.zcmn.txt 1
-data.zduc.txt 2
+data.zacp.txt 4.927148697748023
+data.zbdb.txt 3.1086847136800873
+data.zbvm.txt 4.927148697748023
+data.zclm.txt 3.1086847136800873
+data.zcmn.txt 3.1086847136800873
+data.zduc.txt 4.927148697748023

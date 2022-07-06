@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zaxj.txt 29
-data.zaxk.txt 22
-data.zbds.txt 1
-data.zcem.txt 1
+data.fp.txt 3.235060386727117
+data.zaxj.txt 15.874087387856948
+data.zaxk.txt 14.633996090945875
+data.zbds.txt 3.235060386727117
+data.zcem.txt 3.235060386727117

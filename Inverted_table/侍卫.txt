@@ -1,6 +1,6 @@
 5
-data.ew.txt 2
-data.zaxj.txt 1
-data.zcww.txt 1
-data.zdar.txt 1
-data.zevq.txt 2
+data.ew.txt 5.1274494005309625
+data.zaxj.txt 3.235060386727117
+data.zcww.txt 3.235060386727117
+data.zdar.txt 3.235060386727117
+data.zevq.txt 5.1274494005309625

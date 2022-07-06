@@ -1,12 +1,12 @@
 11
-data.fe.txt 1
-data.ry.txt 1
-data.zatz.txt 1
-data.zbfd.txt 1
-data.zbga.txt 2
-data.zcdl.txt 1
-data.zcdz.txt 1
-data.zdgv.txt 1
-data.zdwk.txt 1
-data.zefw.txt 1
-data.zfaj.txt 1
+data.fe.txt 2.6885433903988862
+data.ry.txt 2.6885433903988862
+data.zatz.txt 2.6885433903988862
+data.zbfd.txt 2.6885433903988862
+data.zbga.txt 4.261240455343955
+data.zcdl.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zdwk.txt 2.6885433903988862
+data.zefw.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

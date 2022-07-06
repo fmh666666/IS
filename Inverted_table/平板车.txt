@@ -1,4 +1,4 @@
 3
-data.zbfz.txt 1
-data.zbpp.txt 1
-data.zegk.txt 1
+data.zbfz.txt 3.5891377275982888
+data.zbpp.txt 3.5891377275982888
+data.zegk.txt 3.5891377275982888

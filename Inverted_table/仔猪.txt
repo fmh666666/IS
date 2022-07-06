@@ -1,6 +1,6 @@
 5
-data.zaet.txt 5
-data.zbjk.txt 1
-data.zbkv.txt 1
-data.zcse.txt 2
-data.zedk.txt 1
+data.zaet.txt 8.362509787258078
+data.zbjk.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zcse.txt 5.1274494005309625
+data.zedk.txt 3.235060386727117

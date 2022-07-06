@@ -1,6 +1,6 @@
 5
-data.zafi.txt 1
-data.zard.txt 1
-data.zbia.txt 1
-data.zbor.txt 1
-data.zduo.txt 1
+data.zafi.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zbia.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zduo.txt 3.235060386727117

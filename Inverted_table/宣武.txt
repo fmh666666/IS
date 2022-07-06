@@ -1,7 +1,7 @@
 6
-data.vi.txt 1
-data.zagb.txt 1
-data.zbdb.txt 29
-data.zbxy.txt 2
-data.zcuh.txt 1
-data.zdst.txt 1
+data.vi.txt 3.1086847136800873
+data.zagb.txt 3.1086847136800873
+data.zbdb.txt 15.25397578626878
+data.zbxy.txt 4.927148697748023
+data.zcuh.txt 3.1086847136800873
+data.zdst.txt 3.1086847136800873

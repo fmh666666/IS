@@ -1,4 +1,4 @@
 3
-data.zdrq.txt 1
-data.zedx.txt 1
-data.zexk.txt 1
+data.zdrq.txt 3.5891377275982888
+data.zedx.txt 3.5891377275982888
+data.zexk.txt 3.5891377275982888

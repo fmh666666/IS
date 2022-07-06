@@ -1,10 +1,10 @@
 9
-data.zafu.txt 1
-data.zbre.txt 1
-data.zbsl.txt 1
-data.zcpa.txt 1
-data.zdwl.txt 1
-data.zerw.txt 1
-data.zesi.txt 2
-data.zevq.txt 4
-data.zevt.txt 1
+data.zafu.txt 2.82763771717948
+data.zbre.txt 2.82763771717948
+data.zbsl.txt 2.82763771717948
+data.zcpa.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948
+data.zerw.txt 2.82763771717948
+data.zesi.txt 4.48169974735425
+data.zevq.txt 6.565571457682201
+data.zevt.txt 2.82763771717948

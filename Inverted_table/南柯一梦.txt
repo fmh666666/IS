@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.zajo.txt 1
-data.zbdb.txt 2
-data.zbds.txt 1
-data.zbyv.txt 1
-data.zdzm.txt 1
-data.zelt.txt 1
-data.zevy.txt 1
+data.hp.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zbdb.txt 4.611097637722987
+data.zbds.txt 2.9092786962624935
+data.zbyv.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zevy.txt 2.9092786962624935

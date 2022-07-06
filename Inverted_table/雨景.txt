@@ -1,4 +1,4 @@
 3
-data.zcjy.txt 2
-data.zdqx.txt 1
-data.zfai.txt 2
+data.zcjy.txt 5.688648708166832
+data.zdqx.txt 3.5891377275982888
+data.zfai.txt 5.688648708166832

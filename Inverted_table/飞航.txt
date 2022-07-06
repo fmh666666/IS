@@ -1,14 +1,14 @@
 13
-data.dg.txt 2
-data.zall.txt 1
-data.zalm.txt 1
-data.zasj.txt 1
-data.zbfr.txt 1
-data.zbts.txt 1
-data.zbvn.txt 1
-data.zcls.txt 1
-data.zdlw.txt 1
-data.zdqx.txt 1
-data.zesi.txt 6
-data.zety.txt 1
-data.zeyy.txt 1
+data.dg.txt 4.077712785060798
+data.zall.txt 2.5727503226135906
+data.zalm.txt 2.5727503226135906
+data.zasj.txt 2.5727503226135906
+data.zbfr.txt 2.5727503226135906
+data.zbts.txt 2.5727503226135906
+data.zbvn.txt 2.5727503226135906
+data.zcls.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zdqx.txt 2.5727503226135906
+data.zesi.txt 7.222623281414552
+data.zety.txt 2.5727503226135906
+data.zeyy.txt 2.5727503226135906

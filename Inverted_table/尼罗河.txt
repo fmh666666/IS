@@ -1,14 +1,14 @@
 13
-data.zadv.txt 1
-data.zaip.txt 1
-data.zako.txt 1
-data.zalm.txt 1
-data.zbdb.txt 1
-data.zbla.txt 3
-data.zbph.txt 1
-data.zcli.txt 1
-data.zcve.txt 1
-data.zdtv.txt 1
-data.zedo.txt 1
-data.zexm.txt 1
-data.zezm.txt 1
+data.zadv.txt 2.5727503226135906
+data.zaip.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zalm.txt 2.5727503226135906
+data.zbdb.txt 2.5727503226135906
+data.zbla.txt 5.145500645227181
+data.zbph.txt 2.5727503226135906
+data.zcli.txt 2.5727503226135906
+data.zcve.txt 2.5727503226135906
+data.zdtv.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906
+data.zezm.txt 2.5727503226135906

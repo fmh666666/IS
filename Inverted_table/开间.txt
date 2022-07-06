@@ -1,11 +1,11 @@
 10
-data.hu.txt 1
-data.sq.txt 1
-data.uz.txt 1
-data.xe.txt 1
-data.zapf.txt 1
-data.zasy.txt 1
-data.zbaf.txt 2
-data.zchw.txt 1
-data.zdaa.txt 1
-data.zdpw.txt 2
+data.hu.txt 2.7546073728089153
+data.sq.txt 2.7546073728089153
+data.uz.txt 2.7546073728089153
+data.xe.txt 2.7546073728089153
+data.zapf.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zbaf.txt 4.365949390112154
+data.zchw.txt 2.7546073728089153
+data.zdaa.txt 2.7546073728089153
+data.zdpw.txt 4.365949390112154

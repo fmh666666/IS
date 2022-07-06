@@ -1,12 +1,12 @@
 11
-data.zako.txt 1
-data.zblq.txt 1
-data.zblr.txt 1
-data.zbqu.txt 1
-data.zcdz.txt 2
-data.zcih.txt 1
-data.zcku.txt 1
-data.zcmy.txt 1
-data.zdeb.txt 1
-data.zdkc.txt 1
-data.zdzm.txt 1
+data.zako.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zcdz.txt 4.261240455343955
+data.zcih.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862

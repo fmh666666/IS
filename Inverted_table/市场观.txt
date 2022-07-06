@@ -1,5 +1,5 @@
 4
-data.zbkr.txt 1
-data.zcgi.txt 1
-data.zcnn.txt 1
-data.zedy.txt 1
+data.zbkr.txt 3.389731710180695
+data.zcgi.txt 3.389731710180695
+data.zcnn.txt 3.389731710180695
+data.zedy.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.zavg.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
-data.zeds.txt 1
-data.zefd.txt 1
+data.zavg.txt 3.235060386727117
+data.zeai.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117
+data.zeds.txt 3.235060386727117
+data.zefd.txt 3.235060386727117

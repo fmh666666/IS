@@ -1,5 +1,5 @@
 4
-data.zamr.txt 3
-data.zcgi.txt 1
-data.zdji.txt 2
-data.zeqn.txt 2
+data.zamr.txt 6.77946342036139
+data.zcgi.txt 3.389731710180695
+data.zdji.txt 5.372597648141796
+data.zeqn.txt 5.372597648141796

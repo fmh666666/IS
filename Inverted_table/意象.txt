@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zass.txt 1
-data.zbkv.txt 1
-data.zbpm.txt 1
-data.zbzf.txt 1
-data.zdod.txt 2
-data.zebc.txt 2
-data.zeoo.txt 1
+data.ga.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbpm.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zdod.txt 4.611097637722987
+data.zebc.txt 4.611097637722987
+data.zeoo.txt 2.9092786962624935

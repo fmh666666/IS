@@ -1,10 +1,10 @@
 9
-data.bs.txt 3
-data.mx.txt 1
-data.zamp.txt 3
-data.zcll.txt 7
-data.zctm.txt 7
-data.zdkk.txt 1
-data.zeaj.txt 1
-data.zevl.txt 8
-data.zewv.txt 6
+data.bs.txt 5.65527543435896
+data.mx.txt 2.82763771717948
+data.zamp.txt 5.65527543435896
+data.zcll.txt 8.48291315153844
+data.zctm.txt 8.48291315153844
+data.zdkk.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948
+data.zevl.txt 8.9633994947085
+data.zewv.txt 7.938182663119541

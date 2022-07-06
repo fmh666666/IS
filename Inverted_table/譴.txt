@@ -1,4 +1,4 @@
 3
-data.zanh.txt 2
-data.zbaq.txt 1
-data.zbdx.txt 1
+data.zanh.txt 5.688648708166832
+data.zbaq.txt 3.5891377275982888
+data.zbdx.txt 3.5891377275982888

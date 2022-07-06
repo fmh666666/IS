@@ -1,12 +1,12 @@
 11
-data.ek.txt 1
-data.qb.txt 1
-data.vm.txt 1
-data.zalc.txt 2
-data.zazw.txt 1
-data.zdic.txt 1
-data.zeob.txt 1
-data.zeqh.txt 1
-data.zesq.txt 1
-data.zeyu.txt 3
-data.zeyy.txt 1
+data.ek.txt 2.6885433903988862
+data.qb.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.zalc.txt 4.261240455343955
+data.zazw.txt 2.6885433903988862
+data.zdic.txt 2.6885433903988862
+data.zeob.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862
+data.zesq.txt 2.6885433903988862
+data.zeyu.txt 5.3770867807977725
+data.zeyy.txt 2.6885433903988862

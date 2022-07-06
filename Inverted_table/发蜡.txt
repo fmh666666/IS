@@ -1,7 +1,7 @@
 6
-data.xk.txt 1
-data.zavg.txt 1
-data.zayd.txt 1
-data.zdwk.txt 1
-data.zeqh.txt 1
-data.zezn.txt 1
+data.xk.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zayd.txt 3.1086847136800873
+data.zdwk.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873

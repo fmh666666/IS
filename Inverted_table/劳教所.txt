@@ -1,4 +1,4 @@
 3
-data.zabj.txt 1
-data.zblr.txt 1
-data.zcse.txt 2
+data.zabj.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888
+data.zcse.txt 5.688648708166832

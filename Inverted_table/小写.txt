@@ -1,5 +1,5 @@
 4
-data.ew.txt 1
-data.zbcc.txt 1
-data.zdqq.txt 4
-data.zegl.txt 1
+data.ew.txt 3.389731710180695
+data.zbcc.txt 3.389731710180695
+data.zdqq.txt 7.870713291999142
+data.zegl.txt 3.389731710180695

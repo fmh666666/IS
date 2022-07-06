@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zdmw.txt 1
-data.zdoc.txt 1
-data.zdqz.txt 1
-data.zeqn.txt 1
+data.zako.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117

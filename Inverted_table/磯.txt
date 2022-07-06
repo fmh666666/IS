@@ -1,7 +1,7 @@
 6
-data.ff.txt 1
-data.ka.txt 1
-data.zaxx.txt 1
-data.zbvn.txt 2
-data.zcmy.txt 1
-data.zdwz.txt 1
+data.ff.txt 3.1086847136800873
+data.ka.txt 3.1086847136800873
+data.zaxx.txt 3.1086847136800873
+data.zbvn.txt 4.927148697748023
+data.zcmy.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873

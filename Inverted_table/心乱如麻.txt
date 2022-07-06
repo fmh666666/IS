@@ -1,11 +1,11 @@
 10
-data.jd.txt 1
-data.zasy.txt 1
-data.zbor.txt 1
-data.zczp.txt 2
-data.zdds.txt 1
-data.zdgo.txt 1
-data.zeam.txt 1
-data.zedx.txt 1
-data.zefu.txt 1
-data.zfdk.txt 1
+data.jd.txt 2.7546073728089153
+data.zasy.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zczp.txt 4.365949390112154
+data.zdds.txt 2.7546073728089153
+data.zdgo.txt 2.7546073728089153
+data.zeam.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zefu.txt 2.7546073728089153
+data.zfdk.txt 2.7546073728089153

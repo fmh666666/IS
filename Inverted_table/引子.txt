@@ -1,7 +1,7 @@
 6
-data.ye.txt 1
-data.zapr.txt 1
-data.zaxk.txt 1
-data.zcjo.txt 4
-data.zdcy.txt 1
-data.zedo.txt 1
+data.ye.txt 3.1086847136800873
+data.zapr.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zcjo.txt 7.21814237484067
+data.zdcy.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

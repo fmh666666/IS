@@ -1,2 +1,2 @@
 1
-data.zbjq.txt 3
+data.zbjq.txt 8.701275476034196

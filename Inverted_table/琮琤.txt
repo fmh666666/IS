@@ -1,2 +1,2 @@
 1
-data.zbmt.txt 4
+data.zbmt.txt 10.101867994579104

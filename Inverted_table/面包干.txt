@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zcbe.txt 1
-data.zdbf.txt 1
-data.zeec.txt 1
-data.zeqv.txt 2
+data.dg.txt 3.235060386727117
+data.zcbe.txt 3.235060386727117
+data.zdbf.txt 3.235060386727117
+data.zeec.txt 3.235060386727117
+data.zeqv.txt 5.1274494005309625

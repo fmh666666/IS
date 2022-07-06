@@ -1,7 +1,7 @@
 6
-data.ee.txt 1
-data.zbyb.txt 1
-data.zcln.txt 1
-data.zcon.txt 1
-data.zeds.txt 1
-data.zezm.txt 1
+data.ee.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873

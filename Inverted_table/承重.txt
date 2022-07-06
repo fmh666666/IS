@@ -1,9 +1,9 @@
 8
-data.mo.txt 2
-data.op.txt 1
-data.pa.txt 1
-data.zasj.txt 1
-data.zbua.txt 3
-data.zbvg.txt 1
-data.zebv.txt 1
-data.zfaz.txt 1
+data.mo.txt 4.611097637722987
+data.op.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zasj.txt 2.9092786962624935
+data.zbua.txt 5.818557392524987
+data.zbvg.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

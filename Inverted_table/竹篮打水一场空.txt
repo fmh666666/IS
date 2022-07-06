@@ -1,4 +1,4 @@
 3
-data.ev.txt 1
-data.fp.txt 2
-data.zcjy.txt 1
+data.ev.txt 3.5891377275982888
+data.fp.txt 5.688648708166832
+data.zcjy.txt 3.5891377275982888

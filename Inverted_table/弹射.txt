@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.hz.txt 1
-data.kt.txt 1
-data.zazn.txt 1
-data.zbfx.txt 1
-data.zcao.txt 1
-data.zeez.txt 1
-data.zeob.txt 1
-data.zexk.txt 2
+data.cf.txt 2.82763771717948
+data.hz.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zcao.txt 2.82763771717948
+data.zeez.txt 2.82763771717948
+data.zeob.txt 2.82763771717948
+data.zexk.txt 4.48169974735425

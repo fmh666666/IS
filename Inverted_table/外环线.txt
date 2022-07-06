@@ -1,4 +1,4 @@
 3
-data.zbvm.txt 2
-data.zedy.txt 1
-data.zezm.txt 1
+data.zbvm.txt 5.688648708166832
+data.zedy.txt 3.5891377275982888
+data.zezm.txt 3.5891377275982888

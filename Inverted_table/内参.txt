@@ -1,12 +1,12 @@
 11
-data.op.txt 2
-data.vi.txt 1
-data.zagr.txt 1
-data.zaip.txt 1
-data.zajo.txt 1
-data.zasq.txt 1
-data.zawb.txt 1
-data.zawu.txt 1
-data.zczl.txt 1
-data.zdcy.txt 1
-data.zdeb.txt 1
+data.op.txt 4.261240455343955
+data.vi.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zasq.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zdcy.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862

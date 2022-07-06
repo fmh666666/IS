@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.zazn.txt 1
-data.zbgu.txt 1
-data.zcic.txt 1
-data.zclm.txt 2
-data.zcqs.txt 1
-data.zdaq.txt 1
-data.zddp.txt 1
-data.zddx.txt 1
-data.zejk.txt 1
-data.zekw.txt 1
-data.zene.txt 1
+data.bb.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zcic.txt 2.628231699761886
+data.zclm.txt 4.165648687329214
+data.zcqs.txt 2.628231699761886
+data.zdaq.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zejk.txt 2.628231699761886
+data.zekw.txt 2.628231699761886
+data.zene.txt 2.628231699761886

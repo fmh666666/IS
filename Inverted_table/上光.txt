@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zbgw.txt 1
-data.zclm.txt 1
-data.zcqs.txt 1
-data.zdnh.txt 1
-data.zdpf.txt 1
-data.zeeh.txt 1
-data.zeyu.txt 1
+data.kq.txt 2.9092786962624935
+data.zbgw.txt 2.9092786962624935
+data.zclm.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zdnh.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

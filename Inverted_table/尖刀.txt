@@ -1,10 +1,10 @@
 9
-data.ud.txt 1
-data.zadv.txt 2
-data.zajh.txt 1
-data.zalj.txt 1
-data.zawb.txt 1
-data.zazo.txt 1
-data.zbmt.txt 2
-data.zeds.txt 1
-data.zefp.txt 1
+data.ud.txt 2.82763771717948
+data.zadv.txt 4.48169974735425
+data.zajh.txt 2.82763771717948
+data.zalj.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbmt.txt 4.48169974735425
+data.zeds.txt 2.82763771717948
+data.zefp.txt 2.82763771717948

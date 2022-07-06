@@ -1,3 +1,3 @@
 2
-data.zail.txt 1
-data.zeai.txt 1
+data.zail.txt 3.8701847240988965
+data.zeai.txt 3.8701847240988965

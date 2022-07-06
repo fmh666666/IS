@@ -1,5 +1,5 @@
 4
-data.zdyv.txt 1
-data.zebv.txt 1
-data.zeqv.txt 1
-data.zezy.txt 1
+data.zdyv.txt 3.389731710180695
+data.zebv.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695
+data.zezy.txt 3.389731710180695

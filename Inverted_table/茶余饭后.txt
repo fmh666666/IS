@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.jf.txt 1
-data.zard.txt 1
-data.zbcc.txt 1
-data.zbmw.txt 1
-data.zcbe.txt 1
-data.zckd.txt 3
-data.zeeh.txt 1
-data.zeid.txt 1
-data.zfby.txt 1
+data.bf.txt 2.7546073728089153
+data.jf.txt 2.7546073728089153
+data.zard.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zckd.txt 5.509214745617831
+data.zeeh.txt 2.7546073728089153
+data.zeid.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

@@ -1,6 +1,6 @@
 5
-data.zaqr.txt 3
-data.zctp.txt 1
-data.zczp.txt 1
-data.zdji.txt 1
-data.zeoh.txt 2
+data.zaqr.txt 6.470120773454234
+data.zctp.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zeoh.txt 5.1274494005309625

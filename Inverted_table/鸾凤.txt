@@ -1,4 +1,4 @@
 3
-data.zaxj.txt 11
-data.zaxk.txt 13
-data.zdof.txt 1
+data.zaxj.txt 12.866924163363409
+data.zaxk.txt 13.665121193113988
+data.zdof.txt 3.5891377275982888

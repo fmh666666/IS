@@ -1,14 +1,14 @@
 13
-data.ng.txt 1
-data.zacd.txt 1
-data.zasr.txt 2
-data.zavx.txt 2
-data.zazn.txt 1
-data.zbgu.txt 1
-data.zblq.txt 2
-data.zblr.txt 2
-data.zcda.txt 1
-data.zcsu.txt 3
-data.zczj.txt 1
-data.zczl.txt 1
-data.zdga.txt 1
+data.ng.txt 2.5727503226135906
+data.zacd.txt 2.5727503226135906
+data.zasr.txt 4.077712785060798
+data.zavx.txt 4.077712785060798
+data.zazn.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zblq.txt 4.077712785060798
+data.zblr.txt 4.077712785060798
+data.zcda.txt 2.5727503226135906
+data.zcsu.txt 5.145500645227181
+data.zczj.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdga.txt 2.5727503226135906

@@ -1,13 +1,13 @@
 12
-data.fj.txt 1
-data.ng.txt 1
-data.to.txt 1
-data.zafi.txt 4
-data.zaic.txt 1
-data.zbpc.txt 1
-data.zcxh.txt 1
-data.zdcy.txt 4
-data.zdhv.txt 1
-data.zdlw.txt 1
-data.zeid.txt 1
-data.zewn.txt 2
+data.fj.txt 2.628231699761886
+data.ng.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zafi.txt 6.1025650235506905
+data.zaic.txt 2.628231699761886
+data.zbpc.txt 2.628231699761886
+data.zcxh.txt 2.628231699761886
+data.zdcy.txt 6.1025650235506905
+data.zdhv.txt 2.628231699761886
+data.zdlw.txt 2.628231699761886
+data.zeid.txt 2.628231699761886
+data.zewn.txt 4.165648687329214

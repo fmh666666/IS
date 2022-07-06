@@ -1,7 +1,7 @@
 6
-data.zbzg.txt 1
-data.zcqp.txt 1
-data.zdeb.txt 1
-data.zdwk.txt 1
-data.zelt.txt 2
-data.zevq.txt 1
+data.zbzg.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zdwk.txt 3.1086847136800873
+data.zelt.txt 4.927148697748023
+data.zevq.txt 3.1086847136800873

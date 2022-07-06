@@ -1,11 +1,11 @@
 10
-data.ga.txt 4
-data.jf.txt 1
-data.ok.txt 1
-data.zbhe.txt 2
-data.zbsl.txt 1
-data.zcwn.txt 1
-data.zdlg.txt 1
-data.zefu.txt 3
-data.zewd.txt 3
-data.zexk.txt 1
+data.ga.txt 6.396000249308887
+data.jf.txt 2.7546073728089153
+data.ok.txt 2.7546073728089153
+data.zbhe.txt 4.365949390112154
+data.zbsl.txt 2.7546073728089153
+data.zcwn.txt 2.7546073728089153
+data.zdlg.txt 2.7546073728089153
+data.zefu.txt 5.509214745617831
+data.zewd.txt 5.509214745617831
+data.zexk.txt 2.7546073728089153

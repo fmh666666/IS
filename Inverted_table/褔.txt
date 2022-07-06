@@ -1,8 +1,8 @@
 7
-data.zawm.txt 1
-data.zcbm.txt 1
-data.zcel.txt 1
-data.zchd.txt 1
-data.zdey.txt 1
-data.zdro.txt 1
-data.zdxw.txt 1
+data.zawm.txt 3.0018356045764243
+data.zcbm.txt 3.0018356045764243
+data.zcel.txt 3.0018356045764243
+data.zchd.txt 3.0018356045764243
+data.zdey.txt 3.0018356045764243
+data.zdro.txt 3.0018356045764243
+data.zdxw.txt 3.0018356045764243

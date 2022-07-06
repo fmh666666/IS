@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.zbjq.txt 4
-data.zcaq.txt 1
-data.zcbe.txt 1
-data.zcej.txt 1
-data.zedo.txt 1
+data.cz.txt 3.1086847136800873
+data.zbjq.txt 7.21814237484067
+data.zcaq.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zcej.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

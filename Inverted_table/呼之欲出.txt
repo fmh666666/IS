@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.zaop.txt 1
-data.zcdg.txt 1
-data.zcej.txt 1
-data.zcyv.txt 1
-data.zelt.txt 1
-data.zevq.txt 1
-data.zexk.txt 1
-data.zexm.txt 1
+data.ka.txt 2.82763771717948
+data.zaop.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcej.txt 2.82763771717948
+data.zcyv.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zevq.txt 2.82763771717948
+data.zexk.txt 2.82763771717948
+data.zexm.txt 2.82763771717948

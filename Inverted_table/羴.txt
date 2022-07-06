@@ -1,9 +1,9 @@
 8
-data.en.txt 1
-data.zbkv.txt 1
-data.zbtx.txt 1
-data.zcdl.txt 1
-data.zdkp.txt 1
-data.zdtv.txt 1
-data.zduk.txt 2
-data.zeeq.txt 1
+data.en.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbtx.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zdtv.txt 2.9092786962624935
+data.zduk.txt 4.611097637722987
+data.zeeq.txt 2.9092786962624935

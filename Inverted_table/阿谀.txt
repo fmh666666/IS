@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zawu.txt 1
-data.zeds.txt 1
+data.op.txt 3.5891377275982888
+data.zawu.txt 3.5891377275982888
+data.zeds.txt 3.5891377275982888

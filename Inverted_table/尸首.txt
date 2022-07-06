@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zair.txt 1
-data.zawc.txt 1
-data.zbfx.txt 1
-data.zccu.txt 1
-data.zcpx.txt 1
-data.zcse.txt 1
-data.zdoc.txt 1
+data.zabe.txt 2.9092786962624935
+data.zair.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935

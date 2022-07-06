@@ -1,5 +1,5 @@
 4
-data.pq.txt 1
-data.zacd.txt 3
-data.zdds.txt 3
-data.zddv.txt 4
+data.pq.txt 3.389731710180695
+data.zacd.txt 6.77946342036139
+data.zdds.txt 6.77946342036139
+data.zddv.txt 7.870713291999142

@@ -1,7 +1,7 @@
 6
-data.ye.txt 1
-data.zabe.txt 1
-data.zblq.txt 1
-data.zclm.txt 1
-data.zdqz.txt 1
-data.zexm.txt 2
+data.ye.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zdqz.txt 3.1086847136800873
+data.zexm.txt 4.927148697748023

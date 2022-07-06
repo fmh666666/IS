@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.zabe.txt 1
-data.zarr.txt 2
-data.zasw.txt 3
-data.zawb.txt 1
-data.zclm.txt 1
-data.zdnc.txt 1
-data.zeds.txt 3
+data.hz.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zarr.txt 4.611097637722987
+data.zasw.txt 5.818557392524987
+data.zawb.txt 2.9092786962624935
+data.zclm.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935
+data.zeds.txt 5.818557392524987

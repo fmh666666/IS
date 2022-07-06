@@ -1,8 +1,8 @@
 7
-data.kq.txt 2
-data.ok.txt 1
-data.zaxx.txt 1
-data.zbvp.txt 1
-data.zcej.txt 1
-data.zcln.txt 1
-data.zdwn.txt 1
+data.kq.txt 4.757796866583254
+data.ok.txt 3.0018356045764243
+data.zaxx.txt 3.0018356045764243
+data.zbvp.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zcln.txt 3.0018356045764243
+data.zdwn.txt 3.0018356045764243

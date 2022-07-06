@@ -1,11 +1,11 @@
 10
-data.kq.txt 3
-data.ry.txt 1
-data.zacw.txt 1
-data.zawb.txt 1
-data.zbcj.txt 1
-data.zbpx.txt 1
-data.zcli.txt 1
-data.zcmx.txt 1
-data.zdwv.txt 1
-data.zelt.txt 1
+data.kq.txt 5.509214745617831
+data.ry.txt 2.7546073728089153
+data.zacw.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zcli.txt 2.7546073728089153
+data.zcmx.txt 2.7546073728089153
+data.zdwv.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

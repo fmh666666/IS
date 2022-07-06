@@ -1,7 +1,7 @@
 6
-data.zavg.txt 1
-data.zawu.txt 1
-data.zaxk.txt 1
-data.zctp.txt 1
-data.zdkk.txt 1
-data.zecf.txt 1
+data.zavg.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zecf.txt 3.1086847136800873

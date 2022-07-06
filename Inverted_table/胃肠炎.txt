@@ -1,5 +1,5 @@
 4
-data.ff.txt 2
-data.zaip.txt 1
-data.zctp.txt 1
-data.zdwz.txt 1
+data.ff.txt 5.372597648141796
+data.zaip.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zdwz.txt 3.389731710180695

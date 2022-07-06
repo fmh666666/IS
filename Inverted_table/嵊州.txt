@@ -1,4 +1,4 @@
 3
-data.zaop.txt 1
-data.zcfx.txt 4
-data.zdaw.txt 4
+data.zaop.txt 3.5891377275982888
+data.zcfx.txt 8.333719726130651
+data.zdaw.txt 8.333719726130651

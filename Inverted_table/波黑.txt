@@ -1,10 +1,10 @@
 9
-data.zalm.txt 6
-data.zavg.txt 8
-data.zbor.txt 1
-data.zcjd.txt 3
-data.zdud.txt 1
-data.zduo.txt 2
-data.zdwz.txt 1
-data.zeyu.txt 5
-data.zezn.txt 1
+data.zalm.txt 7.938182663119541
+data.zavg.txt 8.9633994947085
+data.zbor.txt 2.82763771717948
+data.zcjd.txt 5.65527543435896
+data.zdud.txt 2.82763771717948
+data.zduo.txt 4.48169974735425
+data.zdwz.txt 2.82763771717948
+data.zeyu.txt 7.309337464533731
+data.zezn.txt 2.82763771717948

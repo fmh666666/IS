@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.mu.txt 1
-data.vm.txt 1
-data.zahd.txt 2
-data.zalc.txt 1
-data.zbgu.txt 1
-data.zbsu.txt 1
-data.zcmx.txt 1
-data.zdib.txt 1
-data.zeaj.txt 1
-data.zeid.txt 1
+data.hu.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.zahd.txt 4.261240455343955
+data.zalc.txt 2.6885433903988862
+data.zbgu.txt 2.6885433903988862
+data.zbsu.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zdib.txt 2.6885433903988862
+data.zeaj.txt 2.6885433903988862
+data.zeid.txt 2.6885433903988862

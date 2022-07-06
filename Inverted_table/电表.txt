@@ -1,9 +1,9 @@
 8
-data.zawb.txt 1
-data.zbvp.txt 1
-data.zcgi.txt 1
-data.zczb.txt 1
-data.zddp.txt 1
-data.zdnc.txt 1
-data.zduc.txt 1
-data.zdzn.txt 2
+data.zawb.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zcgi.txt 2.9092786962624935
+data.zczb.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935
+data.zduc.txt 2.9092786962624935
+data.zdzn.txt 4.611097637722987

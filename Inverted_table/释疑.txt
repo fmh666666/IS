@@ -1,12 +1,12 @@
 11
-data.nh.txt 1
-data.tv.txt 1
-data.zalm.txt 1
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zcse.txt 1
-data.zcxh.txt 1
-data.zdcj.txt 1
-data.zdst.txt 1
-data.zduc.txt 1
-data.zeve.txt 1
+data.nh.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.zalm.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zcxh.txt 2.6885433903988862
+data.zdcj.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zduc.txt 2.6885433903988862
+data.zeve.txt 2.6885433903988862

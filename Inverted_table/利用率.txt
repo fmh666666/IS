@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.zbht.txt 2
-data.zcpb.txt 1
-data.zctp.txt 2
-data.zdud.txt 1
-data.zdvl.txt 1
+data.gw.txt 3.1086847136800873
+data.zbht.txt 4.927148697748023
+data.zcpb.txt 3.1086847136800873
+data.zctp.txt 4.927148697748023
+data.zdud.txt 3.1086847136800873
+data.zdvl.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.zarc.txt 1
-data.zbia.txt 1
-data.zebc.txt 1
-data.zevq.txt 1
+data.zarc.txt 3.389731710180695
+data.zbia.txt 3.389731710180695
+data.zebc.txt 3.389731710180695
+data.zevq.txt 3.389731710180695

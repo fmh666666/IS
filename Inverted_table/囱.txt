@@ -1,4 +1,4 @@
 3
-data.gw.txt 1
-data.zcgo.txt 8
-data.zebf.txt 1
+data.gw.txt 3.5891377275982888
+data.zcgo.txt 11.377297416333665
+data.zebf.txt 3.5891377275982888

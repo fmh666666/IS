@@ -1,4 +1,4 @@
 3
-data.zawc.txt 1
-data.zdud.txt 1
-data.zdzm.txt 1
+data.zawc.txt 3.5891377275982888
+data.zdud.txt 3.5891377275982888
+data.zdzm.txt 3.5891377275982888

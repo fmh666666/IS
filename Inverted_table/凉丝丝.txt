@@ -1,4 +1,4 @@
 3
-data.zcsr.txt 1
-data.zeeh.txt 3
-data.zemb.txt 1
+data.zcsr.txt 3.5891377275982888
+data.zeeh.txt 7.1782754551965775
+data.zemb.txt 3.5891377275982888

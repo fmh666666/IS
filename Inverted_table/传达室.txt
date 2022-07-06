@@ -1,8 +1,8 @@
 7
-data.zahd.txt 3
-data.zajo.txt 2
-data.zblr.txt 1
-data.zbqu.txt 1
-data.zbyv.txt 1
-data.zcdz.txt 1
-data.zfcp.txt 1
+data.zahd.txt 6.003671209152849
+data.zajo.txt 4.757796866583254
+data.zblr.txt 3.0018356045764243
+data.zbqu.txt 3.0018356045764243
+data.zbyv.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zfcp.txt 3.0018356045764243

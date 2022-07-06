@@ -1,4 +1,4 @@
 3
-data.zaeh.txt 1
-data.zazg.txt 1
-data.zenn.txt 1
+data.zaeh.txt 3.5891377275982888
+data.zazg.txt 3.5891377275982888
+data.zenn.txt 3.5891377275982888

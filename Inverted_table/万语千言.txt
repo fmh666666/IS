@@ -1,4 +1,4 @@
 3
-data.zako.txt 1
-data.zawz.txt 1
-data.zdaw.txt 2
+data.zako.txt 3.5891377275982888
+data.zawz.txt 3.5891377275982888
+data.zdaw.txt 5.688648708166832

@@ -1,6 +1,6 @@
 5
-data.nh.txt 1
-data.zaic.txt 1
-data.zbpc.txt 1
-data.zcda.txt 1
-data.zdgv.txt 1
+data.nh.txt 3.235060386727117
+data.zaic.txt 3.235060386727117
+data.zbpc.txt 3.235060386727117
+data.zcda.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117

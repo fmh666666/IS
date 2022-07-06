@@ -1,2 +1,2 @@
 1
-data.ee.txt 9
+data.ee.txt 14.452505732596203

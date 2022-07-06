@@ -1,4 +1,4 @@
 3
-data.yx.txt 1
-data.zair.txt 1
-data.zdsh.txt 1
+data.yx.txt 3.5891377275982888
+data.zair.txt 3.5891377275982888
+data.zdsh.txt 3.5891377275982888

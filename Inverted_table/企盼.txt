@@ -1,10 +1,10 @@
 9
-data.zalt.txt 1
-data.zaoc.txt 1
-data.zawu.txt 1
-data.zbjk.txt 1
-data.zcem.txt 1
-data.zdgt.txt 1
-data.zdux.txt 1
-data.zelt.txt 1
-data.zeta.txt 1
+data.zalt.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeta.txt 2.82763771717948

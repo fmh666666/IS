@@ -1,4 +1,4 @@
 3
-data.zbha.txt 1
-data.zbtj.txt 1
-data.zeyu.txt 1
+data.zbha.txt 3.5891377275982888
+data.zbtj.txt 3.5891377275982888
+data.zeyu.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zawu.txt 1
-data.zbgu.txt 1
-data.zddb.txt 1
+data.zawu.txt 3.5891377275982888
+data.zbgu.txt 3.5891377275982888
+data.zddb.txt 3.5891377275982888

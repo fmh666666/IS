@@ -1,11 +1,11 @@
 10
-data.ee.txt 1
-data.pn.txt 1
-data.zabe.txt 1
-data.zbot.txt 1
-data.zcao.txt 1
-data.zcaq.txt 1
-data.zcdz.txt 4
-data.zcls.txt 1
-data.zddp.txt 2
-data.zdux.txt 1
+data.ee.txt 2.7546073728089153
+data.pn.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zcao.txt 2.7546073728089153
+data.zcaq.txt 2.7546073728089153
+data.zcdz.txt 6.396000249308887
+data.zcls.txt 2.7546073728089153
+data.zddp.txt 4.365949390112154
+data.zdux.txt 2.7546073728089153

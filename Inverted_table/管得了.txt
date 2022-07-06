@@ -1,4 +1,4 @@
 3
-data.zadv.txt 1
-data.zbpp.txt 1
-data.zefv.txt 1
+data.zadv.txt 3.5891377275982888
+data.zbpp.txt 3.5891377275982888
+data.zefv.txt 3.5891377275982888

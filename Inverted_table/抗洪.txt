@@ -1,14 +1,14 @@
 13
-data.hz.txt 1
-data.tz.txt 1
-data.wc.txt 1
-data.zbbt.txt 1
-data.zbuj.txt 1
-data.zbyb.txt 1
-data.zdgt.txt 1
-data.zeag.txt 1
-data.zedo.txt 1
-data.zeds.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zeqv.txt 1
+data.hz.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.wc.txt 2.5727503226135906
+data.zbbt.txt 2.5727503226135906
+data.zbuj.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zeag.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zeds.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906

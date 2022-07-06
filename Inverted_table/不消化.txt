@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.pa.txt 1
-data.zaxj.txt 1
-data.zbpc.txt 1
-data.zdwn.txt 1
+data.hp.txt 3.235060386727117
+data.pa.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zbpc.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117

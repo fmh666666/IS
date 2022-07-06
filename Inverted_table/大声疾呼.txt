@@ -1,7 +1,7 @@
 6
-data.zbcv.txt 1
-data.zciq.txt 1
-data.zdds.txt 1
-data.zdnh.txt 1
-data.zefd.txt 1
-data.zefv.txt 1
+data.zbcv.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zdds.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873
+data.zefd.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873

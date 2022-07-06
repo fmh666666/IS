@@ -1,3 +1,3 @@
 2
-data.zclh.txt 31
-data.zcli.txt 5
+data.zclh.txt 19.350923620494484
+data.zcli.txt 10.0042823826595

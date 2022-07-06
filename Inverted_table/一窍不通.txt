@@ -1,14 +1,14 @@
 13
-data.hp.txt 1
-data.zahd.txt 1
-data.zass.txt 1
-data.zate.txt 1
-data.zayc.txt 1
-data.zbvm.txt 1
-data.zcft.txt 1
-data.zclm.txt 1
-data.zctn.txt 2
-data.zddv.txt 1
-data.zdlg.txt 1
-data.zdtr.txt 1
-data.zevq.txt 1
+data.hp.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zass.txt 2.5727503226135906
+data.zate.txt 2.5727503226135906
+data.zayc.txt 2.5727503226135906
+data.zbvm.txt 2.5727503226135906
+data.zcft.txt 2.5727503226135906
+data.zclm.txt 2.5727503226135906
+data.zctn.txt 4.077712785060798
+data.zddv.txt 2.5727503226135906
+data.zdlg.txt 2.5727503226135906
+data.zdtr.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906

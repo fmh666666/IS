@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zewn.txt 1
-data.zfai.txt 1
+data.hg.txt 3.5891377275982888
+data.zewn.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

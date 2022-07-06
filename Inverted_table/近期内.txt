@@ -1,5 +1,5 @@
 4
-data.zbdx.txt 1
-data.zcpx.txt 1
-data.zcqe.txt 1
-data.zeta.txt 1
+data.zbdx.txt 3.389731710180695
+data.zcpx.txt 3.389731710180695
+data.zcqe.txt 3.389731710180695
+data.zeta.txt 3.389731710180695

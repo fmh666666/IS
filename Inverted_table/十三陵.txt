@@ -1,9 +1,9 @@
 8
-data.cn.txt 1
-data.zbdb.txt 3
-data.zccx.txt 1
-data.zcrg.txt 1
-data.zdkc.txt 1
-data.zeds.txt 1
-data.zerv.txt 1
-data.zeyy.txt 1
+data.cn.txt 2.9092786962624935
+data.zbdb.txt 5.818557392524987
+data.zccx.txt 2.9092786962624935
+data.zcrg.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935
+data.zeyy.txt 2.9092786962624935

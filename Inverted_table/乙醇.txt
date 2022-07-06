@@ -1,11 +1,11 @@
 10
-data.op.txt 1
-data.zass.txt 1
-data.zbcj.txt 2
-data.zcis.txt 1
-data.zcko.txt 1
-data.zdep.txt 1
-data.zdic.txt 2
-data.zdlm.txt 1
-data.zduk.txt 1
-data.zebf.txt 1
+data.op.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zbcj.txt 4.365949390112154
+data.zcis.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153
+data.zdic.txt 4.365949390112154
+data.zdlm.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zebf.txt 2.7546073728089153

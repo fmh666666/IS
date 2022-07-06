@@ -1,12 +1,12 @@
 11
-data.zafi.txt 1
-data.zafq.txt 2
-data.zbcc.txt 1
-data.zbot.txt 3
-data.zbta.txt 1
-data.zcdg.txt 1
-data.zdtr.txt 1
-data.zelt.txt 1
-data.zexk.txt 1
-data.zeyg.txt 1
-data.zeyu.txt 1
+data.zafi.txt 2.6885433903988862
+data.zafq.txt 4.261240455343955
+data.zbcc.txt 2.6885433903988862
+data.zbot.txt 5.3770867807977725
+data.zbta.txt 2.6885433903988862
+data.zcdg.txt 2.6885433903988862
+data.zdtr.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862
+data.zexk.txt 2.6885433903988862
+data.zeyg.txt 2.6885433903988862
+data.zeyu.txt 2.6885433903988862

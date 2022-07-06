@@ -1,2 +1,2 @@
 1
-data.zegk.txt 1
+data.zegk.txt 4.350637738017098

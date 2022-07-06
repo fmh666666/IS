@@ -1,5 +1,5 @@
 4
-data.zako.txt 1
-data.zdro.txt 1
-data.zezf.txt 1
-data.zfaw.txt 1
+data.zako.txt 3.389731710180695
+data.zdro.txt 3.389731710180695
+data.zezf.txt 3.389731710180695
+data.zfaw.txt 3.389731710180695

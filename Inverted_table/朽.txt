@@ -1,10 +1,10 @@
 9
-data.tz.txt 1
-data.zacd.txt 1
-data.zajh.txt 1
-data.zaqf.txt 1
-data.zazw.txt 1
-data.zcfn.txt 2
-data.zeai.txt 1
-data.zeez.txt 1
-data.zehp.txt 1
+data.tz.txt 2.82763771717948
+data.zacd.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zaqf.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zcfn.txt 4.48169974735425
+data.zeai.txt 2.82763771717948
+data.zeez.txt 2.82763771717948
+data.zehp.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.kt.txt 3
-data.zacd.txt 1
-data.zawm.txt 1
-data.zawz.txt 1
-data.zbaq.txt 1
-data.zbeb.txt 1
-data.zbjh.txt 2
-data.zcwq.txt 6
-data.zczj.txt 1
-data.zdib.txt 1
+data.fp.txt 2.6885433903988862
+data.kt.txt 5.3770867807977725
+data.zacd.txt 2.6885433903988862
+data.zawm.txt 2.6885433903988862
+data.zawz.txt 2.6885433903988862
+data.zbaq.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbjh.txt 4.261240455343955
+data.zcwq.txt 7.547695520201752
+data.zczj.txt 2.6885433903988862
+data.zdib.txt 2.6885433903988862

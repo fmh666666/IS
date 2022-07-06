@@ -1,4 +1,4 @@
 3
-data.sq.txt 1
-data.zcdy.txt 1
-data.zfas.txt 1
+data.sq.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

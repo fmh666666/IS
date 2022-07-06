@@ -1,9 +1,9 @@
 8
-data.zasj.txt 1
-data.zazg.txt 1
-data.zblq.txt 1
-data.zbvm.txt 1
-data.zcon.txt 1
-data.zdib.txt 2
-data.zdkk.txt 1
-data.zedo.txt 1
+data.zasj.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdib.txt 4.611097637722987
+data.zdkk.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

@@ -1,6 +1,6 @@
 5
-data.xk.txt 1
-data.zdaq.txt 1
-data.zdlg.txt 1
-data.zdtr.txt 7
-data.zfby.txt 2
+data.xk.txt 3.235060386727117
+data.zdaq.txt 3.235060386727117
+data.zdlg.txt 3.235060386727117
+data.zdtr.txt 9.70518116018135
+data.zfby.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zard.txt 1
-data.zaxj.txt 1
-data.zayd.txt 1
-data.zegl.txt 1
+data.zalm.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zayd.txt 3.235060386727117
+data.zegl.txt 3.235060386727117

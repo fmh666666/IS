@@ -1,5 +1,5 @@
 4
-data.zahd.txt 1
-data.zctp.txt 3
-data.zelt.txt 1
-data.zfaz.txt 1
+data.zahd.txt 3.389731710180695
+data.zctp.txt 6.77946342036139
+data.zelt.txt 3.389731710180695
+data.zfaz.txt 3.389731710180695

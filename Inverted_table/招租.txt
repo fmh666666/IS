@@ -1,7 +1,7 @@
 6
-data.zarr.txt 1
-data.zcdv.txt 1
-data.zddm.txt 1
-data.zduk.txt 1
-data.zdzn.txt 1
-data.zfcj.txt 2
+data.zarr.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zddm.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873
+data.zfcj.txt 4.927148697748023

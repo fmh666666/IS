@@ -1,6 +1,6 @@
 5
-data.zafy.txt 1
-data.zaub.txt 1
-data.zeew.txt 2
-data.zefu.txt 1
-data.zezh.txt 1
+data.zafy.txt 3.235060386727117
+data.zaub.txt 3.235060386727117
+data.zeew.txt 5.1274494005309625
+data.zefu.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

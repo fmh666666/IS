@@ -1,4 +1,4 @@
 3
-data.jd.txt 1
-data.zbds.txt 2
-data.zdpw.txt 1
+data.jd.txt 3.5891377275982888
+data.zbds.txt 5.688648708166832
+data.zdpw.txt 3.5891377275982888

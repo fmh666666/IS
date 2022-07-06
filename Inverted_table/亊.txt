@@ -1,11 +1,11 @@
 10
-data.yx.txt 1
-data.zawc.txt 1
-data.zayv.txt 1
-data.zbla.txt 1
-data.zbnx.txt 1
-data.zdgo.txt 1
-data.zdro.txt 1
-data.zeew.txt 1
-data.zfae.txt 1
-data.zfby.txt 2
+data.yx.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zayv.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zdgo.txt 2.7546073728089153
+data.zdro.txt 2.7546073728089153
+data.zeew.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153
+data.zfby.txt 4.365949390112154

@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zdnh.txt 1
-data.zdsh.txt 1
-data.zfai.txt 2
+data.op.txt 3.389731710180695
+data.zdnh.txt 3.389731710180695
+data.zdsh.txt 3.389731710180695
+data.zfai.txt 5.372597648141796

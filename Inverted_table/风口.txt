@@ -1,9 +1,9 @@
 8
-data.hz.txt 2
-data.vi.txt 1
-data.zako.txt 1
-data.zazn.txt 1
-data.zcdv.txt 1
-data.zcts.txt 1
-data.zcuh.txt 1
-data.zdzm.txt 1
+data.hz.txt 4.611097637722987
+data.vi.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcts.txt 2.9092786962624935
+data.zcuh.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935

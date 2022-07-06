@@ -1,8 +1,8 @@
 7
-data.en.txt 1
-data.zbvf.txt 1
-data.zccu.txt 1
-data.zeew.txt 1
-data.zegk.txt 1
-data.zegz.txt 1
-data.zfbr.txt 1
+data.en.txt 3.0018356045764243
+data.zbvf.txt 3.0018356045764243
+data.zccu.txt 3.0018356045764243
+data.zeew.txt 3.0018356045764243
+data.zegk.txt 3.0018356045764243
+data.zegz.txt 3.0018356045764243
+data.zfbr.txt 3.0018356045764243

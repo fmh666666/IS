@@ -1,12 +1,12 @@
 11
-data.zabx.txt 1
-data.zafe.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zbbt.txt 1
-data.zbta.txt 1
-data.zbux.txt 1
-data.zdaa.txt 1
-data.zdle.txt 1
-data.zedk.txt 1
-data.zelt.txt 1
+data.zabx.txt 2.6885433903988862
+data.zafe.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbta.txt 2.6885433903988862
+data.zbux.txt 2.6885433903988862
+data.zdaa.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zedk.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862

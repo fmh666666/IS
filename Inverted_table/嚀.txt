@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.jf.txt 1
-data.zcpb.txt 1
-data.zdwv.txt 1
-data.zewn.txt 1
+data.hu.txt 3.235060386727117
+data.jf.txt 3.235060386727117
+data.zcpb.txt 3.235060386727117
+data.zdwv.txt 3.235060386727117
+data.zewn.txt 3.235060386727117

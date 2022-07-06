@@ -1,4 +1,4 @@
 3
-data.zbla.txt 1
-data.zcis.txt 1
-data.zczj.txt 1
+data.zbla.txt 3.5891377275982888
+data.zcis.txt 3.5891377275982888
+data.zczj.txt 3.5891377275982888

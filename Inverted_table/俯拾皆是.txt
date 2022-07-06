@@ -1,4 +1,4 @@
 3
-data.tv.txt 1
-data.zcyv.txt 1
-data.zcyx.txt 1
+data.tv.txt 3.5891377275982888
+data.zcyv.txt 3.5891377275982888
+data.zcyx.txt 3.5891377275982888

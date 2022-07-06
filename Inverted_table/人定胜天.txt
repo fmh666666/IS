@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.tz.txt 1
-data.zdeb.txt 1
-data.zdzm.txt 1
-data.zfaj.txt 1
+data.ga.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

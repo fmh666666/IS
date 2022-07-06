@@ -1,7 +1,7 @@
 6
-data.uz.txt 1
-data.zabx.txt 1
-data.zahd.txt 1
-data.zcgo.txt 1
-data.zcpx.txt 1
-data.zene.txt 1
+data.uz.txt 3.1086847136800873
+data.zabx.txt 3.1086847136800873
+data.zahd.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

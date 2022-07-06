@@ -1,9 +1,9 @@
 8
-data.ok.txt 2
-data.uz.txt 1
-data.zbof.txt 1
-data.zbpx.txt 1
-data.zcfn.txt 1
-data.zcvq.txt 1
-data.zeoh.txt 1
-data.zfaw.txt 1
+data.ok.txt 4.611097637722987
+data.uz.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zfaw.txt 2.9092786962624935

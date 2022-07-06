@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.zagb.txt 1
-data.zazo.txt 1
-data.zcel.txt 1
-data.zehp.txt 1
+data.ep.txt 3.235060386727117
+data.zagb.txt 3.235060386727117
+data.zazo.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zehp.txt 3.235060386727117

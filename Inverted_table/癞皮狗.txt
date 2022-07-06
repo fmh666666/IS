@@ -1,6 +1,6 @@
 5
-data.zapf.txt 1
-data.zbzf.txt 1
-data.zdnc.txt 1
-data.zeai.txt 1
-data.zerv.txt 2
+data.zapf.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zdnc.txt 3.235060386727117
+data.zeai.txt 3.235060386727117
+data.zerv.txt 5.1274494005309625

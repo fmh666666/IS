@@ -1,14 +1,14 @@
 13
-data.zanh.txt 1
-data.zawm.txt 3
-data.zbaq.txt 1
-data.zbdx.txt 2
-data.zbeb.txt 1
-data.zbfd.txt 1
-data.zbjq.txt 1
-data.zcaq.txt 2
-data.zcfx.txt 1
-data.zchw.txt 1
-data.zcqs.txt 2
-data.zdou.txt 1
-data.zedk.txt 3
+data.zanh.txt 2.5727503226135906
+data.zawm.txt 5.145500645227181
+data.zbaq.txt 2.5727503226135906
+data.zbdx.txt 4.077712785060798
+data.zbeb.txt 2.5727503226135906
+data.zbfd.txt 2.5727503226135906
+data.zbjq.txt 2.5727503226135906
+data.zcaq.txt 4.077712785060798
+data.zcfx.txt 2.5727503226135906
+data.zchw.txt 2.5727503226135906
+data.zcqs.txt 4.077712785060798
+data.zdou.txt 2.5727503226135906
+data.zedk.txt 5.145500645227181

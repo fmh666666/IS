@@ -1,12 +1,12 @@
 11
-data.fp.txt 2
-data.zawo.txt 1
-data.zazo.txt 1
-data.zbga.txt 1
-data.zbot.txt 1
-data.zbts.txt 1
-data.zcem.txt 1
-data.zciq.txt 1
-data.zdqx.txt 1
-data.zedd.txt 1
-data.zewv.txt 1
+data.fp.txt 4.261240455343955
+data.zawo.txt 2.6885433903988862
+data.zazo.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zbot.txt 2.6885433903988862
+data.zbts.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zciq.txt 2.6885433903988862
+data.zdqx.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zewv.txt 2.6885433903988862

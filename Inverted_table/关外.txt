@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zbla.txt 1
-data.zbxy.txt 1
-data.zbyv.txt 1
-data.zcdy.txt 1
-data.zefs.txt 2
+data.op.txt 3.1086847136800873
+data.zbla.txt 3.1086847136800873
+data.zbxy.txt 3.1086847136800873
+data.zbyv.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zefs.txt 4.927148697748023

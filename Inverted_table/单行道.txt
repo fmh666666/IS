@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.hg.txt 1
-data.hz.txt 1
-data.zbaf.txt 1
-data.zbfr.txt 1
-data.zcmx.txt 1
-data.zdcj.txt 1
-data.zdzi.txt 1
+data.ev.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.hz.txt 2.9092786962624935
+data.zbaf.txt 2.9092786962624935
+data.zbfr.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zdcj.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935

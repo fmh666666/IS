@@ -1,6 +1,6 @@
 5
-data.zbaq.txt 1
-data.zbdb.txt 1
-data.zcql.txt 1
-data.zdep.txt 1
-data.zdnc.txt 1
+data.zbaq.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zdnc.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.zasy.txt 1
-data.zawb.txt 1
-data.zawu.txt 1
-data.zbls.txt 2
-data.zbvm.txt 1
-data.zbye.txt 1
-data.zcmy.txt 2
-data.zcvi.txt 2
-data.zcxr.txt 1
-data.zdoc.txt 1
-data.zene.txt 3
-data.zeob.txt 2
-data.zexk.txt 1
+data.zasy.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zawu.txt 2.5727503226135906
+data.zbls.txt 4.077712785060798
+data.zbvm.txt 2.5727503226135906
+data.zbye.txt 2.5727503226135906
+data.zcmy.txt 4.077712785060798
+data.zcvi.txt 4.077712785060798
+data.zcxr.txt 2.5727503226135906
+data.zdoc.txt 2.5727503226135906
+data.zene.txt 5.145500645227181
+data.zeob.txt 4.077712785060798
+data.zexk.txt 2.5727503226135906

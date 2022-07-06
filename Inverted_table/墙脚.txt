@@ -1,4 +1,4 @@
 3
-data.zadv.txt 8
-data.zbls.txt 1
-data.zcue.txt 1
+data.zadv.txt 11.377297416333665
+data.zbls.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888

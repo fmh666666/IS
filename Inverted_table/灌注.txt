@@ -1,3 +1,3 @@
 2
-data.fe.txt 3
-data.zene.txt 1
+data.fe.txt 7.740369448197793
+data.zene.txt 3.8701847240988965

@@ -1,12 +1,12 @@
 11
-data.gk.txt 1
-data.uz.txt 2
-data.ye.txt 1
-data.zass.txt 1
-data.zbem.txt 1
-data.zbph.txt 1
-data.zcem.txt 1
-data.zcni.txt 1
-data.zdhw.txt 1
-data.zeoo.txt 1
-data.zeqh.txt 1
+data.gk.txt 2.6885433903988862
+data.uz.txt 4.261240455343955
+data.ye.txt 2.6885433903988862
+data.zass.txt 2.6885433903988862
+data.zbem.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zeoo.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

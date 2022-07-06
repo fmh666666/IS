@@ -1,6 +1,6 @@
 5
-data.zajn.txt 1
-data.zcdl.txt 1
-data.zdep.txt 1
-data.zezy.txt 1
-data.zfcp.txt 1
+data.zajn.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zezy.txt 3.235060386727117
+data.zfcp.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.en.txt 1
-data.zcdl.txt 1
-data.zeeq.txt 1
-data.zexk.txt 1
+data.en.txt 3.389731710180695
+data.zcdl.txt 3.389731710180695
+data.zeeq.txt 3.389731710180695
+data.zexk.txt 3.389731710180695

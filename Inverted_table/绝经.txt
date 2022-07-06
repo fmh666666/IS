@@ -1,7 +1,7 @@
 6
-data.ew.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zdbf.txt 1
-data.zdwn.txt 1
-data.zekw.txt 1
+data.ew.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdbf.txt 3.1086847136800873
+data.zdwn.txt 3.1086847136800873
+data.zekw.txt 3.1086847136800873

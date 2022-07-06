@@ -1,10 +1,10 @@
 9
-data.zail.txt 1
-data.zajh.txt 1
-data.zarr.txt 1
-data.zayv.txt 1
-data.zbjc.txt 1
-data.zcef.txt 1
-data.zdoq.txt 3
-data.zebv.txt 1
-data.zegk.txt 1
+data.zail.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zarr.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zbjc.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zdoq.txt 5.65527543435896
+data.zebv.txt 2.82763771717948
+data.zegk.txt 2.82763771717948

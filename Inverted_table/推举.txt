@@ -1,12 +1,12 @@
 11
-data.ha.txt 1
-data.wc.txt 1
-data.zabe.txt 1
-data.zagr.txt 1
-data.zako.txt 1
-data.zawb.txt 1
-data.zazw.txt 1
-data.zbha.txt 1
-data.zbts.txt 2
-data.zdpz.txt 2
-data.zeoh.txt 1
+data.ha.txt 2.6885433903988862
+data.wc.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zbts.txt 4.261240455343955
+data.zdpz.txt 4.261240455343955
+data.zeoh.txt 2.6885433903988862

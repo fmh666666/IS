@@ -1,4 +1,4 @@
 3
-data.gw.txt 1
-data.zajo.txt 1
-data.zebc.txt 2
+data.gw.txt 3.5891377275982888
+data.zajo.txt 3.5891377275982888
+data.zebc.txt 5.688648708166832

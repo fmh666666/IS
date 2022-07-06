@@ -1,4 +1,4 @@
 3
-data.hu.txt 1
-data.zamp.txt 1
-data.zbfp.txt 1
+data.hu.txt 3.5891377275982888
+data.zamp.txt 3.5891377275982888
+data.zbfp.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zcih.txt 2
-data.zekw.txt 1
-data.zeqv.txt 1
-data.zerh.txt 1
+data.vi.txt 3.235060386727117
+data.zcih.txt 5.1274494005309625
+data.zekw.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

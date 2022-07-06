@@ -1,13 +1,13 @@
 12
-data.en.txt 1
-data.zabe.txt 1
-data.zafk.txt 1
-data.zafv.txt 2
-data.zazg.txt 1
-data.zbnp.txt 1
-data.zcdz.txt 1
-data.zcef.txt 3
-data.zcft.txt 1
-data.zddb.txt 1
-data.zehp.txt 1
-data.zelt.txt 1
+data.en.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zafk.txt 2.628231699761886
+data.zafv.txt 4.165648687329214
+data.zazg.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zcef.txt 5.256463399523772
+data.zcft.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zehp.txt 2.628231699761886
+data.zelt.txt 2.628231699761886

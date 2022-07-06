@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zawu.txt 1
-data.zbpm.txt 1
-data.zcue.txt 4
-data.zene.txt 1
+data.zahd.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zcue.txt 7.511577600598868
+data.zene.txt 3.235060386727117

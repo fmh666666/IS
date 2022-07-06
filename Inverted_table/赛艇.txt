@@ -1,14 +1,14 @@
 13
-data.pn.txt 3
-data.xk.txt 1
-data.zaoy.txt 1
-data.zayv.txt 3
-data.zazo.txt 1
-data.zbel.txt 1
-data.zcrg.txt 3
-data.zdby.txt 1
-data.zdgp.txt 1
-data.zduk.txt 1
-data.zelj.txt 1
-data.zene.txt 1
-data.zerv.txt 1
+data.pn.txt 5.145500645227181
+data.xk.txt 2.5727503226135906
+data.zaoy.txt 2.5727503226135906
+data.zayv.txt 5.145500645227181
+data.zazo.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zcrg.txt 5.145500645227181
+data.zdby.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zduk.txt 2.5727503226135906
+data.zelj.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zerv.txt 2.5727503226135906

@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.ry.txt 1
-data.zapr.txt 1
-data.zawo.txt 1
-data.zbbt.txt 1
-data.zcem.txt 2
-data.zcxr.txt 1
-data.zczl.txt 1
-data.zddv.txt 1
-data.zdme.txt 1
-data.zduo.txt 3
+data.hu.txt 2.6885433903988862
+data.ry.txt 2.6885433903988862
+data.zapr.txt 2.6885433903988862
+data.zawo.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zcem.txt 4.261240455343955
+data.zcxr.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zddv.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zduo.txt 5.3770867807977725

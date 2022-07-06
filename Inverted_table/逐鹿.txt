@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.ev.txt 3
-data.ew.txt 3
-data.pn.txt 1
-data.zadv.txt 1
-data.zajh.txt 1
-data.zasj.txt 1
-data.zdkp.txt 1
-data.zenn.txt 2
-data.zevl.txt 1
+data.bs.txt 2.7546073728089153
+data.ev.txt 5.509214745617831
+data.ew.txt 5.509214745617831
+data.pn.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zajh.txt 2.7546073728089153
+data.zasj.txt 2.7546073728089153
+data.zdkp.txt 2.7546073728089153
+data.zenn.txt 4.365949390112154
+data.zevl.txt 2.7546073728089153

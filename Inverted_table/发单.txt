@@ -1,5 +1,5 @@
 4
-data.uz.txt 1
-data.zcli.txt 1
-data.zcqe.txt 3
-data.zduo.txt 2
+data.uz.txt 3.389731710180695
+data.zcli.txt 3.389731710180695
+data.zcqe.txt 6.77946342036139
+data.zduo.txt 5.372597648141796

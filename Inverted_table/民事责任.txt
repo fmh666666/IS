@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zajn.txt 1
-data.zawb.txt 1
-data.zctn.txt 1
-data.zdqz.txt 1
+data.pa.txt 3.235060386727117
+data.zajn.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zctn.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117

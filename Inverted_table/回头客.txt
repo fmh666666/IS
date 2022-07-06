@@ -1,10 +1,10 @@
 9
-data.pn.txt 1
-data.zaqw.txt 1
-data.zcdz.txt 2
-data.zcfx.txt 1
-data.zcsu.txt 2
-data.zcvt.txt 1
-data.zdlm.txt 1
-data.zerh.txt 3
-data.zexk.txt 1
+data.pn.txt 2.82763771717948
+data.zaqw.txt 2.82763771717948
+data.zcdz.txt 4.48169974735425
+data.zcfx.txt 2.82763771717948
+data.zcsu.txt 4.48169974735425
+data.zcvt.txt 2.82763771717948
+data.zdlm.txt 2.82763771717948
+data.zerh.txt 5.65527543435896
+data.zexk.txt 2.82763771717948

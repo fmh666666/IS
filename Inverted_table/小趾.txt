@@ -1,6 +1,6 @@
 5
-data.zane.txt 1
-data.zatz.txt 1
-data.zbfz.txt 1
-data.zcgo.txt 1
-data.zdll.txt 1
+data.zane.txt 3.235060386727117
+data.zatz.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zcgo.txt 3.235060386727117
+data.zdll.txt 3.235060386727117

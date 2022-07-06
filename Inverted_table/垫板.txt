@@ -1,6 +1,6 @@
 5
-data.yx.txt 2
-data.zcfn.txt 1
-data.zddb.txt 1
-data.zeec.txt 1
-data.zelj.txt 1
+data.yx.txt 5.1274494005309625
+data.zcfn.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zeec.txt 3.235060386727117
+data.zelj.txt 3.235060386727117

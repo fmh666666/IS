@@ -1,8 +1,8 @@
 7
-data.zabj.txt 2
-data.zahp.txt 1
-data.zaqw.txt 1
-data.zbpx.txt 1
-data.zdaq.txt 1
-data.zeqv.txt 1
-data.zezy.txt 1
+data.zabj.txt 4.757796866583254
+data.zahp.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zbpx.txt 3.0018356045764243
+data.zdaq.txt 3.0018356045764243
+data.zeqv.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

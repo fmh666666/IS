@@ -1,6 +1,6 @@
 5
-data.dg.txt 2
-data.pn.txt 3
-data.zcao.txt 2
-data.zdme.txt 2
-data.zduc.txt 1
+data.dg.txt 5.1274494005309625
+data.pn.txt 6.470120773454234
+data.zcao.txt 5.1274494005309625
+data.zdme.txt 5.1274494005309625
+data.zduc.txt 3.235060386727117

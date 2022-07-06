@@ -1,11 +1,11 @@
 10
-data.hu.txt 1
-data.wc.txt 1
-data.zawu.txt 1
-data.zbfz.txt 1
-data.zbga.txt 1
-data.zbzg.txt 1
-data.zbzo.txt 7
-data.zcdg.txt 2
-data.zdji.txt 3
-data.zebf.txt 1
+data.hu.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zbzo.txt 8.263822118426747
+data.zcdg.txt 4.365949390112154
+data.zdji.txt 5.509214745617831
+data.zebf.txt 2.7546073728089153

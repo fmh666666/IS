@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.zbcc.txt 1
-data.zbcv.txt 1
-data.zbot.txt 1
-data.zcee.txt 1
-data.zdyv.txt 1
-data.zebn.txt 1
-data.zevq.txt 1
+data.kt.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zbot.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zdyv.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

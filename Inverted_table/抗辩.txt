@@ -1,4 +1,4 @@
 3
-data.mi.txt 1
-data.zaet.txt 2
-data.zbdb.txt 1
+data.mi.txt 3.5891377275982888
+data.zaet.txt 5.688648708166832
+data.zbdb.txt 3.5891377275982888

@@ -1,14 +1,14 @@
 13
-data.ff.txt 1
-data.xe.txt 1
-data.zacp.txt 1
-data.zapl.txt 1
-data.zaql.txt 2
-data.zawb.txt 1
-data.zbem.txt 1
-data.zbga.txt 1
-data.zbil.txt 1
-data.zbtx.txt 1
-data.zdkv.txt 1
-data.zdsh.txt 1
-data.zedk.txt 1
+data.ff.txt 2.5727503226135906
+data.xe.txt 2.5727503226135906
+data.zacp.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zaql.txt 4.077712785060798
+data.zawb.txt 2.5727503226135906
+data.zbem.txt 2.5727503226135906
+data.zbga.txt 2.5727503226135906
+data.zbil.txt 2.5727503226135906
+data.zbtx.txt 2.5727503226135906
+data.zdkv.txt 2.5727503226135906
+data.zdsh.txt 2.5727503226135906
+data.zedk.txt 2.5727503226135906

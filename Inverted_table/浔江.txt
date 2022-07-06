@@ -1,2 +1,2 @@
 1
-data.gk.txt 32
+data.gk.txt 21.94633142111241

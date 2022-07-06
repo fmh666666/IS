@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zaoy.txt 1
-data.zapf.txt 1
-data.zbua.txt 1
-data.zdaa.txt 1
-data.zdoc.txt 1
+data.op.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zapf.txt 3.1086847136800873
+data.zbua.txt 3.1086847136800873
+data.zdaa.txt 3.1086847136800873
+data.zdoc.txt 3.1086847136800873

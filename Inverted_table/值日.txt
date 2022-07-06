@@ -1,13 +1,13 @@
 12
-data.tj.txt 1
-data.tz.txt 1
-data.zbut.txt 1
-data.zccx.txt 3
-data.zcqs.txt 1
-data.zdlo.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zdwz.txt 1
-data.zedk.txt 1
-data.zeta.txt 2
-data.zewd.txt 1
+data.tj.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zbut.txt 2.628231699761886
+data.zccx.txt 5.256463399523772
+data.zcqs.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdwz.txt 2.628231699761886
+data.zedk.txt 2.628231699761886
+data.zeta.txt 4.165648687329214
+data.zewd.txt 2.628231699761886

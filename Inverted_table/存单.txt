@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.hg.txt 1
-data.hp.txt 1
-data.zawo.txt 2
-data.zbmt.txt 1
-data.zbyv.txt 2
-data.zene.txt 9
-data.zeqv.txt 1
+data.bf.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zawo.txt 4.611097637722987
+data.zbmt.txt 2.9092786962624935
+data.zbyv.txt 4.611097637722987
+data.zene.txt 9.664414636971655
+data.zeqv.txt 2.9092786962624935

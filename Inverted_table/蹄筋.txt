@@ -1,6 +1,6 @@
 5
-data.zagb.txt 2
-data.zbta.txt 1
-data.zbwq.txt 1
-data.zcdl.txt 1
-data.zenw.txt 1
+data.zagb.txt 5.1274494005309625
+data.zbta.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zenw.txt 3.235060386727117

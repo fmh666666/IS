@@ -1,10 +1,10 @@
 9
-data.zasd.txt 28
-data.zbpx.txt 2
-data.zcgi.txt 1
-data.zcsr.txt 2
-data.zdgo.txt 1
-data.zdxw.txt 1
-data.zeez.txt 1
-data.zefv.txt 1
-data.zene.txt 1
+data.zasd.txt 13.736610291163828
+data.zbpx.txt 4.48169974735425
+data.zcgi.txt 2.82763771717948
+data.zcsr.txt 4.48169974735425
+data.zdgo.txt 2.82763771717948
+data.zdxw.txt 2.82763771717948
+data.zeez.txt 2.82763771717948
+data.zefv.txt 2.82763771717948
+data.zene.txt 2.82763771717948

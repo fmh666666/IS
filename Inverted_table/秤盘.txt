@@ -1,9 +1,9 @@
 8
-data.fj.txt 1
-data.jd.txt 1
-data.tj.txt 1
-data.zafe.txt 1
-data.zarr.txt 1
-data.zbga.txt 1
-data.zdil.txt 1
-data.zdlg.txt 1
+data.fj.txt 2.9092786962624935
+data.jd.txt 2.9092786962624935
+data.tj.txt 2.9092786962624935
+data.zafe.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zdlg.txt 2.9092786962624935

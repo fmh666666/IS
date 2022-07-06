@@ -1,9 +1,9 @@
 8
-data.pn.txt 1
-data.zacw.txt 2
-data.zaej.txt 1
-data.zcbe.txt 2
-data.zclm.txt 1
-data.zddb.txt 1
-data.zduo.txt 1
-data.zeoh.txt 1
+data.pn.txt 2.9092786962624935
+data.zacw.txt 4.611097637722987
+data.zaej.txt 2.9092786962624935
+data.zcbe.txt 4.611097637722987
+data.zclm.txt 2.9092786962624935
+data.zddb.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

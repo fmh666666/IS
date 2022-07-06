@@ -1,10 +1,10 @@
 9
-data.hc.txt 1
-data.zatz.txt 1
-data.zbha.txt 1
-data.zcls.txt 1
-data.zctn.txt 1
-data.zdwd.txt 2
-data.zeeh.txt 1
-data.zevl.txt 1
-data.zewv.txt 1
+data.hc.txt 2.82763771717948
+data.zatz.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zcls.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zdwd.txt 4.48169974735425
+data.zeeh.txt 2.82763771717948
+data.zevl.txt 2.82763771717948
+data.zewv.txt 2.82763771717948

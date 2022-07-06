@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.tv.txt 2
-data.zaxj.txt 1
-data.zcsu.txt 1
-data.zdrq.txt 1
+data.jf.txt 3.235060386727117
+data.tv.txt 5.1274494005309625
+data.zaxj.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117

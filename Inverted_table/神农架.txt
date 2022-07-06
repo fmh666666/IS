@@ -1,14 +1,14 @@
 13
-data.mx.txt 4
-data.op.txt 1
-data.zahp.txt 1
-data.zail.txt 1
-data.zawc.txt 4
-data.zbeb.txt 2
-data.zbga.txt 1
-data.zbgd.txt 1
-data.zbht.txt 1
-data.zbkf.txt 7
-data.zbpp.txt 3
-data.zbvg.txt 1
-data.zcvt.txt 1
+data.mx.txt 5.97374125520702
+data.op.txt 2.5727503226135906
+data.zahp.txt 2.5727503226135906
+data.zail.txt 2.5727503226135906
+data.zawc.txt 5.97374125520702
+data.zbeb.txt 4.077712785060798
+data.zbga.txt 2.5727503226135906
+data.zbgd.txt 2.5727503226135906
+data.zbht.txt 2.5727503226135906
+data.zbkf.txt 7.7182509678407705
+data.zbpp.txt 5.145500645227181
+data.zbvg.txt 2.5727503226135906
+data.zcvt.txt 2.5727503226135906

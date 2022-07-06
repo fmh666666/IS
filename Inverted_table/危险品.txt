@@ -1,7 +1,7 @@
 6
-data.hc.txt 1
-data.hz.txt 1
-data.zasj.txt 1
-data.zbpx.txt 1
-data.zczl.txt 1
-data.zefw.txt 1
+data.hc.txt 3.1086847136800873
+data.hz.txt 3.1086847136800873
+data.zasj.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zczl.txt 3.1086847136800873
+data.zefw.txt 3.1086847136800873

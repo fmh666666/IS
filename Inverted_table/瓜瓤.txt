@@ -1,7 +1,7 @@
 6
-data.ff.txt 1
-data.zapf.txt 1
-data.zcjd.txt 1
-data.zclm.txt 1
-data.zcrg.txt 1
-data.zdpg.txt 1
+data.ff.txt 3.1086847136800873
+data.zapf.txt 3.1086847136800873
+data.zcjd.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873
+data.zdpg.txt 3.1086847136800873

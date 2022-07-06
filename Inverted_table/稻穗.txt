@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.zbtx.txt 1
-data.zdic.txt 1
-data.zdlo.txt 1
-data.zdqx.txt 2
-data.zeam.txt 1
+data.be.txt 3.1086847136800873
+data.zbtx.txt 3.1086847136800873
+data.zdic.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873
+data.zdqx.txt 4.927148697748023
+data.zeam.txt 3.1086847136800873

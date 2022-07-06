@@ -1,6 +1,6 @@
 5
-data.zapr.txt 1
-data.zazn.txt 1
-data.zbpx.txt 1
-data.zcse.txt 1
-data.zelt.txt 1
+data.zapr.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

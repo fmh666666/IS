@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.ud.txt 1
-data.zane.txt 1
-data.zasj.txt 1
-data.zasw.txt 1
-data.zaxp.txt 1
-data.zazw.txt 1
-data.zbcc.txt 1
-data.zdlo.txt 1
+data.fe.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zane.txt 2.82763771717948
+data.zasj.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948

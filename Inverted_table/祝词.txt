@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zawz.txt 1
-data.zayv.txt 1
-data.zbzo.txt 1
-data.zcuh.txt 1
+data.ga.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zayv.txt 3.235060386727117
+data.zbzo.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117

@@ -1,2 +1,2 @@
 1
-data.zako.txt 4
+data.zako.txt 10.101867994579104

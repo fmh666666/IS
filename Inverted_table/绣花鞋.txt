@@ -1,11 +1,11 @@
 10
-data.mx.txt 1
-data.ok.txt 1
-data.xe.txt 1
-data.zaql.txt 1
-data.zbsd.txt 1
-data.zcdg.txt 1
-data.zdgt.txt 2
-data.zdro.txt 1
-data.zevy.txt 1
-data.zexx.txt 1
+data.mx.txt 2.7546073728089153
+data.ok.txt 2.7546073728089153
+data.xe.txt 2.7546073728089153
+data.zaql.txt 2.7546073728089153
+data.zbsd.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zdgt.txt 4.365949390112154
+data.zdro.txt 2.7546073728089153
+data.zevy.txt 2.7546073728089153
+data.zexx.txt 2.7546073728089153

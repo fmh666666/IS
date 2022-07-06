@@ -1,4 +1,4 @@
 3
-data.zcve.txt 2
-data.zdlw.txt 1
-data.zehj.txt 1
+data.zcve.txt 5.688648708166832
+data.zdlw.txt 3.5891377275982888
+data.zehj.txt 3.5891377275982888

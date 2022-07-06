@@ -1,4 +1,4 @@
 3
-data.cq.txt 2
-data.hp.txt 1
-data.zawb.txt 3
+data.cq.txt 5.688648708166832
+data.hp.txt 3.5891377275982888
+data.zawb.txt 7.1782754551965775

@@ -1,9 +1,9 @@
 8
-data.bs.txt 2
-data.fz.txt 1
-data.pn.txt 1
-data.zbqu.txt 3
-data.zdji.txt 1
-data.zdvl.txt 1
-data.zedd.txt 1
-data.zefd.txt 2
+data.bs.txt 4.611097637722987
+data.fz.txt 2.9092786962624935
+data.pn.txt 2.9092786962624935
+data.zbqu.txt 5.818557392524987
+data.zdji.txt 2.9092786962624935
+data.zdvl.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zefd.txt 4.611097637722987

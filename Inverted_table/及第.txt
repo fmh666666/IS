@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.mt.txt 1
-data.sq.txt 1
-data.zaxk.txt 1
-data.zcue.txt 1
-data.zdaq.txt 1
-data.zdwl.txt 1
-data.zfcp.txt 1
+data.gw.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.sq.txt 2.9092786962624935
+data.zaxk.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdaq.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935
+data.zfcp.txt 2.9092786962624935

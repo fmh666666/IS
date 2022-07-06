@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zaim.txt 1
-data.zazn.txt 1
-data.zdwz.txt 1
-data.zexv.txt 3
+data.bb.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zdwz.txt 3.235060386727117
+data.zexv.txt 6.470120773454234

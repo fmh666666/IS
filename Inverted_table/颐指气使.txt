@@ -1,9 +1,9 @@
 8
-data.zalm.txt 1
-data.zbdb.txt 1
-data.zbrj.txt 1
-data.zdgp.txt 1
-data.zdzi.txt 1
-data.zedk.txt 1
-data.zefp.txt 1
-data.zexm.txt 1
+data.zalm.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935
+data.zexm.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.zapl.txt 1
-data.zdar.txt 1
-data.zexu.txt 1
+data.zapl.txt 3.5891377275982888
+data.zdar.txt 3.5891377275982888
+data.zexu.txt 3.5891377275982888

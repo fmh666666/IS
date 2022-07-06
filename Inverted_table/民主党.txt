@@ -1,13 +1,13 @@
 12
-data.ha.txt 1
-data.vi.txt 1
-data.zamp.txt 1
-data.zawc.txt 1
-data.zbvm.txt 2
-data.zcic.txt 1
-data.zcmy.txt 1
-data.zctp.txt 1
-data.zdwv.txt 2
-data.zeam.txt 1
-data.zebf.txt 1
-data.zene.txt 1
+data.ha.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbvm.txt 4.165648687329214
+data.zcic.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zdwv.txt 4.165648687329214
+data.zeam.txt 2.628231699761886
+data.zebf.txt 2.628231699761886
+data.zene.txt 2.628231699761886

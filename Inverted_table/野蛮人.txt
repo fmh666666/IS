@@ -1,9 +1,9 @@
 8
-data.pq.txt 4
-data.xe.txt 1
-data.zbdb.txt 1
-data.zbeb.txt 1
-data.zbvf.txt 1
-data.zcfn.txt 1
-data.zdnc.txt 1
-data.zfas.txt 2
+data.pq.txt 6.7551359407091605
+data.xe.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbvf.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935
+data.zfas.txt 4.611097637722987

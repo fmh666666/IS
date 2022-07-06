@@ -1,2 +1,2 @@
 1
-data.dg.txt 2
+data.dg.txt 6.8955976689794145

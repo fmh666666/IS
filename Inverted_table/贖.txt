@@ -1,5 +1,5 @@
 4
-data.co.txt 3
-data.cz.txt 1
-data.mx.txt 1
-data.zdic.txt 1
+data.co.txt 6.77946342036139
+data.cz.txt 3.389731710180695
+data.mx.txt 3.389731710180695
+data.zdic.txt 3.389731710180695

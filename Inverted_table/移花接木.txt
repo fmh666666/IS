@@ -1,9 +1,9 @@
 8
-data.pq.txt 1
-data.zayd.txt 1
-data.zbgu.txt 1
-data.zcvq.txt 1
-data.zddx.txt 1
-data.zdgp.txt 1
-data.zdkc.txt 1
-data.zeaj.txt 1
+data.pq.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbgu.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935

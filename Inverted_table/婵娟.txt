@@ -1,13 +1,13 @@
 12
-data.mk.txt 1
-data.mx.txt 2
-data.zafv.txt 1
-data.zaxj.txt 1
-data.zbhv.txt 2
-data.zblr.txt 1
-data.zbls.txt 1
-data.zcue.txt 1
-data.zdod.txt 1
-data.zduo.txt 3
-data.zeam.txt 1
-data.zevy.txt 1
+data.mk.txt 2.628231699761886
+data.mx.txt 4.165648687329214
+data.zafv.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zbhv.txt 4.165648687329214
+data.zblr.txt 2.628231699761886
+data.zbls.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zduo.txt 5.256463399523772
+data.zeam.txt 2.628231699761886
+data.zevy.txt 2.628231699761886

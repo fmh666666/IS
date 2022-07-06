@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.uz.txt 1
-data.zaip.txt 1
-data.zalj.txt 2
-data.zavg.txt 1
-data.zchw.txt 2
-data.zcsr.txt 1
-data.zctn.txt 1
-data.zdgt.txt 2
-data.zdro.txt 2
-data.zeta.txt 2
+data.bb.txt 2.6885433903988862
+data.uz.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zalj.txt 4.261240455343955
+data.zavg.txt 2.6885433903988862
+data.zchw.txt 4.261240455343955
+data.zcsr.txt 2.6885433903988862
+data.zctn.txt 2.6885433903988862
+data.zdgt.txt 4.261240455343955
+data.zdro.txt 4.261240455343955
+data.zeta.txt 4.261240455343955

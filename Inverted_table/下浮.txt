@@ -1,7 +1,7 @@
 6
-data.kq.txt 1
-data.zaoy.txt 1
-data.zbfp.txt 1
-data.zcdz.txt 1
-data.zelt.txt 1
-data.zewd.txt 1
+data.kq.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zbfp.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zewd.txt 3.1086847136800873

@@ -1,11 +1,11 @@
 10
-data.zalj.txt 1
-data.zaqw.txt 1
-data.zavx.txt 1
-data.zbcj.txt 4
-data.zbeb.txt 1
-data.zbfr.txt 3
-data.zcbe.txt 2
-data.zdzg.txt 1
-data.zess.txt 2
-data.zezm.txt 1
+data.zalj.txt 2.7546073728089153
+data.zaqw.txt 2.7546073728089153
+data.zavx.txt 2.7546073728089153
+data.zbcj.txt 6.396000249308887
+data.zbeb.txt 2.7546073728089153
+data.zbfr.txt 5.509214745617831
+data.zcbe.txt 4.365949390112154
+data.zdzg.txt 2.7546073728089153
+data.zess.txt 4.365949390112154
+data.zezm.txt 2.7546073728089153

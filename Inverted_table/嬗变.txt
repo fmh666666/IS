@@ -1,7 +1,7 @@
 6
-data.cn.txt 1
-data.zcmn.txt 1
-data.zcnn.txt 1
-data.zczl.txt 1
-data.zeay.txt 1
-data.zezh.txt 1
+data.cn.txt 3.1086847136800873
+data.zcmn.txt 3.1086847136800873
+data.zcnn.txt 3.1086847136800873
+data.zczl.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873
+data.zezh.txt 3.1086847136800873

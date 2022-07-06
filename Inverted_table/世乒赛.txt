@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zaqf.txt 2
-data.zcmx.txt 2
-data.zdkc.txt 2
-data.zexm.txt 2
+data.vm.txt 3.235060386727117
+data.zaqf.txt 5.1274494005309625
+data.zcmx.txt 5.1274494005309625
+data.zdkc.txt 5.1274494005309625
+data.zexm.txt 5.1274494005309625

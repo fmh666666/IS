@@ -1,14 +1,14 @@
 13
-data.zbsd.txt 1
-data.zbse.txt 1
-data.zbsf.txt 2
-data.zbyb.txt 1
-data.zcao.txt 1
-data.zcbe.txt 8
-data.zcee.txt 1
-data.zdlo.txt 1
-data.zdux.txt 1
-data.zejk.txt 1
-data.zeoo.txt 1
-data.zerw.txt 1
-data.zfaj.txt 1
+data.zbsd.txt 2.5727503226135906
+data.zbse.txt 2.5727503226135906
+data.zbsf.txt 4.077712785060798
+data.zbyb.txt 2.5727503226135906
+data.zcao.txt 2.5727503226135906
+data.zcbe.txt 8.155425570121595
+data.zcee.txt 2.5727503226135906
+data.zdlo.txt 2.5727503226135906
+data.zdux.txt 2.5727503226135906
+data.zejk.txt 2.5727503226135906
+data.zeoo.txt 2.5727503226135906
+data.zerw.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906

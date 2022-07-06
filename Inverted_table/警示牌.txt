@@ -1,4 +1,4 @@
 3
-data.zass.txt 1
-data.zddp.txt 1
-data.zfdk.txt 1
+data.zass.txt 3.5891377275982888
+data.zddp.txt 3.5891377275982888
+data.zfdk.txt 3.5891377275982888

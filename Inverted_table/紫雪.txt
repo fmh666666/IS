@@ -1,6 +1,6 @@
 5
-data.pq.txt 1
-data.ud.txt 1
-data.zadv.txt 1
-data.zaxk.txt 1
-data.zbkj.txt 1
+data.pq.txt 3.235060386727117
+data.ud.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zbkj.txt 3.235060386727117

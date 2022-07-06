@@ -1,6 +1,6 @@
 5
-data.zalc.txt 2
-data.zate.txt 1
-data.zcfn.txt 1
-data.zeaj.txt 1
-data.zeoo.txt 1
+data.zalc.txt 5.1274494005309625
+data.zate.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

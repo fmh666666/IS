@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.zbes.txt 1
-data.zbfz.txt 1
-data.zbga.txt 1
-data.zdwn.txt 1
-data.zezy.txt 1
+data.ev.txt 3.1086847136800873
+data.zbes.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zbga.txt 3.1086847136800873
+data.zdwn.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

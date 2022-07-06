@@ -1,6 +1,6 @@
 5
-data.ev.txt 1
-data.hz.txt 1
-data.zctp.txt 1
-data.zeqv.txt 1
-data.zeve.txt 1
+data.ev.txt 3.235060386727117
+data.hz.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117
+data.zeve.txt 3.235060386727117

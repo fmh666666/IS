@@ -1,13 +1,13 @@
 12
-data.ga.txt 2
-data.op.txt 2
-data.yx.txt 2
-data.zaip.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zbhd.txt 1
-data.zcdy.txt 4
-data.zcdz.txt 4
-data.zeid.txt 1
-data.zeik.txt 1
-data.zelt.txt 3
+data.ga.txt 4.165648687329214
+data.op.txt 4.165648687329214
+data.yx.txt 4.165648687329214
+data.zaip.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zcdy.txt 6.1025650235506905
+data.zcdz.txt 6.1025650235506905
+data.zeid.txt 2.628231699761886
+data.zeik.txt 2.628231699761886
+data.zelt.txt 5.256463399523772

@@ -1,12 +1,12 @@
 11
-data.ff.txt 1
-data.fj.txt 1
-data.fp.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.zabe.txt 1
-data.zall.txt 1
-data.zcdv.txt 2
-data.zdgt.txt 2
-data.zevq.txt 1
-data.zevy.txt 1
+data.ff.txt 2.6885433903988862
+data.fj.txt 2.6885433903988862
+data.fp.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.tz.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zcdv.txt 4.261240455343955
+data.zdgt.txt 4.261240455343955
+data.zevq.txt 2.6885433903988862
+data.zevy.txt 2.6885433903988862

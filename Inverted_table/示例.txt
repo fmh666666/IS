@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zbfp.txt 1
-data.zbgd.txt 1
-data.zbua.txt 1
-data.zdnh.txt 1
+data.zagr.txt 3.235060386727117
+data.zbfp.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zdnh.txt 3.235060386727117

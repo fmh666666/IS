@@ -1,7 +1,7 @@
 6
-data.fe.txt 1
-data.zacd.txt 1
-data.zaqf.txt 1
-data.zatz.txt 1
-data.zawu.txt 1
-data.zaxk.txt 1
+data.fe.txt 3.1086847136800873
+data.zacd.txt 3.1086847136800873
+data.zaqf.txt 3.1086847136800873
+data.zatz.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.zabe.txt 1
-data.zbeb.txt 1
-data.zcih.txt 1
-data.zcse.txt 2
-data.zdgt.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zeos.txt 1
-data.zfai.txt 1
+data.zabe.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zcse.txt 4.48169974735425
+data.zdgt.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zeos.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

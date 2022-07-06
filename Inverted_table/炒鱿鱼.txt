@@ -1,9 +1,9 @@
 8
-data.zcjy.txt 1
-data.zcyv.txt 1
-data.zdey.txt 1
-data.zdkk.txt 1
-data.zeid.txt 1
-data.zess.txt 1
-data.zfaj.txt 1
-data.zfcp.txt 1
+data.zcjy.txt 2.9092786962624935
+data.zcyv.txt 2.9092786962624935
+data.zdey.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zeid.txt 2.9092786962624935
+data.zess.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935
+data.zfcp.txt 2.9092786962624935

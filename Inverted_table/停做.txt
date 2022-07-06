@@ -1,6 +1,6 @@
 5
-data.zajn.txt 1
-data.zbdx.txt 1
-data.zcql.txt 1
-data.zcyv.txt 1
-data.zenn.txt 2
+data.zajn.txt 3.235060386727117
+data.zbdx.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zcyv.txt 3.235060386727117
+data.zenn.txt 5.1274494005309625

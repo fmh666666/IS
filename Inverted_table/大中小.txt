@@ -1,11 +1,11 @@
 10
-data.tz.txt 1
-data.zajr.txt 1
-data.zbcj.txt 1
-data.zcdy.txt 1
-data.zcjo.txt 1
-data.zcoy.txt 1
-data.zcqs.txt 1
-data.zctm.txt 1
-data.zcxr.txt 1
-data.zeqv.txt 1
+data.tz.txt 2.7546073728089153
+data.zajr.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcjo.txt 2.7546073728089153
+data.zcoy.txt 2.7546073728089153
+data.zcqs.txt 2.7546073728089153
+data.zctm.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153

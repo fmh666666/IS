@@ -1,5 +1,5 @@
 4
-data.zbia.txt 1
-data.zczj.txt 3
-data.zene.txt 1
-data.zfai.txt 1
+data.zbia.txt 3.389731710180695
+data.zczj.txt 6.77946342036139
+data.zene.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

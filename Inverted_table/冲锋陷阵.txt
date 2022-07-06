@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.hp.txt 1
-data.kt.txt 1
-data.zcic.txt 1
-data.zdud.txt 1
-data.zebn.txt 1
-data.zeoo.txt 1
-data.zevq.txt 1
+data.ek.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.kt.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

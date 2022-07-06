@@ -1,13 +1,13 @@
 12
-data.mk.txt 1
-data.to.txt 1
-data.zabe.txt 1
-data.zasw.txt 1
-data.zbgu.txt 2
-data.zbye.txt 1
-data.zcnn.txt 2
-data.zcpa.txt 1
-data.zddv.txt 1
-data.zdpg.txt 2
-data.zewn.txt 1
-data.zfaw.txt 1
+data.mk.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zasw.txt 2.628231699761886
+data.zbgu.txt 4.165648687329214
+data.zbye.txt 2.628231699761886
+data.zcnn.txt 4.165648687329214
+data.zcpa.txt 2.628231699761886
+data.zddv.txt 2.628231699761886
+data.zdpg.txt 4.165648687329214
+data.zewn.txt 2.628231699761886
+data.zfaw.txt 2.628231699761886

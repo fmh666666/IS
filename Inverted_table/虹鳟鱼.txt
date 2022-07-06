@@ -1,4 +1,4 @@
 3
-data.zbkf.txt 2
-data.zcao.txt 2
-data.zdux.txt 2
+data.zbkf.txt 5.688648708166832
+data.zcao.txt 5.688648708166832
+data.zdux.txt 5.688648708166832

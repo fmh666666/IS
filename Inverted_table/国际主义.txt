@@ -1,7 +1,7 @@
 6
-data.yx.txt 1
-data.zazg.txt 1
-data.zcpc.txt 1
-data.zdtv.txt 1
-data.zefv.txt 1
-data.zexv.txt 1
+data.yx.txt 3.1086847136800873
+data.zazg.txt 3.1086847136800873
+data.zcpc.txt 3.1086847136800873
+data.zdtv.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

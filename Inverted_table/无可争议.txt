@@ -1,7 +1,7 @@
 6
-data.zafv.txt 1
-data.zblq.txt 1
-data.zbor.txt 1
-data.zcgi.txt 1
-data.zelt.txt 1
-data.zevq.txt 1
+data.zafv.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zcgi.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

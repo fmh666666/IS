@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.ff.txt 1
-data.zbds.txt 1
-data.zcfn.txt 1
-data.zcic.txt 1
-data.zcxq.txt 1
-data.zdkc.txt 2
-data.zdlw.txt 1
-data.zdrq.txt 1
-data.zeyy.txt 1
+data.cf.txt 2.7546073728089153
+data.ff.txt 2.7546073728089153
+data.zbds.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zcic.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zdkc.txt 4.365949390112154
+data.zdlw.txt 2.7546073728089153
+data.zdrq.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153

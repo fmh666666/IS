@@ -1,4 +1,4 @@
 3
-data.zcue.txt 1
-data.zdtv.txt 1
-data.zeid.txt 2
+data.zcue.txt 3.5891377275982888
+data.zdtv.txt 3.5891377275982888
+data.zeid.txt 5.688648708166832

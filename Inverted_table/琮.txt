@@ -1,10 +1,10 @@
 9
-data.tv.txt 2
-data.tz.txt 2
-data.zalm.txt 1
-data.zasw.txt 1
-data.zbmt.txt 1
-data.zcfn.txt 1
-data.zctp.txt 1
-data.zedy.txt 1
-data.zewd.txt 1
+data.tv.txt 4.48169974735425
+data.tz.txt 4.48169974735425
+data.zalm.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zbmt.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zedy.txt 2.82763771717948
+data.zewd.txt 2.82763771717948

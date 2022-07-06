@@ -1,11 +1,11 @@
 10
-data.dg.txt 1
-data.gw.txt 2
-data.xe.txt 1
-data.zalj.txt 2
-data.zard.txt 1
-data.zbcc.txt 1
-data.zbsu.txt 1
-data.zcdv.txt 1
-data.zddx.txt 3
-data.zdrq.txt 1
+data.dg.txt 2.7546073728089153
+data.gw.txt 4.365949390112154
+data.xe.txt 2.7546073728089153
+data.zalj.txt 4.365949390112154
+data.zard.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbsu.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zddx.txt 5.509214745617831
+data.zdrq.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.fp.txt 1
-data.kq.txt 1
-data.ok.txt 1
-data.zasd.txt 1
-data.zauy.txt 1
-data.zekw.txt 1
-data.zezy.txt 1
+data.cf.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zauy.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

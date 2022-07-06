@@ -1,12 +1,12 @@
 11
-data.zbdx.txt 1
-data.zblq.txt 1
-data.zbvm.txt 1
-data.zcic.txt 1
-data.zctp.txt 1
-data.zcxq.txt 1
-data.zdeq.txt 1
-data.zdey.txt 1
-data.zdlo.txt 1
-data.zdwn.txt 2
-data.zelt.txt 1
+data.zbdx.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zcxq.txt 2.6885433903988862
+data.zdeq.txt 2.6885433903988862
+data.zdey.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zdwn.txt 4.261240455343955
+data.zelt.txt 2.6885433903988862

@@ -1,8 +1,8 @@
 7
-data.zcef.txt 1
-data.zcej.txt 1
-data.zdeb.txt 1
-data.zdib.txt 1
-data.zecf.txt 1
-data.zedx.txt 1
-data.zerw.txt 1
+data.zcef.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zdib.txt 3.0018356045764243
+data.zecf.txt 3.0018356045764243
+data.zedx.txt 3.0018356045764243
+data.zerw.txt 3.0018356045764243

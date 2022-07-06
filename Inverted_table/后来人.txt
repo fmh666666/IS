@@ -1,12 +1,12 @@
 11
-data.pa.txt 1
-data.zalt.txt 1
-data.zbbt.txt 1
-data.zbla.txt 2
-data.zbse.txt 1
-data.zcdz.txt 1
-data.zcvq.txt 2
-data.zdds.txt 1
-data.zdod.txt 1
-data.zevt.txt 1
-data.zezy.txt 1
+data.pa.txt 2.6885433903988862
+data.zalt.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbla.txt 4.261240455343955
+data.zbse.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcvq.txt 4.261240455343955
+data.zdds.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zevt.txt 2.6885433903988862
+data.zezy.txt 2.6885433903988862

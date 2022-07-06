@@ -1,6 +1,6 @@
 5
-data.zdof.txt 1
-data.zeai.txt 1
-data.zeay.txt 1
-data.zemf.txt 6
-data.zfaw.txt 1
+data.zdof.txt 3.235060386727117
+data.zeai.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zemf.txt 9.081962699831948
+data.zfaw.txt 3.235060386727117

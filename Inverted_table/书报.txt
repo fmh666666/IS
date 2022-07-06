@@ -1,8 +1,8 @@
 7
-data.ok.txt 1
-data.op.txt 3
-data.zarc.txt 1
-data.zasd.txt 1
-data.zcln.txt 1
-data.zcmy.txt 2
-data.zcqe.txt 1
+data.ok.txt 3.0018356045764243
+data.op.txt 6.003671209152849
+data.zarc.txt 3.0018356045764243
+data.zasd.txt 3.0018356045764243
+data.zcln.txt 3.0018356045764243
+data.zcmy.txt 4.757796866583254
+data.zcqe.txt 3.0018356045764243

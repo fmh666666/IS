@@ -1,9 +1,9 @@
 8
-data.aj.txt 1
-data.kt.txt 1
-data.tv.txt 1
-data.zaxk.txt 1
-data.zczl.txt 1
-data.zdep.txt 1
-data.zdgt.txt 1
-data.zdud.txt 1
+data.aj.txt 2.9092786962624935
+data.kt.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.zaxk.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935

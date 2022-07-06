@@ -1,6 +1,6 @@
 5
-data.zake.txt 1
-data.zcko.txt 3
-data.zdgp.txt 3
-data.zeec.txt 2
-data.zeqv.txt 1
+data.zake.txt 3.235060386727117
+data.zcko.txt 6.470120773454234
+data.zdgp.txt 6.470120773454234
+data.zeec.txt 5.1274494005309625
+data.zeqv.txt 3.235060386727117

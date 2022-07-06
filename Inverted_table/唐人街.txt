@@ -1,13 +1,13 @@
 12
-data.uz.txt 1
-data.zacd.txt 1
-data.zaun.txt 1
-data.zbdb.txt 3
-data.zbfr.txt 1
-data.zbnp.txt 1
-data.zcem.txt 2
-data.zdqz.txt 1
-data.zdxw.txt 1
-data.zdzg.txt 1
-data.zejk.txt 1
-data.zewg.txt 7
+data.uz.txt 2.628231699761886
+data.zacd.txt 2.628231699761886
+data.zaun.txt 2.628231699761886
+data.zbdb.txt 5.256463399523772
+data.zbfr.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zcem.txt 4.165648687329214
+data.zdqz.txt 2.628231699761886
+data.zdxw.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zejk.txt 2.628231699761886
+data.zewg.txt 7.884695099285658

@@ -1,10 +1,10 @@
 9
-data.zalj.txt 1
-data.zalt.txt 1
-data.zbhv.txt 1
-data.zbrj.txt 1
-data.zbts.txt 1
-data.zcve.txt 1
-data.zeoh.txt 1
-data.zeoo.txt 1
-data.zewp.txt 1
+data.zalj.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zbhv.txt 2.82763771717948
+data.zbrj.txt 2.82763771717948
+data.zbts.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948
+data.zewp.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.mu.txt 1
-data.pa.txt 1
-data.zabe.txt 1
-data.zasw.txt 1
-data.zbfz.txt 1
-data.zcqe.txt 1
-data.zeaf.txt 1
-data.zefs.txt 1
-data.zerv.txt 2
-data.zeta.txt 1
+data.fp.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zasw.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zcqe.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zerv.txt 4.261240455343955
+data.zeta.txt 2.6885433903988862

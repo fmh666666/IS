@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.dg.txt 1
-data.zaop.txt 1
-data.zbrj.txt 1
-data.zeaf.txt 1
-data.zeqv.txt 1
+data.cf.txt 3.1086847136800873
+data.dg.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zbrj.txt 3.1086847136800873
+data.zeaf.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873

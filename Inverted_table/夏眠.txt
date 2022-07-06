@@ -1,5 +1,5 @@
 4
-data.kt.txt 1
-data.zbsu.txt 1
-data.zbvn.txt 1
-data.zdcj.txt 1
+data.kt.txt 3.389731710180695
+data.zbsu.txt 3.389731710180695
+data.zbvn.txt 3.389731710180695
+data.zdcj.txt 3.389731710180695

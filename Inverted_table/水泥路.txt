@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zawc.txt 2
-data.zcqs.txt 1
-data.zcrn.txt 1
-data.zeac.txt 1
+data.ng.txt 3.235060386727117
+data.zawc.txt 5.1274494005309625
+data.zcqs.txt 3.235060386727117
+data.zcrn.txt 3.235060386727117
+data.zeac.txt 3.235060386727117

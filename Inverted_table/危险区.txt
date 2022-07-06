@@ -1,7 +1,7 @@
 6
-data.zapr.txt 1
-data.zazn.txt 1
-data.zbsm.txt 1
-data.zcxp.txt 1
-data.zczj.txt 1
-data.zfby.txt 1
+data.zapr.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zcxp.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

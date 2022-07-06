@@ -1,4 +1,4 @@
 3
-data.zcef.txt 1
-data.zcpb.txt 1
-data.zdqz.txt 1
+data.zcef.txt 3.5891377275982888
+data.zcpb.txt 3.5891377275982888
+data.zdqz.txt 3.5891377275982888

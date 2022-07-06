@@ -1,13 +1,13 @@
 12
-data.vz.txt 4
-data.zamr.txt 3
-data.zarc.txt 2
-data.zayv.txt 4
-data.zbdx.txt 2
-data.zbut.txt 1
-data.zcdy.txt 6
-data.zcdz.txt 10
-data.zdqx.txt 3
-data.zdro.txt 3
-data.zevl.txt 1
-data.zexv.txt 1
+data.vz.txt 6.1025650235506905
+data.zamr.txt 5.256463399523772
+data.zarc.txt 4.165648687329214
+data.zayv.txt 6.1025650235506905
+data.zbdx.txt 4.165648687329214
+data.zbut.txt 2.628231699761886
+data.zcdy.txt 7.378379198634354
+data.zcdz.txt 9.092187843261117
+data.zdqx.txt 5.256463399523772
+data.zdro.txt 5.256463399523772
+data.zevl.txt 2.628231699761886
+data.zexv.txt 2.628231699761886

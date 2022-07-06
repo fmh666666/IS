@@ -1,6 +1,6 @@
 5
-data.zaoc.txt 1
-data.zawc.txt 1
-data.zbkf.txt 2
-data.zdvl.txt 1
-data.zedd.txt 5
+data.zaoc.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbkf.txt 5.1274494005309625
+data.zdvl.txt 3.235060386727117
+data.zedd.txt 8.362509787258078

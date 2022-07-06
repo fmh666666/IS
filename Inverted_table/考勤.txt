@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.sq.txt 1
-data.zanh.txt 1
-data.zbvp.txt 1
-data.zcdz.txt 1
-data.zcon.txt 2
-data.zdzm.txt 2
-data.zeac.txt 9
+data.bf.txt 2.9092786962624935
+data.sq.txt 2.9092786962624935
+data.zanh.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcon.txt 4.611097637722987
+data.zdzm.txt 4.611097637722987
+data.zeac.txt 9.664414636971655

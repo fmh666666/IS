@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.hp.txt 1
-data.zbor.txt 1
-data.zcmx.txt 1
-data.zcqs.txt 1
-data.zdgv.txt 1
-data.zduk.txt 1
-data.zeez.txt 1
+data.bs.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935
+data.zeez.txt 2.9092786962624935

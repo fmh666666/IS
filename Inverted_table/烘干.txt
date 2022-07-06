@@ -1,12 +1,12 @@
 11
-data.mk.txt 1
-data.nh.txt 1
-data.zako.txt 1
-data.zbga.txt 1
-data.zbhd.txt 10
-data.zbvf.txt 1
-data.zcsr.txt 3
-data.zcxq.txt 1
-data.zdvl.txt 1
-data.zdwn.txt 1
-data.zeoo.txt 1
+data.mk.txt 2.6885433903988862
+data.nh.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zbhd.txt 9.300832012824227
+data.zbvf.txt 2.6885433903988862
+data.zcsr.txt 5.3770867807977725
+data.zcxq.txt 2.6885433903988862
+data.zdvl.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zeoo.txt 2.6885433903988862

@@ -1,6 +1,6 @@
 5
-data.zaxk.txt 1
-data.zbwa.txt 1
-data.zcda.txt 1
-data.zdhv.txt 1
-data.zfcg.txt 1
+data.zaxk.txt 3.235060386727117
+data.zbwa.txt 3.235060386727117
+data.zcda.txt 3.235060386727117
+data.zdhv.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

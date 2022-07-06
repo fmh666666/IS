@@ -1,4 +1,4 @@
 3
-data.zbhe.txt 2
-data.zeqn.txt 1
-data.zerv.txt 1
+data.zbhe.txt 5.688648708166832
+data.zeqn.txt 3.5891377275982888
+data.zerv.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zbdx.txt 3
-data.zbeb.txt 1
-data.zcdy.txt 1
-data.zdou.txt 2
+data.zahd.txt 3.235060386727117
+data.zbdx.txt 6.470120773454234
+data.zbeb.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zdou.txt 5.1274494005309625

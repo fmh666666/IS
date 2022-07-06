@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zabe.txt 1
-data.zauy.txt 4
-data.zazw.txt 1
-data.zdkc.txt 1
-data.zdme.txt 1
-data.zeec.txt 1
-data.zeid.txt 2
-data.zezh.txt 2
+data.op.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zauy.txt 6.565571457682201
+data.zazw.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdme.txt 2.82763771717948
+data.zeec.txt 2.82763771717948
+data.zeid.txt 4.48169974735425
+data.zezh.txt 4.48169974735425

@@ -1,5 +1,5 @@
 4
-data.zalj.txt 2
-data.zctm.txt 1
-data.zctp.txt 1
-data.zeel.txt 1
+data.zalj.txt 5.372597648141796
+data.zctm.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zeel.txt 3.389731710180695

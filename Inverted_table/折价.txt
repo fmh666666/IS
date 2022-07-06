@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.dg.txt 1
-data.zahd.txt 1
-data.zbgw.txt 1
-data.zbil.txt 1
-data.zcls.txt 1
-data.zcni.txt 1
-data.zdux.txt 1
-data.zefv.txt 2
+data.cq.txt 2.82763771717948
+data.dg.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zbgw.txt 2.82763771717948
+data.zbil.txt 2.82763771717948
+data.zcls.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zefv.txt 4.48169974735425

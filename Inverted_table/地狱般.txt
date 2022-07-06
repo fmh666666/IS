@@ -1,9 +1,9 @@
 8
-data.hu.txt 1
-data.zafy.txt 1
-data.zasq.txt 1
-data.zbkj.txt 1
-data.zbre.txt 1
-data.zdcw.txt 1
-data.zdll.txt 1
-data.zeqh.txt 2
+data.hu.txt 2.9092786962624935
+data.zafy.txt 2.9092786962624935
+data.zasq.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zdll.txt 2.9092786962624935
+data.zeqh.txt 4.611097637722987

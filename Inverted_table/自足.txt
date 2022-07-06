@@ -1,10 +1,10 @@
 9
-data.zabe.txt 1
-data.zbem.txt 1
-data.zbxw.txt 1
-data.zcem.txt 1
-data.zcli.txt 1
-data.zczj.txt 1
-data.zdnh.txt 1
-data.zebn.txt 1
-data.zewd.txt 1
+data.zabe.txt 2.82763771717948
+data.zbem.txt 2.82763771717948
+data.zbxw.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcli.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zdnh.txt 2.82763771717948
+data.zebn.txt 2.82763771717948
+data.zewd.txt 2.82763771717948

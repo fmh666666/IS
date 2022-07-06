@@ -1,8 +1,8 @@
 7
-data.ng.txt 2
-data.zasw.txt 1
-data.zblq.txt 1
-data.zbyb.txt 1
-data.zctp.txt 1
-data.zdwd.txt 1
-data.zeqv.txt 1
+data.ng.txt 4.757796866583254
+data.zasw.txt 3.0018356045764243
+data.zblq.txt 3.0018356045764243
+data.zbyb.txt 3.0018356045764243
+data.zctp.txt 3.0018356045764243
+data.zdwd.txt 3.0018356045764243
+data.zeqv.txt 3.0018356045764243

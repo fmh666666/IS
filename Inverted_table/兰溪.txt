@@ -1,13 +1,13 @@
 12
-data.ew.txt 1
-data.zahp.txt 1
-data.zawc.txt 1
-data.zaxk.txt 1
-data.zbhe.txt 1
-data.zcak.txt 1
-data.zchd.txt 1
-data.zcwn.txt 2
-data.zczj.txt 1
-data.zdpf.txt 1
-data.zdpg.txt 1
-data.zeoh.txt 1
+data.ew.txt 2.628231699761886
+data.zahp.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zchd.txt 2.628231699761886
+data.zcwn.txt 4.165648687329214
+data.zczj.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

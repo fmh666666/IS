@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.tj.txt 1
-data.zafv.txt 1
-data.zciq.txt 1
-data.zdeb.txt 1
-data.zdvl.txt 1
-data.zeec.txt 2
-data.zemb.txt 1
-data.zene.txt 1
+data.cq.txt 2.82763771717948
+data.tj.txt 2.82763771717948
+data.zafv.txt 2.82763771717948
+data.zciq.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zeec.txt 4.48169974735425
+data.zemb.txt 2.82763771717948
+data.zene.txt 2.82763771717948

@@ -1,5 +1,5 @@
 4
-data.zbqu.txt 2
-data.zbre.txt 1
-data.zcel.txt 1
-data.zcxh.txt 1
+data.zbqu.txt 5.372597648141796
+data.zbre.txt 3.389731710180695
+data.zcel.txt 3.389731710180695
+data.zcxh.txt 3.389731710180695

@@ -1,10 +1,10 @@
 9
-data.zbdb.txt 1
-data.zbjh.txt 3
-data.zbkj.txt 1
-data.zblq.txt 1
-data.zbxy.txt 1
-data.zcel.txt 1
-data.zcih.txt 1
-data.zcql.txt 1
-data.zdwk.txt 1
+data.zbdb.txt 2.82763771717948
+data.zbjh.txt 5.65527543435896
+data.zbkj.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zbxy.txt 2.82763771717948
+data.zcel.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zdwk.txt 2.82763771717948

@@ -1,5 +1,5 @@
 4
-data.be.txt 2
-data.gw.txt 1
-data.zbvn.txt 1
-data.zesi.txt 1
+data.be.txt 5.372597648141796
+data.gw.txt 3.389731710180695
+data.zbvn.txt 3.389731710180695
+data.zesi.txt 3.389731710180695

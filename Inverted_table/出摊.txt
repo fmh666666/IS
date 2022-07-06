@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.mk.txt 1
-data.mo.txt 1
-data.zamp.txt 1
-data.zane.txt 1
-data.zbcc.txt 1
-data.zcfn.txt 1
-data.zciy.txt 1
-data.zeew.txt 1
-data.zeyy.txt 2
+data.fp.txt 2.7546073728089153
+data.mk.txt 2.7546073728089153
+data.mo.txt 2.7546073728089153
+data.zamp.txt 2.7546073728089153
+data.zane.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zeew.txt 2.7546073728089153
+data.zeyy.txt 4.365949390112154

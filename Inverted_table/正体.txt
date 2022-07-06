@@ -1,7 +1,7 @@
 6
-data.zanm.txt 1
-data.zasq.txt 4
-data.zbpp.txt 1
-data.zbrj.txt 1
-data.zdwz.txt 1
-data.zdxw.txt 1
+data.zanm.txt 3.1086847136800873
+data.zasq.txt 7.21814237484067
+data.zbpp.txt 3.1086847136800873
+data.zbrj.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zdxw.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zcpa.txt 1
-data.zctp.txt 1
-data.zfas.txt 1
+data.zcpa.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

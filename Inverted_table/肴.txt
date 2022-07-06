@@ -1,12 +1,12 @@
 11
-data.zayc.txt 1
-data.zbor.txt 1
-data.zccl.txt 1
-data.zcel.txt 3
-data.zcku.txt 1
-data.zcts.txt 1
-data.zcxp.txt 1
-data.zdzn.txt 1
-data.zedx.txt 1
-data.zesi.txt 1
-data.zewg.txt 1
+data.zayc.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zccl.txt 2.6885433903988862
+data.zcel.txt 5.3770867807977725
+data.zcku.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zcxp.txt 2.6885433903988862
+data.zdzn.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862
+data.zesi.txt 2.6885433903988862
+data.zewg.txt 2.6885433903988862

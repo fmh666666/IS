@@ -1,5 +1,5 @@
 4
-data.zcel.txt 1
-data.zcql.txt 1
-data.zcrv.txt 1
-data.zdtv.txt 1
+data.zcel.txt 3.389731710180695
+data.zcql.txt 3.389731710180695
+data.zcrv.txt 3.389731710180695
+data.zdtv.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zass.txt 1
-data.zeoh.txt 1
-data.zeoo.txt 1
+data.zass.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888
+data.zeoo.txt 3.5891377275982888

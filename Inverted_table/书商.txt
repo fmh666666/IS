@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.hp.txt 4
-data.tj.txt 2
-data.zaqf.txt 1
-data.zbla.txt 1
-data.zduo.txt 1
-data.zdvl.txt 1
-data.zegk.txt 1
+data.ek.txt 2.9092786962624935
+data.hp.txt 6.7551359407091605
+data.tj.txt 4.611097637722987
+data.zaqf.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zdvl.txt 2.9092786962624935
+data.zegk.txt 2.9092786962624935

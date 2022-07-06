@@ -1,13 +1,13 @@
 12
-data.gw.txt 1
-data.zadv.txt 1
-data.zahd.txt 1
-data.zako.txt 1
-data.zbfz.txt 1
-data.zbpm.txt 2
-data.zctp.txt 1
-data.zdeb.txt 2
-data.zdxw.txt 2
-data.zdzn.txt 1
-data.zeqh.txt 1
-data.zesq.txt 1
+data.gw.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbpm.txt 4.165648687329214
+data.zctp.txt 2.628231699761886
+data.zdeb.txt 4.165648687329214
+data.zdxw.txt 4.165648687329214
+data.zdzn.txt 2.628231699761886
+data.zeqh.txt 2.628231699761886
+data.zesq.txt 2.628231699761886

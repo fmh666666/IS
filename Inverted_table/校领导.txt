@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.zaip.txt 1
-data.zavx.txt 2
-data.zcvi.txt 1
-data.zdoq.txt 1
-data.zejk.txt 1
-data.zeqv.txt 2
-data.zess.txt 1
-data.zevq.txt 1
-data.zexm.txt 1
+data.fp.txt 2.7546073728089153
+data.zaip.txt 2.7546073728089153
+data.zavx.txt 4.365949390112154
+data.zcvi.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zejk.txt 2.7546073728089153
+data.zeqv.txt 4.365949390112154
+data.zess.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153
+data.zexm.txt 2.7546073728089153

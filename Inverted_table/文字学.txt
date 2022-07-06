@@ -1,3 +1,3 @@
 2
-data.zbrj.txt 1
-data.zddb.txt 4
+data.zbrj.txt 3.8701847240988965
+data.zddb.txt 8.986290643289122

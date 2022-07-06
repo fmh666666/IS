@@ -1,4 +1,4 @@
 3
-data.mk.txt 1
-data.zbjq.txt 1
-data.zbph.txt 1
+data.mk.txt 3.5891377275982888
+data.zbjq.txt 3.5891377275982888
+data.zbph.txt 3.5891377275982888

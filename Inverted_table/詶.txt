@@ -1,2 +1,2 @@
 1
-data.hc.txt 5
+data.hc.txt 11.246235406996512

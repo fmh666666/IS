@@ -1,6 +1,6 @@
 5
-data.zbhe.txt 1
-data.zebv.txt 1
-data.zevy.txt 5
-data.zexk.txt 1
-data.zfbr.txt 7
+data.zbhe.txt 3.235060386727117
+data.zebv.txt 3.235060386727117
+data.zevy.txt 8.362509787258078
+data.zexk.txt 3.235060386727117
+data.zfbr.txt 9.70518116018135

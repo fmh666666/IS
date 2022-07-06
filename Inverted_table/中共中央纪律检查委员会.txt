@@ -1,6 +1,6 @@
 5
-data.zafy.txt 1
-data.zbnx.txt 1
-data.zcdg.txt 1
-data.zcdy.txt 1
-data.zdst.txt 1
+data.zafy.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zcdg.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zdst.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.hp.txt 3
-data.zako.txt 1
-data.zbyv.txt 2
-data.zcdy.txt 4
-data.zcdz.txt 4
-data.zexv.txt 1
+data.hp.txt 6.2173694273601745
+data.zako.txt 3.1086847136800873
+data.zbyv.txt 4.927148697748023
+data.zcdy.txt 7.21814237484067
+data.zcdz.txt 7.21814237484067
+data.zexv.txt 3.1086847136800873

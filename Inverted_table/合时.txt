@@ -1,6 +1,6 @@
 5
-data.nh.txt 1
-data.pq.txt 1
-data.tz.txt 1
-data.zdlm.txt 1
-data.zdzm.txt 1
+data.nh.txt 3.235060386727117
+data.pq.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117

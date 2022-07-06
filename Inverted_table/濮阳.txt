@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.zaip.txt 1
-data.zank.txt 1
-data.zbpx.txt 1
-data.zbqu.txt 10
-data.zdil.txt 1
-data.zdle.txt 1
-data.zdme.txt 2
-data.zeds.txt 1
-data.zeos.txt 1
-data.zexm.txt 1
-data.zfaw.txt 1
+data.fp.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zank.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zbqu.txt 9.092187843261117
+data.zdil.txt 2.628231699761886
+data.zdle.txt 2.628231699761886
+data.zdme.txt 4.165648687329214
+data.zeds.txt 2.628231699761886
+data.zeos.txt 2.628231699761886
+data.zexm.txt 2.628231699761886
+data.zfaw.txt 2.628231699761886

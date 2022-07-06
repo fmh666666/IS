@@ -1,9 +1,9 @@
 8
-data.zasr.txt 1
-data.zcby.txt 1
-data.zcft.txt 1
-data.zedx.txt 1
-data.zehp.txt 1
-data.zelt.txt 1
-data.zeoo.txt 1
-data.zewp.txt 2
+data.zasr.txt 2.9092786962624935
+data.zcby.txt 2.9092786962624935
+data.zcft.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zewp.txt 4.611097637722987

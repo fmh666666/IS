@@ -1,11 +1,11 @@
 10
-data.jj.txt 1
-data.wc.txt 1
-data.zate.txt 1
-data.zbor.txt 1
-data.zcmv.txt 1
-data.zddx.txt 1
-data.zduc.txt 1
-data.zehj.txt 1
-data.zesi.txt 1
-data.zfcj.txt 2
+data.jj.txt 2.7546073728089153
+data.wc.txt 2.7546073728089153
+data.zate.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zcmv.txt 2.7546073728089153
+data.zddx.txt 2.7546073728089153
+data.zduc.txt 2.7546073728089153
+data.zehj.txt 2.7546073728089153
+data.zesi.txt 2.7546073728089153
+data.zfcj.txt 4.365949390112154

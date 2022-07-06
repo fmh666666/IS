@@ -1,5 +1,5 @@
 4
-data.zbkv.txt 3
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcmx.txt 1
+data.zbkv.txt 6.77946342036139
+data.zcdy.txt 3.389731710180695
+data.zcdz.txt 5.372597648141796
+data.zcmx.txt 3.389731710180695

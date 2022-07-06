@@ -1,10 +1,10 @@
 9
-data.ek.txt 1
-data.ga.txt 1
-data.tv.txt 1
-data.zajh.txt 1
-data.zbdx.txt 3
-data.zbfx.txt 1
-data.zbvn.txt 3
-data.zcdv.txt 1
-data.zcel.txt 1
+data.ek.txt 2.82763771717948
+data.ga.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zbdx.txt 5.65527543435896
+data.zbfx.txt 2.82763771717948
+data.zbvn.txt 5.65527543435896
+data.zcdv.txt 2.82763771717948
+data.zcel.txt 2.82763771717948

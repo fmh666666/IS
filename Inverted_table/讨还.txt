@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.to.txt 1
-data.zaoo.txt 1
-data.zdep.txt 1
+data.op.txt 3.389731710180695
+data.to.txt 3.389731710180695
+data.zaoo.txt 3.389731710180695
+data.zdep.txt 3.389731710180695

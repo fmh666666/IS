@@ -1,5 +1,5 @@
 4
-data.zafk.txt 1
-data.zbqu.txt 1
-data.zcdy.txt 3
-data.zcej.txt 1
+data.zafk.txt 3.389731710180695
+data.zbqu.txt 3.389731710180695
+data.zcdy.txt 6.77946342036139
+data.zcej.txt 3.389731710180695

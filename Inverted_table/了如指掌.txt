@@ -1,8 +1,8 @@
 7
-data.zamr.txt 1
-data.zayv.txt 1
-data.zcao.txt 2
-data.zcdy.txt 1
-data.zcls.txt 2
-data.zcrg.txt 1
-data.zeun.txt 1
+data.zamr.txt 3.0018356045764243
+data.zayv.txt 3.0018356045764243
+data.zcao.txt 4.757796866583254
+data.zcdy.txt 3.0018356045764243
+data.zcls.txt 4.757796866583254
+data.zcrg.txt 3.0018356045764243
+data.zeun.txt 3.0018356045764243

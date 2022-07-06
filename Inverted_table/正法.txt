@@ -1,13 +1,13 @@
 12
-data.jf.txt 17
-data.zabe.txt 4
-data.zajn.txt 1
-data.zaxx.txt 1
-data.zbaf.txt 1
-data.zbjh.txt 10
-data.zcee.txt 1
-data.zcli.txt 1
-data.zcsu.txt 1
-data.zedo.txt 1
-data.zeyu.txt 1
-data.zfai.txt 2
+data.jf.txt 10.959529074420313
+data.zabe.txt 6.1025650235506905
+data.zajn.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zbaf.txt 2.628231699761886
+data.zbjh.txt 9.092187843261117
+data.zcee.txt 2.628231699761886
+data.zcli.txt 2.628231699761886
+data.zcsu.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zeyu.txt 2.628231699761886
+data.zfai.txt 4.165648687329214

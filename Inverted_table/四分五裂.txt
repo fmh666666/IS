@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.vi.txt 1
-data.zawb.txt 1
-data.zbpx.txt 1
-data.zcee.txt 1
-data.zcej.txt 1
-data.zedk.txt 1
-data.zeoh.txt 1
-data.zezy.txt 1
+data.op.txt 2.82763771717948
+data.vi.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbpx.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zcej.txt 2.82763771717948
+data.zedk.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zezy.txt 2.82763771717948

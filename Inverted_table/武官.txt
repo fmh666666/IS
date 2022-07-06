@@ -1,9 +1,9 @@
 8
-data.zaeh.txt 1
-data.zall.txt 1
-data.zazw.txt 3
-data.zbaq.txt 1
-data.zcao.txt 4
-data.zcql.txt 1
-data.zety.txt 4
-data.zfae.txt 2
+data.zaeh.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zazw.txt 5.818557392524987
+data.zbaq.txt 2.9092786962624935
+data.zcao.txt 6.7551359407091605
+data.zcql.txt 2.9092786962624935
+data.zety.txt 6.7551359407091605
+data.zfae.txt 4.611097637722987

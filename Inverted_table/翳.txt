@@ -1,7 +1,7 @@
 6
-data.tz.txt 1
-data.zadv.txt 4
-data.zajh.txt 1
-data.zazw.txt 1
-data.zdeq.txt 1
-data.zdwz.txt 3
+data.tz.txt 3.1086847136800873
+data.zadv.txt 7.21814237484067
+data.zajh.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zdeq.txt 3.1086847136800873
+data.zdwz.txt 6.2173694273601745

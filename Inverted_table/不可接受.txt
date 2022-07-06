@@ -1,6 +1,6 @@
 5
-data.co.txt 1
-data.zapf.txt 1
-data.zazg.txt 1
-data.zcqg.txt 1
-data.zdll.txt 1
+data.co.txt 3.235060386727117
+data.zapf.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zdll.txt 3.235060386727117

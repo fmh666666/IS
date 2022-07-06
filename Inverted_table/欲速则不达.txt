@@ -1,5 +1,5 @@
 4
-data.hz.txt 1
-data.zaim.txt 1
-data.zdgo.txt 2
-data.zefd.txt 1
+data.hz.txt 3.389731710180695
+data.zaim.txt 3.389731710180695
+data.zdgo.txt 5.372597648141796
+data.zefd.txt 3.389731710180695

@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zadv.txt 1
-data.zaoo.txt 1
-data.zasr.txt 1
-data.zate.txt 1
-data.zavg.txt 1
-data.zcdy.txt 1
-data.zcic.txt 1
-data.zdcy.txt 4
+data.op.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zasr.txt 2.82763771717948
+data.zate.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zdcy.txt 6.565571457682201

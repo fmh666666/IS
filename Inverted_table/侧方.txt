@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zblh.txt 1
-data.zegk.txt 1
+data.hz.txt 3.5891377275982888
+data.zblh.txt 3.5891377275982888
+data.zegk.txt 3.5891377275982888

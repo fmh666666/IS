@@ -1,9 +1,9 @@
 8
-data.zadv.txt 1
-data.zaub.txt 1
-data.zbmw.txt 1
-data.zcjd.txt 1
-data.zdoc.txt 1
-data.zdou.txt 1
-data.zehp.txt 1
-data.zeik.txt 1
+data.zadv.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zbmw.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zeik.txt 2.9092786962624935

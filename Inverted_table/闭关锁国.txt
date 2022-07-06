@@ -1,11 +1,11 @@
 10
-data.hu.txt 1
-data.ng.txt 1
-data.xe.txt 1
-data.zbkj.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zclm.txt 1
-data.zcmy.txt 1
-data.zczl.txt 1
-data.zfdk.txt 1
+data.hu.txt 2.7546073728089153
+data.ng.txt 2.7546073728089153
+data.xe.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zclm.txt 2.7546073728089153
+data.zcmy.txt 2.7546073728089153
+data.zczl.txt 2.7546073728089153
+data.zfdk.txt 2.7546073728089153

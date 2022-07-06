@@ -1,4 +1,4 @@
 3
-data.zcuh.txt 1
-data.zemb.txt 1
-data.zeqn.txt 1
+data.zcuh.txt 3.5891377275982888
+data.zemb.txt 3.5891377275982888
+data.zeqn.txt 3.5891377275982888

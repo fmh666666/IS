@@ -1,4 +1,4 @@
 3
-data.zaip.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
+data.zaip.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zcdz.txt 5.688648708166832

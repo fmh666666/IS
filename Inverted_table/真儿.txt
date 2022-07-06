@@ -1,6 +1,6 @@
 5
-data.zaxk.txt 1
-data.zcef.txt 4
-data.zdqk.txt 27
-data.zdqq.txt 18
-data.zdux.txt 4
+data.zaxk.txt 3.235060386727117
+data.zcef.txt 7.511577600598868
+data.zdqk.txt 15.552083473286181
+data.zdqq.txt 13.742302024429566
+data.zdux.txt 7.511577600598868

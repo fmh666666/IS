@@ -1,5 +1,5 @@
 4
-data.zasw.txt 2
-data.zcej.txt 1
-data.zdaw.txt 1
-data.zfaj.txt 1
+data.zasw.txt 5.372597648141796
+data.zcej.txt 3.389731710180695
+data.zdaw.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

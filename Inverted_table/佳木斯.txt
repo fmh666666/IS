@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.zdzn.txt 2
-data.zedx.txt 1
+data.bs.txt 3.5891377275982888
+data.zdzn.txt 5.688648708166832
+data.zedx.txt 3.5891377275982888

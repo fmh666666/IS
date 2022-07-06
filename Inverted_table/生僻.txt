@@ -1,8 +1,8 @@
 7
-data.zafv.txt 1
-data.zamr.txt 1
-data.zaxj.txt 1
-data.zaxk.txt 2
-data.zciy.txt 1
-data.zcvq.txt 1
-data.zenn.txt 1
+data.zafv.txt 3.0018356045764243
+data.zamr.txt 3.0018356045764243
+data.zaxj.txt 3.0018356045764243
+data.zaxk.txt 4.757796866583254
+data.zciy.txt 3.0018356045764243
+data.zcvq.txt 3.0018356045764243
+data.zenn.txt 3.0018356045764243

@@ -1,11 +1,11 @@
 10
-data.ew.txt 1
-data.jd.txt 1
-data.kt.txt 2
-data.pn.txt 1
-data.zasd.txt 33
-data.zbfx.txt 1
-data.zdgp.txt 1
-data.zdpf.txt 1
-data.zebc.txt 14
-data.zfaj.txt 1
+data.ew.txt 2.7546073728089153
+data.jd.txt 2.7546073728089153
+data.kt.txt 4.365949390112154
+data.pn.txt 2.7546073728089153
+data.zasd.txt 14.013962651399579
+data.zbfx.txt 2.7546073728089153
+data.zdgp.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zebc.txt 10.76194963942104
+data.zfaj.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.zbfr.txt 1
-data.zbkv.txt 2
-data.zdst.txt 1
+data.zbfr.txt 3.5891377275982888
+data.zbkv.txt 5.688648708166832
+data.zdst.txt 3.5891377275982888

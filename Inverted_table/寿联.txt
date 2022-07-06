@@ -1,4 +1,4 @@
 3
-data.vz.txt 1
-data.zckd.txt 1
-data.zevl.txt 1
+data.vz.txt 3.5891377275982888
+data.zckd.txt 3.5891377275982888
+data.zevl.txt 3.5891377275982888

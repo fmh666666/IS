@@ -1,4 +1,4 @@
 3
-data.zaoc.txt 1
-data.zbcc.txt 2
-data.zcoy.txt 1
+data.zaoc.txt 3.5891377275982888
+data.zbcc.txt 5.688648708166832
+data.zcoy.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.pn.txt 1
-data.zdlg.txt 1
-data.zenw.txt 1
+data.pn.txt 3.5891377275982888
+data.zdlg.txt 3.5891377275982888
+data.zenw.txt 3.5891377275982888

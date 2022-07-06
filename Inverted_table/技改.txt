@@ -1,3 +1,3 @@
 2
-data.zchd.txt 2
-data.zdlw.txt 1
+data.zchd.txt 6.134097658560606
+data.zdlw.txt 3.8701847240988965

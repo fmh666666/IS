@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.jf.txt 1
-data.mk.txt 1
-data.mo.txt 1
-data.tz.txt 1
-data.vi.txt 2
-data.zasq.txt 1
-data.zbjh.txt 1
-data.zdzg.txt 1
-data.zeoh.txt 1
-data.zeta.txt 2
-data.zevq.txt 1
+data.bs.txt 2.628231699761886
+data.jf.txt 2.628231699761886
+data.mk.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.vi.txt 4.165648687329214
+data.zasq.txt 2.628231699761886
+data.zbjh.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zeta.txt 4.165648687329214
+data.zevq.txt 2.628231699761886

@@ -1,7 +1,7 @@
 6
-data.zajo.txt 1
-data.zbdb.txt 3
-data.zbor.txt 2
-data.zcak.txt 1
-data.zcon.txt 1
-data.zdud.txt 1
+data.zajo.txt 3.1086847136800873
+data.zbdb.txt 6.2173694273601745
+data.zbor.txt 4.927148697748023
+data.zcak.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873

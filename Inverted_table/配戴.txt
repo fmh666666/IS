@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.zbjh.txt 2
-data.zcdv.txt 1
-data.zcls.txt 1
-data.zdpf.txt 1
-data.zeoh.txt 1
-data.zety.txt 1
-data.zewv.txt 1
+data.jf.txt 2.9092786962624935
+data.zbjh.txt 4.611097637722987
+data.zcdv.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zety.txt 2.9092786962624935
+data.zewv.txt 2.9092786962624935

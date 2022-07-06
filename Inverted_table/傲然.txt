@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.hg.txt 1
-data.zapl.txt 1
-data.zawu.txt 1
-data.zbil.txt 1
-data.zdfl.txt 1
-data.zefv.txt 1
-data.zelj.txt 1
-data.zexu.txt 1
-data.zeyg.txt 1
+data.be.txt 2.7546073728089153
+data.hg.txt 2.7546073728089153
+data.zapl.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zdfl.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153
+data.zelj.txt 2.7546073728089153
+data.zexu.txt 2.7546073728089153
+data.zeyg.txt 2.7546073728089153

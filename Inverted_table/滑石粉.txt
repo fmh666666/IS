@@ -1,5 +1,5 @@
 4
-data.zagr.txt 1
-data.zbut.txt 1
-data.zdaw.txt 1
-data.zeid.txt 2
+data.zagr.txt 3.389731710180695
+data.zbut.txt 3.389731710180695
+data.zdaw.txt 3.389731710180695
+data.zeid.txt 5.372597648141796

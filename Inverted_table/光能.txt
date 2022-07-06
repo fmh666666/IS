@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.mt.txt 1
-data.zasw.txt 1
-data.zaub.txt 1
-data.zazg.txt 1
-data.zdgv.txt 1
-data.zdkc.txt 1
-data.zesq.txt 1
+data.hz.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.zasw.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zazg.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935

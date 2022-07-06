@@ -1,4 +1,4 @@
 3
-data.tj.txt 2
-data.zbye.txt 1
-data.zedd.txt 2
+data.tj.txt 5.688648708166832
+data.zbye.txt 3.5891377275982888
+data.zedd.txt 5.688648708166832

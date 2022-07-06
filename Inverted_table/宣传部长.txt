@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.gz.txt 1
-data.op.txt 1
-data.zawb.txt 1
-data.zaxx.txt 1
-data.zbhd.txt 2
-data.zbwa.txt 1
-data.zcis.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zfae.txt 1
+data.cz.txt 2.6885433903988862
+data.gz.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zaxx.txt 2.6885433903988862
+data.zbhd.txt 4.261240455343955
+data.zbwa.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

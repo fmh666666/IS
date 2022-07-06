@@ -1,10 +1,10 @@
 9
-data.ft.txt 1
-data.ha.txt 1
-data.op.txt 1
-data.zagr.txt 1
-data.zcqp.txt 1
-data.zdcw.txt 1
-data.zefd.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.ft.txt 2.82763771717948
+data.ha.txt 2.82763771717948
+data.op.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zdcw.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zfae.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

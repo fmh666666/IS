@@ -1,4 +1,4 @@
 3
-data.zbjc.txt 2
-data.zdcw.txt 2
-data.zeva.txt 2
+data.zbjc.txt 5.688648708166832
+data.zdcw.txt 5.688648708166832
+data.zeva.txt 5.688648708166832

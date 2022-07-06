@@ -1,4 +1,4 @@
 3
-data.zasy.txt 2
-data.zbcv.txt 1
-data.zeec.txt 1
+data.zasy.txt 5.688648708166832
+data.zbcv.txt 3.5891377275982888
+data.zeec.txt 3.5891377275982888

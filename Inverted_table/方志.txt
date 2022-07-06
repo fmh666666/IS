@@ -1,10 +1,10 @@
 9
-data.mx.txt 1
-data.zadv.txt 2
-data.zbsd.txt 1
-data.zcse.txt 1
-data.zcts.txt 1
-data.zczp.txt 2
-data.zeew.txt 1
-data.zemf.txt 2
-data.zexv.txt 1
+data.mx.txt 2.82763771717948
+data.zadv.txt 4.48169974735425
+data.zbsd.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zczp.txt 4.48169974735425
+data.zeew.txt 2.82763771717948
+data.zemf.txt 4.48169974735425
+data.zexv.txt 2.82763771717948

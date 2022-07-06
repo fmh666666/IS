@@ -1,2 +1,2 @@
 1
-data.mt.txt 3
+data.mt.txt 8.701275476034196

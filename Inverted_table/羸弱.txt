@@ -1,6 +1,6 @@
 5
-data.zbds.txt 1
-data.zbht.txt 1
-data.zdof.txt 1
-data.zebf.txt 1
-data.zehp.txt 1
+data.zbds.txt 3.235060386727117
+data.zbht.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zebf.txt 3.235060386727117
+data.zehp.txt 3.235060386727117

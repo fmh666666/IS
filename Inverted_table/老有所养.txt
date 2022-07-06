@@ -1,6 +1,6 @@
 5
-data.ry.txt 1
-data.zabe.txt 1
-data.zazg.txt 1
-data.zbts.txt 1
-data.zcdy.txt 1
+data.ry.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117

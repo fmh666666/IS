@@ -1,10 +1,10 @@
 9
-data.cq.txt 2
-data.zapl.txt 1
-data.zbfz.txt 1
-data.zbtj.txt 1
-data.zcem.txt 1
-data.zciq.txt 1
-data.zcjy.txt 1
-data.zdpf.txt 1
-data.zfas.txt 1
+data.cq.txt 4.48169974735425
+data.zapl.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbtj.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zciq.txt 2.82763771717948
+data.zcjy.txt 2.82763771717948
+data.zdpf.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

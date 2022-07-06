@@ -1,3 +1,3 @@
 2
-data.zdfl.txt 1
-data.zfaj.txt 1
+data.zdfl.txt 3.8701847240988965
+data.zfaj.txt 3.8701847240988965

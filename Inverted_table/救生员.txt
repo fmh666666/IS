@@ -1,11 +1,11 @@
 10
-data.ka.txt 1
-data.zcdz.txt 1
-data.zcrn.txt 1
-data.zcue.txt 1
-data.zdeb.txt 1
-data.zdgt.txt 1
-data.zdwz.txt 1
-data.zewd.txt 1
-data.zfaw.txt 1
-data.zfby.txt 1
+data.ka.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcrn.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zdwz.txt 2.7546073728089153
+data.zewd.txt 2.7546073728089153
+data.zfaw.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

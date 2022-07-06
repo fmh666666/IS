@@ -1,5 +1,5 @@
 4
-data.zbil.txt 7
-data.zerh.txt 2
-data.zfai.txt 1
-data.zfaj.txt 7
+data.zbil.txt 10.169195130542084
+data.zerh.txt 5.372597648141796
+data.zfai.txt 3.389731710180695
+data.zfaj.txt 10.169195130542084

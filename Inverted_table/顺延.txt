@@ -1,10 +1,10 @@
 9
-data.vi.txt 1
-data.zamr.txt 1
-data.zasd.txt 1
-data.zbfx.txt 1
-data.zbhd.txt 2
-data.zcko.txt 1
-data.zdpg.txt 1
-data.zenw.txt 1
-data.zewn.txt 1
+data.vi.txt 2.82763771717948
+data.zamr.txt 2.82763771717948
+data.zasd.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zbhd.txt 4.48169974735425
+data.zcko.txt 2.82763771717948
+data.zdpg.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zewn.txt 2.82763771717948

@@ -1,14 +1,14 @@
 13
-data.zail.txt 1
-data.zair.txt 1
-data.zaql.txt 1
-data.zavg.txt 1
-data.zawm.txt 1
-data.zbdb.txt 1
-data.zbga.txt 4
-data.zcgo.txt 2
-data.zciq.txt 2
-data.zdmw.txt 1
-data.zdof.txt 2
-data.zefs.txt 1
-data.zenn.txt 2
+data.zail.txt 2.5727503226135906
+data.zair.txt 2.5727503226135906
+data.zaql.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zawm.txt 2.5727503226135906
+data.zbdb.txt 2.5727503226135906
+data.zbga.txt 5.97374125520702
+data.zcgo.txt 4.077712785060798
+data.zciq.txt 4.077712785060798
+data.zdmw.txt 2.5727503226135906
+data.zdof.txt 4.077712785060798
+data.zefs.txt 2.5727503226135906
+data.zenn.txt 4.077712785060798

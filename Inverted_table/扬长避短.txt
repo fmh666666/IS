@@ -1,8 +1,8 @@
 7
-data.aj.txt 1
-data.zaqw.txt 1
-data.zcsu.txt 1
-data.zcts.txt 1
-data.zdeb.txt 1
-data.zebn.txt 3
-data.zedd.txt 1
+data.aj.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zcsu.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zebn.txt 6.003671209152849
+data.zedd.txt 3.0018356045764243

@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.zaet.txt 1
-data.zalm.txt 1
-data.zapl.txt 1
-data.zbhv.txt 2
-data.zbof.txt 1
-data.zcli.txt 2
-data.zeqh.txt 1
-data.zfcg.txt 1
+data.bb.txt 2.82763771717948
+data.zaet.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zbhv.txt 4.48169974735425
+data.zbof.txt 2.82763771717948
+data.zcli.txt 4.48169974735425
+data.zeqh.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

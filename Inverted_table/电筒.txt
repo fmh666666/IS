@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.kq.txt 1
-data.zaet.txt 1
-data.zbbt.txt 1
-data.zcoy.txt 1
-data.zcqp.txt 1
-data.zdou.txt 1
-data.zdpz.txt 1
+data.bs.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.zaet.txt 2.9092786962624935
+data.zbbt.txt 2.9092786962624935
+data.zcoy.txt 2.9092786962624935
+data.zcqp.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935

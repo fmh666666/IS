@@ -1,5 +1,5 @@
 4
-data.zcdz.txt 1
-data.zdme.txt 1
-data.zeaf.txt 2
-data.zelt.txt 1
+data.zcdz.txt 3.389731710180695
+data.zdme.txt 3.389731710180695
+data.zeaf.txt 5.372597648141796
+data.zelt.txt 3.389731710180695

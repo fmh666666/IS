@@ -1,9 +1,9 @@
 8
-data.pq.txt 1
-data.zaop.txt 1
-data.zaxk.txt 1
-data.zcft.txt 2
-data.zcrn.txt 1
-data.zene.txt 2
-data.zevt.txt 2
-data.zezh.txt 1
+data.pq.txt 2.9092786962624935
+data.zaop.txt 2.9092786962624935
+data.zaxk.txt 2.9092786962624935
+data.zcft.txt 4.611097637722987
+data.zcrn.txt 2.9092786962624935
+data.zene.txt 4.611097637722987
+data.zevt.txt 4.611097637722987
+data.zezh.txt 2.9092786962624935

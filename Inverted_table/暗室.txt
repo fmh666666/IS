@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zasr.txt 2
-data.zdsh.txt 2
+data.ye.txt 3.5891377275982888
+data.zasr.txt 5.688648708166832
+data.zdsh.txt 5.688648708166832

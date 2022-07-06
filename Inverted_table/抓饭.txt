@@ -1,5 +1,5 @@
 4
-data.aj.txt 1
-data.tv.txt 1
-data.zcem.txt 3
-data.zcku.txt 1
+data.aj.txt 3.389731710180695
+data.tv.txt 3.389731710180695
+data.zcem.txt 6.77946342036139
+data.zcku.txt 3.389731710180695

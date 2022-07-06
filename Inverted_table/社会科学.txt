@@ -1,6 +1,6 @@
 5
-data.ga.txt 2
-data.zagb.txt 1
-data.zawb.txt 1
-data.zbrj.txt 1
-data.zeid.txt 1
+data.ga.txt 5.1274494005309625
+data.zagb.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

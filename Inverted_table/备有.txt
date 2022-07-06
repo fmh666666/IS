@@ -1,9 +1,9 @@
 8
-data.aj.txt 2
-data.ha.txt 1
-data.hc.txt 1
-data.jf.txt 1
-data.zasw.txt 1
-data.zbdx.txt 2
-data.zbzg.txt 1
-data.zcon.txt 1
+data.aj.txt 4.611097637722987
+data.ha.txt 2.9092786962624935
+data.hc.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zasw.txt 2.9092786962624935
+data.zbdx.txt 4.611097637722987
+data.zbzg.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935

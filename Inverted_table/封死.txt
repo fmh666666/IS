@@ -1,10 +1,10 @@
 9
-data.nh.txt 1
-data.zcee.txt 1
-data.zcrv.txt 2
-data.zczp.txt 2
-data.zdst.txt 1
-data.zdzn.txt 1
-data.zeay.txt 1
-data.zelt.txt 1
-data.zeqv.txt 1
+data.nh.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zcrv.txt 4.48169974735425
+data.zczp.txt 4.48169974735425
+data.zdst.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

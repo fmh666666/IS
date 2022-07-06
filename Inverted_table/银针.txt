@@ -1,4 +1,4 @@
 3
-data.zapf.txt 1
-data.zcon.txt 1
-data.zeaf.txt 1
+data.zapf.txt 3.5891377275982888
+data.zcon.txt 3.5891377275982888
+data.zeaf.txt 3.5891377275982888

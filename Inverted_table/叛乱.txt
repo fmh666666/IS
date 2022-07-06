@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zbjk.txt 3
-data.zcdg.txt 2
-data.zdwn.txt 1
+data.op.txt 3.389731710180695
+data.zbjk.txt 6.77946342036139
+data.zcdg.txt 5.372597648141796
+data.zdwn.txt 3.389731710180695

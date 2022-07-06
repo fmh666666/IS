@@ -1,13 +1,13 @@
 12
-data.ud.txt 1
-data.zalc.txt 1
-data.zass.txt 2
-data.zbaq.txt 1
-data.zbsf.txt 1
-data.zbzo.txt 1
-data.zcao.txt 1
-data.zckd.txt 1
-data.zcoy.txt 1
-data.zdkp.txt 1
-data.zeag.txt 1
-data.zfcp.txt 1
+data.ud.txt 2.628231699761886
+data.zalc.txt 2.628231699761886
+data.zass.txt 4.165648687329214
+data.zbaq.txt 2.628231699761886
+data.zbsf.txt 2.628231699761886
+data.zbzo.txt 2.628231699761886
+data.zcao.txt 2.628231699761886
+data.zckd.txt 2.628231699761886
+data.zcoy.txt 2.628231699761886
+data.zdkp.txt 2.628231699761886
+data.zeag.txt 2.628231699761886
+data.zfcp.txt 2.628231699761886

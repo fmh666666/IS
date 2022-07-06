@@ -1,7 +1,7 @@
 6
-data.vm.txt 1
-data.xe.txt 2
-data.zajo.txt 1
-data.zcue.txt 1
-data.zddl.txt 1
-data.zerh.txt 2
+data.vm.txt 3.1086847136800873
+data.xe.txt 4.927148697748023
+data.zajo.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zddl.txt 3.1086847136800873
+data.zerh.txt 4.927148697748023

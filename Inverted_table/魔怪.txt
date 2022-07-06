@@ -1,11 +1,11 @@
 10
-data.cz.txt 1
-data.pq.txt 1
-data.zall.txt 1
-data.zbcj.txt 3
-data.zbkj.txt 1
-data.zbut.txt 1
-data.zbux.txt 1
-data.zcwq.txt 1
-data.zdoq.txt 1
-data.zeec.txt 1
+data.cz.txt 2.7546073728089153
+data.pq.txt 2.7546073728089153
+data.zall.txt 2.7546073728089153
+data.zbcj.txt 5.509214745617831
+data.zbkj.txt 2.7546073728089153
+data.zbut.txt 2.7546073728089153
+data.zbux.txt 2.7546073728089153
+data.zcwq.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153

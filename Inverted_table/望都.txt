@@ -1,4 +1,4 @@
 3
-data.zbmt.txt 1
-data.zbvp.txt 1
-data.zdib.txt 1
+data.zbmt.txt 3.5891377275982888
+data.zbvp.txt 3.5891377275982888
+data.zdib.txt 3.5891377275982888

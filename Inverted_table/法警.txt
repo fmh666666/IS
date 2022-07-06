@@ -1,7 +1,7 @@
 6
-data.gz.txt 1
-data.zawc.txt 2
-data.zcbm.txt 1
-data.zcfx.txt 1
-data.zeos.txt 2
-data.zerw.txt 1
+data.gz.txt 3.1086847136800873
+data.zawc.txt 4.927148697748023
+data.zcbm.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zeos.txt 4.927148697748023
+data.zerw.txt 3.1086847136800873

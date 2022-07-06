@@ -1,10 +1,10 @@
 9
-data.zako.txt 1
-data.zamp.txt 1
-data.zazw.txt 1
-data.zbfg.txt 2
-data.zbht.txt 1
-data.zbpp.txt 1
-data.zcqs.txt 1
-data.zevq.txt 1
-data.zezn.txt 2
+data.zako.txt 2.82763771717948
+data.zamp.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zbfg.txt 4.48169974735425
+data.zbht.txt 2.82763771717948
+data.zbpp.txt 2.82763771717948
+data.zcqs.txt 2.82763771717948
+data.zevq.txt 2.82763771717948
+data.zezn.txt 4.48169974735425

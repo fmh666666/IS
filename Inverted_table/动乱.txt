@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.jf.txt 1
-data.zadv.txt 1
-data.zaxk.txt 1
-data.zbia.txt 1
-data.zbpp.txt 1
-data.zdoq.txt 1
-data.zfai.txt 2
+data.hp.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaxk.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935
+data.zfai.txt 4.611097637722987

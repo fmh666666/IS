@@ -1,12 +1,12 @@
 11
-data.pa.txt 1
-data.pn.txt 1
-data.uz.txt 2
-data.zagr.txt 1
-data.zane.txt 1
-data.zcda.txt 1
-data.zcrv.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 1
-data.zedy.txt 1
-data.zekw.txt 1
+data.pa.txt 2.6885433903988862
+data.pn.txt 2.6885433903988862
+data.uz.txt 4.261240455343955
+data.zagr.txt 2.6885433903988862
+data.zane.txt 2.6885433903988862
+data.zcda.txt 2.6885433903988862
+data.zcrv.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zedy.txt 2.6885433903988862
+data.zekw.txt 2.6885433903988862

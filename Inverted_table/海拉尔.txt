@@ -1,6 +1,6 @@
 5
-data.zajo.txt 1
-data.zawz.txt 1
-data.zbdb.txt 1
-data.zbmw.txt 1
-data.zedy.txt 1
+data.zajo.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbmw.txt 3.235060386727117
+data.zedy.txt 3.235060386727117

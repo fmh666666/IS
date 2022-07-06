@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.zahd.txt 1
-data.zeay.txt 1
+data.bs.txt 3.5891377275982888
+data.zahd.txt 3.5891377275982888
+data.zeay.txt 3.5891377275982888

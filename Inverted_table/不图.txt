@@ -1,14 +1,14 @@
 13
-data.ft.txt 1
-data.ng.txt 1
-data.pa.txt 1
-data.zaqf.txt 1
-data.zasq.txt 1
-data.zayc.txt 1
-data.zcsu.txt 1
-data.zdle.txt 1
-data.zdme.txt 1
-data.zefs.txt 1
-data.zeyu.txt 1
-data.zezn.txt 1
-data.zfas.txt 1
+data.ft.txt 2.5727503226135906
+data.ng.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.zaqf.txt 2.5727503226135906
+data.zasq.txt 2.5727503226135906
+data.zayc.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zdle.txt 2.5727503226135906
+data.zdme.txt 2.5727503226135906
+data.zefs.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906
+data.zezn.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906

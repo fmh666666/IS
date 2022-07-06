@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.zbzf.txt 3
-data.zcjo.txt 1
-data.zeob.txt 1
-data.zeqh.txt 1
+data.ek.txt 3.235060386727117
+data.zbzf.txt 6.470120773454234
+data.zcjo.txt 3.235060386727117
+data.zeob.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

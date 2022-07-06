@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.zcxr.txt 1
-data.zdwl.txt 2
+data.bs.txt 3.5891377275982888
+data.zcxr.txt 3.5891377275982888
+data.zdwl.txt 5.688648708166832

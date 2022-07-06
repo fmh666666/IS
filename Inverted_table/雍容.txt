@@ -1,13 +1,13 @@
 12
-data.mx.txt 1
-data.zadv.txt 1
-data.zall.txt 1
-data.zaqp.txt 1
-data.zasq.txt 1
-data.zaxj.txt 1
-data.zbdb.txt 5
-data.zbla.txt 1
-data.zbvf.txt 1
-data.zbzf.txt 1
-data.zczb.txt 1
-data.zdpg.txt 1
+data.mx.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zall.txt 2.628231699761886
+data.zaqp.txt 2.628231699761886
+data.zasq.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zbdb.txt 6.7938803870911
+data.zbla.txt 2.628231699761886
+data.zbvf.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zczb.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886

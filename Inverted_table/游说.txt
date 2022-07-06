@@ -1,12 +1,12 @@
 11
-data.zacd.txt 2
-data.zapl.txt 1
-data.zbil.txt 1
-data.zbnp.txt 1
-data.zcsu.txt 1
-data.zcue.txt 3
-data.zcvi.txt 1
-data.zcwq.txt 1
-data.zdzg.txt 1
-data.zeoh.txt 3
-data.zfai.txt 4
+data.zacd.txt 4.261240455343955
+data.zapl.txt 2.6885433903988862
+data.zbil.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zcue.txt 5.3770867807977725
+data.zcvi.txt 2.6885433903988862
+data.zcwq.txt 2.6885433903988862
+data.zdzg.txt 2.6885433903988862
+data.zeoh.txt 5.3770867807977725
+data.zfai.txt 6.2426044324908965

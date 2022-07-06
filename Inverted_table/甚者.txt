@@ -1,2 +1,2 @@
 1
-data.zbre.txt 1
+data.zbre.txt 4.350637738017098

@@ -1,6 +1,6 @@
 5
-data.zabx.txt 1
-data.zate.txt 1
-data.zbjk.txt 1
-data.zbkj.txt 1
-data.zbkv.txt 1
+data.zabx.txt 3.235060386727117
+data.zate.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbkj.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.mo.txt 1
-data.zarc.txt 1
-data.zaub.txt 1
-data.zcfn.txt 1
-data.zcih.txt 1
-data.zeai.txt 1
-data.zeid.txt 1
-data.zezm.txt 1
+data.kt.txt 2.82763771717948
+data.mo.txt 2.82763771717948
+data.zarc.txt 2.82763771717948
+data.zaub.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcih.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zeid.txt 2.82763771717948
+data.zezm.txt 2.82763771717948

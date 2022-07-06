@@ -1,5 +1,5 @@
 4
-data.nh.txt 1
-data.zanm.txt 1
-data.zdaq.txt 3
-data.zfcp.txt 1
+data.nh.txt 3.389731710180695
+data.zanm.txt 3.389731710180695
+data.zdaq.txt 6.77946342036139
+data.zfcp.txt 3.389731710180695

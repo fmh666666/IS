@@ -1,4 +1,4 @@
 3
-data.ft.txt 1
-data.zccu.txt 4
-data.zdeb.txt 1
+data.ft.txt 3.5891377275982888
+data.zccu.txt 8.333719726130651
+data.zdeb.txt 3.5891377275982888

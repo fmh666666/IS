@@ -1,6 +1,6 @@
 5
-data.zabx.txt 1
-data.zaoc.txt 1
-data.zcln.txt 1
-data.zehj.txt 1
-data.zevt.txt 1
+data.zabx.txt 3.235060386727117
+data.zaoc.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zehj.txt 3.235060386727117
+data.zevt.txt 3.235060386727117

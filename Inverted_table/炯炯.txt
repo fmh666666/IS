@@ -1,5 +1,5 @@
 4
-data.zawb.txt 1
-data.zbdb.txt 1
-data.zcdv.txt 1
-data.zdga.txt 1
+data.zawb.txt 3.389731710180695
+data.zbdb.txt 3.389731710180695
+data.zcdv.txt 3.389731710180695
+data.zdga.txt 3.389731710180695

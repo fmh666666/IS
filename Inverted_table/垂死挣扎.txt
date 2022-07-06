@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.gw.txt 1
-data.zasd.txt 1
-data.zdgp.txt 1
-data.zeam.txt 1
-data.zemf.txt 1
-data.zexv.txt 1
-data.zfby.txt 1
+data.ek.txt 2.9092786962624935
+data.gw.txt 2.9092786962624935
+data.zasd.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zemf.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935
+data.zfby.txt 2.9092786962624935

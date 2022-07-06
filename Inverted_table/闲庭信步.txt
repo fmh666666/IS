@@ -1,11 +1,11 @@
 10
-data.zawu.txt 1
-data.zcee.txt 1
-data.zcku.txt 1
-data.zcxh.txt 1
-data.zdcy.txt 5
-data.zdpf.txt 1
-data.zedo.txt 1
-data.zeeh.txt 1
-data.zewn.txt 1
-data.zexk.txt 1
+data.zawu.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zcku.txt 2.7546073728089153
+data.zcxh.txt 2.7546073728089153
+data.zdcy.txt 7.120556762921068
+data.zdpf.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zeeh.txt 2.7546073728089153
+data.zewn.txt 2.7546073728089153
+data.zexk.txt 2.7546073728089153

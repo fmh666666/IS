@@ -1,6 +1,6 @@
 5
-data.zcdz.txt 1
-data.zcmy.txt 1
-data.zdju.txt 1
-data.zeid.txt 1
-data.zfaj.txt 1
+data.zcdz.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zeid.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

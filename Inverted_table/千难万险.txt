@@ -1,12 +1,12 @@
 11
-data.zagb.txt 1
-data.zbha.txt 1
-data.zbhe.txt 1
-data.zbla.txt 1
-data.zbvf.txt 1
-data.zcel.txt 1
-data.zdby.txt 2
-data.zddb.txt 1
-data.zddm.txt 2
-data.zdkv.txt 1
-data.zeoh.txt 1
+data.zagb.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zbhe.txt 2.6885433903988862
+data.zbla.txt 2.6885433903988862
+data.zbvf.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zdby.txt 4.261240455343955
+data.zddb.txt 2.6885433903988862
+data.zddm.txt 4.261240455343955
+data.zdkv.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

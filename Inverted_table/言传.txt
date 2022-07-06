@@ -1,8 +1,8 @@
 7
-data.fj.txt 1
-data.zcbe.txt 1
-data.zcqe.txt 1
-data.zczl.txt 1
-data.zdpg.txt 1
-data.zebn.txt 1
-data.zewv.txt 1
+data.fj.txt 3.0018356045764243
+data.zcbe.txt 3.0018356045764243
+data.zcqe.txt 3.0018356045764243
+data.zczl.txt 3.0018356045764243
+data.zdpg.txt 3.0018356045764243
+data.zebn.txt 3.0018356045764243
+data.zewv.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.zaxj.txt 1
-data.zaxk.txt 1
-data.zbyb.txt 1
-data.zcni.txt 1
-data.zcse.txt 1
+data.zaxj.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zcse.txt 3.235060386727117

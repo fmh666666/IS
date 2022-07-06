@@ -1,13 +1,13 @@
 12
-data.op.txt 1
-data.zalm.txt 1
-data.zapr.txt 1
-data.zaqr.txt 1
-data.zblq.txt 1
-data.zblr.txt 1
-data.zbqu.txt 1
-data.zcdg.txt 1
-data.zcjo.txt 2
-data.zcku.txt 1
-data.zcli.txt 1
-data.zeoo.txt 1
+data.op.txt 2.628231699761886
+data.zalm.txt 2.628231699761886
+data.zapr.txt 2.628231699761886
+data.zaqr.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcjo.txt 4.165648687329214
+data.zcku.txt 2.628231699761886
+data.zcli.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886

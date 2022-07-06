@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zaoc.txt 2
-data.zcts.txt 1
-data.zdxw.txt 1
-data.zeaf.txt 1
-data.zfae.txt 1
+data.bb.txt 3.1086847136800873
+data.zaoc.txt 4.927148697748023
+data.zcts.txt 3.1086847136800873
+data.zdxw.txt 3.1086847136800873
+data.zeaf.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

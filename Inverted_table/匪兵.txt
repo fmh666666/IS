@@ -1,4 +1,4 @@
 3
-data.op.txt 2
-data.zaim.txt 2
-data.zeqh.txt 2
+data.op.txt 5.688648708166832
+data.zaim.txt 5.688648708166832
+data.zeqh.txt 5.688648708166832

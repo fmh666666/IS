@@ -1,12 +1,12 @@
 11
-data.xk.txt 1
-data.zaej.txt 2
-data.zail.txt 1
-data.zasj.txt 11
-data.zbhe.txt 2
-data.zbht.txt 1
-data.zcqg.txt 1
-data.zczb.txt 1
-data.zdmw.txt 1
-data.zdwl.txt 2
-data.zehp.txt 9
+data.xk.txt 2.6885433903988862
+data.zaej.txt 4.261240455343955
+data.zail.txt 2.6885433903988862
+data.zasj.txt 9.638327236141729
+data.zbhe.txt 4.261240455343955
+data.zbht.txt 2.6885433903988862
+data.zcqg.txt 2.6885433903988862
+data.zczb.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zdwl.txt 4.261240455343955
+data.zehp.txt 8.931147822889784

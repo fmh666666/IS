@@ -1,13 +1,13 @@
 12
-data.zawb.txt 4
-data.zcda.txt 1
-data.zcxr.txt 1
-data.zddp.txt 1
-data.zdgt.txt 3
-data.zdkp.txt 1
-data.zdwv.txt 1
-data.zene.txt 1
-data.zexx.txt 1
-data.zfae.txt 1
-data.zfaj.txt 1
-data.zfdk.txt 1
+data.zawb.txt 6.1025650235506905
+data.zcda.txt 2.628231699761886
+data.zcxr.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdgt.txt 5.256463399523772
+data.zdkp.txt 2.628231699761886
+data.zdwv.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zexx.txt 2.628231699761886
+data.zfae.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886
+data.zfdk.txt 2.628231699761886

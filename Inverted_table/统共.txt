@@ -1,6 +1,6 @@
 5
-data.zcis.txt 1
-data.zdsh.txt 1
-data.zduo.txt 1
-data.zevq.txt 1
-data.zezf.txt 1
+data.zcis.txt 3.235060386727117
+data.zdsh.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zevq.txt 3.235060386727117
+data.zezf.txt 3.235060386727117

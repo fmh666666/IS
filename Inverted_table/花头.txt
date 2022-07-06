@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.ng.txt 1
-data.vi.txt 1
-data.zajr.txt 1
-data.zbup.txt 1
-data.zcis.txt 1
+data.bs.txt 3.1086847136800873
+data.ng.txt 3.1086847136800873
+data.vi.txt 3.1086847136800873
+data.zajr.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zcis.txt 3.1086847136800873

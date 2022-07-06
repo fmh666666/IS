@@ -1,11 +1,11 @@
 10
-data.pa.txt 1
-data.zarr.txt 1
-data.zbfp.txt 1
-data.zbmw.txt 1
-data.zdoq.txt 1
-data.zdtr.txt 1
-data.zekw.txt 1
-data.zeqv.txt 1
-data.zevq.txt 1
-data.zexx.txt 1
+data.pa.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zdtr.txt 2.7546073728089153
+data.zekw.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153
+data.zexx.txt 2.7546073728089153

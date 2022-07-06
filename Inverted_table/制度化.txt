@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zawb.txt 1
-data.zdpf.txt 1
-data.zefd.txt 1
-data.zelt.txt 1
+data.op.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117
+data.zefd.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

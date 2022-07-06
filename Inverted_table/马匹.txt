@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zbvm.txt 2
-data.zbye.txt 1
-data.zcxq.txt 1
-data.zelt.txt 1
-data.zfby.txt 1
+data.fp.txt 3.1086847136800873
+data.zbvm.txt 4.927148697748023
+data.zbye.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

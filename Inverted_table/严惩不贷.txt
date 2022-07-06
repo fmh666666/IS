@@ -1,5 +1,5 @@
 4
-data.kq.txt 1
-data.zako.txt 1
-data.zcve.txt 6
-data.zfaj.txt 1
+data.kq.txt 3.389731710180695
+data.zako.txt 3.389731710180695
+data.zcve.txt 9.516180001030515
+data.zfaj.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zahd.txt 2
-data.zatz.txt 1
-data.zduo.txt 1
+data.zahd.txt 5.688648708166832
+data.zatz.txt 3.5891377275982888
+data.zduo.txt 3.5891377275982888

@@ -1,10 +1,10 @@
 9
-data.ud.txt 1
-data.zbds.txt 1
-data.zbfr.txt 1
-data.zbpx.txt 2
-data.zbut.txt 1
-data.zcjd.txt 2
-data.zdby.txt 1
-data.zdey.txt 1
-data.zdyv.txt 1
+data.ud.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zbfr.txt 2.82763771717948
+data.zbpx.txt 4.48169974735425
+data.zbut.txt 2.82763771717948
+data.zcjd.txt 4.48169974735425
+data.zdby.txt 2.82763771717948
+data.zdey.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948

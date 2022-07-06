@@ -1,11 +1,11 @@
 10
-data.hz.txt 1
-data.zaim.txt 2
-data.zbcj.txt 1
-data.zbor.txt 2
-data.zcgi.txt 1
-data.zcli.txt 1
-data.zdmw.txt 1
-data.zebn.txt 15
-data.zeds.txt 1
-data.zevt.txt 1
+data.hz.txt 2.7546073728089153
+data.zaim.txt 4.365949390112154
+data.zbcj.txt 2.7546073728089153
+data.zbor.txt 4.365949390112154
+data.zcgi.txt 2.7546073728089153
+data.zcli.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153
+data.zebn.txt 11.018429491235661
+data.zeds.txt 2.7546073728089153
+data.zevt.txt 2.7546073728089153

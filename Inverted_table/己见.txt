@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.zdgt.txt 1
-data.zebn.txt 1
-data.zedo.txt 1
-data.zeqh.txt 1
+data.ew.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zebn.txt 3.235060386727117
+data.zedo.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

@@ -1,11 +1,11 @@
 10
-data.mu.txt 1
-data.zagb.txt 1
-data.zajo.txt 1
-data.zamr.txt 1
-data.zcaq.txt 1
-data.zcda.txt 1
-data.zcql.txt 1
-data.zdkv.txt 1
-data.zewd.txt 1
-data.zfaw.txt 1
+data.mu.txt 2.7546073728089153
+data.zagb.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zamr.txt 2.7546073728089153
+data.zcaq.txt 2.7546073728089153
+data.zcda.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zdkv.txt 2.7546073728089153
+data.zewd.txt 2.7546073728089153
+data.zfaw.txt 2.7546073728089153

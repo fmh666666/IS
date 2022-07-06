@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.tz.txt 1
-data.vz.txt 2
-data.zacp.txt 1
-data.zbkf.txt 1
-data.zciy.txt 1
-data.zdga.txt 3
-data.zdqx.txt 1
-data.zdro.txt 1
-data.zeez.txt 1
-data.zevl.txt 1
+data.dg.txt 2.6885433903988862
+data.tz.txt 2.6885433903988862
+data.vz.txt 4.261240455343955
+data.zacp.txt 2.6885433903988862
+data.zbkf.txt 2.6885433903988862
+data.zciy.txt 2.6885433903988862
+data.zdga.txt 5.3770867807977725
+data.zdqx.txt 2.6885433903988862
+data.zdro.txt 2.6885433903988862
+data.zeez.txt 2.6885433903988862
+data.zevl.txt 2.6885433903988862

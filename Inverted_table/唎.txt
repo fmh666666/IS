@@ -1,4 +1,4 @@
 3
-data.ry.txt 3
-data.zbdb.txt 2
-data.zelj.txt 6
+data.ry.txt 7.1782754551965775
+data.zbdb.txt 5.688648708166832
+data.zelj.txt 10.0759834655157

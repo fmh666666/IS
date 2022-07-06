@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zabe.txt 6
-data.zblq.txt 1
-data.zcln.txt 1
-data.zcse.txt 1
+data.fp.txt 3.235060386727117
+data.zabe.txt 9.081962699831948
+data.zblq.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zcse.txt 3.235060386727117

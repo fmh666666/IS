@@ -1,10 +1,10 @@
 9
-data.zaoo.txt 1
-data.zaqw.txt 1
-data.zauy.txt 1
-data.zayv.txt 1
-data.zbga.txt 1
-data.zbjh.txt 1
-data.zcem.txt 1
-data.zcrn.txt 1
-data.zdrq.txt 2
+data.zaoo.txt 2.82763771717948
+data.zaqw.txt 2.82763771717948
+data.zauy.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zbga.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zdrq.txt 4.48169974735425

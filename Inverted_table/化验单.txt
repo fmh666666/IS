@@ -1,7 +1,7 @@
 6
-data.zbha.txt 2
-data.zcby.txt 1
-data.zdod.txt 1
-data.zedk.txt 2
-data.zerh.txt 1
-data.zfdk.txt 1
+data.zbha.txt 4.927148697748023
+data.zcby.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zedk.txt 4.927148697748023
+data.zerh.txt 3.1086847136800873
+data.zfdk.txt 3.1086847136800873

@@ -1,14 +1,14 @@
 13
-data.to.txt 1
-data.yx.txt 1
-data.zaic.txt 1
-data.zall.txt 1
-data.zasr.txt 1
-data.zbkv.txt 1
-data.zbtx.txt 1
-data.zbua.txt 1
-data.zbzg.txt 1
-data.zcve.txt 2
-data.zczl.txt 1
-data.zdcj.txt 1
-data.zebf.txt 1
+data.to.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zaic.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zasr.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbtx.txt 2.5727503226135906
+data.zbua.txt 2.5727503226135906
+data.zbzg.txt 2.5727503226135906
+data.zcve.txt 4.077712785060798
+data.zczl.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zebf.txt 2.5727503226135906

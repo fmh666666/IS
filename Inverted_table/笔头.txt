@@ -1,13 +1,13 @@
 12
-data.tz.txt 1
-data.zaop.txt 1
-data.zbia.txt 1
-data.zbkj.txt 1
-data.zbvn.txt 2
-data.zbvp.txt 1
-data.zcbe.txt 2
-data.zcli.txt 1
-data.zcoy.txt 1
-data.zczl.txt 1
-data.zdwz.txt 1
-data.zezn.txt 1
+data.tz.txt 2.628231699761886
+data.zaop.txt 2.628231699761886
+data.zbia.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zbvn.txt 4.165648687329214
+data.zbvp.txt 2.628231699761886
+data.zcbe.txt 4.165648687329214
+data.zcli.txt 2.628231699761886
+data.zcoy.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zdwz.txt 2.628231699761886
+data.zezn.txt 2.628231699761886

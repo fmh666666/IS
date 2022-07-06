@@ -1,5 +1,5 @@
 4
-data.gw.txt 2
-data.zcem.txt 1
-data.zdqx.txt 1
-data.zewv.txt 1
+data.gw.txt 5.372597648141796
+data.zcem.txt 3.389731710180695
+data.zdqx.txt 3.389731710180695
+data.zewv.txt 3.389731710180695

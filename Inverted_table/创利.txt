@@ -1,4 +1,4 @@
 3
-data.zcdy.txt 1
-data.zcdz.txt 6
-data.zedo.txt 1
+data.zcdy.txt 3.5891377275982888
+data.zcdz.txt 10.0759834655157
+data.zedo.txt 3.5891377275982888

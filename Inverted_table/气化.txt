@@ -1,6 +1,6 @@
 5
-data.zaet.txt 1
-data.zaxj.txt 1
-data.zbem.txt 1
-data.zcql.txt 1
-data.zdnh.txt 1
+data.zaet.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zbem.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zdnh.txt 3.235060386727117

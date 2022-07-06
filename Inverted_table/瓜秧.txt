@@ -1,4 +1,4 @@
 3
-data.zbph.txt 1
-data.zdnh.txt 1
-data.zemb.txt 1
+data.zbph.txt 3.5891377275982888
+data.zdnh.txt 3.5891377275982888
+data.zemb.txt 3.5891377275982888

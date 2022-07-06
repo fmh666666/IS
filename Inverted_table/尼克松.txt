@@ -1,12 +1,12 @@
 11
-data.op.txt 1
-data.pq.txt 1
-data.zaqr.txt 1
-data.zawu.txt 1
-data.zbds.txt 1
-data.zbqu.txt 1
-data.zbwq.txt 1
-data.zcmx.txt 1
-data.zdwk.txt 1
-data.zebc.txt 2
-data.zfaj.txt 2
+data.op.txt 2.6885433903988862
+data.pq.txt 2.6885433903988862
+data.zaqr.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zbwq.txt 2.6885433903988862
+data.zcmx.txt 2.6885433903988862
+data.zdwk.txt 2.6885433903988862
+data.zebc.txt 4.261240455343955
+data.zfaj.txt 4.261240455343955

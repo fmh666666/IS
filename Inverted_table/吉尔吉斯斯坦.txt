@@ -1,4 +1,4 @@
 3
-data.zawc.txt 1
-data.zbse.txt 2
-data.zexv.txt 1
+data.zawc.txt 3.5891377275982888
+data.zbse.txt 5.688648708166832
+data.zexv.txt 3.5891377275982888

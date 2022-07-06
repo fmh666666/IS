@@ -1,4 +1,4 @@
 3
-data.zacd.txt 1
-data.zctp.txt 1
-data.zebf.txt 4
+data.zacd.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zebf.txt 8.333719726130651

@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.jf.txt 1
-data.zank.txt 1
-data.zazn.txt 1
-data.zcdy.txt 1
-data.zcrg.txt 1
-data.zddx.txt 1
-data.zdil.txt 1
-data.zdpg.txt 1
-data.zdwl.txt 1
-data.zedx.txt 1
-data.zerh.txt 1
+data.cf.txt 2.628231699761886
+data.jf.txt 2.628231699761886
+data.zank.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdil.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886
+data.zdwl.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zerh.txt 2.628231699761886

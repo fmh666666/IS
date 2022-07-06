@@ -1,7 +1,7 @@
 6
-data.jf.txt 1
-data.zabe.txt 2
-data.zadv.txt 1
-data.zbjh.txt 1
-data.zcdz.txt 1
-data.zdqk.txt 1
+data.jf.txt 3.1086847136800873
+data.zabe.txt 4.927148697748023
+data.zadv.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zdqk.txt 3.1086847136800873

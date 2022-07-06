@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.gw.txt 1
-data.jj.txt 1
-data.zawc.txt 1
-data.zcdz.txt 1
-data.zcgo.txt 2
-data.zcse.txt 1
-data.zedo.txt 1
-data.zelt.txt 2
-data.zevq.txt 1
-data.zfai.txt 1
+data.ga.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.jj.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcgo.txt 4.261240455343955
+data.zcse.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zelt.txt 4.261240455343955
+data.zevq.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

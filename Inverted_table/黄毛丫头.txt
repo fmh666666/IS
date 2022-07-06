@@ -1,6 +1,6 @@
 5
-data.zazo.txt 1
-data.zczp.txt 1
-data.zdqq.txt 1
-data.zezm.txt 3
-data.zezn.txt 1
+data.zazo.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zdqq.txt 3.235060386727117
+data.zezm.txt 6.470120773454234
+data.zezn.txt 3.235060386727117

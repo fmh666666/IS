@@ -1,9 +1,9 @@
 8
-data.fj.txt 1
-data.jf.txt 1
-data.zbts.txt 1
-data.zcni.txt 1
-data.zedo.txt 1
-data.zeeq.txt 1
-data.zelj.txt 1
-data.zeta.txt 2
+data.fj.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935
+data.zelj.txt 2.9092786962624935
+data.zeta.txt 4.611097637722987

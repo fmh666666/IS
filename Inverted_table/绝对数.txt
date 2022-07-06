@@ -1,4 +1,4 @@
 3
-data.zdlm.txt 1
-data.zdpf.txt 1
-data.zelt.txt 1
+data.zdlm.txt 3.5891377275982888
+data.zdpf.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

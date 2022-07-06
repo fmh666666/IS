@@ -1,2 +1,2 @@
 1
-data.zalj.txt 1
+data.zalj.txt 4.350637738017098

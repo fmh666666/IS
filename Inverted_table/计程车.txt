@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.zbpc.txt 1
-data.zbvp.txt 1
-data.zczl.txt 2
-data.zdeb.txt 2
-data.zduc.txt 2
-data.zevt.txt 1
-data.zfbr.txt 1
+data.ev.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zczl.txt 4.611097637722987
+data.zdeb.txt 4.611097637722987
+data.zduc.txt 4.611097637722987
+data.zevt.txt 2.9092786962624935
+data.zfbr.txt 2.9092786962624935

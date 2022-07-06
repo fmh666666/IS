@@ -1,5 +1,5 @@
 4
-data.zalj.txt 1
-data.zbwa.txt 1
-data.zdqx.txt 1
-data.zfai.txt 1
+data.zalj.txt 3.389731710180695
+data.zbwa.txt 3.389731710180695
+data.zdqx.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.gk.txt 1
-data.hg.txt 1
-data.tz.txt 1
-data.zacp.txt 1
-data.zaxj.txt 3
-data.zaxk.txt 6
-data.zbkj.txt 1
-data.zcdg.txt 1
-data.zeai.txt 1
-data.zeaj.txt 2
+data.fp.txt 2.6885433903988862
+data.gk.txt 2.6885433903988862
+data.hg.txt 2.6885433903988862
+data.tz.txt 2.6885433903988862
+data.zacp.txt 2.6885433903988862
+data.zaxj.txt 5.3770867807977725
+data.zaxk.txt 7.547695520201752
+data.zbkj.txt 2.6885433903988862
+data.zcdg.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zeaj.txt 4.261240455343955

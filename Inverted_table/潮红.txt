@@ -1,7 +1,7 @@
 6
-data.zafv.txt 1
-data.zall.txt 1
-data.zarr.txt 1
-data.zbds.txt 1
-data.zcmx.txt 1
-data.zduc.txt 1
+data.zafv.txt 3.1086847136800873
+data.zall.txt 3.1086847136800873
+data.zarr.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zcmx.txt 3.1086847136800873
+data.zduc.txt 3.1086847136800873

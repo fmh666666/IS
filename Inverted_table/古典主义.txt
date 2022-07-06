@@ -1,4 +1,4 @@
 3
-data.zblr.txt 2
-data.zbrj.txt 1
-data.zedd.txt 1
+data.zblr.txt 5.688648708166832
+data.zbrj.txt 3.5891377275982888
+data.zedd.txt 3.5891377275982888

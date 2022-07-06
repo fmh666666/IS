@@ -1,11 +1,11 @@
 10
-data.by.txt 1
-data.zacd.txt 3
-data.zawc.txt 1
-data.zbhe.txt 1
-data.zbjc.txt 1
-data.zbmw.txt 1
-data.zcdv.txt 1
-data.zcql.txt 1
-data.zdsh.txt 1
-data.zedo.txt 1
+data.by.txt 2.7546073728089153
+data.zacd.txt 5.509214745617831
+data.zawc.txt 2.7546073728089153
+data.zbhe.txt 2.7546073728089153
+data.zbjc.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zdsh.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153

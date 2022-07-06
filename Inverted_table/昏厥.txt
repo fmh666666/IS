@@ -1,10 +1,10 @@
 9
-data.ry.txt 1
-data.zbcj.txt 1
-data.zbwq.txt 1
-data.zdkv.txt 1
-data.zduk.txt 1
-data.zebc.txt 1
-data.zefu.txt 1
-data.zemf.txt 1
-data.zeyu.txt 1
+data.ry.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zdkv.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zemf.txt 2.82763771717948
+data.zeyu.txt 2.82763771717948

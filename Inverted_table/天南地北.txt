@@ -1,11 +1,11 @@
 10
-data.ek.txt 1
-data.gk.txt 1
-data.kq.txt 1
-data.zacd.txt 1
-data.zafv.txt 1
-data.zcmn.txt 1
-data.zdux.txt 1
-data.zeaj.txt 1
-data.zewg.txt 1
-data.zezf.txt 1
+data.ek.txt 2.7546073728089153
+data.gk.txt 2.7546073728089153
+data.kq.txt 2.7546073728089153
+data.zacd.txt 2.7546073728089153
+data.zafv.txt 2.7546073728089153
+data.zcmn.txt 2.7546073728089153
+data.zdux.txt 2.7546073728089153
+data.zeaj.txt 2.7546073728089153
+data.zewg.txt 2.7546073728089153
+data.zezf.txt 2.7546073728089153

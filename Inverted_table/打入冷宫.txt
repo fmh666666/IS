@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.zbvn.txt 1
-data.zdeb.txt 1
-data.zdfl.txt 1
-data.zeaj.txt 1
-data.zeay.txt 1
-data.zekw.txt 1
-data.zeyy.txt 1
+data.dg.txt 2.9092786962624935
+data.zbvn.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zdfl.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935
+data.zeyy.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.zbdb.txt 2
-data.zbre.txt 1
-data.zcmy.txt 1
-data.zdpw.txt 2
-data.zeds.txt 1
-data.zekw.txt 1
+data.zbdb.txt 4.927148697748023
+data.zbre.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zdpw.txt 4.927148697748023
+data.zeds.txt 3.1086847136800873
+data.zekw.txt 3.1086847136800873

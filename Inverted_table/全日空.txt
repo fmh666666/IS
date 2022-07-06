@@ -1,6 +1,6 @@
 5
-data.kt.txt 3
-data.zcao.txt 4
-data.zcic.txt 1
-data.zdux.txt 3
-data.zesi.txt 1
+data.kt.txt 6.470120773454234
+data.zcao.txt 7.511577600598868
+data.zcic.txt 3.235060386727117
+data.zdux.txt 6.470120773454234
+data.zesi.txt 3.235060386727117

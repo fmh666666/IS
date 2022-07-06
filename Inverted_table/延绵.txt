@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.zcts.txt 1
-data.zdpg.txt 5
-data.zedo.txt 1
-data.zedx.txt 3
+data.mt.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdpg.txt 8.362509787258078
+data.zedo.txt 3.235060386727117
+data.zedx.txt 6.470120773454234

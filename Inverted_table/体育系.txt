@@ -1,5 +1,5 @@
 4
-data.to.txt 1
-data.zbkv.txt 1
-data.zbpx.txt 1
-data.zdmw.txt 1
+data.to.txt 3.389731710180695
+data.zbkv.txt 3.389731710180695
+data.zbpx.txt 3.389731710180695
+data.zdmw.txt 3.389731710180695

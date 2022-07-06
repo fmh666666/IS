@@ -1,12 +1,12 @@
 11
-data.mi.txt 1
-data.zaql.txt 1
-data.zavg.txt 1
-data.zawb.txt 1
-data.zbhv.txt 1
-data.zbup.txt 1
-data.zcdz.txt 1
-data.zcts.txt 2
-data.zcuh.txt 1
-data.zdzi.txt 2
-data.zexk.txt 1
+data.mi.txt 2.6885433903988862
+data.zaql.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbup.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcts.txt 4.261240455343955
+data.zcuh.txt 2.6885433903988862
+data.zdzi.txt 4.261240455343955
+data.zexk.txt 2.6885433903988862

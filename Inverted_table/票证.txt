@@ -1,6 +1,6 @@
 5
-data.zabe.txt 3
-data.zacw.txt 1
-data.zcse.txt 1
-data.zctm.txt 1
-data.zefd.txt 1
+data.zabe.txt 6.470120773454234
+data.zacw.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zctm.txt 3.235060386727117
+data.zefd.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.tz.txt 1
-data.zawo.txt 1
-data.zbaf.txt 1
-data.zbjh.txt 1
-data.zbrd.txt 1
-data.zdaw.txt 1
-data.zerh.txt 1
-data.zezh.txt 1
+data.tz.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zbaf.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zbrd.txt 2.9092786962624935
+data.zdaw.txt 2.9092786962624935
+data.zerh.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935

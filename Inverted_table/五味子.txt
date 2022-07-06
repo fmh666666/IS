@@ -1,4 +1,4 @@
 3
-data.fj.txt 1
-data.zbfz.txt 1
-data.zduc.txt 2
+data.fj.txt 3.5891377275982888
+data.zbfz.txt 3.5891377275982888
+data.zduc.txt 5.688648708166832

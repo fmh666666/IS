@@ -1,4 +1,4 @@
 3
-data.zbwq.txt 1
-data.zezm.txt 16
-data.zezn.txt 18
+data.zbwq.txt 3.5891377275982888
+data.zezm.txt 14.670467093687689
+data.zezn.txt 15.24639690260316

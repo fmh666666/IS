@@ -1,6 +1,6 @@
 5
-data.ff.txt 1
-data.zbpx.txt 1
-data.zbrj.txt 1
-data.zcbm.txt 1
-data.zcdg.txt 1
+data.ff.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zcbm.txt 3.235060386727117
+data.zcdg.txt 3.235060386727117

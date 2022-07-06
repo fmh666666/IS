@@ -1,4 +1,4 @@
 3
-data.zbvm.txt 1
-data.zbyb.txt 1
-data.zcft.txt 6
+data.zbvm.txt 3.5891377275982888
+data.zbyb.txt 3.5891377275982888
+data.zcft.txt 10.0759834655157

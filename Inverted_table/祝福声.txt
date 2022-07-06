@@ -1,9 +1,9 @@
 8
-data.vz.txt 1
-data.zalm.txt 1
-data.zayv.txt 1
-data.zbpc.txt 1
-data.zcls.txt 1
-data.zcnn.txt 1
-data.zedo.txt 1
-data.zfaj.txt 1
+data.vz.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zayv.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zcnn.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

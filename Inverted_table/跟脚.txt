@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zbia.txt 1
-data.zbse.txt 2
-data.zcjo.txt 1
-data.zexx.txt 2
+data.hz.txt 3.235060386727117
+data.zbia.txt 3.235060386727117
+data.zbse.txt 5.1274494005309625
+data.zcjo.txt 3.235060386727117
+data.zexx.txt 5.1274494005309625

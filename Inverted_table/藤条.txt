@@ -1,7 +1,7 @@
 6
-data.ee.txt 2
-data.gz.txt 1
-data.zadv.txt 1
-data.zbfd.txt 1
-data.zbsl.txt 1
-data.zcmn.txt 1
+data.ee.txt 4.927148697748023
+data.gz.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zbfd.txt 3.1086847136800873
+data.zbsl.txt 3.1086847136800873
+data.zcmn.txt 3.1086847136800873

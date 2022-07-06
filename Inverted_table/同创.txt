@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.zarr.txt 1
-data.zawc.txt 1
-data.zazg.txt 1
-data.zbfx.txt 1
-data.zbzf.txt 1
-data.zcbm.txt 1
-data.zcon.txt 1
-data.zdcy.txt 1
-data.zdlw.txt 1
-data.zdpf.txt 1
-data.zeag.txt 2
+data.kq.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zazg.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcbm.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdcy.txt 2.628231699761886
+data.zdlw.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zeag.txt 4.165648687329214

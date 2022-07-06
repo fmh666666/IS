@@ -1,5 +1,5 @@
 4
-data.mu.txt 1
-data.zawo.txt 1
-data.zbcj.txt 1
-data.zdzg.txt 1
+data.mu.txt 3.389731710180695
+data.zawo.txt 3.389731710180695
+data.zbcj.txt 3.389731710180695
+data.zdzg.txt 3.389731710180695

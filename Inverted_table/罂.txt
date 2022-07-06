@@ -1,9 +1,9 @@
 8
-data.tv.txt 2
-data.tz.txt 2
-data.yx.txt 1
-data.zajh.txt 4
-data.zchw.txt 1
-data.zdby.txt 3
-data.zddb.txt 1
-data.zess.txt 2
+data.tv.txt 4.611097637722987
+data.tz.txt 4.611097637722987
+data.yx.txt 2.9092786962624935
+data.zajh.txt 6.7551359407091605
+data.zchw.txt 2.9092786962624935
+data.zdby.txt 5.818557392524987
+data.zddb.txt 2.9092786962624935
+data.zess.txt 4.611097637722987

@@ -1,5 +1,5 @@
 4
-data.zake.txt 2
-data.zbrj.txt 2
-data.zbux.txt 1
-data.zcxh.txt 1
+data.zake.txt 5.372597648141796
+data.zbrj.txt 5.372597648141796
+data.zbux.txt 3.389731710180695
+data.zcxh.txt 3.389731710180695

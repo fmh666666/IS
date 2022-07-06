@@ -1,9 +1,9 @@
 8
-data.ep.txt 1
-data.mt.txt 1
-data.zbaf.txt 1
-data.zbts.txt 1
-data.zcft.txt 1
-data.zcmx.txt 1
-data.zcuh.txt 1
-data.zdpg.txt 1
+data.ep.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.zbaf.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcft.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcuh.txt 2.9092786962624935
+data.zdpg.txt 2.9092786962624935

@@ -1,6 +1,6 @@
 5
-data.aj.txt 1
-data.op.txt 1
-data.zbua.txt 1
-data.zcwn.txt 1
-data.zdzi.txt 1
+data.aj.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zcwn.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117

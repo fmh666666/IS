@@ -1,4 +1,4 @@
 3
-data.zazo.txt 1
-data.zcqs.txt 6
-data.zddv.txt 1
+data.zazo.txt 3.5891377275982888
+data.zcqs.txt 10.0759834655157
+data.zddv.txt 3.5891377275982888

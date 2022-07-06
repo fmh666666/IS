@@ -1,7 +1,7 @@
 6
-data.to.txt 1
-data.vz.txt 1
-data.zall.txt 3
-data.zbnx.txt 1
-data.zcao.txt 1
-data.zdgp.txt 1
+data.to.txt 3.1086847136800873
+data.vz.txt 3.1086847136800873
+data.zall.txt 6.2173694273601745
+data.zbnx.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zdgp.txt 3.1086847136800873

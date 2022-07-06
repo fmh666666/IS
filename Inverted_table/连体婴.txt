@@ -1,5 +1,5 @@
 4
-data.zalt.txt 1
-data.zesi.txt 1
-data.zfaz.txt 1
-data.zfcp.txt 1
+data.zalt.txt 3.389731710180695
+data.zesi.txt 3.389731710180695
+data.zfaz.txt 3.389731710180695
+data.zfcp.txt 3.389731710180695

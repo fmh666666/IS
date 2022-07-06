@@ -1,4 +1,4 @@
 3
-data.op.txt 2
-data.zbpm.txt 1
-data.zddb.txt 1
+data.op.txt 5.688648708166832
+data.zbpm.txt 3.5891377275982888
+data.zddb.txt 3.5891377275982888

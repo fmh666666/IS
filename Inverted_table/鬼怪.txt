@@ -1,14 +1,14 @@
 13
-data.zarr.txt 1
-data.zbcc.txt 1
-data.zbdb.txt 1
-data.zbdx.txt 1
-data.zblq.txt 1
-data.zbph.txt 1
-data.zdgo.txt 1
-data.zdll.txt 1
-data.zdpz.txt 2
-data.zeaf.txt 1
-data.zenw.txt 1
-data.zesq.txt 1
-data.zexx.txt 1
+data.zarr.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zbdb.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zbph.txt 2.5727503226135906
+data.zdgo.txt 2.5727503226135906
+data.zdll.txt 2.5727503226135906
+data.zdpz.txt 4.077712785060798
+data.zeaf.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zesq.txt 2.5727503226135906
+data.zexx.txt 2.5727503226135906

@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.zdaw.txt 1
-data.zdoc.txt 1
-data.zeoh.txt 1
-data.zfai.txt 1
+data.tv.txt 3.235060386727117
+data.zdaw.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

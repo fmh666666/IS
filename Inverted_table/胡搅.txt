@@ -1,4 +1,4 @@
 3
-data.zalj.txt 1
-data.zanm.txt 2
-data.zcpx.txt 1
+data.zalj.txt 3.5891377275982888
+data.zanm.txt 5.688648708166832
+data.zcpx.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.zafi.txt 1
-data.zawc.txt 2
-data.zbuj.txt 1
-data.zbwa.txt 1
-data.zcda.txt 1
-data.zcic.txt 1
-data.zdgt.txt 1
-data.zdlm.txt 1
+data.zafi.txt 2.9092786962624935
+data.zawc.txt 4.611097637722987
+data.zbuj.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zcda.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935

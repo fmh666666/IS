@@ -1,3 +1,3 @@
 2
-data.zcue.txt 1
-data.zehj.txt 1
+data.zcue.txt 3.8701847240988965
+data.zehj.txt 3.8701847240988965

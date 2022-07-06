@@ -1,10 +1,10 @@
 9
-data.mi.txt 1
-data.zbgd.txt 2
-data.zbvn.txt 1
-data.zcel.txt 1
-data.zcnn.txt 1
-data.zcvi.txt 1
-data.zczp.txt 2
-data.zelj.txt 1
-data.zexm.txt 2
+data.mi.txt 2.82763771717948
+data.zbgd.txt 4.48169974735425
+data.zbvn.txt 2.82763771717948
+data.zcel.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zcvi.txt 2.82763771717948
+data.zczp.txt 4.48169974735425
+data.zelj.txt 2.82763771717948
+data.zexm.txt 4.48169974735425

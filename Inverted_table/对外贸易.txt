@@ -1,5 +1,5 @@
 4
-data.zbeb.txt 1
-data.zctp.txt 1
-data.zcue.txt 18
-data.zerh.txt 1
+data.zbeb.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zcue.txt 14.399334594868751
+data.zerh.txt 3.389731710180695

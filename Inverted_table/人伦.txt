@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.op.txt 2
-data.xk.txt 1
-data.zawc.txt 1
-data.zbye.txt 1
-data.zcpb.txt 1
-data.zcqg.txt 1
-data.zczj.txt 2
-data.zdle.txt 2
-data.zdou.txt 1
+data.hp.txt 2.7546073728089153
+data.op.txt 4.365949390112154
+data.xk.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbye.txt 2.7546073728089153
+data.zcpb.txt 2.7546073728089153
+data.zcqg.txt 2.7546073728089153
+data.zczj.txt 4.365949390112154
+data.zdle.txt 4.365949390112154
+data.zdou.txt 2.7546073728089153

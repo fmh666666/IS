@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.zawm.txt 1
-data.zbua.txt 1
+data.mx.txt 3.5891377275982888
+data.zawm.txt 3.5891377275982888
+data.zbua.txt 3.5891377275982888

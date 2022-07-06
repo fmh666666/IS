@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zacp.txt 1
-data.zccu.txt 1
+data.ud.txt 3.5891377275982888
+data.zacp.txt 3.5891377275982888
+data.zccu.txt 3.5891377275982888

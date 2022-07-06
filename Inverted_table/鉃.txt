@@ -1,2 +1,2 @@
 1
-data.uz.txt 3
+data.uz.txt 8.701275476034196

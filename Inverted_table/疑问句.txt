@@ -1,4 +1,4 @@
 3
-data.zaic.txt 1
-data.zbdb.txt 1
-data.zciy.txt 1
+data.zaic.txt 3.5891377275982888
+data.zbdb.txt 3.5891377275982888
+data.zciy.txt 3.5891377275982888

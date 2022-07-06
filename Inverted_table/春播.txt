@@ -1,4 +1,4 @@
 3
-data.zddv.txt 1
-data.zdga.txt 1
-data.zfae.txt 1
+data.zddv.txt 3.5891377275982888
+data.zdga.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.ud.txt 1
-data.zabe.txt 1
-data.zapl.txt 1
-data.zbpx.txt 1
-data.zezh.txt 1
+data.ud.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

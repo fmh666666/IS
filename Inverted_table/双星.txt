@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.kt.txt 1
-data.zalm.txt 3
-data.zawz.txt 1
-data.zbmw.txt 1
-data.zcko.txt 2
-data.zcrv.txt 2
-data.zdkk.txt 2
-data.zfae.txt 1
-data.zfai.txt 2
-data.zfcg.txt 1
+data.bb.txt 2.6885433903988862
+data.kt.txt 2.6885433903988862
+data.zalm.txt 5.3770867807977725
+data.zawz.txt 2.6885433903988862
+data.zbmw.txt 2.6885433903988862
+data.zcko.txt 4.261240455343955
+data.zcrv.txt 4.261240455343955
+data.zdkk.txt 4.261240455343955
+data.zfae.txt 2.6885433903988862
+data.zfai.txt 4.261240455343955
+data.zfcg.txt 2.6885433903988862

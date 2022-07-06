@@ -1,8 +1,8 @@
 7
-data.jf.txt 1
-data.zazn.txt 2
-data.zcej.txt 1
-data.zcqe.txt 1
-data.zdpf.txt 1
-data.zeeh.txt 2
-data.zefs.txt 1
+data.jf.txt 3.0018356045764243
+data.zazn.txt 4.757796866583254
+data.zcej.txt 3.0018356045764243
+data.zcqe.txt 3.0018356045764243
+data.zdpf.txt 3.0018356045764243
+data.zeeh.txt 4.757796866583254
+data.zefs.txt 3.0018356045764243

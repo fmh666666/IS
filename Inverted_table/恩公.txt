@@ -1,5 +1,5 @@
 4
-data.zate.txt 1
-data.zbnx.txt 2
-data.zcrn.txt 1
-data.zdwz.txt 1
+data.zate.txt 3.389731710180695
+data.zbnx.txt 5.372597648141796
+data.zcrn.txt 3.389731710180695
+data.zdwz.txt 3.389731710180695

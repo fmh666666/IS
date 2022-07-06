@@ -1,8 +1,8 @@
 7
-data.zbcv.txt 1
-data.zdtr.txt 1
-data.zdud.txt 1
-data.zdvl.txt 1
-data.zene.txt 2
-data.zenn.txt 1
-data.zeqv.txt 2
+data.zbcv.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zdud.txt 3.0018356045764243
+data.zdvl.txt 3.0018356045764243
+data.zene.txt 4.757796866583254
+data.zenn.txt 3.0018356045764243
+data.zeqv.txt 4.757796866583254

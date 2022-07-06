@@ -1,12 +1,12 @@
 11
-data.vi.txt 1
-data.zafk.txt 1
-data.zaqw.txt 1
-data.zbes.txt 1
-data.zcvt.txt 1
-data.zdhv.txt 1
-data.zeag.txt 1
-data.zeqv.txt 1
-data.zerw.txt 1
-data.zeva.txt 2
-data.zfaj.txt 1
+data.vi.txt 2.6885433903988862
+data.zafk.txt 2.6885433903988862
+data.zaqw.txt 2.6885433903988862
+data.zbes.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zdhv.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zeqv.txt 2.6885433903988862
+data.zerw.txt 2.6885433903988862
+data.zeva.txt 4.261240455343955
+data.zfaj.txt 2.6885433903988862

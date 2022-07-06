@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.zasy.txt 1
-data.zblq.txt 1
-data.zcww.txt 1
-data.zdlo.txt 1
+data.cf.txt 3.235060386727117
+data.zasy.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zcww.txt 3.235060386727117
+data.zdlo.txt 3.235060386727117

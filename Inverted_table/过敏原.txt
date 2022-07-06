@@ -1,8 +1,8 @@
 7
-data.gw.txt 3
-data.zagr.txt 1
-data.zbcj.txt 3
-data.zcaq.txt 1
-data.zcts.txt 2
-data.zerv.txt 1
-data.zfai.txt 1
+data.gw.txt 6.003671209152849
+data.zagr.txt 3.0018356045764243
+data.zbcj.txt 6.003671209152849
+data.zcaq.txt 3.0018356045764243
+data.zcts.txt 4.757796866583254
+data.zerv.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

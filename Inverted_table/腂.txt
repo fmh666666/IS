@@ -1,2 +1,2 @@
 1
-data.zbyb.txt 2
+data.zbyb.txt 6.8955976689794145

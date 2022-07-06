@@ -1,11 +1,11 @@
 10
-data.pa.txt 1
-data.yx.txt 1
-data.zaic.txt 1
-data.zate.txt 1
-data.zbvp.txt 1
-data.zbzg.txt 1
-data.zdoq.txt 1
-data.zdpw.txt 1
-data.zeeh.txt 1
-data.zeez.txt 1
+data.pa.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zate.txt 2.7546073728089153
+data.zbvp.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153
+data.zeeh.txt 2.7546073728089153
+data.zeez.txt 2.7546073728089153

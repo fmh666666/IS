@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zabx.txt 1
-data.zcsu.txt 7
+data.jf.txt 3.5891377275982888
+data.zabx.txt 3.5891377275982888
+data.zcsu.txt 10.767413182794865

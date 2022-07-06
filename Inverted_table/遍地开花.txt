@@ -1,10 +1,10 @@
 9
-data.pa.txt 1
-data.zalt.txt 1
-data.zasd.txt 1
-data.zbeb.txt 1
-data.zcon.txt 1
-data.zeec.txt 1
-data.zenw.txt 1
-data.zexv.txt 1
-data.zfaz.txt 1
+data.pa.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zasd.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zeec.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zexv.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948

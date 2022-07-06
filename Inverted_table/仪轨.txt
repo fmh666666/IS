@@ -1,5 +1,5 @@
 4
-data.jf.txt 19
-data.zbdb.txt 4
-data.zbjh.txt 12
-data.zeeq.txt 1
+data.jf.txt 14.650176712360532
+data.zbdb.txt 7.870713291999142
+data.zbjh.txt 12.543497854194973
+data.zeeq.txt 3.389731710180695

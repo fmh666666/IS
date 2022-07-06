@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zeeh.txt 1
-data.zegn.txt 1
+data.mo.txt 3.5891377275982888
+data.zeeh.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888

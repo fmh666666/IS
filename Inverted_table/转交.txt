@@ -1,10 +1,10 @@
 9
-data.zalc.txt 1
-data.zard.txt 1
-data.zbeb.txt 1
-data.zbia.txt 1
-data.zbpp.txt 1
-data.zduc.txt 1
-data.zefu.txt 2
-data.zfae.txt 1
-data.zfcp.txt 1
+data.zalc.txt 2.82763771717948
+data.zard.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zbpp.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zefu.txt 4.48169974735425
+data.zfae.txt 2.82763771717948
+data.zfcp.txt 2.82763771717948

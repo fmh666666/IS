@@ -1,5 +1,5 @@
 4
-data.zcda.txt 1
-data.zcfx.txt 2
-data.zdro.txt 1
-data.zebv.txt 1
+data.zcda.txt 3.389731710180695
+data.zcfx.txt 5.372597648141796
+data.zdro.txt 3.389731710180695
+data.zebv.txt 3.389731710180695

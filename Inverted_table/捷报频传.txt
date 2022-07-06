@@ -1,5 +1,5 @@
 4
-data.co.txt 6
-data.zarc.txt 1
-data.zcqe.txt 1
-data.zevy.txt 1
+data.co.txt 9.516180001030515
+data.zarc.txt 3.389731710180695
+data.zcqe.txt 3.389731710180695
+data.zevy.txt 3.389731710180695

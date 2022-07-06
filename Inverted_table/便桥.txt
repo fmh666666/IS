@@ -1,2 +1,2 @@
 1
-data.zeqv.txt 5
+data.zeqv.txt 11.246235406996512

@@ -1,4 +1,4 @@
 3
-data.zesi.txt 1
-data.zeta.txt 1
-data.zevq.txt 1
+data.zesi.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.gw.txt 2
-data.zagr.txt 1
-data.zcmx.txt 1
-data.zdud.txt 1
+data.gw.txt 5.372597648141796
+data.zagr.txt 3.389731710180695
+data.zcmx.txt 3.389731710180695
+data.zdud.txt 3.389731710180695

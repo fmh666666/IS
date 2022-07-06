@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.dg.txt 1
-data.pa.txt 1
-data.zaet.txt 1
-data.zecf.txt 1
+data.bb.txt 3.235060386727117
+data.dg.txt 3.235060386727117
+data.pa.txt 3.235060386727117
+data.zaet.txt 3.235060386727117
+data.zecf.txt 3.235060386727117

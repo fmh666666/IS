@@ -1,9 +1,9 @@
 8
-data.xk.txt 1
-data.zahd.txt 1
-data.zalc.txt 1
-data.zate.txt 1
-data.zbhv.txt 1
-data.zbpx.txt 1
-data.zcrk.txt 1
-data.zduo.txt 1
+data.xk.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zalc.txt 2.9092786962624935
+data.zate.txt 2.9092786962624935
+data.zbhv.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935

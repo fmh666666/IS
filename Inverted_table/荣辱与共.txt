@@ -1,7 +1,7 @@
 6
-data.ff.txt 1
-data.qn.txt 1
-data.zanm.txt 1
-data.zavx.txt 2
-data.zbmw.txt 1
-data.zevq.txt 1
+data.ff.txt 3.1086847136800873
+data.qn.txt 3.1086847136800873
+data.zanm.txt 3.1086847136800873
+data.zavx.txt 4.927148697748023
+data.zbmw.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873

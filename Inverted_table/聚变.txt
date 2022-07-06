@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.zbjc.txt 1
-data.zbkf.txt 1
-data.zcll.txt 2
-data.zctn.txt 1
+data.kq.txt 3.235060386727117
+data.zbjc.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zcll.txt 5.1274494005309625
+data.zctn.txt 3.235060386727117

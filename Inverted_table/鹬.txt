@@ -1,6 +1,6 @@
 5
-data.zawo.txt 1
-data.zbeb.txt 1
-data.zbrj.txt 1
-data.zdcy.txt 1
-data.zdkp.txt 2
+data.zawo.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zdkp.txt 5.1274494005309625

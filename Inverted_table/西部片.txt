@@ -1,4 +1,4 @@
 3
-data.zagr.txt 2
-data.zbhd.txt 1
-data.zbrd.txt 1
+data.zagr.txt 5.688648708166832
+data.zbhd.txt 3.5891377275982888
+data.zbrd.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.tv.txt 1
-data.zbgd.txt 1
-data.zcdz.txt 1
-data.zcue.txt 2
-data.zdkc.txt 1
-data.zelt.txt 3
-data.zeob.txt 1
+data.ev.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.zbgd.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcue.txt 4.611097637722987
+data.zdkc.txt 2.9092786962624935
+data.zelt.txt 5.818557392524987
+data.zeob.txt 2.9092786962624935

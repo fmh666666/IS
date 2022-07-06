@@ -1,6 +1,6 @@
 5
-data.zaqf.txt 1
-data.zcee.txt 2
-data.zdod.txt 1
-data.zefw.txt 1
-data.zfby.txt 1
+data.zaqf.txt 3.235060386727117
+data.zcee.txt 5.1274494005309625
+data.zdod.txt 3.235060386727117
+data.zefw.txt 3.235060386727117
+data.zfby.txt 3.235060386727117

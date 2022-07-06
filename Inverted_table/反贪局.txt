@@ -1,10 +1,10 @@
 9
-data.op.txt 5
-data.zajo.txt 1
-data.zawb.txt 2
-data.zawc.txt 1
-data.zazo.txt 1
-data.zbds.txt 1
-data.zcve.txt 1
-data.zexm.txt 1
-data.zfae.txt 1
+data.op.txt 7.309337464533731
+data.zajo.txt 2.82763771717948
+data.zawb.txt 4.48169974735425
+data.zawc.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zexm.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

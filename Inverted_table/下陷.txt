@@ -1,4 +1,4 @@
 3
-data.fj.txt 4
-data.zalt.txt 1
-data.zddp.txt 1
+data.fj.txt 8.333719726130651
+data.zalt.txt 3.5891377275982888
+data.zddp.txt 3.5891377275982888

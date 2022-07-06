@@ -1,13 +1,13 @@
 12
-data.be.txt 1
-data.en.txt 1
-data.gw.txt 1
-data.zbdb.txt 1
-data.zcdv.txt 1
-data.zcli.txt 1
-data.zeam.txt 1
-data.zefu.txt 1
-data.zeqn.txt 1
-data.zeqv.txt 1
-data.zess.txt 2
-data.zfaj.txt 1
+data.be.txt 2.628231699761886
+data.en.txt 2.628231699761886
+data.gw.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcli.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886
+data.zess.txt 4.165648687329214
+data.zfaj.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.wc.txt 1
-data.zawo.txt 1
-data.zbcv.txt 1
-data.zbkj.txt 1
-data.zcmy.txt 1
+data.wc.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zbkj.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117

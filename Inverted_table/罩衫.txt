@@ -1,7 +1,7 @@
 6
-data.zbxw.txt 2
-data.zcbm.txt 10
-data.zcrk.txt 2
-data.zctm.txt 1
-data.zdey.txt 2
-data.zdqx.txt 1
+data.zbxw.txt 4.927148697748023
+data.zcbm.txt 10.754282190879328
+data.zcrk.txt 4.927148697748023
+data.zctm.txt 3.1086847136800873
+data.zdey.txt 4.927148697748023
+data.zdqx.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.zabj.txt 1
-data.zaoc.txt 1
-data.zard.txt 1
-data.zasy.txt 1
-data.zcbm.txt 1
-data.zdwv.txt 1
-data.zdzn.txt 1
-data.zedk.txt 1
-data.zegk.txt 1
+data.zabj.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zard.txt 2.82763771717948
+data.zasy.txt 2.82763771717948
+data.zcbm.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zedk.txt 2.82763771717948
+data.zegk.txt 2.82763771717948

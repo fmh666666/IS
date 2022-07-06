@@ -1,10 +1,10 @@
 9
-data.hu.txt 2
-data.hz.txt 4
-data.zamr.txt 1
-data.zasj.txt 1
-data.zayv.txt 1
-data.zazg.txt 1
-data.zcaq.txt 1
-data.zdux.txt 1
-data.zemb.txt 1
+data.hu.txt 4.48169974735425
+data.hz.txt 6.565571457682201
+data.zamr.txt 2.82763771717948
+data.zasj.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zazg.txt 2.82763771717948
+data.zcaq.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zemb.txt 2.82763771717948

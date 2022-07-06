@@ -1,4 +1,4 @@
 3
-data.hz.txt 4
-data.zciq.txt 2
-data.zelt.txt 1
+data.hz.txt 8.333719726130651
+data.zciq.txt 5.688648708166832
+data.zelt.txt 3.5891377275982888

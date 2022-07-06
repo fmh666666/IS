@@ -1,2 +1,2 @@
 1
-data.gk.txt 2
+data.gk.txt 6.8955976689794145

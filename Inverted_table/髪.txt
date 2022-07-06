@@ -1,7 +1,7 @@
 6
-data.zasr.txt 1
-data.zbse.txt 1
-data.zbsu.txt 1
-data.zddp.txt 2
-data.zegl.txt 2
-data.zegn.txt 5
+data.zasr.txt 3.1086847136800873
+data.zbse.txt 3.1086847136800873
+data.zbsu.txt 3.1086847136800873
+data.zddp.txt 4.927148697748023
+data.zegl.txt 4.927148697748023
+data.zegn.txt 8.03583341142811

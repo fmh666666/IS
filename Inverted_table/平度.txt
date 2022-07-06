@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.hp.txt 1
-data.zako.txt 2
-data.zalt.txt 5
-data.zapl.txt 3
-data.zawb.txt 1
-data.zelt.txt 3
-data.zfai.txt 1
+data.ft.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zako.txt 4.611097637722987
+data.zalt.txt 7.52037633398548
+data.zapl.txt 5.818557392524987
+data.zawb.txt 2.9092786962624935
+data.zelt.txt 5.818557392524987
+data.zfai.txt 2.9092786962624935

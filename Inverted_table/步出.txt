@@ -1,7 +1,7 @@
 6
-data.zaql.txt 1
-data.zbph.txt 1
-data.zcpb.txt 1
-data.zcse.txt 1
-data.zedk.txt 1
-data.zezn.txt 1
+data.zaql.txt 3.1086847136800873
+data.zbph.txt 3.1086847136800873
+data.zcpb.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873

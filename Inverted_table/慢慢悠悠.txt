@@ -1,9 +1,9 @@
 8
-data.zafi.txt 2
-data.zair.txt 1
-data.zake.txt 1
-data.zcby.txt 1
-data.zdle.txt 1
-data.zdme.txt 1
-data.zerh.txt 2
-data.zerw.txt 1
+data.zafi.txt 4.611097637722987
+data.zair.txt 2.9092786962624935
+data.zake.txt 2.9092786962624935
+data.zcby.txt 2.9092786962624935
+data.zdle.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zerh.txt 4.611097637722987
+data.zerw.txt 2.9092786962624935

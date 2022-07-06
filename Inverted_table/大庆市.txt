@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.ud.txt 1
-data.zbeb.txt 1
+data.ga.txt 3.5891377275982888
+data.ud.txt 3.5891377275982888
+data.zbeb.txt 3.5891377275982888

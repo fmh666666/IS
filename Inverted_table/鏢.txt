@@ -1,7 +1,7 @@
 6
-data.hc.txt 1
-data.zawz.txt 1
-data.zbes.txt 2
-data.zbgd.txt 1
-data.zbot.txt 1
-data.zduo.txt 1
+data.hc.txt 3.1086847136800873
+data.zawz.txt 3.1086847136800873
+data.zbes.txt 4.927148697748023
+data.zbgd.txt 3.1086847136800873
+data.zbot.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873

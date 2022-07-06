@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.fp.txt 1
-data.zafy.txt 1
-data.zbla.txt 1
-data.zfae.txt 1
+data.fe.txt 3.235060386727117
+data.fp.txt 3.235060386727117
+data.zafy.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

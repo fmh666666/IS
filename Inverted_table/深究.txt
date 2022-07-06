@@ -1,11 +1,11 @@
 10
-data.pq.txt 1
-data.ye.txt 1
-data.zass.txt 2
-data.zbkj.txt 1
-data.zbor.txt 2
-data.zbvm.txt 1
-data.zcgi.txt 1
-data.zcln.txt 1
-data.zcxh.txt 1
-data.zefs.txt 1
+data.pq.txt 2.7546073728089153
+data.ye.txt 2.7546073728089153
+data.zass.txt 4.365949390112154
+data.zbkj.txt 2.7546073728089153
+data.zbor.txt 4.365949390112154
+data.zbvm.txt 2.7546073728089153
+data.zcgi.txt 2.7546073728089153
+data.zcln.txt 2.7546073728089153
+data.zcxh.txt 2.7546073728089153
+data.zefs.txt 2.7546073728089153

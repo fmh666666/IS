@@ -1,6 +1,6 @@
 5
-data.ye.txt 1
-data.zbmw.txt 1
-data.zcel.txt 1
-data.zeos.txt 2
-data.zfaj.txt 1
+data.ye.txt 3.235060386727117
+data.zbmw.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zeos.txt 5.1274494005309625
+data.zfaj.txt 3.235060386727117

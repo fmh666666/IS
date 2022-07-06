@@ -1,10 +1,10 @@
 9
-data.ek.txt 1
-data.zbdx.txt 2
-data.zbhd.txt 1
-data.zbpm.txt 1
-data.zbut.txt 1
-data.zcdz.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
-data.zfdk.txt 1
+data.ek.txt 2.82763771717948
+data.zbdx.txt 4.48169974735425
+data.zbhd.txt 2.82763771717948
+data.zbpm.txt 2.82763771717948
+data.zbut.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zfai.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425
+data.zfdk.txt 2.82763771717948

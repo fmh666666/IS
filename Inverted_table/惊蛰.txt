@@ -1,11 +1,11 @@
 10
-data.ry.txt 2
-data.zahp.txt 1
-data.zaxk.txt 3
-data.zbaq.txt 1
-data.zcln.txt 3
-data.zcql.txt 1
-data.zdnh.txt 1
-data.zeai.txt 2
-data.zeaj.txt 10
-data.zeqh.txt 1
+data.ry.txt 4.365949390112154
+data.zahp.txt 2.7546073728089153
+data.zaxk.txt 5.509214745617831
+data.zbaq.txt 2.7546073728089153
+data.zcln.txt 5.509214745617831
+data.zcql.txt 2.7546073728089153
+data.zdnh.txt 2.7546073728089153
+data.zeai.txt 4.365949390112154
+data.zeaj.txt 9.52937584242658
+data.zeqh.txt 2.7546073728089153

@@ -1,3 +1,3 @@
 2
-data.zauy.txt 1
-data.zdib.txt 1
+data.zauy.txt 3.8701847240988965
+data.zdib.txt 3.8701847240988965

@@ -1,9 +1,9 @@
 8
-data.en.txt 1
-data.zadv.txt 1
-data.zbof.txt 1
-data.zdic.txt 1
-data.zedx.txt 1
-data.zelt.txt 1
-data.zexu.txt 1
-data.zexv.txt 1
+data.en.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zdic.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zexu.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935

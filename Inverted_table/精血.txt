@@ -1,6 +1,6 @@
 5
-data.fz.txt 1
-data.zcon.txt 2
-data.zczp.txt 1
-data.zeeq.txt 1
-data.zenw.txt 1
+data.fz.txt 3.235060386727117
+data.zcon.txt 5.1274494005309625
+data.zczp.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117
+data.zenw.txt 3.235060386727117

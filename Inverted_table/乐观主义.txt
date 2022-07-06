@@ -1,7 +1,7 @@
 6
-data.zapl.txt 1
-data.zayc.txt 1
-data.zcdz.txt 2
-data.zcmx.txt 1
-data.zczj.txt 1
-data.zewn.txt 1
+data.zapl.txt 3.1086847136800873
+data.zayc.txt 3.1086847136800873
+data.zcdz.txt 4.927148697748023
+data.zcmx.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zewn.txt 3.1086847136800873

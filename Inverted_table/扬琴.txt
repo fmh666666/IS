@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.fe.txt 2
-data.zaoo.txt 1
-data.zaxk.txt 1
-data.zcjo.txt 5
-data.zdgt.txt 1
+data.cz.txt 3.1086847136800873
+data.fe.txt 4.927148697748023
+data.zaoo.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zcjo.txt 8.03583341142811
+data.zdgt.txt 3.1086847136800873

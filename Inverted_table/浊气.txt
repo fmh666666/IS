@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zadv.txt 3
-data.zagb.txt 3
-data.zajn.txt 3
-data.zaub.txt 4
-data.zbhe.txt 1
-data.zdkv.txt 4
-data.zfaz.txt 6
+data.zabe.txt 2.9092786962624935
+data.zadv.txt 5.818557392524987
+data.zagb.txt 5.818557392524987
+data.zajn.txt 5.818557392524987
+data.zaub.txt 6.7551359407091605
+data.zbhe.txt 2.9092786962624935
+data.zdkv.txt 6.7551359407091605
+data.zfaz.txt 8.16737786758984

@@ -1,5 +1,5 @@
 4
-data.tv.txt 1
-data.zaqw.txt 1
-data.zdhv.txt 4
-data.zeva.txt 1
+data.tv.txt 3.389731710180695
+data.zaqw.txt 3.389731710180695
+data.zdhv.txt 7.870713291999142
+data.zeva.txt 3.389731710180695

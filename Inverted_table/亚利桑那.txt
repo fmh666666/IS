@@ -1,12 +1,12 @@
 11
-data.gw.txt 4
-data.kq.txt 2
-data.mx.txt 1
-data.zaim.txt 1
-data.zatz.txt 1
-data.zawm.txt 1
-data.zazn.txt 1
-data.zcts.txt 1
-data.zdeb.txt 1
-data.zdud.txt 3
-data.zedy.txt 1
+data.gw.txt 6.2426044324908965
+data.kq.txt 4.261240455343955
+data.mx.txt 2.6885433903988862
+data.zaim.txt 2.6885433903988862
+data.zatz.txt 2.6885433903988862
+data.zawm.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zdud.txt 5.3770867807977725
+data.zedy.txt 2.6885433903988862

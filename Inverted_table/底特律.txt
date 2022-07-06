@@ -1,8 +1,8 @@
 7
-data.op.txt 5
-data.zawo.txt 2
-data.zbye.txt 1
-data.zcon.txt 1
-data.zenn.txt 2
-data.zeob.txt 1
-data.zess.txt 3
+data.op.txt 7.759632471159678
+data.zawo.txt 4.757796866583254
+data.zbye.txt 3.0018356045764243
+data.zcon.txt 3.0018356045764243
+data.zenn.txt 4.757796866583254
+data.zeob.txt 3.0018356045764243
+data.zess.txt 6.003671209152849

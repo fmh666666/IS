@@ -1,4 +1,4 @@
 3
-data.zahd.txt 2
-data.zamp.txt 1
-data.zbpc.txt 1
+data.zahd.txt 5.688648708166832
+data.zamp.txt 3.5891377275982888
+data.zbpc.txt 3.5891377275982888

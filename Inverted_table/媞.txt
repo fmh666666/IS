@@ -1,7 +1,7 @@
 6
-data.by.txt 9
-data.zabe.txt 1
-data.zbua.txt 5
-data.zcdg.txt 1
-data.zdnc.txt 1
-data.zebc.txt 1
+data.by.txt 10.326827088520758
+data.zabe.txt 3.1086847136800873
+data.zbua.txt 8.03583341142811
+data.zcdg.txt 3.1086847136800873
+data.zdnc.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873

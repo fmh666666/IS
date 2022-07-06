@@ -1,9 +1,9 @@
 8
-data.zaxp.txt 1
-data.zbfr.txt 1
-data.zbkr.txt 1
-data.zcao.txt 1
-data.zcls.txt 1
-data.zdic.txt 1
-data.zduc.txt 1
-data.zevy.txt 1
+data.zaxp.txt 2.9092786962624935
+data.zbfr.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zcao.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zdic.txt 2.9092786962624935
+data.zduc.txt 2.9092786962624935
+data.zevy.txt 2.9092786962624935

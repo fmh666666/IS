@@ -1,6 +1,6 @@
 5
-data.cf.txt 2
-data.zazx.txt 1
-data.zcdz.txt 1
-data.zdof.txt 1
-data.zdoq.txt 1
+data.cf.txt 5.1274494005309625
+data.zazx.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117

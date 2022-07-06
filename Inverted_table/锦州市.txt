@@ -1,4 +1,4 @@
 3
-data.zcih.txt 1
-data.zevy.txt 1
-data.zfaj.txt 2
+data.zcih.txt 3.5891377275982888
+data.zevy.txt 3.5891377275982888
+data.zfaj.txt 5.688648708166832

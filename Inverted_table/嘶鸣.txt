@@ -1,4 +1,4 @@
 3
-data.zbnp.txt 1
-data.zbuj.txt 1
-data.zcel.txt 1
+data.zbnp.txt 3.5891377275982888
+data.zbuj.txt 3.5891377275982888
+data.zcel.txt 3.5891377275982888

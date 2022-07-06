@@ -1,12 +1,12 @@
 11
-data.op.txt 2
-data.zaim.txt 1
-data.zalt.txt 3
-data.zanh.txt 1
-data.zanm.txt 1
-data.zazn.txt 1
-data.zcdy.txt 1
-data.zcni.txt 1
-data.zczj.txt 1
-data.zeoh.txt 1
-data.zewg.txt 1
+data.op.txt 4.261240455343955
+data.zaim.txt 2.6885433903988862
+data.zalt.txt 5.3770867807977725
+data.zanh.txt 2.6885433903988862
+data.zanm.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zczj.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862
+data.zewg.txt 2.6885433903988862

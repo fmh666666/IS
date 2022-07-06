@@ -1,11 +1,11 @@
 10
-data.bs.txt 4
-data.zacw.txt 1
-data.zasd.txt 1
-data.zbor.txt 1
-data.zbpp.txt 1
-data.zchd.txt 1
-data.zcpc.txt 1
-data.zdwn.txt 1
-data.zdxw.txt 1
-data.zewn.txt 1
+data.bs.txt 6.396000249308887
+data.zacw.txt 2.7546073728089153
+data.zasd.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbpp.txt 2.7546073728089153
+data.zchd.txt 2.7546073728089153
+data.zcpc.txt 2.7546073728089153
+data.zdwn.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zewn.txt 2.7546073728089153

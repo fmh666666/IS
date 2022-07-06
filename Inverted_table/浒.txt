@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.ep.txt 4
-data.zbfg.txt 1
-data.zbnp.txt 3
-data.zcql.txt 1
-data.zdcw.txt 1
+data.bb.txt 3.1086847136800873
+data.ep.txt 7.21814237484067
+data.zbfg.txt 3.1086847136800873
+data.zbnp.txt 6.2173694273601745
+data.zcql.txt 3.1086847136800873
+data.zdcw.txt 3.1086847136800873

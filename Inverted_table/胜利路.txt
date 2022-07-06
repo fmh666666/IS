@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.mk.txt 1
-data.mx.txt 1
-data.zbel.txt 1
-data.zbyb.txt 1
-data.zdzm.txt 1
-data.zeeq.txt 1
-data.zeoh.txt 2
+data.hz.txt 2.9092786962624935
+data.mk.txt 2.9092786962624935
+data.mx.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935
+data.zeoh.txt 4.611097637722987

@@ -1,8 +1,8 @@
 7
-data.gk.txt 2
-data.zalc.txt 10
-data.zdep.txt 1
-data.zdib.txt 2
-data.zdic.txt 1
-data.zeay.txt 1
-data.zfcp.txt 2
+data.gk.txt 4.757796866583254
+data.zalc.txt 10.384645004422891
+data.zdep.txt 3.0018356045764243
+data.zdib.txt 4.757796866583254
+data.zdic.txt 3.0018356045764243
+data.zeay.txt 3.0018356045764243
+data.zfcp.txt 4.757796866583254

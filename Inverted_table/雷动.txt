@@ -1,6 +1,6 @@
 5
-data.pn.txt 1
-data.zafq.txt 1
-data.zbeb.txt 1
-data.zdep.txt 4
-data.zfcj.txt 1
+data.pn.txt 3.235060386727117
+data.zafq.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zdep.txt 7.511577600598868
+data.zfcj.txt 3.235060386727117

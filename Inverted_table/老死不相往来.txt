@@ -1,9 +1,9 @@
 8
-data.ev.txt 1
-data.zbht.txt 1
-data.zcse.txt 1
-data.zdaa.txt 2
-data.zdro.txt 1
-data.zebc.txt 1
-data.zegk.txt 1
-data.zelt.txt 1
+data.ev.txt 2.9092786962624935
+data.zbht.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdaa.txt 4.611097637722987
+data.zdro.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zegk.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

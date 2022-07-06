@@ -1,2 +1,2 @@
 1
-data.mo.txt 4
+data.mo.txt 10.101867994579104

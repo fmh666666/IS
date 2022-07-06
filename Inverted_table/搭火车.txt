@@ -1,4 +1,4 @@
 3
-data.zacd.txt 1
-data.zafq.txt 1
-data.zbgu.txt 1
+data.zacd.txt 3.5891377275982888
+data.zafq.txt 3.5891377275982888
+data.zbgu.txt 3.5891377275982888

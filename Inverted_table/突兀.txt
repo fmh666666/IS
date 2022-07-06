@@ -1,10 +1,10 @@
 9
-data.zako.txt 1
-data.zalm.txt 1
-data.zate.txt 1
-data.zawu.txt 1
-data.zcee.txt 1
-data.zctm.txt 1
-data.zcww.txt 1
-data.zczb.txt 1
-data.zeam.txt 1
+data.zako.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zate.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zcee.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zcww.txt 2.82763771717948
+data.zczb.txt 2.82763771717948
+data.zeam.txt 2.82763771717948

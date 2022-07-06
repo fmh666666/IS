@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zazo.txt 1
-data.zcdg.txt 1
-data.zcni.txt 1
-data.zdcy.txt 1
-data.zdkp.txt 1
-data.zdzn.txt 1
-data.zedo.txt 1
+data.yx.txt 2.9092786962624935
+data.zazo.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

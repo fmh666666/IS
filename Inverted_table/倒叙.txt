@@ -1,7 +1,7 @@
 6
-data.zalt.txt 1
-data.zbcc.txt 1
-data.zeam.txt 1
-data.zemf.txt 1
-data.zfaj.txt 1
-data.zfcj.txt 1
+data.zalt.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zemf.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

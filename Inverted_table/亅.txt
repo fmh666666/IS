@@ -1,4 +1,4 @@
 3
-data.fj.txt 1
-data.zbjc.txt 1
-data.zeyg.txt 1
+data.fj.txt 3.5891377275982888
+data.zbjc.txt 3.5891377275982888
+data.zeyg.txt 3.5891377275982888

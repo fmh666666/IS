@@ -1,3 +1,3 @@
 2
-data.zaxp.txt 1
-data.zbjh.txt 1
+data.zaxp.txt 3.8701847240988965
+data.zbjh.txt 3.8701847240988965

@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zaim.txt 1
-data.zcis.txt 1
-data.zdoq.txt 1
-data.zefv.txt 1
+data.zadv.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zcis.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117
+data.zefv.txt 3.235060386727117

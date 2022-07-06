@@ -1,8 +1,8 @@
 7
-data.pn.txt 2
-data.zavg.txt 1
-data.zbjk.txt 1
-data.zcmx.txt 1
-data.zdey.txt 2
-data.zdlw.txt 1
-data.zevy.txt 1
+data.pn.txt 4.757796866583254
+data.zavg.txt 3.0018356045764243
+data.zbjk.txt 3.0018356045764243
+data.zcmx.txt 3.0018356045764243
+data.zdey.txt 4.757796866583254
+data.zdlw.txt 3.0018356045764243
+data.zevy.txt 3.0018356045764243

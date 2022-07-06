@@ -1,4 +1,4 @@
 3
-data.wg.txt 1
-data.zczl.txt 1
-data.zdod.txt 1
+data.wg.txt 3.5891377275982888
+data.zczl.txt 3.5891377275982888
+data.zdod.txt 3.5891377275982888

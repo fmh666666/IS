@@ -1,10 +1,10 @@
 9
-data.zbnx.txt 2
-data.zccx.txt 1
-data.zcdv.txt 1
-data.zcxr.txt 1
-data.zdju.txt 2
-data.zedx.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
-data.zezy.txt 1
+data.zbnx.txt 4.48169974735425
+data.zccx.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdju.txt 4.48169974735425
+data.zedx.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zezy.txt 2.82763771717948

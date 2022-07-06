@@ -1,13 +1,13 @@
 12
-data.bb.txt 1
-data.yx.txt 1
-data.zamp.txt 1
-data.zane.txt 1
-data.zbgu.txt 1
-data.zbph.txt 1
-data.zbua.txt 1
-data.zeaf.txt 24
-data.zeag.txt 1
-data.zebv.txt 1
-data.zefs.txt 1
-data.zehp.txt 1
+data.bb.txt 2.628231699761886
+data.yx.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zane.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zbph.txt 2.628231699761886
+data.zbua.txt 2.628231699761886
+data.zeaf.txt 12.205130047101381
+data.zeag.txt 2.628231699761886
+data.zebv.txt 2.628231699761886
+data.zefs.txt 2.628231699761886
+data.zehp.txt 2.628231699761886

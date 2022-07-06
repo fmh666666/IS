@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.zake.txt 1
-data.zaoc.txt 1
-data.zcdz.txt 1
-data.zcoy.txt 1
-data.zcvq.txt 1
-data.zdoq.txt 1
-data.zdzn.txt 2
-data.zeaf.txt 1
+data.bf.txt 2.82763771717948
+data.zake.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcoy.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zdoq.txt 2.82763771717948
+data.zdzn.txt 4.48169974735425
+data.zeaf.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.pa.txt 1
-data.zdme.txt 1
-data.zefs.txt 1
+data.pa.txt 3.5891377275982888
+data.zdme.txt 3.5891377275982888
+data.zefs.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zaqr.txt 1
-data.zebv.txt 1
+data.fp.txt 3.5891377275982888
+data.zaqr.txt 3.5891377275982888
+data.zebv.txt 3.5891377275982888

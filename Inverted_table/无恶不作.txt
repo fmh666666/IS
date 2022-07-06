@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.hg.txt 1
-data.zaeh.txt 1
-data.zawb.txt 1
-data.zbfz.txt 1
-data.zdqx.txt 1
-data.zeid.txt 1
-data.zfai.txt 1
+data.fp.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.zaeh.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zdqx.txt 2.9092786962624935
+data.zeid.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

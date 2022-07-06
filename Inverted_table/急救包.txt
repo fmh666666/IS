@@ -1,4 +1,4 @@
 3
-data.ek.txt 3
-data.zawo.txt 2
-data.zcao.txt 4
+data.ek.txt 7.1782754551965775
+data.zawo.txt 5.688648708166832
+data.zcao.txt 8.333719726130651

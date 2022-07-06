@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.op.txt 3
-data.zadv.txt 1
-data.zemb.txt 1
-data.zfaj.txt 1
+data.fp.txt 3.235060386727117
+data.op.txt 6.470120773454234
+data.zadv.txt 3.235060386727117
+data.zemb.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

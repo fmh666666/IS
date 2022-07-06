@@ -1,6 +1,6 @@
 5
-data.xk.txt 1
-data.zadv.txt 1
-data.zawu.txt 1
-data.zebv.txt 1
-data.zegn.txt 1
+data.xk.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zebv.txt 3.235060386727117
+data.zegn.txt 3.235060386727117

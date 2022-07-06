@@ -1,13 +1,13 @@
 12
-data.op.txt 2
-data.zaet.txt 1
-data.zair.txt 1
-data.zajo.txt 1
-data.zank.txt 1
-data.zasw.txt 10
-data.zbtx.txt 1
-data.zbux.txt 1
-data.zddb.txt 2
-data.zddv.txt 1
-data.zdlw.txt 1
-data.zeoh.txt 1
+data.op.txt 4.165648687329214
+data.zaet.txt 2.628231699761886
+data.zair.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zank.txt 2.628231699761886
+data.zasw.txt 9.092187843261117
+data.zbtx.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zddb.txt 4.165648687329214
+data.zddv.txt 2.628231699761886
+data.zdlw.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

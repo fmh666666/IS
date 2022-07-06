@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.zabj.txt 1
-data.zaip.txt 1
-data.zazw.txt 1
-data.zehb.txt 1
+data.mt.txt 3.235060386727117
+data.zabj.txt 3.235060386727117
+data.zaip.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zehb.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.mx.txt 1
-data.zank.txt 1
-data.zcjy.txt 1
-data.zcmx.txt 2
-data.zcqe.txt 1
-data.zene.txt 1
+data.mx.txt 3.1086847136800873
+data.zank.txt 3.1086847136800873
+data.zcjy.txt 3.1086847136800873
+data.zcmx.txt 4.927148697748023
+data.zcqe.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

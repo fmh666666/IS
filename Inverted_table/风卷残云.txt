@@ -1,6 +1,6 @@
 5
-data.zail.txt 1
-data.zakb.txt 4
-data.zbsl.txt 1
-data.zbux.txt 1
-data.zcdg.txt 1
+data.zail.txt 3.235060386727117
+data.zakb.txt 7.511577600598868
+data.zbsl.txt 3.235060386727117
+data.zbux.txt 3.235060386727117
+data.zcdg.txt 3.235060386727117

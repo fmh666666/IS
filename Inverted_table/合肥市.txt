@@ -1,13 +1,13 @@
 12
-data.ry.txt 1
-data.zasj.txt 1
-data.zasr.txt 1
-data.zbbt.txt 1
-data.zbpm.txt 1
-data.zbvf.txt 1
-data.zcni.txt 5
-data.zdgt.txt 2
-data.zdju.txt 1
-data.zeds.txt 1
-data.zefp.txt 1
-data.zfae.txt 1
+data.ry.txt 2.628231699761886
+data.zasj.txt 2.628231699761886
+data.zasr.txt 2.628231699761886
+data.zbbt.txt 2.628231699761886
+data.zbpm.txt 2.628231699761886
+data.zbvf.txt 2.628231699761886
+data.zcni.txt 6.7938803870911
+data.zdgt.txt 4.165648687329214
+data.zdju.txt 2.628231699761886
+data.zeds.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

@@ -1,7 +1,7 @@
 6
-data.fp.txt 2
-data.hz.txt 1
-data.zawb.txt 2
-data.zeaj.txt 1
-data.zeos.txt 1
-data.zfaj.txt 1
+data.fp.txt 4.927148697748023
+data.hz.txt 3.1086847136800873
+data.zawb.txt 4.927148697748023
+data.zeaj.txt 3.1086847136800873
+data.zeos.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

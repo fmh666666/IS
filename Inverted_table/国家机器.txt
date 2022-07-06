@@ -1,9 +1,9 @@
 8
-data.fe.txt 1
-data.hp.txt 1
-data.zaoy.txt 1
-data.zawc.txt 1
-data.zaxx.txt 1
-data.zcpx.txt 1
-data.zebf.txt 1
-data.zeoh.txt 1
+data.fe.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

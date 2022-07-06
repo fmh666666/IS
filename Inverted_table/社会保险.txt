@@ -1,11 +1,11 @@
 10
-data.kt.txt 1
-data.xk.txt 1
-data.zank.txt 1
-data.zarr.txt 1
-data.zauy.txt 2
-data.zazn.txt 1
-data.zbpx.txt 2
-data.zelt.txt 1
-data.zewv.txt 1
-data.zexv.txt 2
+data.kt.txt 2.7546073728089153
+data.xk.txt 2.7546073728089153
+data.zank.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zauy.txt 4.365949390112154
+data.zazn.txt 2.7546073728089153
+data.zbpx.txt 4.365949390112154
+data.zelt.txt 2.7546073728089153
+data.zewv.txt 2.7546073728089153
+data.zexv.txt 4.365949390112154

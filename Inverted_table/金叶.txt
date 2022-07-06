@@ -1,10 +1,10 @@
 9
-data.zavx.txt 2
-data.zbaf.txt 2
-data.zbfr.txt 2
-data.zbut.txt 1
-data.zcaq.txt 3
-data.zcbe.txt 2
-data.zdgt.txt 1
-data.zeaf.txt 1
-data.zeag.txt 1
+data.zavx.txt 4.48169974735425
+data.zbaf.txt 4.48169974735425
+data.zbfr.txt 4.48169974735425
+data.zbut.txt 2.82763771717948
+data.zcaq.txt 5.65527543435896
+data.zcbe.txt 4.48169974735425
+data.zdgt.txt 2.82763771717948
+data.zeaf.txt 2.82763771717948
+data.zeag.txt 2.82763771717948

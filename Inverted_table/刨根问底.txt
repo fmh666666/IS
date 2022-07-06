@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.zcdy.txt 1
-data.zclm.txt 1
-data.zcrn.txt 1
+data.mi.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zclm.txt 3.389731710180695
+data.zcrn.txt 3.389731710180695

@@ -1,9 +1,9 @@
 8
-data.dg.txt 2
-data.ha.txt 1
-data.wc.txt 1
-data.zcjo.txt 2
-data.zddv.txt 1
-data.zdlw.txt 1
-data.zeeh.txt 3
-data.zezy.txt 1
+data.dg.txt 4.611097637722987
+data.ha.txt 2.9092786962624935
+data.wc.txt 2.9092786962624935
+data.zcjo.txt 4.611097637722987
+data.zddv.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zeeh.txt 5.818557392524987
+data.zezy.txt 2.9092786962624935

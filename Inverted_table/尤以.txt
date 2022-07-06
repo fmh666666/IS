@@ -1,8 +1,8 @@
 7
-data.zabj.txt 1
-data.zahp.txt 1
-data.zbdb.txt 1
-data.zbut.txt 1
-data.zcej.txt 1
-data.zdpg.txt 1
-data.zeeq.txt 1
+data.zabj.txt 3.0018356045764243
+data.zahp.txt 3.0018356045764243
+data.zbdb.txt 3.0018356045764243
+data.zbut.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zdpg.txt 3.0018356045764243
+data.zeeq.txt 3.0018356045764243

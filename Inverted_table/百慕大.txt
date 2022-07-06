@@ -1,5 +1,5 @@
 4
-data.zbbt.txt 1
-data.zbnp.txt 1
-data.zdsh.txt 1
-data.zewn.txt 1
+data.zbbt.txt 3.389731710180695
+data.zbnp.txt 3.389731710180695
+data.zdsh.txt 3.389731710180695
+data.zewn.txt 3.389731710180695

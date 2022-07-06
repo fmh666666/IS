@@ -1,6 +1,6 @@
 5
-data.zabx.txt 2
-data.zazo.txt 1
-data.zbkf.txt 1
-data.zbts.txt 1
-data.zelt.txt 1
+data.zabx.txt 5.1274494005309625
+data.zazo.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

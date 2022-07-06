@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.zaej.txt 2
-data.zafl.txt 1
-data.zbeb.txt 1
-data.zdtr.txt 1
-data.zfae.txt 2
+data.gw.txt 3.1086847136800873
+data.zaej.txt 4.927148697748023
+data.zafl.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873
+data.zfae.txt 4.927148697748023

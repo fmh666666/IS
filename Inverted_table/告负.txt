@@ -1,4 +1,4 @@
 3
-data.zduk.txt 1
-data.zeoo.txt 1
-data.zexx.txt 1
+data.zduk.txt 3.5891377275982888
+data.zeoo.txt 3.5891377275982888
+data.zexx.txt 3.5891377275982888

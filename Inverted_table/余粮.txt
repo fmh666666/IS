@@ -1,6 +1,6 @@
 5
-data.zbkj.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zddp.txt 1
-data.zedo.txt 1
+data.zbkj.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zddp.txt 3.235060386727117
+data.zedo.txt 3.235060386727117

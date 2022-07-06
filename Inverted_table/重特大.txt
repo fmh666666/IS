@@ -1,8 +1,8 @@
 7
-data.ft.txt 1
-data.hz.txt 5
-data.zaql.txt 1
-data.zbpx.txt 2
-data.zcqp.txt 1
-data.zdeb.txt 1
-data.zevy.txt 1
+data.ft.txt 3.0018356045764243
+data.hz.txt 7.759632471159678
+data.zaql.txt 3.0018356045764243
+data.zbpx.txt 4.757796866583254
+data.zcqp.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zevy.txt 3.0018356045764243

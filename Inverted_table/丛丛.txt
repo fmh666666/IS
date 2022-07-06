@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.kt.txt 1
-data.zazx.txt 1
-data.zbjk.txt 1
-data.zcql.txt 1
-data.zcuh.txt 1
-data.zdil.txt 1
-data.zdwl.txt 1
-data.zesq.txt 1
-data.zevy.txt 2
+data.fp.txt 2.7546073728089153
+data.kt.txt 2.7546073728089153
+data.zazx.txt 2.7546073728089153
+data.zbjk.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zcuh.txt 2.7546073728089153
+data.zdil.txt 2.7546073728089153
+data.zdwl.txt 2.7546073728089153
+data.zesq.txt 2.7546073728089153
+data.zevy.txt 4.365949390112154

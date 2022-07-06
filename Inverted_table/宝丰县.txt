@@ -1,4 +1,4 @@
 3
-data.gw.txt 1
-data.kq.txt 2
-data.zbeb.txt 2
+data.gw.txt 3.5891377275982888
+data.kq.txt 5.688648708166832
+data.zbeb.txt 5.688648708166832

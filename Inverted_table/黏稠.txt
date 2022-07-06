@@ -1,12 +1,12 @@
 11
-data.vm.txt 1
-data.zazn.txt 1
-data.zbaf.txt 1
-data.zbjh.txt 1
-data.zcft.txt 1
-data.zcku.txt 1
-data.zcql.txt 1
-data.zcxr.txt 1
-data.zdeb.txt 1
-data.zdep.txt 1
-data.zeel.txt 1
+data.vm.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zbjh.txt 2.6885433903988862
+data.zcft.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zeel.txt 2.6885433903988862

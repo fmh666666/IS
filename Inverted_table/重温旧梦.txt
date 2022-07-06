@@ -1,8 +1,8 @@
 7
-data.zaic.txt 1
-data.zauy.txt 2
-data.zbem.txt 2
-data.zbzg.txt 1
-data.zdpw.txt 1
-data.zefs.txt 2
-data.zexm.txt 1
+data.zaic.txt 3.0018356045764243
+data.zauy.txt 4.757796866583254
+data.zbem.txt 4.757796866583254
+data.zbzg.txt 3.0018356045764243
+data.zdpw.txt 3.0018356045764243
+data.zefs.txt 4.757796866583254
+data.zexm.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.kt.txt 2
-data.zaip.txt 1
-data.zajo.txt 1
-data.zcee.txt 1
-data.zene.txt 1
+data.kt.txt 5.1274494005309625
+data.zaip.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zene.txt 3.235060386727117

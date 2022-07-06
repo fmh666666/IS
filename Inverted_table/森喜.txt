@@ -1,4 +1,4 @@
 3
-data.zahd.txt 1
-data.zbse.txt 1
-data.zdds.txt 1
+data.zahd.txt 3.5891377275982888
+data.zbse.txt 3.5891377275982888
+data.zdds.txt 3.5891377275982888

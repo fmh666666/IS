@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.zaxj.txt 1
-data.zctp.txt 1
-data.zddb.txt 1
-data.zeoo.txt 1
-data.zerv.txt 1
+data.be.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zddb.txt 3.1086847136800873
+data.zeoo.txt 3.1086847136800873
+data.zerv.txt 3.1086847136800873

@@ -1,2 +1,2 @@
 1
-data.zdcy.txt 2
+data.zdcy.txt 6.8955976689794145

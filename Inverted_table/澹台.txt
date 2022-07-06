@@ -1,7 +1,7 @@
 6
-data.tv.txt 11
-data.tz.txt 8
-data.zbre.txt 1
-data.zdaq.txt 2
-data.zdof.txt 1
-data.zeew.txt 4
+data.tv.txt 11.144518125108197
+data.tz.txt 9.854297395496046
+data.zbre.txt 3.1086847136800873
+data.zdaq.txt 4.927148697748023
+data.zdof.txt 3.1086847136800873
+data.zeew.txt 7.21814237484067

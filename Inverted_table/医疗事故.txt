@@ -1,5 +1,5 @@
 4
-data.zbfz.txt 2
-data.zczb.txt 1
-data.zedx.txt 1
-data.zefu.txt 1
+data.zbfz.txt 5.372597648141796
+data.zczb.txt 3.389731710180695
+data.zedx.txt 3.389731710180695
+data.zefu.txt 3.389731710180695

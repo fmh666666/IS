@@ -1,8 +1,8 @@
 7
-data.zakb.txt 1
-data.zbgu.txt 1
-data.zbhd.txt 1
-data.zbpx.txt 1
-data.zcku.txt 1
-data.zdju.txt 1
-data.zesq.txt 1
+data.zakb.txt 3.0018356045764243
+data.zbgu.txt 3.0018356045764243
+data.zbhd.txt 3.0018356045764243
+data.zbpx.txt 3.0018356045764243
+data.zcku.txt 3.0018356045764243
+data.zdju.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243

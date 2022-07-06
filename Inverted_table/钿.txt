@@ -1,12 +1,12 @@
 11
-data.ff.txt 2
-data.zabe.txt 1
-data.zaip.txt 1
-data.zbbt.txt 1
-data.zbfx.txt 1
-data.zbjc.txt 12
-data.zcfn.txt 1
-data.zcpb.txt 1
-data.zdhw.txt 3
-data.zduo.txt 1
-data.zedy.txt 1
+data.ff.txt 4.261240455343955
+data.zabe.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbfx.txt 2.6885433903988862
+data.zbjc.txt 9.948792745777752
+data.zcfn.txt 2.6885433903988862
+data.zcpb.txt 2.6885433903988862
+data.zdhw.txt 5.3770867807977725
+data.zduo.txt 2.6885433903988862
+data.zedy.txt 2.6885433903988862

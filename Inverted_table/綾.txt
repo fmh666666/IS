@@ -1,14 +1,14 @@
 13
-data.zadv.txt 3
-data.zafl.txt 1
-data.zbcc.txt 1
-data.zbot.txt 1
-data.zbsu.txt 1
-data.zcef.txt 1
-data.zcfn.txt 1
-data.zcic.txt 2
-data.zddv.txt 1
-data.zdrq.txt 22
-data.zeag.txt 1
-data.zegl.txt 4
-data.zesq.txt 1
+data.zadv.txt 5.145500645227181
+data.zafl.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zbot.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zcef.txt 2.5727503226135906
+data.zcfn.txt 2.5727503226135906
+data.zcic.txt 4.077712785060798
+data.zddv.txt 2.5727503226135906
+data.zdrq.txt 11.637995481808245
+data.zeag.txt 2.5727503226135906
+data.zegl.txt 5.97374125520702
+data.zesq.txt 2.5727503226135906

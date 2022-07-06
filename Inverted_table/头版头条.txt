@@ -1,13 +1,13 @@
 12
-data.vm.txt 1
-data.zasw.txt 2
-data.zawu.txt 1
-data.zbcj.txt 1
-data.zbvf.txt 1
-data.zcgi.txt 1
-data.zdgt.txt 1
-data.zdou.txt 1
-data.zeam.txt 1
-data.zehb.txt 1
-data.zeoo.txt 1
-data.zeyu.txt 1
+data.vm.txt 2.628231699761886
+data.zasw.txt 4.165648687329214
+data.zawu.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zbvf.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdou.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zehb.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886
+data.zeyu.txt 2.628231699761886

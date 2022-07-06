@@ -1,12 +1,12 @@
 11
-data.cn.txt 1
-data.en.txt 1
-data.qb.txt 1
-data.ye.txt 1
-data.zasy.txt 1
-data.zcmn.txt 1
-data.zdlm.txt 1
-data.zdpg.txt 1
-data.zejk.txt 1
-data.zezf.txt 1
-data.zezm.txt 1
+data.cn.txt 2.6885433903988862
+data.en.txt 2.6885433903988862
+data.qb.txt 2.6885433903988862
+data.ye.txt 2.6885433903988862
+data.zasy.txt 2.6885433903988862
+data.zcmn.txt 2.6885433903988862
+data.zdlm.txt 2.6885433903988862
+data.zdpg.txt 2.6885433903988862
+data.zejk.txt 2.6885433903988862
+data.zezf.txt 2.6885433903988862
+data.zezm.txt 2.6885433903988862

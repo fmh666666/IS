@@ -1,4 +1,4 @@
 3
-data.zcxp.txt 1
-data.zddb.txt 1
-data.zefp.txt 1
+data.zcxp.txt 3.5891377275982888
+data.zddb.txt 3.5891377275982888
+data.zefp.txt 3.5891377275982888

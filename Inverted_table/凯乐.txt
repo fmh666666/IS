@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zaim.txt 1
-data.zbsf.txt 1
-data.zcby.txt 1
-data.zehp.txt 1
+data.dg.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zcby.txt 3.235060386727117
+data.zehp.txt 3.235060386727117

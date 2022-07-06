@@ -1,14 +1,14 @@
 13
-data.gw.txt 1
-data.zank.txt 1
-data.zarr.txt 1
-data.zasj.txt 1
-data.zbem.txt 1
-data.zciq.txt 2
-data.zcmv.txt 2
-data.zcpc.txt 1
-data.zdnh.txt 1
-data.zedk.txt 2
-data.zeeq.txt 1
-data.zegz.txt 1
-data.zexx.txt 1
+data.gw.txt 2.5727503226135906
+data.zank.txt 2.5727503226135906
+data.zarr.txt 2.5727503226135906
+data.zasj.txt 2.5727503226135906
+data.zbem.txt 2.5727503226135906
+data.zciq.txt 4.077712785060798
+data.zcmv.txt 4.077712785060798
+data.zcpc.txt 2.5727503226135906
+data.zdnh.txt 2.5727503226135906
+data.zedk.txt 4.077712785060798
+data.zeeq.txt 2.5727503226135906
+data.zegz.txt 2.5727503226135906
+data.zexx.txt 2.5727503226135906

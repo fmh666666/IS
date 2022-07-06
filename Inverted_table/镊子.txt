@@ -1,10 +1,10 @@
 9
-data.cz.txt 1
-data.zadv.txt 1
-data.zaej.txt 1
-data.zasr.txt 1
-data.zbkj.txt 1
-data.zbye.txt 1
-data.zcxh.txt 3
-data.zczp.txt 2
-data.zdcj.txt 1
+data.cz.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zaej.txt 2.82763771717948
+data.zasr.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zcxh.txt 5.65527543435896
+data.zczp.txt 4.48169974735425
+data.zdcj.txt 2.82763771717948

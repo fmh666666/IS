@@ -1,5 +1,5 @@
 4
-data.zbts.txt 1
-data.zdgt.txt 2
-data.zeew.txt 1
-data.zfaz.txt 1
+data.zbts.txt 3.389731710180695
+data.zdgt.txt 5.372597648141796
+data.zeew.txt 3.389731710180695
+data.zfaz.txt 3.389731710180695

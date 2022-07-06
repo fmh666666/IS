@@ -1,13 +1,13 @@
 12
-data.jf.txt 1
-data.pa.txt 1
-data.zacw.txt 1
-data.zbph.txt 1
-data.zbts.txt 3
-data.zcft.txt 1
-data.zcue.txt 1
-data.zcve.txt 1
-data.zdga.txt 1
-data.zdme.txt 4
-data.zejk.txt 1
-data.zelt.txt 2
+data.jf.txt 2.628231699761886
+data.pa.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zbph.txt 2.628231699761886
+data.zbts.txt 5.256463399523772
+data.zcft.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zcve.txt 2.628231699761886
+data.zdga.txt 2.628231699761886
+data.zdme.txt 6.1025650235506905
+data.zejk.txt 2.628231699761886
+data.zelt.txt 4.165648687329214

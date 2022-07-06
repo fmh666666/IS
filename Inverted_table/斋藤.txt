@@ -1,6 +1,6 @@
 5
-data.gz.txt 1
-data.zate.txt 1
-data.zbeb.txt 1
-data.zbzg.txt 1
-data.zdqq.txt 1
+data.gz.txt 3.235060386727117
+data.zate.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zbzg.txt 3.235060386727117
+data.zdqq.txt 3.235060386727117

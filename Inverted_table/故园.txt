@@ -1,12 +1,12 @@
 11
-data.zalt.txt 1
-data.zbdb.txt 39
-data.zbtj.txt 1
-data.zbzf.txt 1
-data.zcdv.txt 1
-data.zczp.txt 1
-data.zdgt.txt 1
-data.zdzg.txt 2
-data.zebc.txt 1
-data.zfaj.txt 1
-data.zfas.txt 2
+data.zalt.txt 2.6885433903988862
+data.zbdb.txt 14.308234603687556
+data.zbtj.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zdzg.txt 4.261240455343955
+data.zebc.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862
+data.zfas.txt 4.261240455343955

@@ -1,7 +1,7 @@
 6
-data.be.txt 2
-data.zaip.txt 1
-data.zbcc.txt 1
-data.zbnp.txt 1
-data.zcbm.txt 2
-data.zeew.txt 1
+data.be.txt 4.927148697748023
+data.zaip.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zbnp.txt 3.1086847136800873
+data.zcbm.txt 4.927148697748023
+data.zeew.txt 3.1086847136800873

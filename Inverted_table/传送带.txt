@@ -1,11 +1,11 @@
 10
-data.zbsl.txt 1
-data.zbwa.txt 1
-data.zcqs.txt 1
-data.zcxr.txt 1
-data.zczl.txt 1
-data.zddb.txt 1
-data.zdeb.txt 1
-data.zebv.txt 1
-data.zeos.txt 1
-data.zeun.txt 1
+data.zbsl.txt 2.7546073728089153
+data.zbwa.txt 2.7546073728089153
+data.zcqs.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zczl.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153
+data.zeun.txt 2.7546073728089153

@@ -1,10 +1,10 @@
 9
-data.fp.txt 2
-data.op.txt 1
-data.zafy.txt 3
-data.zcon.txt 1
-data.zctn.txt 1
-data.zdmw.txt 1
-data.zeik.txt 2
-data.zejk.txt 1
-data.zekw.txt 1
+data.fp.txt 4.48169974735425
+data.op.txt 2.82763771717948
+data.zafy.txt 5.65527543435896
+data.zcon.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zeik.txt 4.48169974735425
+data.zejk.txt 2.82763771717948
+data.zekw.txt 2.82763771717948

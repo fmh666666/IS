@@ -1,10 +1,10 @@
 9
-data.zawu.txt 1
-data.zayv.txt 4
-data.zcls.txt 2
-data.zcmv.txt 1
-data.zdgt.txt 1
-data.zdju.txt 1
-data.zdux.txt 1
-data.zeaj.txt 1
-data.zeta.txt 1
+data.zawu.txt 2.82763771717948
+data.zayv.txt 6.565571457682201
+data.zcls.txt 4.48169974735425
+data.zcmv.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdju.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948
+data.zeta.txt 2.82763771717948

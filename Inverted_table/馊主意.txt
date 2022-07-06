@@ -1,11 +1,11 @@
 10
-data.kt.txt 2
-data.op.txt 3
-data.zawu.txt 1
-data.zbkv.txt 1
-data.zbua.txt 1
-data.zcdv.txt 1
-data.zcxr.txt 1
-data.zdhv.txt 1
-data.zdof.txt 1
-data.zeik.txt 1
+data.kt.txt 4.365949390112154
+data.op.txt 5.509214745617831
+data.zawu.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zbua.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdhv.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zeik.txt 2.7546073728089153

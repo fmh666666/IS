@@ -1,10 +1,10 @@
 9
-data.zakb.txt 1
-data.zazx.txt 1
-data.zcdg.txt 1
-data.zcem.txt 1
-data.zcgo.txt 1
-data.zcve.txt 1
-data.zdgt.txt 1
-data.zdlw.txt 1
-data.zewp.txt 1
+data.zakb.txt 2.82763771717948
+data.zazx.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcve.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdlw.txt 2.82763771717948
+data.zewp.txt 2.82763771717948

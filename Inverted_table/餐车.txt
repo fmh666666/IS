@@ -1,6 +1,6 @@
 5
-data.zate.txt 1
-data.zbht.txt 8
-data.zcpx.txt 3
-data.zdwl.txt 1
-data.zdzi.txt 1
+data.zate.txt 3.235060386727117
+data.zbht.txt 10.254898801061925
+data.zcpx.txt 6.470120773454234
+data.zdwl.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117

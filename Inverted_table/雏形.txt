@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.ev.txt 1
-data.to.txt 1
-data.zane.txt 1
-data.zbeb.txt 1
-data.zbgu.txt 1
-data.zbpc.txt 8
-data.zclh.txt 1
-data.zcsu.txt 1
-data.zdeb.txt 1
-data.zdga.txt 1
-data.zebc.txt 1
-data.zezm.txt 1
+data.bs.txt 2.5727503226135906
+data.ev.txt 2.5727503226135906
+data.to.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zbeb.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zbpc.txt 8.155425570121595
+data.zclh.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdga.txt 2.5727503226135906
+data.zebc.txt 2.5727503226135906
+data.zezm.txt 2.5727503226135906

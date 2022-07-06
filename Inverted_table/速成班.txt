@@ -1,11 +1,11 @@
 10
-data.zaoc.txt 1
-data.zayv.txt 1
-data.zbds.txt 1
-data.zbfr.txt 1
-data.zbor.txt 3
-data.zbup.txt 1
-data.zcem.txt 16
-data.zcxq.txt 1
-data.zdga.txt 1
-data.zexu.txt 1
+data.zaoc.txt 2.7546073728089153
+data.zayv.txt 2.7546073728089153
+data.zbds.txt 2.7546073728089153
+data.zbfr.txt 2.7546073728089153
+data.zbor.txt 5.509214745617831
+data.zbup.txt 2.7546073728089153
+data.zcem.txt 11.259355278590663
+data.zcxq.txt 2.7546073728089153
+data.zdga.txt 2.7546073728089153
+data.zexu.txt 2.7546073728089153

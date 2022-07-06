@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zalj.txt 1
-data.zazn.txt 1
-data.zbot.txt 1
-data.zdlo.txt 1
+data.ka.txt 3.235060386727117
+data.zalj.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zdlo.txt 3.235060386727117

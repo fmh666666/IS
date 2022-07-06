@@ -1,13 +1,13 @@
 12
-data.zagb.txt 1
-data.zbls.txt 9
-data.zbyb.txt 1
-data.zcjy.txt 1
-data.zddb.txt 9
-data.zddm.txt 1
-data.zdme.txt 5
-data.zdmw.txt 1
-data.zdtr.txt 4
-data.zeid.txt 1
-data.zewn.txt 1
-data.zfbr.txt 3
+data.zagb.txt 2.628231699761886
+data.zbls.txt 8.730796723312578
+data.zbyb.txt 2.628231699761886
+data.zcjy.txt 2.628231699761886
+data.zddb.txt 8.730796723312578
+data.zddm.txt 2.628231699761886
+data.zdme.txt 6.7938803870911
+data.zdmw.txt 2.628231699761886
+data.zdtr.txt 6.1025650235506905
+data.zeid.txt 2.628231699761886
+data.zewn.txt 2.628231699761886
+data.zfbr.txt 5.256463399523772

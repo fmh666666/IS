@@ -1,7 +1,7 @@
 6
-data.zacd.txt 1
-data.zahd.txt 1
-data.zalj.txt 1
-data.zdgt.txt 1
-data.zedo.txt 1
-data.zexm.txt 1
+data.zacd.txt 3.1086847136800873
+data.zahd.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.zbhe.txt 2
-data.zbkf.txt 1
-data.zdaw.txt 1
-data.zedd.txt 1
-data.zety.txt 1
-data.zexm.txt 1
+data.zbhe.txt 4.927148697748023
+data.zbkf.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zedd.txt 3.1086847136800873
+data.zety.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

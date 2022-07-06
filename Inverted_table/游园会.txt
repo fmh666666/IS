@@ -1,5 +1,5 @@
 4
-data.zavx.txt 75
-data.zcln.txt 1
-data.zddx.txt 1
-data.zdzi.txt 2
+data.zavx.txt 21.178798015230143
+data.zcln.txt 3.389731710180695
+data.zddx.txt 3.389731710180695
+data.zdzi.txt 5.372597648141796

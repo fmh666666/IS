@@ -1,7 +1,7 @@
 6
-data.zapl.txt 1
-data.zawo.txt 1
-data.zbpc.txt 1
-data.zciq.txt 1
-data.zdbf.txt 1
-data.zezy.txt 1
+data.zapl.txt 3.1086847136800873
+data.zawo.txt 3.1086847136800873
+data.zbpc.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zdbf.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

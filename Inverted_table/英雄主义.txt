@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zafy.txt 1
-data.zard.txt 1
-data.zarr.txt 1
-data.zbup.txt 1
-data.zcni.txt 1
-data.zdgp.txt 1
-data.zeoh.txt 1
+data.ga.txt 2.9092786962624935
+data.zafy.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbup.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

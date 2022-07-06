@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zbbt.txt 1
-data.zbmw.txt 1
-data.zcdv.txt 1
-data.zcon.txt 1
+data.kt.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zbmw.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zcon.txt 3.235060386727117

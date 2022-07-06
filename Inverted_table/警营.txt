@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.ep.txt 1
-data.hz.txt 6
-data.zcef.txt 1
-data.zctm.txt 3
-data.zctn.txt 3
-data.zdji.txt 3
-data.zedd.txt 5
+data.bs.txt 2.9092786962624935
+data.ep.txt 2.9092786962624935
+data.hz.txt 8.16737786758984
+data.zcef.txt 2.9092786962624935
+data.zctm.txt 5.818557392524987
+data.zctn.txt 5.818557392524987
+data.zdji.txt 5.818557392524987
+data.zedd.txt 7.52037633398548

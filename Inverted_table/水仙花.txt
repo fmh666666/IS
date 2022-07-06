@@ -1,12 +1,12 @@
 11
-data.ok.txt 1
-data.tz.txt 2
-data.ud.txt 1
-data.zadv.txt 1
-data.zard.txt 1
-data.zavx.txt 25
-data.zdro.txt 1
-data.zedk.txt 1
-data.zefs.txt 1
-data.zejn.txt 1
-data.zfaj.txt 1
+data.ok.txt 2.6885433903988862
+data.tz.txt 4.261240455343955
+data.ud.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zard.txt 2.6885433903988862
+data.zavx.txt 12.63733613617664
+data.zdro.txt 2.6885433903988862
+data.zedk.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zejn.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

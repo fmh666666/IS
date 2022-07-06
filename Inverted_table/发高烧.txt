@@ -1,10 +1,10 @@
 9
-data.fj.txt 1
-data.pa.txt 2
-data.zctp.txt 2
-data.zcxq.txt 1
-data.zdgv.txt 1
-data.zdpw.txt 1
-data.zenw.txt 1
-data.zevl.txt 1
-data.zezm.txt 1
+data.fj.txt 2.82763771717948
+data.pa.txt 4.48169974735425
+data.zctp.txt 4.48169974735425
+data.zcxq.txt 2.82763771717948
+data.zdgv.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zevl.txt 2.82763771717948
+data.zezm.txt 2.82763771717948

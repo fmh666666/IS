@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.tz.txt 1
-data.zaej.txt 1
-data.zcll.txt 1
-data.zdpf.txt 1
+data.bs.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zaej.txt 3.235060386727117
+data.zcll.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117

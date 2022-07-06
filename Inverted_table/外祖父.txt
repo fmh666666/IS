@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.zbyb.txt 1
-data.zcon.txt 1
-data.zctp.txt 1
-data.zdju.txt 1
-data.zdlo.txt 1
-data.zezm.txt 1
-data.zfaj.txt 2
+data.ew.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdju.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935
+data.zfaj.txt 4.611097637722987

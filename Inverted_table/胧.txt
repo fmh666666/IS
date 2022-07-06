@@ -1,11 +1,11 @@
 10
-data.aj.txt 2
-data.tz.txt 1
-data.zazw.txt 1
-data.zbcc.txt 1
-data.zbjk.txt 2
-data.zdaa.txt 2
-data.zdof.txt 5
-data.zeeh.txt 2
-data.zene.txt 2
-data.zeqh.txt 7
+data.aj.txt 4.365949390112154
+data.tz.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbjk.txt 4.365949390112154
+data.zdaa.txt 4.365949390112154
+data.zdof.txt 7.120556762921068
+data.zeeh.txt 4.365949390112154
+data.zene.txt 4.365949390112154
+data.zeqh.txt 8.263822118426747

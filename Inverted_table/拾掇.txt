@@ -1,6 +1,6 @@
 5
-data.aj.txt 2
-data.pq.txt 2
-data.zblq.txt 1
-data.zdgp.txt 1
-data.zfaw.txt 1
+data.aj.txt 5.1274494005309625
+data.pq.txt 5.1274494005309625
+data.zblq.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

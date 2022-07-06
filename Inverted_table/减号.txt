@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zbvn.txt 1
-data.zdtr.txt 2
+data.ud.txt 3.5891377275982888
+data.zbvn.txt 3.5891377275982888
+data.zdtr.txt 5.688648708166832

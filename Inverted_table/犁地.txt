@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.jd.txt 1
-data.kq.txt 2
-data.tz.txt 1
-data.zbeb.txt 2
+data.gw.txt 3.235060386727117
+data.jd.txt 3.235060386727117
+data.kq.txt 5.1274494005309625
+data.tz.txt 3.235060386727117
+data.zbeb.txt 5.1274494005309625

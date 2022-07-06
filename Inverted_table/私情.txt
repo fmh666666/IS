@@ -1,9 +1,9 @@
 8
-data.zaoy.txt 1
-data.zblq.txt 1
-data.zcgi.txt 1
-data.zcis.txt 1
-data.zcmy.txt 1
-data.zcxr.txt 1
-data.zexm.txt 1
-data.zfai.txt 2
+data.zaoy.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcgi.txt 2.9092786962624935
+data.zcis.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zexm.txt 2.9092786962624935
+data.zfai.txt 4.611097637722987

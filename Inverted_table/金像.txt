@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.zbgd.txt 2
-data.zbjk.txt 2
-data.zbut.txt 2
-data.zcao.txt 1
-data.zdpw.txt 3
-data.zexv.txt 1
-data.zfbr.txt 1
+data.jf.txt 2.9092786962624935
+data.zbgd.txt 4.611097637722987
+data.zbjk.txt 4.611097637722987
+data.zbut.txt 4.611097637722987
+data.zcao.txt 2.9092786962624935
+data.zdpw.txt 5.818557392524987
+data.zexv.txt 2.9092786962624935
+data.zfbr.txt 2.9092786962624935

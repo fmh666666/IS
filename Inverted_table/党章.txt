@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zajn.txt 1
-data.zawc.txt 1
-data.zbdb.txt 1
-data.zbpx.txt 1
-data.zcih.txt 1
-data.zerh.txt 2
-data.zfaj.txt 1
+data.op.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcih.txt 2.9092786962624935
+data.zerh.txt 4.611097637722987
+data.zfaj.txt 2.9092786962624935

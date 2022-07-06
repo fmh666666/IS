@@ -1,9 +1,9 @@
 8
-data.zbre.txt 1
-data.zccu.txt 1
-data.zcee.txt 1
-data.zcmv.txt 2
-data.zdud.txt 1
-data.zdwn.txt 1
-data.zekw.txt 1
-data.zeoo.txt 1
+data.zbre.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zcmv.txt 4.611097637722987
+data.zdud.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935

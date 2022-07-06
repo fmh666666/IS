@@ -1,10 +1,10 @@
 9
-data.zahd.txt 1
-data.zcon.txt 1
-data.zcse.txt 2
-data.zcts.txt 1
-data.zcue.txt 1
-data.zdby.txt 1
-data.zeid.txt 3
-data.zeqh.txt 1
-data.zfae.txt 2
+data.zahd.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zcse.txt 4.48169974735425
+data.zcts.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdby.txt 2.82763771717948
+data.zeid.txt 5.65527543435896
+data.zeqh.txt 2.82763771717948
+data.zfae.txt 4.48169974735425

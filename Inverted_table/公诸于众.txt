@@ -1,4 +1,4 @@
 3
-data.jj.txt 1
-data.zbfp.txt 1
-data.zcpa.txt 1
+data.jj.txt 3.5891377275982888
+data.zbfp.txt 3.5891377275982888
+data.zcpa.txt 3.5891377275982888

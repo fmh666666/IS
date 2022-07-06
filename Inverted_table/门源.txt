@@ -1,10 +1,10 @@
 9
-data.yx.txt 1
-data.zafq.txt 1
-data.zaip.txt 1
-data.zalj.txt 1
-data.zbsd.txt 1
-data.zcem.txt 1
-data.zddl.txt 1
-data.zecf.txt 2
-data.zewd.txt 1
+data.yx.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zaip.txt 2.82763771717948
+data.zalj.txt 2.82763771717948
+data.zbsd.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zddl.txt 2.82763771717948
+data.zecf.txt 4.48169974735425
+data.zewd.txt 2.82763771717948

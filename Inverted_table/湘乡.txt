@@ -1,5 +1,5 @@
 4
-data.zbht.txt 2
-data.zcql.txt 2
-data.zdoc.txt 2
-data.zewg.txt 4
+data.zbht.txt 5.372597648141796
+data.zcql.txt 5.372597648141796
+data.zdoc.txt 5.372597648141796
+data.zewg.txt 7.870713291999142

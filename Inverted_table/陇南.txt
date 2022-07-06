@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zcft.txt 1
-data.zcni.txt 1
-data.zcse.txt 1
-data.zewp.txt 2
+data.zawb.txt 3.235060386727117
+data.zcft.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zewp.txt 5.1274494005309625

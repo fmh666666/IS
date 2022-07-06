@@ -1,5 +1,5 @@
 4
-data.zbsd.txt 2
-data.zcdv.txt 1
-data.zcts.txt 2
-data.zdeb.txt 1
+data.zbsd.txt 5.372597648141796
+data.zcdv.txt 3.389731710180695
+data.zcts.txt 5.372597648141796
+data.zdeb.txt 3.389731710180695

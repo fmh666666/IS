@@ -1,4 +1,4 @@
 3
-data.zamr.txt 1
-data.zbhv.txt 1
-data.zcao.txt 1
+data.zamr.txt 3.5891377275982888
+data.zbhv.txt 3.5891377275982888
+data.zcao.txt 3.5891377275982888

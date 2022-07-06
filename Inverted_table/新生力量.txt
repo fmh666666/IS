@@ -1,4 +1,4 @@
 3
-data.zbhd.txt 1
-data.zeaf.txt 1
-data.zfas.txt 1
+data.zbhd.txt 3.5891377275982888
+data.zeaf.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

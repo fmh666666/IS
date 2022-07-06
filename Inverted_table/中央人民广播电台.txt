@@ -1,14 +1,14 @@
 13
-data.mo.txt 1
-data.zabe.txt 2
-data.zaic.txt 1
-data.zbcj.txt 1
-data.zbhd.txt 1
-data.zbpx.txt 1
-data.zcku.txt 5
-data.zczl.txt 1
-data.zdcw.txt 1
-data.zdep.txt 1
-data.zehp.txt 2
-data.zeil.txt 4
-data.zewp.txt 1
+data.mo.txt 2.5727503226135906
+data.zabe.txt 4.077712785060798
+data.zaic.txt 2.5727503226135906
+data.zbcj.txt 2.5727503226135906
+data.zbhd.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcku.txt 6.650463107674388
+data.zczl.txt 2.5727503226135906
+data.zdcw.txt 2.5727503226135906
+data.zdep.txt 2.5727503226135906
+data.zehp.txt 4.077712785060798
+data.zeil.txt 5.97374125520702
+data.zewp.txt 2.5727503226135906

@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.ry.txt 2
-data.wc.txt 1
+data.hg.txt 3.5891377275982888
+data.ry.txt 5.688648708166832
+data.wc.txt 3.5891377275982888

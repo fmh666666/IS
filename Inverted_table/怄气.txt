@@ -1,6 +1,6 @@
 5
-data.aj.txt 2
-data.zbha.txt 1
-data.zbpp.txt 1
-data.zczl.txt 2
-data.zeai.txt 1
+data.aj.txt 5.1274494005309625
+data.zbha.txt 3.235060386727117
+data.zbpp.txt 3.235060386727117
+data.zczl.txt 5.1274494005309625
+data.zeai.txt 3.235060386727117

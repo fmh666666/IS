@@ -1,5 +1,5 @@
 4
-data.ee.txt 3
-data.zcef.txt 1
-data.zcts.txt 1
-data.zdnh.txt 1
+data.ee.txt 6.77946342036139
+data.zcef.txt 3.389731710180695
+data.zcts.txt 3.389731710180695
+data.zdnh.txt 3.389731710180695

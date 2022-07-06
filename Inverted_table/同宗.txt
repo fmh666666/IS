@@ -1,4 +1,4 @@
 3
-data.kq.txt 1
-data.zdby.txt 1
-data.zdoc.txt 2
+data.kq.txt 3.5891377275982888
+data.zdby.txt 3.5891377275982888
+data.zdoc.txt 5.688648708166832

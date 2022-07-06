@@ -1,4 +1,4 @@
 3
-data.ev.txt 1
-data.zaxj.txt 1
-data.zblr.txt 2
+data.ev.txt 3.5891377275982888
+data.zaxj.txt 3.5891377275982888
+data.zblr.txt 5.688648708166832

@@ -1,4 +1,4 @@
 3
-data.zaxp.txt 1
-data.zbre.txt 1
-data.zdzn.txt 2
+data.zaxp.txt 3.5891377275982888
+data.zbre.txt 3.5891377275982888
+data.zdzn.txt 5.688648708166832

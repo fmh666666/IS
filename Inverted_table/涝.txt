@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.co.txt 1
-data.yx.txt 1
-data.zaoy.txt 1
-data.zauy.txt 1
-data.zbkv.txt 1
-data.zcdg.txt 1
-data.zciq.txt 2
-data.zdkv.txt 1
-data.zdlg.txt 1
-data.zeoh.txt 1
+data.bs.txt 2.6885433903988862
+data.co.txt 2.6885433903988862
+data.yx.txt 2.6885433903988862
+data.zaoy.txt 2.6885433903988862
+data.zauy.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zcdg.txt 2.6885433903988862
+data.zciq.txt 4.261240455343955
+data.zdkv.txt 2.6885433903988862
+data.zdlg.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

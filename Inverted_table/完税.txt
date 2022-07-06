@@ -1,8 +1,8 @@
 7
-data.zawc.txt 1
-data.zbvg.txt 1
-data.zcda.txt 1
-data.zcdg.txt 1
-data.zcic.txt 1
-data.zctp.txt 3
-data.zezn.txt 1
+data.zawc.txt 3.0018356045764243
+data.zbvg.txt 3.0018356045764243
+data.zcda.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zcic.txt 3.0018356045764243
+data.zctp.txt 6.003671209152849
+data.zezn.txt 3.0018356045764243

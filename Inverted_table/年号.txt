@@ -1,7 +1,7 @@
 6
-data.zaxk.txt 1
-data.zbkj.txt 1
-data.zbsm.txt 1
-data.zczp.txt 1
-data.zdgt.txt 2
-data.zfdk.txt 2
+data.zaxk.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zdgt.txt 4.927148697748023
+data.zfdk.txt 4.927148697748023

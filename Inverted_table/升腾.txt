@@ -1,13 +1,13 @@
 12
-data.ka.txt 1
-data.ye.txt 1
-data.zbdb.txt 1
-data.zbph.txt 1
-data.zbyv.txt 1
-data.zciy.txt 1
-data.zcli.txt 6
-data.zcrk.txt 2
-data.zcvt.txt 1
-data.zdpw.txt 1
-data.zeaf.txt 1
-data.zfae.txt 2
+data.ka.txt 2.628231699761886
+data.ye.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbph.txt 2.628231699761886
+data.zbyv.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcli.txt 7.378379198634354
+data.zcrk.txt 4.165648687329214
+data.zcvt.txt 2.628231699761886
+data.zdpw.txt 2.628231699761886
+data.zeaf.txt 2.628231699761886
+data.zfae.txt 4.165648687329214

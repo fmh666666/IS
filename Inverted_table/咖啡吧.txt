@@ -1,13 +1,13 @@
 12
-data.ng.txt 1
-data.zajr.txt 1
-data.zalj.txt 1
-data.zbof.txt 1
-data.zbta.txt 1
-data.zbvf.txt 1
-data.zclm.txt 1
-data.zcvi.txt 1
-data.zdkc.txt 1
-data.zdpw.txt 4
-data.zeec.txt 1
-data.zewn.txt 1
+data.ng.txt 2.628231699761886
+data.zajr.txt 2.628231699761886
+data.zalj.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zbta.txt 2.628231699761886
+data.zbvf.txt 2.628231699761886
+data.zclm.txt 2.628231699761886
+data.zcvi.txt 2.628231699761886
+data.zdkc.txt 2.628231699761886
+data.zdpw.txt 6.1025650235506905
+data.zeec.txt 2.628231699761886
+data.zewn.txt 2.628231699761886

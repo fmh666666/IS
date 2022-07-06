@@ -1,14 +1,14 @@
 13
-data.pq.txt 1
-data.sq.txt 1
-data.zabe.txt 1
-data.zawb.txt 1
-data.zbdb.txt 2
-data.zbyb.txt 1
-data.zccx.txt 3
-data.zcem.txt 1
-data.zcqg.txt 1
-data.zcrg.txt 1
-data.zdaw.txt 2
-data.zdju.txt 1
-data.zfas.txt 1
+data.pq.txt 2.5727503226135906
+data.sq.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zbdb.txt 4.077712785060798
+data.zbyb.txt 2.5727503226135906
+data.zccx.txt 5.145500645227181
+data.zcem.txt 2.5727503226135906
+data.zcqg.txt 2.5727503226135906
+data.zcrg.txt 2.5727503226135906
+data.zdaw.txt 4.077712785060798
+data.zdju.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906

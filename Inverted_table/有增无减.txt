@@ -1,10 +1,10 @@
 9
-data.zawc.txt 1
-data.zbph.txt 1
-data.zcon.txt 1
-data.zdle.txt 1
-data.zdzg.txt 1
-data.zeva.txt 1
-data.zeve.txt 1
-data.zezf.txt 2
-data.zfaj.txt 1
+data.zawc.txt 2.82763771717948
+data.zbph.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zdle.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zeva.txt 2.82763771717948
+data.zeve.txt 2.82763771717948
+data.zezf.txt 4.48169974735425
+data.zfaj.txt 2.82763771717948

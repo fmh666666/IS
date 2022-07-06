@@ -1,12 +1,12 @@
 11
-data.ha.txt 1
-data.ka.txt 1
-data.pa.txt 1
-data.zavg.txt 1
-data.zcdl.txt 1
-data.zcko.txt 1
-data.zcmy.txt 1
-data.zdmw.txt 1
-data.zdnh.txt 1
-data.zeez.txt 1
-data.zeik.txt 1
+data.ha.txt 2.6885433903988862
+data.ka.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zcdl.txt 2.6885433903988862
+data.zcko.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zdnh.txt 2.6885433903988862
+data.zeez.txt 2.6885433903988862
+data.zeik.txt 2.6885433903988862

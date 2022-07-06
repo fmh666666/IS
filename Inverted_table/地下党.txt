@@ -1,8 +1,8 @@
 7
-data.xk.txt 1
-data.zabe.txt 3
-data.zajo.txt 1
-data.zakb.txt 1
-data.zapf.txt 1
-data.zbdb.txt 1
-data.zevt.txt 1
+data.xk.txt 3.0018356045764243
+data.zabe.txt 6.003671209152849
+data.zajo.txt 3.0018356045764243
+data.zakb.txt 3.0018356045764243
+data.zapf.txt 3.0018356045764243
+data.zbdb.txt 3.0018356045764243
+data.zevt.txt 3.0018356045764243

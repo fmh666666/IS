@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.dg.txt 2
-data.op.txt 1
-data.zaeh.txt 1
-data.zair.txt 3
-data.zbhe.txt 1
-data.zbht.txt 2
-data.zcku.txt 4
-data.zcxh.txt 1
-data.zecf.txt 2
+data.aj.txt 2.7546073728089153
+data.dg.txt 4.365949390112154
+data.op.txt 2.7546073728089153
+data.zaeh.txt 2.7546073728089153
+data.zair.txt 5.509214745617831
+data.zbhe.txt 2.7546073728089153
+data.zbht.txt 4.365949390112154
+data.zcku.txt 6.396000249308887
+data.zcxh.txt 2.7546073728089153
+data.zecf.txt 4.365949390112154

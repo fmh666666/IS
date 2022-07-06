@@ -1,10 +1,10 @@
 9
-data.pa.txt 1
-data.zbeb.txt 1
-data.zbhe.txt 1
-data.zbtj.txt 1
-data.zcrg.txt 3
-data.zdlw.txt 1
-data.zdzn.txt 1
-data.zeeq.txt 1
-data.zevy.txt 1
+data.pa.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zbtj.txt 2.82763771717948
+data.zcrg.txt 5.65527543435896
+data.zdlw.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zevy.txt 2.82763771717948

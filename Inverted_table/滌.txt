@@ -1,5 +1,5 @@
 4
-data.zawz.txt 1
-data.zeaf.txt 1
-data.zeay.txt 1
-data.zewn.txt 1
+data.zawz.txt 3.389731710180695
+data.zeaf.txt 3.389731710180695
+data.zeay.txt 3.389731710180695
+data.zewn.txt 3.389731710180695

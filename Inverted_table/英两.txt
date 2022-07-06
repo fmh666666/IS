@@ -1,4 +1,4 @@
 3
-data.tv.txt 1
-data.zate.txt 1
-data.zeta.txt 1
+data.tv.txt 3.5891377275982888
+data.zate.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

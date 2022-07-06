@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.zaic.txt 1
-data.zako.txt 1
-data.zaop.txt 2
-data.zarr.txt 3
-data.zbds.txt 1
-data.zbsm.txt 1
-data.zdpz.txt 4
-data.zduc.txt 1
-data.zdvl.txt 1
-data.zebf.txt 1
-data.zeoh.txt 1
+data.ga.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zaop.txt 4.165648687329214
+data.zarr.txt 5.256463399523772
+data.zbds.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zdpz.txt 6.1025650235506905
+data.zduc.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zebf.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

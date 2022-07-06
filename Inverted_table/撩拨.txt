@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.zcls.txt 2
-data.zcuh.txt 1
-data.zdzn.txt 1
-data.zewp.txt 1
+data.cf.txt 3.235060386727117
+data.zcls.txt 5.1274494005309625
+data.zcuh.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zewp.txt 3.235060386727117

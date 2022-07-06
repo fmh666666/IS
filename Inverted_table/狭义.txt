@@ -1,8 +1,8 @@
 7
-data.zall.txt 1
-data.zaxk.txt 1
-data.zcdy.txt 1
-data.zcnn.txt 1
-data.zcql.txt 1
-data.zebf.txt 1
-data.zexv.txt 1
+data.zall.txt 3.0018356045764243
+data.zaxk.txt 3.0018356045764243
+data.zcdy.txt 3.0018356045764243
+data.zcnn.txt 3.0018356045764243
+data.zcql.txt 3.0018356045764243
+data.zebf.txt 3.0018356045764243
+data.zexv.txt 3.0018356045764243

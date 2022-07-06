@@ -1,11 +1,11 @@
 10
-data.zacw.txt 1
-data.zaun.txt 1
-data.zbnx.txt 1
-data.zbzf.txt 1
-data.zcpb.txt 1
-data.zdll.txt 1
-data.zdmw.txt 1
-data.zduk.txt 1
-data.zeik.txt 1
-data.zezm.txt 1
+data.zacw.txt 2.7546073728089153
+data.zaun.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zbzf.txt 2.7546073728089153
+data.zcpb.txt 2.7546073728089153
+data.zdll.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zeik.txt 2.7546073728089153
+data.zezm.txt 2.7546073728089153

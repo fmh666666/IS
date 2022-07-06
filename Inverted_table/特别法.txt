@@ -1,3 +1,3 @@
 2
-data.hc.txt 1
-data.zdwk.txt 1
+data.hc.txt 3.8701847240988965
+data.zdwk.txt 3.8701847240988965

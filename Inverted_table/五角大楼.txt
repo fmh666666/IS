@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.op.txt 1
-data.zalj.txt 2
-data.zarr.txt 1
-data.zbor.txt 1
-data.zcse.txt 1
-data.zddx.txt 2
-data.zdju.txt 2
-data.zdkk.txt 1
-data.zene.txt 2
-data.zfai.txt 1
+data.fp.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zalj.txt 4.261240455343955
+data.zarr.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zddx.txt 4.261240455343955
+data.zdju.txt 4.261240455343955
+data.zdkk.txt 2.6885433903988862
+data.zene.txt 4.261240455343955
+data.zfai.txt 2.6885433903988862

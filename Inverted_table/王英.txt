@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zbzf.txt 1
-data.zcjo.txt 1
-data.zegl.txt 1
-data.zeqh.txt 1
+data.hz.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcjo.txt 3.235060386727117
+data.zegl.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

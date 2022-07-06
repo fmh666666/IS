@@ -1,5 +1,5 @@
 4
-data.zblh.txt 1
-data.zcfn.txt 1
-data.zdtv.txt 1
-data.zfby.txt 1
+data.zblh.txt 3.389731710180695
+data.zcfn.txt 3.389731710180695
+data.zdtv.txt 3.389731710180695
+data.zfby.txt 3.389731710180695

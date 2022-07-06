@@ -1,2 +1,2 @@
 1
-data.zawu.txt 3
+data.zawu.txt 8.701275476034196

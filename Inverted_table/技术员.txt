@@ -1,11 +1,11 @@
 10
-data.pq.txt 2
-data.zazn.txt 1
-data.zbvp.txt 1
-data.zcbe.txt 1
-data.zcel.txt 3
-data.zcsu.txt 1
-data.zdof.txt 2
-data.zeos.txt 1
-data.zeun.txt 1
-data.zfaj.txt 1
+data.pq.txt 4.365949390112154
+data.zazn.txt 2.7546073728089153
+data.zbvp.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zcel.txt 5.509214745617831
+data.zcsu.txt 2.7546073728089153
+data.zdof.txt 4.365949390112154
+data.zeos.txt 2.7546073728089153
+data.zeun.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

@@ -1,12 +1,12 @@
 11
-data.jj.txt 1
-data.pq.txt 1
-data.zbfx.txt 3
-data.zbjk.txt 1
-data.zbkv.txt 1
-data.zbnp.txt 1
-data.zbwa.txt 1
-data.zcln.txt 1
-data.zddb.txt 2
-data.zedd.txt 1
-data.zfaj.txt 1
+data.jj.txt 2.6885433903988862
+data.pq.txt 2.6885433903988862
+data.zbfx.txt 5.3770867807977725
+data.zbjk.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbnp.txt 2.6885433903988862
+data.zbwa.txt 2.6885433903988862
+data.zcln.txt 2.6885433903988862
+data.zddb.txt 4.261240455343955
+data.zedd.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

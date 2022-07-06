@@ -1,14 +1,14 @@
 13
-data.cz.txt 1
-data.zafl.txt 1
-data.zaip.txt 2
-data.zamp.txt 1
-data.zawm.txt 2
-data.zawu.txt 1
-data.zcao.txt 1
-data.zcqs.txt 1
-data.zdcj.txt 2
-data.zdqx.txt 1
-data.zdqz.txt 1
-data.zexk.txt 1
-data.zfcp.txt 2
+data.cz.txt 2.5727503226135906
+data.zafl.txt 2.5727503226135906
+data.zaip.txt 4.077712785060798
+data.zamp.txt 2.5727503226135906
+data.zawm.txt 4.077712785060798
+data.zawu.txt 2.5727503226135906
+data.zcao.txt 2.5727503226135906
+data.zcqs.txt 2.5727503226135906
+data.zdcj.txt 4.077712785060798
+data.zdqx.txt 2.5727503226135906
+data.zdqz.txt 2.5727503226135906
+data.zexk.txt 2.5727503226135906
+data.zfcp.txt 4.077712785060798

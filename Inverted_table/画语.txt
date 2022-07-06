@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.zazg.txt 1
-data.zdgt.txt 1
-data.zdzg.txt 1
-data.zevy.txt 3
-data.zfby.txt 1
+data.ft.txt 3.1086847136800873
+data.zazg.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zdzg.txt 3.1086847136800873
+data.zevy.txt 6.2173694273601745
+data.zfby.txt 3.1086847136800873

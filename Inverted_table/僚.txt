@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zanh.txt 1
-data.zbpm.txt 1
-data.zebn.txt 4
-data.zeid.txt 1
+data.zalt.txt 3.235060386727117
+data.zanh.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zebn.txt 7.511577600598868
+data.zeid.txt 3.235060386727117

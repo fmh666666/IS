@@ -1,3 +1,3 @@
 2
-data.zebn.txt 2
-data.zfcj.txt 2
+data.zebn.txt 6.134097658560606
+data.zfcj.txt 6.134097658560606

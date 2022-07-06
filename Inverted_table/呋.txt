@@ -1,7 +1,7 @@
 6
-data.zafl.txt 1
-data.zcdv.txt 4
-data.zdil.txt 1
-data.zdof.txt 1
-data.zdpg.txt 1
-data.zezy.txt 11
+data.zafl.txt 3.1086847136800873
+data.zcdv.txt 7.21814237484067
+data.zdil.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zdpg.txt 3.1086847136800873
+data.zezy.txt 11.144518125108197

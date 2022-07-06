@@ -1,9 +1,9 @@
 8
-data.zcmx.txt 1
-data.zduk.txt 3
-data.zeez.txt 2
-data.zelj.txt 1
-data.zevq.txt 3
-data.zexm.txt 1
-data.zeyu.txt 1
-data.zeyy.txt 2
+data.zcmx.txt 2.9092786962624935
+data.zduk.txt 5.818557392524987
+data.zeez.txt 4.611097637722987
+data.zelj.txt 2.9092786962624935
+data.zevq.txt 5.818557392524987
+data.zexm.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935
+data.zeyy.txt 4.611097637722987

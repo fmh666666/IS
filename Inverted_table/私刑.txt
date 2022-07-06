@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zaub.txt 1
-data.zbbt.txt 1
-data.zcue.txt 1
-data.zdgt.txt 1
+data.zalm.txt 3.235060386727117
+data.zaub.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117

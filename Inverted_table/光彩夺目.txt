@@ -1,10 +1,10 @@
 9
-data.hg.txt 1
-data.mo.txt 1
-data.zbds.txt 1
-data.zbjk.txt 1
-data.zbye.txt 1
-data.zctm.txt 1
-data.zddp.txt 1
-data.zerh.txt 1
-data.zerv.txt 1
+data.hg.txt 2.82763771717948
+data.mo.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zerh.txt 2.82763771717948
+data.zerv.txt 2.82763771717948

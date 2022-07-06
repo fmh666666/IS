@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zbaf.txt 2
-data.zbil.txt 1
-data.zcak.txt 1
-data.zdrq.txt 1
-data.zebn.txt 3
-data.zeeh.txt 3
-data.zehb.txt 1
-data.zeoo.txt 1
+data.op.txt 2.82763771717948
+data.zbaf.txt 4.48169974735425
+data.zbil.txt 2.82763771717948
+data.zcak.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zebn.txt 5.65527543435896
+data.zeeh.txt 5.65527543435896
+data.zehb.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948

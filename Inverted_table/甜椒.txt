@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.qn.txt 1
-data.zabx.txt 1
-data.zbyb.txt 1
-data.zdbf.txt 3
-data.zddx.txt 1
-data.zebv.txt 1
-data.zeeq.txt 2
+data.ok.txt 2.9092786962624935
+data.qn.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zdbf.txt 5.818557392524987
+data.zddx.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935
+data.zeeq.txt 4.611097637722987

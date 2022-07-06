@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zaim.txt 2
-data.zfdk.txt 8
+data.ye.txt 3.5891377275982888
+data.zaim.txt 5.688648708166832
+data.zfdk.txt 11.377297416333665

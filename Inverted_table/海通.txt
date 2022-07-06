@@ -1,8 +1,8 @@
 7
-data.kq.txt 9
-data.zazo.txt 1
-data.zcdy.txt 12
-data.zcdz.txt 3
-data.zeaf.txt 1
-data.zeeq.txt 2
-data.zexv.txt 2
+data.kq.txt 9.971882031075616
+data.zazo.txt 3.0018356045764243
+data.zcdy.txt 11.108111698504679
+data.zcdz.txt 6.003671209152849
+data.zeaf.txt 3.0018356045764243
+data.zeeq.txt 4.757796866583254
+data.zexv.txt 4.757796866583254

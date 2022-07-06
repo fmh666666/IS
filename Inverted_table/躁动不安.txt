@@ -1,6 +1,6 @@
 5
-data.zajo.txt 1
-data.zaop.txt 1
-data.zcoy.txt 1
-data.zexv.txt 1
-data.zfaz.txt 1
+data.zajo.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zcoy.txt 3.235060386727117
+data.zexv.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

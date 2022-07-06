@@ -1,11 +1,11 @@
 10
-data.gk.txt 1
-data.zaxk.txt 1
-data.zbga.txt 1
-data.zcdv.txt 1
-data.zcfn.txt 1
-data.zcnn.txt 1
-data.zcon.txt 2
-data.zdcy.txt 1
-data.zdux.txt 1
-data.zess.txt 1
+data.gk.txt 2.7546073728089153
+data.zaxk.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zcnn.txt 2.7546073728089153
+data.zcon.txt 4.365949390112154
+data.zdcy.txt 2.7546073728089153
+data.zdux.txt 2.7546073728089153
+data.zess.txt 2.7546073728089153

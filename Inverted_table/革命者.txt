@@ -1,7 +1,7 @@
 6
-data.gk.txt 1
-data.zblq.txt 1
-data.zcts.txt 2
-data.zdju.txt 7
-data.zdod.txt 1
-data.zeds.txt 1
+data.gk.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zcts.txt 4.927148697748023
+data.zdju.txt 9.326054141040261
+data.zdod.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873

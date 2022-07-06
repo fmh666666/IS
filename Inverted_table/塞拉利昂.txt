@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zcih.txt 1
-data.zctp.txt 1
-data.zdeb.txt 1
-data.zfai.txt 1
+data.zazn.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

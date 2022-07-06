@@ -1,8 +1,8 @@
 7
-data.jf.txt 2
-data.zaxp.txt 1
-data.zbsm.txt 1
-data.zcvt.txt 1
-data.zczp.txt 1
-data.zdeb.txt 2
-data.zdji.txt 1
+data.jf.txt 4.757796866583254
+data.zaxp.txt 3.0018356045764243
+data.zbsm.txt 3.0018356045764243
+data.zcvt.txt 3.0018356045764243
+data.zczp.txt 3.0018356045764243
+data.zdeb.txt 4.757796866583254
+data.zdji.txt 3.0018356045764243

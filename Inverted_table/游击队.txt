@@ -1,13 +1,13 @@
 12
-data.zahd.txt 3
-data.zanm.txt 1
-data.zbel.txt 1
-data.zbfz.txt 1
-data.zblq.txt 2
-data.zcdy.txt 1
-data.zcel.txt 1
-data.zcts.txt 3
-data.zcxq.txt 1
-data.zdby.txt 2
-data.zelt.txt 3
-data.zene.txt 3
+data.zahd.txt 5.256463399523772
+data.zanm.txt 2.628231699761886
+data.zbel.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zblq.txt 4.165648687329214
+data.zcdy.txt 2.628231699761886
+data.zcel.txt 2.628231699761886
+data.zcts.txt 5.256463399523772
+data.zcxq.txt 2.628231699761886
+data.zdby.txt 4.165648687329214
+data.zelt.txt 5.256463399523772
+data.zene.txt 5.256463399523772

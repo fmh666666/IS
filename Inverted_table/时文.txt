@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zcmy.txt 1
-data.zdou.txt 1
+data.hz.txt 3.5891377275982888
+data.zcmy.txt 3.5891377275982888
+data.zdou.txt 3.5891377275982888

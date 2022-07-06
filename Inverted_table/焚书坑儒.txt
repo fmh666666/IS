@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zaql.txt 1
-data.zawb.txt 1
-data.zbeb.txt 1
-data.zbil.txt 1
+data.op.txt 3.235060386727117
+data.zaql.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zbil.txt 3.235060386727117

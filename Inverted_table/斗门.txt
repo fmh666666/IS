@@ -1,7 +1,7 @@
 6
-data.ng.txt 1
-data.zbux.txt 4
-data.zcgi.txt 1
-data.zedd.txt 7
-data.zemb.txt 2
-data.zfdk.txt 1
+data.ng.txt 3.1086847136800873
+data.zbux.txt 7.21814237484067
+data.zcgi.txt 3.1086847136800873
+data.zedd.txt 9.326054141040261
+data.zemb.txt 4.927148697748023
+data.zfdk.txt 3.1086847136800873

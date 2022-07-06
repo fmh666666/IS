@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zafv.txt 1
-data.zawc.txt 1
-data.zbil.txt 5
-data.zcon.txt 1
-data.zdwv.txt 1
-data.zewd.txt 1
-data.zfaj.txt 1
+data.yx.txt 2.9092786962624935
+data.zafv.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbil.txt 7.52037633398548
+data.zcon.txt 2.9092786962624935
+data.zdwv.txt 2.9092786962624935
+data.zewd.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

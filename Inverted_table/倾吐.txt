@@ -1,4 +1,4 @@
 3
-data.zcrk.txt 1
-data.zdwk.txt 1
-data.zeaj.txt 1
+data.zcrk.txt 3.5891377275982888
+data.zdwk.txt 3.5891377275982888
+data.zeaj.txt 3.5891377275982888

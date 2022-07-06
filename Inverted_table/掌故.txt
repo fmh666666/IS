@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zaim.txt 1
-data.zbcc.txt 1
-data.zbdb.txt 1
-data.zeoh.txt 1
+data.op.txt 5.1274494005309625
+data.zaim.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

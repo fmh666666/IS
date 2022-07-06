@@ -1,4 +1,4 @@
 3
-data.kt.txt 2
-data.zazw.txt 1
-data.zeew.txt 1
+data.kt.txt 5.688648708166832
+data.zazw.txt 3.5891377275982888
+data.zeew.txt 3.5891377275982888

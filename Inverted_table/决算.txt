@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.zahd.txt 1
-data.zbeb.txt 1
-data.zcda.txt 1
-data.zelt.txt 1
+data.hu.txt 3.235060386727117
+data.zahd.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zcda.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

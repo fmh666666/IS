@@ -1,6 +1,6 @@
 5
-data.be.txt 2
-data.zbgu.txt 3
-data.zcln.txt 1
-data.zexv.txt 2
-data.zfai.txt 2
+data.be.txt 5.1274494005309625
+data.zbgu.txt 6.470120773454234
+data.zcln.txt 3.235060386727117
+data.zexv.txt 5.1274494005309625
+data.zfai.txt 5.1274494005309625

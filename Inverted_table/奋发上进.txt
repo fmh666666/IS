@@ -1,10 +1,10 @@
 9
-data.mi.txt 1
-data.ok.txt 1
-data.zbfx.txt 1
-data.zcis.txt 1
-data.zcrk.txt 1
-data.zdyv.txt 1
-data.zeag.txt 1
-data.zedy.txt 1
-data.zeez.txt 1
+data.mi.txt 2.82763771717948
+data.ok.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zcis.txt 2.82763771717948
+data.zcrk.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zeag.txt 2.82763771717948
+data.zedy.txt 2.82763771717948
+data.zeez.txt 2.82763771717948

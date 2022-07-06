@@ -1,5 +1,5 @@
 4
-data.zavg.txt 2
-data.zcql.txt 3
-data.zdod.txt 1
-data.zeam.txt 1
+data.zavg.txt 5.372597648141796
+data.zcql.txt 6.77946342036139
+data.zdod.txt 3.389731710180695
+data.zeam.txt 3.389731710180695

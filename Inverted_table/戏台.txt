@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zasw.txt 1
-data.zaxk.txt 2
-data.zchd.txt 1
-data.zcve.txt 1
-data.zczl.txt 1
-data.zdlm.txt 1
-data.zfcj.txt 1
+data.zabe.txt 2.9092786962624935
+data.zasw.txt 2.9092786962624935
+data.zaxk.txt 4.611097637722987
+data.zchd.txt 2.9092786962624935
+data.zcve.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935
+data.zfcj.txt 2.9092786962624935

@@ -1,11 +1,11 @@
 10
-data.cn.txt 2
-data.zabx.txt 1
-data.zajr.txt 1
-data.zayd.txt 3
-data.zbhe.txt 1
-data.zccu.txt 1
-data.zcko.txt 1
-data.zcni.txt 1
-data.zcnn.txt 1
-data.zdlo.txt 1
+data.cn.txt 4.365949390112154
+data.zabx.txt 2.7546073728089153
+data.zajr.txt 2.7546073728089153
+data.zayd.txt 5.509214745617831
+data.zbhe.txt 2.7546073728089153
+data.zccu.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zcnn.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153

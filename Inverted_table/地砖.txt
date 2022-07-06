@@ -1,11 +1,11 @@
 10
-data.xe.txt 1
-data.zaet.txt 4
-data.zawc.txt 2
-data.zazn.txt 1
-data.zcvq.txt 1
-data.zedo.txt 1
-data.zedy.txt 2
-data.zerh.txt 2
-data.zeyy.txt 1
-data.zfaj.txt 1
+data.xe.txt 2.7546073728089153
+data.zaet.txt 6.396000249308887
+data.zawc.txt 4.365949390112154
+data.zazn.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zedy.txt 4.365949390112154
+data.zerh.txt 4.365949390112154
+data.zeyy.txt 2.7546073728089153
+data.zfaj.txt 2.7546073728089153

@@ -1,11 +1,11 @@
 10
-data.mt.txt 1
-data.mx.txt 1
-data.zaim.txt 1
-data.zajo.txt 1
-data.zbux.txt 1
-data.zbyb.txt 1
-data.zcbe.txt 1
-data.zchw.txt 1
-data.zcko.txt 1
-data.zcxr.txt 1
+data.mt.txt 2.7546073728089153
+data.mx.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zbux.txt 2.7546073728089153
+data.zbyb.txt 2.7546073728089153
+data.zcbe.txt 2.7546073728089153
+data.zchw.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153

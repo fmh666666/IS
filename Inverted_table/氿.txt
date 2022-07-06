@@ -1,4 +1,4 @@
 3
-data.zasd.txt 2
-data.zcrv.txt 4
-data.zdqq.txt 3
+data.zasd.txt 5.688648708166832
+data.zcrv.txt 8.333719726130651
+data.zdqq.txt 7.1782754551965775

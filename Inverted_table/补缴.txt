@@ -1,9 +1,9 @@
 8
-data.zarr.txt 4
-data.zauy.txt 1
-data.zbcj.txt 1
-data.zbfr.txt 1
-data.zciy.txt 2
-data.zctp.txt 1
-data.zdaw.txt 2
-data.zfai.txt 1
+data.zarr.txt 6.7551359407091605
+data.zauy.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbfr.txt 2.9092786962624935
+data.zciy.txt 4.611097637722987
+data.zctp.txt 2.9092786962624935
+data.zdaw.txt 4.611097637722987
+data.zfai.txt 2.9092786962624935

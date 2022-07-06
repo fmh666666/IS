@@ -1,7 +1,7 @@
 6
-data.zamr.txt 1
-data.zbsu.txt 2
-data.zbts.txt 1
-data.zdux.txt 1
-data.zdwz.txt 1
-data.zebc.txt 1
+data.zamr.txt 3.1086847136800873
+data.zbsu.txt 4.927148697748023
+data.zbts.txt 3.1086847136800873
+data.zdux.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873

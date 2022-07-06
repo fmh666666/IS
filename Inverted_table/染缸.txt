@@ -1,11 +1,11 @@
 10
-data.fz.txt 2
-data.zabe.txt 2
-data.zanh.txt 1
-data.zbkv.txt 2
-data.zbla.txt 4
-data.zbnx.txt 1
-data.zcby.txt 1
-data.zcse.txt 1
-data.zdtr.txt 2
-data.zeay.txt 2
+data.fz.txt 4.365949390112154
+data.zabe.txt 4.365949390112154
+data.zanh.txt 2.7546073728089153
+data.zbkv.txt 4.365949390112154
+data.zbla.txt 6.396000249308887
+data.zbnx.txt 2.7546073728089153
+data.zcby.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zdtr.txt 4.365949390112154
+data.zeay.txt 4.365949390112154

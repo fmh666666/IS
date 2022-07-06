@@ -1,9 +1,9 @@
 8
-data.zabx.txt 1
-data.zawu.txt 1
-data.zdqk.txt 1
-data.zedk.txt 3
-data.zefd.txt 1
-data.zehp.txt 1
-data.zekw.txt 1
-data.zezn.txt 1
+data.zabx.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zdqk.txt 2.9092786962624935
+data.zedk.txt 5.818557392524987
+data.zefd.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935
+data.zezn.txt 2.9092786962624935

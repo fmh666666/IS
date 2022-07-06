@@ -1,4 +1,4 @@
 3
-data.zcmy.txt 1
-data.zdnh.txt 1
-data.zegz.txt 2
+data.zcmy.txt 3.5891377275982888
+data.zdnh.txt 3.5891377275982888
+data.zegz.txt 5.688648708166832

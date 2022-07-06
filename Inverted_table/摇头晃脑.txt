@@ -1,6 +1,6 @@
 5
-data.zaqr.txt 2
-data.zbwa.txt 1
-data.zcee.txt 2
-data.zcxh.txt 1
-data.zdle.txt 1
+data.zaqr.txt 5.1274494005309625
+data.zbwa.txt 3.235060386727117
+data.zcee.txt 5.1274494005309625
+data.zcxh.txt 3.235060386727117
+data.zdle.txt 3.235060386727117

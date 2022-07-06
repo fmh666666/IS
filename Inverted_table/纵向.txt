@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.xe.txt 1
-data.zabe.txt 2
-data.zbaf.txt 1
-data.zbmt.txt 2
-data.zctp.txt 1
-data.zcue.txt 1
-data.zcvq.txt 1
-data.zdtv.txt 1
-data.zdxw.txt 1
-data.zfaj.txt 2
+data.gw.txt 2.6885433903988862
+data.xe.txt 2.6885433903988862
+data.zabe.txt 4.261240455343955
+data.zbaf.txt 2.6885433903988862
+data.zbmt.txt 4.261240455343955
+data.zctp.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zcvq.txt 2.6885433903988862
+data.zdtv.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862
+data.zfaj.txt 4.261240455343955

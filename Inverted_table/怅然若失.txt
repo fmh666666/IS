@@ -1,10 +1,10 @@
 9
-data.qn.txt 1
-data.zalm.txt 1
-data.zazw.txt 1
-data.zbgu.txt 1
-data.zcdv.txt 1
-data.zclm.txt 1
-data.zdkc.txt 1
-data.zdod.txt 1
-data.zeoh.txt 1
+data.qn.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zclm.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

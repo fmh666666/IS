@@ -1,13 +1,13 @@
 12
-data.fj.txt 1
-data.zalj.txt 1
-data.zarc.txt 1
-data.zbht.txt 1
-data.zccx.txt 1
-data.zcjo.txt 1
-data.zcpa.txt 1
-data.zdds.txt 1
-data.zdod.txt 1
-data.zdpz.txt 1
-data.zefp.txt 1
-data.zezy.txt 1
+data.fj.txt 2.628231699761886
+data.zalj.txt 2.628231699761886
+data.zarc.txt 2.628231699761886
+data.zbht.txt 2.628231699761886
+data.zccx.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zcpa.txt 2.628231699761886
+data.zdds.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdpz.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

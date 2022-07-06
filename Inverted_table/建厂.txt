@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.yx.txt 1
-data.zafy.txt 1
-data.zaoy.txt 1
-data.zazn.txt 4
-data.zfaz.txt 1
+data.op.txt 3.1086847136800873
+data.yx.txt 3.1086847136800873
+data.zafy.txt 3.1086847136800873
+data.zaoy.txt 3.1086847136800873
+data.zazn.txt 7.21814237484067
+data.zfaz.txt 3.1086847136800873

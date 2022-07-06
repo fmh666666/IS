@@ -1,9 +1,9 @@
 8
-data.gz.txt 1
-data.mu.txt 1
-data.zail.txt 1
-data.zbfg.txt 1
-data.zcef.txt 2
-data.zcwq.txt 1
-data.zdlw.txt 1
-data.zdxw.txt 1
+data.gz.txt 2.9092786962624935
+data.mu.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zbfg.txt 2.9092786962624935
+data.zcef.txt 4.611097637722987
+data.zcwq.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935

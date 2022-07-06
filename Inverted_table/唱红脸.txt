@@ -1,4 +1,4 @@
 3
-data.ft.txt 1
-data.zcmx.txt 1
-data.zevq.txt 1
+data.ft.txt 3.5891377275982888
+data.zcmx.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

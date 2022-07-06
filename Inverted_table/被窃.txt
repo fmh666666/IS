@@ -1,6 +1,6 @@
 5
-data.mx.txt 1
-data.zckd.txt 1
-data.zene.txt 1
-data.zfai.txt 1
-data.zfbr.txt 1
+data.mx.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zfai.txt 3.235060386727117
+data.zfbr.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.hc.txt 1
-data.pa.txt 1
-data.zbht.txt 1
-data.zciq.txt 1
-data.zdkv.txt 1
-data.zdzn.txt 1
-data.zewd.txt 1
-data.zfae.txt 1
+data.hc.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zbht.txt 2.9092786962624935
+data.zciq.txt 2.9092786962624935
+data.zdkv.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zewd.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

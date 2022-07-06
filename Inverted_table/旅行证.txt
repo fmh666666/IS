@@ -1,6 +1,6 @@
 5
-data.vm.txt 6
-data.zdds.txt 4
-data.zdgp.txt 1
-data.zehj.txt 1
-data.zenn.txt 1
+data.vm.txt 9.081962699831948
+data.zdds.txt 7.511577600598868
+data.zdgp.txt 3.235060386727117
+data.zehj.txt 3.235060386727117
+data.zenn.txt 3.235060386727117

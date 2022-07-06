@@ -1,12 +1,12 @@
 11
-data.ee.txt 14
-data.en.txt 1
-data.mo.txt 1
-data.zbhv.txt 3
-data.zcft.txt 1
-data.zcpb.txt 1
-data.zcyv.txt 12
-data.zcyx.txt 23
-data.zdxw.txt 1
-data.zeob.txt 1
-data.zerv.txt 1
+data.ee.txt 10.503844887834852
+data.en.txt 2.6885433903988862
+data.mo.txt 2.6885433903988862
+data.zbhv.txt 5.3770867807977725
+data.zcft.txt 2.6885433903988862
+data.zcpb.txt 2.6885433903988862
+data.zcyv.txt 9.948792745777752
+data.zcyx.txt 12.326870626540614
+data.zdxw.txt 2.6885433903988862
+data.zeob.txt 2.6885433903988862
+data.zerv.txt 2.6885433903988862

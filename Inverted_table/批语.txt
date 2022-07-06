@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.bf.txt 2
-data.zagb.txt 1
-data.zall.txt 1
-data.zazn.txt 4
-data.zddm.txt 1
-data.zdsh.txt 5
-data.zdwl.txt 1
+data.be.txt 2.9092786962624935
+data.bf.txt 4.611097637722987
+data.zagb.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zazn.txt 6.7551359407091605
+data.zddm.txt 2.9092786962624935
+data.zdsh.txt 7.52037633398548
+data.zdwl.txt 2.9092786962624935

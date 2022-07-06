@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.zbaq.txt 2
-data.zcpb.txt 1
-data.zddb.txt 1
-data.zfas.txt 1
+data.ek.txt 3.235060386727117
+data.zbaq.txt 5.1274494005309625
+data.zcpb.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

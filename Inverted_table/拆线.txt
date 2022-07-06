@@ -1,10 +1,10 @@
 9
-data.mk.txt 1
-data.sq.txt 1
-data.ye.txt 1
-data.zako.txt 1
-data.zawb.txt 1
-data.zbbt.txt 4
-data.zciy.txt 2
-data.zcqg.txt 3
-data.zeid.txt 1
+data.mk.txt 2.82763771717948
+data.sq.txt 2.82763771717948
+data.ye.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbbt.txt 6.565571457682201
+data.zciy.txt 4.48169974735425
+data.zcqg.txt 5.65527543435896
+data.zeid.txt 2.82763771717948

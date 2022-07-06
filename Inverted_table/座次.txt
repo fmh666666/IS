@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.fp.txt 1
-data.ka.txt 1
-data.nh.txt 1
-data.zblq.txt 1
-data.zbsf.txt 1
-data.zdaq.txt 1
-data.zeoo.txt 1
+data.cf.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.ka.txt 2.9092786962624935
+data.nh.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zdaq.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935

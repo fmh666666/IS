@@ -1,12 +1,12 @@
 11
-data.mx.txt 1
-data.zafk.txt 1
-data.zafu.txt 2
-data.zaim.txt 2
-data.zbdb.txt 1
-data.zcqg.txt 1
-data.zcxp.txt 1
-data.zdkp.txt 1
-data.zdof.txt 1
-data.zenn.txt 1
-data.zeqn.txt 2
+data.mx.txt 2.6885433903988862
+data.zafk.txt 2.6885433903988862
+data.zafu.txt 4.261240455343955
+data.zaim.txt 4.261240455343955
+data.zbdb.txt 2.6885433903988862
+data.zcqg.txt 2.6885433903988862
+data.zcxp.txt 2.6885433903988862
+data.zdkp.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zenn.txt 2.6885433903988862
+data.zeqn.txt 4.261240455343955

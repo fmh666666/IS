@@ -1,8 +1,8 @@
 7
-data.yx.txt 2
-data.zbkv.txt 3
-data.zbwa.txt 1
-data.zcak.txt 1
-data.zcdg.txt 1
-data.zdmw.txt 2
-data.zebf.txt 1
+data.yx.txt 4.757796866583254
+data.zbkv.txt 6.003671209152849
+data.zbwa.txt 3.0018356045764243
+data.zcak.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zdmw.txt 4.757796866583254
+data.zebf.txt 3.0018356045764243

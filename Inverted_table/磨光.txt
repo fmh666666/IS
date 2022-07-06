@@ -1,10 +1,10 @@
 9
-data.qb.txt 1
-data.zafi.txt 1
-data.zalj.txt 1
-data.zbhd.txt 1
-data.zbnx.txt 1
-data.zbux.txt 2
-data.zctp.txt 2
-data.zdpf.txt 1
-data.zdzi.txt 2
+data.qb.txt 2.82763771717948
+data.zafi.txt 2.82763771717948
+data.zalj.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbux.txt 4.48169974735425
+data.zctp.txt 4.48169974735425
+data.zdpf.txt 2.82763771717948
+data.zdzi.txt 4.48169974735425

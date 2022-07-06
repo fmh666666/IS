@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.mi.txt 1
-data.zaqr.txt 1
-data.zbds.txt 1
-data.zcdy.txt 1
-data.zcjd.txt 2
-data.zcku.txt 1
-data.zdtr.txt 1
-data.zedo.txt 1
-data.zenn.txt 1
-data.zeqv.txt 1
+data.aj.txt 2.6885433903988862
+data.mi.txt 2.6885433903988862
+data.zaqr.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcjd.txt 4.261240455343955
+data.zcku.txt 2.6885433903988862
+data.zdtr.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zenn.txt 2.6885433903988862
+data.zeqv.txt 2.6885433903988862

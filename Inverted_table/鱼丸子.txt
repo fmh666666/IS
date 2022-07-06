@@ -1,4 +1,4 @@
 3
-data.zaip.txt 1
-data.zezm.txt 17
-data.zezn.txt 5
+data.zaip.txt 3.5891377275982888
+data.zezm.txt 14.966435143931951
+data.zezn.txt 9.27778643576512

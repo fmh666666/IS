@@ -1,11 +1,11 @@
 10
-data.fp.txt 2
-data.ga.txt 1
-data.zbhe.txt 1
-data.zcih.txt 1
-data.zcse.txt 1
-data.zddl.txt 1
-data.zdkv.txt 1
-data.zdoc.txt 1
-data.zexv.txt 2
-data.zezn.txt 1
+data.fp.txt 4.365949390112154
+data.ga.txt 2.7546073728089153
+data.zbhe.txt 2.7546073728089153
+data.zcih.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zddl.txt 2.7546073728089153
+data.zdkv.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zexv.txt 4.365949390112154
+data.zezn.txt 2.7546073728089153

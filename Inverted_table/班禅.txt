@@ -1,3 +1,3 @@
 2
-data.jf.txt 2
-data.zawu.txt 4
+data.jf.txt 6.134097658560606
+data.zawu.txt 8.986290643289122

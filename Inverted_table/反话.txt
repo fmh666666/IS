@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zbdb.txt 1
-data.zbre.txt 2
-data.zbzf.txt 1
-data.zdga.txt 2
+data.zabe.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbre.txt 5.1274494005309625
+data.zbzf.txt 3.235060386727117
+data.zdga.txt 5.1274494005309625

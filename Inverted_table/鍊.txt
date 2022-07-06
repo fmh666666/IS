@@ -1,10 +1,10 @@
 9
-data.mo.txt 1
-data.qb.txt 1
-data.zalt.txt 1
-data.zbfz.txt 1
-data.zbvf.txt 1
-data.zcmx.txt 1
-data.zcqp.txt 1
-data.zefu.txt 1
-data.zefv.txt 1
+data.mo.txt 2.82763771717948
+data.qb.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbvf.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcqp.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zefv.txt 2.82763771717948

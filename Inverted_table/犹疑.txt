@@ -1,9 +1,9 @@
 8
-data.qn.txt 1
-data.zbvg.txt 2
-data.zbvm.txt 1
-data.zcrk.txt 1
-data.zeay.txt 1
-data.zedd.txt 1
-data.zedk.txt 1
-data.zfaj.txt 1
+data.qn.txt 2.9092786962624935
+data.zbvg.txt 4.611097637722987
+data.zbvm.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

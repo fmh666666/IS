@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.ga.txt 2
-data.hp.txt 1
-data.zabe.txt 2
-data.zcgi.txt 1
-data.zcis.txt 1
-data.zclm.txt 1
-data.zcue.txt 1
-data.zczj.txt 1
-data.zczp.txt 1
+data.fp.txt 2.7546073728089153
+data.ga.txt 4.365949390112154
+data.hp.txt 2.7546073728089153
+data.zabe.txt 4.365949390112154
+data.zcgi.txt 2.7546073728089153
+data.zcis.txt 2.7546073728089153
+data.zclm.txt 2.7546073728089153
+data.zcue.txt 2.7546073728089153
+data.zczj.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153

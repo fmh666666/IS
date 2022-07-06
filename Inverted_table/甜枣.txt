@@ -1,4 +1,4 @@
 3
-data.nh.txt 2
-data.zdvl.txt 1
-data.zfas.txt 1
+data.nh.txt 5.688648708166832
+data.zdvl.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

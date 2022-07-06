@@ -1,14 +1,14 @@
 13
-data.bb.txt 1
-data.ff.txt 2
-data.gw.txt 4
-data.ka.txt 1
-data.zbcj.txt 1
-data.zbeb.txt 2
-data.zbhd.txt 1
-data.zbjh.txt 1
-data.zctp.txt 1
-data.zdsh.txt 1
-data.zeec.txt 2
-data.zefp.txt 2
-data.zerw.txt 1
+data.bb.txt 2.5727503226135906
+data.ff.txt 4.077712785060798
+data.gw.txt 5.97374125520702
+data.ka.txt 2.5727503226135906
+data.zbcj.txt 2.5727503226135906
+data.zbeb.txt 4.077712785060798
+data.zbhd.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zdsh.txt 2.5727503226135906
+data.zeec.txt 4.077712785060798
+data.zefp.txt 4.077712785060798
+data.zerw.txt 2.5727503226135906

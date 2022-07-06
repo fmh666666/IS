@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.kt.txt 1
-data.zaxp.txt 1
-data.zbor.txt 1
-data.zddp.txt 1
+data.fp.txt 3.235060386727117
+data.kt.txt 3.235060386727117
+data.zaxp.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zddp.txt 3.235060386727117

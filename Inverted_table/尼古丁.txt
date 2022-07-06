@@ -1,12 +1,12 @@
 11
-data.mu.txt 1
-data.zaip.txt 1
-data.zcqs.txt 2
-data.zcrk.txt 1
-data.zdll.txt 1
-data.zdwn.txt 1
-data.zdzn.txt 1
-data.zeai.txt 2
-data.zeaj.txt 3
-data.zeos.txt 1
-data.zfcg.txt 1
+data.mu.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zcqs.txt 4.261240455343955
+data.zcrk.txt 2.6885433903988862
+data.zdll.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zdzn.txt 2.6885433903988862
+data.zeai.txt 4.261240455343955
+data.zeaj.txt 5.3770867807977725
+data.zeos.txt 2.6885433903988862
+data.zfcg.txt 2.6885433903988862

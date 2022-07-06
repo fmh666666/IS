@@ -1,12 +1,12 @@
 11
-data.en.txt 2
-data.ff.txt 2
-data.zavg.txt 1
-data.zaxp.txt 1
-data.zblr.txt 1
-data.zcqs.txt 1
-data.zdlo.txt 1
-data.zdwz.txt 1
-data.zeaj.txt 1
-data.zewn.txt 2
-data.zfcj.txt 1
+data.en.txt 4.261240455343955
+data.ff.txt 4.261240455343955
+data.zavg.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zeaj.txt 2.6885433903988862
+data.zewn.txt 4.261240455343955
+data.zfcj.txt 2.6885433903988862

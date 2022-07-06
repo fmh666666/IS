@@ -1,13 +1,13 @@
 12
-data.zafk.txt 1
-data.zajh.txt 1
-data.zalt.txt 11
-data.zate.txt 1
-data.zavg.txt 1
-data.zbqu.txt 7
-data.zccu.txt 1
-data.zcgi.txt 1
-data.zddx.txt 1
-data.zdgt.txt 4
-data.zdof.txt 1
-data.zdrq.txt 1
+data.zafk.txt 2.628231699761886
+data.zajh.txt 2.628231699761886
+data.zalt.txt 9.422112086852987
+data.zate.txt 2.628231699761886
+data.zavg.txt 2.628231699761886
+data.zbqu.txt 7.884695099285658
+data.zccu.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdgt.txt 6.1025650235506905
+data.zdof.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886

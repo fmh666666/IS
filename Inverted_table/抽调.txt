@@ -1,12 +1,12 @@
 11
-data.hg.txt 1
-data.hz.txt 1
-data.zako.txt 1
-data.zbpx.txt 1
-data.zcem.txt 1
-data.zcse.txt 1
-data.zdcj.txt 1
-data.zeec.txt 2
-data.zene.txt 1
-data.zevt.txt 1
-data.zfaj.txt 1
+data.hg.txt 2.6885433903988862
+data.hz.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdcj.txt 2.6885433903988862
+data.zeec.txt 4.261240455343955
+data.zene.txt 2.6885433903988862
+data.zevt.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

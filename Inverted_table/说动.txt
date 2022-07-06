@@ -1,10 +1,10 @@
 9
-data.to.txt 1
-data.tv.txt 1
-data.zafq.txt 1
-data.zbzg.txt 1
-data.zcfn.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 1
-data.zdwl.txt 1
-data.zfas.txt 1
+data.to.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zbzg.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

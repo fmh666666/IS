@@ -1,6 +1,6 @@
 5
-data.vz.txt 1
-data.zabx.txt 1
-data.zalt.txt 1
-data.zcaq.txt 1
-data.zerh.txt 1
+data.vz.txt 3.235060386727117
+data.zabx.txt 3.235060386727117
+data.zalt.txt 3.235060386727117
+data.zcaq.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

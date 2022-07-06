@@ -1,10 +1,10 @@
 9
-data.zavx.txt 1
-data.zbdb.txt 2
-data.zbhd.txt 1
-data.zbkj.txt 1
-data.zblq.txt 1
-data.zblr.txt 1
-data.zccu.txt 1
-data.zdou.txt 1
-data.zexm.txt 1
+data.zavx.txt 2.82763771717948
+data.zbdb.txt 4.48169974735425
+data.zbhd.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zblr.txt 2.82763771717948
+data.zccu.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zexm.txt 2.82763771717948

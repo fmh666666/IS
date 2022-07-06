@@ -1,5 +1,5 @@
 4
-data.zarr.txt 1
-data.zefu.txt 1
-data.zelj.txt 1
-data.zelt.txt 2
+data.zarr.txt 3.389731710180695
+data.zefu.txt 3.389731710180695
+data.zelj.txt 3.389731710180695
+data.zelt.txt 5.372597648141796

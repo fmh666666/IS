@@ -1,4 +1,4 @@
 3
-data.ev.txt 1
-data.zbph.txt 1
-data.zejk.txt 1
+data.ev.txt 3.5891377275982888
+data.zbph.txt 3.5891377275982888
+data.zejk.txt 3.5891377275982888

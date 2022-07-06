@@ -1,7 +1,7 @@
 6
-data.fz.txt 1
-data.jj.txt 1
-data.xe.txt 1
-data.zacp.txt 1
-data.zcrv.txt 1
-data.zdlo.txt 1
+data.fz.txt 3.1086847136800873
+data.jj.txt 3.1086847136800873
+data.xe.txt 3.1086847136800873
+data.zacp.txt 3.1086847136800873
+data.zcrv.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873

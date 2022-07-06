@@ -1,7 +1,7 @@
 6
-data.zcpx.txt 1
-data.zczj.txt 1
-data.zeds.txt 1
-data.zegk.txt 1
-data.zevq.txt 1
-data.zfai.txt 1
+data.zcpx.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873
+data.zegk.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

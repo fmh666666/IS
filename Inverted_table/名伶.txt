@@ -1,7 +1,7 @@
 6
-data.zalt.txt 2
-data.zanm.txt 1
-data.zaxk.txt 2
-data.zbdb.txt 1
-data.zcmy.txt 3
-data.zeqn.txt 1
+data.zalt.txt 4.927148697748023
+data.zanm.txt 3.1086847136800873
+data.zaxk.txt 4.927148697748023
+data.zbdb.txt 3.1086847136800873
+data.zcmy.txt 6.2173694273601745
+data.zeqn.txt 3.1086847136800873

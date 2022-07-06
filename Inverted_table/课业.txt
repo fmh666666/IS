@@ -1,7 +1,7 @@
 6
-data.sq.txt 1
-data.xe.txt 1
-data.zafu.txt 1
-data.zbkj.txt 1
-data.zczb.txt 1
-data.zedy.txt 1
+data.sq.txt 3.1086847136800873
+data.xe.txt 3.1086847136800873
+data.zafu.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873

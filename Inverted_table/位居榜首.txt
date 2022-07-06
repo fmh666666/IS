@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.vz.txt 1
-data.zbel.txt 1
-data.zbkr.txt 1
-data.zbmt.txt 1
-data.zbrj.txt 1
-data.zcse.txt 1
-data.zene.txt 1
+data.kq.txt 2.9092786962624935
+data.vz.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zbmt.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

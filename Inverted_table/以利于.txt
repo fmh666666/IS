@@ -1,6 +1,6 @@
 5
-data.ee.txt 1
-data.zctp.txt 1
-data.zeoo.txt 1
-data.zeyg.txt 1
-data.zezh.txt 1
+data.ee.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

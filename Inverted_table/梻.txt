@@ -1,2 +1,2 @@
 1
-data.zcdg.txt 4
+data.zcdg.txt 10.101867994579104

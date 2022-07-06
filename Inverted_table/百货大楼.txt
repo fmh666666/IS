@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.zakb.txt 2
-data.zeel.txt 1
-data.zfae.txt 1
-data.zfas.txt 1
+data.kq.txt 3.235060386727117
+data.zakb.txt 5.1274494005309625
+data.zeel.txt 3.235060386727117
+data.zfae.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

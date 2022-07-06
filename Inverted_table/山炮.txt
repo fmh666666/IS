@@ -1,13 +1,13 @@
 12
-data.ep.txt 3
-data.wc.txt 1
-data.zarr.txt 1
-data.zazx.txt 2
-data.zbor.txt 2
-data.zcli.txt 1
-data.zdcy.txt 6
-data.zdhv.txt 1
-data.zdof.txt 1
-data.zdqq.txt 1
-data.zedd.txt 1
-data.zerv.txt 1
+data.ep.txt 5.256463399523772
+data.wc.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zazx.txt 4.165648687329214
+data.zbor.txt 4.165648687329214
+data.zcli.txt 2.628231699761886
+data.zdcy.txt 7.378379198634354
+data.zdhv.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdqq.txt 2.628231699761886
+data.zedd.txt 2.628231699761886
+data.zerv.txt 2.628231699761886

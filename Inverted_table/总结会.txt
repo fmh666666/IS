@@ -1,7 +1,7 @@
 6
-data.zanh.txt 1
-data.zawb.txt 1
-data.zbhd.txt 1
-data.zbse.txt 1
-data.zcdg.txt 1
-data.zefv.txt 1
+data.zanh.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zbse.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.wc.txt 4
-data.zdeb.txt 2
-data.zewd.txt 2
-data.zfcj.txt 1
+data.wc.txt 7.870713291999142
+data.zdeb.txt 5.372597648141796
+data.zewd.txt 5.372597648141796
+data.zfcj.txt 3.389731710180695

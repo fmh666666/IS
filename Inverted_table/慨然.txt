@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zarc.txt 1
-data.zbgu.txt 2
-data.zclh.txt 1
-data.zeoh.txt 1
+data.zahd.txt 3.235060386727117
+data.zarc.txt 3.235060386727117
+data.zbgu.txt 5.1274494005309625
+data.zclh.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

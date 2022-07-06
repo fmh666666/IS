@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.mx.txt 1
-data.zall.txt 1
-data.zelj.txt 1
-data.zexk.txt 1
+data.mt.txt 3.235060386727117
+data.mx.txt 3.235060386727117
+data.zall.txt 3.235060386727117
+data.zelj.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

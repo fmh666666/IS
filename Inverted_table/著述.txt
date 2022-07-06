@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zaqf.txt 1
-data.zbrj.txt 1
-data.zdlw.txt 1
-data.zeoh.txt 1
+data.ga.txt 3.235060386727117
+data.zaqf.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

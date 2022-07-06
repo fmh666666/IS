@@ -1,3 +1,3 @@
 2
-data.zakb.txt 1
-data.zazg.txt 1
+data.zakb.txt 3.8701847240988965
+data.zazg.txt 3.8701847240988965

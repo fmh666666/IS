@@ -1,6 +1,6 @@
 5
-data.to.txt 3
-data.zbkv.txt 2
-data.zbzf.txt 1
-data.zclm.txt 2
-data.zddb.txt 1
+data.to.txt 6.470120773454234
+data.zbkv.txt 5.1274494005309625
+data.zbzf.txt 3.235060386727117
+data.zclm.txt 5.1274494005309625
+data.zddb.txt 3.235060386727117

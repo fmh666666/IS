@@ -1,12 +1,12 @@
 11
-data.zafe.txt 1
-data.zagr.txt 1
-data.zazg.txt 1
-data.zbha.txt 1
-data.zbor.txt 1
-data.zbvg.txt 1
-data.zcfx.txt 1
-data.zcrv.txt 1
-data.zctm.txt 1
-data.zdgv.txt 1
-data.zecf.txt 1
+data.zafe.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zazg.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zbvg.txt 2.6885433903988862
+data.zcfx.txt 2.6885433903988862
+data.zcrv.txt 2.6885433903988862
+data.zctm.txt 2.6885433903988862
+data.zdgv.txt 2.6885433903988862
+data.zecf.txt 2.6885433903988862

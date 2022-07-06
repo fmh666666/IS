@@ -1,7 +1,7 @@
 6
-data.op.txt 2
-data.zcsu.txt 2
-data.zcts.txt 2
-data.zcxp.txt 1
-data.zdcw.txt 2
-data.zeos.txt 1
+data.op.txt 4.927148697748023
+data.zcsu.txt 4.927148697748023
+data.zcts.txt 4.927148697748023
+data.zcxp.txt 3.1086847136800873
+data.zdcw.txt 4.927148697748023
+data.zeos.txt 3.1086847136800873

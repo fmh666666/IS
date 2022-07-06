@@ -1,13 +1,13 @@
 12
-data.hp.txt 1
-data.qb.txt 1
-data.xk.txt 1
-data.zahd.txt 2
-data.zaic.txt 5
-data.zaim.txt 2
-data.zawo.txt 4
-data.zbsm.txt 1
-data.zccu.txt 3
-data.zcue.txt 1
-data.zdof.txt 6
-data.zfcj.txt 1
+data.hp.txt 2.628231699761886
+data.qb.txt 2.628231699761886
+data.xk.txt 2.628231699761886
+data.zahd.txt 4.165648687329214
+data.zaic.txt 6.7938803870911
+data.zaim.txt 4.165648687329214
+data.zawo.txt 6.1025650235506905
+data.zbsm.txt 2.628231699761886
+data.zccu.txt 5.256463399523772
+data.zcue.txt 2.628231699761886
+data.zdof.txt 7.378379198634354
+data.zfcj.txt 2.628231699761886

@@ -1,8 +1,8 @@
 7
-data.zblh.txt 1
-data.zbsu.txt 1
-data.zcbm.txt 1
-data.zcej.txt 1
-data.zdkp.txt 1
-data.zeam.txt 1
-data.zeyu.txt 1
+data.zblh.txt 3.0018356045764243
+data.zbsu.txt 3.0018356045764243
+data.zcbm.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zdkp.txt 3.0018356045764243
+data.zeam.txt 3.0018356045764243
+data.zeyu.txt 3.0018356045764243

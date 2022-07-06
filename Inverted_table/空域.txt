@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.zaqr.txt 1
-data.zbhd.txt 1
-data.zcon.txt 2
-data.zfcg.txt 1
+data.ha.txt 3.235060386727117
+data.zaqr.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zcon.txt 5.1274494005309625
+data.zfcg.txt 3.235060386727117

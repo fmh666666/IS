@@ -1,11 +1,11 @@
 10
-data.zaeh.txt 1
-data.zajo.txt 1
-data.zard.txt 1
-data.zcdv.txt 1
-data.zcmx.txt 1
-data.zcts.txt 1
-data.zcxq.txt 1
-data.zdgt.txt 3
-data.zeam.txt 1
-data.zedy.txt 1
+data.zaeh.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zard.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcmx.txt 2.7546073728089153
+data.zcts.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zdgt.txt 5.509214745617831
+data.zeam.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153

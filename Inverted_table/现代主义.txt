@@ -1,7 +1,7 @@
 6
-data.zbrj.txt 1
-data.zcdg.txt 1
-data.zctp.txt 1
-data.zczp.txt 1
-data.zene.txt 1
-data.zerh.txt 1
+data.zbrj.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zerh.txt 3.1086847136800873

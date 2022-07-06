@@ -1,8 +1,8 @@
 7
-data.vz.txt 1
-data.zbhv.txt 1
-data.zbkf.txt 1
-data.zcao.txt 2
-data.zctm.txt 1
-data.zeaj.txt 2
-data.zety.txt 2
+data.vz.txt 3.0018356045764243
+data.zbhv.txt 3.0018356045764243
+data.zbkf.txt 3.0018356045764243
+data.zcao.txt 4.757796866583254
+data.zctm.txt 3.0018356045764243
+data.zeaj.txt 4.757796866583254
+data.zety.txt 4.757796866583254

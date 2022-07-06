@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.hz.txt 1
-data.zcls.txt 2
-data.zcrg.txt 2
-data.zehp.txt 2
-data.zexk.txt 1
+data.bs.txt 3.1086847136800873
+data.hz.txt 3.1086847136800873
+data.zcls.txt 4.927148697748023
+data.zcrg.txt 4.927148697748023
+data.zehp.txt 4.927148697748023
+data.zexk.txt 3.1086847136800873

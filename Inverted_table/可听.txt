@@ -1,8 +1,8 @@
 7
-data.zbrj.txt 2
-data.zcda.txt 1
-data.zcts.txt 1
-data.zdkc.txt 1
-data.zdof.txt 1
-data.zeai.txt 1
-data.zesq.txt 1
+data.zbrj.txt 4.757796866583254
+data.zcda.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zdkc.txt 3.0018356045764243
+data.zdof.txt 3.0018356045764243
+data.zeai.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243

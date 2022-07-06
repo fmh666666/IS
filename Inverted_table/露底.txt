@@ -1,5 +1,5 @@
 4
-data.zcue.txt 1
-data.zdlw.txt 1
-data.zduk.txt 2
-data.zefs.txt 1
+data.zcue.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695
+data.zduk.txt 5.372597648141796
+data.zefs.txt 3.389731710180695

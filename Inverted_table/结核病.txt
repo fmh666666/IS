@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.ok.txt 1
-data.zcqs.txt 1
-data.zctp.txt 1
-data.zeos.txt 1
+data.cq.txt 3.235060386727117
+data.ok.txt 3.235060386727117
+data.zcqs.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zeos.txt 3.235060386727117

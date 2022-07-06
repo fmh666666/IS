@@ -1,7 +1,7 @@
 6
-data.zbkj.txt 2
-data.zdod.txt 1
-data.zdou.txt 1
-data.zeoo.txt 1
-data.zfai.txt 1
-data.zfas.txt 1
+data.zbkj.txt 4.927148697748023
+data.zdod.txt 3.1086847136800873
+data.zdou.txt 3.1086847136800873
+data.zeoo.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873
+data.zfas.txt 3.1086847136800873

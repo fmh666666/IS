@@ -1,8 +1,8 @@
 7
-data.bs.txt 4
-data.cq.txt 1
-data.pn.txt 3
-data.zafv.txt 1
-data.zbse.txt 1
-data.zcgi.txt 1
-data.zcue.txt 4
+data.bs.txt 6.970046426499191
+data.cq.txt 3.0018356045764243
+data.pn.txt 6.003671209152849
+data.zafv.txt 3.0018356045764243
+data.zbse.txt 3.0018356045764243
+data.zcgi.txt 3.0018356045764243
+data.zcue.txt 6.970046426499191

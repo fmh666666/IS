@@ -1,10 +1,10 @@
 9
-data.zafk.txt 1
-data.zair.txt 1
-data.zauy.txt 1
-data.zbfr.txt 4
-data.zbkv.txt 1
-data.zccu.txt 38
-data.zcih.txt 1
-data.zcts.txt 1
-data.zehp.txt 7
+data.zafk.txt 2.82763771717948
+data.zair.txt 2.82763771717948
+data.zauy.txt 2.82763771717948
+data.zbfr.txt 6.565571457682201
+data.zbkv.txt 2.82763771717948
+data.zccu.txt 14.945202664519007
+data.zcih.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zehp.txt 8.48291315153844

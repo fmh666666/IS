@@ -1,5 +1,5 @@
 4
-data.kt.txt 1
-data.zbds.txt 1
-data.zcdy.txt 1
-data.zcpx.txt 1
+data.kt.txt 3.389731710180695
+data.zbds.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zcpx.txt 3.389731710180695

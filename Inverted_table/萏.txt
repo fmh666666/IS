@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zadv.txt 1
-data.zcdv.txt 1
-data.zeeh.txt 1
-data.zelt.txt 1
+data.bb.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

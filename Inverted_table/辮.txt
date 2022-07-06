@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.vm.txt 1
-data.zate.txt 1
-data.zbsu.txt 1
-data.zbzg.txt 2
+data.cf.txt 3.235060386727117
+data.vm.txt 3.235060386727117
+data.zate.txt 3.235060386727117
+data.zbsu.txt 3.235060386727117
+data.zbzg.txt 5.1274494005309625

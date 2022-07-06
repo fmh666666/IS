@@ -1,14 +1,14 @@
 13
-data.by.txt 3
-data.fj.txt 3
-data.hz.txt 1
-data.zbha.txt 1
-data.zcvi.txt 1
-data.zdbf.txt 1
-data.zdey.txt 1
-data.zdlw.txt 1
-data.zdpz.txt 1
-data.zedd.txt 1
-data.zeds.txt 2
-data.zeez.txt 1
-data.zeil.txt 1
+data.by.txt 5.145500645227181
+data.fj.txt 5.145500645227181
+data.hz.txt 2.5727503226135906
+data.zbha.txt 2.5727503226135906
+data.zcvi.txt 2.5727503226135906
+data.zdbf.txt 2.5727503226135906
+data.zdey.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zdpz.txt 2.5727503226135906
+data.zedd.txt 2.5727503226135906
+data.zeds.txt 4.077712785060798
+data.zeez.txt 2.5727503226135906
+data.zeil.txt 2.5727503226135906

@@ -1,10 +1,10 @@
 9
-data.mx.txt 1
-data.zagr.txt 2
-data.zazn.txt 2
-data.zbdx.txt 1
-data.zbwq.txt 1
-data.zcmn.txt 1
-data.zczl.txt 2
-data.zdzg.txt 1
-data.zeam.txt 1
+data.mx.txt 2.82763771717948
+data.zagr.txt 4.48169974735425
+data.zazn.txt 4.48169974735425
+data.zbdx.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948
+data.zczl.txt 4.48169974735425
+data.zdzg.txt 2.82763771717948
+data.zeam.txt 2.82763771717948

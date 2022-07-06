@@ -1,11 +1,11 @@
 10
-data.mt.txt 1
-data.zabe.txt 1
-data.zaim.txt 1
-data.zank.txt 1
-data.zbxy.txt 1
-data.zcpa.txt 1
-data.zcvq.txt 1
-data.zdpf.txt 1
-data.zevq.txt 1
-data.zfae.txt 1
+data.mt.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zank.txt 2.7546073728089153
+data.zbxy.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153

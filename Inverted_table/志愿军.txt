@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.hc.txt 2
-data.zawu.txt 1
-data.zblr.txt 1
-data.zbsm.txt 2
-data.zdkk.txt 2
-data.zerh.txt 1
-data.zfaj.txt 6
+data.ga.txt 2.9092786962624935
+data.hc.txt 4.611097637722987
+data.zawu.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zbsm.txt 4.611097637722987
+data.zdkk.txt 4.611097637722987
+data.zerh.txt 2.9092786962624935
+data.zfaj.txt 8.16737786758984

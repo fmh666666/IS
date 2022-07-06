@@ -1,10 +1,10 @@
 9
-data.fj.txt 1
-data.zagb.txt 1
-data.zalm.txt 1
-data.zbgu.txt 1
-data.zbnx.txt 1
-data.zbsl.txt 2
-data.zcfx.txt 1
-data.zeoh.txt 1
-data.zerv.txt 1
+data.fj.txt 2.82763771717948
+data.zagb.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbsl.txt 4.48169974735425
+data.zcfx.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zerv.txt 2.82763771717948

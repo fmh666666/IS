@@ -1,6 +1,6 @@
 5
-data.zafq.txt 1
-data.zawo.txt 1
-data.zbmt.txt 1
-data.zctp.txt 1
-data.zdga.txt 1
+data.zafq.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zdga.txt 3.235060386727117

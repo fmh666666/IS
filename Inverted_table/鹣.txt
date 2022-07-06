@@ -1,5 +1,5 @@
 4
-data.zawu.txt 2
-data.zckd.txt 1
-data.zedx.txt 2
-data.zevt.txt 1
+data.zawu.txt 5.372597648141796
+data.zckd.txt 3.389731710180695
+data.zedx.txt 5.372597648141796
+data.zevt.txt 3.389731710180695

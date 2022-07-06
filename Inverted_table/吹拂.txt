@@ -1,13 +1,13 @@
 12
-data.dg.txt 1
-data.mo.txt 1
-data.zafv.txt 2
-data.zaop.txt 1
-data.zaqp.txt 1
-data.zcee.txt 1
-data.zcem.txt 1
-data.zcve.txt 1
-data.zdgt.txt 1
-data.zdlg.txt 1
-data.zeeh.txt 1
-data.zevq.txt 1
+data.dg.txt 2.628231699761886
+data.mo.txt 2.628231699761886
+data.zafv.txt 4.165648687329214
+data.zaop.txt 2.628231699761886
+data.zaqp.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcem.txt 2.628231699761886
+data.zcve.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdlg.txt 2.628231699761886
+data.zeeh.txt 2.628231699761886
+data.zevq.txt 2.628231699761886

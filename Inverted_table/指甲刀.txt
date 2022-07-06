@@ -1,6 +1,6 @@
 5
-data.zane.txt 1
-data.zctp.txt 1
-data.zdzi.txt 1
-data.zedx.txt 1
-data.zefv.txt 1
+data.zane.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117
+data.zedx.txt 3.235060386727117
+data.zefv.txt 3.235060386727117

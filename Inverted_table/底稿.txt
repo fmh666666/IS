@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.ry.txt 2
-data.zacw.txt 1
-data.zcon.txt 1
-data.zebv.txt 10
+data.mt.txt 3.235060386727117
+data.ry.txt 5.1274494005309625
+data.zacw.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zebv.txt 11.191470190044793

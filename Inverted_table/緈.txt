@@ -1,12 +1,12 @@
 11
-data.hc.txt 38
-data.jj.txt 10
-data.mk.txt 1
-data.to.txt 1
-data.zawc.txt 1
-data.zbjk.txt 1
-data.zbpx.txt 1
-data.zbsl.txt 1
-data.zdlg.txt 1
-data.zebv.txt 1
-data.zevq.txt 1
+data.hc.txt 14.210033201121707
+data.jj.txt 9.300832012824227
+data.mk.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zbsl.txt 2.6885433903988862
+data.zdlg.txt 2.6885433903988862
+data.zebv.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862

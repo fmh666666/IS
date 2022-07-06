@@ -1,9 +1,9 @@
 8
-data.tz.txt 2
-data.uz.txt 1
-data.zcon.txt 1
-data.zdby.txt 1
-data.zdfl.txt 1
-data.zefp.txt 1
-data.zezm.txt 6
-data.zezn.txt 4
+data.tz.txt 4.611097637722987
+data.uz.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zdfl.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935
+data.zezm.txt 8.16737786758984
+data.zezn.txt 6.7551359407091605

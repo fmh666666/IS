@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zajo.txt 1
-data.zbaq.txt 1
-data.zcdz.txt 1
-data.zczl.txt 2
+data.qn.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zczl.txt 5.1274494005309625

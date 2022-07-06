@@ -1,11 +1,11 @@
 10
-data.ev.txt 2
-data.ew.txt 1
-data.jf.txt 2
-data.kq.txt 1
-data.zbil.txt 1
-data.zbof.txt 1
-data.zbvf.txt 1
-data.zcli.txt 4
-data.zeoo.txt 1
-data.zezm.txt 1
+data.ev.txt 4.365949390112154
+data.ew.txt 2.7546073728089153
+data.jf.txt 4.365949390112154
+data.kq.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zbof.txt 2.7546073728089153
+data.zbvf.txt 2.7546073728089153
+data.zcli.txt 6.396000249308887
+data.zeoo.txt 2.7546073728089153
+data.zezm.txt 2.7546073728089153

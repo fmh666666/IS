@@ -1,6 +1,6 @@
 5
-data.yx.txt 1
-data.zafl.txt 1
-data.zaxk.txt 1
-data.zbeb.txt 1
-data.zeid.txt 1
+data.yx.txt 3.235060386727117
+data.zafl.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

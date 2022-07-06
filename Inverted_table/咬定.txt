@@ -1,9 +1,9 @@
 8
-data.tv.txt 1
-data.tz.txt 1
-data.zbdb.txt 1
-data.zcel.txt 1
-data.zcni.txt 1
-data.zdkp.txt 1
-data.zeos.txt 1
-data.zfai.txt 1
+data.tv.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zeos.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

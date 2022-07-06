@@ -1,4 +1,4 @@
 3
-data.cz.txt 2
-data.zbjk.txt 2
-data.zdme.txt 1
+data.cz.txt 5.688648708166832
+data.zbjk.txt 5.688648708166832
+data.zdme.txt 3.5891377275982888

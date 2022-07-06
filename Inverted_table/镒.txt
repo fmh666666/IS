@@ -1,4 +1,4 @@
 3
-data.xk.txt 1
-data.zawz.txt 63
-data.zclh.txt 1
+data.xk.txt 3.5891377275982888
+data.zawz.txt 21.53482636558973
+data.zclh.txt 3.5891377275982888

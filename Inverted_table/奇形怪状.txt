@@ -1,12 +1,12 @@
 11
-data.to.txt 1
-data.zajr.txt 1
-data.zaxp.txt 1
-data.zbgu.txt 1
-data.zcgi.txt 1
-data.zcln.txt 1
-data.zedo.txt 1
-data.zeel.txt 1
-data.zefp.txt 1
-data.zeoh.txt 1
-data.zeqv.txt 1
+data.to.txt 2.6885433903988862
+data.zajr.txt 2.6885433903988862
+data.zaxp.txt 2.6885433903988862
+data.zbgu.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zcln.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zeel.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862
+data.zeqv.txt 2.6885433903988862

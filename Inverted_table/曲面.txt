@@ -1,10 +1,10 @@
 9
-data.zaim.txt 1
-data.zawu.txt 1
-data.zcaq.txt 2
-data.zcej.txt 1
-data.zcgi.txt 1
-data.zcqs.txt 1
-data.zdds.txt 1
-data.zeob.txt 2
-data.zevl.txt 2
+data.zaim.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zcaq.txt 4.48169974735425
+data.zcej.txt 2.82763771717948
+data.zcgi.txt 2.82763771717948
+data.zcqs.txt 2.82763771717948
+data.zdds.txt 2.82763771717948
+data.zeob.txt 4.48169974735425
+data.zevl.txt 4.48169974735425

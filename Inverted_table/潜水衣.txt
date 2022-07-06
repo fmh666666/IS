@@ -1,4 +1,4 @@
 3
-data.zcve.txt 1
-data.zefs.txt 1
-data.zezm.txt 2
+data.zcve.txt 3.5891377275982888
+data.zefs.txt 3.5891377275982888
+data.zezm.txt 5.688648708166832

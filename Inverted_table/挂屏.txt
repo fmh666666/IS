@@ -1,4 +1,4 @@
 3
-data.zaxp.txt 1
-data.zbhd.txt 5
-data.zbhe.txt 3
+data.zaxp.txt 3.5891377275982888
+data.zbhd.txt 9.27778643576512
+data.zbhe.txt 7.1782754551965775

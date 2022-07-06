@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.zbtj.txt 1
-data.zcjy.txt 1
-data.zczb.txt 1
-data.zene.txt 1
-data.zexm.txt 1
+data.cq.txt 3.1086847136800873
+data.zbtj.txt 3.1086847136800873
+data.zcjy.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

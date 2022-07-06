@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.pn.txt 2
-data.zbkj.txt 1
-data.zbmw.txt 1
-data.zchw.txt 1
-data.zcku.txt 1
-data.zdpz.txt 2
-data.zfaj.txt 1
+data.hg.txt 2.9092786962624935
+data.pn.txt 4.611097637722987
+data.zbkj.txt 2.9092786962624935
+data.zbmw.txt 2.9092786962624935
+data.zchw.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zdpz.txt 4.611097637722987
+data.zfaj.txt 2.9092786962624935

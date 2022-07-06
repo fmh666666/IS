@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.zbfz.txt 1
-data.zcmn.txt 1
-data.zdof.txt 1
-data.zedd.txt 1
+data.fe.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zcmn.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zedd.txt 3.235060386727117

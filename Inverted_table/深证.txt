@@ -1,7 +1,7 @@
 6
-data.kq.txt 1
-data.zahd.txt 2
-data.zamp.txt 1
-data.zcnn.txt 1
-data.zeag.txt 3
-data.zelt.txt 1
+data.kq.txt 3.1086847136800873
+data.zahd.txt 4.927148697748023
+data.zamp.txt 3.1086847136800873
+data.zcnn.txt 3.1086847136800873
+data.zeag.txt 6.2173694273601745
+data.zelt.txt 3.1086847136800873

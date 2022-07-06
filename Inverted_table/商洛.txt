@@ -1,6 +1,6 @@
 5
-data.ud.txt 1
-data.zbes.txt 1
-data.zdeb.txt 1
-data.zdgt.txt 1
-data.zfaj.txt 1
+data.ud.txt 3.235060386727117
+data.zbes.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

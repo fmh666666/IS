@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.ha.txt 1
-data.zbcc.txt 1
-data.zcfn.txt 2
-data.zdds.txt 117
-data.zddv.txt 66
-data.zdrq.txt 2
-data.zeqh.txt 1
+data.ew.txt 2.9092786962624935
+data.ha.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zcfn.txt 4.611097637722987
+data.zdds.txt 20.02352679748753
+data.zddv.txt 17.647944051426993
+data.zdrq.txt 4.611097637722987
+data.zeqh.txt 2.9092786962624935

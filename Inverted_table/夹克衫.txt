@@ -1,3 +1,3 @@
 2
-data.zbkj.txt 1
-data.zeva.txt 1
+data.zbkj.txt 3.8701847240988965
+data.zeva.txt 3.8701847240988965

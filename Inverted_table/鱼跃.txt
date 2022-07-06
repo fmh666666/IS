@@ -1,12 +1,12 @@
 11
-data.ha.txt 1
-data.pa.txt 2
-data.zaet.txt 1
-data.zcko.txt 1
-data.zcpa.txt 1
-data.zdaw.txt 1
-data.zdji.txt 1
-data.zdle.txt 1
-data.zdud.txt 1
-data.zedd.txt 1
-data.zefd.txt 1
+data.ha.txt 2.6885433903988862
+data.pa.txt 4.261240455343955
+data.zaet.txt 2.6885433903988862
+data.zcko.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zdaw.txt 2.6885433903988862
+data.zdji.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdud.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zefd.txt 2.6885433903988862

@@ -1,4 +1,4 @@
 3
-data.gw.txt 1
-data.nh.txt 1
-data.zbcc.txt 1
+data.gw.txt 3.5891377275982888
+data.nh.txt 3.5891377275982888
+data.zbcc.txt 3.5891377275982888

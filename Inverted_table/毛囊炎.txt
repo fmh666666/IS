@@ -1,6 +1,6 @@
 5
-data.zane.txt 1
-data.zayv.txt 1
-data.zcbe.txt 2
-data.zctp.txt 1
-data.zdzm.txt 1
+data.zane.txt 3.235060386727117
+data.zayv.txt 3.235060386727117
+data.zcbe.txt 5.1274494005309625
+data.zctp.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117

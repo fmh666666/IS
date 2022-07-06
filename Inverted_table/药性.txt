@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zbts.txt 2
-data.zcxr.txt 1
+data.jf.txt 3.5891377275982888
+data.zbts.txt 5.688648708166832
+data.zcxr.txt 3.5891377275982888

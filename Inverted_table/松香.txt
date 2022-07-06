@@ -1,4 +1,4 @@
 3
-data.zczj.txt 1
-data.zdou.txt 3
-data.zedo.txt 1
+data.zczj.txt 3.5891377275982888
+data.zdou.txt 7.1782754551965775
+data.zedo.txt 3.5891377275982888

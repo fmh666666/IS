@@ -1,9 +1,9 @@
 8
-data.zapl.txt 1
-data.zarr.txt 1
-data.zbdx.txt 1
-data.zcdz.txt 5
-data.zczl.txt 1
-data.zeaf.txt 1
-data.zelt.txt 2
-data.zeoo.txt 2
+data.zapl.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbdx.txt 2.9092786962624935
+data.zcdz.txt 7.52037633398548
+data.zczl.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zelt.txt 4.611097637722987
+data.zeoo.txt 4.611097637722987

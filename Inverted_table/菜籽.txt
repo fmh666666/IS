@@ -1,6 +1,6 @@
 5
-data.zasw.txt 1
-data.zbbt.txt 1
-data.zbdx.txt 1
-data.zbyb.txt 1
-data.zcgo.txt 1
+data.zasw.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zbdx.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zcgo.txt 3.235060386727117

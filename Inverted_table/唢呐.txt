@@ -1,6 +1,6 @@
 5
-data.zasq.txt 1
-data.zawu.txt 1
-data.zcdy.txt 2
-data.zdeb.txt 1
-data.zeaj.txt 1
+data.zasq.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zdeb.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117

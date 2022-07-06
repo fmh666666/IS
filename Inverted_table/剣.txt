@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.kt.txt 1
-data.tv.txt 1
-data.zake.txt 2
-data.zbsu.txt 7
-data.zdaw.txt 6
-data.zdby.txt 1
-data.zdsh.txt 4
-data.zfaj.txt 2
+data.cf.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zake.txt 4.48169974735425
+data.zbsu.txt 8.48291315153844
+data.zdaw.txt 7.938182663119541
+data.zdby.txt 2.82763771717948
+data.zdsh.txt 6.565571457682201
+data.zfaj.txt 4.48169974735425

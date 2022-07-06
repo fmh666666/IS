@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.kq.txt 1
-data.op.txt 1
-data.zalm.txt 1
-data.zbse.txt 1
-data.zbwq.txt 1
-data.zcih.txt 1
-data.zcxh.txt 1
-data.zeaf.txt 1
-data.zeaj.txt 1
+data.ga.txt 2.7546073728089153
+data.kq.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zalm.txt 2.7546073728089153
+data.zbse.txt 2.7546073728089153
+data.zbwq.txt 2.7546073728089153
+data.zcih.txt 2.7546073728089153
+data.zcxh.txt 2.7546073728089153
+data.zeaf.txt 2.7546073728089153
+data.zeaj.txt 2.7546073728089153

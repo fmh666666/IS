@@ -1,10 +1,10 @@
 9
-data.by.txt 2
-data.kq.txt 1
-data.zaic.txt 1
-data.zbgd.txt 1
-data.zbia.txt 1
-data.zcqe.txt 1
-data.zczp.txt 1
-data.zdqz.txt 1
-data.zehp.txt 1
+data.by.txt 4.48169974735425
+data.kq.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zbgd.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zdqz.txt 2.82763771717948
+data.zehp.txt 2.82763771717948

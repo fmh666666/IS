@@ -1,10 +1,10 @@
 9
-data.be.txt 1
-data.zaej.txt 1
-data.zatz.txt 1
-data.zaxj.txt 2
-data.zdod.txt 1
-data.zdpg.txt 1
-data.zdvl.txt 1
-data.zeez.txt 1
-data.zexv.txt 1
+data.be.txt 2.82763771717948
+data.zaej.txt 2.82763771717948
+data.zatz.txt 2.82763771717948
+data.zaxj.txt 4.48169974735425
+data.zdod.txt 2.82763771717948
+data.zdpg.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zeez.txt 2.82763771717948
+data.zexv.txt 2.82763771717948

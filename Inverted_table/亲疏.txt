@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.jd.txt 1
-data.jf.txt 1
-data.zabe.txt 2
-data.zapl.txt 1
-data.zaxk.txt 1
-data.zcak.txt 1
-data.zciy.txt 1
-data.zcse.txt 1
-data.zdvl.txt 1
-data.zdzm.txt 1
-data.zfaj.txt 1
+data.bs.txt 2.628231699761886
+data.jd.txt 2.628231699761886
+data.jf.txt 2.628231699761886
+data.zabe.txt 4.165648687329214
+data.zapl.txt 2.628231699761886
+data.zaxk.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zdzm.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

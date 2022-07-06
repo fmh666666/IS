@@ -1,9 +1,9 @@
 8
-data.vi.txt 1
-data.zail.txt 1
-data.zbcj.txt 1
-data.zbhd.txt 2
-data.zbpp.txt 1
-data.zctp.txt 1
-data.zddp.txt 1
-data.zfaj.txt 1
+data.vi.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbhd.txt 4.611097637722987
+data.zbpp.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

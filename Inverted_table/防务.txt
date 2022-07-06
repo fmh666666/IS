@@ -1,12 +1,12 @@
 11
-data.hg.txt 2
-data.to.txt 2
-data.zamr.txt 2
-data.zasq.txt 4
-data.zbsm.txt 3
-data.zcmy.txt 1
-data.zcue.txt 1
-data.zedx.txt 2
-data.zedy.txt 2
-data.zety.txt 2
-data.zfdk.txt 1
+data.hg.txt 4.261240455343955
+data.to.txt 4.261240455343955
+data.zamr.txt 4.261240455343955
+data.zasq.txt 6.2426044324908965
+data.zbsm.txt 5.3770867807977725
+data.zcmy.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zedx.txt 4.261240455343955
+data.zedy.txt 4.261240455343955
+data.zety.txt 4.261240455343955
+data.zfdk.txt 2.6885433903988862

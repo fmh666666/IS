@@ -1,14 +1,14 @@
 13
-data.op.txt 1
-data.zajo.txt 4
-data.zako.txt 2
-data.zbnx.txt 1
-data.zbpx.txt 1
-data.zbvp.txt 1
-data.zcih.txt 1
-data.zdic.txt 1
-data.zdux.txt 1
-data.zdwn.txt 1
-data.zecf.txt 1
-data.zesi.txt 1
-data.zezn.txt 2
+data.op.txt 2.5727503226135906
+data.zajo.txt 5.97374125520702
+data.zako.txt 4.077712785060798
+data.zbnx.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zbvp.txt 2.5727503226135906
+data.zcih.txt 2.5727503226135906
+data.zdic.txt 2.5727503226135906
+data.zdux.txt 2.5727503226135906
+data.zdwn.txt 2.5727503226135906
+data.zecf.txt 2.5727503226135906
+data.zesi.txt 2.5727503226135906
+data.zezn.txt 4.077712785060798

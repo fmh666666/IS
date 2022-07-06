@@ -1,4 +1,4 @@
 3
-data.zadv.txt 4
-data.zajh.txt 1
-data.zcdv.txt 1
+data.zadv.txt 8.333719726130651
+data.zajh.txt 3.5891377275982888
+data.zcdv.txt 3.5891377275982888

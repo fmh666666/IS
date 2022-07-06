@@ -1,7 +1,7 @@
 6
-data.hu.txt 1
-data.zafu.txt 1
-data.zanh.txt 1
-data.zbkv.txt 1
-data.zbvg.txt 1
-data.zeyg.txt 1
+data.hu.txt 3.1086847136800873
+data.zafu.txt 3.1086847136800873
+data.zanh.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zbvg.txt 3.1086847136800873
+data.zeyg.txt 3.1086847136800873

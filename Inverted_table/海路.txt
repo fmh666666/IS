@@ -1,12 +1,12 @@
 11
-data.cf.txt 1
-data.zasj.txt 4
-data.zazn.txt 2
-data.zbeb.txt 1
-data.zbjh.txt 2
-data.zbpx.txt 2
-data.zbuj.txt 2
-data.zbvn.txt 1
-data.zdcw.txt 1
-data.zdsh.txt 1
-data.zexx.txt 1
+data.cf.txt 2.6885433903988862
+data.zasj.txt 6.2426044324908965
+data.zazn.txt 4.261240455343955
+data.zbeb.txt 2.6885433903988862
+data.zbjh.txt 4.261240455343955
+data.zbpx.txt 4.261240455343955
+data.zbuj.txt 4.261240455343955
+data.zbvn.txt 2.6885433903988862
+data.zdcw.txt 2.6885433903988862
+data.zdsh.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

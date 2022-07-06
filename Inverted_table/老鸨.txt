@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.pa.txt 1
-data.zajo.txt 1
-data.zazw.txt 19
-data.zazx.txt 14
-data.zbru.txt 71
-data.zcdv.txt 1
-data.zcgo.txt 1
-data.zdju.txt 1
-data.zdlm.txt 1
-data.zfai.txt 1
+data.bb.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zazw.txt 11.61969121328867
+data.zazx.txt 10.503844887834852
+data.zbru.txt 16.58811108188457
+data.zcdv.txt 2.6885433903988862
+data.zcgo.txt 2.6885433903988862
+data.zdju.txt 2.6885433903988862
+data.zdlm.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

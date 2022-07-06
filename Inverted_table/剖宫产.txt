@@ -1,4 +1,4 @@
 3
-data.zctp.txt 2
-data.zcts.txt 11
-data.zdey.txt 1
+data.zctp.txt 5.688648708166832
+data.zcts.txt 12.866924163363409
+data.zdey.txt 3.5891377275982888

@@ -1,11 +1,11 @@
 10
-data.jj.txt 8
-data.zapf.txt 1
-data.zazo.txt 1
-data.zbhd.txt 3
-data.zbre.txt 1
-data.zcee.txt 1
-data.zciy.txt 1
-data.zedx.txt 1
-data.zevl.txt 1
-data.zevt.txt 1
+data.jj.txt 8.731898780224308
+data.zapf.txt 2.7546073728089153
+data.zazo.txt 2.7546073728089153
+data.zbhd.txt 5.509214745617831
+data.zbre.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zevl.txt 2.7546073728089153
+data.zevt.txt 2.7546073728089153

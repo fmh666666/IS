@@ -1,4 +1,4 @@
 3
-data.zass.txt 1
-data.zcel.txt 1
-data.zdby.txt 1
+data.zass.txt 3.5891377275982888
+data.zcel.txt 3.5891377275982888
+data.zdby.txt 3.5891377275982888

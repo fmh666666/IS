@@ -1,8 +1,8 @@
 7
-data.fz.txt 1
-data.hp.txt 1
-data.zapl.txt 1
-data.zebn.txt 1
-data.zeec.txt 1
-data.zeoh.txt 1
-data.zezy.txt 1
+data.fz.txt 3.0018356045764243
+data.hp.txt 3.0018356045764243
+data.zapl.txt 3.0018356045764243
+data.zebn.txt 3.0018356045764243
+data.zeec.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

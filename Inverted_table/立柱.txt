@@ -1,5 +1,5 @@
 4
-data.zaqw.txt 1
-data.zbxw.txt 1
-data.zctp.txt 1
-data.zehb.txt 1
+data.zaqw.txt 3.389731710180695
+data.zbxw.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zehb.txt 3.389731710180695

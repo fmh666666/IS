@@ -1,4 +1,4 @@
 3
-data.zbil.txt 2
-data.zcku.txt 1
-data.zfaz.txt 1
+data.zbil.txt 5.688648708166832
+data.zcku.txt 3.5891377275982888
+data.zfaz.txt 3.5891377275982888

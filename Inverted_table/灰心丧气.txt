@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.zard.txt 1
-data.zavg.txt 1
-data.zbgu.txt 1
-data.zbhd.txt 1
-data.zbkf.txt 2
-data.zbuj.txt 1
-data.zefd.txt 1
-data.zeoh.txt 1
+data.gw.txt 2.82763771717948
+data.zard.txt 2.82763771717948
+data.zavg.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbkf.txt 4.48169974735425
+data.zbuj.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

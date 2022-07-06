@@ -1,4 +1,4 @@
 3
-data.zbsm.txt 1
-data.zcih.txt 1
-data.zehb.txt 1
+data.zbsm.txt 3.5891377275982888
+data.zcih.txt 3.5891377275982888
+data.zehb.txt 3.5891377275982888

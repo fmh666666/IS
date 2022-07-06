@@ -1,6 +1,6 @@
 5
-data.ry.txt 2
-data.zamr.txt 1
-data.zdwl.txt 1
-data.zefw.txt 1
-data.zejk.txt 1
+data.ry.txt 5.1274494005309625
+data.zamr.txt 3.235060386727117
+data.zdwl.txt 3.235060386727117
+data.zefw.txt 3.235060386727117
+data.zejk.txt 3.235060386727117

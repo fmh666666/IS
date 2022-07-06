@@ -1,12 +1,12 @@
 11
-data.bf.txt 1
-data.zabx.txt 1
-data.zbfz.txt 1
-data.zcda.txt 1
-data.zcon.txt 1
-data.zctp.txt 1
-data.zcue.txt 1
-data.zdep.txt 3
-data.zdpz.txt 1
-data.zdwn.txt 2
-data.zeoh.txt 3
+data.bf.txt 2.6885433903988862
+data.zabx.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zcda.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zdep.txt 5.3770867807977725
+data.zdpz.txt 2.6885433903988862
+data.zdwn.txt 4.261240455343955
+data.zeoh.txt 5.3770867807977725

@@ -1,3 +1,3 @@
 2
-data.cq.txt 4
-data.zcej.txt 1
+data.cq.txt 8.986290643289122
+data.zcej.txt 3.8701847240988965

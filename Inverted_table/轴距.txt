@@ -1,5 +1,5 @@
 4
-data.ud.txt 1
-data.zasw.txt 6
-data.zbts.txt 1
-data.zcis.txt 1
+data.ud.txt 3.389731710180695
+data.zasw.txt 9.516180001030515
+data.zbts.txt 3.389731710180695
+data.zcis.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.zayv.txt 1
-data.zazn.txt 2
-data.zbgw.txt 1
-data.zcll.txt 1
-data.zeos.txt 1
+data.zayv.txt 3.235060386727117
+data.zazn.txt 5.1274494005309625
+data.zbgw.txt 3.235060386727117
+data.zcll.txt 3.235060386727117
+data.zeos.txt 3.235060386727117

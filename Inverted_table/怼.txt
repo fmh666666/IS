@@ -1,11 +1,11 @@
 10
-data.bf.txt 1
-data.ka.txt 1
-data.pa.txt 1
-data.zcrn.txt 1
-data.zdkk.txt 1
-data.zdyv.txt 1
-data.zedy.txt 1
-data.zefu.txt 1
-data.zefv.txt 1
-data.zeyy.txt 1
+data.bf.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.pa.txt 2.7546073728089153
+data.zcrn.txt 2.7546073728089153
+data.zdkk.txt 2.7546073728089153
+data.zdyv.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153
+data.zefu.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153

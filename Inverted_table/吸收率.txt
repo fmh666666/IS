@@ -1,10 +1,10 @@
 9
-data.zbkv.txt 1
-data.zbqu.txt 1
-data.zbyv.txt 1
-data.zctp.txt 5
-data.zcts.txt 5
-data.zdil.txt 1
-data.zedx.txt 1
-data.zeeq.txt 2
-data.zewg.txt 1
+data.zbkv.txt 2.82763771717948
+data.zbqu.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zctp.txt 7.309337464533731
+data.zcts.txt 7.309337464533731
+data.zdil.txt 2.82763771717948
+data.zedx.txt 2.82763771717948
+data.zeeq.txt 4.48169974735425
+data.zewg.txt 2.82763771717948

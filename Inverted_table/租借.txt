@@ -1,12 +1,12 @@
 11
-data.bs.txt 2
-data.mx.txt 1
-data.zbkv.txt 1
-data.zbxy.txt 1
-data.zcao.txt 1
-data.zcih.txt 1
-data.zdzi.txt 1
-data.zedo.txt 1
-data.zess.txt 7
-data.zeyu.txt 1
-data.zeyy.txt 1
+data.bs.txt 4.261240455343955
+data.mx.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbxy.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcih.txt 2.6885433903988862
+data.zdzi.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zess.txt 8.06563017119666
+data.zeyu.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

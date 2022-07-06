@@ -1,9 +1,9 @@
 8
-data.zbkv.txt 1
-data.zbnx.txt 1
-data.zcee.txt 1
-data.zchw.txt 1
-data.zcic.txt 1
-data.zcpx.txt 1
-data.zdyv.txt 2
-data.zezm.txt 1
+data.zbkv.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zchw.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zdyv.txt 4.611097637722987
+data.zezm.txt 2.9092786962624935

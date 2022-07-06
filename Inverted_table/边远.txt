@@ -1,10 +1,10 @@
 9
-data.ye.txt 1
-data.zawc.txt 1
-data.zbnx.txt 1
-data.zbpm.txt 2
-data.zbyv.txt 1
-data.zcoy.txt 1
-data.zedd.txt 1
-data.zefd.txt 1
-data.zfas.txt 1
+data.ye.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbpm.txt 4.48169974735425
+data.zbyv.txt 2.82763771717948
+data.zcoy.txt 2.82763771717948
+data.zedd.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

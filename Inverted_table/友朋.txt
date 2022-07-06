@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zbrj.txt 1
-data.zcqp.txt 1
-data.zejn.txt 1
-data.zenw.txt 1
+data.zazn.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zcqp.txt 3.235060386727117
+data.zejn.txt 3.235060386727117
+data.zenw.txt 3.235060386727117

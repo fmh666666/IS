@@ -1,6 +1,6 @@
 5
-data.zbgu.txt 1
-data.zbkf.txt 1
-data.zbnp.txt 2
-data.zczl.txt 1
-data.zebc.txt 1
+data.zbgu.txt 3.235060386727117
+data.zbkf.txt 3.235060386727117
+data.zbnp.txt 5.1274494005309625
+data.zczl.txt 3.235060386727117
+data.zebc.txt 3.235060386727117

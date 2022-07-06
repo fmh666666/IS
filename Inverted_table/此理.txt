@@ -1,7 +1,7 @@
 6
-data.vi.txt 3
-data.zabe.txt 1
-data.zawu.txt 1
-data.zbaq.txt 1
-data.zbjh.txt 1
-data.zdyv.txt 1
+data.vi.txt 6.2173694273601745
+data.zabe.txt 3.1086847136800873
+data.zawu.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zdyv.txt 3.1086847136800873

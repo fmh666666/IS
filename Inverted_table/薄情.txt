@@ -1,14 +1,14 @@
 13
-data.cn.txt 1
-data.zajo.txt 1
-data.zalt.txt 1
-data.zaql.txt 1
-data.zatz.txt 1
-data.zaxk.txt 1
-data.zbkv.txt 1
-data.zbut.txt 1
-data.zdaw.txt 1
-data.zdtr.txt 1
-data.zeaj.txt 1
-data.zenw.txt 1
-data.zevt.txt 1
+data.cn.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zalt.txt 2.5727503226135906
+data.zaql.txt 2.5727503226135906
+data.zatz.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbut.txt 2.5727503226135906
+data.zdaw.txt 2.5727503226135906
+data.zdtr.txt 2.5727503226135906
+data.zeaj.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zevt.txt 2.5727503226135906

@@ -1,6 +1,6 @@
 5
-data.mx.txt 1
-data.zard.txt 1
-data.zbkv.txt 1
-data.zbyb.txt 1
-data.zeeh.txt 2
+data.mx.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zeeh.txt 5.1274494005309625

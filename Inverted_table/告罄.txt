@@ -1,8 +1,8 @@
 7
-data.zapl.txt 1
-data.zate.txt 1
-data.zazg.txt 1
-data.zcef.txt 1
-data.zdzg.txt 1
-data.zedd.txt 1
-data.zelt.txt 1
+data.zapl.txt 3.0018356045764243
+data.zate.txt 3.0018356045764243
+data.zazg.txt 3.0018356045764243
+data.zcef.txt 3.0018356045764243
+data.zdzg.txt 3.0018356045764243
+data.zedd.txt 3.0018356045764243
+data.zelt.txt 3.0018356045764243

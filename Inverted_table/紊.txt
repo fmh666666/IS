@@ -1,7 +1,7 @@
 6
-data.zanh.txt 1
-data.zbcj.txt 1
-data.zcic.txt 1
-data.zdib.txt 1
-data.zdkc.txt 1
-data.zeai.txt 1
+data.zanh.txt 3.1086847136800873
+data.zbcj.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdib.txt 3.1086847136800873
+data.zdkc.txt 3.1086847136800873
+data.zeai.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.en.txt 1
-data.hp.txt 1
-data.zabe.txt 1
-data.zbem.txt 1
-data.zbor.txt 1
-data.zeac.txt 1
-data.zedo.txt 1
-data.zezh.txt 1
+data.en.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zbem.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.mx.txt 1
-data.zbfp.txt 1
-data.zczj.txt 1
-data.zeec.txt 1
+data.mx.txt 3.389731710180695
+data.zbfp.txt 3.389731710180695
+data.zczj.txt 3.389731710180695
+data.zeec.txt 3.389731710180695

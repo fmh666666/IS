@@ -1,10 +1,10 @@
 9
-data.zail.txt 1
-data.zayv.txt 1
-data.zbye.txt 1
-data.zcmy.txt 1
-data.zcql.txt 1
-data.zcrg.txt 1
-data.zdkk.txt 1
-data.zeoh.txt 2
-data.zevy.txt 3
+data.zail.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zdkk.txt 2.82763771717948
+data.zeoh.txt 4.48169974735425
+data.zevy.txt 5.65527543435896

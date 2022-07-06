@@ -1,11 +1,11 @@
 10
-data.co.txt 2
-data.ha.txt 1
-data.ka.txt 1
-data.kq.txt 1
-data.zbel.txt 1
-data.zbnp.txt 1
-data.zdll.txt 1
-data.zdpw.txt 1
-data.zedk.txt 1
-data.zene.txt 1
+data.co.txt 4.365949390112154
+data.ha.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.kq.txt 2.7546073728089153
+data.zbel.txt 2.7546073728089153
+data.zbnp.txt 2.7546073728089153
+data.zdll.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153

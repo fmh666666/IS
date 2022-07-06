@@ -1,5 +1,5 @@
 4
-data.zapf.txt 1
-data.zbcc.txt 1
-data.zcql.txt 1
-data.zeyu.txt 1
+data.zapf.txt 3.389731710180695
+data.zbcc.txt 3.389731710180695
+data.zcql.txt 3.389731710180695
+data.zeyu.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zazo.txt 1
-data.zccx.txt 1
-data.zfcg.txt 1
+data.zazo.txt 3.5891377275982888
+data.zccx.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

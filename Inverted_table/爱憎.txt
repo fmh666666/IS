@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.zbcj.txt 1
-data.zbjh.txt 1
-data.zdlw.txt 1
-data.zdpf.txt 1
-data.zduo.txt 1
-data.zdzm.txt 1
-data.zeoh.txt 1
+data.jf.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

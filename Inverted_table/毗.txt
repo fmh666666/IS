@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.jf.txt 4
-data.ry.txt 4
-data.zarc.txt 1
-data.zbdb.txt 5
-data.zbjh.txt 2
-data.zbor.txt 1
-data.zcfn.txt 1
-data.zczp.txt 1
-data.zedx.txt 1
-data.zelj.txt 8
-data.zeqn.txt 2
-data.zfby.txt 1
+data.bs.txt 2.5727503226135906
+data.jf.txt 5.97374125520702
+data.ry.txt 5.97374125520702
+data.zarc.txt 2.5727503226135906
+data.zbdb.txt 6.650463107674388
+data.zbjh.txt 4.077712785060798
+data.zbor.txt 2.5727503226135906
+data.zcfn.txt 2.5727503226135906
+data.zczp.txt 2.5727503226135906
+data.zedx.txt 2.5727503226135906
+data.zelj.txt 8.155425570121595
+data.zeqn.txt 4.077712785060798
+data.zfby.txt 2.5727503226135906

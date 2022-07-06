@@ -1,12 +1,12 @@
 11
-data.ud.txt 1
-data.zawu.txt 1
-data.zayc.txt 1
-data.zcel.txt 1
-data.zcmn.txt 1
-data.zcon.txt 1
-data.zdlg.txt 2
-data.zdlo.txt 1
-data.zdof.txt 1
-data.zdzg.txt 1
-data.zezm.txt 1
+data.ud.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zayc.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zcmn.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zdlg.txt 4.261240455343955
+data.zdlo.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zdzg.txt 2.6885433903988862
+data.zezm.txt 2.6885433903988862

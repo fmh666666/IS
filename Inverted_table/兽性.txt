@@ -1,12 +1,12 @@
 11
-data.hp.txt 4
-data.kt.txt 1
-data.zako.txt 1
-data.zarr.txt 1
-data.zavg.txt 1
-data.zbsm.txt 2
-data.zbut.txt 2
-data.zdwn.txt 1
-data.zebc.txt 1
-data.zewp.txt 1
-data.zezy.txt 2
+data.hp.txt 6.2426044324908965
+data.kt.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zbsm.txt 4.261240455343955
+data.zbut.txt 4.261240455343955
+data.zdwn.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zewp.txt 2.6885433903988862
+data.zezy.txt 4.261240455343955

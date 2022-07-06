@@ -1,9 +1,9 @@
 8
-data.zaeh.txt 1
-data.zafe.txt 1
-data.zair.txt 1
-data.zaoy.txt 1
-data.zbtj.txt 1
-data.zctp.txt 2
-data.zcts.txt 1
-data.zdep.txt 1
+data.zaeh.txt 2.9092786962624935
+data.zafe.txt 2.9092786962624935
+data.zair.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zbtj.txt 2.9092786962624935
+data.zctp.txt 4.611097637722987
+data.zcts.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935

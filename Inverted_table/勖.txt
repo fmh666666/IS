@@ -1,5 +1,5 @@
 4
-data.wc.txt 1
-data.zafy.txt 1
-data.zaxk.txt 1
-data.zbvm.txt 1
+data.wc.txt 3.389731710180695
+data.zafy.txt 3.389731710180695
+data.zaxk.txt 3.389731710180695
+data.zbvm.txt 3.389731710180695

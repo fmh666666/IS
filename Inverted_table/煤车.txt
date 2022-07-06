@@ -1,9 +1,9 @@
 8
-data.zacp.txt 4
-data.zafi.txt 1
-data.zcdv.txt 1
-data.zdux.txt 1
-data.zezf.txt 1
-data.zezh.txt 1
-data.zfaj.txt 1
-data.zfbr.txt 1
+data.zacp.txt 6.7551359407091605
+data.zafi.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zezf.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935
+data.zfbr.txt 2.9092786962624935

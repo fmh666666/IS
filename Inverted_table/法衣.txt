@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.zabe.txt 1
-data.zail.txt 1
-data.zcmx.txt 1
-data.zdgp.txt 1
+data.jf.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zail.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117

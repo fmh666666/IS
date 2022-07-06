@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.hp.txt 1
-data.ok.txt 3
-data.ud.txt 1
-data.zbof.txt 1
-data.zcsu.txt 4
-data.zdle.txt 1
-data.zfaz.txt 1
+data.ft.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.ok.txt 5.818557392524987
+data.ud.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zcsu.txt 6.7551359407091605
+data.zdle.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

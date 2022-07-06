@@ -1,7 +1,7 @@
 6
-data.zblq.txt 1
-data.zcby.txt 1
-data.zcdz.txt 1
-data.zdou.txt 1
-data.zeec.txt 1
-data.zeeq.txt 1
+data.zblq.txt 3.1086847136800873
+data.zcby.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zdou.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zeeq.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zacp.txt 1
-data.zcbe.txt 1
-data.zezf.txt 1
+data.zacp.txt 3.5891377275982888
+data.zcbe.txt 3.5891377275982888
+data.zezf.txt 3.5891377275982888

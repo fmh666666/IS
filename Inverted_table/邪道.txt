@@ -1,6 +1,6 @@
 5
-data.zbcc.txt 2
-data.zbjh.txt 2
-data.zcon.txt 1
-data.zdcy.txt 1
-data.zdod.txt 1
+data.zbcc.txt 5.1274494005309625
+data.zbjh.txt 5.1274494005309625
+data.zcon.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zdod.txt 3.235060386727117

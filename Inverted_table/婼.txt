@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.mo.txt 3
-data.zbjk.txt 1
-data.zbph.txt 6
-data.zedx.txt 1
+data.bs.txt 3.235060386727117
+data.mo.txt 6.470120773454234
+data.zbjk.txt 3.235060386727117
+data.zbph.txt 9.081962699831948
+data.zedx.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.zadv.txt 2
-data.zbht.txt 1
-data.zcjo.txt 1
-data.zdkk.txt 1
-data.zesq.txt 1
+data.ka.txt 3.1086847136800873
+data.zadv.txt 4.927148697748023
+data.zbht.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zesq.txt 3.1086847136800873

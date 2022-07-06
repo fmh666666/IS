@@ -1,4 +1,4 @@
 3
-data.mi.txt 16
-data.zefp.txt 5
-data.zfdk.txt 1
+data.mi.txt 14.670467093687689
+data.zefp.txt 9.27778643576512
+data.zfdk.txt 3.5891377275982888

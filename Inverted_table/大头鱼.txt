@@ -1,7 +1,7 @@
 6
-data.zafe.txt 1
-data.zafk.txt 1
-data.zazo.txt 1
-data.zbsu.txt 1
-data.zebv.txt 2
-data.zfcg.txt 1
+data.zafe.txt 3.1086847136800873
+data.zafk.txt 3.1086847136800873
+data.zazo.txt 3.1086847136800873
+data.zbsu.txt 3.1086847136800873
+data.zebv.txt 4.927148697748023
+data.zfcg.txt 3.1086847136800873

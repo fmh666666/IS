@@ -1,13 +1,13 @@
 12
-data.zacp.txt 2
-data.zbua.txt 1
-data.zbwa.txt 1
-data.zbzg.txt 1
-data.zcdg.txt 1
-data.zcpa.txt 1
-data.zcxp.txt 1
-data.zcxq.txt 1
-data.zdsh.txt 1
-data.zdwd.txt 1
-data.zdwz.txt 1
-data.zeel.txt 1
+data.zacp.txt 4.165648687329214
+data.zbua.txt 2.628231699761886
+data.zbwa.txt 2.628231699761886
+data.zbzg.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcpa.txt 2.628231699761886
+data.zcxp.txt 2.628231699761886
+data.zcxq.txt 2.628231699761886
+data.zdsh.txt 2.628231699761886
+data.zdwd.txt 2.628231699761886
+data.zdwz.txt 2.628231699761886
+data.zeel.txt 2.628231699761886

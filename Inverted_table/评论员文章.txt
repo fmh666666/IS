@@ -1,4 +1,4 @@
 3
-data.zafk.txt 1
-data.zcdy.txt 1
-data.zeac.txt 1
+data.zafk.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zeac.txt 3.5891377275982888

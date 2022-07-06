@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.vi.txt 1
-data.zadv.txt 1
-data.zelj.txt 4
-data.zeob.txt 1
+data.fp.txt 3.235060386727117
+data.vi.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zelj.txt 7.511577600598868
+data.zeob.txt 3.235060386727117

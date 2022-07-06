@@ -1,4 +1,4 @@
 3
-data.zcvt.txt 3
-data.zcwn.txt 1
-data.zddb.txt 1
+data.zcvt.txt 7.1782754551965775
+data.zcwn.txt 3.5891377275982888
+data.zddb.txt 3.5891377275982888

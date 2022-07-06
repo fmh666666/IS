@@ -1,4 +1,4 @@
 3
-data.zcgi.txt 1
-data.zdll.txt 1
-data.zejn.txt 1
+data.zcgi.txt 3.5891377275982888
+data.zdll.txt 3.5891377275982888
+data.zejn.txt 3.5891377275982888

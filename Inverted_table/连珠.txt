@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zawb.txt 1
-data.zayv.txt 2
-data.zbdx.txt 1
-data.zbqu.txt 1
-data.zcao.txt 2
-data.zdux.txt 1
-data.zfai.txt 1
+data.yx.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zayv.txt 4.611097637722987
+data.zbdx.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zcao.txt 4.611097637722987
+data.zdux.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

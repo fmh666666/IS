@@ -1,5 +1,5 @@
 4
-data.zbqu.txt 2
-data.zbup.txt 1
-data.zcqg.txt 1
-data.zctp.txt 1
+data.zbqu.txt 5.372597648141796
+data.zbup.txt 3.389731710180695
+data.zcqg.txt 3.389731710180695
+data.zctp.txt 3.389731710180695

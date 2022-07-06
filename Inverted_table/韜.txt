@@ -1,4 +1,4 @@
 3
-data.zbhd.txt 1
-data.zbtx.txt 14
-data.zdlo.txt 1
+data.zbhd.txt 3.5891377275982888
+data.zbtx.txt 14.022368434297483
+data.zdlo.txt 3.5891377275982888

@@ -1,2 +1,2 @@
 1
-data.zfcg.txt 1
+data.zfcg.txt 4.350637738017098

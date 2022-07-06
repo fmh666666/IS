@@ -1,9 +1,9 @@
 8
-data.to.txt 1
-data.zabe.txt 1
-data.zapl.txt 1
-data.zasw.txt 2
-data.zcsu.txt 2
-data.zdgv.txt 1
-data.zdzg.txt 1
-data.zevq.txt 1
+data.to.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zasw.txt 4.611097637722987
+data.zcsu.txt 4.611097637722987
+data.zdgv.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

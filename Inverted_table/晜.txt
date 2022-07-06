@@ -1,12 +1,12 @@
 11
-data.hp.txt 4
-data.zajo.txt 2
-data.zaoy.txt 2
-data.zbtx.txt 2
-data.zcaq.txt 2
-data.zcmy.txt 2
-data.zcon.txt 2
-data.zdep.txt 2
-data.zdkv.txt 2
-data.zduk.txt 2
-data.zezy.txt 2
+data.hp.txt 6.2426044324908965
+data.zajo.txt 4.261240455343955
+data.zaoy.txt 4.261240455343955
+data.zbtx.txt 4.261240455343955
+data.zcaq.txt 4.261240455343955
+data.zcmy.txt 4.261240455343955
+data.zcon.txt 4.261240455343955
+data.zdep.txt 4.261240455343955
+data.zdkv.txt 4.261240455343955
+data.zduk.txt 4.261240455343955
+data.zezy.txt 4.261240455343955

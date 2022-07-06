@@ -1,11 +1,11 @@
 10
-data.ng.txt 1
-data.zass.txt 3
-data.zaxj.txt 3
-data.zaxk.txt 1
-data.zbjk.txt 1
-data.zblq.txt 41
-data.zblr.txt 9
-data.zbzf.txt 3
-data.zcdv.txt 1
-data.zecf.txt 1
+data.ng.txt 2.7546073728089153
+data.zass.txt 5.509214745617831
+data.zaxj.txt 5.509214745617831
+data.zaxk.txt 2.7546073728089153
+data.zbjk.txt 2.7546073728089153
+data.zblq.txt 14.853717329312344
+data.zblr.txt 9.150607622117803
+data.zbzf.txt 5.509214745617831
+data.zcdv.txt 2.7546073728089153
+data.zecf.txt 2.7546073728089153

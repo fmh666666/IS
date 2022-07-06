@@ -1,14 +1,14 @@
 13
-data.ew.txt 5
-data.zbgu.txt 11
-data.zblr.txt 5
-data.zcvi.txt 1
-data.zdep.txt 3
-data.zdgo.txt 5
-data.zdmw.txt 7
-data.zefu.txt 2
-data.zehp.txt 1
-data.zess.txt 1
-data.zeun.txt 6
-data.zevq.txt 1
-data.zeyg.txt 1
+data.ew.txt 6.650463107674388
+data.zbgu.txt 9.223213430287979
+data.zblr.txt 6.650463107674388
+data.zcvi.txt 2.5727503226135906
+data.zdep.txt 5.145500645227181
+data.zdgo.txt 6.650463107674388
+data.zdmw.txt 7.7182509678407705
+data.zefu.txt 4.077712785060798
+data.zehp.txt 2.5727503226135906
+data.zess.txt 2.5727503226135906
+data.zeun.txt 7.222623281414552
+data.zevq.txt 2.5727503226135906
+data.zeyg.txt 2.5727503226135906

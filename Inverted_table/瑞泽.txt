@@ -1,4 +1,4 @@
 3
-data.ud.txt 3
-data.zbkr.txt 1
-data.zdgv.txt 1
+data.ud.txt 7.1782754551965775
+data.zbkr.txt 3.5891377275982888
+data.zdgv.txt 3.5891377275982888

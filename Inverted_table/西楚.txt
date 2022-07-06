@@ -1,5 +1,5 @@
 4
-data.xk.txt 1
-data.zchd.txt 1
-data.zdlg.txt 1
-data.zefp.txt 1
+data.xk.txt 3.389731710180695
+data.zchd.txt 3.389731710180695
+data.zdlg.txt 3.389731710180695
+data.zefp.txt 3.389731710180695

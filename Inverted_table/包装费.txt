@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zbds.txt 1
-data.zbtx.txt 1
-data.zcdy.txt 1
-data.zciy.txt 1
-data.zcon.txt 2
+data.zabe.txt 3.1086847136800873
+data.zbds.txt 3.1086847136800873
+data.zbtx.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zciy.txt 3.1086847136800873
+data.zcon.txt 4.927148697748023

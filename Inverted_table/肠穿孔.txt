@@ -1,5 +1,5 @@
 4
-data.zdll.txt 1
-data.zduk.txt 1
-data.zfbr.txt 1
-data.zfcj.txt 2
+data.zdll.txt 3.389731710180695
+data.zduk.txt 3.389731710180695
+data.zfbr.txt 3.389731710180695
+data.zfcj.txt 5.372597648141796

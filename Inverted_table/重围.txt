@@ -1,6 +1,6 @@
 5
-data.zair.txt 1
-data.zbfz.txt 1
-data.zctn.txt 1
-data.zdwz.txt 1
-data.zene.txt 1
+data.zair.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zctn.txt 3.235060386727117
+data.zdwz.txt 3.235060386727117
+data.zene.txt 3.235060386727117

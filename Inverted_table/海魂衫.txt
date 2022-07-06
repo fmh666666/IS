@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zcww.txt 2
-data.zdaq.txt 2
+data.ry.txt 3.5891377275982888
+data.zcww.txt 5.688648708166832
+data.zdaq.txt 5.688648708166832

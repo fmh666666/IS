@@ -1,7 +1,7 @@
 6
-data.zasr.txt 1
-data.zcrk.txt 1
-data.zczp.txt 1
-data.zdaw.txt 1
-data.zdrq.txt 1
-data.zduk.txt 1
+data.zasr.txt 3.1086847136800873
+data.zcrk.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zdrq.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873

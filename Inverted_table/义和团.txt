@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zaub.txt 1
-data.zawc.txt 1
-data.zdqx.txt 1
-data.zeez.txt 1
+data.op.txt 3.235060386727117
+data.zaub.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zdqx.txt 3.235060386727117
+data.zeez.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.hu.txt 2
-data.op.txt 1
-data.zaqr.txt 2
-data.zazn.txt 1
-data.zcmx.txt 1
+data.hu.txt 5.1274494005309625
+data.op.txt 3.235060386727117
+data.zaqr.txt 5.1274494005309625
+data.zazn.txt 3.235060386727117
+data.zcmx.txt 3.235060386727117

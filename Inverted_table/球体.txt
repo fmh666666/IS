@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.kt.txt 1
-data.zaip.txt 2
-data.zarc.txt 2
-data.zbvp.txt 1
-data.zbye.txt 3
-data.zcis.txt 1
-data.zdqx.txt 1
-data.zeid.txt 1
+data.hp.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zaip.txt 4.48169974735425
+data.zarc.txt 4.48169974735425
+data.zbvp.txt 2.82763771717948
+data.zbye.txt 5.65527543435896
+data.zcis.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zeid.txt 2.82763771717948

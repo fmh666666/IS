@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zanm.txt 1
-data.zbux.txt 1
-data.zczl.txt 1
-data.zdep.txt 1
-data.zfai.txt 1
+data.zadv.txt 3.1086847136800873
+data.zanm.txt 3.1086847136800873
+data.zbux.txt 3.1086847136800873
+data.zczl.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zblr.txt 1
-data.zctp.txt 1
-data.zeag.txt 1
+data.zblr.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zeag.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zafk.txt 3
-data.zaic.txt 1
-data.zcfn.txt 1
+data.zafk.txt 7.1782754551965775
+data.zaic.txt 3.5891377275982888
+data.zcfn.txt 3.5891377275982888

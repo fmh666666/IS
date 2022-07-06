@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.zcqg.txt 1
-data.zcse.txt 1
-data.zczj.txt 1
-data.zfai.txt 2
+data.ek.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zczj.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

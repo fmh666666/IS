@@ -1,5 +1,5 @@
 4
-data.zahd.txt 1
-data.zavg.txt 1
-data.zcqg.txt 1
-data.zeob.txt 1
+data.zahd.txt 3.389731710180695
+data.zavg.txt 3.389731710180695
+data.zcqg.txt 3.389731710180695
+data.zeob.txt 3.389731710180695

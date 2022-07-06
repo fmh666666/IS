@@ -1,9 +1,9 @@
 8
-data.vz.txt 2
-data.zayv.txt 2
-data.zbkv.txt 3
-data.zbyb.txt 1
-data.zcao.txt 2
-data.zeag.txt 4
-data.zelt.txt 1
-data.zexv.txt 1
+data.vz.txt 4.611097637722987
+data.zayv.txt 4.611097637722987
+data.zbkv.txt 5.818557392524987
+data.zbyb.txt 2.9092786962624935
+data.zcao.txt 4.611097637722987
+data.zeag.txt 6.7551359407091605
+data.zelt.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935

@@ -1,10 +1,10 @@
 9
-data.fz.txt 2
-data.zafv.txt 1
-data.zagr.txt 1
-data.zbfz.txt 1
-data.zbux.txt 1
-data.zcxp.txt 1
-data.zdnc.txt 1
-data.zdpf.txt 1
-data.zdwz.txt 1
+data.fz.txt 4.48169974735425
+data.zafv.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbux.txt 2.82763771717948
+data.zcxp.txt 2.82763771717948
+data.zdnc.txt 2.82763771717948
+data.zdpf.txt 2.82763771717948
+data.zdwz.txt 2.82763771717948

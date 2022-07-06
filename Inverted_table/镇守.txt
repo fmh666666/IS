@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zbta.txt 1
-data.zcfx.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 1
-data.zehb.txt 1
+data.tv.txt 3.1086847136800873
+data.zbta.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zehb.txt 3.1086847136800873

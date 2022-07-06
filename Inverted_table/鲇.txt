@@ -1,6 +1,6 @@
 5
-data.hg.txt 1
-data.zazx.txt 1
-data.zdey.txt 3
-data.zdrq.txt 1
-data.zeaj.txt 1
+data.hg.txt 3.235060386727117
+data.zazx.txt 3.235060386727117
+data.zdey.txt 6.470120773454234
+data.zdrq.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117

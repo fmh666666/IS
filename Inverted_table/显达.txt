@@ -1,8 +1,8 @@
 7
-data.zaej.txt 1
-data.zair.txt 1
-data.zalc.txt 1
-data.zbfd.txt 1
-data.zcgi.txt 1
-data.zdeb.txt 1
-data.zebv.txt 1
+data.zaej.txt 3.0018356045764243
+data.zair.txt 3.0018356045764243
+data.zalc.txt 3.0018356045764243
+data.zbfd.txt 3.0018356045764243
+data.zcgi.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zebv.txt 3.0018356045764243

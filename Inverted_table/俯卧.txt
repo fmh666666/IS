@@ -1,11 +1,11 @@
 10
-data.zbjh.txt 2
-data.zcem.txt 1
-data.zctp.txt 2
-data.zeeh.txt 1
-data.zeeq.txt 2
-data.zefw.txt 1
-data.zemb.txt 1
-data.zeve.txt 1
-data.zezf.txt 2
-data.zfcp.txt 4
+data.zbjh.txt 4.365949390112154
+data.zcem.txt 2.7546073728089153
+data.zctp.txt 4.365949390112154
+data.zeeh.txt 2.7546073728089153
+data.zeeq.txt 4.365949390112154
+data.zefw.txt 2.7546073728089153
+data.zemb.txt 2.7546073728089153
+data.zeve.txt 2.7546073728089153
+data.zezf.txt 4.365949390112154
+data.zfcp.txt 6.396000249308887

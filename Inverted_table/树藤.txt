@@ -1,5 +1,5 @@
 4
-data.zbcc.txt 1
-data.zdmw.txt 2
-data.zdwz.txt 2
-data.zebv.txt 2
+data.zbcc.txt 3.389731710180695
+data.zdmw.txt 5.372597648141796
+data.zdwz.txt 5.372597648141796
+data.zebv.txt 5.372597648141796

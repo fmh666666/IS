@@ -1,5 +1,5 @@
 4
-data.zabe.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zddv.txt 2
+data.zabe.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zcts.txt 3.389731710180695
+data.zddv.txt 5.372597648141796

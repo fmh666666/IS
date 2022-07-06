@@ -1,5 +1,5 @@
 4
-data.xe.txt 4
-data.zasw.txt 3
-data.zbor.txt 2
-data.zcqs.txt 1
+data.xe.txt 7.870713291999142
+data.zasw.txt 6.77946342036139
+data.zbor.txt 5.372597648141796
+data.zcqs.txt 3.389731710180695

@@ -1,8 +1,8 @@
 7
-data.ng.txt 6
-data.to.txt 1
-data.zalm.txt 1
-data.zcic.txt 1
-data.zefs.txt 1
-data.zerh.txt 1
-data.zevl.txt 3
+data.ng.txt 8.427217959715389
+data.to.txt 3.0018356045764243
+data.zalm.txt 3.0018356045764243
+data.zcic.txt 3.0018356045764243
+data.zefs.txt 3.0018356045764243
+data.zerh.txt 3.0018356045764243
+data.zevl.txt 6.003671209152849

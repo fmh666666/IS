@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zemb.txt 1
-data.zeoo.txt 1
-data.zewn.txt 1
+data.op.txt 3.389731710180695
+data.zemb.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695
+data.zewn.txt 3.389731710180695

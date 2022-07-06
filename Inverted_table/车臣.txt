@@ -1,5 +1,5 @@
 4
-data.zaqw.txt 1
-data.zaun.txt 1
-data.zcpb.txt 1
-data.zddx.txt 1
+data.zaqw.txt 3.389731710180695
+data.zaun.txt 3.389731710180695
+data.zcpb.txt 3.389731710180695
+data.zddx.txt 3.389731710180695

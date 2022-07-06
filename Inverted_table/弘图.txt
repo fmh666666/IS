@@ -1,2 +1,2 @@
 1
-data.zduo.txt 3
+data.zduo.txt 8.701275476034196

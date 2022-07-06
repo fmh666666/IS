@@ -1,4 +1,4 @@
 3
-data.zccu.txt 1
-data.zdaq.txt 1
-data.zdar.txt 1
+data.zccu.txt 3.5891377275982888
+data.zdaq.txt 3.5891377275982888
+data.zdar.txt 3.5891377275982888

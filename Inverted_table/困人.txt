@@ -1,7 +1,7 @@
 6
-data.zane.txt 1
-data.zbcj.txt 2
-data.zbwa.txt 1
-data.zctm.txt 2
-data.zdep.txt 1
-data.zebc.txt 1
+data.zane.txt 3.1086847136800873
+data.zbcj.txt 4.927148697748023
+data.zbwa.txt 3.1086847136800873
+data.zctm.txt 4.927148697748023
+data.zdep.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zaxk.txt 2
-data.zbeb.txt 1
-data.zbuj.txt 1
-data.zdpz.txt 1
+data.tz.txt 3.235060386727117
+data.zaxk.txt 5.1274494005309625
+data.zbeb.txt 3.235060386727117
+data.zbuj.txt 3.235060386727117
+data.zdpz.txt 3.235060386727117

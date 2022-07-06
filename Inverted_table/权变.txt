@@ -1,4 +1,4 @@
 3
-data.zbsd.txt 1
-data.zdkp.txt 1
-data.zebn.txt 1
+data.zbsd.txt 3.5891377275982888
+data.zdkp.txt 3.5891377275982888
+data.zebn.txt 3.5891377275982888

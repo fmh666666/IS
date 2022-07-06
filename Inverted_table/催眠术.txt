@@ -1,6 +1,6 @@
 5
-data.fj.txt 2
-data.ok.txt 1
-data.zabe.txt 1
-data.zafy.txt 1
-data.zddx.txt 1
+data.fj.txt 5.1274494005309625
+data.ok.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zafy.txt 3.235060386727117
+data.zddx.txt 3.235060386727117

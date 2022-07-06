@@ -1,6 +1,6 @@
 5
-data.fp.txt 2
-data.zbkf.txt 1
-data.zcef.txt 1
-data.zctm.txt 2
-data.zedd.txt 1
+data.fp.txt 5.1274494005309625
+data.zbkf.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zctm.txt 5.1274494005309625
+data.zedd.txt 3.235060386727117

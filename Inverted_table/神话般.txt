@@ -1,9 +1,9 @@
 8
-data.zasr.txt 1
-data.zavg.txt 1
-data.zcfn.txt 2
-data.zczl.txt 1
-data.zddm.txt 1
-data.zdgp.txt 1
-data.zeez.txt 1
-data.zesq.txt 1
+data.zasr.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zcfn.txt 4.611097637722987
+data.zczl.txt 2.9092786962624935
+data.zddm.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zeez.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935

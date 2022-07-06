@@ -1,4 +1,4 @@
 3
-data.ek.txt 1
-data.zctm.txt 1
-data.zdwl.txt 2
+data.ek.txt 3.5891377275982888
+data.zctm.txt 3.5891377275982888
+data.zdwl.txt 5.688648708166832

@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.tv.txt 1
-data.zbzg.txt 1
-data.zclh.txt 1
-data.zdkp.txt 2
-data.zeaj.txt 2
+data.cf.txt 3.1086847136800873
+data.tv.txt 3.1086847136800873
+data.zbzg.txt 3.1086847136800873
+data.zclh.txt 3.1086847136800873
+data.zdkp.txt 4.927148697748023
+data.zeaj.txt 4.927148697748023

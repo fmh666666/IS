@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.zaeh.txt 1
-data.zaoc.txt 2
-data.zbia.txt 1
+data.ga.txt 3.389731710180695
+data.zaeh.txt 3.389731710180695
+data.zaoc.txt 5.372597648141796
+data.zbia.txt 3.389731710180695

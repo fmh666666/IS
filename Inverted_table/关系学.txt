@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.qb.txt 1
-data.zbjk.txt 1
-data.zbut.txt 1
-data.zbzf.txt 1
-data.zdhv.txt 1
+data.ga.txt 3.1086847136800873
+data.qb.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbut.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zdhv.txt 3.1086847136800873

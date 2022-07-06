@@ -1,13 +1,13 @@
 12
-data.cq.txt 2
-data.ha.txt 1
-data.pq.txt 1
-data.zair.txt 1
-data.zake.txt 1
-data.zalj.txt 1
-data.zalt.txt 2
-data.zapf.txt 2
-data.zaxj.txt 2
-data.zazn.txt 1
-data.zbjk.txt 1
-data.zcts.txt 1
+data.cq.txt 4.165648687329214
+data.ha.txt 2.628231699761886
+data.pq.txt 2.628231699761886
+data.zair.txt 2.628231699761886
+data.zake.txt 2.628231699761886
+data.zalj.txt 2.628231699761886
+data.zalt.txt 4.165648687329214
+data.zapf.txt 4.165648687329214
+data.zaxj.txt 4.165648687329214
+data.zazn.txt 2.628231699761886
+data.zbjk.txt 2.628231699761886
+data.zcts.txt 2.628231699761886

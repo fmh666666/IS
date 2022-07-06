@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zarr.txt 2
-data.zawc.txt 1
-data.zehp.txt 3
-data.zerv.txt 1
+data.zalm.txt 3.235060386727117
+data.zarr.txt 5.1274494005309625
+data.zawc.txt 3.235060386727117
+data.zehp.txt 6.470120773454234
+data.zerv.txt 3.235060386727117

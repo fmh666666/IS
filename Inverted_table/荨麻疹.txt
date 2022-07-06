@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.zagr.txt 2
-data.zapr.txt 1
-data.zbpc.txt 1
-data.zctp.txt 1
-data.zcxp.txt 1
-data.zefw.txt 1
-data.zeyg.txt 1
-data.zfcg.txt 1
+data.ka.txt 2.82763771717948
+data.zagr.txt 4.48169974735425
+data.zapr.txt 2.82763771717948
+data.zbpc.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zcxp.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zeyg.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.kt.txt 1
-data.zcpa.txt 2
-data.zdof.txt 2
+data.ga.txt 3.389731710180695
+data.kt.txt 3.389731710180695
+data.zcpa.txt 5.372597648141796
+data.zdof.txt 5.372597648141796

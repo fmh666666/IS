@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.fp.txt 1
-data.zamr.txt 1
-data.zapr.txt 1
-data.zazn.txt 1
-data.zcic.txt 1
-data.zdby.txt 1
-data.zduo.txt 2
+data.ew.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.zamr.txt 2.9092786962624935
+data.zapr.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zduo.txt 4.611097637722987

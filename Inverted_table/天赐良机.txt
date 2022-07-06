@@ -1,4 +1,4 @@
 3
-data.dg.txt 4
-data.zbye.txt 1
-data.zbzo.txt 1
+data.dg.txt 8.333719726130651
+data.zbye.txt 3.5891377275982888
+data.zbzo.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.zbvf.txt 1
-data.zbxy.txt 1
-data.zdof.txt 1
-data.zess.txt 1
-data.zewp.txt 1
-data.zfai.txt 1
+data.zbvf.txt 3.1086847136800873
+data.zbxy.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873
+data.zewp.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

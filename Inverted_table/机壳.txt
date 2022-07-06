@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.mt.txt 2
-data.qn.txt 1
-data.zamr.txt 1
-data.zaoy.txt 1
-data.zcbm.txt 1
-data.zdhv.txt 1
-data.zexk.txt 1
+data.dg.txt 2.9092786962624935
+data.mt.txt 4.611097637722987
+data.qn.txt 2.9092786962624935
+data.zamr.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zcbm.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zexk.txt 2.9092786962624935

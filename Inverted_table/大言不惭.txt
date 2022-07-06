@@ -1,8 +1,8 @@
 7
-data.zabe.txt 1
-data.zaoo.txt 1
-data.zbpc.txt 1
-data.zcse.txt 1
-data.zdfl.txt 1
-data.zdoq.txt 1
-data.zeyy.txt 1
+data.zabe.txt 3.0018356045764243
+data.zaoo.txt 3.0018356045764243
+data.zbpc.txt 3.0018356045764243
+data.zcse.txt 3.0018356045764243
+data.zdfl.txt 3.0018356045764243
+data.zdoq.txt 3.0018356045764243
+data.zeyy.txt 3.0018356045764243

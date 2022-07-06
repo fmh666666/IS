@@ -1,7 +1,7 @@
 6
-data.zbnp.txt 1
-data.zbzf.txt 1
-data.zcdv.txt 2
-data.zdlw.txt 1
-data.zeec.txt 1
-data.zezn.txt 1
+data.zbnp.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcdv.txt 4.927148697748023
+data.zdlw.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873

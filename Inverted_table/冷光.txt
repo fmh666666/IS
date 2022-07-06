@@ -1,6 +1,6 @@
 5
-data.ud.txt 2
-data.zcbm.txt 3
-data.zdar.txt 4
-data.zdpf.txt 1
-data.zeag.txt 1
+data.ud.txt 5.1274494005309625
+data.zcbm.txt 6.470120773454234
+data.zdar.txt 7.511577600598868
+data.zdpf.txt 3.235060386727117
+data.zeag.txt 3.235060386727117

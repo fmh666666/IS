@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.zavx.txt 1
-data.zawb.txt 1
-data.zbcj.txt 1
-data.zcdy.txt 1
-data.zdga.txt 5
-data.zelt.txt 3
-data.zevy.txt 1
+data.dg.txt 2.9092786962624935
+data.zavx.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zdga.txt 7.52037633398548
+data.zelt.txt 5.818557392524987
+data.zevy.txt 2.9092786962624935

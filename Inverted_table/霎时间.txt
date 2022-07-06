@@ -1,5 +1,5 @@
 4
-data.zbpm.txt 1
-data.zcgi.txt 1
-data.zdhw.txt 1
-data.zeay.txt 1
+data.zbpm.txt 3.389731710180695
+data.zcgi.txt 3.389731710180695
+data.zdhw.txt 3.389731710180695
+data.zeay.txt 3.389731710180695

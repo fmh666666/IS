@@ -1,2 +1,2 @@
 1
-data.fz.txt 4
+data.fz.txt 10.101867994579104

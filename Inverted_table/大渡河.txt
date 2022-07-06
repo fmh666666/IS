@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.qn.txt 1
-data.zcdl.txt 2
-data.zcln.txt 1
-data.zctp.txt 1
-data.zelj.txt 1
+data.bf.txt 3.1086847136800873
+data.qn.txt 3.1086847136800873
+data.zcdl.txt 4.927148697748023
+data.zcln.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zelj.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zawb.txt 1
-data.zcfn.txt 1
-data.zcis.txt 1
-data.zdod.txt 1
+data.zabe.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zcis.txt 3.235060386727117
+data.zdod.txt 3.235060386727117

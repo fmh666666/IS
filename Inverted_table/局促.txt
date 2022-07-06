@@ -1,6 +1,6 @@
 5
-data.zbse.txt 1
-data.zdwz.txt 1
-data.zeam.txt 1
-data.zene.txt 1
-data.zexm.txt 1
+data.zbse.txt 3.235060386727117
+data.zdwz.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

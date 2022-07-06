@@ -1,6 +1,6 @@
 5
-data.jf.txt 3
-data.zbaf.txt 1
-data.zbjh.txt 3
-data.zelt.txt 1
-data.zfae.txt 1
+data.jf.txt 6.470120773454234
+data.zbaf.txt 3.235060386727117
+data.zbjh.txt 6.470120773454234
+data.zelt.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.hg.txt 1
-data.to.txt 1
-data.zasy.txt 1
-data.zawo.txt 1
-data.zawu.txt 1
-data.zbor.txt 2
-data.zccl.txt 1
-data.zcis.txt 1
-data.zcqs.txt 1
-data.zdqx.txt 1
-data.zdzn.txt 1
+data.hg.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.zasy.txt 2.6885433903988862
+data.zawo.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zbor.txt 4.261240455343955
+data.zccl.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zdqx.txt 2.6885433903988862
+data.zdzn.txt 2.6885433903988862

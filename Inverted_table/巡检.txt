@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.nh.txt 1
-data.vm.txt 1
-data.zccx.txt 1
-data.zczl.txt 1
-data.zelj.txt 1
+data.gw.txt 3.1086847136800873
+data.nh.txt 3.1086847136800873
+data.vm.txt 3.1086847136800873
+data.zccx.txt 3.1086847136800873
+data.zczl.txt 3.1086847136800873
+data.zelj.txt 3.1086847136800873

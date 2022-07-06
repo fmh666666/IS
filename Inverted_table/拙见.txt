@@ -1,4 +1,4 @@
 3
-data.yx.txt 1
-data.zcdy.txt 1
-data.zcpb.txt 1
+data.yx.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zcpb.txt 3.5891377275982888

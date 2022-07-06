@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.fz.txt 1
-data.zalt.txt 2
-data.zeqv.txt 4
-data.zfbr.txt 4
+data.cq.txt 3.235060386727117
+data.fz.txt 3.235060386727117
+data.zalt.txt 5.1274494005309625
+data.zeqv.txt 7.511577600598868
+data.zfbr.txt 7.511577600598868

@@ -1,2 +1,2 @@
 1
-data.zbem.txt 12
+data.zbem.txt 16.09927268500199

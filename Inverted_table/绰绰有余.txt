@@ -1,7 +1,7 @@
 6
-data.pa.txt 1
-data.zawb.txt 1
-data.zcdv.txt 1
-data.zcll.txt 1
-data.zczl.txt 2
-data.zdby.txt 2
+data.pa.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zcll.txt 3.1086847136800873
+data.zczl.txt 4.927148697748023
+data.zdby.txt 4.927148697748023

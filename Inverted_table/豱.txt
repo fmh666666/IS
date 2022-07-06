@@ -1,2 +1,2 @@
 1
-data.zbbt.txt 1
+data.zbbt.txt 4.350637738017098

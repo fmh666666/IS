@@ -1,7 +1,7 @@
 6
-data.zbfr.txt 1
-data.zciq.txt 1
-data.zcqp.txt 1
-data.zdaq.txt 1
-data.zedd.txt 1
-data.zedy.txt 1
+data.zbfr.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zdaq.txt 3.1086847136800873
+data.zedd.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873

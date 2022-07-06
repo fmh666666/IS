@@ -1,14 +1,14 @@
 13
-data.ga.txt 2
-data.ye.txt 1
-data.zaxk.txt 1
-data.zbsu.txt 1
-data.zbts.txt 2
-data.zbyb.txt 1
-data.zcmn.txt 1
-data.zcsu.txt 1
-data.zdds.txt 1
-data.zdgp.txt 1
-data.zefp.txt 5
-data.zeoo.txt 2
-data.zexx.txt 2
+data.ga.txt 4.077712785060798
+data.ye.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zbts.txt 4.077712785060798
+data.zbyb.txt 2.5727503226135906
+data.zcmn.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zdds.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zefp.txt 6.650463107674388
+data.zeoo.txt 4.077712785060798
+data.zexx.txt 4.077712785060798

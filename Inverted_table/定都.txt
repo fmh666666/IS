@@ -1,6 +1,6 @@
 5
-data.wc.txt 2
-data.zblr.txt 1
-data.zdil.txt 1
-data.zedy.txt 1
-data.zeqv.txt 1
+data.wc.txt 5.1274494005309625
+data.zblr.txt 3.235060386727117
+data.zdil.txt 3.235060386727117
+data.zedy.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.xk.txt 1
-data.zabe.txt 1
-data.zaun.txt 1
-data.zexm.txt 5
+data.bb.txt 3.235060386727117
+data.xk.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zaun.txt 3.235060386727117
+data.zexm.txt 8.362509787258078

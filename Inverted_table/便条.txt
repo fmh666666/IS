@@ -1,4 +1,4 @@
 3
-data.fj.txt 1
-data.zasr.txt 1
-data.zeam.txt 1
+data.fj.txt 3.5891377275982888
+data.zasr.txt 3.5891377275982888
+data.zeam.txt 3.5891377275982888

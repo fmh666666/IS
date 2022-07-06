@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.zaxk.txt 3
-data.zbdx.txt 2
-data.zeoh.txt 1
+data.mi.txt 3.389731710180695
+data.zaxk.txt 6.77946342036139
+data.zbdx.txt 5.372597648141796
+data.zeoh.txt 3.389731710180695

@@ -1,14 +1,14 @@
 13
-data.bs.txt 3
-data.ng.txt 1
-data.tv.txt 1
-data.zaip.txt 1
-data.zajh.txt 1
-data.zbes.txt 1
-data.zcee.txt 1
-data.zdar.txt 1
-data.zdro.txt 1
-data.zdzm.txt 2
-data.zfae.txt 1
-data.zfby.txt 1
-data.zfdk.txt 1
+data.bs.txt 5.145500645227181
+data.ng.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.zaip.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zbes.txt 2.5727503226135906
+data.zcee.txt 2.5727503226135906
+data.zdar.txt 2.5727503226135906
+data.zdro.txt 2.5727503226135906
+data.zdzm.txt 4.077712785060798
+data.zfae.txt 2.5727503226135906
+data.zfby.txt 2.5727503226135906
+data.zfdk.txt 2.5727503226135906

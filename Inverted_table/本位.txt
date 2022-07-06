@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.mt.txt 1
-data.zawo.txt 2
-data.zbdx.txt 1
-data.zcfx.txt 1
-data.zene.txt 1
-data.zezy.txt 2
-data.zfcg.txt 4
+data.jf.txt 2.9092786962624935
+data.mt.txt 2.9092786962624935
+data.zawo.txt 4.611097637722987
+data.zbdx.txt 2.9092786962624935
+data.zcfx.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935
+data.zezy.txt 4.611097637722987
+data.zfcg.txt 6.7551359407091605

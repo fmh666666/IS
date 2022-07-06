@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zafq.txt 1
-data.zbcc.txt 1
-data.zdud.txt 1
-data.zeoo.txt 1
+data.zadv.txt 3.235060386727117
+data.zafq.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

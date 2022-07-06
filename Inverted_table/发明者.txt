@@ -1,13 +1,13 @@
 12
-data.jj.txt 1
-data.zafl.txt 1
-data.zaic.txt 1
-data.zawo.txt 2
-data.zbfz.txt 1
-data.zbor.txt 1
-data.zbpp.txt 1
-data.zcjd.txt 1
-data.zcts.txt 2
-data.zdji.txt 1
-data.zdqz.txt 1
-data.zedd.txt 1
+data.jj.txt 2.628231699761886
+data.zafl.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zawo.txt 4.165648687329214
+data.zbfz.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zcjd.txt 2.628231699761886
+data.zcts.txt 4.165648687329214
+data.zdji.txt 2.628231699761886
+data.zdqz.txt 2.628231699761886
+data.zedd.txt 2.628231699761886

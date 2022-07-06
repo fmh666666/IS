@@ -1,4 +1,4 @@
 3
-data.dg.txt 2
-data.zaxp.txt 1
-data.zcxr.txt 3
+data.dg.txt 5.688648708166832
+data.zaxp.txt 3.5891377275982888
+data.zcxr.txt 7.1782754551965775

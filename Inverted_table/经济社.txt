@@ -1,12 +1,12 @@
 11
-data.ga.txt 3
-data.gw.txt 1
-data.hc.txt 1
-data.zahd.txt 4
-data.zaim.txt 1
-data.zbpc.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcts.txt 1
-data.zeoh.txt 1
-data.zfcg.txt 1
+data.ga.txt 5.3770867807977725
+data.gw.txt 2.6885433903988862
+data.hc.txt 2.6885433903988862
+data.zahd.txt 6.2426044324908965
+data.zaim.txt 2.6885433903988862
+data.zbpc.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862
+data.zfcg.txt 2.6885433903988862

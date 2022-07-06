@@ -1,13 +1,13 @@
 12
-data.tj.txt 1
-data.zbor.txt 2
-data.zcee.txt 1
-data.zctn.txt 2
-data.zdkc.txt 1
-data.zeai.txt 1
-data.zeez.txt 1
-data.zefw.txt 1
-data.zegk.txt 1
-data.zeoh.txt 1
-data.zeos.txt 2
-data.zeqh.txt 1
+data.tj.txt 2.628231699761886
+data.zbor.txt 4.165648687329214
+data.zcee.txt 2.628231699761886
+data.zctn.txt 4.165648687329214
+data.zdkc.txt 2.628231699761886
+data.zeai.txt 2.628231699761886
+data.zeez.txt 2.628231699761886
+data.zefw.txt 2.628231699761886
+data.zegk.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zeos.txt 4.165648687329214
+data.zeqh.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.zadv.txt 1
-data.zbxw.txt 5
-data.zfcj.txt 1
+data.zadv.txt 3.5891377275982888
+data.zbxw.txt 9.27778643576512
+data.zfcj.txt 3.5891377275982888

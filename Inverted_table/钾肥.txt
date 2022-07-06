@@ -1,3 +1,3 @@
 2
-data.hg.txt 1
-data.zelt.txt 4
+data.hg.txt 3.8701847240988965
+data.zelt.txt 8.986290643289122

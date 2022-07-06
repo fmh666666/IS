@@ -1,7 +1,7 @@
 6
-data.fj.txt 1
-data.zaet.txt 1
-data.zbye.txt 1
-data.zcqg.txt 1
-data.zdgo.txt 5
-data.zdgp.txt 15
+data.fj.txt 3.1086847136800873
+data.zaet.txt 3.1086847136800873
+data.zbye.txt 3.1086847136800873
+data.zcqg.txt 3.1086847136800873
+data.zdgo.txt 8.03583341142811
+data.zdgp.txt 12.434738854720349

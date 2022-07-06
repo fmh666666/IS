@@ -1,4 +1,4 @@
 3
-data.mk.txt 1
-data.zdmw.txt 1
-data.zdpz.txt 2
+data.mk.txt 3.5891377275982888
+data.zdmw.txt 3.5891377275982888
+data.zdpz.txt 5.688648708166832

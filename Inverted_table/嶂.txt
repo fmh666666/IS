@@ -1,4 +1,4 @@
 3
-data.yx.txt 1
-data.zbsf.txt 1
-data.zcwq.txt 1
+data.yx.txt 3.5891377275982888
+data.zbsf.txt 3.5891377275982888
+data.zcwq.txt 3.5891377275982888

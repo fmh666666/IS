@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zbkr.txt 1
-data.zbts.txt 1
-data.zbwq.txt 1
-data.zevy.txt 2
+data.to.txt 3.235060386727117
+data.zbkr.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zevy.txt 5.1274494005309625

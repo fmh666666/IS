@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.zbcj.txt 1
-data.zbsf.txt 1
-data.zddv.txt 1
-data.zdwl.txt 2
-data.zdwn.txt 1
-data.zdzg.txt 1
-data.zemb.txt 1
+data.cf.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zdwl.txt 4.611097637722987
+data.zdwn.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935

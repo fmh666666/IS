@@ -1,13 +1,13 @@
 12
-data.tz.txt 1
-data.zbia.txt 1
-data.zblr.txt 2
-data.zcli.txt 1
-data.zcqp.txt 1
-data.zcue.txt 1
-data.zdaw.txt 1
-data.zdil.txt 1
-data.zdqx.txt 1
-data.zenn.txt 1
-data.zexv.txt 1
-data.zfai.txt 1
+data.tz.txt 2.628231699761886
+data.zbia.txt 2.628231699761886
+data.zblr.txt 4.165648687329214
+data.zcli.txt 2.628231699761886
+data.zcqp.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zdil.txt 2.628231699761886
+data.zdqx.txt 2.628231699761886
+data.zenn.txt 2.628231699761886
+data.zexv.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

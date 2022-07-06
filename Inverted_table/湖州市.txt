@@ -1,4 +1,4 @@
 3
-data.zako.txt 2
-data.zctp.txt 1
-data.zevy.txt 1
+data.zako.txt 5.688648708166832
+data.zctp.txt 3.5891377275982888
+data.zevy.txt 3.5891377275982888

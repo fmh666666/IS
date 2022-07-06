@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zeqv.txt 1
-data.zeyy.txt 1
+data.jf.txt 3.5891377275982888
+data.zeqv.txt 3.5891377275982888
+data.zeyy.txt 3.5891377275982888

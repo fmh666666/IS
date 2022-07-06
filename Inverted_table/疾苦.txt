@@ -1,9 +1,9 @@
 8
-data.jf.txt 1
-data.op.txt 1
-data.zabe.txt 1
-data.zamp.txt 1
-data.zbjh.txt 2
-data.zdaw.txt 1
-data.zdgt.txt 1
-data.zfcg.txt 1
+data.jf.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zamp.txt 2.9092786962624935
+data.zbjh.txt 4.611097637722987
+data.zdaw.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

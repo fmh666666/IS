@@ -1,4 +1,4 @@
 3
-data.zagb.txt 2
-data.zdwn.txt 1
-data.zexv.txt 1
+data.zagb.txt 5.688648708166832
+data.zdwn.txt 3.5891377275982888
+data.zexv.txt 3.5891377275982888

@@ -1,8 +1,8 @@
 7
-data.zawu.txt 7
-data.zbwa.txt 1
-data.zcni.txt 1
-data.zctp.txt 1
-data.zcxr.txt 2
-data.zdkk.txt 2
-data.zdkv.txt 1
+data.zawu.txt 9.005506813729273
+data.zbwa.txt 3.0018356045764243
+data.zcni.txt 3.0018356045764243
+data.zctp.txt 3.0018356045764243
+data.zcxr.txt 4.757796866583254
+data.zdkk.txt 4.757796866583254
+data.zdkv.txt 3.0018356045764243

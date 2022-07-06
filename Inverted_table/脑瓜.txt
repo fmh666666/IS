@@ -1,4 +1,4 @@
 3
-data.aj.txt 1
-data.zadv.txt 1
-data.zenw.txt 2
+data.aj.txt 3.5891377275982888
+data.zadv.txt 3.5891377275982888
+data.zenw.txt 5.688648708166832

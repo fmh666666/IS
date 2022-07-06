@@ -1,6 +1,6 @@
 5
-data.zbkj.txt 1
-data.zbsu.txt 1
-data.zcih.txt 1
-data.zcxp.txt 1
-data.zdof.txt 1
+data.zbkj.txt 3.235060386727117
+data.zbsu.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zcxp.txt 3.235060386727117
+data.zdof.txt 3.235060386727117

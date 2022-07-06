@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zawo.txt 2
-data.zcef.txt 1
+data.jf.txt 3.5891377275982888
+data.zawo.txt 5.688648708166832
+data.zcef.txt 3.5891377275982888

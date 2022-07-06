@@ -1,14 +1,14 @@
 13
-data.op.txt 1
-data.zawu.txt 1
-data.zcel.txt 1
-data.zcfn.txt 1
-data.zcjd.txt 1
-data.zcjo.txt 1
-data.zdpz.txt 3
-data.zdud.txt 1
-data.zedd.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zerh.txt 1
-data.zevy.txt 2
+data.op.txt 2.5727503226135906
+data.zawu.txt 2.5727503226135906
+data.zcel.txt 2.5727503226135906
+data.zcfn.txt 2.5727503226135906
+data.zcjd.txt 2.5727503226135906
+data.zcjo.txt 2.5727503226135906
+data.zdpz.txt 5.145500645227181
+data.zdud.txt 2.5727503226135906
+data.zedd.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zerh.txt 2.5727503226135906
+data.zevy.txt 4.077712785060798

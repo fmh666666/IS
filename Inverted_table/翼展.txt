@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zbmt.txt 1
-data.zcqs.txt 1
-data.zewn.txt 1
-data.zfai.txt 1
+data.bb.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zcqs.txt 3.235060386727117
+data.zewn.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

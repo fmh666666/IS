@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.zanh.txt 2
-data.zaoc.txt 1
-data.zbof.txt 1
-data.zbta.txt 2
-data.zbua.txt 1
-data.zbux.txt 1
-data.zbvf.txt 1
-data.zcwn.txt 1
-data.zdnc.txt 1
-data.zedo.txt 1
-data.zeec.txt 2
+data.cz.txt 2.628231699761886
+data.zanh.txt 4.165648687329214
+data.zaoc.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zbta.txt 4.165648687329214
+data.zbua.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zbvf.txt 2.628231699761886
+data.zcwn.txt 2.628231699761886
+data.zdnc.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zeec.txt 4.165648687329214

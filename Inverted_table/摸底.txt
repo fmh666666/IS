@@ -1,10 +1,10 @@
 9
-data.cn.txt 1
-data.mk.txt 1
-data.zbhe.txt 1
-data.zbia.txt 1
-data.zbsf.txt 2
-data.zcku.txt 1
-data.zcll.txt 2
-data.zdgt.txt 1
-data.zdkc.txt 1
+data.cn.txt 2.82763771717948
+data.mk.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zbsf.txt 4.48169974735425
+data.zcku.txt 2.82763771717948
+data.zcll.txt 4.48169974735425
+data.zdgt.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948

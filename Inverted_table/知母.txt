@@ -1,6 +1,6 @@
 5
-data.zalt.txt 1
-data.zbaq.txt 1
-data.zbjh.txt 1
-data.zdgt.txt 1
-data.zfaj.txt 3
+data.zalt.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zbjh.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zfaj.txt 6.470120773454234

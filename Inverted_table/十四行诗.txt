@@ -1,3 +1,3 @@
 2
-data.zbds.txt 1
-data.zfbr.txt 1
+data.zbds.txt 3.8701847240988965
+data.zfbr.txt 3.8701847240988965

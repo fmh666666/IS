@@ -1,14 +1,14 @@
 13
-data.ud.txt 1
-data.zasw.txt 1
-data.zawu.txt 2
-data.zaxp.txt 1
-data.zbga.txt 1
-data.zbmt.txt 1
-data.zbnx.txt 1
-data.zbpx.txt 1
-data.zcpa.txt 2
-data.zdpf.txt 1
-data.zdpg.txt 5
-data.zdro.txt 2
-data.zeew.txt 2
+data.ud.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zawu.txt 4.077712785060798
+data.zaxp.txt 2.5727503226135906
+data.zbga.txt 2.5727503226135906
+data.zbmt.txt 2.5727503226135906
+data.zbnx.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcpa.txt 4.077712785060798
+data.zdpf.txt 2.5727503226135906
+data.zdpg.txt 6.650463107674388
+data.zdro.txt 4.077712785060798
+data.zeew.txt 4.077712785060798

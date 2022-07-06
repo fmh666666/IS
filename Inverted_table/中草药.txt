@@ -1,8 +1,8 @@
 7
-data.jf.txt 1
-data.zadv.txt 1
-data.zaet.txt 1
-data.zaqw.txt 1
-data.zasd.txt 2
-data.zazo.txt 1
-data.zeyg.txt 2
+data.jf.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zaet.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zasd.txt 4.757796866583254
+data.zazo.txt 3.0018356045764243
+data.zeyg.txt 4.757796866583254

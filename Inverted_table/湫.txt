@@ -1,9 +1,9 @@
 8
-data.tz.txt 2
-data.zarc.txt 1
-data.zawz.txt 1
-data.zbfd.txt 2
-data.zdeq.txt 1
-data.zdlm.txt 1
-data.zdlw.txt 1
-data.zevy.txt 3
+data.tz.txt 4.611097637722987
+data.zarc.txt 2.9092786962624935
+data.zawz.txt 2.9092786962624935
+data.zbfd.txt 4.611097637722987
+data.zdeq.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zevy.txt 5.818557392524987

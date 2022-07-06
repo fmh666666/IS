@@ -1,14 +1,14 @@
 13
-data.dg.txt 1
-data.fe.txt 1
-data.gw.txt 1
-data.zaqr.txt 2
-data.zass.txt 2
-data.zbrj.txt 1
-data.zccu.txt 2
-data.zcdg.txt 1
-data.zctm.txt 1
-data.zctp.txt 1
-data.zdtr.txt 2
-data.zeve.txt 1
-data.zfaw.txt 1
+data.dg.txt 2.5727503226135906
+data.fe.txt 2.5727503226135906
+data.gw.txt 2.5727503226135906
+data.zaqr.txt 4.077712785060798
+data.zass.txt 4.077712785060798
+data.zbrj.txt 2.5727503226135906
+data.zccu.txt 4.077712785060798
+data.zcdg.txt 2.5727503226135906
+data.zctm.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zdtr.txt 4.077712785060798
+data.zeve.txt 2.5727503226135906
+data.zfaw.txt 2.5727503226135906

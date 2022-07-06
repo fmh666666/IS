@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.jd.txt 1
-data.zacp.txt 1
-data.zagr.txt 1
-data.zall.txt 1
-data.zaoy.txt 1
-data.zaxj.txt 1
-data.zbnx.txt 1
-data.zefw.txt 1
+data.ga.txt 2.82763771717948
+data.jd.txt 2.82763771717948
+data.zacp.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zaoy.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zefw.txt 2.82763771717948

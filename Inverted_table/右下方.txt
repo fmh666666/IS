@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zbcj.txt 1
-data.zcue.txt 1
-data.zdpw.txt 1
-data.zdwn.txt 1
-data.zesi.txt 1
-data.zexv.txt 1
-data.zeyy.txt 1
+data.ok.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zesi.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935
+data.zeyy.txt 2.9092786962624935

@@ -1,8 +1,8 @@
 7
-data.zbga.txt 1
-data.zbse.txt 1
-data.zcdv.txt 1
-data.zcqg.txt 1
-data.zcvq.txt 1
-data.zcww.txt 1
-data.zebc.txt 2
+data.zbga.txt 3.0018356045764243
+data.zbse.txt 3.0018356045764243
+data.zcdv.txt 3.0018356045764243
+data.zcqg.txt 3.0018356045764243
+data.zcvq.txt 3.0018356045764243
+data.zcww.txt 3.0018356045764243
+data.zebc.txt 4.757796866583254

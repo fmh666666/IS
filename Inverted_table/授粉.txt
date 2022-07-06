@@ -1,4 +1,4 @@
 3
-data.zako.txt 3
-data.zavx.txt 1
-data.zbfz.txt 1
+data.zako.txt 7.1782754551965775
+data.zavx.txt 3.5891377275982888
+data.zbfz.txt 3.5891377275982888

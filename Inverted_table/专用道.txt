@@ -1,6 +1,6 @@
 5
-data.hz.txt 3
-data.zarr.txt 1
-data.zbdx.txt 6
-data.zciq.txt 1
-data.zfai.txt 1
+data.hz.txt 6.470120773454234
+data.zarr.txt 3.235060386727117
+data.zbdx.txt 9.081962699831948
+data.zciq.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

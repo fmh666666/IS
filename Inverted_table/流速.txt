@@ -1,5 +1,5 @@
 4
-data.zaop.txt 1
-data.zbkr.txt 2
-data.zcak.txt 46
-data.zcql.txt 2
+data.zaop.txt 3.389731710180695
+data.zbkr.txt 5.372597648141796
+data.zcak.txt 18.82856596754786
+data.zcql.txt 5.372597648141796

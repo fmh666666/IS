@@ -1,7 +1,7 @@
 6
-data.zamp.txt 1
-data.zbvn.txt 4
-data.zbvp.txt 4
-data.zcdv.txt 1
-data.zcrn.txt 1
-data.zdaq.txt 2
+data.zamp.txt 3.1086847136800873
+data.zbvn.txt 7.21814237484067
+data.zbvp.txt 7.21814237484067
+data.zcdv.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873
+data.zdaq.txt 4.927148697748023

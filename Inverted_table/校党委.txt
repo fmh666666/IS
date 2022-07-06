@@ -1,4 +1,4 @@
 3
-data.zajh.txt 1
-data.zavx.txt 1
-data.zess.txt 1
+data.zajh.txt 3.5891377275982888
+data.zavx.txt 3.5891377275982888
+data.zess.txt 3.5891377275982888

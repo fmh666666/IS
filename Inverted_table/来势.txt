@@ -1,9 +1,9 @@
 8
-data.pn.txt 1
-data.zavg.txt 1
-data.zbdx.txt 1
-data.zcpx.txt 1
-data.zdil.txt 1
-data.zeeh.txt 1
-data.zemb.txt 1
-data.zfaz.txt 1
+data.pn.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zbdx.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

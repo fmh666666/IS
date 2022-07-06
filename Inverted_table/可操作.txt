@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zbup.txt 1
-data.zdar.txt 2
-data.zenn.txt 1
+data.op.txt 3.389731710180695
+data.zbup.txt 3.389731710180695
+data.zdar.txt 5.372597648141796
+data.zenn.txt 3.389731710180695

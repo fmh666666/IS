@@ -1,9 +1,9 @@
 8
-data.jj.txt 4
-data.kq.txt 1
-data.zbcv.txt 2
-data.zcdy.txt 1
-data.zciy.txt 1
-data.zdey.txt 1
-data.zdgt.txt 1
-data.zdqz.txt 1
+data.jj.txt 6.7551359407091605
+data.kq.txt 2.9092786962624935
+data.zbcv.txt 4.611097637722987
+data.zcdy.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zdey.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zdqz.txt 2.9092786962624935

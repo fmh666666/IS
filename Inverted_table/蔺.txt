@@ -1,14 +1,14 @@
 13
-data.mk.txt 1
-data.zadv.txt 2
-data.zank.txt 1
-data.zaxj.txt 1
-data.zccu.txt 3
-data.zcmx.txt 1
-data.zcsu.txt 1
-data.zcxr.txt 1
-data.zdlm.txt 1
-data.zdpg.txt 3
-data.zeaj.txt 1
-data.zeoo.txt 1
-data.zfcj.txt 1
+data.mk.txt 2.5727503226135906
+data.zadv.txt 4.077712785060798
+data.zank.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zccu.txt 5.145500645227181
+data.zcmx.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zcxr.txt 2.5727503226135906
+data.zdlm.txt 2.5727503226135906
+data.zdpg.txt 5.145500645227181
+data.zeaj.txt 2.5727503226135906
+data.zeoo.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

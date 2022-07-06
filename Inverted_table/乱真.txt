@@ -1,6 +1,6 @@
 5
-data.zcej.txt 1
-data.zcgi.txt 1
-data.zdar.txt 1
-data.zdgp.txt 1
-data.zejk.txt 1
+data.zcej.txt 3.235060386727117
+data.zcgi.txt 3.235060386727117
+data.zdar.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zejk.txt 3.235060386727117

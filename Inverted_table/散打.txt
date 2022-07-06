@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zbes.txt 1
-data.zbse.txt 1
-data.zchw.txt 1
-data.zcmx.txt 1
-data.zddb.txt 1
-data.zdsh.txt 1
-data.zedx.txt 1
+data.op.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zbse.txt 2.9092786962624935
+data.zchw.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zddb.txt 2.9092786962624935
+data.zdsh.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935

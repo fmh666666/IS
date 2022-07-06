@@ -1,7 +1,7 @@
 6
-data.gw.txt 1
-data.zbsl.txt 1
-data.zbzo.txt 1
-data.zdga.txt 3
-data.zelt.txt 1
-data.zeyu.txt 1
+data.gw.txt 3.1086847136800873
+data.zbsl.txt 3.1086847136800873
+data.zbzo.txt 3.1086847136800873
+data.zdga.txt 6.2173694273601745
+data.zelt.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

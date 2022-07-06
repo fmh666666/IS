@@ -1,4 +1,4 @@
 3
-data.gw.txt 2
-data.zefs.txt 1
-data.zezy.txt 1
+data.gw.txt 5.688648708166832
+data.zefs.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

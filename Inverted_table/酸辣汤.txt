@@ -1,6 +1,6 @@
 5
-data.zbfr.txt 1
-data.zdga.txt 1
-data.zeil.txt 1
-data.zevt.txt 1
-data.zfaw.txt 1
+data.zbfr.txt 3.235060386727117
+data.zdga.txt 3.235060386727117
+data.zeil.txt 3.235060386727117
+data.zevt.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

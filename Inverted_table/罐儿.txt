@@ -1,8 +1,8 @@
 7
-data.zajh.txt 6
-data.zaoo.txt 1
-data.zdrq.txt 1
-data.zdzn.txt 1
-data.zegk.txt 1
-data.zegl.txt 1
-data.zegn.txt 1
+data.zajh.txt 8.427217959715389
+data.zaoo.txt 3.0018356045764243
+data.zdrq.txt 3.0018356045764243
+data.zdzn.txt 3.0018356045764243
+data.zegk.txt 3.0018356045764243
+data.zegl.txt 3.0018356045764243
+data.zegn.txt 3.0018356045764243

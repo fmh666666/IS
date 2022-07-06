@@ -1,4 +1,4 @@
 3
-data.zbfz.txt 1
-data.zbgd.txt 1
-data.zcaq.txt 2
+data.zbfz.txt 3.5891377275982888
+data.zbgd.txt 3.5891377275982888
+data.zcaq.txt 5.688648708166832

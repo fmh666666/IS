@@ -1,4 +1,4 @@
 3
-data.zane.txt 1
-data.zctn.txt 1
-data.zebn.txt 3
+data.zane.txt 3.5891377275982888
+data.zctn.txt 3.5891377275982888
+data.zebn.txt 7.1782754551965775

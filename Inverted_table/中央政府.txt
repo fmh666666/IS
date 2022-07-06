@@ -1,13 +1,13 @@
 12
-data.dg.txt 1
-data.gw.txt 1
-data.op.txt 1
-data.zawb.txt 1
-data.zaxp.txt 1
-data.zbgu.txt 1
-data.zdou.txt 1
-data.zelt.txt 1
-data.zenw.txt 1
-data.zeos.txt 1
-data.zfaj.txt 2
-data.zfdk.txt 1
+data.dg.txt 2.628231699761886
+data.gw.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zaxp.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zdou.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zenw.txt 2.628231699761886
+data.zeos.txt 2.628231699761886
+data.zfaj.txt 4.165648687329214
+data.zfdk.txt 2.628231699761886

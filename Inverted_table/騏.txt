@@ -1,6 +1,6 @@
 5
-data.zaej.txt 2
-data.zafy.txt 2
-data.zasr.txt 1
-data.zbcc.txt 1
-data.zfcj.txt 1
+data.zaej.txt 5.1274494005309625
+data.zafy.txt 5.1274494005309625
+data.zasr.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

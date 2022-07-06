@@ -1,9 +1,9 @@
 8
-data.zaxj.txt 2
-data.zaxk.txt 2
-data.zbcc.txt 1
-data.zbnp.txt 1
-data.zbux.txt 2
-data.zdhv.txt 1
-data.zdrq.txt 3
-data.zeun.txt 1
+data.zaxj.txt 4.611097637722987
+data.zaxk.txt 4.611097637722987
+data.zbcc.txt 2.9092786962624935
+data.zbnp.txt 2.9092786962624935
+data.zbux.txt 4.611097637722987
+data.zdhv.txt 2.9092786962624935
+data.zdrq.txt 5.818557392524987
+data.zeun.txt 2.9092786962624935

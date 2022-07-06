@@ -1,5 +1,5 @@
 4
-data.ud.txt 1
-data.zafk.txt 1
-data.zdtr.txt 2
-data.zefw.txt 2
+data.ud.txt 3.389731710180695
+data.zafk.txt 3.389731710180695
+data.zdtr.txt 5.372597648141796
+data.zefw.txt 5.372597648141796

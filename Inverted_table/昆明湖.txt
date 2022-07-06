@@ -1,6 +1,6 @@
 5
-data.zamr.txt 1
-data.zbhv.txt 1
-data.zduc.txt 1
-data.zdux.txt 1
-data.zegn.txt 1
+data.zamr.txt 3.235060386727117
+data.zbhv.txt 3.235060386727117
+data.zduc.txt 3.235060386727117
+data.zdux.txt 3.235060386727117
+data.zegn.txt 3.235060386727117

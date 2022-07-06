@@ -1,5 +1,5 @@
 4
-data.zakb.txt 1
-data.zbcj.txt 8
-data.zbxw.txt 1
-data.zcxr.txt 5
+data.zakb.txt 3.389731710180695
+data.zbcj.txt 10.745195296283592
+data.zbxw.txt 3.389731710180695
+data.zcxr.txt 8.762329358322491

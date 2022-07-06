@@ -1,4 +1,4 @@
 3
-data.dg.txt 1
-data.pa.txt 1
-data.zdji.txt 1
+data.dg.txt 3.5891377275982888
+data.pa.txt 3.5891377275982888
+data.zdji.txt 3.5891377275982888

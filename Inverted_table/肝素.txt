@@ -1,2 +1,2 @@
 1
-data.pn.txt 1
+data.pn.txt 4.350637738017098

@@ -1,10 +1,10 @@
 9
-data.hu.txt 1
-data.ok.txt 1
-data.zavg.txt 4
-data.zbkr.txt 1
-data.zdic.txt 1
-data.zeaj.txt 1
-data.zerw.txt 1
-data.zess.txt 1
-data.zexx.txt 1
+data.hu.txt 2.82763771717948
+data.ok.txt 2.82763771717948
+data.zavg.txt 6.565571457682201
+data.zbkr.txt 2.82763771717948
+data.zdic.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948
+data.zerw.txt 2.82763771717948
+data.zess.txt 2.82763771717948
+data.zexx.txt 2.82763771717948

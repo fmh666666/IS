@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.zafe.txt 1
-data.zcve.txt 1
-data.zdrq.txt 1
-data.zenn.txt 1
+data.ew.txt 3.235060386727117
+data.zafe.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117
+data.zenn.txt 3.235060386727117

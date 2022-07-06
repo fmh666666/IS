@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.tv.txt 1
-data.zazw.txt 1
-data.zbgw.txt 2
-data.zecf.txt 1
+data.mk.txt 3.235060386727117
+data.tv.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zbgw.txt 5.1274494005309625
+data.zecf.txt 3.235060386727117

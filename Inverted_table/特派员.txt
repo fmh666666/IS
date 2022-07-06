@@ -1,14 +1,14 @@
 13
-data.zafl.txt 3
-data.zaip.txt 1
-data.zall.txt 1
-data.zaqw.txt 1
-data.zasq.txt 2
-data.zbcc.txt 1
-data.zbkf.txt 1
-data.zbmt.txt 2
-data.zdji.txt 1
-data.zdvl.txt 2
-data.zedd.txt 4
-data.zess.txt 1
-data.zfdk.txt 1
+data.zafl.txt 5.145500645227181
+data.zaip.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zaqw.txt 2.5727503226135906
+data.zasq.txt 4.077712785060798
+data.zbcc.txt 2.5727503226135906
+data.zbkf.txt 2.5727503226135906
+data.zbmt.txt 4.077712785060798
+data.zdji.txt 2.5727503226135906
+data.zdvl.txt 4.077712785060798
+data.zedd.txt 5.97374125520702
+data.zess.txt 2.5727503226135906
+data.zfdk.txt 2.5727503226135906

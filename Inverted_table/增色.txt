@@ -1,7 +1,7 @@
 6
-data.mt.txt 1
-data.zard.txt 1
-data.zbjk.txt 1
-data.zbsf.txt 1
-data.zdib.txt 1
-data.zdzi.txt 2
+data.mt.txt 3.1086847136800873
+data.zard.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbsf.txt 3.1086847136800873
+data.zdib.txt 3.1086847136800873
+data.zdzi.txt 4.927148697748023

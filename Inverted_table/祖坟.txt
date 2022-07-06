@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.hp.txt 1
-data.mx.txt 2
-data.zawc.txt 1
-data.zazn.txt 1
-data.zdgt.txt 1
-data.zeaj.txt 5
-data.zeay.txt 1
-data.zedy.txt 1
-data.zeta.txt 1
-data.zezy.txt 1
-data.zfai.txt 2
+data.fp.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.mx.txt 4.165648687329214
+data.zawc.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zeaj.txt 6.7938803870911
+data.zeay.txt 2.628231699761886
+data.zedy.txt 2.628231699761886
+data.zeta.txt 2.628231699761886
+data.zezy.txt 2.628231699761886
+data.zfai.txt 4.165648687329214

@@ -1,4 +1,4 @@
 3
-data.jj.txt 5
-data.zasd.txt 5
-data.zczp.txt 1
+data.jj.txt 9.27778643576512
+data.zasd.txt 9.27778643576512
+data.zczp.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zbes.txt 1
-data.zbyb.txt 1
-data.zdaq.txt 1
+data.zbes.txt 3.5891377275982888
+data.zbyb.txt 3.5891377275982888
+data.zdaq.txt 3.5891377275982888

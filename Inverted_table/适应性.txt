@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zbfg.txt 1
-data.zbls.txt 1
-data.zbvm.txt 1
-data.zcgo.txt 1
-data.zddb.txt 1
-data.zdqz.txt 1
-data.zexk.txt 1
-data.zfai.txt 1
+data.fp.txt 2.82763771717948
+data.zbfg.txt 2.82763771717948
+data.zbls.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zdqz.txt 2.82763771717948
+data.zexk.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

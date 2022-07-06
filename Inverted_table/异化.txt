@@ -1,10 +1,10 @@
 9
-data.zaim.txt 1
-data.zanh.txt 1
-data.zass.txt 1
-data.zbds.txt 1
-data.zbeb.txt 2
-data.zbor.txt 1
-data.zcdz.txt 1
-data.zcvq.txt 2
-data.zdgv.txt 1
+data.zaim.txt 2.82763771717948
+data.zanh.txt 2.82763771717948
+data.zass.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zbeb.txt 4.48169974735425
+data.zbor.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcvq.txt 4.48169974735425
+data.zdgv.txt 2.82763771717948

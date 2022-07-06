@@ -1,12 +1,12 @@
 11
-data.op.txt 3
-data.pq.txt 2
-data.tv.txt 13
-data.tz.txt 10
-data.zajh.txt 1
-data.zawb.txt 1
-data.zbsl.txt 1
-data.zcfn.txt 1
-data.zcjy.txt 1
-data.zdll.txt 1
-data.zeoh.txt 1
+data.op.txt 5.3770867807977725
+data.pq.txt 4.261240455343955
+data.tv.txt 10.236238910600639
+data.tz.txt 9.300832012824227
+data.zajh.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbsl.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zcjy.txt 2.6885433903988862
+data.zdll.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862

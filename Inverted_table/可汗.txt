@@ -1,8 +1,8 @@
 7
-data.ff.txt 1
-data.zafy.txt 1
-data.zasj.txt 1
-data.zbkj.txt 2
-data.zblq.txt 1
-data.zbre.txt 1
-data.zddm.txt 1
+data.ff.txt 3.0018356045764243
+data.zafy.txt 3.0018356045764243
+data.zasj.txt 3.0018356045764243
+data.zbkj.txt 4.757796866583254
+data.zblq.txt 3.0018356045764243
+data.zbre.txt 3.0018356045764243
+data.zddm.txt 3.0018356045764243

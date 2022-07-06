@@ -1,4 +1,4 @@
 3
-data.zcdz.txt 2
-data.zelt.txt 1
-data.zeqv.txt 1
+data.zcdz.txt 5.688648708166832
+data.zelt.txt 3.5891377275982888
+data.zeqv.txt 3.5891377275982888

@@ -1,13 +1,13 @@
 12
-data.en.txt 1
-data.jf.txt 4
-data.mt.txt 1
-data.zazx.txt 3
-data.zbaq.txt 1
-data.zbor.txt 1
-data.zbxy.txt 1
-data.zchd.txt 1
-data.zczp.txt 1
-data.zdgp.txt 1
-data.zdil.txt 1
-data.zeds.txt 1
+data.en.txt 2.628231699761886
+data.jf.txt 6.1025650235506905
+data.mt.txt 2.628231699761886
+data.zazx.txt 5.256463399523772
+data.zbaq.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbxy.txt 2.628231699761886
+data.zchd.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zdil.txt 2.628231699761886
+data.zeds.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.jj.txt 2
-data.xe.txt 1
-data.zdcj.txt 1
+data.jj.txt 5.688648708166832
+data.xe.txt 3.5891377275982888
+data.zdcj.txt 3.5891377275982888

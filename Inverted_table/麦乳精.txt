@@ -1,4 +1,4 @@
 3
-data.pa.txt 1
-data.zclm.txt 1
-data.zevq.txt 6
+data.pa.txt 3.5891377275982888
+data.zclm.txt 3.5891377275982888
+data.zevq.txt 10.0759834655157

@@ -1,4 +1,4 @@
 3
-data.zaqf.txt 2
-data.zemf.txt 1
-data.zeyg.txt 1
+data.zaqf.txt 5.688648708166832
+data.zemf.txt 3.5891377275982888
+data.zeyg.txt 3.5891377275982888

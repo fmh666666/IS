@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.zblq.txt 1
-data.zdey.txt 1
+data.mx.txt 3.5891377275982888
+data.zblq.txt 3.5891377275982888
+data.zdey.txt 3.5891377275982888

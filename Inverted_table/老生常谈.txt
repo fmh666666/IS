@@ -1,9 +1,9 @@
 8
-data.fz.txt 1
-data.pa.txt 1
-data.zarr.txt 1
-data.zbfz.txt 2
-data.zcdz.txt 1
-data.zeag.txt 1
-data.zedo.txt 1
-data.zexv.txt 1
+data.fz.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zbfz.txt 4.611097637722987
+data.zcdz.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.zcue.txt 1
-data.zfai.txt 3
-data.zfaj.txt 4
-data.zfcp.txt 1
+data.zcue.txt 3.389731710180695
+data.zfai.txt 6.77946342036139
+data.zfaj.txt 7.870713291999142
+data.zfcp.txt 3.389731710180695

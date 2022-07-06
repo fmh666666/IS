@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.ev.txt 1
-data.gw.txt 1
-data.tz.txt 1
-data.xk.txt 1
-data.zabe.txt 1
-data.zabj.txt 1
-data.zbbt.txt 1
-data.zbux.txt 1
-data.zelj.txt 2
-data.zerv.txt 1
+data.cz.txt 2.6885433903988862
+data.ev.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.tz.txt 2.6885433903988862
+data.xk.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zabj.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbux.txt 2.6885433903988862
+data.zelj.txt 4.261240455343955
+data.zerv.txt 2.6885433903988862

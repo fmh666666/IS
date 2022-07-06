@@ -1,5 +1,5 @@
 4
-data.tv.txt 2
-data.zbpx.txt 1
-data.zdgv.txt 1
-data.zeoh.txt 1
+data.tv.txt 5.372597648141796
+data.zbpx.txt 3.389731710180695
+data.zdgv.txt 3.389731710180695
+data.zeoh.txt 3.389731710180695

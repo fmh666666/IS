@@ -1,3 +1,3 @@
 2
-data.zbut.txt 4
-data.zezy.txt 1
+data.zbut.txt 8.986290643289122
+data.zezy.txt 3.8701847240988965

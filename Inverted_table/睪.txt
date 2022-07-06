@@ -1,4 +1,4 @@
 3
-data.zaxx.txt 2
-data.zbpx.txt 1
-data.zesq.txt 1
+data.zaxx.txt 5.688648708166832
+data.zbpx.txt 3.5891377275982888
+data.zesq.txt 3.5891377275982888

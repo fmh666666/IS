@@ -1,10 +1,10 @@
 9
-data.zaet.txt 1
-data.zbcj.txt 1
-data.zbrj.txt 1
-data.zbsl.txt 1
-data.zcln.txt 1
-data.zctp.txt 1
-data.zeam.txt 1
-data.zeec.txt 1
-data.zeid.txt 1
+data.zaet.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbrj.txt 2.82763771717948
+data.zbsl.txt 2.82763771717948
+data.zcln.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zeec.txt 2.82763771717948
+data.zeid.txt 2.82763771717948

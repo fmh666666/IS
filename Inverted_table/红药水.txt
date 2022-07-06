@@ -1,4 +1,4 @@
 3
-data.cq.txt 1
-data.zcmn.txt 1
-data.zcts.txt 7
+data.cq.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888
+data.zcts.txt 10.767413182794865

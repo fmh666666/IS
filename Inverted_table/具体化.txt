@@ -1,5 +1,5 @@
 4
-data.vi.txt 1
-data.zarr.txt 1
-data.zawu.txt 1
-data.zebn.txt 4
+data.vi.txt 3.389731710180695
+data.zarr.txt 3.389731710180695
+data.zawu.txt 3.389731710180695
+data.zebn.txt 7.870713291999142

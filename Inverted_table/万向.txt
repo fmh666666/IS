@@ -1,6 +1,6 @@
 5
-data.zamr.txt 1
-data.zcdz.txt 1
-data.zdlo.txt 1
-data.zfaj.txt 1
-data.zfcg.txt 1
+data.zamr.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zdlo.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

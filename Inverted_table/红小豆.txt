@@ -1,8 +1,8 @@
 7
-data.zazg.txt 1
-data.zcmn.txt 1
-data.zcts.txt 1
-data.zdgt.txt 1
-data.zdtr.txt 1
-data.zdvl.txt 1
-data.zfas.txt 1
+data.zazg.txt 3.0018356045764243
+data.zcmn.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zdvl.txt 3.0018356045764243
+data.zfas.txt 3.0018356045764243

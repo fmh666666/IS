@@ -1,2 +1,2 @@
 1
-data.zdey.txt 7
+data.zdey.txt 13.051913214051293

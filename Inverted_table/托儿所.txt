@@ -1,12 +1,12 @@
 11
-data.cf.txt 1
-data.zalm.txt 1
-data.zane.txt 1
-data.zbeb.txt 1
-data.zbes.txt 1
-data.zdkp.txt 1
-data.zdme.txt 1
-data.zeec.txt 1
-data.zeew.txt 1
-data.zeid.txt 1
-data.zexm.txt 1
+data.cf.txt 2.6885433903988862
+data.zalm.txt 2.6885433903988862
+data.zane.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbes.txt 2.6885433903988862
+data.zdkp.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862
+data.zeew.txt 2.6885433903988862
+data.zeid.txt 2.6885433903988862
+data.zexm.txt 2.6885433903988862

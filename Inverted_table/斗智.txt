@@ -1,9 +1,9 @@
 8
-data.mx.txt 1
-data.ok.txt 1
-data.vz.txt 1
-data.zabx.txt 1
-data.zahd.txt 1
-data.zcls.txt 1
-data.zcsr.txt 1
-data.zedd.txt 1
+data.mx.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.vz.txt 2.9092786962624935
+data.zabx.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zcsr.txt 2.9092786962624935
+data.zedd.txt 2.9092786962624935

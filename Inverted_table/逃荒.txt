@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.hp.txt 2
-data.zajh.txt 1
-data.zawc.txt 1
-data.zebf.txt 1
+data.fp.txt 3.235060386727117
+data.hp.txt 5.1274494005309625
+data.zajh.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zebf.txt 3.235060386727117

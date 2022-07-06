@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.cf.txt 1
-data.tz.txt 1
+data.bs.txt 3.5891377275982888
+data.cf.txt 3.5891377275982888
+data.tz.txt 3.5891377275982888

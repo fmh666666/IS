@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.vz.txt 1
-data.zbdb.txt 1
-data.zbfr.txt 1
-data.zcaq.txt 1
-data.zczb.txt 1
-data.zdtr.txt 3
-data.zefu.txt 1
+data.kq.txt 2.9092786962624935
+data.vz.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbfr.txt 2.9092786962624935
+data.zcaq.txt 2.9092786962624935
+data.zczb.txt 2.9092786962624935
+data.zdtr.txt 5.818557392524987
+data.zefu.txt 2.9092786962624935

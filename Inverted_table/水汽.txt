@@ -1,13 +1,13 @@
 12
-data.pa.txt 1
-data.tz.txt 1
-data.zbux.txt 1
-data.zcbe.txt 1
-data.zcmx.txt 1
-data.zczp.txt 1
-data.zdeb.txt 1
-data.zdlg.txt 1
-data.zdmw.txt 1
-data.zdnc.txt 1
-data.zdwd.txt 1
-data.zfaj.txt 1
+data.pa.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zcbe.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdlg.txt 2.628231699761886
+data.zdmw.txt 2.628231699761886
+data.zdnc.txt 2.628231699761886
+data.zdwd.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.nh.txt 1
-data.zbgu.txt 1
-data.zbpc.txt 3
-data.zdkk.txt 1
-data.zebf.txt 1
+data.ga.txt 3.1086847136800873
+data.nh.txt 3.1086847136800873
+data.zbgu.txt 3.1086847136800873
+data.zbpc.txt 6.2173694273601745
+data.zdkk.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873

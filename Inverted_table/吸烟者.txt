@@ -1,9 +1,9 @@
 8
-data.jf.txt 3
-data.kt.txt 2
-data.zafk.txt 1
-data.zbfz.txt 5
-data.zcmn.txt 1
-data.zdil.txt 1
-data.zdwn.txt 1
-data.zene.txt 3
+data.jf.txt 5.818557392524987
+data.kt.txt 4.611097637722987
+data.zafk.txt 2.9092786962624935
+data.zbfz.txt 7.52037633398548
+data.zcmn.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zene.txt 5.818557392524987

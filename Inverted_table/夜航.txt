@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.fj.txt 1
-data.ha.txt 1
-data.to.txt 2
-data.yx.txt 3
-data.zawu.txt 1
-data.zddb.txt 1
-data.zdpz.txt 1
-data.zemb.txt 1
+data.bs.txt 2.82763771717948
+data.fj.txt 2.82763771717948
+data.ha.txt 2.82763771717948
+data.to.txt 4.48169974735425
+data.yx.txt 5.65527543435896
+data.zawu.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zdpz.txt 2.82763771717948
+data.zemb.txt 2.82763771717948

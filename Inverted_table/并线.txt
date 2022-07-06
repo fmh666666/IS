@@ -1,9 +1,9 @@
 8
-data.op.txt 2
-data.zarr.txt 2
-data.zbpm.txt 1
-data.zcqp.txt 1
-data.zczl.txt 1
-data.zdnc.txt 1
-data.zedk.txt 1
-data.zfae.txt 1
+data.op.txt 4.611097637722987
+data.zarr.txt 4.611097637722987
+data.zbpm.txt 2.9092786962624935
+data.zcqp.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

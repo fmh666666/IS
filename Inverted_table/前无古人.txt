@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.vm.txt 1
-data.zajo.txt 1
-data.zard.txt 1
-data.zawo.txt 1
-data.zazw.txt 1
-data.zbkr.txt 1
-data.zbvg.txt 1
-data.zciq.txt 1
-data.zcvq.txt 1
-data.zduk.txt 1
-data.zfae.txt 1
+data.kq.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zard.txt 2.628231699761886
+data.zawo.txt 2.628231699761886
+data.zazw.txt 2.628231699761886
+data.zbkr.txt 2.628231699761886
+data.zbvg.txt 2.628231699761886
+data.zciq.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zduk.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

@@ -1,13 +1,13 @@
 12
-data.dg.txt 1
-data.tv.txt 1
-data.vz.txt 1
-data.zafq.txt 1
-data.zaic.txt 2
-data.zazn.txt 3
-data.zbzo.txt 1
-data.zcaq.txt 1
-data.zcbm.txt 1
-data.zcls.txt 1
-data.zdxw.txt 6
-data.zeyy.txt 2
+data.dg.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.vz.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zaic.txt 4.165648687329214
+data.zazn.txt 5.256463399523772
+data.zbzo.txt 2.628231699761886
+data.zcaq.txt 2.628231699761886
+data.zcbm.txt 2.628231699761886
+data.zcls.txt 2.628231699761886
+data.zdxw.txt 7.378379198634354
+data.zeyy.txt 4.165648687329214

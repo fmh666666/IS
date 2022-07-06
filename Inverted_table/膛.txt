@@ -1,9 +1,9 @@
 8
-data.ng.txt 1
-data.zasy.txt 1
-data.zbcj.txt 1
-data.zbel.txt 1
-data.zcih.txt 2
-data.zdeq.txt 1
-data.zdpw.txt 1
-data.zevy.txt 1
+data.ng.txt 2.9092786962624935
+data.zasy.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zcih.txt 4.611097637722987
+data.zdeq.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zevy.txt 2.9092786962624935

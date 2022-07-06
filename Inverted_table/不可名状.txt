@@ -1,6 +1,6 @@
 5
-data.zaxk.txt 1
-data.zbcc.txt 1
-data.zcdv.txt 1
-data.zdof.txt 2
-data.zefs.txt 1
+data.zaxk.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdof.txt 5.1274494005309625
+data.zefs.txt 3.235060386727117

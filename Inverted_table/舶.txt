@@ -1,9 +1,9 @@
 8
-data.gw.txt 2
-data.hz.txt 1
-data.zbeb.txt 1
-data.zbhv.txt 12
-data.zbkr.txt 6
-data.zcgi.txt 2
-data.zeez.txt 1
-data.zerw.txt 3
+data.gw.txt 4.611097637722987
+data.hz.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbhv.txt 10.765610438791466
+data.zbkr.txt 8.16737786758984
+data.zcgi.txt 4.611097637722987
+data.zeez.txt 2.9092786962624935
+data.zerw.txt 5.818557392524987

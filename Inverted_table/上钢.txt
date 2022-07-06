@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.zasy.txt 1
-data.zawb.txt 1
-data.zbdb.txt 1
-data.zbem.txt 1
+data.ha.txt 3.235060386727117
+data.zasy.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbem.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.zbsd.txt 1
-data.zcis.txt 1
-data.zcqg.txt 1
-data.zeyg.txt 1
-data.zfaj.txt 1
+data.zbsd.txt 3.235060386727117
+data.zcis.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

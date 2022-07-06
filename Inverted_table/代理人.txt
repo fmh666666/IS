@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.ew.txt 1
-data.gw.txt 15
-data.ka.txt 1
-data.zcbm.txt 1
-data.zcdy.txt 3
-data.zcdz.txt 3
-data.zdgt.txt 2
-data.zeec.txt 1
-data.zegn.txt 6
-data.zeoh.txt 1
+data.cq.txt 2.6885433903988862
+data.ew.txt 2.6885433903988862
+data.gw.txt 10.754173561595545
+data.ka.txt 2.6885433903988862
+data.zcbm.txt 2.6885433903988862
+data.zcdy.txt 5.3770867807977725
+data.zcdz.txt 5.3770867807977725
+data.zdgt.txt 4.261240455343955
+data.zeec.txt 2.6885433903988862
+data.zegn.txt 7.547695520201752
+data.zeoh.txt 2.6885433903988862

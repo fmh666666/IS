@@ -1,7 +1,7 @@
 6
-data.co.txt 4
-data.op.txt 1
-data.zajh.txt 2
-data.zbzo.txt 3
-data.zcaq.txt 3
-data.zewd.txt 1
+data.co.txt 7.21814237484067
+data.op.txt 3.1086847136800873
+data.zajh.txt 4.927148697748023
+data.zbzo.txt 6.2173694273601745
+data.zcaq.txt 6.2173694273601745
+data.zewd.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zbeb.txt 1
-data.zbjh.txt 1
-data.zbkv.txt 1
-data.zcts.txt 1
-data.zdro.txt 1
+data.op.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdro.txt 3.1086847136800873

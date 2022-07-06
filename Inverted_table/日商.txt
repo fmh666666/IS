@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.pn.txt 1
-data.zapl.txt 1
-data.zawb.txt 2
-data.zbes.txt 2
-data.zbpx.txt 1
-data.zdud.txt 1
-data.zekw.txt 1
+data.gw.txt 2.9092786962624935
+data.pn.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zawb.txt 4.611097637722987
+data.zbes.txt 4.611097637722987
+data.zbpx.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935

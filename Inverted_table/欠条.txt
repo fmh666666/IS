@@ -1,10 +1,10 @@
 9
-data.qb.txt 1
-data.zasw.txt 1
-data.zazw.txt 1
-data.zbcj.txt 1
-data.zbhe.txt 1
-data.zcdz.txt 1
-data.zcmx.txt 1
-data.zdcj.txt 1
-data.zene.txt 1
+data.qb.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zene.txt 2.82763771717948

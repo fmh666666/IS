@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.jf.txt 1
-data.mu.txt 1
-data.zazo.txt 1
-data.zcej.txt 3
-data.zcxr.txt 1
-data.zczj.txt 1
-data.zduo.txt 1
-data.zeaj.txt 1
+data.bs.txt 2.82763771717948
+data.jf.txt 2.82763771717948
+data.mu.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zcej.txt 5.65527543435896
+data.zcxr.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zduo.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948

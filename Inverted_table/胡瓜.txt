@@ -1,6 +1,6 @@
 5
-data.zalc.txt 1
-data.zawm.txt 1
-data.zbcj.txt 1
-data.zbht.txt 1
-data.zciq.txt 1
+data.zalc.txt 3.235060386727117
+data.zawm.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zbht.txt 3.235060386727117
+data.zciq.txt 3.235060386727117

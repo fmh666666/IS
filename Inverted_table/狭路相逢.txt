@@ -1,14 +1,14 @@
 13
-data.zaoo.txt 1
-data.zbkf.txt 1
-data.zbpm.txt 1
-data.zcfn.txt 1
-data.zciy.txt 1
-data.zdju.txt 1
-data.zdlo.txt 1
-data.zdwl.txt 1
-data.zeqh.txt 1
-data.zeyy.txt 1
-data.zezy.txt 1
-data.zfaj.txt 1
-data.zfas.txt 1
+data.zaoo.txt 2.5727503226135906
+data.zbkf.txt 2.5727503226135906
+data.zbpm.txt 2.5727503226135906
+data.zcfn.txt 2.5727503226135906
+data.zciy.txt 2.5727503226135906
+data.zdju.txt 2.5727503226135906
+data.zdlo.txt 2.5727503226135906
+data.zdwl.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906
+data.zeyy.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906

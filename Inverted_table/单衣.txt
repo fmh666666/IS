@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.zapf.txt 1
-data.zbha.txt 1
-data.zbia.txt 1
-data.zbtj.txt 1
-data.zcjo.txt 1
-data.zcnn.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zeel.txt 1
-data.zefw.txt 1
-data.zerw.txt 1
+data.ev.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zbha.txt 2.628231699761886
+data.zbia.txt 2.628231699761886
+data.zbtj.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zeel.txt 2.628231699761886
+data.zefw.txt 2.628231699761886
+data.zerw.txt 2.628231699761886

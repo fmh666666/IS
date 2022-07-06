@@ -1,5 +1,5 @@
 4
-data.zddm.txt 1
-data.zebf.txt 1
-data.zeeq.txt 1
-data.zewn.txt 1
+data.zddm.txt 3.389731710180695
+data.zebf.txt 3.389731710180695
+data.zeeq.txt 3.389731710180695
+data.zewn.txt 3.389731710180695

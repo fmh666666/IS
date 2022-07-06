@@ -1,11 +1,11 @@
 10
-data.fp.txt 2
-data.zard.txt 1
-data.zbgw.txt 1
-data.zbkf.txt 2
-data.zbnx.txt 3
-data.zcdy.txt 1
-data.zcse.txt 1
-data.zdro.txt 1
-data.zexu.txt 1
-data.zfae.txt 1
+data.fp.txt 4.365949390112154
+data.zard.txt 2.7546073728089153
+data.zbgw.txt 2.7546073728089153
+data.zbkf.txt 4.365949390112154
+data.zbnx.txt 5.509214745617831
+data.zcdy.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zdro.txt 2.7546073728089153
+data.zexu.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153

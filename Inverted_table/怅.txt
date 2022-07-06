@@ -1,11 +1,11 @@
 10
-data.fj.txt 1
-data.fp.txt 1
-data.mx.txt 2
-data.tv.txt 2
-data.wc.txt 1
-data.zajr.txt 1
-data.zamp.txt 2
-data.zbkv.txt 4
-data.zcel.txt 1
-data.zcvt.txt 1
+data.fj.txt 2.7546073728089153
+data.fp.txt 2.7546073728089153
+data.mx.txt 4.365949390112154
+data.tv.txt 4.365949390112154
+data.wc.txt 2.7546073728089153
+data.zajr.txt 2.7546073728089153
+data.zamp.txt 4.365949390112154
+data.zbkv.txt 6.396000249308887
+data.zcel.txt 2.7546073728089153
+data.zcvt.txt 2.7546073728089153

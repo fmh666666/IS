@@ -1,9 +1,9 @@
 8
-data.qb.txt 1
-data.ye.txt 1
-data.zabe.txt 1
-data.zawz.txt 1
-data.zbaq.txt 1
-data.zbua.txt 2
-data.zchw.txt 1
-data.zegn.txt 2
+data.qb.txt 2.9092786962624935
+data.ye.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zawz.txt 2.9092786962624935
+data.zbaq.txt 2.9092786962624935
+data.zbua.txt 4.611097637722987
+data.zchw.txt 2.9092786962624935
+data.zegn.txt 4.611097637722987

@@ -1,5 +1,5 @@
 4
-data.mt.txt 1
-data.zbsm.txt 1
-data.zbxy.txt 1
-data.zfai.txt 1
+data.mt.txt 3.389731710180695
+data.zbsm.txt 3.389731710180695
+data.zbxy.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

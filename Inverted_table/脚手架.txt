@@ -1,10 +1,10 @@
 9
-data.zacd.txt 1
-data.zaqr.txt 1
-data.zbil.txt 2
-data.zbla.txt 1
-data.zbre.txt 1
-data.zbua.txt 1
-data.zcrn.txt 1
-data.zdaq.txt 1
-data.zddp.txt 1
+data.zacd.txt 2.82763771717948
+data.zaqr.txt 2.82763771717948
+data.zbil.txt 4.48169974735425
+data.zbla.txt 2.82763771717948
+data.zbre.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zdaq.txt 2.82763771717948
+data.zddp.txt 2.82763771717948

@@ -1,5 +1,5 @@
 4
-data.hp.txt 1
-data.zabe.txt 1
-data.zajh.txt 1
-data.zewp.txt 1
+data.hp.txt 3.389731710180695
+data.zabe.txt 3.389731710180695
+data.zajh.txt 3.389731710180695
+data.zewp.txt 3.389731710180695

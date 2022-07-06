@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zdds.txt 1
-data.zdju.txt 2
-data.zevq.txt 1
-data.zewn.txt 1
+data.vm.txt 3.235060386727117
+data.zdds.txt 3.235060386727117
+data.zdju.txt 5.1274494005309625
+data.zevq.txt 3.235060386727117
+data.zewn.txt 3.235060386727117

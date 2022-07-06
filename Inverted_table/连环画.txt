@@ -1,9 +1,9 @@
 8
-data.zacd.txt 2
-data.zafi.txt 1
-data.zasd.txt 30
-data.zbdb.txt 3
-data.zbds.txt 2
-data.zbga.txt 2
-data.zeve.txt 1
-data.zezf.txt 1
+data.zacd.txt 4.611097637722987
+data.zafi.txt 2.9092786962624935
+data.zasd.txt 14.413137782910784
+data.zbdb.txt 5.818557392524987
+data.zbds.txt 4.611097637722987
+data.zbga.txt 4.611097637722987
+data.zeve.txt 2.9092786962624935
+data.zezf.txt 2.9092786962624935

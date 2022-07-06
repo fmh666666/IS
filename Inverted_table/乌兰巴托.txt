@@ -1,6 +1,6 @@
 5
-data.ok.txt 1
-data.zbzf.txt 1
-data.zcih.txt 1
-data.zclh.txt 1
-data.zctp.txt 1
+data.ok.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcih.txt 3.235060386727117
+data.zclh.txt 3.235060386727117
+data.zctp.txt 3.235060386727117

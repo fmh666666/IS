@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.ft.txt 1
-data.zctp.txt 2
-data.zdzi.txt 1
-data.zefw.txt 1
-data.zevl.txt 1
+data.cf.txt 3.1086847136800873
+data.ft.txt 3.1086847136800873
+data.zctp.txt 4.927148697748023
+data.zdzi.txt 3.1086847136800873
+data.zefw.txt 3.1086847136800873
+data.zevl.txt 3.1086847136800873

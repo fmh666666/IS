@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.mk.txt 1
-data.nh.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 2
-data.zbla.txt 1
-data.zcmx.txt 1
-data.zedk.txt 1
+data.kt.txt 2.9092786962624935
+data.mk.txt 2.9092786962624935
+data.nh.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zbhe.txt 4.611097637722987
+data.zbla.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935

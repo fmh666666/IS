@@ -1,4 +1,4 @@
 3
-data.zbla.txt 1
-data.zbpp.txt 3
-data.zexm.txt 1
+data.zbla.txt 3.5891377275982888
+data.zbpp.txt 7.1782754551965775
+data.zexm.txt 3.5891377275982888

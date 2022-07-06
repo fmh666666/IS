@@ -1,10 +1,10 @@
 9
-data.ev.txt 1
-data.zajo.txt 2
-data.zasr.txt 1
-data.zcel.txt 1
-data.zcgo.txt 1
-data.zdpw.txt 1
-data.zdyv.txt 1
-data.zess.txt 1
-data.zfcg.txt 1
+data.ev.txt 2.82763771717948
+data.zajo.txt 4.48169974735425
+data.zasr.txt 2.82763771717948
+data.zcel.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zess.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.zail.txt 2
-data.zbkf.txt 1
-data.zbyv.txt 2
-data.zcem.txt 1
-data.zcpx.txt 1
-data.zdji.txt 1
-data.zdkc.txt 2
-data.zdzn.txt 1
-data.zebf.txt 2
-data.zedd.txt 1
-data.zeyy.txt 1
+data.zail.txt 4.261240455343955
+data.zbkf.txt 2.6885433903988862
+data.zbyv.txt 4.261240455343955
+data.zcem.txt 2.6885433903988862
+data.zcpx.txt 2.6885433903988862
+data.zdji.txt 2.6885433903988862
+data.zdkc.txt 4.261240455343955
+data.zdzn.txt 2.6885433903988862
+data.zebf.txt 4.261240455343955
+data.zedd.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

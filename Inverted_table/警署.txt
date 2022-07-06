@@ -1,11 +1,11 @@
 10
-data.zawc.txt 1
-data.zbfz.txt 1
-data.zbgd.txt 1
-data.zbnx.txt 1
-data.zbsu.txt 1
-data.zcgo.txt 1
-data.zdgt.txt 1
-data.zdou.txt 1
-data.zeam.txt 1
-data.zeos.txt 1
+data.zawc.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zbgd.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zbsu.txt 2.7546073728089153
+data.zcgo.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zdou.txt 2.7546073728089153
+data.zeam.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153

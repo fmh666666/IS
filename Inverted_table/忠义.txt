@@ -1,14 +1,14 @@
 13
-data.ep.txt 1
-data.zaip.txt 2
-data.zako.txt 1
-data.zavg.txt 1
-data.zaxj.txt 1
-data.zbhe.txt 1
-data.zblq.txt 2
-data.zbor.txt 1
-data.zdeb.txt 1
-data.zdgt.txt 1
-data.zegz.txt 1
-data.zeoo.txt 1
-data.zezm.txt 2
+data.ep.txt 2.5727503226135906
+data.zaip.txt 4.077712785060798
+data.zako.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zblq.txt 4.077712785060798
+data.zbor.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zegz.txt 2.5727503226135906
+data.zeoo.txt 2.5727503226135906
+data.zezm.txt 4.077712785060798

@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.gw.txt 3
-data.zalm.txt 1
-data.zapf.txt 1
-data.zapl.txt 1
-data.zbux.txt 1
-data.zcni.txt 1
-data.zcon.txt 2
-data.zdkv.txt 1
-data.zenw.txt 1
-data.zeqh.txt 1
-data.zesq.txt 1
-data.zezm.txt 1
+data.bs.txt 2.5727503226135906
+data.gw.txt 5.145500645227181
+data.zalm.txt 2.5727503226135906
+data.zapf.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zcni.txt 2.5727503226135906
+data.zcon.txt 4.077712785060798
+data.zdkv.txt 2.5727503226135906
+data.zenw.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906
+data.zesq.txt 2.5727503226135906
+data.zezm.txt 2.5727503226135906

@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zakb.txt 1
-data.zard.txt 1
+data.jf.txt 3.5891377275982888
+data.zakb.txt 3.5891377275982888
+data.zard.txt 3.5891377275982888

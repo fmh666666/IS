@@ -1,7 +1,7 @@
 6
-data.zaql.txt 3
-data.zdkc.txt 1
-data.zedk.txt 1
-data.zefp.txt 1
-data.zfae.txt 1
-data.zfas.txt 1
+data.zaql.txt 6.2173694273601745
+data.zdkc.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873
+data.zfas.txt 3.1086847136800873

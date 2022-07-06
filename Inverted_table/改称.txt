@@ -1,7 +1,7 @@
 6
-data.zalj.txt 1
-data.zbpx.txt 1
-data.zcfx.txt 1
-data.zcrv.txt 1
-data.zeaf.txt 2
-data.zexm.txt 1
+data.zalj.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zcrv.txt 3.1086847136800873
+data.zeaf.txt 4.927148697748023
+data.zexm.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.op.txt 2
-data.zapl.txt 1
-data.zaxj.txt 3
-data.zaxk.txt 3
-data.zbye.txt 1
-data.zcxq.txt 1
-data.zdkk.txt 1
-data.zedy.txt 1
-data.zfae.txt 2
+data.op.txt 4.48169974735425
+data.zapl.txt 2.82763771717948
+data.zaxj.txt 5.65527543435896
+data.zaxk.txt 5.65527543435896
+data.zbye.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zdkk.txt 2.82763771717948
+data.zedy.txt 2.82763771717948
+data.zfae.txt 4.48169974735425

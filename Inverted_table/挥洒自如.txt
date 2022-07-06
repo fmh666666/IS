@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.zarr.txt 1
-data.zasd.txt 1
-data.zcni.txt 1
-data.zcrv.txt 1
+data.kq.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zasd.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117

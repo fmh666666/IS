@@ -1,11 +1,11 @@
 10
-data.ep.txt 2
-data.ka.txt 1
-data.zasj.txt 1
-data.zbgd.txt 1
-data.zbhe.txt 2
-data.zbta.txt 1
-data.zdpf.txt 1
-data.zeac.txt 1
-data.zejn.txt 1
-data.zfby.txt 1
+data.ep.txt 4.365949390112154
+data.ka.txt 2.7546073728089153
+data.zasj.txt 2.7546073728089153
+data.zbgd.txt 2.7546073728089153
+data.zbhe.txt 4.365949390112154
+data.zbta.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zeac.txt 2.7546073728089153
+data.zejn.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

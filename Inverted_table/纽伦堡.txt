@@ -1,7 +1,7 @@
 6
-data.zaxp.txt 1
-data.zbof.txt 2
-data.zciq.txt 1
-data.zdgo.txt 1
-data.zeik.txt 1
-data.zejk.txt 1
+data.zaxp.txt 3.1086847136800873
+data.zbof.txt 4.927148697748023
+data.zciq.txt 3.1086847136800873
+data.zdgo.txt 3.1086847136800873
+data.zeik.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

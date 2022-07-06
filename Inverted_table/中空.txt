@@ -1,9 +1,9 @@
 8
-data.kt.txt 2
-data.zaet.txt 1
-data.zavx.txt 1
-data.zbcj.txt 1
-data.zcls.txt 1
-data.zdar.txt 1
-data.zdeq.txt 1
-data.zdou.txt 1
+data.kt.txt 4.611097637722987
+data.zaet.txt 2.9092786962624935
+data.zavx.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zdar.txt 2.9092786962624935
+data.zdeq.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935

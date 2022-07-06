@@ -1,11 +1,11 @@
 10
-data.kt.txt 1
-data.tv.txt 1
-data.zbjk.txt 1
-data.zbxy.txt 1
-data.zcls.txt 1
-data.zcpx.txt 1
-data.zctp.txt 1
-data.zedk.txt 2
-data.zexx.txt 1
-data.zfbr.txt 1
+data.kt.txt 2.7546073728089153
+data.tv.txt 2.7546073728089153
+data.zbjk.txt 2.7546073728089153
+data.zbxy.txt 2.7546073728089153
+data.zcls.txt 2.7546073728089153
+data.zcpx.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zedk.txt 4.365949390112154
+data.zexx.txt 2.7546073728089153
+data.zfbr.txt 2.7546073728089153

@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.ry.txt 10
-data.tv.txt 1
-data.zaxj.txt 2
-data.zaxk.txt 1
-data.zcdv.txt 3
-data.zciy.txt 1
-data.zdds.txt 1
-data.zdoq.txt 1
-data.zdwz.txt 1
-data.zeez.txt 1
+data.bb.txt 2.6885433903988862
+data.ry.txt 9.300832012824227
+data.tv.txt 2.6885433903988862
+data.zaxj.txt 4.261240455343955
+data.zaxk.txt 2.6885433903988862
+data.zcdv.txt 5.3770867807977725
+data.zciy.txt 2.6885433903988862
+data.zdds.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zeez.txt 2.6885433903988862

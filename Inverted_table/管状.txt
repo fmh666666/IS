@@ -1,3 +1,3 @@
 2
-data.zcqs.txt 1
-data.zdzg.txt 1
+data.zcqs.txt 3.8701847240988965
+data.zdzg.txt 3.8701847240988965

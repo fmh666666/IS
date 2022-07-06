@@ -1,11 +1,11 @@
 10
-data.zcbm.txt 1
-data.zcem.txt 2
-data.zcpc.txt 1
-data.zcxq.txt 1
-data.zdju.txt 1
-data.zdtv.txt 2
-data.zevy.txt 2
-data.zeyg.txt 2
-data.zeyy.txt 1
-data.zfai.txt 1
+data.zcbm.txt 2.7546073728089153
+data.zcem.txt 4.365949390112154
+data.zcpc.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zdju.txt 2.7546073728089153
+data.zdtv.txt 4.365949390112154
+data.zevy.txt 4.365949390112154
+data.zeyg.txt 4.365949390112154
+data.zeyy.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

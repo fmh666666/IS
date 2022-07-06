@@ -1,8 +1,8 @@
 7
-data.bf.txt 1
-data.fp.txt 1
-data.zadv.txt 1
-data.zcmx.txt 2
-data.zeqh.txt 1
-data.zfaz.txt 1
-data.zfcg.txt 1
+data.bf.txt 3.0018356045764243
+data.fp.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zcmx.txt 4.757796866583254
+data.zeqh.txt 3.0018356045764243
+data.zfaz.txt 3.0018356045764243
+data.zfcg.txt 3.0018356045764243

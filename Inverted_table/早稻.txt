@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zbcc.txt 1
-data.zblq.txt 1
-data.zbsu.txt 2
-data.zbzg.txt 2
+data.gw.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zbsu.txt 5.1274494005309625
+data.zbzg.txt 5.1274494005309625

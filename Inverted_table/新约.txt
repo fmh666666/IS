@@ -1,4 +1,4 @@
 3
-data.bf.txt 1
-data.zacd.txt 1
-data.zcts.txt 1
+data.bf.txt 3.5891377275982888
+data.zacd.txt 3.5891377275982888
+data.zcts.txt 3.5891377275982888

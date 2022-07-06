@@ -1,13 +1,13 @@
 12
-data.ok.txt 2
-data.pa.txt 1
-data.zazw.txt 1
-data.zazx.txt 1
-data.zbzg.txt 1
-data.zcak.txt 1
-data.zcdg.txt 1
-data.zcmx.txt 1
-data.zcxr.txt 2
-data.zdof.txt 1
-data.zesq.txt 1
-data.zfai.txt 1
+data.ok.txt 4.165648687329214
+data.pa.txt 2.628231699761886
+data.zazw.txt 2.628231699761886
+data.zazx.txt 2.628231699761886
+data.zbzg.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zcxr.txt 4.165648687329214
+data.zdof.txt 2.628231699761886
+data.zesq.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

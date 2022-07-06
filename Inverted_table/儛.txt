@@ -1,5 +1,5 @@
 4
-data.zarc.txt 2
-data.zcql.txt 13
-data.zevy.txt 3
-data.zexk.txt 1
+data.zarc.txt 5.372597648141796
+data.zcql.txt 12.905911711211209
+data.zevy.txt 6.77946342036139
+data.zexk.txt 3.389731710180695

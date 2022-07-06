@@ -1,5 +1,5 @@
 4
-data.zacp.txt 1
-data.zeec.txt 3
-data.zelt.txt 5
-data.zfaj.txt 5
+data.zacp.txt 3.389731710180695
+data.zeec.txt 6.77946342036139
+data.zelt.txt 8.762329358322491
+data.zfaj.txt 8.762329358322491

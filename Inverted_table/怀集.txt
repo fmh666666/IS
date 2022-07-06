@@ -1,4 +1,4 @@
 3
-data.zdou.txt 11
-data.zeva.txt 4
-data.zfcj.txt 1
+data.zdou.txt 12.866924163363409
+data.zeva.txt 8.333719726130651
+data.zfcj.txt 3.5891377275982888

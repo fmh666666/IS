@@ -1,6 +1,6 @@
 5
-data.zcwq.txt 1
-data.zedy.txt 1
-data.zefu.txt 1
-data.zene.txt 1
-data.zfcj.txt 1
+data.zcwq.txt 3.235060386727117
+data.zedy.txt 3.235060386727117
+data.zefu.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

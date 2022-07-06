@@ -1,5 +1,5 @@
 4
-data.fj.txt 3
-data.ry.txt 1
-data.ye.txt 1
-data.zevt.txt 1
+data.fj.txt 6.77946342036139
+data.ry.txt 3.389731710180695
+data.ye.txt 3.389731710180695
+data.zevt.txt 3.389731710180695

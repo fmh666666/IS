@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.ud.txt 1
-data.zabe.txt 1
-data.zafi.txt 1
-data.zaqw.txt 1
-data.zcfx.txt 1
+data.ka.txt 3.1086847136800873
+data.ud.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zafi.txt 3.1086847136800873
+data.zaqw.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.zbjk.txt 1
-data.zbzf.txt 1
-data.zddv.txt 1
-data.zdju.txt 1
-data.zebf.txt 1
-data.zeew.txt 1
+data.zbjk.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zddv.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zeew.txt 3.1086847136800873

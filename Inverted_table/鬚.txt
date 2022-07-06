@@ -1,8 +1,8 @@
 7
-data.zanh.txt 1
-data.zbjc.txt 1
-data.zbvp.txt 1
-data.zdey.txt 2
-data.zdwd.txt 4
-data.zeaj.txt 2
-data.zejk.txt 1
+data.zanh.txt 3.0018356045764243
+data.zbjc.txt 3.0018356045764243
+data.zbvp.txt 3.0018356045764243
+data.zdey.txt 4.757796866583254
+data.zdwd.txt 6.970046426499191
+data.zeaj.txt 4.757796866583254
+data.zejk.txt 3.0018356045764243

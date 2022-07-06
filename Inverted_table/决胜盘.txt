@@ -1,3 +1,3 @@
 2
-data.zebv.txt 1
-data.zeqv.txt 1
+data.zebv.txt 3.8701847240988965
+data.zeqv.txt 3.8701847240988965

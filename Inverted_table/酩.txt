@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zajo.txt 2
-data.zbnx.txt 2
-data.zbru.txt 2
-data.zbvm.txt 1
-data.zcwn.txt 1
+data.fp.txt 3.1086847136800873
+data.zajo.txt 4.927148697748023
+data.zbnx.txt 4.927148697748023
+data.zbru.txt 4.927148697748023
+data.zbvm.txt 3.1086847136800873
+data.zcwn.txt 3.1086847136800873

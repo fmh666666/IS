@@ -1,14 +1,14 @@
 13
-data.fp.txt 2
-data.ha.txt 1
-data.yx.txt 1
-data.zapf.txt 1
-data.zasd.txt 1
-data.zbcj.txt 1
-data.zbds.txt 1
-data.zbsu.txt 1
-data.zcdy.txt 1
-data.zczb.txt 1
-data.zduo.txt 1
-data.zeam.txt 1
-data.zfai.txt 1
+data.fp.txt 4.077712785060798
+data.ha.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zapf.txt 2.5727503226135906
+data.zasd.txt 2.5727503226135906
+data.zbcj.txt 2.5727503226135906
+data.zbds.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zczb.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

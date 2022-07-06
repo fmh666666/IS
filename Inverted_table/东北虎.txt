@@ -1,10 +1,10 @@
 9
-data.hg.txt 1
-data.zabx.txt 2
-data.zaoo.txt 2
-data.zbdb.txt 1
-data.zcdg.txt 1
-data.zcsu.txt 1
-data.zcue.txt 4
-data.zdic.txt 3
-data.zeeq.txt 2
+data.hg.txt 2.82763771717948
+data.zabx.txt 4.48169974735425
+data.zaoo.txt 4.48169974735425
+data.zbdb.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zcue.txt 6.565571457682201
+data.zdic.txt 5.65527543435896
+data.zeeq.txt 4.48169974735425

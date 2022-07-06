@@ -1,12 +1,12 @@
 11
-data.ry.txt 4
-data.zajn.txt 3
-data.zbut.txt 1
-data.zbvn.txt 1
-data.zcem.txt 1
-data.zcww.txt 1
-data.zdji.txt 1
-data.zebc.txt 2
-data.zedd.txt 1
-data.zeoo.txt 2
-data.zewv.txt 1
+data.ry.txt 6.2426044324908965
+data.zajn.txt 5.3770867807977725
+data.zbut.txt 2.6885433903988862
+data.zbvn.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcww.txt 2.6885433903988862
+data.zdji.txt 2.6885433903988862
+data.zebc.txt 4.261240455343955
+data.zedd.txt 2.6885433903988862
+data.zeoo.txt 4.261240455343955
+data.zewv.txt 2.6885433903988862

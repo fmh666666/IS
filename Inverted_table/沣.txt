@@ -1,8 +1,8 @@
 7
-data.cq.txt 1
-data.gk.txt 1
-data.zbjc.txt 1
-data.zbpc.txt 2
-data.zefv.txt 2
-data.zeob.txt 1
-data.zfai.txt 1
+data.cq.txt 3.0018356045764243
+data.gk.txt 3.0018356045764243
+data.zbjc.txt 3.0018356045764243
+data.zbpc.txt 4.757796866583254
+data.zefv.txt 4.757796866583254
+data.zeob.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

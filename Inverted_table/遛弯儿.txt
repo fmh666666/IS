@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.dg.txt 1
-data.pa.txt 1
-data.zcee.txt 1
-data.zcef.txt 1
-data.zdme.txt 2
+data.bs.txt 3.1086847136800873
+data.dg.txt 3.1086847136800873
+data.pa.txt 3.1086847136800873
+data.zcee.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zdme.txt 4.927148697748023

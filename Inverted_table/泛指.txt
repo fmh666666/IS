@@ -1,10 +1,10 @@
 9
-data.zaej.txt 1
-data.zagr.txt 1
-data.zbhd.txt 1
-data.zbjh.txt 1
-data.zblq.txt 1
-data.zbta.txt 1
-data.zcem.txt 2
-data.zeel.txt 2
-data.zemb.txt 1
+data.zaej.txt 2.82763771717948
+data.zagr.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zbta.txt 2.82763771717948
+data.zcem.txt 4.48169974735425
+data.zeel.txt 4.48169974735425
+data.zemb.txt 2.82763771717948

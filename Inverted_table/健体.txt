@@ -1,12 +1,12 @@
 11
-data.zagb.txt 1
-data.zckd.txt 1
-data.zcll.txt 1
-data.zcls.txt 1
-data.zczj.txt 1
-data.zdnh.txt 1
-data.zedd.txt 1
-data.zeec.txt 1
-data.zefd.txt 1
-data.zety.txt 1
-data.zewv.txt 1
+data.zagb.txt 2.6885433903988862
+data.zckd.txt 2.6885433903988862
+data.zcll.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zczj.txt 2.6885433903988862
+data.zdnh.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862
+data.zefd.txt 2.6885433903988862
+data.zety.txt 2.6885433903988862
+data.zewv.txt 2.6885433903988862

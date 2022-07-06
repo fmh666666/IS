@@ -1,7 +1,7 @@
 6
-data.zapr.txt 1
-data.zarr.txt 4
-data.zbdx.txt 1
-data.zbvp.txt 1
-data.zdme.txt 4
-data.zeva.txt 4
+data.zapr.txt 3.1086847136800873
+data.zarr.txt 7.21814237484067
+data.zbdx.txt 3.1086847136800873
+data.zbvp.txt 3.1086847136800873
+data.zdme.txt 7.21814237484067
+data.zeva.txt 7.21814237484067

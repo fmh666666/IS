@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.zabx.txt 1
-data.zaql.txt 1
-data.zatz.txt 1
-data.zcef.txt 1
-data.zcgi.txt 1
-data.zeai.txt 1
-data.zeez.txt 2
-data.zegz.txt 1
-data.zejk.txt 1
-data.zenw.txt 1
+data.gw.txt 2.6885433903988862
+data.zabx.txt 2.6885433903988862
+data.zaql.txt 2.6885433903988862
+data.zatz.txt 2.6885433903988862
+data.zcef.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zeez.txt 4.261240455343955
+data.zegz.txt 2.6885433903988862
+data.zejk.txt 2.6885433903988862
+data.zenw.txt 2.6885433903988862

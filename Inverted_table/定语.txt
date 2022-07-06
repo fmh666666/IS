@@ -1,7 +1,7 @@
 6
-data.zasw.txt 1
-data.zbia.txt 1
-data.zbor.txt 1
-data.zdey.txt 1
-data.zehp.txt 1
-data.zelj.txt 1
+data.zasw.txt 3.1086847136800873
+data.zbia.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873
+data.zelj.txt 3.1086847136800873

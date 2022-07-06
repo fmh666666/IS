@@ -1,8 +1,8 @@
 7
-data.ew.txt 2
-data.op.txt 1
-data.zblq.txt 1
-data.zbsu.txt 1
-data.zcpb.txt 1
-data.zdgt.txt 1
-data.zdst.txt 1
+data.ew.txt 4.757796866583254
+data.op.txt 3.0018356045764243
+data.zblq.txt 3.0018356045764243
+data.zbsu.txt 3.0018356045764243
+data.zcpb.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243
+data.zdst.txt 3.0018356045764243

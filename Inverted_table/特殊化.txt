@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zbyv.txt 1
-data.zciy.txt 1
-data.zeoo.txt 1
+data.op.txt 3.389731710180695
+data.zbyv.txt 3.389731710180695
+data.zciy.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

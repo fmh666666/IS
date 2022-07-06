@@ -1,6 +1,6 @@
 5
-data.zaqf.txt 1
-data.zaxx.txt 1
-data.zcxq.txt 1
-data.zefu.txt 2
-data.zene.txt 1
+data.zaqf.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zefu.txt 5.1274494005309625
+data.zene.txt 3.235060386727117

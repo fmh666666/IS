@@ -1,4 +1,4 @@
 3
-data.jf.txt 2
-data.zblq.txt 2
-data.zdlg.txt 1
+data.jf.txt 5.688648708166832
+data.zblq.txt 5.688648708166832
+data.zdlg.txt 3.5891377275982888

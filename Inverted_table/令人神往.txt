@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.vz.txt 1
-data.zajo.txt 1
-data.zaun.txt 1
-data.zbkv.txt 1
-data.zblq.txt 1
-data.zbsm.txt 1
-data.zbvf.txt 1
-data.zcpx.txt 1
-data.zeay.txt 1
-data.zevl.txt 1
-data.zewv.txt 1
+data.ga.txt 2.628231699761886
+data.vz.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zaun.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zbvf.txt 2.628231699761886
+data.zcpx.txt 2.628231699761886
+data.zeay.txt 2.628231699761886
+data.zevl.txt 2.628231699761886
+data.zewv.txt 2.628231699761886

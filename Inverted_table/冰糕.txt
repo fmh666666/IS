@@ -1,8 +1,8 @@
 7
-data.zadv.txt 3
-data.zafl.txt 1
-data.zafq.txt 4
-data.zaoo.txt 1
-data.zcbe.txt 1
-data.zcts.txt 2
-data.zeid.txt 1
+data.zadv.txt 6.003671209152849
+data.zafl.txt 3.0018356045764243
+data.zafq.txt 6.970046426499191
+data.zaoo.txt 3.0018356045764243
+data.zcbe.txt 3.0018356045764243
+data.zcts.txt 4.757796866583254
+data.zeid.txt 3.0018356045764243

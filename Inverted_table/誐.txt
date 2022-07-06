@@ -1,2 +1,2 @@
 1
-data.zehb.txt 2
+data.zehb.txt 6.8955976689794145

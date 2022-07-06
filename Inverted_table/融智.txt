@@ -1,5 +1,5 @@
 4
-data.zcon.txt 1
-data.zctm.txt 4
-data.zety.txt 3
-data.zexm.txt 1
+data.zcon.txt 3.389731710180695
+data.zctm.txt 7.870713291999142
+data.zety.txt 6.77946342036139
+data.zexm.txt 3.389731710180695

@@ -1,12 +1,12 @@
 11
-data.vm.txt 2
-data.zafu.txt 2
-data.zafv.txt 1
-data.zahp.txt 2
-data.zatz.txt 1
-data.zazg.txt 1
-data.zbdx.txt 1
-data.zbeb.txt 2
-data.zcsu.txt 1
-data.zddx.txt 2
-data.zdwv.txt 2
+data.vm.txt 4.261240455343955
+data.zafu.txt 4.261240455343955
+data.zafv.txt 2.6885433903988862
+data.zahp.txt 4.261240455343955
+data.zatz.txt 2.6885433903988862
+data.zazg.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zbeb.txt 4.261240455343955
+data.zcsu.txt 2.6885433903988862
+data.zddx.txt 4.261240455343955
+data.zdwv.txt 4.261240455343955

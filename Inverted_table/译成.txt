@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.jf.txt 1
-data.pq.txt 2
-data.zapl.txt 1
-data.zarr.txt 1
-data.zbnx.txt 1
-data.zcnn.txt 1
-data.zctp.txt 1
-data.zdme.txt 1
-data.zdwl.txt 1
-data.zefw.txt 1
+data.gw.txt 2.6885433903988862
+data.jf.txt 2.6885433903988862
+data.pq.txt 4.261240455343955
+data.zapl.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcnn.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zefw.txt 2.6885433903988862

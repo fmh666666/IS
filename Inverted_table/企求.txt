@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zawu.txt 1
-data.zbaf.txt 1
-data.zcjy.txt 1
-data.zdlm.txt 1
+data.zalm.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zbaf.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.pa.txt 2
-data.zabj.txt 3
-data.zalm.txt 1
-data.zbsu.txt 2
-data.zcfn.txt 3
-data.zdds.txt 1
-data.zegn.txt 2
+data.hg.txt 2.9092786962624935
+data.pa.txt 4.611097637722987
+data.zabj.txt 5.818557392524987
+data.zalm.txt 2.9092786962624935
+data.zbsu.txt 4.611097637722987
+data.zcfn.txt 5.818557392524987
+data.zdds.txt 2.9092786962624935
+data.zegn.txt 4.611097637722987

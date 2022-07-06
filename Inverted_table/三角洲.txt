@@ -1,9 +1,9 @@
 8
-data.zagb.txt 1
-data.zawb.txt 2
-data.zazg.txt 1
-data.zbcv.txt 1
-data.zbqu.txt 1
-data.zbvm.txt 1
-data.zdkv.txt 1
-data.zdlm.txt 1
+data.zagb.txt 2.9092786962624935
+data.zawb.txt 4.611097637722987
+data.zazg.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zdkv.txt 2.9092786962624935
+data.zdlm.txt 2.9092786962624935

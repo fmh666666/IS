@@ -1,5 +1,5 @@
 4
-data.zbjk.txt 1
-data.zdep.txt 4
-data.zdeq.txt 18
-data.zeel.txt 1
+data.zbjk.txt 3.389731710180695
+data.zdep.txt 7.870713291999142
+data.zdeq.txt 14.399334594868751
+data.zeel.txt 3.389731710180695

@@ -1,11 +1,11 @@
 10
-data.mu.txt 4
-data.zblh.txt 1
-data.zbvn.txt 1
-data.zcpa.txt 1
-data.zcwq.txt 1
-data.zeai.txt 1
-data.zedk.txt 1
-data.zeew.txt 1
-data.zefw.txt 1
-data.zekw.txt 1
+data.mu.txt 6.396000249308887
+data.zblh.txt 2.7546073728089153
+data.zbvn.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zcwq.txt 2.7546073728089153
+data.zeai.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zeew.txt 2.7546073728089153
+data.zefw.txt 2.7546073728089153
+data.zekw.txt 2.7546073728089153

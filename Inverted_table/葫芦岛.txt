@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zasr.txt 2
-data.zdaa.txt 1
-data.zexm.txt 1
-data.zfai.txt 2
+data.dg.txt 3.235060386727117
+data.zasr.txt 5.1274494005309625
+data.zdaa.txt 3.235060386727117
+data.zexm.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

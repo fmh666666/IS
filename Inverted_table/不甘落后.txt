@@ -1,9 +1,9 @@
 8
-data.zacw.txt 1
-data.zapl.txt 1
-data.zarr.txt 1
-data.zcll.txt 1
-data.zcmx.txt 1
-data.zczl.txt 1
-data.zdgo.txt 1
-data.zexu.txt 1
+data.zacw.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zcll.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zexu.txt 2.9092786962624935

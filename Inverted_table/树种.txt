@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.gw.txt 2
-data.nh.txt 1
-data.yx.txt 2
-data.zaej.txt 3
-data.zaoy.txt 2
-data.zavx.txt 1
-data.zawo.txt 1
-data.zbhd.txt 3
-data.zccl.txt 1
-data.zcsu.txt 1
-data.zctp.txt 2
+data.cf.txt 2.628231699761886
+data.gw.txt 4.165648687329214
+data.nh.txt 2.628231699761886
+data.yx.txt 4.165648687329214
+data.zaej.txt 5.256463399523772
+data.zaoy.txt 4.165648687329214
+data.zavx.txt 2.628231699761886
+data.zawo.txt 2.628231699761886
+data.zbhd.txt 5.256463399523772
+data.zccl.txt 2.628231699761886
+data.zcsu.txt 2.628231699761886
+data.zctp.txt 4.165648687329214

@@ -1,7 +1,7 @@
 6
-data.jj.txt 1
-data.zaic.txt 1
-data.zazg.txt 1
-data.zdju.txt 1
-data.zdkk.txt 1
-data.zdro.txt 1
+data.jj.txt 3.1086847136800873
+data.zaic.txt 3.1086847136800873
+data.zazg.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zdro.txt 3.1086847136800873

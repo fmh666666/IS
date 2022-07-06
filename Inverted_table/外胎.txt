@@ -1,2 +1,2 @@
 1
-data.zejn.txt 2
+data.zejn.txt 6.8955976689794145

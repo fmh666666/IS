@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zbgu.txt 1
-data.zbye.txt 1
-data.zcxr.txt 2
-data.zexk.txt 1
+data.zaxp.txt 3.235060386727117
+data.zbgu.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zcxr.txt 5.1274494005309625
+data.zexk.txt 3.235060386727117

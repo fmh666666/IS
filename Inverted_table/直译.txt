@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.mu.txt 1
-data.vi.txt 1
-data.zafk.txt 2
-data.zajo.txt 1
-data.zarr.txt 1
-data.zcxq.txt 1
-data.zdmw.txt 1
-data.zdof.txt 1
-data.zdrq.txt 1
-data.zedd.txt 1
-data.zeew.txt 1
+data.gk.txt 2.628231699761886
+data.mu.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.zafk.txt 4.165648687329214
+data.zajo.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zcxq.txt 2.628231699761886
+data.zdmw.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zedd.txt 2.628231699761886
+data.zeew.txt 2.628231699761886

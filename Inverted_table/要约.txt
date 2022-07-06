@@ -1,14 +1,14 @@
 13
-data.zaet.txt 1
-data.zahd.txt 1
-data.zank.txt 1
-data.zaoy.txt 1
-data.zasw.txt 1
-data.zayv.txt 1
-data.zbkv.txt 2
-data.zbmw.txt 1
-data.zciq.txt 1
-data.zcon.txt 1
-data.zdwn.txt 1
-data.zedx.txt 1
-data.zehp.txt 1
+data.zaet.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zank.txt 2.5727503226135906
+data.zaoy.txt 2.5727503226135906
+data.zasw.txt 2.5727503226135906
+data.zayv.txt 2.5727503226135906
+data.zbkv.txt 4.077712785060798
+data.zbmw.txt 2.5727503226135906
+data.zciq.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zdwn.txt 2.5727503226135906
+data.zedx.txt 2.5727503226135906
+data.zehp.txt 2.5727503226135906

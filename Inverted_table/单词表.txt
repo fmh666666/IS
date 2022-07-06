@@ -1,4 +1,4 @@
 3
-data.fj.txt 1
-data.pq.txt 2
-data.zasw.txt 3
+data.fj.txt 3.5891377275982888
+data.pq.txt 5.688648708166832
+data.zasw.txt 7.1782754551965775

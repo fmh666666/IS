@@ -1,3 +1,3 @@
 2
-data.zbot.txt 5
-data.zdby.txt 1
+data.zbot.txt 10.0042823826595
+data.zdby.txt 3.8701847240988965

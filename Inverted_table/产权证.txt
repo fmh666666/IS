@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.op.txt 1
-data.to.txt 2
-data.zaim.txt 1
-data.zbre.txt 1
+data.ka.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.to.txt 5.1274494005309625
+data.zaim.txt 3.235060386727117
+data.zbre.txt 3.235060386727117

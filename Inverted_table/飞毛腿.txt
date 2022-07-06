@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.zabx.txt 3
-data.zawo.txt 1
-data.zbil.txt 1
-data.zbkf.txt 1
-data.zbts.txt 1
-data.zcej.txt 1
-data.zclh.txt 1
-data.zcmn.txt 1
+data.bs.txt 2.82763771717948
+data.zabx.txt 5.65527543435896
+data.zawo.txt 2.82763771717948
+data.zbil.txt 2.82763771717948
+data.zbkf.txt 2.82763771717948
+data.zbts.txt 2.82763771717948
+data.zcej.txt 2.82763771717948
+data.zclh.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948

@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.zagb.txt 1
-data.zaxk.txt 2
-data.zbil.txt 1
-data.zbor.txt 1
-data.zcni.txt 1
-data.zdod.txt 1
-data.zdxw.txt 1
-data.zelt.txt 1
-data.zeoh.txt 2
+data.ga.txt 2.7546073728089153
+data.zagb.txt 2.7546073728089153
+data.zaxk.txt 4.365949390112154
+data.zbil.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zeoh.txt 4.365949390112154

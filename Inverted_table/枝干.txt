@@ -1,9 +1,9 @@
 8
-data.zavx.txt 1
-data.zbbt.txt 1
-data.zcda.txt 3
-data.zdji.txt 1
-data.zedy.txt 1
-data.zehj.txt 1
-data.zewd.txt 1
-data.zfbr.txt 1
+data.zavx.txt 2.9092786962624935
+data.zbbt.txt 2.9092786962624935
+data.zcda.txt 5.818557392524987
+data.zdji.txt 2.9092786962624935
+data.zedy.txt 2.9092786962624935
+data.zehj.txt 2.9092786962624935
+data.zewd.txt 2.9092786962624935
+data.zfbr.txt 2.9092786962624935

@@ -1,6 +1,6 @@
 5
-data.zako.txt 4
-data.zcqs.txt 1
-data.zejk.txt 1
-data.zenw.txt 1
-data.zfai.txt 4
+data.zako.txt 7.511577600598868
+data.zcqs.txt 3.235060386727117
+data.zejk.txt 3.235060386727117
+data.zenw.txt 3.235060386727117
+data.zfai.txt 7.511577600598868

@@ -1,2 +1,2 @@
 1
-data.zcmy.txt 1
+data.zcmy.txt 4.350637738017098

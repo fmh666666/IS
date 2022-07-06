@@ -1,7 +1,7 @@
 6
-data.nh.txt 2
-data.zaxk.txt 1
-data.zazw.txt 1
-data.zdxw.txt 1
-data.zejk.txt 1
-data.zeoh.txt 1
+data.nh.txt 4.927148697748023
+data.zaxk.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zdxw.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

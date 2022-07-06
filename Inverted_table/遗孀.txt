@@ -1,3 +1,3 @@
 2
-data.zbia.txt 1
-data.zdeq.txt 1
+data.zbia.txt 3.8701847240988965
+data.zdeq.txt 3.8701847240988965

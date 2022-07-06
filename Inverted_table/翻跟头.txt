@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.qb.txt 1
-data.zafi.txt 1
-data.zczb.txt 1
-data.zdof.txt 1
-data.zeeq.txt 1
-data.zejn.txt 1
-data.zeos.txt 1
-data.zevl.txt 1
+data.cf.txt 2.82763771717948
+data.qb.txt 2.82763771717948
+data.zafi.txt 2.82763771717948
+data.zczb.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948
+data.zejn.txt 2.82763771717948
+data.zeos.txt 2.82763771717948
+data.zevl.txt 2.82763771717948

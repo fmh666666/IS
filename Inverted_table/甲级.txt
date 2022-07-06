@@ -1,9 +1,9 @@
 8
-data.zamr.txt 1
-data.zbaq.txt 1
-data.zbsm.txt 1
-data.zccu.txt 1
-data.zcll.txt 1
-data.zctn.txt 2
-data.zdou.txt 1
-data.zedo.txt 1
+data.zamr.txt 2.9092786962624935
+data.zbaq.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zcll.txt 2.9092786962624935
+data.zctn.txt 4.611097637722987
+data.zdou.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

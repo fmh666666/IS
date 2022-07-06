@@ -1,11 +1,11 @@
 10
-data.cn.txt 1
-data.fj.txt 1
-data.uz.txt 1
-data.zasd.txt 1
-data.zbla.txt 1
-data.zbvn.txt 3
-data.zcbe.txt 1
-data.zdcy.txt 1
-data.zdoq.txt 1
-data.zefs.txt 1
+data.cn.txt 2.7546073728089153
+data.fj.txt 2.7546073728089153
+data.uz.txt 2.7546073728089153
+data.zasd.txt 2.7546073728089153
+data.zbla.txt 2.7546073728089153
+data.zbvn.txt 5.509214745617831
+data.zcbe.txt 2.7546073728089153
+data.zdcy.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zefs.txt 2.7546073728089153

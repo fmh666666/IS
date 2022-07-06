@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.zaim.txt 1
-data.zavx.txt 1
-data.zayd.txt 1
-data.zbut.txt 2
-data.zcmy.txt 1
-data.zcon.txt 1
-data.zefs.txt 1
-data.zefv.txt 1
-data.zeoh.txt 1
-data.zevq.txt 1
-data.zfcg.txt 1
+data.cf.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zavx.txt 2.628231699761886
+data.zayd.txt 2.628231699761886
+data.zbut.txt 4.165648687329214
+data.zcmy.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zefs.txt 2.628231699761886
+data.zefv.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zevq.txt 2.628231699761886
+data.zfcg.txt 2.628231699761886

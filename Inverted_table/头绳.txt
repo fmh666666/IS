@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zbgw.txt 1
-data.zbsl.txt 2
-data.zbup.txt 1
-data.zcue.txt 1
-data.zdds.txt 1
+data.tv.txt 3.1086847136800873
+data.zbgw.txt 3.1086847136800873
+data.zbsl.txt 4.927148697748023
+data.zbup.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zdds.txt 3.1086847136800873

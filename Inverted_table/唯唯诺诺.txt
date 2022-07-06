@@ -1,11 +1,11 @@
 10
-data.ft.txt 1
-data.tz.txt 1
-data.zard.txt 1
-data.zbhe.txt 1
-data.zcdl.txt 1
-data.zcvi.txt 1
-data.zcvq.txt 1
-data.zedx.txt 1
-data.zeez.txt 1
-data.zexm.txt 1
+data.ft.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zard.txt 2.7546073728089153
+data.zbhe.txt 2.7546073728089153
+data.zcdl.txt 2.7546073728089153
+data.zcvi.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zeez.txt 2.7546073728089153
+data.zexm.txt 2.7546073728089153

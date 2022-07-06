@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.zbpx.txt 1
-data.zcmv.txt 1
-data.zcse.txt 1
-data.zddx.txt 1
+data.ft.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zcmv.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zddx.txt 3.235060386727117

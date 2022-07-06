@@ -1,10 +1,10 @@
 9
-data.xk.txt 5
-data.zako.txt 2
-data.zbfz.txt 1
-data.zbha.txt 1
-data.zbia.txt 1
-data.zbtj.txt 2
-data.zdaq.txt 2
-data.zdic.txt 1
-data.zdlo.txt 1
+data.xk.txt 7.309337464533731
+data.zako.txt 4.48169974735425
+data.zbfz.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zbtj.txt 4.48169974735425
+data.zdaq.txt 4.48169974735425
+data.zdic.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948

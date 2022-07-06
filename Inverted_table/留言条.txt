@@ -1,4 +1,4 @@
 3
-data.zafy.txt 1
-data.zazx.txt 1
-data.zehp.txt 1
+data.zafy.txt 3.5891377275982888
+data.zazx.txt 3.5891377275982888
+data.zehp.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.jd.txt 1
-data.ye.txt 1
-data.zblh.txt 1
-data.zcrv.txt 1
-data.zddl.txt 1
+data.cq.txt 3.1086847136800873
+data.jd.txt 3.1086847136800873
+data.ye.txt 3.1086847136800873
+data.zblh.txt 3.1086847136800873
+data.zcrv.txt 3.1086847136800873
+data.zddl.txt 3.1086847136800873

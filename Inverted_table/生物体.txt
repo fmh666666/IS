@@ -1,4 +1,4 @@
 3
-data.zaic.txt 1
-data.zcbm.txt 1
-data.zcon.txt 2
+data.zaic.txt 3.5891377275982888
+data.zcbm.txt 3.5891377275982888
+data.zcon.txt 5.688648708166832

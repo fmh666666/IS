@@ -1,6 +1,6 @@
 5
-data.zafq.txt 1
-data.zafu.txt 1
-data.zbbt.txt 1
-data.zbph.txt 2
-data.zebc.txt 1
+data.zafq.txt 3.235060386727117
+data.zafu.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zbph.txt 5.1274494005309625
+data.zebc.txt 3.235060386727117

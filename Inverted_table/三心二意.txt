@@ -1,14 +1,14 @@
 13
-data.ng.txt 1
-data.yx.txt 1
-data.zaxk.txt 1
-data.zbaf.txt 1
-data.zbdb.txt 1
-data.zbfx.txt 2
-data.zbxw.txt 1
-data.zcis.txt 1
-data.zcni.txt 1
-data.zdil.txt 1
-data.zdju.txt 1
-data.zeun.txt 1
-data.zfbr.txt 1
+data.ng.txt 2.5727503226135906
+data.yx.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zbaf.txt 2.5727503226135906
+data.zbdb.txt 2.5727503226135906
+data.zbfx.txt 4.077712785060798
+data.zbxw.txt 2.5727503226135906
+data.zcis.txt 2.5727503226135906
+data.zcni.txt 2.5727503226135906
+data.zdil.txt 2.5727503226135906
+data.zdju.txt 2.5727503226135906
+data.zeun.txt 2.5727503226135906
+data.zfbr.txt 2.5727503226135906

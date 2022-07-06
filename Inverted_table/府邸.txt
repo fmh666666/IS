@@ -1,4 +1,4 @@
 3
-data.zaxx.txt 1
-data.zbyb.txt 1
-data.zeac.txt 2
+data.zaxx.txt 3.5891377275982888
+data.zbyb.txt 3.5891377275982888
+data.zeac.txt 5.688648708166832

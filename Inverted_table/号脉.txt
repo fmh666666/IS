@@ -1,2 +1,2 @@
 1
-data.zcnn.txt 2
+data.zcnn.txt 6.8955976689794145

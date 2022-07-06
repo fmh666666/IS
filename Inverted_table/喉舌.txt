@@ -1,9 +1,9 @@
 8
-data.jj.txt 1
-data.op.txt 1
-data.zahd.txt 1
-data.zaic.txt 1
-data.zaip.txt 1
-data.zcku.txt 1
-data.zctn.txt 1
-data.zdzn.txt 1
+data.jj.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zaic.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zctn.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935

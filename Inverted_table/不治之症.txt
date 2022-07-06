@@ -1,11 +1,11 @@
 10
-data.gw.txt 1
-data.zaim.txt 1
-data.zaqf.txt 1
-data.zaqw.txt 2
-data.zawu.txt 1
-data.zbup.txt 1
-data.zcxr.txt 2
-data.zdwl.txt 1
-data.zemf.txt 1
-data.zexx.txt 1
+data.gw.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zaqf.txt 2.7546073728089153
+data.zaqw.txt 4.365949390112154
+data.zawu.txt 2.7546073728089153
+data.zbup.txt 2.7546073728089153
+data.zcxr.txt 4.365949390112154
+data.zdwl.txt 2.7546073728089153
+data.zemf.txt 2.7546073728089153
+data.zexx.txt 2.7546073728089153

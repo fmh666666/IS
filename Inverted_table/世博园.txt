@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.gw.txt 1
-data.zacw.txt 2
-data.zavx.txt 1
-data.zbua.txt 2
-data.zdzg.txt 1
-data.zeeh.txt 3
-data.zexx.txt 1
-data.zfaj.txt 2
+data.cf.txt 2.82763771717948
+data.gw.txt 2.82763771717948
+data.zacw.txt 4.48169974735425
+data.zavx.txt 2.82763771717948
+data.zbua.txt 4.48169974735425
+data.zdzg.txt 2.82763771717948
+data.zeeh.txt 5.65527543435896
+data.zexx.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425

@@ -1,6 +1,6 @@
 5
-data.zatz.txt 1
-data.zczl.txt 2
-data.zdzi.txt 1
-data.zelj.txt 2
-data.zeta.txt 1
+data.zatz.txt 3.235060386727117
+data.zczl.txt 5.1274494005309625
+data.zdzi.txt 3.235060386727117
+data.zelj.txt 5.1274494005309625
+data.zeta.txt 3.235060386727117

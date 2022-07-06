@@ -1,4 +1,4 @@
 3
-data.zcfn.txt 4
-data.zdod.txt 1
-data.zdpz.txt 1
+data.zcfn.txt 8.333719726130651
+data.zdod.txt 3.5891377275982888
+data.zdpz.txt 3.5891377275982888

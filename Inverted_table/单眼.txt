@@ -1,11 +1,11 @@
 10
-data.ft.txt 1
-data.hu.txt 1
-data.ok.txt 1
-data.zabx.txt 1
-data.zafi.txt 1
-data.zazg.txt 1
-data.zbkj.txt 1
-data.zbre.txt 1
-data.zcvt.txt 2
-data.zczp.txt 1
+data.ft.txt 2.7546073728089153
+data.hu.txt 2.7546073728089153
+data.ok.txt 2.7546073728089153
+data.zabx.txt 2.7546073728089153
+data.zafi.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zcvt.txt 4.365949390112154
+data.zczp.txt 2.7546073728089153

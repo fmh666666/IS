@@ -1,12 +1,12 @@
 11
-data.zacp.txt 1
-data.zall.txt 1
-data.zavg.txt 1
-data.zaxk.txt 1
-data.zbsu.txt 1
-data.zcic.txt 2
-data.zcmn.txt 1
-data.zcni.txt 1
-data.zegk.txt 2
-data.zegl.txt 3
-data.zegn.txt 2
+data.zacp.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbsu.txt 2.6885433903988862
+data.zcic.txt 4.261240455343955
+data.zcmn.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zegk.txt 4.261240455343955
+data.zegl.txt 5.3770867807977725
+data.zegn.txt 4.261240455343955

@@ -1,7 +1,7 @@
 6
-data.zazw.txt 1
-data.zblr.txt 1
-data.zclh.txt 1
-data.zcuh.txt 1
-data.zdey.txt 1
-data.zeoh.txt 1
+data.zazw.txt 3.1086847136800873
+data.zblr.txt 3.1086847136800873
+data.zclh.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

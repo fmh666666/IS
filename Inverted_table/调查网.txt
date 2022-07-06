@@ -1,4 +1,4 @@
 3
-data.jj.txt 16
-data.op.txt 1
-data.xk.txt 472
+data.jj.txt 14.670467093687689
+data.op.txt 3.5891377275982888
+data.xk.txt 31.89198808953571

@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zabe.txt 4
-data.zcem.txt 1
+data.jf.txt 3.5891377275982888
+data.zabe.txt 8.333719726130651
+data.zcem.txt 3.5891377275982888

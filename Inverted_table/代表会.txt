@@ -1,5 +1,5 @@
 4
-data.zacw.txt 2
-data.zbaf.txt 1
-data.zdwd.txt 1
-data.zene.txt 1
+data.zacw.txt 5.372597648141796
+data.zbaf.txt 3.389731710180695
+data.zdwd.txt 3.389731710180695
+data.zene.txt 3.389731710180695

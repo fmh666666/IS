@@ -1,12 +1,12 @@
 11
-data.ok.txt 1
-data.zbha.txt 2
-data.zcdv.txt 1
-data.zcem.txt 3
-data.zctm.txt 1
-data.zcve.txt 2
-data.zedd.txt 1
-data.zeds.txt 1
-data.zeeq.txt 1
-data.zewv.txt 1
-data.zfaw.txt 1
+data.ok.txt 2.6885433903988862
+data.zbha.txt 4.261240455343955
+data.zcdv.txt 2.6885433903988862
+data.zcem.txt 5.3770867807977725
+data.zctm.txt 2.6885433903988862
+data.zcve.txt 4.261240455343955
+data.zedd.txt 2.6885433903988862
+data.zeds.txt 2.6885433903988862
+data.zeeq.txt 2.6885433903988862
+data.zewv.txt 2.6885433903988862
+data.zfaw.txt 2.6885433903988862

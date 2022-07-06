@@ -1,7 +1,7 @@
 6
-data.mt.txt 1
-data.zabe.txt 1
-data.zasw.txt 1
-data.zbfz.txt 1
-data.zcgi.txt 2
-data.zdwv.txt 1
+data.mt.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zcgi.txt 4.927148697748023
+data.zdwv.txt 3.1086847136800873

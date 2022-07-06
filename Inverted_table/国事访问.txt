@@ -1,5 +1,5 @@
 4
-data.zanh.txt 1
-data.zdgp.txt 1
-data.zeeq.txt 2
-data.zexv.txt 1
+data.zanh.txt 3.389731710180695
+data.zdgp.txt 3.389731710180695
+data.zeeq.txt 5.372597648141796
+data.zexv.txt 3.389731710180695

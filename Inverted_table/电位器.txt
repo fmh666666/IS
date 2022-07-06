@@ -1,2 +1,2 @@
 1
-data.zbfz.txt 3
+data.zbfz.txt 8.701275476034196

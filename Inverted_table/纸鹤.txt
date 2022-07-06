@@ -1,13 +1,13 @@
 12
-data.ha.txt 1
-data.zacw.txt 2
-data.zamr.txt 5
-data.zaqw.txt 2
-data.zavg.txt 1
-data.zbfx.txt 1
-data.zbot.txt 1
-data.zbtj.txt 1
-data.zcql.txt 1
-data.zdqq.txt 1
-data.zdux.txt 3
-data.zeew.txt 1
+data.ha.txt 2.628231699761886
+data.zacw.txt 4.165648687329214
+data.zamr.txt 6.7938803870911
+data.zaqw.txt 4.165648687329214
+data.zavg.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zbot.txt 2.628231699761886
+data.zbtj.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zdqq.txt 2.628231699761886
+data.zdux.txt 5.256463399523772
+data.zeew.txt 2.628231699761886

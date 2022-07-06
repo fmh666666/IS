@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zabe.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zbpm.txt 1
+data.op.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117

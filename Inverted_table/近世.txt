@@ -1,6 +1,6 @@
 5
-data.jd.txt 1
-data.zabe.txt 1
-data.zcue.txt 1
-data.zczj.txt 1
-data.zebv.txt 1
+data.jd.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zczj.txt 3.235060386727117
+data.zebv.txt 3.235060386727117

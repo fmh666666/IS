@@ -1,6 +1,6 @@
 5
-data.zcpb.txt 3
-data.zcpc.txt 13
-data.zcqp.txt 2
-data.zeai.txt 3
-data.zedy.txt 1
+data.zcpb.txt 6.470120773454234
+data.zcpc.txt 12.317023086559065
+data.zcqp.txt 5.1274494005309625
+data.zeai.txt 6.470120773454234
+data.zedy.txt 3.235060386727117

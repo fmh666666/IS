@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.ud.txt 1
-data.zafu.txt 2
-data.zaqr.txt 1
-data.zbru.txt 2
-data.zcqg.txt 1
-data.zdwl.txt 1
-data.zezy.txt 1
-data.zfby.txt 1
+data.cq.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zafu.txt 4.48169974735425
+data.zaqr.txt 2.82763771717948
+data.zbru.txt 4.48169974735425
+data.zcqg.txt 2.82763771717948
+data.zdwl.txt 2.82763771717948
+data.zezy.txt 2.82763771717948
+data.zfby.txt 2.82763771717948

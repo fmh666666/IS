@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.hg.txt 1
-data.zbla.txt 1
-data.zcmy.txt 1
-data.zfcp.txt 1
+data.cf.txt 3.235060386727117
+data.hg.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zcmy.txt 3.235060386727117
+data.zfcp.txt 3.235060386727117

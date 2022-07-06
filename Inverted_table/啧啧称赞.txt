@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.cz.txt 1
-data.zbaq.txt 1
-data.zcel.txt 1
-data.zfas.txt 1
+data.be.txt 3.235060386727117
+data.cz.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

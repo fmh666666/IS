@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.gw.txt 1
-data.ha.txt 1
-data.kt.txt 1
-data.zalm.txt 1
-data.zbfd.txt 1
-data.zbkv.txt 1
-data.zbpp.txt 1
-data.zbzf.txt 1
-data.zeqn.txt 1
-data.zezm.txt 1
-data.zezy.txt 1
+data.bs.txt 2.628231699761886
+data.gw.txt 2.628231699761886
+data.ha.txt 2.628231699761886
+data.kt.txt 2.628231699761886
+data.zalm.txt 2.628231699761886
+data.zbfd.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zeqn.txt 2.628231699761886
+data.zezm.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

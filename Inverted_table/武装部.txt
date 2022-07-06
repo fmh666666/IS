@@ -1,8 +1,8 @@
 7
-data.zcse.txt 2
-data.zcvq.txt 1
-data.zdgo.txt 2
-data.zdlm.txt 1
-data.zduk.txt 1
-data.zevl.txt 1
-data.zfae.txt 2
+data.zcse.txt 4.757796866583254
+data.zcvq.txt 3.0018356045764243
+data.zdgo.txt 4.757796866583254
+data.zdlm.txt 3.0018356045764243
+data.zduk.txt 3.0018356045764243
+data.zevl.txt 3.0018356045764243
+data.zfae.txt 4.757796866583254

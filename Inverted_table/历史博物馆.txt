@@ -1,11 +1,11 @@
 10
-data.nh.txt 1
-data.ok.txt 1
-data.zaxp.txt 1
-data.zbup.txt 2
-data.zcak.txt 1
-data.zcdg.txt 2
-data.zcdv.txt 2
-data.zdga.txt 2
-data.zduc.txt 1
-data.zeqn.txt 1
+data.nh.txt 2.7546073728089153
+data.ok.txt 2.7546073728089153
+data.zaxp.txt 2.7546073728089153
+data.zbup.txt 4.365949390112154
+data.zcak.txt 2.7546073728089153
+data.zcdg.txt 4.365949390112154
+data.zcdv.txt 4.365949390112154
+data.zdga.txt 4.365949390112154
+data.zduc.txt 2.7546073728089153
+data.zeqn.txt 2.7546073728089153

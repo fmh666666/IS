@@ -1,10 +1,10 @@
 9
-data.sq.txt 1
-data.tj.txt 2
-data.tv.txt 1
-data.zamp.txt 2
-data.zasj.txt 1
-data.zctm.txt 1
-data.zcts.txt 2
-data.zdqx.txt 1
-data.zevt.txt 1
+data.sq.txt 2.82763771717948
+data.tj.txt 4.48169974735425
+data.tv.txt 2.82763771717948
+data.zamp.txt 4.48169974735425
+data.zasj.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zcts.txt 4.48169974735425
+data.zdqx.txt 2.82763771717948
+data.zevt.txt 2.82763771717948

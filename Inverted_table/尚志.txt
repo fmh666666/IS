@@ -1,14 +1,14 @@
 13
-data.fz.txt 2
-data.ga.txt 3
-data.zasw.txt 1
-data.zasy.txt 1
-data.zdkc.txt 1
-data.zdlw.txt 1
-data.zdme.txt 1
-data.zduk.txt 1
-data.zdzi.txt 1
-data.zeec.txt 1
-data.zene.txt 1
-data.zeoh.txt 2
-data.zexk.txt 1
+data.fz.txt 4.077712785060798
+data.ga.txt 5.145500645227181
+data.zasw.txt 2.5727503226135906
+data.zasy.txt 2.5727503226135906
+data.zdkc.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zdme.txt 2.5727503226135906
+data.zduk.txt 2.5727503226135906
+data.zdzi.txt 2.5727503226135906
+data.zeec.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zeoh.txt 4.077712785060798
+data.zexk.txt 2.5727503226135906

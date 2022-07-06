@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.jf.txt 2
-data.zbcc.txt 1
-data.zbnp.txt 1
-data.zeqv.txt 1
-data.zezy.txt 1
+data.ga.txt 3.1086847136800873
+data.jf.txt 4.927148697748023
+data.zbcc.txt 3.1086847136800873
+data.zbnp.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

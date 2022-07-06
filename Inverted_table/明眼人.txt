@@ -1,9 +1,9 @@
 8
-data.en.txt 1
-data.vi.txt 1
-data.zbdb.txt 1
-data.zbes.txt 1
-data.zcjy.txt 1
-data.zdod.txt 1
-data.zdyv.txt 1
-data.zeec.txt 1
+data.en.txt 2.9092786962624935
+data.vi.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbes.txt 2.9092786962624935
+data.zcjy.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935
+data.zdyv.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935

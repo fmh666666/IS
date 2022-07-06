@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.jf.txt 2
-data.zbjh.txt 1
-data.zciq.txt 1
-data.zdgt.txt 1
-data.zedy.txt 1
+data.fp.txt 3.1086847136800873
+data.jf.txt 4.927148697748023
+data.zbjh.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873

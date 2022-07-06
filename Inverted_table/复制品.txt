@@ -1,14 +1,14 @@
 13
-data.ud.txt 1
-data.zair.txt 1
-data.zaxk.txt 3
-data.zazn.txt 1
-data.zbga.txt 1
-data.zcmx.txt 1
-data.zdbf.txt 1
-data.zdds.txt 1
-data.zdzi.txt 1
-data.zebn.txt 3
-data.zeqh.txt 1
-data.zerw.txt 1
-data.zezh.txt 1
+data.ud.txt 2.5727503226135906
+data.zair.txt 2.5727503226135906
+data.zaxk.txt 5.145500645227181
+data.zazn.txt 2.5727503226135906
+data.zbga.txt 2.5727503226135906
+data.zcmx.txt 2.5727503226135906
+data.zdbf.txt 2.5727503226135906
+data.zdds.txt 2.5727503226135906
+data.zdzi.txt 2.5727503226135906
+data.zebn.txt 5.145500645227181
+data.zeqh.txt 2.5727503226135906
+data.zerw.txt 2.5727503226135906
+data.zezh.txt 2.5727503226135906

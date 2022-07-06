@@ -1,4 +1,4 @@
 3
-data.ry.txt 2
-data.zbeb.txt 1
-data.zcse.txt 1
+data.ry.txt 5.688648708166832
+data.zbeb.txt 3.5891377275982888
+data.zcse.txt 3.5891377275982888

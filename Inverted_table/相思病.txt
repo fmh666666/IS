@@ -1,7 +1,7 @@
 6
-data.wc.txt 1
-data.zadv.txt 1
-data.zafu.txt 2
-data.zdlo.txt 1
-data.zduo.txt 1
-data.zeoh.txt 1
+data.wc.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zafu.txt 4.927148697748023
+data.zdlo.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873

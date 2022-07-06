@@ -1,7 +1,7 @@
 6
-data.zafe.txt 1
-data.zaqw.txt 1
-data.zatz.txt 1
-data.zcli.txt 1
-data.zeel.txt 1
-data.zelj.txt 1
+data.zafe.txt 3.1086847136800873
+data.zaqw.txt 3.1086847136800873
+data.zatz.txt 3.1086847136800873
+data.zcli.txt 3.1086847136800873
+data.zeel.txt 3.1086847136800873
+data.zelj.txt 3.1086847136800873

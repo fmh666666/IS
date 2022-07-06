@@ -1,5 +1,5 @@
 4
-data.zaoy.txt 1
-data.zblr.txt 1
-data.zbnx.txt 1
-data.zeoo.txt 1
+data.zaoy.txt 3.389731710180695
+data.zblr.txt 3.389731710180695
+data.zbnx.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

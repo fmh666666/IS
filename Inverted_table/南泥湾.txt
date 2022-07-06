@@ -1,4 +1,4 @@
 3
-data.zalt.txt 1
-data.zdpz.txt 1
-data.zfaj.txt 1
+data.zalt.txt 3.5891377275982888
+data.zdpz.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888

@@ -1,10 +1,10 @@
 9
-data.qb.txt 2
-data.zair.txt 1
-data.zajo.txt 1
-data.zawb.txt 1
-data.zbfz.txt 2
-data.zblq.txt 1
-data.zblr.txt 1
-data.zcak.txt 3
-data.zeaj.txt 1
+data.qb.txt 4.48169974735425
+data.zair.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbfz.txt 4.48169974735425
+data.zblq.txt 2.82763771717948
+data.zblr.txt 2.82763771717948
+data.zcak.txt 5.65527543435896
+data.zeaj.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.mt.txt 1
-data.vi.txt 1
-data.zbqu.txt 1
-data.zbvg.txt 1
-data.zcdz.txt 1
-data.zcli.txt 1
-data.zczp.txt 1
-data.zdeb.txt 2
-data.zdkv.txt 2
-data.zfas.txt 1
+data.fp.txt 2.6885433903988862
+data.mt.txt 2.6885433903988862
+data.vi.txt 2.6885433903988862
+data.zbqu.txt 2.6885433903988862
+data.zbvg.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcli.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdeb.txt 4.261240455343955
+data.zdkv.txt 4.261240455343955
+data.zfas.txt 2.6885433903988862

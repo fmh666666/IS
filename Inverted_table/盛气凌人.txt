@@ -1,8 +1,8 @@
 7
-data.zarr.txt 1
-data.zbds.txt 1
-data.zcxp.txt 2
-data.zczb.txt 1
-data.zdou.txt 1
-data.zdwd.txt 1
-data.zesq.txt 1
+data.zarr.txt 3.0018356045764243
+data.zbds.txt 3.0018356045764243
+data.zcxp.txt 4.757796866583254
+data.zczb.txt 3.0018356045764243
+data.zdou.txt 3.0018356045764243
+data.zdwd.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243

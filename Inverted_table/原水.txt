@@ -1,9 +1,9 @@
 8
-data.mt.txt 1
-data.zadv.txt 1
-data.zail.txt 1
-data.zaoo.txt 1
-data.zbjk.txt 1
-data.zcfn.txt 1
-data.zeos.txt 2
-data.zesq.txt 1
+data.mt.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zaoo.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zeos.txt 4.611097637722987
+data.zesq.txt 2.9092786962624935

@@ -1,11 +1,11 @@
 10
-data.jf.txt 4
-data.zazn.txt 1
-data.zbfr.txt 1
-data.zblq.txt 1
-data.zcic.txt 1
-data.zeag.txt 1
-data.zebc.txt 1
-data.zedo.txt 1
-data.zene.txt 2
-data.zerv.txt 3
+data.jf.txt 6.396000249308887
+data.zazn.txt 2.7546073728089153
+data.zbfr.txt 2.7546073728089153
+data.zblq.txt 2.7546073728089153
+data.zcic.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153
+data.zebc.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zene.txt 4.365949390112154
+data.zerv.txt 5.509214745617831

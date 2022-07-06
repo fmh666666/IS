@@ -1,4 +1,4 @@
 3
-data.zaqf.txt 1
-data.zaql.txt 1
-data.zbpc.txt 1
+data.zaqf.txt 3.5891377275982888
+data.zaql.txt 3.5891377275982888
+data.zbpc.txt 3.5891377275982888

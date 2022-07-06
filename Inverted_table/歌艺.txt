@@ -1,4 +1,4 @@
 3
-data.zawo.txt 1
-data.zclh.txt 1
-data.zcsr.txt 1
+data.zawo.txt 3.5891377275982888
+data.zclh.txt 3.5891377275982888
+data.zcsr.txt 3.5891377275982888

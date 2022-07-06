@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.zaxj.txt 1
-data.zbkv.txt 1
-data.zbnx.txt 1
-data.zcdz.txt 1
-data.zcni.txt 1
-data.zcpb.txt 1
-data.zdgp.txt 1
+data.ga.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935

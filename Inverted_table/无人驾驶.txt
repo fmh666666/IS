@@ -1,13 +1,13 @@
 12
-data.gw.txt 5
-data.pa.txt 2
-data.zaic.txt 1
-data.zaim.txt 1
-data.zcgi.txt 1
-data.zcih.txt 2
-data.zcts.txt 3
-data.zczj.txt 1
-data.zdqx.txt 2
-data.zdwz.txt 2
-data.zejk.txt 2
-data.zexu.txt 1
+data.gw.txt 6.7938803870911
+data.pa.txt 4.165648687329214
+data.zaic.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcih.txt 4.165648687329214
+data.zcts.txt 5.256463399523772
+data.zczj.txt 2.628231699761886
+data.zdqx.txt 4.165648687329214
+data.zdwz.txt 4.165648687329214
+data.zejk.txt 4.165648687329214
+data.zexu.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.co.txt 1
-data.ry.txt 1
-data.zawc.txt 1
-data.zbeb.txt 1
-data.zbpc.txt 2
-data.zcgo.txt 1
-data.zdgt.txt 1
-data.zeqv.txt 1
-data.zesq.txt 1
+data.co.txt 2.82763771717948
+data.ry.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zbpc.txt 4.48169974735425
+data.zcgo.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948
+data.zesq.txt 2.82763771717948

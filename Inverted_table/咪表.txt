@@ -1,6 +1,6 @@
 5
-data.zbpc.txt 1
-data.zbzf.txt 1
-data.zcxq.txt 1
-data.zdkp.txt 1
-data.zeew.txt 1
+data.zbpc.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zeew.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.op.txt 1
-data.wc.txt 1
-data.zbha.txt 1
-data.zbpc.txt 1
-data.zcmn.txt 1
-data.zcon.txt 1
-data.zddx.txt 1
+data.hp.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.wc.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zddx.txt 2.9092786962624935

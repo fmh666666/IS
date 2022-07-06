@@ -1,7 +1,7 @@
 6
-data.gz.txt 1
-data.tz.txt 1
-data.zapf.txt 1
-data.zasy.txt 2
-data.zavg.txt 1
-data.zbhe.txt 1
+data.gz.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zapf.txt 3.1086847136800873
+data.zasy.txt 4.927148697748023
+data.zavg.txt 3.1086847136800873
+data.zbhe.txt 3.1086847136800873

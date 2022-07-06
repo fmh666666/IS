@@ -1,7 +1,7 @@
 6
-data.vm.txt 1
-data.zane.txt 1
-data.zbdb.txt 1
-data.zcjd.txt 1
-data.zcqs.txt 1
-data.zcvi.txt 1
+data.vm.txt 3.1086847136800873
+data.zane.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zcjd.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zcvi.txt 3.1086847136800873

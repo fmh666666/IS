@@ -1,5 +1,5 @@
 4
-data.zard.txt 1
-data.zeoo.txt 1
-data.zevy.txt 4
-data.zezn.txt 1
+data.zard.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695
+data.zevy.txt 7.870713291999142
+data.zezn.txt 3.389731710180695

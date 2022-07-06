@@ -1,12 +1,12 @@
 11
-data.zaop.txt 1
-data.zaqp.txt 1
-data.zbsl.txt 1
-data.zccx.txt 1
-data.zcej.txt 1
-data.zcis.txt 1
-data.zcku.txt 1
-data.zcrn.txt 1
-data.zdju.txt 1
-data.zebc.txt 1
-data.zfae.txt 1
+data.zaop.txt 2.6885433903988862
+data.zaqp.txt 2.6885433903988862
+data.zbsl.txt 2.6885433903988862
+data.zccx.txt 2.6885433903988862
+data.zcej.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zcrn.txt 2.6885433903988862
+data.zdju.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

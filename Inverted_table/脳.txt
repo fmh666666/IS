@@ -1,9 +1,9 @@
 8
-data.tz.txt 1
-data.zbsu.txt 1
-data.zcfn.txt 1
-data.zdby.txt 2
-data.zdkp.txt 1
-data.zdrq.txt 5
-data.zegl.txt 1
-data.zevy.txt 1
+data.tz.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zdby.txt 4.611097637722987
+data.zdkp.txt 2.9092786962624935
+data.zdrq.txt 7.52037633398548
+data.zegl.txt 2.9092786962624935
+data.zevy.txt 2.9092786962624935

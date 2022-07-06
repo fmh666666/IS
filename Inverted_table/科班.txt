@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.zbpm.txt 1
-data.zccu.txt 1
-data.zcmv.txt 2
-data.zeik.txt 1
+data.mt.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zccu.txt 3.235060386727117
+data.zcmv.txt 5.1274494005309625
+data.zeik.txt 3.235060386727117

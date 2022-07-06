@@ -1,4 +1,4 @@
 3
-data.zbjh.txt 1
-data.zbkv.txt 2
-data.zdpw.txt 1
+data.zbjh.txt 3.5891377275982888
+data.zbkv.txt 5.688648708166832
+data.zdpw.txt 3.5891377275982888

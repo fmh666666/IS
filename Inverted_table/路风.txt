@@ -1,7 +1,7 @@
 6
-data.zarc.txt 1
-data.zawc.txt 1
-data.zaxj.txt 1
-data.zcee.txt 1
-data.zebc.txt 1
-data.zecf.txt 1
+data.zarc.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zcee.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873
+data.zecf.txt 3.1086847136800873

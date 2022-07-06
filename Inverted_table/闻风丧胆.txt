@@ -1,11 +1,11 @@
 10
-data.fe.txt 1
-data.zaun.txt 1
-data.zbrj.txt 1
-data.zcpa.txt 2
-data.zcxq.txt 1
-data.zdib.txt 2
-data.zdod.txt 1
-data.zdwl.txt 1
-data.zdxw.txt 1
-data.zexv.txt 1
+data.fe.txt 2.7546073728089153
+data.zaun.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zcpa.txt 4.365949390112154
+data.zcxq.txt 2.7546073728089153
+data.zdib.txt 4.365949390112154
+data.zdod.txt 2.7546073728089153
+data.zdwl.txt 2.7546073728089153
+data.zdxw.txt 2.7546073728089153
+data.zexv.txt 2.7546073728089153

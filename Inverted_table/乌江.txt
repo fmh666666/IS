@@ -1,7 +1,7 @@
 6
-data.zahd.txt 1
-data.zaoo.txt 1
-data.zbru.txt 1
-data.zcao.txt 1
-data.zcko.txt 1
-data.zdzn.txt 1
+data.zahd.txt 3.1086847136800873
+data.zaoo.txt 3.1086847136800873
+data.zbru.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zcko.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873

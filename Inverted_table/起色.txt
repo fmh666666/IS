@@ -1,8 +1,8 @@
 7
-data.zabj.txt 1
-data.zalt.txt 1
-data.zcfx.txt 1
-data.zcxq.txt 1
-data.zdgv.txt 1
-data.zebv.txt 1
-data.zfaw.txt 1
+data.zabj.txt 3.0018356045764243
+data.zalt.txt 3.0018356045764243
+data.zcfx.txt 3.0018356045764243
+data.zcxq.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zebv.txt 3.0018356045764243
+data.zfaw.txt 3.0018356045764243

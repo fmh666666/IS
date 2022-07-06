@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zbcc.txt 1
-data.zblq.txt 1
-data.zclh.txt 1
-data.zdgt.txt 1
+data.zazn.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zclh.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117

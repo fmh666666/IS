@@ -1,8 +1,8 @@
 7
-data.zaop.txt 1
-data.zaxj.txt 1
-data.zcda.txt 2
-data.zcln.txt 3
-data.zedx.txt 2
-data.zefv.txt 2
-data.zewn.txt 6
+data.zaop.txt 3.0018356045764243
+data.zaxj.txt 3.0018356045764243
+data.zcda.txt 4.757796866583254
+data.zcln.txt 6.003671209152849
+data.zedx.txt 4.757796866583254
+data.zefv.txt 4.757796866583254
+data.zewn.txt 8.427217959715389

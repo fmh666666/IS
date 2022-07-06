@@ -1,12 +1,12 @@
 11
-data.ev.txt 2
-data.sq.txt 1
-data.xe.txt 1
-data.zagr.txt 1
-data.zaxx.txt 1
-data.zbru.txt 8
-data.zcem.txt 1
-data.zcqs.txt 1
-data.zcts.txt 3
-data.zdod.txt 2
-data.zeqh.txt 3
+data.ev.txt 4.261240455343955
+data.sq.txt 2.6885433903988862
+data.xe.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zaxx.txt 2.6885433903988862
+data.zbru.txt 8.52248091068791
+data.zcem.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zcts.txt 5.3770867807977725
+data.zdod.txt 4.261240455343955
+data.zeqh.txt 5.3770867807977725

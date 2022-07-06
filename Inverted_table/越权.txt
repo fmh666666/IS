@@ -1,4 +1,4 @@
 3
-data.zavg.txt 1
-data.zdyv.txt 1
-data.zeyy.txt 1
+data.zavg.txt 3.5891377275982888
+data.zdyv.txt 3.5891377275982888
+data.zeyy.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.gz.txt 1
-data.zbcj.txt 4
-data.zcxp.txt 1
-data.zczp.txt 1
-data.zdlw.txt 1
+data.gz.txt 3.235060386727117
+data.zbcj.txt 7.511577600598868
+data.zcxp.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zdlw.txt 3.235060386727117

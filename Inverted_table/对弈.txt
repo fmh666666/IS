@@ -1,11 +1,11 @@
 10
-data.hg.txt 1
-data.zajo.txt 1
-data.zaoc.txt 1
-data.zawu.txt 2
-data.zaxk.txt 1
-data.zbpm.txt 1
-data.zcni.txt 1
-data.zeoh.txt 1
-data.zfai.txt 1
-data.zfcj.txt 1
+data.hg.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zaoc.txt 2.7546073728089153
+data.zawu.txt 4.365949390112154
+data.zaxk.txt 2.7546073728089153
+data.zbpm.txt 2.7546073728089153
+data.zcni.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153
+data.zfcj.txt 2.7546073728089153

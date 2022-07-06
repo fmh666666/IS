@@ -1,14 +1,14 @@
 13
-data.ud.txt 1
-data.xk.txt 1
-data.zacw.txt 1
-data.zadv.txt 1
-data.zajh.txt 1
-data.zbcc.txt 1
-data.zbmw.txt 1
-data.zbsu.txt 1
-data.zddv.txt 1
-data.zdof.txt 1
-data.zdrq.txt 2
-data.zdwv.txt 1
-data.zfdk.txt 1
+data.ud.txt 2.5727503226135906
+data.xk.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zbcc.txt 2.5727503226135906
+data.zbmw.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zddv.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zdrq.txt 4.077712785060798
+data.zdwv.txt 2.5727503226135906
+data.zfdk.txt 2.5727503226135906

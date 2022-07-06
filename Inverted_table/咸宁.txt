@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.wc.txt 1
-data.zdof.txt 1
-data.zekw.txt 2
-data.zfai.txt 1
+data.ep.txt 3.235060386727117
+data.wc.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zekw.txt 5.1274494005309625
+data.zfai.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.zaim.txt 3
-data.zasj.txt 2
-data.zauy.txt 1
-data.zawz.txt 1
-data.zbcv.txt 1
-data.zbkf.txt 1
-data.zebv.txt 3
-data.zevy.txt 1
+data.zaim.txt 5.818557392524987
+data.zasj.txt 4.611097637722987
+data.zauy.txt 2.9092786962624935
+data.zawz.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zebv.txt 5.818557392524987
+data.zevy.txt 2.9092786962624935

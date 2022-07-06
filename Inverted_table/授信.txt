@@ -1,6 +1,6 @@
 5
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zdou.txt 1
-data.zeaf.txt 1
-data.zeqv.txt 1
+data.zcdy.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zdou.txt 3.235060386727117
+data.zeaf.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

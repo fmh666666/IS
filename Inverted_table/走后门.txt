@@ -1,9 +1,9 @@
 8
-data.zacw.txt 3
-data.zcby.txt 1
-data.zchw.txt 1
-data.zdkk.txt 1
-data.zdst.txt 1
-data.zdzn.txt 1
-data.zess.txt 1
-data.zfas.txt 1
+data.zacw.txt 5.818557392524987
+data.zcby.txt 2.9092786962624935
+data.zchw.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zdst.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zess.txt 2.9092786962624935
+data.zfas.txt 2.9092786962624935

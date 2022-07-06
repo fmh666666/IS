@@ -1,4 +1,4 @@
 3
-data.zcej.txt 5
-data.zdpg.txt 1
-data.zfcg.txt 1
+data.zcej.txt 9.27778643576512
+data.zdpg.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

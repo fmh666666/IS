@@ -1,12 +1,12 @@
 11
-data.kt.txt 1
-data.zalj.txt 1
-data.zbye.txt 1
-data.zcpa.txt 1
-data.zcue.txt 2
-data.zcuh.txt 1
-data.zehj.txt 1
-data.zerw.txt 1
-data.zesi.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.kt.txt 2.6885433903988862
+data.zalj.txt 2.6885433903988862
+data.zbye.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zcue.txt 4.261240455343955
+data.zcuh.txt 2.6885433903988862
+data.zehj.txt 2.6885433903988862
+data.zerw.txt 2.6885433903988862
+data.zesi.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

@@ -1,12 +1,12 @@
 11
-data.zbnp.txt 1
-data.zbsl.txt 1
-data.zccu.txt 1
-data.zctn.txt 1
-data.zdaq.txt 3
-data.zdar.txt 4
-data.zdnh.txt 2
-data.zduk.txt 1
-data.zdzn.txt 1
-data.zebf.txt 1
-data.zebn.txt 1
+data.zbnp.txt 2.6885433903988862
+data.zbsl.txt 2.6885433903988862
+data.zccu.txt 2.6885433903988862
+data.zctn.txt 2.6885433903988862
+data.zdaq.txt 5.3770867807977725
+data.zdar.txt 6.2426044324908965
+data.zdnh.txt 4.261240455343955
+data.zduk.txt 2.6885433903988862
+data.zdzn.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zebn.txt 2.6885433903988862

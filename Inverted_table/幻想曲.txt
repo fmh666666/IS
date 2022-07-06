@@ -1,5 +1,5 @@
 4
-data.bs.txt 3
-data.zake.txt 2
-data.zeaf.txt 1
-data.zeob.txt 1
+data.bs.txt 6.77946342036139
+data.zake.txt 5.372597648141796
+data.zeaf.txt 3.389731710180695
+data.zeob.txt 3.389731710180695

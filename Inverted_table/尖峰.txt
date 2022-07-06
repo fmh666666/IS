@@ -1,10 +1,10 @@
 9
-data.be.txt 1
-data.fz.txt 1
-data.zajo.txt 1
-data.zbcc.txt 1
-data.zbkv.txt 1
-data.zbqu.txt 1
-data.zclm.txt 1
-data.zcxq.txt 1
-data.zdof.txt 2
+data.be.txt 2.82763771717948
+data.fz.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zbqu.txt 2.82763771717948
+data.zclm.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zdof.txt 4.48169974735425

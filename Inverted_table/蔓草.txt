@@ -1,4 +1,4 @@
 3
-data.zcts.txt 3
-data.zdcw.txt 1
-data.zduc.txt 1
+data.zcts.txt 7.1782754551965775
+data.zdcw.txt 3.5891377275982888
+data.zduc.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zawo.txt 1
-data.zcdy.txt 1
-data.zdep.txt 3
-data.zelt.txt 1
+data.gw.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zdep.txt 6.470120773454234
+data.zelt.txt 3.235060386727117

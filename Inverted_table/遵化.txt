@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zaip.txt 1
-data.zdof.txt 1
-data.zdqz.txt 1
-data.zfae.txt 1
+data.zaim.txt 3.235060386727117
+data.zaip.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zdqz.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

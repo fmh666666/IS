@@ -1,7 +1,7 @@
 6
-data.mx.txt 1
-data.tz.txt 1
-data.zcel.txt 1
-data.zdar.txt 1
-data.zdkv.txt 1
-data.zdtr.txt 1
+data.mx.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zcel.txt 3.1086847136800873
+data.zdar.txt 3.1086847136800873
+data.zdkv.txt 3.1086847136800873
+data.zdtr.txt 3.1086847136800873

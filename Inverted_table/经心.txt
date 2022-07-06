@@ -1,3 +1,3 @@
 2
-data.cq.txt 2
-data.zcft.txt 1
+data.cq.txt 6.134097658560606
+data.zcft.txt 3.8701847240988965

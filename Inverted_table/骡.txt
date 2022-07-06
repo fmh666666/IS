@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.zajo.txt 1
-data.zarr.txt 1
-data.zavg.txt 1
-data.zaxp.txt 1
-data.zbcv.txt 2
-data.zbyv.txt 1
-data.zduo.txt 1
-data.zedk.txt 1
-data.zelt.txt 1
+data.hp.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zaxp.txt 2.7546073728089153
+data.zbcv.txt 4.365949390112154
+data.zbyv.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

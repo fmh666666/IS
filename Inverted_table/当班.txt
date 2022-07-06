@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.vi.txt 1
-data.zafu.txt 1
-data.zawb.txt 1
-data.zblq.txt 1
-data.zcdz.txt 1
-data.zcis.txt 1
-data.zelt.txt 3
-data.zeun.txt 1
-data.zexv.txt 1
-data.zfcg.txt 2
-data.zfcp.txt 1
+data.fp.txt 2.628231699761886
+data.vi.txt 2.628231699761886
+data.zafu.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zcis.txt 2.628231699761886
+data.zelt.txt 5.256463399523772
+data.zeun.txt 2.628231699761886
+data.zexv.txt 2.628231699761886
+data.zfcg.txt 4.165648687329214
+data.zfcp.txt 2.628231699761886

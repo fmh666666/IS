@@ -1,6 +1,6 @@
 5
-data.zarr.txt 1
-data.zasq.txt 1
-data.zblq.txt 1
-data.zckd.txt 1
-data.zdzm.txt 3
+data.zarr.txt 3.235060386727117
+data.zasq.txt 3.235060386727117
+data.zblq.txt 3.235060386727117
+data.zckd.txt 3.235060386727117
+data.zdzm.txt 6.470120773454234

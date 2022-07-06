@@ -1,10 +1,10 @@
 9
-data.mu.txt 1
-data.zank.txt 1
-data.zaoo.txt 1
-data.zapr.txt 1
-data.zbmt.txt 2
-data.zcjo.txt 1
-data.zddv.txt 2
-data.zefu.txt 1
-data.zeva.txt 1
+data.mu.txt 2.82763771717948
+data.zank.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zapr.txt 2.82763771717948
+data.zbmt.txt 4.48169974735425
+data.zcjo.txt 2.82763771717948
+data.zddv.txt 4.48169974735425
+data.zefu.txt 2.82763771717948
+data.zeva.txt 2.82763771717948

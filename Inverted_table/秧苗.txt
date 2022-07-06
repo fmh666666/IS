@@ -1,4 +1,4 @@
 3
-data.ng.txt 2
-data.zafi.txt 1
-data.zbor.txt 2
+data.ng.txt 5.688648708166832
+data.zafi.txt 3.5891377275982888
+data.zbor.txt 5.688648708166832

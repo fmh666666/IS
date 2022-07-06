@@ -1,2 +1,2 @@
 1
-data.ye.txt 14
+data.ye.txt 16.99746566355852

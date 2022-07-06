@@ -1,5 +1,5 @@
 4
-data.ka.txt 1
-data.zexm.txt 2
-data.zexv.txt 3
-data.zezy.txt 2
+data.ka.txt 3.389731710180695
+data.zexm.txt 5.372597648141796
+data.zexv.txt 6.77946342036139
+data.zezy.txt 5.372597648141796

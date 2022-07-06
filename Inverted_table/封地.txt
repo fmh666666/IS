@@ -1,6 +1,6 @@
 5
-data.hp.txt 2
-data.zbga.txt 1
-data.zblq.txt 2
-data.zdby.txt 1
-data.zdqx.txt 1
+data.hp.txt 5.1274494005309625
+data.zbga.txt 3.235060386727117
+data.zblq.txt 5.1274494005309625
+data.zdby.txt 3.235060386727117
+data.zdqx.txt 3.235060386727117

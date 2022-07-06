@@ -1,6 +1,6 @@
 5
-data.hp.txt 4
-data.zaxp.txt 1
-data.zcvq.txt 1
-data.zene.txt 1
-data.zeoo.txt 1
+data.hp.txt 7.511577600598868
+data.zaxp.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

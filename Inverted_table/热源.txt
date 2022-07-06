@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.tz.txt 1
-data.zcts.txt 2
+data.gz.txt 3.5891377275982888
+data.tz.txt 3.5891377275982888
+data.zcts.txt 5.688648708166832

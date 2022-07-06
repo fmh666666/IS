@@ -1,13 +1,13 @@
 12
-data.ud.txt 1
-data.vz.txt 5
-data.zafv.txt 1
-data.zane.txt 1
-data.zblq.txt 1
-data.zcdg.txt 1
-data.zcls.txt 3
-data.zcue.txt 1
-data.zdbf.txt 1
-data.zefd.txt 5
-data.zeoo.txt 1
-data.zeyg.txt 1
+data.ud.txt 2.628231699761886
+data.vz.txt 6.7938803870911
+data.zafv.txt 2.628231699761886
+data.zane.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcls.txt 5.256463399523772
+data.zcue.txt 2.628231699761886
+data.zdbf.txt 2.628231699761886
+data.zefd.txt 6.7938803870911
+data.zeoo.txt 2.628231699761886
+data.zeyg.txt 2.628231699761886

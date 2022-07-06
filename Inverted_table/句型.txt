@@ -1,12 +1,12 @@
 11
-data.mo.txt 6
-data.zbmt.txt 1
-data.zbrj.txt 1
-data.zbsd.txt 1
-data.zcll.txt 2
-data.zcls.txt 1
-data.zctn.txt 1
-data.zdwd.txt 2
-data.zehj.txt 1
-data.zeos.txt 1
-data.zety.txt 1
+data.mo.txt 7.547695520201752
+data.zbmt.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zbsd.txt 2.6885433903988862
+data.zcll.txt 4.261240455343955
+data.zcls.txt 2.6885433903988862
+data.zctn.txt 2.6885433903988862
+data.zdwd.txt 4.261240455343955
+data.zehj.txt 2.6885433903988862
+data.zeos.txt 2.6885433903988862
+data.zety.txt 2.6885433903988862

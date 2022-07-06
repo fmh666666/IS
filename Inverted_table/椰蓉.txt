@@ -1,12 +1,12 @@
 11
-data.hp.txt 1
-data.tv.txt 1
-data.zagb.txt 1
-data.zccu.txt 1
-data.zcem.txt 1
-data.zclm.txt 1
-data.zcrk.txt 1
-data.zdll.txt 1
-data.zdmw.txt 1
-data.zefs.txt 1
-data.zewg.txt 1
+data.hp.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.zagb.txt 2.6885433903988862
+data.zccu.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zclm.txt 2.6885433903988862
+data.zcrk.txt 2.6885433903988862
+data.zdll.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zewg.txt 2.6885433903988862

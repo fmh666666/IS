@@ -1,7 +1,7 @@
 6
-data.hp.txt 6
-data.ka.txt 1
-data.zafq.txt 1
-data.zarc.txt 1
-data.zcdy.txt 7
-data.zcdz.txt 2
+data.hp.txt 8.727181332075027
+data.ka.txt 3.1086847136800873
+data.zafq.txt 3.1086847136800873
+data.zarc.txt 3.1086847136800873
+data.zcdy.txt 9.326054141040261
+data.zcdz.txt 4.927148697748023

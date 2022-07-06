@@ -1,12 +1,12 @@
 11
-data.pa.txt 1
-data.zako.txt 1
-data.zavx.txt 2
-data.zbfd.txt 1
-data.zbvp.txt 1
-data.zcda.txt 1
-data.zcej.txt 2
-data.zcel.txt 1
-data.zciy.txt 1
-data.zcsu.txt 1
-data.zehp.txt 1
+data.pa.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zavx.txt 4.261240455343955
+data.zbfd.txt 2.6885433903988862
+data.zbvp.txt 2.6885433903988862
+data.zcda.txt 2.6885433903988862
+data.zcej.txt 4.261240455343955
+data.zcel.txt 2.6885433903988862
+data.zciy.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862

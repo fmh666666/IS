@@ -1,4 +1,4 @@
 3
-data.zaqw.txt 1
-data.zdkk.txt 2
-data.zedy.txt 1
+data.zaqw.txt 3.5891377275982888
+data.zdkk.txt 5.688648708166832
+data.zedy.txt 3.5891377275982888

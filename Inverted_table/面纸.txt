@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.zanh.txt 2
-data.zaxx.txt 3
-data.zbaf.txt 3
-data.zbnx.txt 1
-data.zbsl.txt 1
-data.zczp.txt 1
-data.zdwk.txt 1
-data.zfdk.txt 4
+data.cf.txt 2.82763771717948
+data.zanh.txt 4.48169974735425
+data.zaxx.txt 5.65527543435896
+data.zbaf.txt 5.65527543435896
+data.zbnx.txt 2.82763771717948
+data.zbsl.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zdwk.txt 2.82763771717948
+data.zfdk.txt 6.565571457682201

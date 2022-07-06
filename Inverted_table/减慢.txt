@@ -1,13 +1,13 @@
 12
-data.hz.txt 2
-data.zaoo.txt 1
-data.zawb.txt 1
-data.zbjh.txt 1
-data.zbsl.txt 1
-data.zbzf.txt 1
-data.zcjd.txt 1
-data.zdaw.txt 1
-data.zdey.txt 1
-data.zdzn.txt 1
-data.zeeq.txt 1
-data.zfcp.txt 1
+data.hz.txt 4.165648687329214
+data.zaoo.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbjh.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcjd.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zdey.txt 2.628231699761886
+data.zdzn.txt 2.628231699761886
+data.zeeq.txt 2.628231699761886
+data.zfcp.txt 2.628231699761886

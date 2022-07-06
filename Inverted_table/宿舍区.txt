@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zdud.txt 1
-data.zdzn.txt 1
-data.zegz.txt 1
-data.zesq.txt 2
+data.zaim.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117
+data.zegz.txt 3.235060386727117
+data.zesq.txt 5.1274494005309625

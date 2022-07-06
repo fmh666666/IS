@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.ok.txt 1
-data.zall.txt 1
-data.zcve.txt 1
-data.zefv.txt 1
+data.ft.txt 3.235060386727117
+data.ok.txt 3.235060386727117
+data.zall.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zefv.txt 3.235060386727117

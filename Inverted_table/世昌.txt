@@ -1,9 +1,9 @@
 8
-data.zalc.txt 3
-data.zaqr.txt 1
-data.zawz.txt 2
-data.zbfp.txt 1
-data.zcis.txt 1
-data.zene.txt 2
-data.zeoh.txt 1
-data.zfcg.txt 1
+data.zalc.txt 5.818557392524987
+data.zaqr.txt 2.9092786962624935
+data.zawz.txt 4.611097637722987
+data.zbfp.txt 2.9092786962624935
+data.zcis.txt 2.9092786962624935
+data.zene.txt 4.611097637722987
+data.zeoh.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

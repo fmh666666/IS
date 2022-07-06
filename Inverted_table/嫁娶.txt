@@ -1,11 +1,11 @@
 10
-data.ng.txt 1
-data.zane.txt 1
-data.zaxj.txt 1
-data.zazg.txt 1
-data.zbfr.txt 1
-data.zbux.txt 1
-data.zcej.txt 1
-data.zcve.txt 2
-data.zcxp.txt 1
-data.zemb.txt 2
+data.ng.txt 2.7546073728089153
+data.zane.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zbfr.txt 2.7546073728089153
+data.zbux.txt 2.7546073728089153
+data.zcej.txt 2.7546073728089153
+data.zcve.txt 4.365949390112154
+data.zcxp.txt 2.7546073728089153
+data.zemb.txt 4.365949390112154

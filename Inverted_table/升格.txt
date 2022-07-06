@@ -1,6 +1,6 @@
 5
-data.zate.txt 1
-data.zbeb.txt 1
-data.zbzg.txt 1
-data.zddb.txt 1
-data.zeid.txt 1
+data.zate.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zbzg.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

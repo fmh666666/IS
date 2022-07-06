@@ -1,14 +1,14 @@
 13
-data.jj.txt 1
-data.mk.txt 1
-data.zako.txt 1
-data.zasr.txt 1
-data.zbvm.txt 2
-data.zcdg.txt 1
-data.zcsu.txt 1
-data.zctp.txt 1
-data.zeai.txt 2
-data.zegk.txt 1
-data.zegl.txt 1
-data.zeoh.txt 1
-data.zfbr.txt 1
+data.jj.txt 2.5727503226135906
+data.mk.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zasr.txt 2.5727503226135906
+data.zbvm.txt 4.077712785060798
+data.zcdg.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zeai.txt 4.077712785060798
+data.zegk.txt 2.5727503226135906
+data.zegl.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zfbr.txt 2.5727503226135906

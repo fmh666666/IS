@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.mu.txt 1
-data.zaxk.txt 2
-data.zcmx.txt 1
-data.zduo.txt 1
-data.zeoh.txt 1
-data.zfaz.txt 1
-data.zfcp.txt 1
+data.cf.txt 2.9092786962624935
+data.mu.txt 2.9092786962624935
+data.zaxk.txt 4.611097637722987
+data.zcmx.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935
+data.zfcp.txt 2.9092786962624935

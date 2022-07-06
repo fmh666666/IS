@@ -1,8 +1,8 @@
 7
-data.zajr.txt 2
-data.zbha.txt 1
-data.zbot.txt 1
-data.zcej.txt 2
-data.zdju.txt 1
-data.zenn.txt 1
-data.zfai.txt 1
+data.zajr.txt 4.757796866583254
+data.zbha.txt 3.0018356045764243
+data.zbot.txt 3.0018356045764243
+data.zcej.txt 4.757796866583254
+data.zdju.txt 3.0018356045764243
+data.zenn.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

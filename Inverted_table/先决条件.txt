@@ -1,11 +1,11 @@
 10
-data.bs.txt 2
-data.gw.txt 1
-data.mt.txt 1
-data.tz.txt 1
-data.zaxk.txt 1
-data.zbjh.txt 2
-data.zbwq.txt 1
-data.zczl.txt 1
-data.zdju.txt 1
-data.zdnh.txt 3
+data.bs.txt 4.365949390112154
+data.gw.txt 2.7546073728089153
+data.mt.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zaxk.txt 2.7546073728089153
+data.zbjh.txt 4.365949390112154
+data.zbwq.txt 2.7546073728089153
+data.zczl.txt 2.7546073728089153
+data.zdju.txt 2.7546073728089153
+data.zdnh.txt 5.509214745617831

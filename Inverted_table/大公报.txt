@@ -1,7 +1,7 @@
 6
-data.pn.txt 1
-data.zaim.txt 2
-data.zcjy.txt 2
-data.zedo.txt 1
-data.zerh.txt 2
-data.zfdk.txt 2
+data.pn.txt 3.1086847136800873
+data.zaim.txt 4.927148697748023
+data.zcjy.txt 4.927148697748023
+data.zedo.txt 3.1086847136800873
+data.zerh.txt 4.927148697748023
+data.zfdk.txt 4.927148697748023

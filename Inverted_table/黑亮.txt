@@ -1,4 +1,4 @@
 3
-data.zajh.txt 1
-data.zcku.txt 2
-data.zdnh.txt 1
+data.zajh.txt 3.5891377275982888
+data.zcku.txt 5.688648708166832
+data.zdnh.txt 3.5891377275982888

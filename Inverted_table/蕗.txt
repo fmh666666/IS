@@ -1,7 +1,7 @@
 6
-data.qn.txt 6
-data.zbes.txt 27
-data.zbpp.txt 1
-data.zcvt.txt 1
-data.zejk.txt 10
-data.zejn.txt 10
+data.qn.txt 8.727181332075027
+data.zbes.txt 14.9445507594352
+data.zbpp.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zejk.txt 10.754282190879328
+data.zejn.txt 10.754282190879328

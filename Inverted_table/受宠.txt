@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.hg.txt 1
-data.zaoc.txt 1
-data.zasy.txt 1
-data.zbes.txt 1
-data.zbhd.txt 1
-data.zchd.txt 1
-data.zcve.txt 1
-data.zdeb.txt 1
-data.zdle.txt 1
-data.zdmw.txt 1
-data.zekw.txt 1
+data.bf.txt 2.628231699761886
+data.hg.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zbes.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zchd.txt 2.628231699761886
+data.zcve.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdle.txt 2.628231699761886
+data.zdmw.txt 2.628231699761886
+data.zekw.txt 2.628231699761886

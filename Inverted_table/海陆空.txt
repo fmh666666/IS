@@ -1,13 +1,13 @@
 12
-data.op.txt 1
-data.pa.txt 1
-data.vz.txt 2
-data.zaip.txt 1
-data.zbht.txt 1
-data.zcao.txt 2
-data.zcft.txt 1
-data.zcjd.txt 1
-data.zefu.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
-data.zexu.txt 1
+data.op.txt 2.628231699761886
+data.pa.txt 2.628231699761886
+data.vz.txt 4.165648687329214
+data.zaip.txt 2.628231699761886
+data.zbht.txt 2.628231699761886
+data.zcao.txt 4.165648687329214
+data.zcft.txt 2.628231699761886
+data.zcjd.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zexu.txt 2.628231699761886

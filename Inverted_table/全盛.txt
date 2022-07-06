@@ -1,7 +1,7 @@
 6
-data.uz.txt 1
-data.zavg.txt 1
-data.zbwq.txt 1
-data.zcln.txt 1
-data.zduo.txt 1
-data.zfas.txt 2
+data.uz.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zbwq.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873
+data.zfas.txt 4.927148697748023

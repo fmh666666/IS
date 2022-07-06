@@ -1,10 +1,10 @@
 9
-data.mx.txt 1
-data.zajo.txt 1
-data.zbel.txt 1
-data.zbls.txt 1
-data.zbxy.txt 1
-data.zcjo.txt 1
-data.zdtr.txt 1
-data.zedo.txt 2
-data.zeeh.txt 1
+data.mx.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zbel.txt 2.82763771717948
+data.zbls.txt 2.82763771717948
+data.zbxy.txt 2.82763771717948
+data.zcjo.txt 2.82763771717948
+data.zdtr.txt 2.82763771717948
+data.zedo.txt 4.48169974735425
+data.zeeh.txt 2.82763771717948

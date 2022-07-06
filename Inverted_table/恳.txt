@@ -1,7 +1,7 @@
 6
-data.ry.txt 1
-data.zcvt.txt 1
-data.zdds.txt 2
-data.zdgt.txt 1
-data.zdud.txt 1
-data.zeyy.txt 1
+data.ry.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zdds.txt 4.927148697748023
+data.zdgt.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873

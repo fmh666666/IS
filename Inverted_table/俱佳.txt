@@ -1,11 +1,11 @@
 10
-data.fp.txt 1
-data.mx.txt 1
-data.ng.txt 1
-data.zblq.txt 1
-data.zddb.txt 1
-data.zdfl.txt 1
-data.zeez.txt 1
-data.zeqn.txt 1
-data.zevq.txt 1
-data.zfbr.txt 1
+data.fp.txt 2.7546073728089153
+data.mx.txt 2.7546073728089153
+data.ng.txt 2.7546073728089153
+data.zblq.txt 2.7546073728089153
+data.zddb.txt 2.7546073728089153
+data.zdfl.txt 2.7546073728089153
+data.zeez.txt 2.7546073728089153
+data.zeqn.txt 2.7546073728089153
+data.zevq.txt 2.7546073728089153
+data.zfbr.txt 2.7546073728089153

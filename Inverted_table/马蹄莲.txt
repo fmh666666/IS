@@ -1,14 +1,14 @@
 13
-data.fj.txt 1
-data.hu.txt 1
-data.kt.txt 2
-data.vi.txt 3
-data.zabx.txt 1
-data.zauy.txt 1
-data.zayc.txt 1
-data.zazw.txt 1
-data.zbpx.txt 1
-data.zckd.txt 1
-data.zcmv.txt 1
-data.zcoy.txt 1
-data.zdsh.txt 1
+data.fj.txt 2.5727503226135906
+data.hu.txt 2.5727503226135906
+data.kt.txt 4.077712785060798
+data.vi.txt 5.145500645227181
+data.zabx.txt 2.5727503226135906
+data.zauy.txt 2.5727503226135906
+data.zayc.txt 2.5727503226135906
+data.zazw.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zckd.txt 2.5727503226135906
+data.zcmv.txt 2.5727503226135906
+data.zcoy.txt 2.5727503226135906
+data.zdsh.txt 2.5727503226135906

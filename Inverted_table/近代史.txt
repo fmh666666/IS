@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.hp.txt 1
-data.mu.txt 1
-data.op.txt 4
-data.zabe.txt 1
-data.zbeb.txt 1
-data.zbia.txt 1
-data.zbut.txt 1
-data.zcef.txt 2
-data.zdkc.txt 1
-data.zdlw.txt 1
+data.ga.txt 2.6885433903988862
+data.hp.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.op.txt 6.2426044324908965
+data.zabe.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbia.txt 2.6885433903988862
+data.zbut.txt 2.6885433903988862
+data.zcef.txt 4.261240455343955
+data.zdkc.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862

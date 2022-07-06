@@ -1,9 +1,9 @@
 8
-data.zank.txt 1
-data.zawm.txt 1
-data.zbuj.txt 1
-data.zcku.txt 1
-data.zcon.txt 9
-data.zebc.txt 1
-data.zene.txt 4
-data.zeoh.txt 3
+data.zank.txt 2.9092786962624935
+data.zawm.txt 2.9092786962624935
+data.zbuj.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zcon.txt 9.664414636971655
+data.zebc.txt 2.9092786962624935
+data.zene.txt 6.7551359407091605
+data.zeoh.txt 5.818557392524987

@@ -1,9 +1,9 @@
 8
-data.ka.txt 2
-data.pq.txt 1
-data.to.txt 1
-data.zajo.txt 1
-data.zaxj.txt 1
-data.zehp.txt 1
-data.zfae.txt 1
-data.zfaj.txt 1
+data.ka.txt 4.611097637722987
+data.pq.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zcve.txt 1
-data.zebv.txt 1
-data.zexm.txt 1
-data.zezn.txt 1
+data.to.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zebv.txt 3.235060386727117
+data.zexm.txt 3.235060386727117
+data.zezn.txt 3.235060386727117

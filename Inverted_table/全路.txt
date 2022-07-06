@@ -1,10 +1,10 @@
 9
-data.zaim.txt 2
-data.zapl.txt 1
-data.zcmx.txt 1
-data.zcni.txt 1
-data.zcuh.txt 1
-data.zduc.txt 1
-data.zdzi.txt 1
-data.zedo.txt 2
-data.zegn.txt 2
+data.zaim.txt 4.48169974735425
+data.zapl.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zcuh.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zdzi.txt 2.82763771717948
+data.zedo.txt 4.48169974735425
+data.zegn.txt 4.48169974735425

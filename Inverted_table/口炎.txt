@@ -1,6 +1,6 @@
 5
-data.zaqf.txt 1
-data.zbhv.txt 2
-data.zcls.txt 1
-data.zevl.txt 1
-data.zewv.txt 1
+data.zaqf.txt 3.235060386727117
+data.zbhv.txt 5.1274494005309625
+data.zcls.txt 3.235060386727117
+data.zevl.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

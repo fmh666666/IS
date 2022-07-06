@@ -1,5 +1,5 @@
 4
-data.zaet.txt 1
-data.zdnh.txt 1
-data.zduc.txt 1
-data.zeyg.txt 1
+data.zaet.txt 3.389731710180695
+data.zdnh.txt 3.389731710180695
+data.zduc.txt 3.389731710180695
+data.zeyg.txt 3.389731710180695

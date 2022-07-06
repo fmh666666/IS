@@ -1,6 +1,6 @@
 5
-data.zbkj.txt 1
-data.zbzg.txt 2
-data.zdcw.txt 1
-data.zedk.txt 1
-data.zezy.txt 1
+data.zbkj.txt 3.235060386727117
+data.zbzg.txt 5.1274494005309625
+data.zdcw.txt 3.235060386727117
+data.zedk.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

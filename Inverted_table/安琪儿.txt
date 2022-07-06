@@ -1,4 +1,4 @@
 3
-data.tj.txt 4
-data.zawo.txt 1
-data.zdcy.txt 1
+data.tj.txt 8.333719726130651
+data.zawo.txt 3.5891377275982888
+data.zdcy.txt 3.5891377275982888

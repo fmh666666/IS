@@ -1,9 +1,9 @@
 8
-data.zadv.txt 1
-data.zalm.txt 1
-data.zawo.txt 2
-data.zazo.txt 1
-data.zblq.txt 1
-data.zcmx.txt 1
-data.zcpb.txt 1
-data.zcpx.txt 1
+data.zadv.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zawo.txt 4.611097637722987
+data.zazo.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcpb.txt 2.9092786962624935
+data.zcpx.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.ok.txt 1
-data.zalm.txt 1
-data.zdpf.txt 1
-data.zess.txt 1
+data.ok.txt 3.389731710180695
+data.zalm.txt 3.389731710180695
+data.zdpf.txt 3.389731710180695
+data.zess.txt 3.389731710180695

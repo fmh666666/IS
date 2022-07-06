@@ -1,11 +1,11 @@
 10
-data.jj.txt 2
-data.mx.txt 1
-data.vm.txt 1
-data.zanh.txt 1
-data.zbcv.txt 1
-data.zcef.txt 1
-data.zchw.txt 7
-data.zdey.txt 1
-data.zdoc.txt 2
-data.zedo.txt 2
+data.jj.txt 4.365949390112154
+data.mx.txt 2.7546073728089153
+data.vm.txt 2.7546073728089153
+data.zanh.txt 2.7546073728089153
+data.zbcv.txt 2.7546073728089153
+data.zcef.txt 2.7546073728089153
+data.zchw.txt 8.263822118426747
+data.zdey.txt 2.7546073728089153
+data.zdoc.txt 4.365949390112154
+data.zedo.txt 4.365949390112154

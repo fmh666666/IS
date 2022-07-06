@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.pq.txt 1
-data.zaic.txt 1
-data.zazx.txt 1
-data.zbzf.txt 1
-data.zcao.txt 1
-data.zcll.txt 1
-data.zdof.txt 1
-data.zebc.txt 1
+data.aj.txt 2.82763771717948
+data.pq.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zazx.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zcao.txt 2.82763771717948
+data.zcll.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zebc.txt 2.82763771717948

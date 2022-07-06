@@ -1,2 +1,2 @@
 1
-data.zcln.txt 1
+data.zcln.txt 4.350637738017098

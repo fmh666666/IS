@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.zasr.txt 1
-data.zbyb.txt 1
-data.zciq.txt 1
-data.zeta.txt 1
+data.mo.txt 3.235060386727117
+data.zasr.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zeta.txt 3.235060386727117

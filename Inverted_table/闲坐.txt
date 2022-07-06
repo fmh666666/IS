@@ -1,12 +1,12 @@
 11
-data.gk.txt 1
-data.zahd.txt 1
-data.zblr.txt 1
-data.zbpx.txt 1
-data.zbvm.txt 1
-data.zchw.txt 1
-data.zcrn.txt 1
-data.zdga.txt 1
-data.zdpw.txt 1
-data.zefs.txt 1
-data.zene.txt 1
+data.gk.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zchw.txt 2.6885433903988862
+data.zcrn.txt 2.6885433903988862
+data.zdga.txt 2.6885433903988862
+data.zdpw.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862

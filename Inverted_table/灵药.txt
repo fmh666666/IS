@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.bf.txt 1
-data.xe.txt 1
-data.zako.txt 1
-data.zazx.txt 1
-data.zbyv.txt 1
-data.zbzf.txt 1
-data.zebc.txt 2
-data.zeob.txt 1
-data.zfaw.txt 1
+data.bb.txt 2.7546073728089153
+data.bf.txt 2.7546073728089153
+data.xe.txt 2.7546073728089153
+data.zako.txt 2.7546073728089153
+data.zazx.txt 2.7546073728089153
+data.zbyv.txt 2.7546073728089153
+data.zbzf.txt 2.7546073728089153
+data.zebc.txt 4.365949390112154
+data.zeob.txt 2.7546073728089153
+data.zfaw.txt 2.7546073728089153

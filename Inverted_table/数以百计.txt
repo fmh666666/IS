@@ -1,6 +1,6 @@
 5
-data.fz.txt 1
-data.gw.txt 1
-data.zasw.txt 1
-data.zbhd.txt 1
-data.zene.txt 1
+data.fz.txt 3.235060386727117
+data.gw.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zene.txt 3.235060386727117

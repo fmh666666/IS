@@ -1,5 +1,5 @@
 4
-data.zavx.txt 1
-data.zdle.txt 1
-data.zdoc.txt 1
-data.zdux.txt 5
+data.zavx.txt 3.389731710180695
+data.zdle.txt 3.389731710180695
+data.zdoc.txt 3.389731710180695
+data.zdux.txt 8.762329358322491

@@ -1,6 +1,6 @@
 5
-data.zdlm.txt 1
-data.zdou.txt 2
-data.zekw.txt 1
-data.zelt.txt 1
-data.zexv.txt 1
+data.zdlm.txt 3.235060386727117
+data.zdou.txt 5.1274494005309625
+data.zekw.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

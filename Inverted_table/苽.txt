@@ -1,4 +1,4 @@
 3
-data.zbgd.txt 1
-data.zbmw.txt 2
-data.zbye.txt 1
+data.zbgd.txt 3.5891377275982888
+data.zbmw.txt 5.688648708166832
+data.zbye.txt 3.5891377275982888

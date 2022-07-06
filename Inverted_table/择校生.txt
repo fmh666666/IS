@@ -1,4 +1,4 @@
 3
-data.zcpa.txt 2
-data.zeun.txt 2
-data.zewn.txt 3
+data.zcpa.txt 5.688648708166832
+data.zeun.txt 5.688648708166832
+data.zewn.txt 7.1782754551965775

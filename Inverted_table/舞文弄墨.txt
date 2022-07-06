@@ -1,6 +1,6 @@
 5
-data.zaet.txt 1
-data.zafe.txt 1
-data.zcve.txt 1
-data.zczp.txt 1
-data.zdxw.txt 1
+data.zaet.txt 3.235060386727117
+data.zafe.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117

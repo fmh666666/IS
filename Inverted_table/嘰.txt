@@ -1,5 +1,5 @@
 4
-data.tv.txt 8
-data.zajr.txt 2
-data.zbkj.txt 4
-data.zcdv.txt 2
+data.tv.txt 10.745195296283592
+data.zajr.txt 5.372597648141796
+data.zbkj.txt 7.870713291999142
+data.zcdv.txt 5.372597648141796

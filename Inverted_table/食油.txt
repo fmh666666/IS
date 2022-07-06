@@ -1,10 +1,10 @@
 9
-data.zbcc.txt 1
-data.zcfx.txt 1
-data.zcxh.txt 1
-data.zcxq.txt 1
-data.zduc.txt 1
-data.zduk.txt 1
-data.zeel.txt 1
-data.zefw.txt 1
-data.zevy.txt 1
+data.zbcc.txt 2.82763771717948
+data.zcfx.txt 2.82763771717948
+data.zcxh.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zeel.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zevy.txt 2.82763771717948

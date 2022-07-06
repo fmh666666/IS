@@ -1,10 +1,10 @@
 9
-data.dg.txt 1
-data.gk.txt 1
-data.zavx.txt 1
-data.zawm.txt 1
-data.zayv.txt 2
-data.zbhd.txt 1
-data.zbhv.txt 1
-data.zblq.txt 1
-data.zdeb.txt 4
+data.dg.txt 2.82763771717948
+data.gk.txt 2.82763771717948
+data.zavx.txt 2.82763771717948
+data.zawm.txt 2.82763771717948
+data.zayv.txt 4.48169974735425
+data.zbhd.txt 2.82763771717948
+data.zbhv.txt 2.82763771717948
+data.zblq.txt 2.82763771717948
+data.zdeb.txt 6.565571457682201

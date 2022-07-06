@@ -1,8 +1,8 @@
 7
-data.jd.txt 1
-data.zchw.txt 1
-data.zciq.txt 1
-data.zcxp.txt 1
-data.zdgv.txt 1
-data.zdju.txt 1
-data.zehj.txt 1
+data.jd.txt 3.0018356045764243
+data.zchw.txt 3.0018356045764243
+data.zciq.txt 3.0018356045764243
+data.zcxp.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdju.txt 3.0018356045764243
+data.zehj.txt 3.0018356045764243

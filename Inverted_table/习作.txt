@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.qn.txt 1
-data.zbel.txt 1
-data.zdzg.txt 2
-data.zfaj.txt 1
+data.mo.txt 3.235060386727117
+data.qn.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zdzg.txt 5.1274494005309625
+data.zfaj.txt 3.235060386727117

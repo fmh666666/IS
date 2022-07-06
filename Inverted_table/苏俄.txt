@@ -1,4 +1,4 @@
 3
-data.zbdx.txt 2
-data.zdby.txt 1
-data.zdgo.txt 1
+data.zbdx.txt 5.688648708166832
+data.zdby.txt 3.5891377275982888
+data.zdgo.txt 3.5891377275982888

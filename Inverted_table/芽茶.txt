@@ -1,10 +1,10 @@
 9
-data.ee.txt 1
-data.zbzf.txt 1
-data.zcdl.txt 1
-data.zczp.txt 1
-data.zdlw.txt 1
-data.zdyv.txt 1
-data.zegz.txt 1
-data.zekw.txt 1
-data.zfas.txt 1
+data.ee.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zcdl.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zdlw.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zegz.txt 2.82763771717948
+data.zekw.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

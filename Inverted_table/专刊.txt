@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.zbzf.txt 1
-data.zclm.txt 1
-data.zctm.txt 1
-data.zeoo.txt 1
+data.ek.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zclm.txt 3.235060386727117
+data.zctm.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

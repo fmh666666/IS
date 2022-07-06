@@ -1,13 +1,13 @@
 12
-data.co.txt 2
-data.kq.txt 1
-data.mk.txt 1
-data.zaim.txt 1
-data.zawo.txt 1
-data.zcdg.txt 1
-data.zcfn.txt 1
-data.zcmx.txt 1
-data.zddb.txt 1
-data.zddx.txt 1
-data.zdgp.txt 1
-data.zeel.txt 1
+data.co.txt 4.165648687329214
+data.kq.txt 2.628231699761886
+data.mk.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zawo.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zeel.txt 2.628231699761886

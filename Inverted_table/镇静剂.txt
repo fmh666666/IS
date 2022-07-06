@@ -1,4 +1,4 @@
 3
-data.zabx.txt 2
-data.zajo.txt 1
-data.zesi.txt 1
+data.zabx.txt 5.688648708166832
+data.zajo.txt 3.5891377275982888
+data.zesi.txt 3.5891377275982888

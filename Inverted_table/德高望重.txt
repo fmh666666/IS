@@ -1,11 +1,11 @@
 10
-data.jf.txt 3
-data.kq.txt 1
-data.zaim.txt 1
-data.zarr.txt 1
-data.zawb.txt 1
-data.zbeb.txt 1
-data.zbpm.txt 1
-data.zdep.txt 1
-data.zedo.txt 1
-data.zeeh.txt 1
+data.jf.txt 5.509214745617831
+data.kq.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zarr.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbpm.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zeeh.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zagb.txt 1
-data.zchw.txt 1
+data.tz.txt 3.5891377275982888
+data.zagb.txt 3.5891377275982888
+data.zchw.txt 3.5891377275982888

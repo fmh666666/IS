@@ -1,4 +1,4 @@
 3
-data.zcni.txt 1
-data.zczp.txt 5
-data.zduc.txt 1
+data.zcni.txt 3.5891377275982888
+data.zczp.txt 9.27778643576512
+data.zduc.txt 3.5891377275982888

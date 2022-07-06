@@ -1,7 +1,7 @@
 6
-data.zbpc.txt 1
-data.zcql.txt 1
-data.zcsu.txt 1
-data.zdep.txt 1
-data.zdgt.txt 2
-data.zefp.txt 1
+data.zbpc.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zcsu.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873
+data.zdgt.txt 4.927148697748023
+data.zefp.txt 3.1086847136800873

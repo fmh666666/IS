@@ -1,4 +1,4 @@
 3
-data.zeeq.txt 1
-data.zenn.txt 1
-data.zfcg.txt 1
+data.zeeq.txt 3.5891377275982888
+data.zenn.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zaoc.txt 2
-data.zbdx.txt 6
-data.zbeb.txt 2
-data.zblr.txt 2
-data.zcko.txt 2
+data.zaoc.txt 5.1274494005309625
+data.zbdx.txt 9.081962699831948
+data.zbeb.txt 5.1274494005309625
+data.zblr.txt 5.1274494005309625
+data.zcko.txt 5.1274494005309625

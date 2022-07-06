@@ -1,9 +1,9 @@
 8
-data.jf.txt 3
-data.zabe.txt 1
-data.zail.txt 1
-data.zaub.txt 1
-data.zawb.txt 1
-data.zbpx.txt 1
-data.zdgp.txt 1
-data.zdud.txt 1
+data.jf.txt 5.818557392524987
+data.zabe.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zaub.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935

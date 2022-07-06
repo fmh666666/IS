@@ -1,10 +1,10 @@
 9
-data.zafl.txt 1
-data.zazo.txt 1
-data.zbjk.txt 1
-data.zbsm.txt 1
-data.zbye.txt 1
-data.zctn.txt 1
-data.zdlw.txt 1
-data.zdoc.txt 1
-data.zenw.txt 1
+data.zafl.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zbsm.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zdlw.txt 2.82763771717948
+data.zdoc.txt 2.82763771717948
+data.zenw.txt 2.82763771717948

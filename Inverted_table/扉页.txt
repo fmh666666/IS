@@ -1,14 +1,14 @@
 13
-data.jf.txt 1
-data.tv.txt 1
-data.vi.txt 1
-data.zall.txt 1
-data.zbkv.txt 1
-data.zbor.txt 1
-data.zbqu.txt 1
-data.zbvn.txt 1
-data.zciy.txt 2
-data.zcmx.txt 1
-data.zcrg.txt 1
-data.zeqh.txt 1
-data.zevq.txt 1
+data.jf.txt 2.5727503226135906
+data.tv.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zbqu.txt 2.5727503226135906
+data.zbvn.txt 2.5727503226135906
+data.zciy.txt 4.077712785060798
+data.zcmx.txt 2.5727503226135906
+data.zcrg.txt 2.5727503226135906
+data.zeqh.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906

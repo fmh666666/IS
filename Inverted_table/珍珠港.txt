@@ -1,12 +1,12 @@
 11
-data.ew.txt 1
-data.zbcc.txt 1
-data.zblq.txt 2
-data.zbnp.txt 1
-data.zbvf.txt 1
-data.zddp.txt 1
-data.zdgt.txt 1
-data.zdod.txt 1
-data.zduo.txt 2
-data.zeoh.txt 1
-data.zeyy.txt 3
+data.ew.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zblq.txt 4.261240455343955
+data.zbnp.txt 2.6885433903988862
+data.zbvf.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zduo.txt 4.261240455343955
+data.zeoh.txt 2.6885433903988862
+data.zeyy.txt 5.3770867807977725

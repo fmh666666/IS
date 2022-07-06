@@ -1,9 +1,9 @@
 8
-data.tv.txt 1
-data.zabe.txt 1
-data.zavg.txt 3
-data.zawc.txt 1
-data.zblr.txt 1
-data.zebv.txt 2
-data.zess.txt 1
-data.zfaj.txt 1
+data.tv.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zavg.txt 5.818557392524987
+data.zawc.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zebv.txt 4.611097637722987
+data.zess.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

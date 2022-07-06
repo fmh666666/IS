@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.hu.txt 1
-data.zapr.txt 1
-data.zbha.txt 1
-data.zblh.txt 1
-data.zbrj.txt 1
-data.zcdg.txt 1
-data.zdeb.txt 1
-data.zefw.txt 1
+data.bf.txt 2.82763771717948
+data.hu.txt 2.82763771717948
+data.zapr.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zblh.txt 2.82763771717948
+data.zbrj.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zefw.txt 2.82763771717948

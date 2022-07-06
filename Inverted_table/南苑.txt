@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.vi.txt 1
-data.zaub.txt 1
-data.zbzo.txt 2
-data.zcda.txt 1
-data.zcqp.txt 1
-data.zcue.txt 1
-data.zcuh.txt 1
-data.zcxr.txt 1
-data.zeaj.txt 2
-data.zeqv.txt 1
-data.zety.txt 1
-data.zeva.txt 1
+data.bs.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.zaub.txt 2.5727503226135906
+data.zbzo.txt 4.077712785060798
+data.zcda.txt 2.5727503226135906
+data.zcqp.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zcuh.txt 2.5727503226135906
+data.zcxr.txt 2.5727503226135906
+data.zeaj.txt 4.077712785060798
+data.zeqv.txt 2.5727503226135906
+data.zety.txt 2.5727503226135906
+data.zeva.txt 2.5727503226135906

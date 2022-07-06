@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.zail.txt 1
-data.zaub.txt 1
-data.zeaj.txt 1
+data.mi.txt 3.389731710180695
+data.zail.txt 3.389731710180695
+data.zaub.txt 3.389731710180695
+data.zeaj.txt 3.389731710180695

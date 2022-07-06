@@ -1,6 +1,6 @@
 5
-data.zaoy.txt 1
-data.zaqp.txt 1
-data.zcxq.txt 1
-data.zdoc.txt 6
-data.zfbr.txt 1
+data.zaoy.txt 3.235060386727117
+data.zaqp.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117
+data.zdoc.txt 9.081962699831948
+data.zfbr.txt 3.235060386727117

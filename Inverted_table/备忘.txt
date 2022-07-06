@@ -1,7 +1,7 @@
 6
-data.cz.txt 2
-data.zawz.txt 1
-data.zbor.txt 1
-data.zddv.txt 1
-data.zdud.txt 1
-data.zefs.txt 1
+data.cz.txt 4.927148697748023
+data.zawz.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zddv.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zefs.txt 3.1086847136800873

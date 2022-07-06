@@ -1,5 +1,5 @@
 4
-data.zbfz.txt 1
-data.zccu.txt 1
-data.zcni.txt 1
-data.zcts.txt 1
+data.zbfz.txt 3.389731710180695
+data.zccu.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zcts.txt 3.389731710180695

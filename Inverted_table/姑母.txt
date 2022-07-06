@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.ng.txt 1
-data.zbla.txt 1
-data.zctp.txt 1
-data.zduo.txt 1
+data.jf.txt 3.235060386727117
+data.ng.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zduo.txt 3.235060386727117

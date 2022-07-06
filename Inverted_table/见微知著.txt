@@ -1,3 +1,3 @@
 2
-data.aj.txt 1
-data.ye.txt 3
+data.aj.txt 3.8701847240988965
+data.ye.txt 7.740369448197793

@@ -1,5 +1,5 @@
 4
-data.co.txt 2
-data.zdaw.txt 1
-data.zdou.txt 1
-data.zecf.txt 1
+data.co.txt 5.372597648141796
+data.zdaw.txt 3.389731710180695
+data.zdou.txt 3.389731710180695
+data.zecf.txt 3.389731710180695

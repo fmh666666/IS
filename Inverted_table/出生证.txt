@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.fj.txt 1
-data.zcda.txt 1
-data.zcej.txt 1
-data.zciy.txt 1
-data.zcmy.txt 1
-data.zctp.txt 1
-data.zcxr.txt 1
-data.zelt.txt 1
-data.zeyu.txt 1
+data.aj.txt 2.7546073728089153
+data.fj.txt 2.7546073728089153
+data.zcda.txt 2.7546073728089153
+data.zcej.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zcmy.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zeyu.txt 2.7546073728089153

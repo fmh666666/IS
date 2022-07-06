@@ -1,10 +1,10 @@
 9
-data.zair.txt 2
-data.zasd.txt 1
-data.zavx.txt 5
-data.zbfp.txt 1
-data.zbhe.txt 1
-data.zcbe.txt 2
-data.zcjo.txt 1
-data.zddb.txt 1
-data.zerw.txt 2
+data.zair.txt 4.48169974735425
+data.zasd.txt 2.82763771717948
+data.zavx.txt 7.309337464533731
+data.zbfp.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zcbe.txt 4.48169974735425
+data.zcjo.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zerw.txt 4.48169974735425

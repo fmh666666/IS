@@ -1,12 +1,12 @@
 11
-data.zbcj.txt 2
-data.zbfr.txt 2
-data.zbnp.txt 1
-data.zbpx.txt 1
-data.zcdy.txt 1
-data.zcmx.txt 4
-data.zcmy.txt 1
-data.zcvt.txt 1
-data.zdrq.txt 1
-data.zebf.txt 1
-data.zess.txt 1
+data.zbcj.txt 4.261240455343955
+data.zbfr.txt 4.261240455343955
+data.zbnp.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcmx.txt 6.2426044324908965
+data.zcmy.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zess.txt 2.6885433903988862

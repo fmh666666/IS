@@ -1,12 +1,12 @@
 11
-data.zaet.txt 1
-data.zaoc.txt 2
-data.zbhv.txt 1
-data.zbmt.txt 1
-data.zckd.txt 1
-data.zcll.txt 1
-data.zcls.txt 1
-data.zcrk.txt 1
-data.zehp.txt 1
-data.zety.txt 1
-data.zewv.txt 2
+data.zaet.txt 2.6885433903988862
+data.zaoc.txt 4.261240455343955
+data.zbhv.txt 2.6885433903988862
+data.zbmt.txt 2.6885433903988862
+data.zckd.txt 2.6885433903988862
+data.zcll.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zcrk.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zety.txt 2.6885433903988862
+data.zewv.txt 4.261240455343955

@@ -1,4 +1,4 @@
 3
-data.zacw.txt 1
-data.zbeb.txt 1
-data.zdmw.txt 2
+data.zacw.txt 3.5891377275982888
+data.zbeb.txt 3.5891377275982888
+data.zdmw.txt 5.688648708166832

@@ -1,14 +1,14 @@
 13
-data.ev.txt 2
-data.jd.txt 1
-data.wg.txt 1
-data.ye.txt 1
-data.zbes.txt 1
-data.zbhd.txt 1
-data.zbla.txt 1
-data.zbru.txt 1
-data.zccl.txt 2
-data.zcel.txt 1
-data.zcli.txt 1
-data.zdzn.txt 1
-data.zexu.txt 1
+data.ev.txt 4.077712785060798
+data.jd.txt 2.5727503226135906
+data.wg.txt 2.5727503226135906
+data.ye.txt 2.5727503226135906
+data.zbes.txt 2.5727503226135906
+data.zbhd.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zbru.txt 2.5727503226135906
+data.zccl.txt 4.077712785060798
+data.zcel.txt 2.5727503226135906
+data.zcli.txt 2.5727503226135906
+data.zdzn.txt 2.5727503226135906
+data.zexu.txt 2.5727503226135906

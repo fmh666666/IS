@@ -1,8 +1,8 @@
 7
-data.gk.txt 1
-data.zasw.txt 1
-data.zbeb.txt 1
-data.zddb.txt 1
-data.zdfl.txt 1
-data.zegz.txt 1
-data.zeid.txt 1
+data.gk.txt 3.0018356045764243
+data.zasw.txt 3.0018356045764243
+data.zbeb.txt 3.0018356045764243
+data.zddb.txt 3.0018356045764243
+data.zdfl.txt 3.0018356045764243
+data.zegz.txt 3.0018356045764243
+data.zeid.txt 3.0018356045764243

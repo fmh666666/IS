@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.mi.txt 3
-data.zajo.txt 1
-data.zbjh.txt 1
-data.zcaq.txt 1
-data.zewg.txt 1
+data.dg.txt 3.1086847136800873
+data.mi.txt 6.2173694273601745
+data.zajo.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zcaq.txt 3.1086847136800873
+data.zewg.txt 3.1086847136800873

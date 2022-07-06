@@ -1,4 +1,4 @@
 3
-data.zafl.txt 1
-data.zbgd.txt 1
-data.zclm.txt 1
+data.zafl.txt 3.5891377275982888
+data.zbgd.txt 3.5891377275982888
+data.zclm.txt 3.5891377275982888

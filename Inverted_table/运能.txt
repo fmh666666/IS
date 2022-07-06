@@ -1,4 +1,4 @@
 3
-data.zcql.txt 1
-data.zdzi.txt 1
-data.zfai.txt 1
+data.zcql.txt 3.5891377275982888
+data.zdzi.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

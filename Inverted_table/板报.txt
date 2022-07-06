@@ -1,7 +1,7 @@
 6
-data.ye.txt 1
-data.zaqr.txt 1
-data.zazn.txt 1
-data.zbia.txt 1
-data.zbre.txt 2
-data.zcpx.txt 2
+data.ye.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zbia.txt 3.1086847136800873
+data.zbre.txt 4.927148697748023
+data.zcpx.txt 4.927148697748023

@@ -1,9 +1,9 @@
 8
-data.pn.txt 1
-data.zawz.txt 1
-data.zbjk.txt 1
-data.zblr.txt 1
-data.zbvf.txt 1
-data.zbzg.txt 1
-data.zeam.txt 1
-data.zevq.txt 1
+data.pn.txt 2.9092786962624935
+data.zawz.txt 2.9092786962624935
+data.zbjk.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zbvf.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zevq.txt 2.9092786962624935

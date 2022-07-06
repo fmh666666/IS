@@ -1,4 +1,4 @@
 3
-data.zarc.txt 1
-data.zbjq.txt 1
-data.zeag.txt 1
+data.zarc.txt 3.5891377275982888
+data.zbjq.txt 3.5891377275982888
+data.zeag.txt 3.5891377275982888

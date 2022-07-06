@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.zbyb.txt 1
-data.zcxr.txt 1
-data.zdaw.txt 1
-data.zdds.txt 1
-data.zeun.txt 1
-data.zezh.txt 1
-data.zezy.txt 1
+data.ry.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdaw.txt 2.9092786962624935
+data.zdds.txt 2.9092786962624935
+data.zeun.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

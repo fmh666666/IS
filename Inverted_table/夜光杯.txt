@@ -1,4 +1,4 @@
 3
-data.zbre.txt 1
-data.zefv.txt 1
-data.zewg.txt 1
+data.zbre.txt 3.5891377275982888
+data.zefv.txt 3.5891377275982888
+data.zewg.txt 3.5891377275982888

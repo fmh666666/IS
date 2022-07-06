@@ -1,5 +1,5 @@
 4
-data.zafy.txt 2
-data.zapr.txt 2
-data.zbwq.txt 4
-data.zeaf.txt 1
+data.zafy.txt 5.372597648141796
+data.zapr.txt 5.372597648141796
+data.zbwq.txt 7.870713291999142
+data.zeaf.txt 3.389731710180695

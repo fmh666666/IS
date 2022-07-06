@@ -1,8 +1,8 @@
 7
-data.hp.txt 1
-data.zcaq.txt 1
-data.zcgi.txt 1
-data.zcli.txt 1
-data.zdji.txt 1
-data.zdxw.txt 1
-data.zebv.txt 1
+data.hp.txt 3.0018356045764243
+data.zcaq.txt 3.0018356045764243
+data.zcgi.txt 3.0018356045764243
+data.zcli.txt 3.0018356045764243
+data.zdji.txt 3.0018356045764243
+data.zdxw.txt 3.0018356045764243
+data.zebv.txt 3.0018356045764243

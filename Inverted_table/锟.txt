@@ -1,10 +1,10 @@
 9
-data.zarc.txt 5
-data.zbcj.txt 1
-data.zcww.txt 1
-data.zddm.txt 1
-data.zdep.txt 5
-data.zdeq.txt 20
-data.zdgv.txt 1
-data.zeoh.txt 3
-data.zewg.txt 1
+data.zarc.txt 7.309337464533731
+data.zbcj.txt 2.82763771717948
+data.zcww.txt 2.82763771717948
+data.zddm.txt 2.82763771717948
+data.zdep.txt 7.309337464533731
+data.zdeq.txt 12.419882410473791
+data.zdgv.txt 2.82763771717948
+data.zeoh.txt 5.65527543435896
+data.zewg.txt 2.82763771717948

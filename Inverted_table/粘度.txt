@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zcdy.txt 2
-data.zcsu.txt 1
-data.zeqn.txt 1
-data.zexx.txt 1
+data.hp.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zcsu.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117
+data.zexx.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.ek.txt 1
-data.ff.txt 1
-data.ka.txt 1
-data.zaxj.txt 1
-data.zblr.txt 1
-data.zchd.txt 1
-data.zctn.txt 1
-data.zcts.txt 1
-data.zerh.txt 1
-data.zezy.txt 1
-data.zfas.txt 1
+data.ek.txt 2.6885433903988862
+data.ff.txt 2.6885433903988862
+data.ka.txt 2.6885433903988862
+data.zaxj.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zchd.txt 2.6885433903988862
+data.zctn.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zerh.txt 2.6885433903988862
+data.zezy.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

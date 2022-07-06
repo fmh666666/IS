@@ -1,11 +1,11 @@
 10
-data.zajh.txt 1
-data.zapr.txt 1
-data.zbfz.txt 1
-data.zbjh.txt 1
-data.zbpc.txt 1
-data.zbpx.txt 1
-data.zcdz.txt 1
-data.zckd.txt 1
-data.zehj.txt 1
-data.zemb.txt 1
+data.zajh.txt 2.7546073728089153
+data.zapr.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zbjh.txt 2.7546073728089153
+data.zbpc.txt 2.7546073728089153
+data.zbpx.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zckd.txt 2.7546073728089153
+data.zehj.txt 2.7546073728089153
+data.zemb.txt 2.7546073728089153

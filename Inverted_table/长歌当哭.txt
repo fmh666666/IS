@@ -1,4 +1,4 @@
 3
-data.zckd.txt 2
-data.zdhv.txt 1
-data.zdkp.txt 2
+data.zckd.txt 5.688648708166832
+data.zdhv.txt 3.5891377275982888
+data.zdkp.txt 5.688648708166832

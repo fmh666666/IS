@@ -1,13 +1,13 @@
 12
-data.kt.txt 1
-data.zaim.txt 1
-data.zayv.txt 1
-data.zbds.txt 1
-data.zbsu.txt 1
-data.zcfn.txt 1
-data.zcln.txt 1
-data.zcrn.txt 1
-data.zczl.txt 1
-data.zdkp.txt 1
-data.zdqx.txt 1
-data.zeam.txt 1
+data.kt.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zayv.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbsu.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zcrn.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zdkp.txt 2.628231699761886
+data.zdqx.txt 2.628231699761886
+data.zeam.txt 2.628231699761886

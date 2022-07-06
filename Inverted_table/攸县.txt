@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zacd.txt 1
-data.zdep.txt 1
-data.zdle.txt 1
-data.zene.txt 6
+data.ng.txt 3.235060386727117
+data.zacd.txt 3.235060386727117
+data.zdep.txt 3.235060386727117
+data.zdle.txt 3.235060386727117
+data.zene.txt 9.081962699831948

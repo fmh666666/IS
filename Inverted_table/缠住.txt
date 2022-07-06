@@ -1,11 +1,11 @@
 10
-data.mx.txt 1
-data.tz.txt 1
-data.zabe.txt 1
-data.zaqf.txt 1
-data.zayv.txt 1
-data.zazw.txt 1
-data.zbsd.txt 1
-data.zctp.txt 1
-data.zdeq.txt 2
-data.zdtr.txt 1
+data.mx.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zaqf.txt 2.7546073728089153
+data.zayv.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zbsd.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdeq.txt 4.365949390112154
+data.zdtr.txt 2.7546073728089153

@@ -1,10 +1,10 @@
 9
-data.mo.txt 1
-data.yx.txt 1
-data.zahp.txt 1
-data.zasj.txt 6
-data.zcdv.txt 1
-data.zcko.txt 2
-data.zcqg.txt 1
-data.zcxq.txt 1
-data.zdwn.txt 4
+data.mo.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zahp.txt 2.82763771717948
+data.zasj.txt 7.938182663119541
+data.zcdv.txt 2.82763771717948
+data.zcko.txt 4.48169974735425
+data.zcqg.txt 2.82763771717948
+data.zcxq.txt 2.82763771717948
+data.zdwn.txt 6.565571457682201

@@ -1,14 +1,14 @@
 13
-data.ek.txt 1
-data.tj.txt 1
-data.zasj.txt 1
-data.zauy.txt 1
-data.zcis.txt 1
-data.zcon.txt 1
-data.zcpx.txt 2
-data.zctp.txt 1
-data.zdaw.txt 1
-data.zddb.txt 1
-data.zdzm.txt 1
-data.zebc.txt 2
-data.zevq.txt 1
+data.ek.txt 2.5727503226135906
+data.tj.txt 2.5727503226135906
+data.zasj.txt 2.5727503226135906
+data.zauy.txt 2.5727503226135906
+data.zcis.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcpx.txt 4.077712785060798
+data.zctp.txt 2.5727503226135906
+data.zdaw.txt 2.5727503226135906
+data.zddb.txt 2.5727503226135906
+data.zdzm.txt 2.5727503226135906
+data.zebc.txt 4.077712785060798
+data.zevq.txt 2.5727503226135906

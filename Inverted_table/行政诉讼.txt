@@ -1,4 +1,4 @@
 3
-data.zawu.txt 1
-data.zcfx.txt 1
-data.zcse.txt 1
+data.zawu.txt 3.5891377275982888
+data.zcfx.txt 3.5891377275982888
+data.zcse.txt 3.5891377275982888

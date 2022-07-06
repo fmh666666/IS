@@ -1,2 +1,2 @@
 1
-data.ft.txt 3
+data.ft.txt 8.701275476034196

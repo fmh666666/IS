@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.zazn.txt 1
-data.zcni.txt 1
-data.zdhw.txt 1
-data.zeeq.txt 1
+data.cf.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zcni.txt 3.235060386727117
+data.zdhw.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

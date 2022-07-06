@@ -1,6 +1,6 @@
 5
-data.zbhe.txt 2
-data.zbnp.txt 2
-data.zcef.txt 2
-data.zeoh.txt 1
-data.zfcj.txt 1
+data.zbhe.txt 5.1274494005309625
+data.zbnp.txt 5.1274494005309625
+data.zcef.txt 5.1274494005309625
+data.zeoh.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

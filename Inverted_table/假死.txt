@@ -1,10 +1,10 @@
 9
-data.aj.txt 2
-data.zbkj.txt 1
-data.zblq.txt 3
-data.zbua.txt 1
-data.zcxr.txt 1
-data.zdof.txt 3
-data.zdzn.txt 1
-data.zevt.txt 1
-data.zfae.txt 1
+data.aj.txt 4.48169974735425
+data.zbkj.txt 2.82763771717948
+data.zblq.txt 5.65527543435896
+data.zbua.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdof.txt 5.65527543435896
+data.zdzn.txt 2.82763771717948
+data.zevt.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

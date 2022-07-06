@@ -1,7 +1,7 @@
 6
-data.ka.txt 2
-data.zawu.txt 1
-data.zbpc.txt 2
-data.zcoy.txt 2
-data.zeos.txt 2
-data.zevq.txt 1
+data.ka.txt 4.927148697748023
+data.zawu.txt 3.1086847136800873
+data.zbpc.txt 4.927148697748023
+data.zcoy.txt 4.927148697748023
+data.zeos.txt 4.927148697748023
+data.zevq.txt 3.1086847136800873

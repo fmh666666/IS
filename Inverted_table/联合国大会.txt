@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.ok.txt 1
-data.zbjc.txt 2
-data.zcmy.txt 3
-data.zeob.txt 1
+data.ha.txt 3.235060386727117
+data.ok.txt 3.235060386727117
+data.zbjc.txt 5.1274494005309625
+data.zcmy.txt 6.470120773454234
+data.zeob.txt 3.235060386727117

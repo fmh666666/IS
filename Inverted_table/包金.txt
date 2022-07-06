@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.zbfd.txt 1
-data.zbga.txt 1
-data.zbkr.txt 1
-data.zbsu.txt 1
-data.zefp.txt 1
-data.zeva.txt 1
+data.bs.txt 3.0018356045764243
+data.zbfd.txt 3.0018356045764243
+data.zbga.txt 3.0018356045764243
+data.zbkr.txt 3.0018356045764243
+data.zbsu.txt 3.0018356045764243
+data.zefp.txt 3.0018356045764243
+data.zeva.txt 3.0018356045764243

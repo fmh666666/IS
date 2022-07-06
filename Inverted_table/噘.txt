@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.zcbe.txt 1
-data.zcmv.txt 3
-data.zcpx.txt 2
-data.zcxp.txt 1
-data.zene.txt 2
+data.cz.txt 3.1086847136800873
+data.zcbe.txt 3.1086847136800873
+data.zcmv.txt 6.2173694273601745
+data.zcpx.txt 4.927148697748023
+data.zcxp.txt 3.1086847136800873
+data.zene.txt 4.927148697748023

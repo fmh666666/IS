@@ -1,4 +1,4 @@
 3
-data.zako.txt 1
-data.zdll.txt 1
-data.zeac.txt 1
+data.zako.txt 3.5891377275982888
+data.zdll.txt 3.5891377275982888
+data.zeac.txt 3.5891377275982888

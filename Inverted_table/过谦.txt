@@ -1,11 +1,11 @@
 10
-data.zarr.txt 1
-data.zawo.txt 1
-data.zbhe.txt 1
-data.zcmy.txt 1
-data.zcon.txt 2
-data.zdvl.txt 1
-data.zeam.txt 1
-data.zene.txt 1
-data.zeoo.txt 1
-data.zfcj.txt 1
+data.zarr.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbhe.txt 2.7546073728089153
+data.zcmy.txt 2.7546073728089153
+data.zcon.txt 4.365949390112154
+data.zdvl.txt 2.7546073728089153
+data.zeam.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zeoo.txt 2.7546073728089153
+data.zfcj.txt 2.7546073728089153

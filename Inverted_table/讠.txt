@@ -1,5 +1,5 @@
 4
-data.zbnp.txt 1
-data.zcfn.txt 1
-data.zehp.txt 1
-data.zeun.txt 1
+data.zbnp.txt 3.389731710180695
+data.zcfn.txt 3.389731710180695
+data.zehp.txt 3.389731710180695
+data.zeun.txt 3.389731710180695

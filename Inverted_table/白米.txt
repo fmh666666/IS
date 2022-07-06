@@ -1,14 +1,14 @@
 13
-data.by.txt 1
-data.ev.txt 1
-data.zajo.txt 4
-data.zbpc.txt 1
-data.zbua.txt 2
-data.zciq.txt 1
-data.zdcj.txt 1
-data.zddl.txt 3
-data.zdpg.txt 1
-data.zduc.txt 1
-data.zduo.txt 1
-data.zeew.txt 1
-data.zexu.txt 1
+data.by.txt 2.5727503226135906
+data.ev.txt 2.5727503226135906
+data.zajo.txt 5.97374125520702
+data.zbpc.txt 2.5727503226135906
+data.zbua.txt 4.077712785060798
+data.zciq.txt 2.5727503226135906
+data.zdcj.txt 2.5727503226135906
+data.zddl.txt 5.145500645227181
+data.zdpg.txt 2.5727503226135906
+data.zduc.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zeew.txt 2.5727503226135906
+data.zexu.txt 2.5727503226135906

@@ -1,5 +1,5 @@
 4
-data.zaip.txt 1
-data.zasy.txt 1
-data.zbdb.txt 1
-data.zeec.txt 1
+data.zaip.txt 3.389731710180695
+data.zasy.txt 3.389731710180695
+data.zbdb.txt 3.389731710180695
+data.zeec.txt 3.389731710180695

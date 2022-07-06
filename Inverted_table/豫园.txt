@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zaet.txt 1
-data.zbeb.txt 1
-data.zbof.txt 1
-data.zbpc.txt 1
-data.zczb.txt 1
-data.zdgo.txt 1
-data.zefv.txt 1
+data.kq.txt 2.9092786962624935
+data.zaet.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbof.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zczb.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zefv.txt 2.9092786962624935

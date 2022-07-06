@@ -1,5 +1,5 @@
 4
-data.zafy.txt 1
-data.zaxx.txt 1
-data.zbia.txt 1
-data.zedo.txt 5
+data.zafy.txt 3.389731710180695
+data.zaxx.txt 3.389731710180695
+data.zbia.txt 3.389731710180695
+data.zedo.txt 8.762329358322491

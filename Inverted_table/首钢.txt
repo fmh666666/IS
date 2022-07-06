@@ -1,10 +1,10 @@
 9
-data.zawm.txt 1
-data.zbbt.txt 1
-data.zbkv.txt 3
-data.zcko.txt 1
-data.zcrn.txt 1
-data.zdoc.txt 1
-data.zedo.txt 3
-data.zeew.txt 1
-data.zefw.txt 1
+data.zawm.txt 2.82763771717948
+data.zbbt.txt 2.82763771717948
+data.zbkv.txt 5.65527543435896
+data.zcko.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zdoc.txt 2.82763771717948
+data.zedo.txt 5.65527543435896
+data.zeew.txt 2.82763771717948
+data.zefw.txt 2.82763771717948

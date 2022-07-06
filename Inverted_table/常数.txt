@@ -1,5 +1,5 @@
 4
-data.zbmt.txt 1
-data.zctm.txt 1
-data.zdby.txt 1
-data.zety.txt 1
+data.zbmt.txt 3.389731710180695
+data.zctm.txt 3.389731710180695
+data.zdby.txt 3.389731710180695
+data.zety.txt 3.389731710180695

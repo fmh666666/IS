@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.ye.txt 1
-data.zagr.txt 1
-data.zene.txt 1
-data.zezm.txt 1
+data.tv.txt 3.235060386727117
+data.ye.txt 3.235060386727117
+data.zagr.txt 3.235060386727117
+data.zene.txt 3.235060386727117
+data.zezm.txt 3.235060386727117

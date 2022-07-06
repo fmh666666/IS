@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.zajh.txt 2
-data.zaxj.txt 1
-data.zaxk.txt 2
-data.zbcv.txt 1
-data.zcqe.txt 14
-data.zdkv.txt 1
-data.zeaf.txt 1
-data.zenn.txt 1
-data.zeoo.txt 1
-data.zewd.txt 2
+data.bs.txt 2.6885433903988862
+data.zajh.txt 4.261240455343955
+data.zaxj.txt 2.6885433903988862
+data.zaxk.txt 4.261240455343955
+data.zbcv.txt 2.6885433903988862
+data.zcqe.txt 10.503844887834852
+data.zdkv.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zenn.txt 2.6885433903988862
+data.zeoo.txt 2.6885433903988862
+data.zewd.txt 4.261240455343955

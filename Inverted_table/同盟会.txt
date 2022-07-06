@@ -1,7 +1,7 @@
 6
-data.zbzo.txt 1
-data.zcaq.txt 1
-data.zckd.txt 1
-data.zcsr.txt 1
-data.zcts.txt 1
-data.zezy.txt 5
+data.zbzo.txt 3.1086847136800873
+data.zcaq.txt 3.1086847136800873
+data.zckd.txt 3.1086847136800873
+data.zcsr.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zezy.txt 8.03583341142811

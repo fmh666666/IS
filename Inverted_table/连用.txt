@@ -1,10 +1,10 @@
 9
-data.sq.txt 1
-data.zabx.txt 1
-data.zaet.txt 1
-data.zanh.txt 1
-data.zbfz.txt 1
-data.zbkj.txt 1
-data.zbta.txt 1
-data.zdou.txt 1
-data.zeta.txt 1
+data.sq.txt 2.82763771717948
+data.zabx.txt 2.82763771717948
+data.zaet.txt 2.82763771717948
+data.zanh.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zbta.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zeta.txt 2.82763771717948

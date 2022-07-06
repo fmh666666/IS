@@ -1,10 +1,10 @@
 9
-data.mx.txt 1
-data.zaxp.txt 1
-data.zbga.txt 1
-data.zbjc.txt 1
-data.zbmw.txt 1
-data.zbsd.txt 1
-data.zdyv.txt 1
-data.zehp.txt 1
-data.zezy.txt 1
+data.mx.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zbga.txt 2.82763771717948
+data.zbjc.txt 2.82763771717948
+data.zbmw.txt 2.82763771717948
+data.zbsd.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zezy.txt 2.82763771717948

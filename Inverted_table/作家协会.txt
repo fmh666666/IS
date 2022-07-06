@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.zacd.txt 1
-data.zahd.txt 1
-data.zate.txt 1
-data.zaxk.txt 1
-data.zbfx.txt 1
-data.zbhd.txt 1
-data.zbnx.txt 1
-data.zcef.txt 1
-data.zcmy.txt 1
-data.zehp.txt 1
+data.bb.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zate.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbfx.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcef.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862

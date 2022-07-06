@@ -1,4 +1,4 @@
 3
-data.zbta.txt 1
-data.zbwq.txt 1
-data.zeil.txt 1
+data.zbta.txt 3.5891377275982888
+data.zbwq.txt 3.5891377275982888
+data.zeil.txt 3.5891377275982888

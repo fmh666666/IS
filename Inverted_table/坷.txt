@@ -1,12 +1,12 @@
 11
-data.fz.txt 1
-data.tv.txt 1
-data.zabe.txt 1
-data.zaoc.txt 1
-data.zbkr.txt 1
-data.zbuj.txt 1
-data.zbux.txt 1
-data.zbye.txt 1
-data.zbzf.txt 1
-data.zdwk.txt 1
-data.zekw.txt 1
+data.fz.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zaoc.txt 2.6885433903988862
+data.zbkr.txt 2.6885433903988862
+data.zbuj.txt 2.6885433903988862
+data.zbux.txt 2.6885433903988862
+data.zbye.txt 2.6885433903988862
+data.zbzf.txt 2.6885433903988862
+data.zdwk.txt 2.6885433903988862
+data.zekw.txt 2.6885433903988862

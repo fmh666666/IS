@@ -1,10 +1,10 @@
 9
-data.kq.txt 2
-data.zajo.txt 1
-data.zawo.txt 13
-data.zbcj.txt 1
-data.zbkr.txt 2
-data.zbkv.txt 2
-data.zdzm.txt 11
-data.zebv.txt 1
-data.zevq.txt 1
+data.kq.txt 4.48169974735425
+data.zajo.txt 2.82763771717948
+data.zawo.txt 10.76582038029902
+data.zbcj.txt 2.82763771717948
+data.zbkr.txt 4.48169974735425
+data.zbkv.txt 4.48169974735425
+data.zdzm.txt 10.136975181713211
+data.zebv.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.ye.txt 6
-data.zaxj.txt 1
-data.zeqh.txt 6
+data.ye.txt 10.0759834655157
+data.zaxj.txt 3.5891377275982888
+data.zeqh.txt 10.0759834655157

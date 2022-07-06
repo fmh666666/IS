@@ -1,5 +1,5 @@
 4
-data.ew.txt 1
-data.zeai.txt 4
-data.zeaj.txt 5
-data.zexk.txt 1
+data.ew.txt 3.389731710180695
+data.zeai.txt 7.870713291999142
+data.zeaj.txt 8.762329358322491
+data.zexk.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.vi.txt 1
-data.zapl.txt 1
-data.zdaq.txt 1
+data.vi.txt 3.5891377275982888
+data.zapl.txt 3.5891377275982888
+data.zdaq.txt 3.5891377275982888

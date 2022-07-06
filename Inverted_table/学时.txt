@@ -1,9 +1,9 @@
 8
-data.cq.txt 2
-data.zavg.txt 1
-data.zbga.txt 1
-data.zbpp.txt 1
-data.zbre.txt 1
-data.zdpz.txt 1
-data.zdwl.txt 1
-data.zegn.txt 1
+data.cq.txt 4.611097637722987
+data.zavg.txt 2.9092786962624935
+data.zbga.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935
+data.zdwl.txt 2.9092786962624935
+data.zegn.txt 2.9092786962624935

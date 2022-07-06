@@ -1,6 +1,6 @@
 5
-data.zcjd.txt 1
-data.zcon.txt 1
-data.zebc.txt 1
-data.zedy.txt 1
-data.zeik.txt 1
+data.zcjd.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zebc.txt 3.235060386727117
+data.zedy.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

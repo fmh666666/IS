@@ -1,9 +1,9 @@
 8
-data.ud.txt 1
-data.zagr.txt 1
-data.zail.txt 1
-data.zawc.txt 1
-data.zccx.txt 1
-data.zdgv.txt 1
-data.zedk.txt 1
-data.zesq.txt 1
+data.ud.txt 2.9092786962624935
+data.zagr.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zccx.txt 2.9092786962624935
+data.zdgv.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935

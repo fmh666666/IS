@@ -1,13 +1,13 @@
 12
-data.gz.txt 1
-data.to.txt 2
-data.zadv.txt 1
-data.zavx.txt 1
-data.zazg.txt 1
-data.zbkj.txt 1
-data.zcdz.txt 1
-data.zdaq.txt 1
-data.zduk.txt 1
-data.zedx.txt 1
-data.zene.txt 1
-data.zevt.txt 1
+data.gz.txt 2.628231699761886
+data.to.txt 4.165648687329214
+data.zadv.txt 2.628231699761886
+data.zavx.txt 2.628231699761886
+data.zazg.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zdaq.txt 2.628231699761886
+data.zduk.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zevt.txt 2.628231699761886

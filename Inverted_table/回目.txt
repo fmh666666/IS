@@ -1,4 +1,4 @@
 3
-data.zaxj.txt 1
-data.zbpm.txt 1
-data.zegn.txt 3
+data.zaxj.txt 3.5891377275982888
+data.zbpm.txt 3.5891377275982888
+data.zegn.txt 7.1782754551965775

@@ -1,5 +1,5 @@
 4
-data.jj.txt 12
-data.zbup.txt 5
-data.zcih.txt 1
-data.zdaw.txt 16
+data.jj.txt 12.543497854194973
+data.zbup.txt 8.762329358322491
+data.zcih.txt 3.389731710180695
+data.zdaw.txt 13.855402407171557

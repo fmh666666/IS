@@ -1,10 +1,10 @@
 9
-data.aj.txt 2
-data.hg.txt 1
-data.zaim.txt 1
-data.zanh.txt 1
-data.zasd.txt 1
-data.zaub.txt 3
-data.zbgd.txt 1
-data.zddp.txt 1
-data.zfcg.txt 1
+data.aj.txt 4.48169974735425
+data.hg.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zanh.txt 2.82763771717948
+data.zasd.txt 2.82763771717948
+data.zaub.txt 5.65527543435896
+data.zbgd.txt 2.82763771717948
+data.zddp.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

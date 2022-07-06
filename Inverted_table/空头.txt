@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.xe.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zcpb.txt 1
-data.zcse.txt 1
-data.zeam.txt 8
-data.zexv.txt 1
+data.kq.txt 2.9092786962624935
+data.xe.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 4.611097637722987
+data.zcpb.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zeam.txt 9.222195275445975
+data.zexv.txt 2.9092786962624935

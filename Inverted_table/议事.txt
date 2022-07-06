@@ -1,6 +1,6 @@
 5
-data.zass.txt 1
-data.zawb.txt 1
-data.zbgd.txt 1
-data.zcwq.txt 1
-data.zdrq.txt 1
+data.zass.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zcwq.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117

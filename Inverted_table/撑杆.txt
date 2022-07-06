@@ -1,4 +1,4 @@
 3
-data.zaoo.txt 1
-data.zaxp.txt 3
-data.zfaj.txt 2
+data.zaoo.txt 3.5891377275982888
+data.zaxp.txt 7.1782754551965775
+data.zfaj.txt 5.688648708166832

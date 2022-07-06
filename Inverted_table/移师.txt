@@ -1,12 +1,12 @@
 11
-data.zabj.txt 1
-data.zall.txt 1
-data.zbfg.txt 1
-data.zbof.txt 1
-data.zbuj.txt 1
-data.zbye.txt 1
-data.zcmy.txt 1
-data.zdpf.txt 1
-data.zdst.txt 1
-data.zeds.txt 1
-data.zezm.txt 1
+data.zabj.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zbfg.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zbuj.txt 2.6885433903988862
+data.zbye.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zeds.txt 2.6885433903988862
+data.zezm.txt 2.6885433903988862

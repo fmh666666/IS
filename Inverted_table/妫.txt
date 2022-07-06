@@ -1,4 +1,4 @@
 3
-data.zaxx.txt 1
-data.zcsu.txt 2
-data.zdlg.txt 1
+data.zaxx.txt 3.5891377275982888
+data.zcsu.txt 5.688648708166832
+data.zdlg.txt 3.5891377275982888

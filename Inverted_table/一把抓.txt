@@ -1,11 +1,11 @@
 10
-data.jf.txt 1
-data.tz.txt 1
-data.zayc.txt 1
-data.zcfn.txt 1
-data.zclh.txt 4
-data.zcmx.txt 1
-data.zcoy.txt 1
-data.zedk.txt 1
-data.zeqh.txt 1
-data.zfaz.txt 1
+data.jf.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zayc.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zclh.txt 6.396000249308887
+data.zcmx.txt 2.7546073728089153
+data.zcoy.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zeqh.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

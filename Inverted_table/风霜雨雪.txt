@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.to.txt 1
-data.zaoc.txt 1
-data.zbfx.txt 1
-data.zbux.txt 1
-data.zdeb.txt 1
-data.zdpw.txt 1
-data.zduc.txt 1
-data.zeag.txt 1
-data.zeai.txt 2
-data.zedy.txt 1
-data.zefv.txt 1
+data.gk.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdpw.txt 2.628231699761886
+data.zduc.txt 2.628231699761886
+data.zeag.txt 2.628231699761886
+data.zeai.txt 4.165648687329214
+data.zedy.txt 2.628231699761886
+data.zefv.txt 2.628231699761886

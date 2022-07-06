@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.op.txt 2
-data.zabx.txt 1
-data.zawc.txt 1
-data.zbdx.txt 1
-data.zcni.txt 2
-data.zddv.txt 1
-data.zdoq.txt 1
-data.zene.txt 1
-data.zenn.txt 1
-data.zeoh.txt 1
-data.zfaj.txt 1
+data.ga.txt 2.628231699761886
+data.op.txt 4.165648687329214
+data.zabx.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbdx.txt 2.628231699761886
+data.zcni.txt 4.165648687329214
+data.zddv.txt 2.628231699761886
+data.zdoq.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zenn.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

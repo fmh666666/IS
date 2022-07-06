@@ -1,10 +1,10 @@
 9
-data.pq.txt 7
-data.zaqf.txt 2
-data.zbfz.txt 1
-data.zcfn.txt 3
-data.zdby.txt 1
-data.zdfl.txt 1
-data.zdzg.txt 1
-data.zefv.txt 1
-data.zerv.txt 2
+data.pq.txt 8.48291315153844
+data.zaqf.txt 4.48169974735425
+data.zbfz.txt 2.82763771717948
+data.zcfn.txt 5.65527543435896
+data.zdby.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zefv.txt 2.82763771717948
+data.zerv.txt 4.48169974735425

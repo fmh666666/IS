@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.uz.txt 1
-data.vm.txt 1
-data.zblq.txt 1
-data.zbnp.txt 1
-data.zccx.txt 3
-data.zddm.txt 1
-data.zdof.txt 1
-data.zdqx.txt 1
-data.zdro.txt 1
-data.zdzm.txt 1
-data.zefw.txt 1
+data.ev.txt 2.628231699761886
+data.uz.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zccx.txt 5.256463399523772
+data.zddm.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdqx.txt 2.628231699761886
+data.zdro.txt 2.628231699761886
+data.zdzm.txt 2.628231699761886
+data.zefw.txt 2.628231699761886

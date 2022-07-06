@@ -1,9 +1,9 @@
 8
-data.zaqr.txt 1
-data.zasy.txt 1
-data.zbsu.txt 1
-data.zcmv.txt 1
-data.zdep.txt 1
-data.zdfl.txt 1
-data.zeai.txt 1
-data.zezy.txt 1
+data.zaqr.txt 2.9092786962624935
+data.zasy.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zcmv.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zdfl.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

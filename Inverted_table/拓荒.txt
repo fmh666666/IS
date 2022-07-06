@@ -1,6 +1,6 @@
 5
-data.zayv.txt 1
-data.zbhd.txt 1
-data.zcdz.txt 1
-data.zctn.txt 9
-data.zefd.txt 1
+data.zayv.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zctn.txt 10.746637987325986
+data.zefd.txt 3.235060386727117

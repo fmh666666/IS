@@ -1,10 +1,10 @@
 9
-data.jd.txt 1
-data.pn.txt 1
-data.zabe.txt 1
-data.zapl.txt 1
-data.zcmn.txt 1
-data.zdep.txt 1
-data.zdme.txt 1
-data.zdvl.txt 1
-data.zelt.txt 1
+data.jd.txt 2.82763771717948
+data.pn.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zdme.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zelt.txt 2.82763771717948

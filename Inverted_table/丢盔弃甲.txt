@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.nh.txt 1
-data.tv.txt 1
-data.zaop.txt 1
-data.zawc.txt 1
-data.zcef.txt 1
-data.zdil.txt 1
-data.zdkc.txt 1
-data.zdoq.txt 1
+data.aj.txt 2.82763771717948
+data.nh.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zaop.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdoq.txt 2.82763771717948

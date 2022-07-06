@@ -1,5 +1,5 @@
 4
-data.pa.txt 1
-data.zajn.txt 1
-data.zasy.txt 1
-data.zaun.txt 6
+data.pa.txt 3.389731710180695
+data.zajn.txt 3.389731710180695
+data.zasy.txt 3.389731710180695
+data.zaun.txt 9.516180001030515

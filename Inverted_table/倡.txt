@@ -1,13 +1,13 @@
 12
-data.en.txt 1
-data.zaim.txt 1
-data.zapf.txt 1
-data.zasq.txt 1
-data.zawc.txt 1
-data.zbaq.txt 1
-data.zbnp.txt 2
-data.zcdg.txt 1
-data.zciq.txt 1
-data.zcrg.txt 9
-data.zdgt.txt 1
-data.zfbr.txt 1
+data.en.txt 2.628231699761886
+data.zaim.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zasq.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbaq.txt 2.628231699761886
+data.zbnp.txt 4.165648687329214
+data.zcdg.txt 2.628231699761886
+data.zciq.txt 2.628231699761886
+data.zcrg.txt 8.730796723312578
+data.zdgt.txt 2.628231699761886
+data.zfbr.txt 2.628231699761886

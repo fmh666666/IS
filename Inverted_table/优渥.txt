@@ -1,4 +1,4 @@
 3
-data.zbhd.txt 5
-data.zcdg.txt 1
-data.zdux.txt 1
+data.zbhd.txt 9.27778643576512
+data.zcdg.txt 3.5891377275982888
+data.zdux.txt 3.5891377275982888

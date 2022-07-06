@@ -1,4 +1,4 @@
 3
-data.tv.txt 1
-data.yx.txt 1
-data.zcln.txt 1
+data.tv.txt 3.5891377275982888
+data.yx.txt 3.5891377275982888
+data.zcln.txt 3.5891377275982888

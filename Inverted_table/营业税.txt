@@ -1,10 +1,10 @@
 9
-data.ft.txt 4
-data.fz.txt 1
-data.ka.txt 1
-data.zafq.txt 1
-data.zarc.txt 1
-data.zasq.txt 1
-data.zcdy.txt 3
-data.zcse.txt 2
-data.zexv.txt 1
+data.ft.txt 6.565571457682201
+data.fz.txt 2.82763771717948
+data.ka.txt 2.82763771717948
+data.zafq.txt 2.82763771717948
+data.zarc.txt 2.82763771717948
+data.zasq.txt 2.82763771717948
+data.zcdy.txt 5.65527543435896
+data.zcse.txt 4.48169974735425
+data.zexv.txt 2.82763771717948

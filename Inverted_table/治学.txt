@@ -1,4 +1,4 @@
 3
-data.zbkv.txt 1
-data.zcdv.txt 2
-data.zebn.txt 1
+data.zbkv.txt 3.5891377275982888
+data.zcdv.txt 5.688648708166832
+data.zebn.txt 3.5891377275982888

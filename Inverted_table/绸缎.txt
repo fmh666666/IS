@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.jf.txt 1
-data.zalt.txt 1
-data.zbzg.txt 1
-data.zcrk.txt 1
-data.zdkp.txt 1
-data.zdlo.txt 1
-data.zewp.txt 1
+data.be.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zalt.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zdlo.txt 2.9092786962624935
+data.zewp.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.mk.txt 1
-data.ye.txt 1
-data.zcxr.txt 1
-data.zdcy.txt 1
-data.zdle.txt 2
-data.zdlm.txt 1
-data.zduc.txt 1
-data.zebf.txt 1
+data.mk.txt 2.9092786962624935
+data.ye.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935
+data.zdle.txt 4.611097637722987
+data.zdlm.txt 2.9092786962624935
+data.zduc.txt 2.9092786962624935
+data.zebf.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.zafi.txt 2
-data.zcby.txt 1
-data.zcee.txt 1
-data.zclh.txt 2
-data.zdqx.txt 1
-data.zeaf.txt 2
-data.zedo.txt 1
-data.zexk.txt 1
+data.zafi.txt 4.611097637722987
+data.zcby.txt 2.9092786962624935
+data.zcee.txt 2.9092786962624935
+data.zclh.txt 4.611097637722987
+data.zdqx.txt 2.9092786962624935
+data.zeaf.txt 4.611097637722987
+data.zedo.txt 2.9092786962624935
+data.zexk.txt 2.9092786962624935

@@ -1,12 +1,12 @@
 11
-data.ev.txt 1
-data.mo.txt 3
-data.zaet.txt 1
-data.zawc.txt 1
-data.zbeb.txt 1
-data.zdib.txt 2
-data.zdwv.txt 1
-data.zdzg.txt 2
-data.zefw.txt 5
-data.zeqn.txt 1
-data.zewn.txt 1
+data.ev.txt 2.6885433903988862
+data.mo.txt 5.3770867807977725
+data.zaet.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zdib.txt 4.261240455343955
+data.zdwv.txt 2.6885433903988862
+data.zdzg.txt 4.261240455343955
+data.zefw.txt 6.949783845742841
+data.zeqn.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862

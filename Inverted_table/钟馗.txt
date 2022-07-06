@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zbgd.txt 1
-data.zdgt.txt 1
-data.zdof.txt 1
-data.zefp.txt 1
+data.gk.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zdof.txt 3.235060386727117
+data.zefp.txt 3.235060386727117

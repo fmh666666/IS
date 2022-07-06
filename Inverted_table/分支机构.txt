@@ -1,6 +1,6 @@
 5
-data.zcdz.txt 5
-data.zciq.txt 3
-data.zdvl.txt 1
-data.zexv.txt 1
-data.zezy.txt 1
+data.zcdz.txt 8.362509787258078
+data.zciq.txt 6.470120773454234
+data.zdvl.txt 3.235060386727117
+data.zexv.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

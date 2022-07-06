@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zaim.txt 1
-data.zaqw.txt 1
+data.hg.txt 3.5891377275982888
+data.zaim.txt 3.5891377275982888
+data.zaqw.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.zapl.txt 1
-data.zbcj.txt 1
-data.zcxq.txt 1
+data.zapl.txt 3.5891377275982888
+data.zbcj.txt 3.5891377275982888
+data.zcxq.txt 3.5891377275982888

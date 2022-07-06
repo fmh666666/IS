@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.zbpm.txt 1
-data.zdkv.txt 1
-data.zdlw.txt 1
-data.zeaj.txt 1
-data.zefu.txt 1
+data.bf.txt 3.1086847136800873
+data.zbpm.txt 3.1086847136800873
+data.zdkv.txt 3.1086847136800873
+data.zdlw.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873
+data.zefu.txt 3.1086847136800873

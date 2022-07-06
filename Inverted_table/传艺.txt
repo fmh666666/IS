@@ -1,7 +1,7 @@
 6
-data.zbse.txt 2
-data.zcmx.txt 1
-data.zcqp.txt 2
-data.zcxr.txt 1
-data.zdey.txt 1
-data.zfcp.txt 2
+data.zbse.txt 4.927148697748023
+data.zcmx.txt 3.1086847136800873
+data.zcqp.txt 4.927148697748023
+data.zcxr.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zfcp.txt 4.927148697748023

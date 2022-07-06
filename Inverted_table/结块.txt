@@ -1,6 +1,6 @@
 5
-data.xe.txt 1
-data.zbkf.txt 8
-data.zbru.txt 4
-data.zcbe.txt 1
-data.zcjy.txt 1
+data.xe.txt 3.235060386727117
+data.zbkf.txt 10.254898801061925
+data.zbru.txt 7.511577600598868
+data.zcbe.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117

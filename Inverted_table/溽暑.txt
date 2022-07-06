@@ -1,4 +1,4 @@
 3
-data.zbaq.txt 1
-data.zbls.txt 1
-data.zdcj.txt 1
+data.zbaq.txt 3.5891377275982888
+data.zbls.txt 3.5891377275982888
+data.zdcj.txt 3.5891377275982888

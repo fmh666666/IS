@@ -1,7 +1,7 @@
 6
-data.zbeb.txt 1
-data.zbot.txt 1
-data.zcqs.txt 1
-data.zctp.txt 1
-data.zevt.txt 1
-data.zeyu.txt 1
+data.zbeb.txt 3.1086847136800873
+data.zbot.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zevt.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

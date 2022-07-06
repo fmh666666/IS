@@ -1,7 +1,7 @@
 6
-data.ng.txt 1
-data.ok.txt 1
-data.zazw.txt 1
-data.zbel.txt 1
-data.zcel.txt 1
-data.zeqv.txt 1
+data.ng.txt 3.1086847136800873
+data.ok.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zbel.txt 3.1086847136800873
+data.zcel.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873

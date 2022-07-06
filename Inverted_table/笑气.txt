@@ -1,4 +1,4 @@
 3
-data.zauy.txt 2
-data.zdaq.txt 20
-data.zdar.txt 24
+data.zauy.txt 5.688648708166832
+data.zdaq.txt 15.764632173682532
+data.zdar.txt 16.667439452261302

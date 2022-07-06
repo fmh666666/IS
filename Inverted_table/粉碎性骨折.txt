@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.zaop.txt 1
-data.zcsu.txt 1
-data.zdgt.txt 2
-data.zejk.txt 1
+data.be.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zdgt.txt 5.1274494005309625
+data.zejk.txt 3.235060386727117

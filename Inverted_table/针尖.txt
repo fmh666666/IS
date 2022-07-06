@@ -1,10 +1,10 @@
 9
-data.pa.txt 1
-data.to.txt 1
-data.zaop.txt 1
-data.zaxk.txt 1
-data.zbpm.txt 1
-data.zdof.txt 1
-data.zduk.txt 1
-data.zeqv.txt 1
-data.zfaz.txt 1
+data.pa.txt 2.82763771717948
+data.to.txt 2.82763771717948
+data.zaop.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zbpm.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948

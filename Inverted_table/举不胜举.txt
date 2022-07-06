@@ -1,5 +1,5 @@
 4
-data.zcbe.txt 1
-data.zdcw.txt 1
-data.zedk.txt 2
-data.zeob.txt 2
+data.zcbe.txt 3.389731710180695
+data.zdcw.txt 3.389731710180695
+data.zedk.txt 5.372597648141796
+data.zeob.txt 5.372597648141796

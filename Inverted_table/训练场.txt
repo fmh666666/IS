@@ -1,10 +1,10 @@
 9
-data.zbmw.txt 1
-data.zbpx.txt 1
-data.zbvf.txt 1
-data.zbvg.txt 1
-data.zctm.txt 2
-data.zczl.txt 1
-data.zeob.txt 1
-data.zess.txt 1
-data.zfai.txt 1
+data.zbmw.txt 2.82763771717948
+data.zbpx.txt 2.82763771717948
+data.zbvf.txt 2.82763771717948
+data.zbvg.txt 2.82763771717948
+data.zctm.txt 4.48169974735425
+data.zczl.txt 2.82763771717948
+data.zeob.txt 2.82763771717948
+data.zess.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

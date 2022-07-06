@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.ye.txt 1
-data.zane.txt 1
-data.zasq.txt 1
-data.zbla.txt 3
-data.zezy.txt 1
+data.tv.txt 3.1086847136800873
+data.ye.txt 3.1086847136800873
+data.zane.txt 3.1086847136800873
+data.zasq.txt 3.1086847136800873
+data.zbla.txt 6.2173694273601745
+data.zezy.txt 3.1086847136800873

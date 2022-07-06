@@ -1,7 +1,7 @@
 6
-data.jd.txt 1
-data.zaop.txt 1
-data.zarr.txt 1
-data.zcql.txt 1
-data.zdga.txt 1
-data.zeag.txt 1
+data.jd.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zarr.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zdga.txt 3.1086847136800873
+data.zeag.txt 3.1086847136800873

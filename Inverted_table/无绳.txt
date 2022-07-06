@@ -1,4 +1,4 @@
 3
-data.zcku.txt 3
-data.zctm.txt 1
-data.zdqx.txt 1
+data.zcku.txt 7.1782754551965775
+data.zctm.txt 3.5891377275982888
+data.zdqx.txt 3.5891377275982888

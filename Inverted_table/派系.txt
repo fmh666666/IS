@@ -1,9 +1,9 @@
 8
-data.cf.txt 5
-data.zako.txt 5
-data.zbnx.txt 1
-data.zcdz.txt 1
-data.zcon.txt 1
-data.zdcj.txt 6
-data.zeaj.txt 1
-data.zeqn.txt 1
+data.cf.txt 7.52037633398548
+data.zako.txt 7.52037633398548
+data.zbnx.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdcj.txt 8.16737786758984
+data.zeaj.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935

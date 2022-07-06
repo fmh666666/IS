@@ -1,3 +1,3 @@
 2
-data.zabe.txt 24
-data.zahd.txt 1
+data.zabe.txt 17.972581286578244
+data.zahd.txt 3.8701847240988965

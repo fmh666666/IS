@@ -1,8 +1,8 @@
 7
-data.by.txt 1
-data.mx.txt 1
-data.zahd.txt 1
-data.zarc.txt 1
-data.zcll.txt 1
-data.zdby.txt 1
-data.zdkv.txt 1
+data.by.txt 3.0018356045764243
+data.mx.txt 3.0018356045764243
+data.zahd.txt 3.0018356045764243
+data.zarc.txt 3.0018356045764243
+data.zcll.txt 3.0018356045764243
+data.zdby.txt 3.0018356045764243
+data.zdkv.txt 3.0018356045764243

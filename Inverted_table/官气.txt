@@ -1,10 +1,10 @@
 9
-data.zazo.txt 1
-data.zbcj.txt 1
-data.zbha.txt 1
-data.zcdz.txt 1
-data.zcrk.txt 1
-data.zdcy.txt 2
-data.zdnc.txt 1
-data.zfaj.txt 1
-data.zfaz.txt 1
+data.zazo.txt 2.82763771717948
+data.zbcj.txt 2.82763771717948
+data.zbha.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcrk.txt 2.82763771717948
+data.zdcy.txt 4.48169974735425
+data.zdnc.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948

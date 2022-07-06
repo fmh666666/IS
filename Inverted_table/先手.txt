@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zapf.txt 1
-data.zaqf.txt 1
-data.zdnc.txt 1
-data.zefv.txt 1
-data.zewv.txt 1
+data.hp.txt 3.1086847136800873
+data.zapf.txt 3.1086847136800873
+data.zaqf.txt 3.1086847136800873
+data.zdnc.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zewv.txt 3.1086847136800873

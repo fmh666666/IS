@@ -1,9 +1,9 @@
 8
-data.ga.txt 3
-data.hp.txt 5
-data.ok.txt 3
-data.zawb.txt 1
-data.zayd.txt 1
-data.zbsm.txt 2
-data.zctp.txt 1
-data.zfaj.txt 1
+data.ga.txt 5.818557392524987
+data.hp.txt 7.52037633398548
+data.ok.txt 5.818557392524987
+data.zawb.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbsm.txt 4.611097637722987
+data.zctp.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

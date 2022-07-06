@@ -1,4 +1,4 @@
 3
-data.zbwa.txt 1
-data.zcni.txt 1
-data.zduc.txt 1
+data.zbwa.txt 3.5891377275982888
+data.zcni.txt 3.5891377275982888
+data.zduc.txt 3.5891377275982888

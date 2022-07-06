@@ -1,6 +1,6 @@
 5
-data.zbaq.txt 1
-data.zbjk.txt 1
-data.zbyb.txt 1
-data.zdoc.txt 1
-data.zelt.txt 1
+data.zbaq.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.zail.txt 1
-data.zarc.txt 1
-data.zcdl.txt 1
-data.zdgo.txt 1
-data.zdux.txt 1
-data.zdzi.txt 1
-data.zemf.txt 1
-data.zevy.txt 1
+data.zail.txt 2.9092786962624935
+data.zarc.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zemf.txt 2.9092786962624935
+data.zevy.txt 2.9092786962624935

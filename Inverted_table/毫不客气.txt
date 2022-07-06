@@ -1,10 +1,10 @@
 9
-data.ev.txt 2
-data.mx.txt 1
-data.zaic.txt 1
-data.zaub.txt 1
-data.zawc.txt 2
-data.zbpm.txt 1
-data.zbxw.txt 1
-data.zczp.txt 1
-data.zfai.txt 1
+data.ev.txt 4.48169974735425
+data.mx.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zaub.txt 2.82763771717948
+data.zawc.txt 4.48169974735425
+data.zbpm.txt 2.82763771717948
+data.zbxw.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

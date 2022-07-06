@@ -1,7 +1,7 @@
 6
-data.to.txt 1
-data.zbor.txt 1
-data.zbpm.txt 1
-data.zcgi.txt 1
-data.zcll.txt 6
-data.zdwl.txt 2
+data.to.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zbpm.txt 3.1086847136800873
+data.zcgi.txt 3.1086847136800873
+data.zcll.txt 8.727181332075027
+data.zdwl.txt 4.927148697748023

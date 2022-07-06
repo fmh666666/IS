@@ -1,6 +1,6 @@
 5
-data.zank.txt 1
-data.zbdb.txt 2
-data.zcue.txt 1
-data.zcxp.txt 1
-data.zdgt.txt 1
+data.zank.txt 3.235060386727117
+data.zbdb.txt 5.1274494005309625
+data.zcue.txt 3.235060386727117
+data.zcxp.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117

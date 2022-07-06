@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.zaop.txt 1
-data.zayv.txt 2
-data.zcaq.txt 2
-data.zctp.txt 1
-data.zeay.txt 1
+data.ga.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zayv.txt 4.927148697748023
+data.zcaq.txt 4.927148697748023
+data.zctp.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873

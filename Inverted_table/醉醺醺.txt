@@ -1,4 +1,4 @@
 3
-data.sq.txt 1
-data.vi.txt 1
-data.zail.txt 1
+data.sq.txt 3.5891377275982888
+data.vi.txt 3.5891377275982888
+data.zail.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zbes.txt 1
-data.zbmt.txt 1
-data.zbsd.txt 1
-data.zevq.txt 1
+data.zaim.txt 3.235060386727117
+data.zbes.txt 3.235060386727117
+data.zbmt.txt 3.235060386727117
+data.zbsd.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

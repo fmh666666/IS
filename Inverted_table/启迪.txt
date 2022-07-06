@@ -1,14 +1,14 @@
 13
-data.cz.txt 1
-data.fe.txt 1
-data.zafy.txt 1
-data.zarr.txt 5
-data.zasq.txt 2
-data.zbdb.txt 1
-data.zcem.txt 1
-data.zcmv.txt 1
-data.zcvq.txt 1
-data.zdnh.txt 4
-data.zdpf.txt 1
-data.zeeh.txt 1
-data.zewp.txt 1
+data.cz.txt 2.5727503226135906
+data.fe.txt 2.5727503226135906
+data.zafy.txt 2.5727503226135906
+data.zarr.txt 6.650463107674388
+data.zasq.txt 4.077712785060798
+data.zbdb.txt 2.5727503226135906
+data.zcem.txt 2.5727503226135906
+data.zcmv.txt 2.5727503226135906
+data.zcvq.txt 2.5727503226135906
+data.zdnh.txt 5.97374125520702
+data.zdpf.txt 2.5727503226135906
+data.zeeh.txt 2.5727503226135906
+data.zewp.txt 2.5727503226135906

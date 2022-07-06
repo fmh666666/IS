@@ -1,2 +1,2 @@
 1
-data.zdfl.txt 1
+data.zdfl.txt 4.350637738017098

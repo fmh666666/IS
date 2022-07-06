@@ -1,9 +1,9 @@
 8
-data.zank.txt 1
-data.zbeb.txt 1
-data.zcjo.txt 1
-data.zdil.txt 1
-data.zdle.txt 1
-data.zduo.txt 2
-data.zdzm.txt 1
-data.zeds.txt 1
+data.zank.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zcjo.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zdle.txt 2.9092786962624935
+data.zduo.txt 4.611097637722987
+data.zdzm.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935

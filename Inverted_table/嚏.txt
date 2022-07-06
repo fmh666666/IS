@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zbhv.txt 1
-data.zciy.txt 1
-data.zerv.txt 2
-data.zewn.txt 2
+data.gk.txt 3.235060386727117
+data.zbhv.txt 3.235060386727117
+data.zciy.txt 3.235060386727117
+data.zerv.txt 5.1274494005309625
+data.zewn.txt 5.1274494005309625

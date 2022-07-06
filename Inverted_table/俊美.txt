@@ -1,12 +1,12 @@
 11
-data.zajo.txt 1
-data.zbkr.txt 1
-data.zblr.txt 1
-data.zclh.txt 1
-data.zdkp.txt 1
-data.zdme.txt 1
-data.zeai.txt 1
-data.zedd.txt 1
-data.zefp.txt 1
-data.zexm.txt 1
-data.zfcp.txt 1
+data.zajo.txt 2.6885433903988862
+data.zbkr.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zclh.txt 2.6885433903988862
+data.zdkp.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862
+data.zexm.txt 2.6885433903988862
+data.zfcp.txt 2.6885433903988862

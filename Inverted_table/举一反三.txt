@@ -1,5 +1,5 @@
 4
-data.mt.txt 1
-data.pn.txt 1
-data.zaej.txt 1
-data.zdvl.txt 1
+data.mt.txt 3.389731710180695
+data.pn.txt 3.389731710180695
+data.zaej.txt 3.389731710180695
+data.zdvl.txt 3.389731710180695

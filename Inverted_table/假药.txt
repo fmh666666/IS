@@ -1,13 +1,13 @@
 12
-data.ff.txt 1
-data.zawb.txt 1
-data.zbjc.txt 1
-data.zbjq.txt 1
-data.zbnx.txt 1
-data.zciq.txt 1
-data.zcse.txt 1
-data.zdcj.txt 2
-data.zecf.txt 1
-data.zerh.txt 2
-data.zevq.txt 1
-data.zfaj.txt 2
+data.ff.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbjc.txt 2.628231699761886
+data.zbjq.txt 2.628231699761886
+data.zbnx.txt 2.628231699761886
+data.zciq.txt 2.628231699761886
+data.zcse.txt 2.628231699761886
+data.zdcj.txt 4.165648687329214
+data.zecf.txt 2.628231699761886
+data.zerh.txt 4.165648687329214
+data.zevq.txt 2.628231699761886
+data.zfaj.txt 4.165648687329214

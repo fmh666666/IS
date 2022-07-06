@@ -1,10 +1,10 @@
 9
-data.zblr.txt 1
-data.zbyv.txt 1
-data.zcdv.txt 1
-data.zclm.txt 2
-data.zctp.txt 1
-data.zdaq.txt 1
-data.zdpf.txt 1
-data.zebv.txt 1
-data.zedd.txt 1
+data.zblr.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zclm.txt 4.48169974735425
+data.zctp.txt 2.82763771717948
+data.zdaq.txt 2.82763771717948
+data.zdpf.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zedd.txt 2.82763771717948

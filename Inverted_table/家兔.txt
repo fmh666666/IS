@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zbbt.txt 1
-data.zbux.txt 1
-data.zciq.txt 1
-data.zddp.txt 1
+data.fp.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zbux.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zddp.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.zaxx.txt 1
-data.zbhe.txt 1
-data.zdju.txt 1
-data.zfcj.txt 2
+data.zaxx.txt 3.389731710180695
+data.zbhe.txt 3.389731710180695
+data.zdju.txt 3.389731710180695
+data.zfcj.txt 5.372597648141796

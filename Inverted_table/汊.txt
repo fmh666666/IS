@@ -1,2 +1,2 @@
 1
-data.zddm.txt 2
+data.zddm.txt 6.8955976689794145

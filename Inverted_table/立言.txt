@@ -1,4 +1,4 @@
 3
-data.zbpc.txt 2
-data.zcdg.txt 1
-data.zelt.txt 1
+data.zbpc.txt 5.688648708166832
+data.zcdg.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

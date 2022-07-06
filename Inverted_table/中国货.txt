@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zaic.txt 1
-data.zbvm.txt 2
-data.zeay.txt 1
-data.zelt.txt 1
+data.fp.txt 3.235060386727117
+data.zaic.txt 3.235060386727117
+data.zbvm.txt 5.1274494005309625
+data.zeay.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zccu.txt 1
-data.zctp.txt 6
-data.zfaz.txt 1
+data.zccu.txt 3.5891377275982888
+data.zctp.txt 10.0759834655157
+data.zfaz.txt 3.5891377275982888

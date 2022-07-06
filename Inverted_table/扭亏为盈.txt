@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zbaf.txt 1
-data.zcmx.txt 1
+data.ud.txt 3.5891377275982888
+data.zbaf.txt 3.5891377275982888
+data.zcmx.txt 3.5891377275982888

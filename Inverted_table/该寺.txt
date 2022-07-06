@@ -1,9 +1,9 @@
 8
-data.jd.txt 1
-data.jf.txt 1
-data.zafq.txt 1
-data.zaop.txt 1
-data.zawb.txt 1
-data.zazo.txt 1
-data.zbor.txt 1
-data.zbzf.txt 1
+data.jd.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zaop.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zazo.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935

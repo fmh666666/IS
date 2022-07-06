@@ -1,6 +1,6 @@
 5
-data.zahd.txt 1
-data.zawu.txt 1
-data.zbdb.txt 1
-data.zbsl.txt 3
-data.zbsm.txt 1
+data.zahd.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbsl.txt 6.470120773454234
+data.zbsm.txt 3.235060386727117

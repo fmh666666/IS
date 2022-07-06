@@ -1,9 +1,9 @@
 8
-data.hc.txt 1
-data.vi.txt 1
-data.zank.txt 1
-data.zayd.txt 1
-data.zcls.txt 1
-data.zcon.txt 1
-data.zekw.txt 1
-data.zezh.txt 1
+data.hc.txt 2.9092786962624935
+data.vi.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zcls.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zekw.txt 2.9092786962624935
+data.zezh.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.zdaq.txt 1
-data.zdbf.txt 1
-data.zdds.txt 1
-data.zduk.txt 1
-data.zebn.txt 2
-data.zefv.txt 1
+data.zdaq.txt 3.1086847136800873
+data.zdbf.txt 3.1086847136800873
+data.zdds.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zebn.txt 4.927148697748023
+data.zefv.txt 3.1086847136800873

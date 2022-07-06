@@ -1,9 +1,9 @@
 8
-data.ha.txt 1
-data.zavg.txt 2
-data.zblq.txt 1
-data.zbyb.txt 1
-data.zcxq.txt 1
-data.zeac.txt 1
-data.zeoo.txt 2
-data.zfae.txt 1
+data.ha.txt 2.9092786962624935
+data.zavg.txt 4.611097637722987
+data.zblq.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcxq.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935
+data.zeoo.txt 4.611097637722987
+data.zfae.txt 2.9092786962624935

@@ -1,8 +1,8 @@
 7
-data.ev.txt 1
-data.fz.txt 1
-data.zafk.txt 1
-data.zcdv.txt 1
-data.zcxp.txt 1
-data.zdmw.txt 1
-data.zeai.txt 1
+data.ev.txt 3.0018356045764243
+data.fz.txt 3.0018356045764243
+data.zafk.txt 3.0018356045764243
+data.zcdv.txt 3.0018356045764243
+data.zcxp.txt 3.0018356045764243
+data.zdmw.txt 3.0018356045764243
+data.zeai.txt 3.0018356045764243

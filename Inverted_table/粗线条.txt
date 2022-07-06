@@ -1,6 +1,6 @@
 5
-data.fz.txt 1
-data.zbut.txt 1
-data.zcqg.txt 2
-data.zcww.txt 1
-data.zene.txt 1
+data.fz.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zcqg.txt 5.1274494005309625
+data.zcww.txt 3.235060386727117
+data.zene.txt 3.235060386727117

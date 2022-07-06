@@ -1,4 +1,4 @@
 3
-data.jf.txt 3
-data.zaip.txt 1
-data.zbgd.txt 1
+data.jf.txt 7.1782754551965775
+data.zaip.txt 3.5891377275982888
+data.zbgd.txt 3.5891377275982888

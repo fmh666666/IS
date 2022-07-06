@@ -1,5 +1,5 @@
 4
-data.zavx.txt 1
-data.zawo.txt 2
-data.zchw.txt 1
-data.zcvt.txt 1
+data.zavx.txt 3.389731710180695
+data.zawo.txt 5.372597648141796
+data.zchw.txt 3.389731710180695
+data.zcvt.txt 3.389731710180695

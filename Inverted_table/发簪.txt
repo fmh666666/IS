@@ -1,11 +1,11 @@
 10
-data.be.txt 2
-data.kt.txt 1
-data.zadv.txt 1
-data.zafy.txt 1
-data.zarc.txt 1
-data.zaxj.txt 1
-data.zclm.txt 1
-data.zdby.txt 1
-data.zeai.txt 1
-data.zedy.txt 1
+data.be.txt 4.365949390112154
+data.kt.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zafy.txt 2.7546073728089153
+data.zarc.txt 2.7546073728089153
+data.zaxj.txt 2.7546073728089153
+data.zclm.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zeai.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zalj.txt 1
-data.zbkv.txt 1
-data.zbye.txt 4
-data.zcse.txt 2
-data.zefd.txt 1
-data.zemb.txt 2
-data.zfae.txt 2
+data.op.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbye.txt 6.7551359407091605
+data.zcse.txt 4.611097637722987
+data.zefd.txt 2.9092786962624935
+data.zemb.txt 4.611097637722987
+data.zfae.txt 4.611097637722987

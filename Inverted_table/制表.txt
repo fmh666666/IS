@@ -1,6 +1,6 @@
 5
-data.uz.txt 1
-data.zalt.txt 1
-data.zamr.txt 1
-data.zauy.txt 1
-data.zbkr.txt 1
+data.uz.txt 3.235060386727117
+data.zalt.txt 3.235060386727117
+data.zamr.txt 3.235060386727117
+data.zauy.txt 3.235060386727117
+data.zbkr.txt 3.235060386727117

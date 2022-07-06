@@ -1,9 +1,9 @@
 8
-data.zajh.txt 1
-data.zako.txt 1
-data.zbhd.txt 1
-data.zbjh.txt 1
-data.zblq.txt 1
-data.zcli.txt 1
-data.zcll.txt 2
-data.zfas.txt 1
+data.zajh.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zcli.txt 2.9092786962624935
+data.zcll.txt 4.611097637722987
+data.zfas.txt 2.9092786962624935

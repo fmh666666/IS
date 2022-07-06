@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.kt.txt 1
-data.mt.txt 5
-data.zasr.txt 1
-data.zbla.txt 1
-data.zcmx.txt 1
-data.zdar.txt 1
-data.zduk.txt 1
+data.hp.txt 2.9092786962624935
+data.kt.txt 2.9092786962624935
+data.mt.txt 7.52037633398548
+data.zasr.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zdar.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935

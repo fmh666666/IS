@@ -1,5 +1,5 @@
 4
-data.zbut.txt 2
-data.zcda.txt 1
-data.zcfn.txt 1
-data.zcts.txt 1
+data.zbut.txt 5.372597648141796
+data.zcda.txt 3.389731710180695
+data.zcfn.txt 3.389731710180695
+data.zcts.txt 3.389731710180695

@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.mx.txt 1
-data.tz.txt 1
-data.zcdy.txt 1
-data.zcej.txt 1
-data.zdaa.txt 1
-data.zdcj.txt 1
+data.kq.txt 3.0018356045764243
+data.mx.txt 3.0018356045764243
+data.tz.txt 3.0018356045764243
+data.zcdy.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zdaa.txt 3.0018356045764243
+data.zdcj.txt 3.0018356045764243

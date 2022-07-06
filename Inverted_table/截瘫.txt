@@ -1,10 +1,10 @@
 9
-data.zaop.txt 2
-data.zbkj.txt 1
-data.zbpm.txt 1
-data.zcql.txt 1
-data.zddm.txt 1
-data.zdgt.txt 1
-data.zdof.txt 1
-data.zefv.txt 1
-data.zezn.txt 1
+data.zaop.txt 4.48169974735425
+data.zbkj.txt 2.82763771717948
+data.zbpm.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zddm.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zefv.txt 2.82763771717948
+data.zezn.txt 2.82763771717948

@@ -1,2 +1,2 @@
 1
-data.kt.txt 50
+data.kt.txt 24.678667758865732

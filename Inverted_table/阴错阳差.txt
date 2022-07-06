@@ -1,14 +1,14 @@
 13
-data.pa.txt 1
-data.qn.txt 1
-data.zadv.txt 1
-data.zaet.txt 1
-data.zall.txt 1
-data.zamp.txt 1
-data.zbla.txt 1
-data.zblq.txt 1
-data.zcjo.txt 1
-data.zdkp.txt 2
-data.zdud.txt 1
-data.zeew.txt 1
-data.zfcp.txt 1
+data.pa.txt 2.5727503226135906
+data.qn.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zaet.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zamp.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zcjo.txt 2.5727503226135906
+data.zdkp.txt 4.077712785060798
+data.zdud.txt 2.5727503226135906
+data.zeew.txt 2.5727503226135906
+data.zfcp.txt 2.5727503226135906

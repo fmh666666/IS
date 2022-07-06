@@ -1,13 +1,13 @@
 12
-data.ek.txt 1
-data.zane.txt 1
-data.zawc.txt 1
-data.zbkf.txt 1
-data.zbwq.txt 1
-data.zctp.txt 1
-data.zdep.txt 1
-data.zdgt.txt 2
-data.zdle.txt 1
-data.zdpg.txt 1
-data.zelt.txt 2
-data.zene.txt 5
+data.ek.txt 2.628231699761886
+data.zane.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbkf.txt 2.628231699761886
+data.zbwq.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zdep.txt 2.628231699761886
+data.zdgt.txt 4.165648687329214
+data.zdle.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886
+data.zelt.txt 4.165648687329214
+data.zene.txt 6.7938803870911

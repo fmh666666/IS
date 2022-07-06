@@ -1,13 +1,13 @@
 12
-data.dg.txt 4
-data.zate.txt 2
-data.zbeb.txt 2
-data.zbfr.txt 1
-data.zcak.txt 1
-data.zclm.txt 1
-data.zddx.txt 1
-data.zeec.txt 2
-data.zefs.txt 1
-data.zeik.txt 1
-data.zess.txt 1
-data.zezn.txt 1
+data.dg.txt 6.1025650235506905
+data.zate.txt 4.165648687329214
+data.zbeb.txt 4.165648687329214
+data.zbfr.txt 2.628231699761886
+data.zcak.txt 2.628231699761886
+data.zclm.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zeec.txt 4.165648687329214
+data.zefs.txt 2.628231699761886
+data.zeik.txt 2.628231699761886
+data.zess.txt 2.628231699761886
+data.zezn.txt 2.628231699761886

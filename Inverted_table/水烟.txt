@@ -1,8 +1,8 @@
 7
-data.kt.txt 1
-data.zadv.txt 1
-data.zaqw.txt 1
-data.zavx.txt 1
-data.zbfr.txt 1
-data.zcnn.txt 1
-data.zegz.txt 1
+data.kt.txt 3.0018356045764243
+data.zadv.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zavx.txt 3.0018356045764243
+data.zbfr.txt 3.0018356045764243
+data.zcnn.txt 3.0018356045764243
+data.zegz.txt 3.0018356045764243

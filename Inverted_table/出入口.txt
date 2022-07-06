@@ -1,10 +1,10 @@
 9
-data.hz.txt 1
-data.ok.txt 1
-data.vm.txt 2
-data.zalt.txt 2
-data.zbnp.txt 2
-data.zclm.txt 1
-data.zddb.txt 1
-data.zdzg.txt 1
-data.zejn.txt 1
+data.hz.txt 2.82763771717948
+data.ok.txt 2.82763771717948
+data.vm.txt 4.48169974735425
+data.zalt.txt 4.48169974735425
+data.zbnp.txt 4.48169974735425
+data.zclm.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zejn.txt 2.82763771717948

@@ -1,14 +1,14 @@
 13
-data.tv.txt 1
-data.zabx.txt 1
-data.zarc.txt 1
-data.zbot.txt 1
-data.zbpm.txt 3
-data.zcon.txt 1
-data.zedd.txt 7
-data.zejn.txt 2
-data.zeos.txt 1
-data.zeqn.txt 3
-data.zewv.txt 9
-data.zfai.txt 1
-data.zfdk.txt 3
+data.tv.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zarc.txt 2.5727503226135906
+data.zbot.txt 2.5727503226135906
+data.zbpm.txt 5.145500645227181
+data.zcon.txt 2.5727503226135906
+data.zedd.txt 7.7182509678407705
+data.zejn.txt 4.077712785060798
+data.zeos.txt 2.5727503226135906
+data.zeqn.txt 5.145500645227181
+data.zewv.txt 8.546491577820612
+data.zfai.txt 2.5727503226135906
+data.zfdk.txt 5.145500645227181

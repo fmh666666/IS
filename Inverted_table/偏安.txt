@@ -1,4 +1,4 @@
 3
-data.op.txt 2
-data.tv.txt 1
-data.zaxj.txt 4
+data.op.txt 5.688648708166832
+data.tv.txt 3.5891377275982888
+data.zaxj.txt 8.333719726130651

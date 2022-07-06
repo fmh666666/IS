@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.jf.txt 1
-data.zawb.txt 1
-data.zcdv.txt 1
-data.zcvq.txt 1
-data.zeag.txt 2
-data.zemb.txt 1
-data.zene.txt 1
+data.fp.txt 2.9092786962624935
+data.jf.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zeag.txt 4.611097637722987
+data.zemb.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

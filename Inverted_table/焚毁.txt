@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zaim.txt 1
-data.zaql.txt 1
-data.zawc.txt 1
-data.zbdb.txt 1
+data.op.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zaql.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.nh.txt 1
-data.zaic.txt 1
-data.zbbt.txt 1
-data.zcdg.txt 1
-data.zcue.txt 1
-data.zeec.txt 1
+data.nh.txt 3.1086847136800873
+data.zaic.txt 3.1086847136800873
+data.zbbt.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873

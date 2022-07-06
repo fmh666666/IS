@@ -1,8 +1,8 @@
 7
-data.tj.txt 1
-data.zaeh.txt 1
-data.zasq.txt 1
-data.zedx.txt 1
-data.zenn.txt 1
-data.zeob.txt 1
-data.zfae.txt 1
+data.tj.txt 3.0018356045764243
+data.zaeh.txt 3.0018356045764243
+data.zasq.txt 3.0018356045764243
+data.zedx.txt 3.0018356045764243
+data.zenn.txt 3.0018356045764243
+data.zeob.txt 3.0018356045764243
+data.zfae.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.fe.txt 2
-data.zalj.txt 1
-data.zbqu.txt 1
-data.zdgp.txt 1
-data.zdxw.txt 1
+data.fe.txt 5.1274494005309625
+data.zalj.txt 3.235060386727117
+data.zbqu.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117

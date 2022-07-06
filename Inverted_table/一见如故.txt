@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.zail.txt 1
-data.zajn.txt 1
-data.zall.txt 1
-data.zarc.txt 1
-data.zbuj.txt 1
-data.zbyb.txt 2
-data.zccu.txt 1
-data.zdoq.txt 2
-data.zdyv.txt 1
+data.bb.txt 2.7546073728089153
+data.zail.txt 2.7546073728089153
+data.zajn.txt 2.7546073728089153
+data.zall.txt 2.7546073728089153
+data.zarc.txt 2.7546073728089153
+data.zbuj.txt 2.7546073728089153
+data.zbyb.txt 4.365949390112154
+data.zccu.txt 2.7546073728089153
+data.zdoq.txt 4.365949390112154
+data.zdyv.txt 2.7546073728089153

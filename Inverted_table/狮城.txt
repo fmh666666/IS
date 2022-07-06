@@ -1,5 +1,5 @@
 4
-data.dg.txt 1
-data.zbdb.txt 1
-data.zeos.txt 1
-data.zfaj.txt 1
+data.dg.txt 3.389731710180695
+data.zbdb.txt 3.389731710180695
+data.zeos.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

@@ -1,10 +1,10 @@
 9
-data.xe.txt 1
-data.zasq.txt 2
-data.zawu.txt 1
-data.zcku.txt 1
-data.zcvq.txt 1
-data.zdcj.txt 1
-data.zdep.txt 1
-data.zdlo.txt 1
-data.zelj.txt 2
+data.xe.txt 2.82763771717948
+data.zasq.txt 4.48169974735425
+data.zawu.txt 2.82763771717948
+data.zcku.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zdlo.txt 2.82763771717948
+data.zelj.txt 4.48169974735425

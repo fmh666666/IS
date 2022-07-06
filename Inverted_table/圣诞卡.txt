@@ -1,5 +1,5 @@
 4
-data.ek.txt 6
-data.zbcc.txt 1
-data.zbzo.txt 1
-data.zecf.txt 1
+data.ek.txt 9.516180001030515
+data.zbcc.txt 3.389731710180695
+data.zbzo.txt 3.389731710180695
+data.zecf.txt 3.389731710180695

@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.to.txt 1
-data.ud.txt 1
-data.zadv.txt 1
-data.zbaf.txt 1
-data.zbhe.txt 1
-data.zbph.txt 1
-data.zchw.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 1
-data.zfaj.txt 1
+data.ga.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.ud.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zbaf.txt 2.6885433903988862
+data.zbhe.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zchw.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

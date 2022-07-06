@@ -1,13 +1,13 @@
 12
-data.pn.txt 1
-data.zanh.txt 1
-data.zasr.txt 1
-data.zbfz.txt 1
-data.zbye.txt 1
-data.zccl.txt 1
-data.zcdg.txt 1
-data.zchd.txt 1
-data.zdmw.txt 1
-data.zeez.txt 2
-data.zeqv.txt 1
-data.zerh.txt 1
+data.pn.txt 2.628231699761886
+data.zanh.txt 2.628231699761886
+data.zasr.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbye.txt 2.628231699761886
+data.zccl.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zchd.txt 2.628231699761886
+data.zdmw.txt 2.628231699761886
+data.zeez.txt 4.165648687329214
+data.zeqv.txt 2.628231699761886
+data.zerh.txt 2.628231699761886

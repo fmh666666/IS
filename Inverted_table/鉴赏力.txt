@@ -1,4 +1,4 @@
 3
-data.zbdb.txt 1
-data.zcrg.txt 1
-data.zeaf.txt 2
+data.zbdb.txt 3.5891377275982888
+data.zcrg.txt 3.5891377275982888
+data.zeaf.txt 5.688648708166832

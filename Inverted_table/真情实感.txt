@@ -1,7 +1,7 @@
 6
-data.wc.txt 1
-data.zbqu.txt 1
-data.zbwa.txt 1
-data.zcsu.txt 1
-data.zdbf.txt 1
-data.zdzg.txt 1
+data.wc.txt 3.1086847136800873
+data.zbqu.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zcsu.txt 3.1086847136800873
+data.zdbf.txt 3.1086847136800873
+data.zdzg.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.zasr.txt 1
-data.zass.txt 1
-data.zdgt.txt 1
-data.zdoq.txt 1
-data.zduc.txt 1
-data.zelj.txt 1
-data.zewg.txt 3
-data.zexm.txt 1
-data.zfae.txt 1
+data.zasr.txt 2.82763771717948
+data.zass.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdoq.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zelj.txt 2.82763771717948
+data.zewg.txt 5.65527543435896
+data.zexm.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

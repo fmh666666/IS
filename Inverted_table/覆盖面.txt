@@ -1,4 +1,4 @@
 3
-data.zawb.txt 1
-data.zbmt.txt 1
-data.zfai.txt 1
+data.zawb.txt 3.5891377275982888
+data.zbmt.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

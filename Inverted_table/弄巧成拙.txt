@@ -1,5 +1,5 @@
 4
-data.zbsd.txt 1
-data.zcql.txt 2
-data.zdzi.txt 1
-data.zfdk.txt 1
+data.zbsd.txt 3.389731710180695
+data.zcql.txt 5.372597648141796
+data.zdzi.txt 3.389731710180695
+data.zfdk.txt 3.389731710180695

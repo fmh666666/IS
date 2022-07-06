@@ -1,14 +1,14 @@
 13
-data.cf.txt 1
-data.fp.txt 1
-data.sq.txt 1
-data.zacw.txt 1
-data.zake.txt 1
-data.zank.txt 1
-data.zbyv.txt 1
-data.zcpx.txt 1
-data.zdpf.txt 2
-data.zdwd.txt 1
-data.zedy.txt 1
-data.zeeh.txt 2
-data.zehp.txt 1
+data.cf.txt 2.5727503226135906
+data.fp.txt 2.5727503226135906
+data.sq.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zake.txt 2.5727503226135906
+data.zank.txt 2.5727503226135906
+data.zbyv.txt 2.5727503226135906
+data.zcpx.txt 2.5727503226135906
+data.zdpf.txt 4.077712785060798
+data.zdwd.txt 2.5727503226135906
+data.zedy.txt 2.5727503226135906
+data.zeeh.txt 4.077712785060798
+data.zehp.txt 2.5727503226135906

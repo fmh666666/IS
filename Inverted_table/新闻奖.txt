@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zawu.txt 1
-data.zaxx.txt 1
-data.zbfz.txt 1
-data.zcmy.txt 1
-data.zcni.txt 1
-data.zczb.txt 1
-data.zeos.txt 1
+data.gw.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zczb.txt 2.9092786962624935
+data.zeos.txt 2.9092786962624935

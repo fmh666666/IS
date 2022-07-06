@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.vm.txt 1
-data.zavx.txt 2
-data.zbpm.txt 3
-data.zeqv.txt 1
+data.mk.txt 3.235060386727117
+data.vm.txt 3.235060386727117
+data.zavx.txt 5.1274494005309625
+data.zbpm.txt 6.470120773454234
+data.zeqv.txt 3.235060386727117

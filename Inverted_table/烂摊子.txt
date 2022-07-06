@@ -1,10 +1,10 @@
 9
-data.zanh.txt 1
-data.zawc.txt 1
-data.zbta.txt 2
-data.zcef.txt 1
-data.zddv.txt 1
-data.zdxw.txt 1
-data.zehp.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
+data.zanh.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbta.txt 4.48169974735425
+data.zcef.txt 2.82763771717948
+data.zddv.txt 2.82763771717948
+data.zdxw.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

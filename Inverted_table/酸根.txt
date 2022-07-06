@@ -1,2 +1,2 @@
 1
-data.zbpm.txt 3
+data.zbpm.txt 8.701275476034196

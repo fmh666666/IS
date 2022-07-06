@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.zcej.txt 2
-data.zcqe.txt 2
-data.zeqn.txt 1
+data.ga.txt 3.389731710180695
+data.zcej.txt 5.372597648141796
+data.zcqe.txt 5.372597648141796
+data.zeqn.txt 3.389731710180695

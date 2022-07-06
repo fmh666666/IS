@@ -1,11 +1,11 @@
 10
-data.bs.txt 1
-data.mx.txt 1
-data.zaqf.txt 1
-data.zbkv.txt 1
-data.zcby.txt 1
-data.zccl.txt 1
-data.zcrk.txt 1
-data.zcxq.txt 1
-data.zejk.txt 1
-data.zewp.txt 1
+data.bs.txt 2.7546073728089153
+data.mx.txt 2.7546073728089153
+data.zaqf.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zcby.txt 2.7546073728089153
+data.zccl.txt 2.7546073728089153
+data.zcrk.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zejk.txt 2.7546073728089153
+data.zewp.txt 2.7546073728089153

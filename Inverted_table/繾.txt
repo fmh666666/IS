@@ -1,2 +1,2 @@
 1
-data.zcli.txt 1
+data.zcli.txt 4.350637738017098

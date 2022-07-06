@@ -1,7 +1,7 @@
 6
-data.hz.txt 1
-data.zbyb.txt 1
-data.zcue.txt 4
-data.zdgt.txt 1
-data.zeoo.txt 2
-data.zfai.txt 2
+data.hz.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zcue.txt 7.21814237484067
+data.zdgt.txt 3.1086847136800873
+data.zeoo.txt 4.927148697748023
+data.zfai.txt 4.927148697748023

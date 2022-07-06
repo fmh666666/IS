@@ -1,9 +1,9 @@
 8
-data.zahd.txt 1
-data.zajo.txt 1
-data.zbhd.txt 2
-data.zbhe.txt 3
-data.zcaq.txt 6
-data.zcdv.txt 1
-data.zdpw.txt 1
-data.zeew.txt 1
+data.zahd.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zbhd.txt 4.611097637722987
+data.zbhe.txt 5.818557392524987
+data.zcaq.txt 8.16737786758984
+data.zcdv.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935

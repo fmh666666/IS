@@ -1,4 +1,4 @@
 3
-data.zbpm.txt 3
-data.zexv.txt 1
-data.zeyy.txt 1
+data.zbpm.txt 7.1782754551965775
+data.zexv.txt 3.5891377275982888
+data.zeyy.txt 3.5891377275982888

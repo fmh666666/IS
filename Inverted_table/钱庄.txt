@@ -1,9 +1,9 @@
 8
-data.jd.txt 1
-data.xk.txt 1
-data.yx.txt 1
-data.zaim.txt 1
-data.zbsl.txt 1
-data.zbyb.txt 1
-data.zcdz.txt 1
-data.zelt.txt 2
+data.jd.txt 2.9092786962624935
+data.xk.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zbsl.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zelt.txt 4.611097637722987

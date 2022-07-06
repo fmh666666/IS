@@ -1,5 +1,5 @@
 4
-data.zbgd.txt 1
-data.zcvt.txt 1
-data.zcxq.txt 1
-data.zebv.txt 1
+data.zbgd.txt 3.389731710180695
+data.zcvt.txt 3.389731710180695
+data.zcxq.txt 3.389731710180695
+data.zebv.txt 3.389731710180695

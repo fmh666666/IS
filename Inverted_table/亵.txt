@@ -1,12 +1,12 @@
 11
-data.zaoc.txt 1
-data.zbbt.txt 2
-data.zbmw.txt 1
-data.zbor.txt 1
-data.zcbe.txt 1
-data.zcql.txt 1
-data.zcvt.txt 1
-data.zddv.txt 1
-data.zdof.txt 1
-data.zdwz.txt 1
-data.zevq.txt 1
+data.zaoc.txt 2.6885433903988862
+data.zbbt.txt 4.261240455343955
+data.zbmw.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zcbe.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zddv.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zevq.txt 2.6885433903988862

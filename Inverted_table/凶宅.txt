@@ -1,9 +1,9 @@
 8
-data.zazg.txt 1
-data.zbcc.txt 1
-data.zbts.txt 2
-data.zdil.txt 1
-data.zdof.txt 2
-data.zefv.txt 1
-data.zefw.txt 1
-data.zfcg.txt 1
+data.zazg.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbts.txt 4.611097637722987
+data.zdil.txt 2.9092786962624935
+data.zdof.txt 4.611097637722987
+data.zefv.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

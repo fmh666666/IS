@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zazw.txt 1
-data.zcdv.txt 1
-data.zdcy.txt 1
-data.zdkc.txt 1
+data.gk.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zdkc.txt 3.235060386727117

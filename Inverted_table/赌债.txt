@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.zbsm.txt 1
-data.zfae.txt 1
+data.hp.txt 3.5891377275982888
+data.zbsm.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zacp.txt 1
-data.zbeb.txt 1
-data.zcdl.txt 2
-data.zcxr.txt 1
-data.zefd.txt 1
+data.zacp.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zcdl.txt 5.1274494005309625
+data.zcxr.txt 3.235060386727117
+data.zefd.txt 3.235060386727117

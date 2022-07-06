@@ -1,5 +1,5 @@
 4
-data.gz.txt 1
-data.zbyb.txt 1
-data.zdgt.txt 1
-data.zfai.txt 4
+data.gz.txt 3.389731710180695
+data.zbyb.txt 3.389731710180695
+data.zdgt.txt 3.389731710180695
+data.zfai.txt 7.870713291999142

@@ -1,13 +1,13 @@
 12
-data.zane.txt 1
-data.zasq.txt 1
-data.zawb.txt 1
-data.zbnx.txt 2
-data.zbut.txt 1
-data.zchd.txt 2
-data.zcwq.txt 1
-data.zdgt.txt 1
-data.zdlm.txt 1
-data.zdvl.txt 1
-data.zelt.txt 1
-data.zfaj.txt 1
+data.zane.txt 2.628231699761886
+data.zasq.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbnx.txt 4.165648687329214
+data.zbut.txt 2.628231699761886
+data.zchd.txt 4.165648687329214
+data.zcwq.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdlm.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

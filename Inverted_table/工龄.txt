@@ -1,4 +1,4 @@
 3
-data.zdme.txt 1
-data.zefw.txt 2
-data.zfae.txt 1
+data.zdme.txt 3.5891377275982888
+data.zefw.txt 5.688648708166832
+data.zfae.txt 3.5891377275982888

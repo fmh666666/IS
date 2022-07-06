@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.jf.txt 3
-data.zahd.txt 1
-data.zdzg.txt 1
-data.zeay.txt 1
+data.bs.txt 3.235060386727117
+data.jf.txt 6.470120773454234
+data.zahd.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117
+data.zeay.txt 3.235060386727117

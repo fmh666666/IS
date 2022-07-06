@@ -1,6 +1,6 @@
 5
-data.zanm.txt 1
-data.zbcj.txt 1
-data.zcvq.txt 1
-data.zddb.txt 1
-data.zdof.txt 1
+data.zanm.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zdof.txt 3.235060386727117

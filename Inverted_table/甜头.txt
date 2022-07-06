@@ -1,6 +1,6 @@
 5
-data.zbhe.txt 1
-data.zccu.txt 2
-data.zcse.txt 1
-data.zdst.txt 1
-data.zfcj.txt 1
+data.zbhe.txt 3.235060386727117
+data.zccu.txt 5.1274494005309625
+data.zcse.txt 3.235060386727117
+data.zdst.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.bs.txt 2
-data.fj.txt 1
-data.kq.txt 1
-data.mk.txt 1
-data.zacd.txt 1
-data.zank.txt 6
-data.zawc.txt 1
-data.zcse.txt 1
-data.zelt.txt 1
+data.bs.txt 4.48169974735425
+data.fj.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.mk.txt 2.82763771717948
+data.zacd.txt 2.82763771717948
+data.zank.txt 7.938182663119541
+data.zawc.txt 2.82763771717948
+data.zcse.txt 2.82763771717948
+data.zelt.txt 2.82763771717948

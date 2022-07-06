@@ -1,3 +1,3 @@
 2
-data.cq.txt 7
-data.zbpx.txt 1
+data.cq.txt 11.61055417229669
+data.zbpx.txt 3.8701847240988965

@@ -1,10 +1,10 @@
 9
-data.zajn.txt 1
-data.zako.txt 1
-data.zbof.txt 2
-data.zcts.txt 1
-data.zcxr.txt 3
-data.zezm.txt 6
-data.zezn.txt 1
-data.zfcj.txt 1
-data.zfcp.txt 1
+data.zajn.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbof.txt 4.48169974735425
+data.zcts.txt 2.82763771717948
+data.zcxr.txt 5.65527543435896
+data.zezm.txt 7.938182663119541
+data.zezn.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948
+data.zfcp.txt 2.82763771717948

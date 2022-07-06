@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.zawc.txt 1
-data.zbkv.txt 1
-data.zbzg.txt 2
-data.zcgo.txt 2
-data.zcni.txt 1
+data.ga.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zbzg.txt 4.927148697748023
+data.zcgo.txt 4.927148697748023
+data.zcni.txt 3.1086847136800873

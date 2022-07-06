@@ -1,9 +1,9 @@
 8
-data.to.txt 1
-data.zbqu.txt 1
-data.zbsf.txt 1
-data.zcem.txt 1
-data.zdji.txt 3
-data.zdkc.txt 1
-data.zebn.txt 7
-data.zfaz.txt 1
+data.to.txt 2.9092786962624935
+data.zbqu.txt 2.9092786962624935
+data.zbsf.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zdji.txt 5.818557392524987
+data.zdkc.txt 2.9092786962624935
+data.zebn.txt 8.72783608878748
+data.zfaz.txt 2.9092786962624935

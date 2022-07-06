@@ -1,4 +1,4 @@
 3
-data.zard.txt 2
-data.zbdb.txt 1
-data.zdqk.txt 1
+data.zard.txt 5.688648708166832
+data.zbdb.txt 3.5891377275982888
+data.zdqk.txt 3.5891377275982888

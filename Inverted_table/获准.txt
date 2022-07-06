@@ -1,13 +1,13 @@
 12
-data.vm.txt 3
-data.zank.txt 1
-data.zawc.txt 1
-data.zbvp.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zdmw.txt 1
-data.zeoh.txt 1
-data.zevt.txt 1
-data.zezy.txt 2
-data.zfae.txt 1
-data.zfaj.txt 1
+data.vm.txt 5.256463399523772
+data.zank.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbvp.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcdz.txt 4.165648687329214
+data.zdmw.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zevt.txt 2.628231699761886
+data.zezy.txt 4.165648687329214
+data.zfae.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

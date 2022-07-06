@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.ka.txt 1
-data.zcku.txt 1
-data.zebv.txt 1
+data.ga.txt 3.389731710180695
+data.ka.txt 3.389731710180695
+data.zcku.txt 3.389731710180695
+data.zebv.txt 3.389731710180695

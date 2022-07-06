@@ -1,7 +1,7 @@
 6
-data.gw.txt 3
-data.zafk.txt 1
-data.zcvt.txt 1
-data.zdpf.txt 3
-data.zebv.txt 2
-data.zewd.txt 1
+data.gw.txt 6.2173694273601745
+data.zafk.txt 3.1086847136800873
+data.zcvt.txt 3.1086847136800873
+data.zdpf.txt 6.2173694273601745
+data.zebv.txt 4.927148697748023
+data.zewd.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.zafk.txt 1
-data.zafy.txt 1
-data.zchd.txt 1
-data.zcni.txt 1
-data.zcsu.txt 1
-data.zdux.txt 1
-data.zegk.txt 1
-data.zene.txt 1
-data.zeos.txt 1
+data.zafk.txt 2.82763771717948
+data.zafy.txt 2.82763771717948
+data.zchd.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zegk.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zeos.txt 2.82763771717948

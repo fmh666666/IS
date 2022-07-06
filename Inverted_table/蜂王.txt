@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.qb.txt 2
-data.zcve.txt 1
-data.zeva.txt 1
-data.zfaw.txt 1
+data.cf.txt 3.235060386727117
+data.qb.txt 5.1274494005309625
+data.zcve.txt 3.235060386727117
+data.zeva.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

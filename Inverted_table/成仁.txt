@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zasy.txt 1
-data.zbsm.txt 1
-data.zdoq.txt 1
-data.zdzg.txt 1
+data.ka.txt 3.235060386727117
+data.zasy.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117

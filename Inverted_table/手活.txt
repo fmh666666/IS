@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zcls.txt 2
-data.zdwn.txt 1
-data.zety.txt 1
-data.zfae.txt 1
+data.dg.txt 3.235060386727117
+data.zcls.txt 5.1274494005309625
+data.zdwn.txt 3.235060386727117
+data.zety.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

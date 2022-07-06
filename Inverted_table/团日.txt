@@ -1,10 +1,10 @@
 9
-data.jj.txt 2
-data.zavx.txt 1
-data.zbor.txt 1
-data.zbua.txt 1
-data.zcgi.txt 2
-data.zdll.txt 1
-data.zdlw.txt 1
-data.zdou.txt 2
-data.zesq.txt 1
+data.jj.txt 4.48169974735425
+data.zavx.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zcgi.txt 4.48169974735425
+data.zdll.txt 2.82763771717948
+data.zdlw.txt 2.82763771717948
+data.zdou.txt 4.48169974735425
+data.zesq.txt 2.82763771717948

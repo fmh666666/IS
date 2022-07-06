@@ -1,12 +1,12 @@
 11
-data.kt.txt 1
-data.op.txt 1
-data.zadv.txt 1
-data.zajh.txt 1
-data.zbfr.txt 1
-data.zbkj.txt 2
-data.zbmt.txt 1
-data.zddp.txt 5
-data.zdlm.txt 3
-data.zdod.txt 1
-data.zdzm.txt 2
+data.kt.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zajh.txt 2.6885433903988862
+data.zbfr.txt 2.6885433903988862
+data.zbkj.txt 4.261240455343955
+data.zbmt.txt 2.6885433903988862
+data.zddp.txt 6.949783845742841
+data.zdlm.txt 5.3770867807977725
+data.zdod.txt 2.6885433903988862
+data.zdzm.txt 4.261240455343955

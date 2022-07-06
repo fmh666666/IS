@@ -1,9 +1,9 @@
 8
-data.ng.txt 1
-data.zank.txt 1
-data.zawc.txt 1
-data.zbwa.txt 1
-data.zbye.txt 1
-data.zcvq.txt 1
-data.zejn.txt 1
-data.zexv.txt 2
+data.ng.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zbye.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zejn.txt 2.9092786962624935
+data.zexv.txt 4.611097637722987

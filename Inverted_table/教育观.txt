@@ -1,7 +1,7 @@
 6
-data.zakb.txt 2
-data.zalm.txt 2
-data.zbeb.txt 1
-data.zcls.txt 1
-data.zcvt.txt 2
-data.zehj.txt 1
+data.zakb.txt 4.927148697748023
+data.zalm.txt 4.927148697748023
+data.zbeb.txt 3.1086847136800873
+data.zcls.txt 3.1086847136800873
+data.zcvt.txt 4.927148697748023
+data.zehj.txt 3.1086847136800873

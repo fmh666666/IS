@@ -1,10 +1,10 @@
 9
-data.qn.txt 4
-data.tz.txt 1
-data.zadv.txt 1
-data.zbye.txt 1
-data.zdep.txt 1
-data.zdgt.txt 1
-data.zdqq.txt 1
-data.zebf.txt 1
-data.zfbr.txt 1
+data.qn.txt 6.565571457682201
+data.tz.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdqq.txt 2.82763771717948
+data.zebf.txt 2.82763771717948
+data.zfbr.txt 2.82763771717948

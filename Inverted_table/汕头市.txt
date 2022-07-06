@@ -1,12 +1,12 @@
 11
-data.fe.txt 1
-data.zafv.txt 1
-data.zass.txt 1
-data.zbot.txt 1
-data.zbts.txt 2
-data.zbvg.txt 1
-data.zbye.txt 1
-data.zcpc.txt 1
-data.zcts.txt 3
-data.zdzm.txt 1
-data.zenw.txt 2
+data.fe.txt 2.6885433903988862
+data.zafv.txt 2.6885433903988862
+data.zass.txt 2.6885433903988862
+data.zbot.txt 2.6885433903988862
+data.zbts.txt 4.261240455343955
+data.zbvg.txt 2.6885433903988862
+data.zbye.txt 2.6885433903988862
+data.zcpc.txt 2.6885433903988862
+data.zcts.txt 5.3770867807977725
+data.zdzm.txt 2.6885433903988862
+data.zenw.txt 4.261240455343955

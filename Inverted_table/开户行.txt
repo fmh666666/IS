@@ -1,4 +1,4 @@
 3
-data.jf.txt 2
-data.wg.txt 1
-data.zeew.txt 1
+data.jf.txt 5.688648708166832
+data.wg.txt 3.5891377275982888
+data.zeew.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zaic.txt 1
-data.zdaw.txt 1
+data.tz.txt 3.5891377275982888
+data.zaic.txt 3.5891377275982888
+data.zdaw.txt 3.5891377275982888

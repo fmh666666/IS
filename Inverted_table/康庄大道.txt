@@ -1,4 +1,4 @@
 3
-data.zail.txt 1
-data.zbfg.txt 1
-data.zegn.txt 1
+data.zail.txt 3.5891377275982888
+data.zbfg.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888

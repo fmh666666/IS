@@ -1,10 +1,10 @@
 9
-data.zcsu.txt 2
-data.zcxr.txt 1
-data.zdaw.txt 1
-data.zdcy.txt 1
-data.zdoc.txt 1
-data.zdzg.txt 1
-data.zebc.txt 1
-data.zenw.txt 1
-data.zerh.txt 1
+data.zcsu.txt 4.48169974735425
+data.zcxr.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zdcy.txt 2.82763771717948
+data.zdoc.txt 2.82763771717948
+data.zdzg.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zerh.txt 2.82763771717948

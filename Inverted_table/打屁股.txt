@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.fp.txt 1
-data.pa.txt 1
-data.to.txt 4
-data.zako.txt 1
-data.zbdb.txt 4
-data.zbsm.txt 3
-data.zbux.txt 1
-data.zbwa.txt 7
-data.zdlm.txt 1
-data.zdwd.txt 2
-data.zeob.txt 1
-data.zeqv.txt 3
+data.ew.txt 2.5727503226135906
+data.fp.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.to.txt 5.97374125520702
+data.zako.txt 2.5727503226135906
+data.zbdb.txt 5.97374125520702
+data.zbsm.txt 5.145500645227181
+data.zbux.txt 2.5727503226135906
+data.zbwa.txt 7.7182509678407705
+data.zdlm.txt 2.5727503226135906
+data.zdwd.txt 4.077712785060798
+data.zeob.txt 2.5727503226135906
+data.zeqv.txt 5.145500645227181

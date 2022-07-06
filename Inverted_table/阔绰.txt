@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.zafv.txt 1
-data.zajo.txt 1
-data.zclm.txt 1
-data.zcql.txt 1
-data.zctp.txt 1
-data.zdoc.txt 1
-data.zeeh.txt 11
-data.zeyy.txt 1
-data.zfby.txt 1
+data.be.txt 2.7546073728089153
+data.zafv.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zclm.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zeeh.txt 9.875164135729985
+data.zeyy.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

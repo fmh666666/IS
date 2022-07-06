@@ -1,9 +1,9 @@
 8
-data.ff.txt 1
-data.vz.txt 1
-data.zarr.txt 1
-data.zcao.txt 1
-data.zciy.txt 1
-data.zcku.txt 1
-data.zfas.txt 1
-data.zfbr.txt 1
+data.ff.txt 2.9092786962624935
+data.vz.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zcao.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zfas.txt 2.9092786962624935
+data.zfbr.txt 2.9092786962624935

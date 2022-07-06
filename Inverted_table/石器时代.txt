@@ -1,7 +1,7 @@
 6
-data.zawo.txt 1
-data.zbut.txt 1
-data.zcdv.txt 1
-data.zcdy.txt 1
-data.zcql.txt 1
-data.zdpf.txt 1
+data.zawo.txt 3.1086847136800873
+data.zbut.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zdpf.txt 3.1086847136800873

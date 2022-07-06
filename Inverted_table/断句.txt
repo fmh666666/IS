@@ -1,9 +1,9 @@
 8
-data.zaic.txt 1
-data.zate.txt 1
-data.zaxk.txt 2
-data.zbla.txt 1
-data.zcef.txt 1
-data.zdof.txt 1
-data.zeqh.txt 1
-data.zerv.txt 1
+data.zaic.txt 2.9092786962624935
+data.zate.txt 2.9092786962624935
+data.zaxk.txt 4.611097637722987
+data.zbla.txt 2.9092786962624935
+data.zcef.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935

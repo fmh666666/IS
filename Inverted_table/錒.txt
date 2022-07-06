@@ -1,13 +1,13 @@
 12
-data.aj.txt 7
-data.sq.txt 3
-data.zanh.txt 32
-data.zbfd.txt 1
-data.zbls.txt 1
-data.zbsl.txt 1
-data.zbta.txt 1
-data.zcuh.txt 1
-data.zdkk.txt 7
-data.zeid.txt 1
-data.zenw.txt 1
-data.zesq.txt 2
+data.aj.txt 7.884695099285658
+data.sq.txt 5.256463399523772
+data.zanh.txt 13.25783653059033
+data.zbfd.txt 2.628231699761886
+data.zbls.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zbta.txt 2.628231699761886
+data.zcuh.txt 2.628231699761886
+data.zdkk.txt 7.884695099285658
+data.zeid.txt 2.628231699761886
+data.zenw.txt 2.628231699761886
+data.zesq.txt 4.165648687329214

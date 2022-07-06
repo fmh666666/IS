@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.op.txt 1
-data.zajh.txt 1
-data.zalj.txt 1
-data.zbdb.txt 1
-data.zclh.txt 1
+data.cf.txt 3.1086847136800873
+data.op.txt 3.1086847136800873
+data.zajh.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zclh.txt 3.1086847136800873

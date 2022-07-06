@@ -1,5 +1,5 @@
 4
-data.zcih.txt 1
-data.zdof.txt 1
-data.zebv.txt 1
-data.zeid.txt 2
+data.zcih.txt 3.389731710180695
+data.zdof.txt 3.389731710180695
+data.zebv.txt 3.389731710180695
+data.zeid.txt 5.372597648141796

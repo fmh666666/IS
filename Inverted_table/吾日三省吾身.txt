@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.zbor.txt 1
-data.zbzg.txt 1
-data.zdkc.txt 1
-data.zdod.txt 2
-data.zebn.txt 1
-data.zehb.txt 1
-data.zewn.txt 1
+data.ka.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zdod.txt 4.611097637722987
+data.zebn.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935
+data.zewn.txt 2.9092786962624935

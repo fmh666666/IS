@@ -1,8 +1,8 @@
 7
-data.op.txt 1
-data.zapl.txt 1
-data.zawb.txt 1
-data.zawc.txt 2
-data.zcdg.txt 1
-data.zene.txt 3
-data.zfai.txt 3
+data.op.txt 3.0018356045764243
+data.zapl.txt 3.0018356045764243
+data.zawb.txt 3.0018356045764243
+data.zawc.txt 4.757796866583254
+data.zcdg.txt 3.0018356045764243
+data.zene.txt 6.003671209152849
+data.zfai.txt 6.003671209152849

@@ -1,6 +1,6 @@
 5
-data.bb.txt 2
-data.hp.txt 1
-data.zaoo.txt 1
-data.zdga.txt 1
-data.zfcg.txt 1
+data.bb.txt 5.1274494005309625
+data.hp.txt 3.235060386727117
+data.zaoo.txt 3.235060386727117
+data.zdga.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

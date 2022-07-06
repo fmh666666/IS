@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.cz.txt 1
-data.fp.txt 1
-data.zbhd.txt 2
-data.zblq.txt 1
-data.zcdz.txt 1
-data.zctp.txt 2
-data.zdnc.txt 1
-data.zdrq.txt 1
-data.zdux.txt 2
-data.zenw.txt 2
-data.zeqh.txt 1
+data.bf.txt 2.628231699761886
+data.cz.txt 2.628231699761886
+data.fp.txt 2.628231699761886
+data.zbhd.txt 4.165648687329214
+data.zblq.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zctp.txt 4.165648687329214
+data.zdnc.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zdux.txt 4.165648687329214
+data.zenw.txt 4.165648687329214
+data.zeqh.txt 2.628231699761886

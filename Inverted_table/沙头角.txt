@@ -1,6 +1,6 @@
 5
-data.ft.txt 1
-data.ok.txt 2
-data.zbdx.txt 1
-data.zcwq.txt 1
-data.zeid.txt 1
+data.ft.txt 3.235060386727117
+data.ok.txt 5.1274494005309625
+data.zbdx.txt 3.235060386727117
+data.zcwq.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

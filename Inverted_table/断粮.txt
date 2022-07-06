@@ -1,9 +1,9 @@
 8
-data.ff.txt 1
-data.fp.txt 1
-data.hp.txt 1
-data.zawc.txt 1
-data.zcse.txt 1
-data.zcue.txt 1
-data.zdpw.txt 1
-data.zdzi.txt 1
+data.ff.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.hp.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935

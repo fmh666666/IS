@@ -1,10 +1,10 @@
 9
-data.zaop.txt 1
-data.zaxp.txt 1
-data.zcli.txt 2
-data.zcls.txt 2
-data.zcxr.txt 1
-data.zelt.txt 1
-data.zety.txt 2
-data.zfai.txt 1
-data.zfcp.txt 1
+data.zaop.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zcli.txt 4.48169974735425
+data.zcls.txt 4.48169974735425
+data.zcxr.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zety.txt 4.48169974735425
+data.zfai.txt 2.82763771717948
+data.zfcp.txt 2.82763771717948

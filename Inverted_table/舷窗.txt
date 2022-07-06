@@ -1,3 +1,3 @@
 2
-data.ha.txt 1
-data.zfai.txt 3
+data.ha.txt 3.8701847240988965
+data.zfai.txt 7.740369448197793

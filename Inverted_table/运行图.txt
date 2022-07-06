@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.tz.txt 1
-data.zciq.txt 1
-data.zclm.txt 1
-data.zelt.txt 2
-data.zfai.txt 1
+data.bf.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zelt.txt 4.927148697748023
+data.zfai.txt 3.1086847136800873

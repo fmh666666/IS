@@ -1,4 +1,4 @@
 3
-data.zaqw.txt 4
-data.zdcj.txt 1
-data.zduo.txt 1
+data.zaqw.txt 8.333719726130651
+data.zdcj.txt 3.5891377275982888
+data.zduo.txt 3.5891377275982888

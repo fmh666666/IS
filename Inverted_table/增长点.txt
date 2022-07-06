@@ -1,5 +1,5 @@
 4
-data.zcdy.txt 1
-data.zcdz.txt 2
-data.zdgt.txt 1
-data.zdgv.txt 1
+data.zcdy.txt 3.389731710180695
+data.zcdz.txt 5.372597648141796
+data.zdgt.txt 3.389731710180695
+data.zdgv.txt 3.389731710180695

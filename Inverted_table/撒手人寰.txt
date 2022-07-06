@@ -1,8 +1,8 @@
 7
-data.zbcj.txt 1
-data.zbfx.txt 1
-data.zcbm.txt 1
-data.zdep.txt 1
-data.zdkp.txt 1
-data.zdnc.txt 1
-data.zezy.txt 1
+data.zbcj.txt 3.0018356045764243
+data.zbfx.txt 3.0018356045764243
+data.zcbm.txt 3.0018356045764243
+data.zdep.txt 3.0018356045764243
+data.zdkp.txt 3.0018356045764243
+data.zdnc.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zasd.txt 1
-data.zbsm.txt 1
-data.zdlm.txt 1
-data.zdnh.txt 1
+data.ng.txt 3.235060386727117
+data.zasd.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117
+data.zdnh.txt 3.235060386727117

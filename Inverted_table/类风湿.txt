@@ -1,8 +1,8 @@
 7
-data.to.txt 1
-data.zako.txt 1
-data.zbjk.txt 1
-data.zcts.txt 3
-data.zduk.txt 2
-data.zewg.txt 1
-data.zfaj.txt 1
+data.to.txt 3.0018356045764243
+data.zako.txt 3.0018356045764243
+data.zbjk.txt 3.0018356045764243
+data.zcts.txt 6.003671209152849
+data.zduk.txt 4.757796866583254
+data.zewg.txt 3.0018356045764243
+data.zfaj.txt 3.0018356045764243

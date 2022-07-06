@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.cf.txt 1
-data.vm.txt 1
-data.zaoc.txt 2
-data.zawo.txt 1
-data.zcon.txt 1
-data.zcyv.txt 1
-data.zdhv.txt 2
-data.zdic.txt 1
-data.zdzn.txt 1
-data.zexm.txt 1
+data.aj.txt 2.6885433903988862
+data.cf.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.zaoc.txt 4.261240455343955
+data.zawo.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcyv.txt 2.6885433903988862
+data.zdhv.txt 4.261240455343955
+data.zdic.txt 2.6885433903988862
+data.zdzn.txt 2.6885433903988862
+data.zexm.txt 2.6885433903988862

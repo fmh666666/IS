@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.zaub.txt 1
-data.zbhv.txt 1
-data.zbrj.txt 1
-data.zbua.txt 1
-data.zbvm.txt 1
-data.zbyv.txt 1
-data.zbzo.txt 1
-data.zdtv.txt 1
-data.zehp.txt 1
-data.zfby.txt 1
+data.fp.txt 2.6885433903988862
+data.zaub.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zbua.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zbyv.txt 2.6885433903988862
+data.zbzo.txt 2.6885433903988862
+data.zdtv.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zfby.txt 2.6885433903988862

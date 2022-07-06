@@ -1,7 +1,7 @@
 6
-data.dg.txt 1
-data.zcdy.txt 4
-data.zcdz.txt 1
-data.zciq.txt 2
-data.zcmy.txt 1
-data.zdgt.txt 1
+data.dg.txt 3.1086847136800873
+data.zcdy.txt 7.21814237484067
+data.zcdz.txt 3.1086847136800873
+data.zciq.txt 4.927148697748023
+data.zcmy.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873

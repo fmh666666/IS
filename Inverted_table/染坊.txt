@@ -1,9 +1,9 @@
 8
-data.wc.txt 1
-data.zank.txt 9
-data.zaqw.txt 1
-data.zbfr.txt 1
-data.zdtv.txt 1
-data.zduo.txt 1
-data.zdwz.txt 1
-data.zegz.txt 1
+data.wc.txt 2.9092786962624935
+data.zank.txt 9.664414636971655
+data.zaqw.txt 2.9092786962624935
+data.zbfr.txt 2.9092786962624935
+data.zdtv.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zdwz.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935

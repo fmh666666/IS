@@ -1,10 +1,10 @@
 9
-data.fp.txt 2
-data.to.txt 4
-data.zajr.txt 1
-data.zass.txt 1
-data.zazn.txt 1
-data.zbse.txt 1
-data.zctn.txt 1
-data.zdhv.txt 1
-data.zeec.txt 1
+data.fp.txt 4.48169974735425
+data.to.txt 6.565571457682201
+data.zajr.txt 2.82763771717948
+data.zass.txt 2.82763771717948
+data.zazn.txt 2.82763771717948
+data.zbse.txt 2.82763771717948
+data.zctn.txt 2.82763771717948
+data.zdhv.txt 2.82763771717948
+data.zeec.txt 2.82763771717948

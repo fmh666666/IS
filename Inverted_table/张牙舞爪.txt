@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zamp.txt 1
-data.zaoo.txt 1
-data.zccu.txt 1
-data.zdcj.txt 1
-data.zdgv.txt 1
+data.zabe.txt 3.1086847136800873
+data.zamp.txt 3.1086847136800873
+data.zaoo.txt 3.1086847136800873
+data.zccu.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873

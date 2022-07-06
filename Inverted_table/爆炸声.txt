@@ -1,7 +1,7 @@
 6
-data.zanh.txt 1
-data.zayd.txt 1
-data.zcdl.txt 1
-data.zclm.txt 1
-data.zerv.txt 1
-data.zeyu.txt 1
+data.zanh.txt 3.1086847136800873
+data.zayd.txt 3.1086847136800873
+data.zcdl.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zerv.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

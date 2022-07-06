@@ -1,10 +1,10 @@
 9
-data.ha.txt 1
-data.zajo.txt 1
-data.zakb.txt 1
-data.zalt.txt 1
-data.zbjq.txt 127
-data.zciy.txt 1
-data.zdgt.txt 1
-data.zefu.txt 1
-data.zelt.txt 2
+data.ha.txt 2.82763771717948
+data.zajo.txt 2.82763771717948
+data.zakb.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zbjq.txt 19.793464020256362
+data.zciy.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zelt.txt 4.48169974735425

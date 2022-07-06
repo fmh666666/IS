@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.zabe.txt 1
-data.zbrd.txt 1
-data.zdbf.txt 1
-data.zeqh.txt 1
-data.zezy.txt 1
+data.cq.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zbrd.txt 3.1086847136800873
+data.zdbf.txt 3.1086847136800873
+data.zeqh.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.zajo.txt 1
-data.zbel.txt 2
-data.zbjk.txt 1
-data.zbwq.txt 1
-data.zene.txt 1
+data.zajo.txt 3.235060386727117
+data.zbel.txt 5.1274494005309625
+data.zbjk.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zene.txt 3.235060386727117

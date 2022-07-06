@@ -1,5 +1,5 @@
 4
-data.hc.txt 1
-data.zbaf.txt 1
-data.zcvq.txt 1
-data.zdcw.txt 1
+data.hc.txt 3.389731710180695
+data.zbaf.txt 3.389731710180695
+data.zcvq.txt 3.389731710180695
+data.zdcw.txt 3.389731710180695

@@ -1,8 +1,8 @@
 7
-data.zajo.txt 2
-data.zbnp.txt 1
-data.zcjy.txt 1
-data.zcmx.txt 1
-data.zcqg.txt 1
-data.zdro.txt 1
-data.zfcg.txt 1
+data.zajo.txt 4.757796866583254
+data.zbnp.txt 3.0018356045764243
+data.zcjy.txt 3.0018356045764243
+data.zcmx.txt 3.0018356045764243
+data.zcqg.txt 3.0018356045764243
+data.zdro.txt 3.0018356045764243
+data.zfcg.txt 3.0018356045764243

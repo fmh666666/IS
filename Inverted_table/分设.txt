@@ -1,5 +1,5 @@
 4
-data.jf.txt 1
-data.kq.txt 1
-data.zcdy.txt 1
-data.zdwd.txt 1
+data.jf.txt 3.389731710180695
+data.kq.txt 3.389731710180695
+data.zcdy.txt 3.389731710180695
+data.zdwd.txt 3.389731710180695

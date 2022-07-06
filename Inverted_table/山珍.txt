@@ -1,12 +1,12 @@
 11
-data.jd.txt 1
-data.kt.txt 3
-data.zasw.txt 1
-data.zayv.txt 6
-data.zbhv.txt 9
-data.zbux.txt 1
-data.zcaq.txt 3
-data.zckd.txt 10
-data.zety.txt 5
-data.zeun.txt 1
-data.zevl.txt 6
+data.jd.txt 2.6885433903988862
+data.kt.txt 5.3770867807977725
+data.zasw.txt 2.6885433903988862
+data.zayv.txt 7.547695520201752
+data.zbhv.txt 8.931147822889784
+data.zbux.txt 2.6885433903988862
+data.zcaq.txt 5.3770867807977725
+data.zckd.txt 9.300832012824227
+data.zety.txt 6.949783845742841
+data.zeun.txt 2.6885433903988862
+data.zevl.txt 7.547695520201752

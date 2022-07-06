@@ -1,10 +1,10 @@
 9
-data.ry.txt 1
-data.zacp.txt 1
-data.zawc.txt 1
-data.zbkv.txt 1
-data.zcao.txt 2
-data.zcmx.txt 1
-data.zctm.txt 2
-data.zdaw.txt 1
-data.zerv.txt 1
+data.ry.txt 2.82763771717948
+data.zacp.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zcao.txt 4.48169974735425
+data.zcmx.txt 2.82763771717948
+data.zctm.txt 4.48169974735425
+data.zdaw.txt 2.82763771717948
+data.zerv.txt 2.82763771717948

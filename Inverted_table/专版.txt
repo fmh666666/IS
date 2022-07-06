@@ -1,13 +1,13 @@
 12
-data.zafl.txt 2
-data.zamp.txt 3
-data.zapl.txt 1
-data.zarc.txt 1
-data.zasq.txt 12
-data.zayv.txt 1
-data.zdby.txt 1
-data.zdfl.txt 2
-data.zdtr.txt 3
-data.zejn.txt 1
-data.zenw.txt 3
-data.zevy.txt 1
+data.zafl.txt 4.165648687329214
+data.zamp.txt 5.256463399523772
+data.zapl.txt 2.628231699761886
+data.zarc.txt 2.628231699761886
+data.zasq.txt 9.725612970276357
+data.zayv.txt 2.628231699761886
+data.zdby.txt 2.628231699761886
+data.zdfl.txt 4.165648687329214
+data.zdtr.txt 5.256463399523772
+data.zejn.txt 2.628231699761886
+data.zenw.txt 5.256463399523772
+data.zevy.txt 2.628231699761886

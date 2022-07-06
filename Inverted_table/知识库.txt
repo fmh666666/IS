@@ -1,6 +1,6 @@
 5
-data.zbhv.txt 1
-data.zbsl.txt 1
-data.zdkp.txt 1
-data.zebn.txt 3
-data.zeeq.txt 2
+data.zbhv.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117
+data.zebn.txt 6.470120773454234
+data.zeeq.txt 5.1274494005309625

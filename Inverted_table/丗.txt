@@ -1,5 +1,5 @@
 4
-data.co.txt 1
-data.zbre.txt 1
-data.zedo.txt 1
-data.zedx.txt 1
+data.co.txt 3.389731710180695
+data.zbre.txt 3.389731710180695
+data.zedo.txt 3.389731710180695
+data.zedx.txt 3.389731710180695

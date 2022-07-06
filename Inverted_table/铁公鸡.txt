@@ -1,7 +1,7 @@
 6
-data.mx.txt 1
-data.zawc.txt 1
-data.zbsm.txt 2
-data.zbtx.txt 2
-data.zcql.txt 1
-data.zcuh.txt 1
+data.mx.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbsm.txt 4.927148697748023
+data.zbtx.txt 4.927148697748023
+data.zcql.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873

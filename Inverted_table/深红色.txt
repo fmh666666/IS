@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.mo.txt 1
-data.to.txt 3
-data.zbjk.txt 2
-data.zbwq.txt 2
-data.zctp.txt 2
-data.zcuh.txt 2
-data.zcvt.txt 1
-data.zdlw.txt 1
-data.zedo.txt 1
-data.zeel.txt 1
-data.zeoo.txt 2
-data.zfcj.txt 1
+data.hg.txt 2.5727503226135906
+data.mo.txt 2.5727503226135906
+data.to.txt 5.145500645227181
+data.zbjk.txt 4.077712785060798
+data.zbwq.txt 4.077712785060798
+data.zctp.txt 4.077712785060798
+data.zcuh.txt 4.077712785060798
+data.zcvt.txt 2.5727503226135906
+data.zdlw.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zeel.txt 2.5727503226135906
+data.zeoo.txt 4.077712785060798
+data.zfcj.txt 2.5727503226135906

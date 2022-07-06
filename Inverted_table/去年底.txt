@@ -1,13 +1,13 @@
 12
-data.dg.txt 1
-data.hp.txt 1
-data.zaic.txt 1
-data.zbcj.txt 1
-data.zbeb.txt 1
-data.zbor.txt 1
-data.zbsm.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 2
-data.zcww.txt 1
-data.zdgt.txt 1
-data.zdzm.txt 1
+data.dg.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.zaic.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zcdy.txt 4.165648687329214
+data.zcww.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdzm.txt 2.628231699761886

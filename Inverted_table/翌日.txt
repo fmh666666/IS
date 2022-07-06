@@ -1,11 +1,11 @@
 10
-data.co.txt 1
-data.to.txt 1
-data.zafl.txt 1
-data.zawc.txt 1
-data.zbsf.txt 1
-data.zbxy.txt 1
-data.zcll.txt 1
-data.zdzg.txt 1
-data.zeai.txt 1
-data.zeqv.txt 1
+data.co.txt 2.7546073728089153
+data.to.txt 2.7546073728089153
+data.zafl.txt 2.7546073728089153
+data.zawc.txt 2.7546073728089153
+data.zbsf.txt 2.7546073728089153
+data.zbxy.txt 2.7546073728089153
+data.zcll.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153
+data.zeai.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153

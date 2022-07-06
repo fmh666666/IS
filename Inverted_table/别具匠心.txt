@@ -1,7 +1,7 @@
 6
-data.zacp.txt 1
-data.zarc.txt 1
-data.zcem.txt 1
-data.zcuh.txt 1
-data.zdaw.txt 1
-data.zdga.txt 2
+data.zacp.txt 3.1086847136800873
+data.zarc.txt 3.1086847136800873
+data.zcem.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zdga.txt 4.927148697748023

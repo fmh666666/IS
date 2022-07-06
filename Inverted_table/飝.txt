@@ -1,7 +1,7 @@
 6
-data.en.txt 1
-data.zapf.txt 2
-data.zbuj.txt 1
-data.zbyv.txt 1
-data.zcdl.txt 1
-data.zeeq.txt 1
+data.en.txt 3.1086847136800873
+data.zapf.txt 4.927148697748023
+data.zbuj.txt 3.1086847136800873
+data.zbyv.txt 3.1086847136800873
+data.zcdl.txt 3.1086847136800873
+data.zeeq.txt 3.1086847136800873

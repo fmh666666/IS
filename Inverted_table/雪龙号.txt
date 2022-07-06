@@ -1,5 +1,5 @@
 4
-data.hc.txt 4
-data.zcls.txt 4
-data.zewv.txt 4
-data.zfai.txt 5
+data.hc.txt 7.870713291999142
+data.zcls.txt 7.870713291999142
+data.zewv.txt 7.870713291999142
+data.zfai.txt 8.762329358322491

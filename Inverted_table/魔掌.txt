@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.pq.txt 2
-data.zacd.txt 1
-data.zcgo.txt 1
-data.zesi.txt 1
+data.ep.txt 3.235060386727117
+data.pq.txt 5.1274494005309625
+data.zacd.txt 3.235060386727117
+data.zcgo.txt 3.235060386727117
+data.zesi.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zaqr.txt 1
-data.zcku.txt 1
-data.zcmn.txt 1
+data.zaqr.txt 3.5891377275982888
+data.zcku.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888

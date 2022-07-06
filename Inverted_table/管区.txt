@@ -1,7 +1,7 @@
 6
-data.gz.txt 1
-data.ha.txt 3
-data.pa.txt 1
-data.zahd.txt 1
-data.zawb.txt 1
-data.zcic.txt 1
+data.gz.txt 3.1086847136800873
+data.ha.txt 6.2173694273601745
+data.pa.txt 3.1086847136800873
+data.zahd.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873

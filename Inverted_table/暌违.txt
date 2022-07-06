@@ -1,7 +1,7 @@
 6
-data.wc.txt 1
-data.zalt.txt 1
-data.zasr.txt 1
-data.zbil.txt 1
-data.zclm.txt 1
-data.zeyy.txt 1
+data.wc.txt 3.1086847136800873
+data.zalt.txt 3.1086847136800873
+data.zasr.txt 3.1086847136800873
+data.zbil.txt 3.1086847136800873
+data.zclm.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.qn.txt 8
-data.zafq.txt 1
-data.zazw.txt 11
-data.zbaq.txt 3
+data.qn.txt 10.745195296283592
+data.zafq.txt 3.389731710180695
+data.zazw.txt 12.152061068503187
+data.zbaq.txt 6.77946342036139

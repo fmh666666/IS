@@ -1,9 +1,9 @@
 8
-data.zaeh.txt 1
-data.zard.txt 1
-data.zbph.txt 1
-data.zbts.txt 1
-data.zcmn.txt 2
-data.zcon.txt 2
-data.zdkc.txt 1
-data.zebn.txt 1
+data.zaeh.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zbph.txt 2.9092786962624935
+data.zbts.txt 2.9092786962624935
+data.zcmn.txt 4.611097637722987
+data.zcon.txt 4.611097637722987
+data.zdkc.txt 2.9092786962624935
+data.zebn.txt 2.9092786962624935

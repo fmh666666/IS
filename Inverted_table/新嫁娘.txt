@@ -1,4 +1,4 @@
 3
-data.vi.txt 1
-data.zalc.txt 1
-data.zbzf.txt 1
+data.vi.txt 3.5891377275982888
+data.zalc.txt 3.5891377275982888
+data.zbzf.txt 3.5891377275982888

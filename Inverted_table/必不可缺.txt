@@ -1,5 +1,5 @@
 4
-data.zall.txt 1
-data.zbpc.txt 1
-data.zbsl.txt 1
-data.zcem.txt 1
+data.zall.txt 3.389731710180695
+data.zbpc.txt 3.389731710180695
+data.zbsl.txt 3.389731710180695
+data.zcem.txt 3.389731710180695

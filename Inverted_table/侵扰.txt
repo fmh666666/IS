@@ -1,7 +1,7 @@
 6
-data.jf.txt 2
-data.ry.txt 2
-data.vz.txt 1
-data.zalm.txt 1
-data.zcql.txt 1
-data.zczp.txt 1
+data.jf.txt 4.927148697748023
+data.ry.txt 4.927148697748023
+data.vz.txt 3.1086847136800873
+data.zalm.txt 3.1086847136800873
+data.zcql.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873

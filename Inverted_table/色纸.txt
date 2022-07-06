@@ -1,3 +1,3 @@
 2
-data.mu.txt 1
-data.zbla.txt 1
+data.mu.txt 3.8701847240988965
+data.zbla.txt 3.8701847240988965

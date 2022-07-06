@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.ud.txt 2
-data.zacd.txt 1
-data.zako.txt 1
-data.zalt.txt 1
-data.zaqr.txt 1
-data.zavx.txt 3
-data.zawb.txt 1
-data.zdoc.txt 1
-data.zdof.txt 1
-data.zdou.txt 1
-data.zejn.txt 1
+data.cz.txt 2.628231699761886
+data.ud.txt 4.165648687329214
+data.zacd.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zalt.txt 2.628231699761886
+data.zaqr.txt 2.628231699761886
+data.zavx.txt 5.256463399523772
+data.zawb.txt 2.628231699761886
+data.zdoc.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zdou.txt 2.628231699761886
+data.zejn.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.by.txt 1
-data.fe.txt 1
-data.pn.txt 1
-data.zamr.txt 1
-data.zapr.txt 1
+data.by.txt 3.235060386727117
+data.fe.txt 3.235060386727117
+data.pn.txt 3.235060386727117
+data.zamr.txt 3.235060386727117
+data.zapr.txt 3.235060386727117

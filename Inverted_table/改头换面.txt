@@ -1,12 +1,12 @@
 11
-data.vi.txt 1
-data.wg.txt 1
-data.zall.txt 1
-data.zbof.txt 1
-data.zcic.txt 1
-data.zcjd.txt 1
-data.zcku.txt 2
-data.zdaw.txt 2
-data.zdst.txt 1
-data.zeam.txt 2
-data.zeid.txt 1
+data.vi.txt 2.6885433903988862
+data.wg.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zcjd.txt 2.6885433903988862
+data.zcku.txt 4.261240455343955
+data.zdaw.txt 4.261240455343955
+data.zdst.txt 2.6885433903988862
+data.zeam.txt 4.261240455343955
+data.zeid.txt 2.6885433903988862

@@ -1,4 +1,4 @@
 3
-data.kt.txt 1
-data.zaet.txt 1
-data.zcem.txt 5
+data.kt.txt 3.5891377275982888
+data.zaet.txt 3.5891377275982888
+data.zcem.txt 9.27778643576512

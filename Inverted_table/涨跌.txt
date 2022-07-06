@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.fp.txt 1
-data.vi.txt 2
-data.zbdx.txt 1
-data.zbhe.txt 1
-data.zcdy.txt 2
-data.zdlo.txt 1
-data.zebv.txt 1
-data.zexv.txt 1
+data.bs.txt 2.82763771717948
+data.fp.txt 2.82763771717948
+data.vi.txt 4.48169974735425
+data.zbdx.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zcdy.txt 4.48169974735425
+data.zdlo.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zexv.txt 2.82763771717948

@@ -1,8 +1,8 @@
 7
-data.ff.txt 1
-data.zako.txt 1
-data.zbpx.txt 1
-data.zcyx.txt 4
-data.zdju.txt 1
-data.zeac.txt 40
-data.zegz.txt 1
+data.ff.txt 3.0018356045764243
+data.zako.txt 3.0018356045764243
+data.zbpx.txt 3.0018356045764243
+data.zcyx.txt 6.970046426499191
+data.zdju.txt 3.0018356045764243
+data.zeac.txt 16.082490360832363
+data.zegz.txt 3.0018356045764243

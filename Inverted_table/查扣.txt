@@ -1,8 +1,8 @@
 7
-data.be.txt 1
-data.hz.txt 2
-data.kt.txt 1
-data.zakb.txt 1
-data.zbeb.txt 1
-data.zbua.txt 1
-data.zbvg.txt 1
+data.be.txt 3.0018356045764243
+data.hz.txt 4.757796866583254
+data.kt.txt 3.0018356045764243
+data.zakb.txt 3.0018356045764243
+data.zbeb.txt 3.0018356045764243
+data.zbua.txt 3.0018356045764243
+data.zbvg.txt 3.0018356045764243

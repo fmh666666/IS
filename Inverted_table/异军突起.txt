@@ -1,8 +1,8 @@
 7
-data.zazn.txt 1
-data.zbaq.txt 1
-data.zbcj.txt 1
-data.zbzo.txt 1
-data.zcel.txt 1
-data.zedo.txt 1
-data.zeyy.txt 1
+data.zazn.txt 3.0018356045764243
+data.zbaq.txt 3.0018356045764243
+data.zbcj.txt 3.0018356045764243
+data.zbzo.txt 3.0018356045764243
+data.zcel.txt 3.0018356045764243
+data.zedo.txt 3.0018356045764243
+data.zeyy.txt 3.0018356045764243

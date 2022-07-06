@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.zabe.txt 1
-data.zafl.txt 1
-data.zaim.txt 1
-data.zawb.txt 2
-data.zbdx.txt 1
-data.zbwa.txt 1
-data.zcxr.txt 2
-data.zdgt.txt 3
-data.zelt.txt 1
+data.ga.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zafl.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zawb.txt 4.365949390112154
+data.zbdx.txt 2.7546073728089153
+data.zbwa.txt 2.7546073728089153
+data.zcxr.txt 4.365949390112154
+data.zdgt.txt 5.509214745617831
+data.zelt.txt 2.7546073728089153

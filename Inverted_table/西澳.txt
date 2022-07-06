@@ -1,8 +1,8 @@
 7
-data.en.txt 1
-data.fp.txt 1
-data.zbhe.txt 1
-data.zctp.txt 1
-data.zdnh.txt 1
-data.zewg.txt 1
-data.zfaj.txt 1
+data.en.txt 3.0018356045764243
+data.fp.txt 3.0018356045764243
+data.zbhe.txt 3.0018356045764243
+data.zctp.txt 3.0018356045764243
+data.zdnh.txt 3.0018356045764243
+data.zewg.txt 3.0018356045764243
+data.zfaj.txt 3.0018356045764243

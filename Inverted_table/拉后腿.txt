@@ -1,4 +1,4 @@
 3
-data.zarr.txt 1
-data.zcse.txt 1
-data.zedo.txt 1
+data.zarr.txt 3.5891377275982888
+data.zcse.txt 3.5891377275982888
+data.zedo.txt 3.5891377275982888

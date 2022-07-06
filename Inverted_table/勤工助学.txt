@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zavx.txt 1
-data.zbcv.txt 1
-data.zcqp.txt 2
-data.zdux.txt 1
+data.zacw.txt 3.235060386727117
+data.zavx.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zcqp.txt 5.1274494005309625
+data.zdux.txt 3.235060386727117

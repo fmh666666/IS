@@ -1,11 +1,11 @@
 10
-data.fz.txt 2
-data.zacd.txt 1
-data.zaqr.txt 2
-data.zazo.txt 1
-data.zbof.txt 1
-data.zbyb.txt 1
-data.zcqg.txt 1
-data.zdgo.txt 1
-data.zdud.txt 1
-data.zess.txt 1
+data.fz.txt 4.365949390112154
+data.zacd.txt 2.7546073728089153
+data.zaqr.txt 4.365949390112154
+data.zazo.txt 2.7546073728089153
+data.zbof.txt 2.7546073728089153
+data.zbyb.txt 2.7546073728089153
+data.zcqg.txt 2.7546073728089153
+data.zdgo.txt 2.7546073728089153
+data.zdud.txt 2.7546073728089153
+data.zess.txt 2.7546073728089153

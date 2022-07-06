@@ -1,6 +1,6 @@
 5
-data.zapr.txt 2
-data.zaxp.txt 1
-data.zbye.txt 1
-data.zbzo.txt 5
-data.zeeh.txt 2
+data.zapr.txt 5.1274494005309625
+data.zaxp.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zbzo.txt 8.362509787258078
+data.zeeh.txt 5.1274494005309625

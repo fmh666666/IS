@@ -1,10 +1,10 @@
 9
-data.zbcc.txt 1
-data.zbfd.txt 1
-data.zbyb.txt 1
-data.zbzo.txt 1
-data.zcbe.txt 1
-data.zcqe.txt 1
-data.zdkc.txt 1
-data.zdwd.txt 1
-data.zeeq.txt 1
+data.zbcc.txt 2.82763771717948
+data.zbfd.txt 2.82763771717948
+data.zbyb.txt 2.82763771717948
+data.zbzo.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdwd.txt 2.82763771717948
+data.zeeq.txt 2.82763771717948

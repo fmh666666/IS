@@ -1,13 +1,13 @@
 12
-data.ek.txt 1
-data.fp.txt 1
-data.zabx.txt 1
-data.zagr.txt 1
-data.zapl.txt 2
-data.zaqw.txt 1
-data.zbhe.txt 1
-data.zbof.txt 1
-data.zcee.txt 1
-data.zduk.txt 3
-data.zeeh.txt 1
-data.zerv.txt 3
+data.ek.txt 2.628231699761886
+data.fp.txt 2.628231699761886
+data.zabx.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zapl.txt 4.165648687329214
+data.zaqw.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zduk.txt 5.256463399523772
+data.zeeh.txt 2.628231699761886
+data.zerv.txt 5.256463399523772

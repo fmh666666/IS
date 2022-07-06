@@ -1,9 +1,9 @@
 8
-data.ok.txt 2
-data.zapl.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 7
-data.zcdz.txt 6
-data.zcmx.txt 1
-data.zcmy.txt 2
-data.zexv.txt 3
+data.ok.txt 4.611097637722987
+data.zapl.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zcdy.txt 8.72783608878748
+data.zcdz.txt 8.16737786758984
+data.zcmx.txt 2.9092786962624935
+data.zcmy.txt 4.611097637722987
+data.zexv.txt 5.818557392524987

@@ -1,9 +1,9 @@
 8
-data.zaic.txt 1
-data.zbeb.txt 1
-data.zbht.txt 1
-data.zbre.txt 1
-data.zbtx.txt 1
-data.zcqe.txt 1
-data.zdnc.txt 1
-data.zeam.txt 1
+data.zaic.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbht.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zbtx.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.zafq.txt 1
-data.zcdg.txt 1
-data.zcel.txt 2
-data.zcku.txt 2
-data.zczp.txt 1
-data.zefv.txt 1
-data.zexm.txt 1
-data.zeyu.txt 1
+data.zafq.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcel.txt 4.611097637722987
+data.zcku.txt 4.611097637722987
+data.zczp.txt 2.9092786962624935
+data.zefv.txt 2.9092786962624935
+data.zexm.txt 2.9092786962624935
+data.zeyu.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.zavg.txt 1
-data.zbkj.txt 5
-data.zbnp.txt 2
-data.zcbm.txt 1
-data.zctp.txt 1
-data.zcwq.txt 1
+data.zavg.txt 3.1086847136800873
+data.zbkj.txt 8.03583341142811
+data.zbnp.txt 4.927148697748023
+data.zcbm.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zcwq.txt 3.1086847136800873

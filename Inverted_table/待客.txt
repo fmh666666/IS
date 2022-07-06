@@ -1,11 +1,11 @@
 10
-data.jd.txt 2
-data.wc.txt 1
-data.zapr.txt 1
-data.zbes.txt 1
-data.zbsl.txt 1
-data.zcdy.txt 1
-data.zcsu.txt 2
-data.zdlo.txt 1
-data.zedd.txt 1
-data.zeec.txt 1
+data.jd.txt 4.365949390112154
+data.wc.txt 2.7546073728089153
+data.zapr.txt 2.7546073728089153
+data.zbes.txt 2.7546073728089153
+data.zbsl.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcsu.txt 4.365949390112154
+data.zdlo.txt 2.7546073728089153
+data.zedd.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153

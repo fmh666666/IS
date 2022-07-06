@@ -1,4 +1,4 @@
 3
-data.dg.txt 3
-data.zdey.txt 1
-data.zewd.txt 1
+data.dg.txt 7.1782754551965775
+data.zdey.txt 3.5891377275982888
+data.zewd.txt 3.5891377275982888

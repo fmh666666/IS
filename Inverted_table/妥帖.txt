@@ -1,4 +1,4 @@
 3
-data.zbpp.txt 1
-data.zbsm.txt 1
-data.zebc.txt 1
+data.zbpp.txt 3.5891377275982888
+data.zbsm.txt 3.5891377275982888
+data.zebc.txt 3.5891377275982888

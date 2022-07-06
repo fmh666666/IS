@@ -1,6 +1,6 @@
 5
-data.zcmy.txt 1
-data.zdic.txt 1
-data.zdzg.txt 1
-data.zebn.txt 1
-data.zefd.txt 1
+data.zcmy.txt 3.235060386727117
+data.zdic.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117
+data.zebn.txt 3.235060386727117
+data.zefd.txt 3.235060386727117

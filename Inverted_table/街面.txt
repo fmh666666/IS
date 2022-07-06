@@ -1,7 +1,7 @@
 6
-data.zawb.txt 1
-data.zaxj.txt 1
-data.zbfz.txt 1
-data.zbkr.txt 1
-data.zccx.txt 1
-data.zdeq.txt 1
+data.zawb.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zbkr.txt 3.1086847136800873
+data.zccx.txt 3.1086847136800873
+data.zdeq.txt 3.1086847136800873

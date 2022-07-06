@@ -1,6 +1,6 @@
 5
-data.zcpc.txt 2
-data.zdnh.txt 1
-data.zduk.txt 1
-data.zebc.txt 1
-data.zerv.txt 2
+data.zcpc.txt 5.1274494005309625
+data.zdnh.txt 3.235060386727117
+data.zduk.txt 3.235060386727117
+data.zebc.txt 3.235060386727117
+data.zerv.txt 5.1274494005309625

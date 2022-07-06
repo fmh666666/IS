@@ -1,3 +1,3 @@
 2
-data.op.txt 4
-data.zafi.txt 2
+data.op.txt 8.986290643289122
+data.zafi.txt 6.134097658560606

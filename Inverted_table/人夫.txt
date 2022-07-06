@@ -1,6 +1,6 @@
 5
-data.zafv.txt 1
-data.zazw.txt 1
-data.zdod.txt 1
-data.zefp.txt 1
-data.zezn.txt 1
+data.zafv.txt 3.235060386727117
+data.zazw.txt 3.235060386727117
+data.zdod.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zezn.txt 3.235060386727117

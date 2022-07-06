@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.ka.txt 1
-data.zabe.txt 1
-data.zanm.txt 1
-data.zbbt.txt 1
-data.zbjk.txt 1
-data.zbkf.txt 1
-data.zbwq.txt 1
-data.zcnn.txt 1
-data.zdoq.txt 1
-data.zdwz.txt 1
+data.gw.txt 2.6885433903988862
+data.ka.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zanm.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbjk.txt 2.6885433903988862
+data.zbkf.txt 2.6885433903988862
+data.zbwq.txt 2.6885433903988862
+data.zcnn.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862

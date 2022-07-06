@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zbkv.txt 1
-data.zbse.txt 1
-data.zbvn.txt 2
-data.zebv.txt 1
-data.zegz.txt 1
+data.zadv.txt 3.1086847136800873
+data.zbkv.txt 3.1086847136800873
+data.zbse.txt 3.1086847136800873
+data.zbvn.txt 4.927148697748023
+data.zebv.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873

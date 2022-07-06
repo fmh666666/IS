@@ -1,14 +1,14 @@
 13
-data.zacp.txt 1
-data.zagb.txt 1
-data.zaql.txt 1
-data.zaub.txt 1
-data.zbaf.txt 1
-data.zbfr.txt 1
-data.zcve.txt 1
-data.zdwz.txt 1
-data.zecf.txt 1
-data.zegz.txt 1
-data.zejk.txt 1
-data.zene.txt 2
-data.zenn.txt 2
+data.zacp.txt 2.5727503226135906
+data.zagb.txt 2.5727503226135906
+data.zaql.txt 2.5727503226135906
+data.zaub.txt 2.5727503226135906
+data.zbaf.txt 2.5727503226135906
+data.zbfr.txt 2.5727503226135906
+data.zcve.txt 2.5727503226135906
+data.zdwz.txt 2.5727503226135906
+data.zecf.txt 2.5727503226135906
+data.zegz.txt 2.5727503226135906
+data.zejk.txt 2.5727503226135906
+data.zene.txt 4.077712785060798
+data.zenn.txt 4.077712785060798

@@ -1,12 +1,12 @@
 11
-data.bf.txt 1
-data.hg.txt 1
-data.to.txt 1
-data.zasy.txt 1
-data.zbor.txt 2
-data.zbvp.txt 1
-data.zccl.txt 1
-data.zcis.txt 1
-data.zdqx.txt 1
-data.zehb.txt 1
-data.zerw.txt 1
+data.bf.txt 2.6885433903988862
+data.hg.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.zasy.txt 2.6885433903988862
+data.zbor.txt 4.261240455343955
+data.zbvp.txt 2.6885433903988862
+data.zccl.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zdqx.txt 2.6885433903988862
+data.zehb.txt 2.6885433903988862
+data.zerw.txt 2.6885433903988862

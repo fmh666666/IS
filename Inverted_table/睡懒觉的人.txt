@@ -1,6 +1,6 @@
 5
-data.wg.txt 1
-data.ye.txt 1
-data.zafu.txt 1
-data.zbut.txt 1
-data.zdyv.txt 1
+data.wg.txt 3.235060386727117
+data.ye.txt 3.235060386727117
+data.zafu.txt 3.235060386727117
+data.zbut.txt 3.235060386727117
+data.zdyv.txt 3.235060386727117

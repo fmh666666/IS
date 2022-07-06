@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.hg.txt 1
-data.zcdv.txt 1
-data.zcmx.txt 1
-data.zcmy.txt 6
-data.zczp.txt 1
-data.zefp.txt 2
-data.zelt.txt 1
+data.bb.txt 2.9092786962624935
+data.hg.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcmy.txt 8.16737786758984
+data.zczp.txt 2.9092786962624935
+data.zefp.txt 4.611097637722987
+data.zelt.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.vi.txt 1
-data.zbrj.txt 2
-data.zcdz.txt 1
-data.zcmx.txt 1
-data.zcmy.txt 1
-data.zcql.txt 1
-data.zdcy.txt 1
+data.hz.txt 2.9092786962624935
+data.vi.txt 2.9092786962624935
+data.zbrj.txt 4.611097637722987
+data.zcdz.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935

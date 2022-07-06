@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.zbdb.txt 1
-data.zbxw.txt 1
-data.zcdz.txt 1
-data.zdcy.txt 1
-data.zezh.txt 1
+data.kt.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbxw.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zdcy.txt 3.1086847136800873
+data.zezh.txt 3.1086847136800873

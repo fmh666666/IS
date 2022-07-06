@@ -1,4 +1,4 @@
 3
-data.zafy.txt 1
-data.zazo.txt 1
-data.zdeb.txt 1
+data.zafy.txt 3.5891377275982888
+data.zazo.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888

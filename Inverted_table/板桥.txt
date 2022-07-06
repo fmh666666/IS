@@ -1,12 +1,12 @@
 11
-data.cn.txt 1
-data.fz.txt 1
-data.zbpp.txt 1
-data.zbrj.txt 1
-data.zcon.txt 1
-data.zcse.txt 1
-data.zdlg.txt 2
-data.zedo.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zeqh.txt 1
+data.cn.txt 2.6885433903988862
+data.fz.txt 2.6885433903988862
+data.zbpp.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdlg.txt 4.261240455343955
+data.zedo.txt 2.6885433903988862
+data.zene.txt 2.6885433903988862
+data.zeoh.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

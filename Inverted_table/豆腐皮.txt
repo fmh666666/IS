@@ -1,10 +1,10 @@
 9
-data.zaip.txt 1
-data.zaqf.txt 1
-data.zbua.txt 1
-data.zcrg.txt 1
-data.zcrv.txt 1
-data.zcvq.txt 1
-data.zdga.txt 1
-data.zebc.txt 1
-data.zelt.txt 1
+data.zaip.txt 2.82763771717948
+data.zaqf.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zcrv.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zdga.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zelt.txt 2.82763771717948

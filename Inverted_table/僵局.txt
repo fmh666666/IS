@@ -1,12 +1,12 @@
 11
-data.ud.txt 1
-data.vm.txt 1
-data.zbfz.txt 1
-data.zbhd.txt 1
-data.zbnx.txt 1
-data.zciy.txt 1
-data.zcjd.txt 1
-data.zdcy.txt 1
-data.zddb.txt 1
-data.zexm.txt 1
-data.zexx.txt 1
+data.ud.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zciy.txt 2.6885433903988862
+data.zcjd.txt 2.6885433903988862
+data.zdcy.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zexm.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

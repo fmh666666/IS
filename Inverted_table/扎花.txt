@@ -1,5 +1,5 @@
 4
-data.sq.txt 1
-data.zbmw.txt 1
-data.zbot.txt 1
-data.zdzg.txt 2
+data.sq.txt 3.389731710180695
+data.zbmw.txt 3.389731710180695
+data.zbot.txt 3.389731710180695
+data.zdzg.txt 5.372597648141796

@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.mx.txt 1
-data.wg.txt 1
-data.zafk.txt 1
-data.zcrv.txt 1
-data.zczb.txt 1
-data.zdwd.txt 1
-data.zfaj.txt 1
-data.zfaw.txt 1
+data.aj.txt 2.82763771717948
+data.mx.txt 2.82763771717948
+data.wg.txt 2.82763771717948
+data.zafk.txt 2.82763771717948
+data.zcrv.txt 2.82763771717948
+data.zczb.txt 2.82763771717948
+data.zdwd.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948
+data.zfaw.txt 2.82763771717948

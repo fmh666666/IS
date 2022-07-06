@@ -1,5 +1,5 @@
 4
-data.mo.txt 3
-data.zcej.txt 1
-data.zeay.txt 1
-data.zelt.txt 2
+data.mo.txt 6.77946342036139
+data.zcej.txt 3.389731710180695
+data.zeay.txt 3.389731710180695
+data.zelt.txt 5.372597648141796

@@ -1,3 +1,3 @@
 2
-data.zaqp.txt 1
-data.zcll.txt 2
+data.zaqp.txt 3.8701847240988965
+data.zcll.txt 6.134097658560606

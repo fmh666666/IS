@@ -1,6 +1,6 @@
 5
-data.zbmt.txt 1
-data.zcdy.txt 1
-data.zcjd.txt 5
-data.zcls.txt 5
-data.zexk.txt 1
+data.zbmt.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zcjd.txt 8.362509787258078
+data.zcls.txt 8.362509787258078
+data.zexk.txt 3.235060386727117

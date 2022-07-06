@@ -1,14 +1,14 @@
 13
-data.ew.txt 2
-data.zako.txt 1
-data.zane.txt 1
-data.zaxj.txt 1
-data.zbla.txt 1
-data.zbzg.txt 1
-data.zcda.txt 1
-data.zciy.txt 1
-data.zcwq.txt 1
-data.zdgp.txt 1
-data.zdwz.txt 1
-data.zdzg.txt 1
-data.zeva.txt 1
+data.ew.txt 4.077712785060798
+data.zako.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zbla.txt 2.5727503226135906
+data.zbzg.txt 2.5727503226135906
+data.zcda.txt 2.5727503226135906
+data.zciy.txt 2.5727503226135906
+data.zcwq.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zdwz.txt 2.5727503226135906
+data.zdzg.txt 2.5727503226135906
+data.zeva.txt 2.5727503226135906

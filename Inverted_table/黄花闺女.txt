@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zbcv.txt 1
-data.zcbe.txt 1
-data.zcby.txt 1
-data.zcql.txt 1
+data.op.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zcbe.txt 3.235060386727117
+data.zcby.txt 3.235060386727117
+data.zcql.txt 3.235060386727117

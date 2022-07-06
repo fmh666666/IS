@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.yx.txt 1
-data.zbwq.txt 1
-data.zelt.txt 2
+data.ga.txt 3.389731710180695
+data.yx.txt 3.389731710180695
+data.zbwq.txt 3.389731710180695
+data.zelt.txt 5.372597648141796

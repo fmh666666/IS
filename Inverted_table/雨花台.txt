@@ -1,11 +1,11 @@
 10
-data.bf.txt 2
-data.zaet.txt 1
-data.zamp.txt 1
-data.zaxp.txt 1
-data.zbgd.txt 1
-data.zcpb.txt 1
-data.zcse.txt 1
-data.zdaa.txt 1
-data.zeoh.txt 1
-data.zfby.txt 1
+data.bf.txt 4.365949390112154
+data.zaet.txt 2.7546073728089153
+data.zamp.txt 2.7546073728089153
+data.zaxp.txt 2.7546073728089153
+data.zbgd.txt 2.7546073728089153
+data.zcpb.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zdaa.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

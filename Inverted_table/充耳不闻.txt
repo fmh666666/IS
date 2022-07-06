@@ -1,10 +1,10 @@
 9
-data.ka.txt 1
-data.zbcc.txt 1
-data.zbjh.txt 1
-data.zbua.txt 1
-data.zbyv.txt 1
-data.zcdy.txt 1
-data.zcem.txt 1
-data.zcoy.txt 1
-data.zcql.txt 1
+data.ka.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zbua.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zcdy.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcoy.txt 2.82763771717948
+data.zcql.txt 2.82763771717948

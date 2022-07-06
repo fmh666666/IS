@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.wc.txt 2
-data.zbse.txt 1
-data.zcem.txt 1
-data.zcxr.txt 1
-data.zdtr.txt 1
-data.zeeq.txt 1
-data.zeid.txt 1
+data.kt.txt 2.9092786962624935
+data.wc.txt 4.611097637722987
+data.zbse.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935
+data.zeid.txt 2.9092786962624935

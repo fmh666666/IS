@@ -1,10 +1,10 @@
 9
-data.zagr.txt 1
-data.zasr.txt 1
-data.zbfz.txt 1
-data.zcqp.txt 5
-data.zdlo.txt 1
-data.zdod.txt 1
-data.zeds.txt 1
-data.zefw.txt 2
-data.zevy.txt 1
+data.zagr.txt 2.82763771717948
+data.zasr.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zcqp.txt 7.309337464533731
+data.zdlo.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zeds.txt 2.82763771717948
+data.zefw.txt 4.48169974735425
+data.zevy.txt 2.82763771717948

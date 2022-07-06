@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.op.txt 1
-data.zbaf.txt 2
-data.zbeb.txt 1
-data.zcem.txt 4
-data.zcis.txt 2
-data.zdud.txt 2
-data.zeez.txt 1
-data.zeoh.txt 3
-data.zevq.txt 1
-data.zfaj.txt 1
+data.cz.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zbaf.txt 4.261240455343955
+data.zbeb.txt 2.6885433903988862
+data.zcem.txt 6.2426044324908965
+data.zcis.txt 4.261240455343955
+data.zdud.txt 4.261240455343955
+data.zeez.txt 2.6885433903988862
+data.zeoh.txt 5.3770867807977725
+data.zevq.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.ng.txt 1
-data.zazo.txt 2
-data.zcll.txt 1
-data.zcrk.txt 1
-data.zcsu.txt 1
+data.ha.txt 3.1086847136800873
+data.ng.txt 3.1086847136800873
+data.zazo.txt 4.927148697748023
+data.zcll.txt 3.1086847136800873
+data.zcrk.txt 3.1086847136800873
+data.zcsu.txt 3.1086847136800873

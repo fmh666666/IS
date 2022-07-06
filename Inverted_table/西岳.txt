@@ -1,7 +1,7 @@
 6
-data.nh.txt 2
-data.zaqr.txt 1
-data.zayv.txt 1
-data.zazn.txt 1
-data.zbkf.txt 1
-data.zbnx.txt 1
+data.nh.txt 4.927148697748023
+data.zaqr.txt 3.1086847136800873
+data.zayv.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zbkf.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873

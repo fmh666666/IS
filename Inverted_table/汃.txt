@@ -1,4 +1,4 @@
 3
-data.zabx.txt 1
-data.zcak.txt 1
-data.zdvl.txt 1
+data.zabx.txt 3.5891377275982888
+data.zcak.txt 3.5891377275982888
+data.zdvl.txt 3.5891377275982888

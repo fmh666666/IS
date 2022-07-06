@@ -1,2 +1,2 @@
 1
-data.zcbm.txt 2
+data.zcbm.txt 6.8955976689794145

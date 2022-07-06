@@ -1,4 +1,4 @@
 3
-data.zbjk.txt 1
-data.zcyv.txt 2
-data.zedk.txt 2
+data.zbjk.txt 3.5891377275982888
+data.zcyv.txt 5.688648708166832
+data.zedk.txt 5.688648708166832

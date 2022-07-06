@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.tv.txt 8
-data.tz.txt 3
-data.zabj.txt 1
-data.zadv.txt 1
-data.zazo.txt 1
-data.zbor.txt 1
-data.zbot.txt 1
-data.zeoh.txt 2
-data.zfby.txt 1
+data.be.txt 2.7546073728089153
+data.tv.txt 8.731898780224308
+data.tz.txt 5.509214745617831
+data.zabj.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zazo.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zeoh.txt 4.365949390112154
+data.zfby.txt 2.7546073728089153

@@ -1,9 +1,9 @@
 8
-data.ng.txt 1
-data.zajh.txt 1
-data.zane.txt 1
-data.zcel.txt 1
-data.zdod.txt 2
-data.zeaj.txt 1
-data.zehp.txt 1
-data.zfai.txt 1
+data.ng.txt 2.9092786962624935
+data.zajh.txt 2.9092786962624935
+data.zane.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zdod.txt 4.611097637722987
+data.zeaj.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

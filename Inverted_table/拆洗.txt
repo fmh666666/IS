@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zdji.txt 1
-data.zewp.txt 1
+data.tz.txt 3.5891377275982888
+data.zdji.txt 3.5891377275982888
+data.zewp.txt 3.5891377275982888

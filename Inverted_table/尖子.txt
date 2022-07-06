@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zate.txt 2
-data.zbcj.txt 1
-data.zczb.txt 1
-data.zeid.txt 1
-data.zejk.txt 1
+data.tv.txt 3.1086847136800873
+data.zate.txt 4.927148697748023
+data.zbcj.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zeid.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

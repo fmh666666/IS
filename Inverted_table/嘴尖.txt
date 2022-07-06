@@ -1,5 +1,5 @@
 4
-data.ev.txt 1
-data.op.txt 1
-data.zblr.txt 1
-data.zciq.txt 1
+data.ev.txt 3.389731710180695
+data.op.txt 3.389731710180695
+data.zblr.txt 3.389731710180695
+data.zciq.txt 3.389731710180695

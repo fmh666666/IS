@@ -1,7 +1,7 @@
 6
-data.zauy.txt 2
-data.zbdx.txt 1
-data.zcak.txt 1
-data.zdcw.txt 1
-data.zdkk.txt 4
-data.zejk.txt 1
+data.zauy.txt 4.927148697748023
+data.zbdx.txt 3.1086847136800873
+data.zcak.txt 3.1086847136800873
+data.zdcw.txt 3.1086847136800873
+data.zdkk.txt 7.21814237484067
+data.zejk.txt 3.1086847136800873

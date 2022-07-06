@@ -1,7 +1,7 @@
 6
-data.zbsm.txt 1
-data.zeai.txt 1
-data.zeaj.txt 2
-data.zeew.txt 1
-data.zexu.txt 1
-data.zfbr.txt 1
+data.zbsm.txt 3.1086847136800873
+data.zeai.txt 3.1086847136800873
+data.zeaj.txt 4.927148697748023
+data.zeew.txt 3.1086847136800873
+data.zexu.txt 3.1086847136800873
+data.zfbr.txt 3.1086847136800873

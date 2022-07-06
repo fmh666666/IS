@@ -1,9 +1,9 @@
 8
-data.zacw.txt 2
-data.zafu.txt 1
-data.zbeb.txt 1
-data.zbta.txt 1
-data.zecf.txt 1
-data.zefw.txt 1
-data.zegl.txt 1
-data.zfcp.txt 1
+data.zacw.txt 4.611097637722987
+data.zafu.txt 2.9092786962624935
+data.zbeb.txt 2.9092786962624935
+data.zbta.txt 2.9092786962624935
+data.zecf.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935
+data.zegl.txt 2.9092786962624935
+data.zfcp.txt 2.9092786962624935

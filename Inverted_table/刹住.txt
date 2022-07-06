@@ -1,9 +1,9 @@
 8
-data.zalj.txt 1
-data.zawb.txt 1
-data.zaxx.txt 1
-data.zbot.txt 1
-data.zcdg.txt 1
-data.zdpg.txt 1
-data.zenn.txt 1
-data.zexv.txt 1
+data.zalj.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zbot.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zdpg.txt 2.9092786962624935
+data.zenn.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.en.txt 1
-data.zbha.txt 1
-data.zbup.txt 1
-data.zcft.txt 1
-data.zdud.txt 1
-data.zebc.txt 1
+data.en.txt 3.1086847136800873
+data.zbha.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zcft.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873

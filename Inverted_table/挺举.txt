@@ -1,4 +1,4 @@
 3
-data.zdar.txt 1
-data.zduk.txt 1
-data.zexk.txt 2
+data.zdar.txt 3.5891377275982888
+data.zduk.txt 3.5891377275982888
+data.zexk.txt 5.688648708166832

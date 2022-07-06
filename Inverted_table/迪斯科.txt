@@ -1,6 +1,6 @@
 5
-data.mt.txt 1
-data.zawo.txt 1
-data.zbgd.txt 1
-data.zegk.txt 1
-data.zeve.txt 1
+data.mt.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zegk.txt 3.235060386727117
+data.zeve.txt 3.235060386727117

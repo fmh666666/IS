@@ -1,4 +1,4 @@
 3
-data.zafl.txt 1
-data.zdil.txt 1
-data.zdrq.txt 1
+data.zafl.txt 3.5891377275982888
+data.zdil.txt 3.5891377275982888
+data.zdrq.txt 3.5891377275982888

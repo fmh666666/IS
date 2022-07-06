@@ -1,13 +1,13 @@
 12
-data.ek.txt 1
-data.ga.txt 1
-data.tj.txt 1
-data.zafq.txt 1
-data.zalc.txt 1
-data.zapf.txt 1
-data.zaxk.txt 3
-data.zaxp.txt 1
-data.zbut.txt 1
-data.zcjd.txt 1
-data.zcqe.txt 1
-data.zfaz.txt 1
+data.ek.txt 2.628231699761886
+data.ga.txt 2.628231699761886
+data.tj.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zalc.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zaxk.txt 5.256463399523772
+data.zaxp.txt 2.628231699761886
+data.zbut.txt 2.628231699761886
+data.zcjd.txt 2.628231699761886
+data.zcqe.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

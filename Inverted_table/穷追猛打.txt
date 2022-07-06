@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.gk.txt 1
-data.zawu.txt 2
-data.zcql.txt 1
-data.zeds.txt 1
-data.zefd.txt 1
+data.ft.txt 3.1086847136800873
+data.gk.txt 3.1086847136800873
+data.zawu.txt 4.927148697748023
+data.zcql.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873
+data.zefd.txt 3.1086847136800873

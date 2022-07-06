@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zblq.txt 1
-data.zbpx.txt 1
-data.zbqu.txt 1
-data.zcic.txt 1
-data.zezh.txt 1
+data.zabe.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zbqu.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zezh.txt 3.1086847136800873

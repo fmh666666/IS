@@ -1,14 +1,14 @@
 13
-data.dg.txt 1
-data.jd.txt 1
-data.qn.txt 1
-data.zafq.txt 1
-data.zajh.txt 1
-data.zajn.txt 1
-data.zbfx.txt 1
-data.zbgu.txt 1
-data.zbha.txt 1
-data.zcpa.txt 1
-data.zcwq.txt 1
-data.zdyv.txt 1
-data.zewn.txt 1
+data.dg.txt 2.5727503226135906
+data.jd.txt 2.5727503226135906
+data.qn.txt 2.5727503226135906
+data.zafq.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zajn.txt 2.5727503226135906
+data.zbfx.txt 2.5727503226135906
+data.zbgu.txt 2.5727503226135906
+data.zbha.txt 2.5727503226135906
+data.zcpa.txt 2.5727503226135906
+data.zcwq.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zewn.txt 2.5727503226135906

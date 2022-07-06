@@ -1,13 +1,13 @@
 12
-data.kt.txt 1
-data.qb.txt 4
-data.zabx.txt 3
-data.zalc.txt 2
-data.zayc.txt 1
-data.zbaq.txt 2
-data.zbvn.txt 4
-data.zbvp.txt 4
-data.zcpc.txt 1
-data.zdic.txt 1
-data.zefp.txt 1
-data.zerw.txt 1
+data.kt.txt 2.628231699761886
+data.qb.txt 6.1025650235506905
+data.zabx.txt 5.256463399523772
+data.zalc.txt 4.165648687329214
+data.zayc.txt 2.628231699761886
+data.zbaq.txt 4.165648687329214
+data.zbvn.txt 6.1025650235506905
+data.zbvp.txt 6.1025650235506905
+data.zcpc.txt 2.628231699761886
+data.zdic.txt 2.628231699761886
+data.zefp.txt 2.628231699761886
+data.zerw.txt 2.628231699761886

@@ -1,4 +1,4 @@
 3
-data.bf.txt 1
-data.zadv.txt 2
-data.zdwn.txt 1
+data.bf.txt 3.5891377275982888
+data.zadv.txt 5.688648708166832
+data.zdwn.txt 3.5891377275982888

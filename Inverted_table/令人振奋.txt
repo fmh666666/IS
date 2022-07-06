@@ -1,5 +1,5 @@
 4
-data.zacw.txt 2
-data.zbga.txt 1
-data.zbkv.txt 1
-data.zcmx.txt 1
+data.zacw.txt 5.372597648141796
+data.zbga.txt 3.389731710180695
+data.zbkv.txt 3.389731710180695
+data.zcmx.txt 3.389731710180695

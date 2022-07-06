@@ -1,6 +1,6 @@
 5
-data.tz.txt 2
-data.zaic.txt 1
-data.zawb.txt 1
-data.zbfr.txt 1
-data.zbux.txt 1
+data.tz.txt 5.1274494005309625
+data.zaic.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbfr.txt 3.235060386727117
+data.zbux.txt 3.235060386727117

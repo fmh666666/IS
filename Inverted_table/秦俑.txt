@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zajo.txt 2
-data.zapr.txt 1
-data.zaxk.txt 1
-data.zbup.txt 1
-data.zcuh.txt 1
+data.hp.txt 3.1086847136800873
+data.zajo.txt 4.927148697748023
+data.zapr.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zcuh.txt 3.1086847136800873

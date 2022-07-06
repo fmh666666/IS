@@ -1,4 +1,4 @@
 3
-data.tv.txt 1
-data.zcfn.txt 1
-data.zdrq.txt 1
+data.tv.txt 3.5891377275982888
+data.zcfn.txt 3.5891377275982888
+data.zdrq.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.ye.txt 4
-data.zafq.txt 4
-data.zbsl.txt 1
-data.zbxy.txt 1
-data.zbzf.txt 2
-data.zcll.txt 3
-data.zdou.txt 1
-data.zegz.txt 1
+data.ye.txt 6.7551359407091605
+data.zafq.txt 6.7551359407091605
+data.zbsl.txt 2.9092786962624935
+data.zbxy.txt 2.9092786962624935
+data.zbzf.txt 4.611097637722987
+data.zcll.txt 5.818557392524987
+data.zdou.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935

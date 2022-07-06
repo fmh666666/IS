@@ -1,13 +1,13 @@
 12
-data.ff.txt 1
-data.hp.txt 1
-data.op.txt 1
-data.zacw.txt 1
-data.zane.txt 1
-data.zawc.txt 1
-data.zbpx.txt 1
-data.zcue.txt 1
-data.zdic.txt 1
-data.zdqk.txt 1
-data.zdzg.txt 1
-data.zexv.txt 2
+data.ff.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zane.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zdic.txt 2.628231699761886
+data.zdqk.txt 2.628231699761886
+data.zdzg.txt 2.628231699761886
+data.zexv.txt 4.165648687329214

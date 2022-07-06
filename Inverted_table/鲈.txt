@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zazo.txt 1
-data.zciq.txt 1
+data.mo.txt 3.5891377275982888
+data.zazo.txt 3.5891377275982888
+data.zciq.txt 3.5891377275982888

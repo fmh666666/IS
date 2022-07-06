@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.zagr.txt 1
-data.zalj.txt 6
-data.zaqw.txt 2
-data.zazn.txt 1
-data.zcao.txt 1
-data.zcll.txt 2
-data.zcls.txt 1
-data.zdle.txt 1
-data.zdqz.txt 2
-data.zdzg.txt 1
-data.zewv.txt 3
+data.cf.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zalj.txt 7.378379198634354
+data.zaqw.txt 4.165648687329214
+data.zazn.txt 2.628231699761886
+data.zcao.txt 2.628231699761886
+data.zcll.txt 4.165648687329214
+data.zcls.txt 2.628231699761886
+data.zdle.txt 2.628231699761886
+data.zdqz.txt 4.165648687329214
+data.zdzg.txt 2.628231699761886
+data.zewv.txt 5.256463399523772

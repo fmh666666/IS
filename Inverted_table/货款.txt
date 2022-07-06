@@ -1,11 +1,11 @@
 10
-data.zaim.txt 1
-data.zbeb.txt 1
-data.zbgu.txt 1
-data.zbhd.txt 2
-data.zbtx.txt 1
-data.zcfx.txt 3
-data.zcmy.txt 1
-data.zcsu.txt 1
-data.zeoo.txt 1
-data.zfai.txt 1
+data.zaim.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbgu.txt 2.7546073728089153
+data.zbhd.txt 4.365949390112154
+data.zbtx.txt 2.7546073728089153
+data.zcfx.txt 5.509214745617831
+data.zcmy.txt 2.7546073728089153
+data.zcsu.txt 2.7546073728089153
+data.zeoo.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

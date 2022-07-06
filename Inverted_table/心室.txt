@@ -1,6 +1,6 @@
 5
-data.zard.txt 2
-data.zbaf.txt 1
-data.zcmv.txt 1
-data.zdcj.txt 2
-data.zdou.txt 1
+data.zard.txt 5.1274494005309625
+data.zbaf.txt 3.235060386727117
+data.zcmv.txt 3.235060386727117
+data.zdcj.txt 5.1274494005309625
+data.zdou.txt 3.235060386727117

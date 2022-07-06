@@ -1,6 +1,6 @@
 5
-data.zcdv.txt 1
-data.zcmv.txt 1
-data.zcqg.txt 1
-data.zdud.txt 1
-data.zfai.txt 2
+data.zcdv.txt 3.235060386727117
+data.zcmv.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zdud.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

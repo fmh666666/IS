@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.zaim.txt 1
-data.zbuj.txt 1
-data.zefp.txt 1
-data.zeoo.txt 1
+data.mo.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zbuj.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

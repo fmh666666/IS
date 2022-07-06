@@ -1,7 +1,7 @@
 6
-data.mk.txt 2
-data.zafl.txt 2
-data.zaxj.txt 1
-data.zaxk.txt 4
-data.zbnx.txt 1
-data.zdgv.txt 1
+data.mk.txt 4.927148697748023
+data.zafl.txt 4.927148697748023
+data.zaxj.txt 3.1086847136800873
+data.zaxk.txt 7.21814237484067
+data.zbnx.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.zaeh.txt 1
-data.zdeb.txt 1
-data.zdlw.txt 1
-data.zfaz.txt 1
+data.zaeh.txt 3.389731710180695
+data.zdeb.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695
+data.zfaz.txt 3.389731710180695

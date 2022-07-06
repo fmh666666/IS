@@ -1,4 +1,4 @@
 3
-data.zedk.txt 1
-data.zegk.txt 2
-data.zehb.txt 2
+data.zedk.txt 3.5891377275982888
+data.zegk.txt 5.688648708166832
+data.zehb.txt 5.688648708166832

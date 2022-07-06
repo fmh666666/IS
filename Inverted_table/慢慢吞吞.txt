@@ -1,4 +1,4 @@
 3
-data.zdbf.txt 1
-data.zeag.txt 1
-data.zfcg.txt 1
+data.zdbf.txt 3.5891377275982888
+data.zeag.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

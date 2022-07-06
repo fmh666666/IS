@@ -1,11 +1,11 @@
 10
-data.ee.txt 1
-data.uz.txt 1
-data.zbjc.txt 4
-data.zbre.txt 1
-data.zcic.txt 1
-data.zcmy.txt 2
-data.zdbf.txt 1
-data.zdby.txt 2
-data.zdju.txt 1
-data.zeob.txt 2
+data.ee.txt 2.7546073728089153
+data.uz.txt 2.7546073728089153
+data.zbjc.txt 6.396000249308887
+data.zbre.txt 2.7546073728089153
+data.zcic.txt 2.7546073728089153
+data.zcmy.txt 4.365949390112154
+data.zdbf.txt 2.7546073728089153
+data.zdby.txt 4.365949390112154
+data.zdju.txt 2.7546073728089153
+data.zeob.txt 4.365949390112154

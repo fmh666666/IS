@@ -1,14 +1,14 @@
 13
-data.gk.txt 1
-data.jf.txt 1
-data.zblr.txt 1
-data.zcxq.txt 1
-data.zdeb.txt 2
-data.zdic.txt 1
-data.zdud.txt 1
-data.zdwn.txt 1
-data.zedo.txt 3
-data.zexk.txt 1
-data.zexv.txt 1
-data.zeyy.txt 1
-data.zfai.txt 1
+data.gk.txt 2.5727503226135906
+data.jf.txt 2.5727503226135906
+data.zblr.txt 2.5727503226135906
+data.zcxq.txt 2.5727503226135906
+data.zdeb.txt 4.077712785060798
+data.zdic.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zdwn.txt 2.5727503226135906
+data.zedo.txt 5.145500645227181
+data.zexk.txt 2.5727503226135906
+data.zexv.txt 2.5727503226135906
+data.zeyy.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

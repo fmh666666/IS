@@ -1,4 +1,4 @@
 3
-data.zadv.txt 2
-data.zakb.txt 1
-data.zcjo.txt 2
+data.zadv.txt 5.688648708166832
+data.zakb.txt 3.5891377275982888
+data.zcjo.txt 5.688648708166832

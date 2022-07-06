@@ -1,13 +1,13 @@
 12
-data.mu.txt 1
-data.wc.txt 1
-data.zaop.txt 3
-data.zbel.txt 1
-data.zbux.txt 1
-data.zbvm.txt 1
-data.zbvn.txt 1
-data.zbvp.txt 2
-data.zcjy.txt 1
-data.zcnn.txt 1
-data.zdrq.txt 1
-data.zegn.txt 2
+data.mu.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.zaop.txt 5.256463399523772
+data.zbel.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zbvn.txt 2.628231699761886
+data.zbvp.txt 4.165648687329214
+data.zcjy.txt 2.628231699761886
+data.zcnn.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zegn.txt 4.165648687329214

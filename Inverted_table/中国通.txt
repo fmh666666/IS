@@ -1,9 +1,9 @@
 8
-data.zahd.txt 2
-data.zair.txt 1
-data.zamr.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zcqe.txt 2
-data.zelt.txt 1
-data.zevq.txt 3
+data.zahd.txt 4.611097637722987
+data.zair.txt 2.9092786962624935
+data.zamr.txt 2.9092786962624935
+data.zbhd.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zcqe.txt 4.611097637722987
+data.zelt.txt 2.9092786962624935
+data.zevq.txt 5.818557392524987

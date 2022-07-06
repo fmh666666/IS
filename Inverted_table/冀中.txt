@@ -1,6 +1,6 @@
 5
-data.hp.txt 4
-data.op.txt 3
-data.zajo.txt 3
-data.zdme.txt 3
-data.zfae.txt 1
+data.hp.txt 7.511577600598868
+data.op.txt 6.470120773454234
+data.zajo.txt 6.470120773454234
+data.zdme.txt 6.470120773454234
+data.zfae.txt 3.235060386727117

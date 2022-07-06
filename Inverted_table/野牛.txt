@@ -1,12 +1,12 @@
 11
-data.hc.txt 1
-data.zaql.txt 1
-data.zarr.txt 1
-data.zass.txt 3
-data.zazo.txt 1
-data.zbcj.txt 1
-data.zbnx.txt 1
-data.zcse.txt 1
-data.zdbf.txt 1
-data.zeel.txt 2
-data.zfai.txt 2
+data.hc.txt 2.6885433903988862
+data.zaql.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zass.txt 5.3770867807977725
+data.zazo.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdbf.txt 2.6885433903988862
+data.zeel.txt 4.261240455343955
+data.zfai.txt 4.261240455343955

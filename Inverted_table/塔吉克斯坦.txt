@@ -1,4 +1,4 @@
 3
-data.zawc.txt 1
-data.zawo.txt 1
-data.zbsm.txt 2
+data.zawc.txt 3.5891377275982888
+data.zawo.txt 3.5891377275982888
+data.zbsm.txt 5.688648708166832

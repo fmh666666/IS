@@ -1,9 +1,9 @@
 8
-data.zajo.txt 1
-data.zazn.txt 1
-data.zbha.txt 1
-data.zbua.txt 2
-data.zcko.txt 4
-data.zclh.txt 1
-data.zczj.txt 1
-data.zerh.txt 1
+data.zajo.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbua.txt 4.611097637722987
+data.zcko.txt 6.7551359407091605
+data.zclh.txt 2.9092786962624935
+data.zczj.txt 2.9092786962624935
+data.zerh.txt 2.9092786962624935

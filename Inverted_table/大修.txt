@@ -1,13 +1,13 @@
 12
-data.hp.txt 1
-data.ka.txt 1
-data.zamp.txt 1
-data.zaoy.txt 1
-data.zaxx.txt 1
-data.zayd.txt 1
-data.zazo.txt 1
-data.zbeb.txt 1
-data.zbxy.txt 1
-data.zdhw.txt 1
-data.zdro.txt 1
-data.zefv.txt 1
+data.hp.txt 2.628231699761886
+data.ka.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zaoy.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zayd.txt 2.628231699761886
+data.zazo.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbxy.txt 2.628231699761886
+data.zdhw.txt 2.628231699761886
+data.zdro.txt 2.628231699761886
+data.zefv.txt 2.628231699761886

@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.ye.txt 1
-data.yx.txt 3
-data.zacd.txt 1
-data.zapr.txt 1
-data.zazn.txt 2
-data.zbeb.txt 2
-data.zbrj.txt 1
-data.zccx.txt 1
-data.zcxr.txt 2
-data.zdtr.txt 1
+data.fp.txt 2.6885433903988862
+data.ye.txt 2.6885433903988862
+data.yx.txt 5.3770867807977725
+data.zacd.txt 2.6885433903988862
+data.zapr.txt 2.6885433903988862
+data.zazn.txt 4.261240455343955
+data.zbeb.txt 4.261240455343955
+data.zbrj.txt 2.6885433903988862
+data.zccx.txt 2.6885433903988862
+data.zcxr.txt 4.261240455343955
+data.zdtr.txt 2.6885433903988862

@@ -1,5 +1,5 @@
 4
-data.ev.txt 5
-data.zcdv.txt 1
-data.zcrv.txt 7
-data.zdds.txt 1
+data.ev.txt 8.762329358322491
+data.zcdv.txt 3.389731710180695
+data.zcrv.txt 10.169195130542084
+data.zdds.txt 3.389731710180695

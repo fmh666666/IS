@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zbkr.txt 1
-data.zctm.txt 1
-data.zdkv.txt 1
-data.zewn.txt 2
+data.hp.txt 3.235060386727117
+data.zbkr.txt 3.235060386727117
+data.zctm.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117
+data.zewn.txt 5.1274494005309625

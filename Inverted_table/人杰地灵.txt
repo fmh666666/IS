@@ -1,7 +1,7 @@
 6
-data.zamr.txt 1
-data.zaxk.txt 1
-data.zcef.txt 1
-data.zcej.txt 1
-data.zckd.txt 1
-data.zebn.txt 1
+data.zamr.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zcej.txt 3.1086847136800873
+data.zckd.txt 3.1086847136800873
+data.zebn.txt 3.1086847136800873

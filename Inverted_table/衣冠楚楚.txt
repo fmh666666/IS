@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zatz.txt 1
-data.zdgt.txt 1
-data.zdic.txt 1
-data.zeoh.txt 1
+data.vi.txt 3.235060386727117
+data.zatz.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zdic.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

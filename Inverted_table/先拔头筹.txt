@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.zbre.txt 1
-data.zbye.txt 1
-data.zeds.txt 1
-data.zexx.txt 2
+data.be.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zeds.txt 3.235060386727117
+data.zexx.txt 5.1274494005309625

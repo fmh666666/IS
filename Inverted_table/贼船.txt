@@ -1,9 +1,9 @@
 8
-data.zbsm.txt 3
-data.zbux.txt 2
-data.zcaq.txt 1
-data.zccu.txt 1
-data.zdga.txt 1
-data.zdle.txt 4
-data.zdlg.txt 2
-data.zenn.txt 1
+data.zbsm.txt 5.818557392524987
+data.zbux.txt 4.611097637722987
+data.zcaq.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zdga.txt 2.9092786962624935
+data.zdle.txt 6.7551359407091605
+data.zdlg.txt 4.611097637722987
+data.zenn.txt 2.9092786962624935

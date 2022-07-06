@@ -1,9 +1,9 @@
 8
-data.qn.txt 1
-data.zahd.txt 1
-data.zdll.txt 1
-data.zeew.txt 1
-data.zene.txt 1
-data.zfai.txt 2
-data.zfaj.txt 2
-data.zfdk.txt 1
+data.qn.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zdll.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935
+data.zfai.txt 4.611097637722987
+data.zfaj.txt 4.611097637722987
+data.zfdk.txt 2.9092786962624935

@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zabe.txt 1
-data.zaop.txt 1
-data.zapl.txt 2
-data.zcww.txt 1
-data.zddv.txt 2
-data.zdtr.txt 1
-data.zesq.txt 1
-data.zfcj.txt 2
+data.fp.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zaop.txt 2.82763771717948
+data.zapl.txt 4.48169974735425
+data.zcww.txt 2.82763771717948
+data.zddv.txt 4.48169974735425
+data.zdtr.txt 2.82763771717948
+data.zesq.txt 2.82763771717948
+data.zfcj.txt 4.48169974735425

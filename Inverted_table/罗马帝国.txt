@@ -1,10 +1,10 @@
 9
-data.ff.txt 1
-data.mt.txt 1
-data.zafy.txt 3
-data.zalt.txt 1
-data.zasw.txt 1
-data.zbla.txt 1
-data.zbrj.txt 1
-data.zcdv.txt 1
-data.zdaw.txt 1
+data.ff.txt 2.82763771717948
+data.mt.txt 2.82763771717948
+data.zafy.txt 5.65527543435896
+data.zalt.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zbrj.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948

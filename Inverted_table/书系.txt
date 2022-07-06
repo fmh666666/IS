@@ -1,9 +1,9 @@
 8
-data.ew.txt 1
-data.zasd.txt 3
-data.zawu.txt 1
-data.zblq.txt 1
-data.zbrj.txt 1
-data.zdpw.txt 1
-data.zeds.txt 1
-data.zemb.txt 1
+data.ew.txt 2.9092786962624935
+data.zasd.txt 5.818557392524987
+data.zawu.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935

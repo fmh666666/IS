@@ -1,10 +1,10 @@
 9
-data.zabe.txt 1
-data.zbru.txt 2
-data.zcxh.txt 1
-data.zdof.txt 1
-data.zdzg.txt 3
-data.zeew.txt 1
-data.zenn.txt 1
-data.zevl.txt 1
-data.zevt.txt 1
+data.zabe.txt 2.82763771717948
+data.zbru.txt 4.48169974735425
+data.zcxh.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zdzg.txt 5.65527543435896
+data.zeew.txt 2.82763771717948
+data.zenn.txt 2.82763771717948
+data.zevl.txt 2.82763771717948
+data.zevt.txt 2.82763771717948

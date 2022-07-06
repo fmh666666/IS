@@ -1,5 +1,5 @@
 4
-data.zagr.txt 1
-data.zasw.txt 1
-data.zejn.txt 1
-data.zerv.txt 1
+data.zagr.txt 3.389731710180695
+data.zasw.txt 3.389731710180695
+data.zejn.txt 3.389731710180695
+data.zerv.txt 3.389731710180695

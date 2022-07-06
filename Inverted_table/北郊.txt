@@ -1,7 +1,7 @@
 6
-data.zahd.txt 1
-data.zawo.txt 1
-data.zdzi.txt 2
-data.zeam.txt 1
-data.zegz.txt 1
-data.zerh.txt 1
+data.zahd.txt 3.1086847136800873
+data.zawo.txt 3.1086847136800873
+data.zdzi.txt 4.927148697748023
+data.zeam.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zerh.txt 3.1086847136800873

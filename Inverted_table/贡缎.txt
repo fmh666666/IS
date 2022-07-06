@@ -1,5 +1,5 @@
 4
-data.zayv.txt 1
-data.zbzo.txt 1
-data.zcbe.txt 1
-data.zdkp.txt 1
+data.zayv.txt 3.389731710180695
+data.zbzo.txt 3.389731710180695
+data.zcbe.txt 3.389731710180695
+data.zdkp.txt 3.389731710180695

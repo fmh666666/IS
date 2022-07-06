@@ -1,6 +1,6 @@
 5
-data.fp.txt 2
-data.zaet.txt 2
-data.zazg.txt 2
-data.zbyb.txt 2
-data.zdil.txt 2
+data.fp.txt 5.1274494005309625
+data.zaet.txt 5.1274494005309625
+data.zazg.txt 5.1274494005309625
+data.zbyb.txt 5.1274494005309625
+data.zdil.txt 5.1274494005309625

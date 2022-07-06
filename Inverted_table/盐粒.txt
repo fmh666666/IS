@@ -1,4 +1,4 @@
 3
-data.zbye.txt 1
-data.zehj.txt 2
-data.zeyy.txt 1
+data.zbye.txt 3.5891377275982888
+data.zehj.txt 5.688648708166832
+data.zeyy.txt 3.5891377275982888

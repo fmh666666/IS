@@ -1,5 +1,5 @@
 4
-data.zaxp.txt 1
-data.zbha.txt 1
-data.zdoc.txt 1
-data.zesq.txt 1
+data.zaxp.txt 3.389731710180695
+data.zbha.txt 3.389731710180695
+data.zdoc.txt 3.389731710180695
+data.zesq.txt 3.389731710180695

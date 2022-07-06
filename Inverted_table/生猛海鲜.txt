@@ -1,4 +1,4 @@
 3
-data.zbcv.txt 1
-data.zcue.txt 1
-data.zefp.txt 1
+data.zbcv.txt 3.5891377275982888
+data.zcue.txt 3.5891377275982888
+data.zefp.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.zaqr.txt 1
-data.zbdb.txt 2
-data.zcxq.txt 1
-data.zelt.txt 1
-data.zene.txt 1
-data.zfaj.txt 3
+data.zaqr.txt 3.1086847136800873
+data.zbdb.txt 4.927148697748023
+data.zcxq.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zfaj.txt 6.2173694273601745

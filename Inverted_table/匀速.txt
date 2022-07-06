@@ -1,11 +1,11 @@
 10
-data.vi.txt 1
-data.zbcc.txt 1
-data.zbfp.txt 1
-data.zbrj.txt 1
-data.zcak.txt 1
-data.zcse.txt 1
-data.zebf.txt 1
-data.zedk.txt 1
-data.zefp.txt 1
-data.zfcp.txt 1
+data.vi.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zcak.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zebf.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zfcp.txt 2.7546073728089153

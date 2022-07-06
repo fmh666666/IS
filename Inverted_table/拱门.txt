@@ -1,8 +1,8 @@
 7
-data.gw.txt 1
-data.zaim.txt 1
-data.zaub.txt 1
-data.zdmw.txt 2
-data.zdoq.txt 1
-data.zdud.txt 1
-data.zebc.txt 1
+data.gw.txt 3.0018356045764243
+data.zaim.txt 3.0018356045764243
+data.zaub.txt 3.0018356045764243
+data.zdmw.txt 4.757796866583254
+data.zdoq.txt 3.0018356045764243
+data.zdud.txt 3.0018356045764243
+data.zebc.txt 3.0018356045764243

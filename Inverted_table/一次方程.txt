@@ -1,10 +1,10 @@
 9
-data.cn.txt 1
-data.zbaf.txt 1
-data.zbnx.txt 1
-data.zbrj.txt 1
-data.zbzf.txt 1
-data.zciy.txt 1
-data.zcpc.txt 1
-data.zdlm.txt 1
-data.zduk.txt 1
+data.cn.txt 2.82763771717948
+data.zbaf.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbrj.txt 2.82763771717948
+data.zbzf.txt 2.82763771717948
+data.zciy.txt 2.82763771717948
+data.zcpc.txt 2.82763771717948
+data.zdlm.txt 2.82763771717948
+data.zduk.txt 2.82763771717948

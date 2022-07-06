@@ -1,9 +1,9 @@
 8
-data.yx.txt 1
-data.zajn.txt 1
-data.zarr.txt 1
-data.zcdg.txt 1
-data.zcdv.txt 1
-data.zctp.txt 1
-data.zdoq.txt 1
-data.zdzn.txt 1
+data.yx.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zarr.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935

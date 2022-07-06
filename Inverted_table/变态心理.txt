@@ -1,7 +1,7 @@
 6
-data.zbhd.txt 2
-data.zcby.txt 1
-data.zcve.txt 1
-data.zdcj.txt 2
-data.zdcy.txt 1
-data.zevt.txt 1
+data.zbhd.txt 4.927148697748023
+data.zcby.txt 3.1086847136800873
+data.zcve.txt 3.1086847136800873
+data.zdcj.txt 4.927148697748023
+data.zdcy.txt 3.1086847136800873
+data.zevt.txt 3.1086847136800873

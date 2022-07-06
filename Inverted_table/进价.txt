@@ -1,6 +1,6 @@
 5
-data.zamr.txt 1
-data.zawc.txt 1
-data.zbhd.txt 1
-data.zete.txt 164
-data.zezm.txt 1
+data.zamr.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zete.txt 23.830497191174622
+data.zezm.txt 3.235060386727117

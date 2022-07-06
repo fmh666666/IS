@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.zbwq.txt 1
-data.zcon.txt 1
-data.zcue.txt 1
-data.zexv.txt 1
+data.jf.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

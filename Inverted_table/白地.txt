@@ -1,4 +1,4 @@
 3
-data.cq.txt 2
-data.zbzg.txt 1
-data.zcsu.txt 1
+data.cq.txt 5.688648708166832
+data.zbzg.txt 3.5891377275982888
+data.zcsu.txt 3.5891377275982888

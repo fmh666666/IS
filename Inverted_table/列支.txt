@@ -1,3 +1,3 @@
 2
-data.zcdz.txt 1
-data.zcuh.txt 1
+data.zcdz.txt 3.8701847240988965
+data.zcuh.txt 3.8701847240988965

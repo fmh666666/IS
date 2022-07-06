@@ -1,6 +1,6 @@
 5
-data.ud.txt 2
-data.zbgw.txt 6
-data.zcee.txt 1
-data.zcku.txt 1
-data.zezy.txt 1
+data.ud.txt 5.1274494005309625
+data.zbgw.txt 9.081962699831948
+data.zcee.txt 3.235060386727117
+data.zcku.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

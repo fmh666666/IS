@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zazw.txt 2
-data.zazx.txt 3
-data.zcby.txt 1
-data.zeyg.txt 1
+data.zawb.txt 3.235060386727117
+data.zazw.txt 5.1274494005309625
+data.zazx.txt 6.470120773454234
+data.zcby.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.zbaq.txt 2
-data.zbxy.txt 1
-data.zehb.txt 1
-data.zexx.txt 1
+data.zbaq.txt 5.372597648141796
+data.zbxy.txt 3.389731710180695
+data.zehb.txt 3.389731710180695
+data.zexx.txt 3.389731710180695

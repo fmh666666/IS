@@ -1,7 +1,7 @@
 6
-data.zaqr.txt 2
-data.zbrj.txt 1
-data.zczj.txt 1
-data.zddv.txt 1
-data.zefp.txt 1
-data.zexv.txt 2
+data.zaqr.txt 4.927148697748023
+data.zbrj.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zddv.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873
+data.zexv.txt 4.927148697748023

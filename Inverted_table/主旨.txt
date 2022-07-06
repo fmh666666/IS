@@ -1,12 +1,12 @@
 11
-data.zbpx.txt 1
-data.zbvp.txt 1
-data.zcem.txt 1
-data.zcsu.txt 1
-data.zctp.txt 1
-data.zcvq.txt 1
-data.zddv.txt 1
-data.zdle.txt 1
-data.zdqq.txt 1
-data.zebc.txt 1
-data.zerv.txt 1
+data.zbpx.txt 2.6885433903988862
+data.zbvp.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcsu.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zcvq.txt 2.6885433903988862
+data.zddv.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdqq.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zerv.txt 2.6885433903988862

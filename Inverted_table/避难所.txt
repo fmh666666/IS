@@ -1,11 +1,11 @@
 10
-data.kt.txt 1
-data.tz.txt 1
-data.zacp.txt 1
-data.zafe.txt 1
-data.zahd.txt 2
-data.zawc.txt 1
-data.zawu.txt 2
-data.zbdx.txt 1
-data.zdeb.txt 1
-data.zdzg.txt 1
+data.kt.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zacp.txt 2.7546073728089153
+data.zafe.txt 2.7546073728089153
+data.zahd.txt 4.365949390112154
+data.zawc.txt 2.7546073728089153
+data.zawu.txt 4.365949390112154
+data.zbdx.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zdzg.txt 2.7546073728089153

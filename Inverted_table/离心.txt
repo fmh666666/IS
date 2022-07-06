@@ -1,12 +1,12 @@
 11
-data.jf.txt 8
-data.nh.txt 1
-data.pa.txt 1
-data.tj.txt 2
-data.zabe.txt 1
-data.zazw.txt 1
-data.zbds.txt 1
-data.zbel.txt 1
-data.zbjh.txt 11
-data.zcmn.txt 1
-data.zczp.txt 2
+data.jf.txt 8.52248091068791
+data.nh.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.tj.txt 4.261240455343955
+data.zabe.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbel.txt 2.6885433903988862
+data.zbjh.txt 9.638327236141729
+data.zcmn.txt 2.6885433903988862
+data.zczp.txt 4.261240455343955

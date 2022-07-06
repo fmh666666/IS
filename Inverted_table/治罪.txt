@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.fp.txt 1
-data.zaqf.txt 1
-data.zawb.txt 1
-data.zawc.txt 1
-data.zcdz.txt 1
-data.zdep.txt 1
-data.zefd.txt 1
+data.be.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.zaqf.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935

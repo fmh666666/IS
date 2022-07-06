@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.ff.txt 1
-data.ka.txt 1
-data.zcby.txt 1
-data.zcts.txt 1
-data.zdgt.txt 1
-data.zdwv.txt 1
-data.zebc.txt 1
-data.zexm.txt 1
+data.bs.txt 2.82763771717948
+data.ff.txt 2.82763771717948
+data.ka.txt 2.82763771717948
+data.zcby.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zdwv.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zexm.txt 2.82763771717948

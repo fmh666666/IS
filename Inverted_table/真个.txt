@@ -1,9 +1,9 @@
 8
-data.dg.txt 1
-data.ok.txt 1
-data.zacw.txt 1
-data.zank.txt 1
-data.zasr.txt 6
-data.zazo.txt 1
-data.zdcy.txt 1
-data.zeel.txt 1
+data.dg.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zasr.txt 8.16737786758984
+data.zazo.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935

@@ -1,13 +1,13 @@
 12
-data.mt.txt 1
-data.zacp.txt 1
-data.zaql.txt 1
-data.zasy.txt 1
-data.zawo.txt 1
-data.zayd.txt 1
-data.zcmx.txt 2
-data.zdaa.txt 1
-data.zebc.txt 1
-data.zedo.txt 1
-data.zeew.txt 1
-data.zexv.txt 1
+data.mt.txt 2.628231699761886
+data.zacp.txt 2.628231699761886
+data.zaql.txt 2.628231699761886
+data.zasy.txt 2.628231699761886
+data.zawo.txt 2.628231699761886
+data.zayd.txt 2.628231699761886
+data.zcmx.txt 4.165648687329214
+data.zdaa.txt 2.628231699761886
+data.zebc.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zeew.txt 2.628231699761886
+data.zexv.txt 2.628231699761886

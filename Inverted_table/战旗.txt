@@ -1,4 +1,4 @@
 3
-data.zawb.txt 1
-data.zbgd.txt 1
-data.zdpf.txt 1
+data.zawb.txt 3.5891377275982888
+data.zbgd.txt 3.5891377275982888
+data.zdpf.txt 3.5891377275982888

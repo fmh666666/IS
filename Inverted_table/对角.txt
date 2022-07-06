@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.zadv.txt 1
-data.zazw.txt 1
-data.zbkj.txt 3
-data.zeam.txt 2
-data.zefs.txt 1
+data.tv.txt 3.1086847136800873
+data.zadv.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zbkj.txt 6.2173694273601745
+data.zeam.txt 4.927148697748023
+data.zefs.txt 3.1086847136800873

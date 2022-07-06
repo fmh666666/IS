@@ -1,11 +1,11 @@
 10
-data.co.txt 4
-data.tv.txt 1
-data.tz.txt 1
-data.zakb.txt 1
-data.zblq.txt 1
-data.zbqu.txt 1
-data.zbsu.txt 2
-data.zcdv.txt 4
-data.zdgo.txt 1
-data.zdod.txt 1
+data.co.txt 6.396000249308887
+data.tv.txt 2.7546073728089153
+data.tz.txt 2.7546073728089153
+data.zakb.txt 2.7546073728089153
+data.zblq.txt 2.7546073728089153
+data.zbqu.txt 2.7546073728089153
+data.zbsu.txt 4.365949390112154
+data.zcdv.txt 6.396000249308887
+data.zdgo.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153

@@ -1,7 +1,7 @@
 6
-data.nh.txt 2
-data.zajo.txt 1
-data.zawc.txt 1
-data.zbkf.txt 1
-data.zdkk.txt 1
-data.zess.txt 1
+data.nh.txt 4.927148697748023
+data.zajo.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbkf.txt 3.1086847136800873
+data.zdkk.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873

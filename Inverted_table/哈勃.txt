@@ -1,7 +1,7 @@
 6
-data.kq.txt 2
-data.ok.txt 2
-data.zbkj.txt 1
-data.zbzf.txt 1
-data.zeez.txt 1
-data.zeve.txt 2
+data.kq.txt 4.927148697748023
+data.ok.txt 4.927148697748023
+data.zbkj.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873
+data.zeve.txt 4.927148697748023

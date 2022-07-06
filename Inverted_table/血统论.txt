@@ -1,4 +1,4 @@
 3
-data.op.txt 4
-data.zbpp.txt 1
-data.zezy.txt 1
+data.op.txt 8.333719726130651
+data.zbpp.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

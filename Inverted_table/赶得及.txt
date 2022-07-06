@@ -1,6 +1,6 @@
 5
-data.co.txt 6
-data.vm.txt 1
-data.zawz.txt 1
-data.zdqq.txt 1
-data.zesi.txt 1
+data.co.txt 9.081962699831948
+data.vm.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zdqq.txt 3.235060386727117
+data.zesi.txt 3.235060386727117

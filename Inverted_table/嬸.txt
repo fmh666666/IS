@@ -1,6 +1,6 @@
 5
-data.ew.txt 2
-data.zbsu.txt 1
-data.zdlo.txt 2
-data.zedk.txt 2
-data.zenn.txt 2
+data.ew.txt 5.1274494005309625
+data.zbsu.txt 3.235060386727117
+data.zdlo.txt 5.1274494005309625
+data.zedk.txt 5.1274494005309625
+data.zenn.txt 5.1274494005309625

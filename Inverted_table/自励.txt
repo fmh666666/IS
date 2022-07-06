@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zbls.txt 1
-data.zbye.txt 1
-data.zcdz.txt 1
-data.zdgv.txt 1
-data.zdyv.txt 1
-data.zebv.txt 1
-data.zesq.txt 1
-data.zeve.txt 1
+data.op.txt 2.82763771717948
+data.zbls.txt 2.82763771717948
+data.zbye.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zdgv.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948
+data.zebv.txt 2.82763771717948
+data.zesq.txt 2.82763771717948
+data.zeve.txt 2.82763771717948

@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zaip.txt 1
-data.zasq.txt 2
-data.zedy.txt 1
-data.zevq.txt 1
-data.zfai.txt 1
+data.fp.txt 3.1086847136800873
+data.zaip.txt 3.1086847136800873
+data.zasq.txt 4.927148697748023
+data.zedy.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

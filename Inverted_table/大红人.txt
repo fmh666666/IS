@@ -1,9 +1,9 @@
 8
-data.ha.txt 1
-data.ka.txt 1
-data.zbor.txt 1
-data.zbvp.txt 1
-data.zcdl.txt 1
-data.zcku.txt 1
-data.zcqe.txt 1
-data.zduk.txt 1
+data.ha.txt 2.9092786962624935
+data.ka.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zbvp.txt 2.9092786962624935
+data.zcdl.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935

@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.zabe.txt 1
-data.zass.txt 1
-data.zaxj.txt 3
-data.zaxk.txt 1
-data.zbwa.txt 1
-data.zduo.txt 3
-data.zedx.txt 3
-data.zenn.txt 1
-data.zeoh.txt 1
+data.be.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zass.txt 2.7546073728089153
+data.zaxj.txt 5.509214745617831
+data.zaxk.txt 2.7546073728089153
+data.zbwa.txt 2.7546073728089153
+data.zduo.txt 5.509214745617831
+data.zedx.txt 5.509214745617831
+data.zenn.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

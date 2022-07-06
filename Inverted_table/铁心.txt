@@ -1,6 +1,6 @@
 5
-data.wc.txt 2
-data.zaim.txt 1
-data.zdeb.txt 1
-data.zdji.txt 1
-data.zeac.txt 2
+data.wc.txt 5.1274494005309625
+data.zaim.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zeac.txt 5.1274494005309625

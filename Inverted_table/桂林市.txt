@@ -1,6 +1,6 @@
 5
-data.zacp.txt 2
-data.zaoy.txt 1
-data.zddm.txt 2
-data.zdoq.txt 3
-data.zdou.txt 1
+data.zacp.txt 5.1274494005309625
+data.zaoy.txt 3.235060386727117
+data.zddm.txt 5.1274494005309625
+data.zdoq.txt 6.470120773454234
+data.zdou.txt 3.235060386727117

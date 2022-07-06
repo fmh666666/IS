@@ -1,9 +1,9 @@
 8
-data.zbrj.txt 1
-data.zdhv.txt 21
-data.zdhw.txt 12
-data.zdpz.txt 1
-data.zebv.txt 1
-data.zehp.txt 1
-data.zelt.txt 1
-data.zezy.txt 1
+data.zbrj.txt 2.9092786962624935
+data.zdhv.txt 12.973729405540858
+data.zdhw.txt 10.765610438791466
+data.zdpz.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935
+data.zehp.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

@@ -1,13 +1,13 @@
 12
-data.jj.txt 1
-data.vm.txt 1
-data.zadv.txt 1
-data.zasq.txt 2
-data.zawb.txt 1
-data.zawu.txt 1
-data.zbbt.txt 1
-data.zcem.txt 1
-data.zdcy.txt 2
-data.zdof.txt 1
-data.zedo.txt 1
-data.zeid.txt 1
+data.jj.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zasq.txt 4.165648687329214
+data.zawb.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zbbt.txt 2.628231699761886
+data.zcem.txt 2.628231699761886
+data.zdcy.txt 4.165648687329214
+data.zdof.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zeid.txt 2.628231699761886

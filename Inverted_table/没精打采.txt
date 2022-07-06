@@ -1,9 +1,9 @@
 8
-data.zayv.txt 1
-data.zbkf.txt 1
-data.zcic.txt 1
-data.zdaa.txt 1
-data.zddp.txt 1
-data.zdgp.txt 1
-data.zeel.txt 1
-data.zeeq.txt 1
+data.zayv.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zdaa.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935

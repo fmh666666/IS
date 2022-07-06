@@ -1,7 +1,7 @@
 6
-data.jf.txt 2
-data.wc.txt 1
-data.zabe.txt 2
-data.zcql.txt 5
-data.zdwn.txt 1
-data.zefv.txt 1
+data.jf.txt 4.927148697748023
+data.wc.txt 3.1086847136800873
+data.zabe.txt 4.927148697748023
+data.zcql.txt 8.03583341142811
+data.zdwn.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873

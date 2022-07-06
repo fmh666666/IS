@@ -1,8 +1,8 @@
 7
-data.zacd.txt 1
-data.zajn.txt 1
-data.zbvm.txt 17
-data.zdju.txt 1
-data.zekw.txt 2
-data.zesq.txt 3
-data.zeyg.txt 1
+data.zacd.txt 3.0018356045764243
+data.zajn.txt 3.0018356045764243
+data.zbvm.txt 12.51742933774293
+data.zdju.txt 3.0018356045764243
+data.zekw.txt 4.757796866583254
+data.zesq.txt 6.003671209152849
+data.zeyg.txt 3.0018356045764243

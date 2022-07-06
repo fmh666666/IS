@@ -1,9 +1,9 @@
 8
-data.ee.txt 1
-data.zail.txt 1
-data.zank.txt 1
-data.zdgt.txt 2
-data.zdju.txt 4
-data.zdqx.txt 1
-data.zelt.txt 1
-data.zewv.txt 1
+data.ee.txt 2.9092786962624935
+data.zail.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zdgt.txt 4.611097637722987
+data.zdju.txt 6.7551359407091605
+data.zdqx.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zewv.txt 2.9092786962624935

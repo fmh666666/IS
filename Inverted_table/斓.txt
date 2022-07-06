@@ -1,14 +1,14 @@
 13
-data.gz.txt 1
-data.zard.txt 2
-data.zaxj.txt 1
-data.zaxk.txt 1
-data.zazo.txt 2
-data.zbhe.txt 1
-data.zbqu.txt 1
-data.zbvp.txt 1
-data.zcic.txt 1
-data.zcuh.txt 1
-data.zeez.txt 1
-data.zeqv.txt 3
-data.zeyu.txt 1
+data.gz.txt 2.5727503226135906
+data.zard.txt 4.077712785060798
+data.zaxj.txt 2.5727503226135906
+data.zaxk.txt 2.5727503226135906
+data.zazo.txt 4.077712785060798
+data.zbhe.txt 2.5727503226135906
+data.zbqu.txt 2.5727503226135906
+data.zbvp.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zcuh.txt 2.5727503226135906
+data.zeez.txt 2.5727503226135906
+data.zeqv.txt 5.145500645227181
+data.zeyu.txt 2.5727503226135906

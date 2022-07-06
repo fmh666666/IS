@@ -1,7 +1,7 @@
 6
-data.ew.txt 1
-data.zbwa.txt 1
-data.zdle.txt 1
-data.zedd.txt 1
-data.zegz.txt 1
-data.zehp.txt 1
+data.ew.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zdle.txt 3.1086847136800873
+data.zedd.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873

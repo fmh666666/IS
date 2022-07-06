@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.zarr.txt 1
-data.zbru.txt 3
-data.zbuj.txt 1
-data.zcao.txt 1
-data.zcrg.txt 1
-data.zdux.txt 1
-data.zedo.txt 2
-data.zenn.txt 1
+data.bf.txt 2.82763771717948
+data.zarr.txt 2.82763771717948
+data.zbru.txt 5.65527543435896
+data.zbuj.txt 2.82763771717948
+data.zcao.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zedo.txt 4.48169974735425
+data.zenn.txt 2.82763771717948

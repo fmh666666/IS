@@ -1,8 +1,8 @@
 7
-data.jd.txt 1
-data.mi.txt 1
-data.zawz.txt 1
-data.zbds.txt 1
-data.zbua.txt 1
-data.zdey.txt 1
-data.zekw.txt 3
+data.jd.txt 3.0018356045764243
+data.mi.txt 3.0018356045764243
+data.zawz.txt 3.0018356045764243
+data.zbds.txt 3.0018356045764243
+data.zbua.txt 3.0018356045764243
+data.zdey.txt 3.0018356045764243
+data.zekw.txt 6.003671209152849

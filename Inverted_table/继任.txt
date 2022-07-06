@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.tz.txt 1
-data.zapl.txt 1
-data.zasj.txt 1
-data.zbvf.txt 1
-data.zcmx.txt 1
-data.zdud.txt 2
-data.zdzg.txt 1
-data.zebf.txt 1
+data.ga.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zasj.txt 2.82763771717948
+data.zbvf.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zdud.txt 4.48169974735425
+data.zdzg.txt 2.82763771717948
+data.zebf.txt 2.82763771717948

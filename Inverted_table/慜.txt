@@ -1,5 +1,5 @@
 4
-data.mi.txt 7
-data.zcft.txt 1
-data.zenn.txt 1
-data.zeoo.txt 1
+data.mi.txt 10.169195130542084
+data.zcft.txt 3.389731710180695
+data.zenn.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

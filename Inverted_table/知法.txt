@@ -1,7 +1,7 @@
 6
-data.co.txt 6
-data.zawc.txt 1
-data.zbeb.txt 1
-data.zbjh.txt 2
-data.zbkv.txt 1
-data.zejk.txt 1
+data.co.txt 8.727181332075027
+data.zawc.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbjh.txt 4.927148697748023
+data.zbkv.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873

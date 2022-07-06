@@ -1,10 +1,10 @@
 9
-data.cz.txt 1
-data.xk.txt 1
-data.zank.txt 1
-data.zbds.txt 1
-data.zcdv.txt 1
-data.zcem.txt 1
-data.zcic.txt 1
-data.zdgv.txt 1
-data.zfae.txt 1
+data.cz.txt 2.82763771717948
+data.xk.txt 2.82763771717948
+data.zank.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zdgv.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

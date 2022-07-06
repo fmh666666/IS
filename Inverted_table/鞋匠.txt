@@ -1,8 +1,8 @@
 7
-data.ft.txt 1
-data.zacd.txt 1
-data.zate.txt 1
-data.zbvg.txt 1
-data.zcon.txt 3
-data.zczp.txt 1
-data.zdwv.txt 1
+data.ft.txt 3.0018356045764243
+data.zacd.txt 3.0018356045764243
+data.zate.txt 3.0018356045764243
+data.zbvg.txt 3.0018356045764243
+data.zcon.txt 6.003671209152849
+data.zczp.txt 3.0018356045764243
+data.zdwv.txt 3.0018356045764243

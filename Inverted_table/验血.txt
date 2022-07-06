@@ -1,13 +1,13 @@
 12
-data.gw.txt 1
-data.pa.txt 1
-data.wg.txt 1
-data.zaqw.txt 1
-data.zbdx.txt 1
-data.zbel.txt 2
-data.zbvg.txt 1
-data.zctp.txt 2
-data.zcvi.txt 1
-data.zdme.txt 1
-data.zevt.txt 2
-data.zexu.txt 1
+data.gw.txt 2.628231699761886
+data.pa.txt 2.628231699761886
+data.wg.txt 2.628231699761886
+data.zaqw.txt 2.628231699761886
+data.zbdx.txt 2.628231699761886
+data.zbel.txt 4.165648687329214
+data.zbvg.txt 2.628231699761886
+data.zctp.txt 4.165648687329214
+data.zcvi.txt 2.628231699761886
+data.zdme.txt 2.628231699761886
+data.zevt.txt 4.165648687329214
+data.zexu.txt 2.628231699761886

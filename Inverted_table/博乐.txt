@@ -1,5 +1,5 @@
 4
-data.zaqf.txt 2
-data.zarc.txt 8
-data.zbhd.txt 2
-data.zcbm.txt 1
+data.zaqf.txt 5.372597648141796
+data.zarc.txt 10.745195296283592
+data.zbhd.txt 5.372597648141796
+data.zcbm.txt 3.389731710180695

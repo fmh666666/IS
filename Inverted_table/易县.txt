@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zadv.txt 1
-data.zaim.txt 1
+data.ud.txt 3.5891377275982888
+data.zadv.txt 3.5891377275982888
+data.zaim.txt 3.5891377275982888

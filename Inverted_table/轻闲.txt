@@ -1,6 +1,6 @@
 5
-data.zazg.txt 1
-data.zbel.txt 1
-data.zefp.txt 1
-data.zeoh.txt 1
-data.zeos.txt 1
+data.zazg.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zeos.txt 3.235060386727117

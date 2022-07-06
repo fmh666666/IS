@@ -1,6 +1,6 @@
 5
-data.cz.txt 1
-data.zbvp.txt 1
-data.zbxw.txt 1
-data.zcue.txt 1
-data.zdux.txt 1
+data.cz.txt 3.235060386727117
+data.zbvp.txt 3.235060386727117
+data.zbxw.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zdux.txt 3.235060386727117

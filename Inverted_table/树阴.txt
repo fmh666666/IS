@@ -1,8 +1,8 @@
 7
-data.zaxj.txt 1
-data.zdji.txt 1
-data.zdqx.txt 1
-data.zeay.txt 1
-data.zedd.txt 1
-data.zelj.txt 1
-data.zewv.txt 1
+data.zaxj.txt 3.0018356045764243
+data.zdji.txt 3.0018356045764243
+data.zdqx.txt 3.0018356045764243
+data.zeay.txt 3.0018356045764243
+data.zedd.txt 3.0018356045764243
+data.zelj.txt 3.0018356045764243
+data.zewv.txt 3.0018356045764243

@@ -1,7 +1,7 @@
 6
-data.zayv.txt 1
-data.zcls.txt 1
-data.zctm.txt 1
-data.zdqx.txt 1
-data.zevl.txt 1
-data.zewv.txt 2
+data.zayv.txt 3.1086847136800873
+data.zcls.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zdqx.txt 3.1086847136800873
+data.zevl.txt 3.1086847136800873
+data.zewv.txt 4.927148697748023

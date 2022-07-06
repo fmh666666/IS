@@ -1,9 +1,9 @@
 8
-data.zaqp.txt 7
-data.zarc.txt 3
-data.zbts.txt 2
-data.zcbm.txt 5
-data.zcrg.txt 2
-data.zcse.txt 1
-data.zevy.txt 7
-data.zfaj.txt 1
+data.zaqp.txt 8.72783608878748
+data.zarc.txt 5.818557392524987
+data.zbts.txt 4.611097637722987
+data.zcbm.txt 7.52037633398548
+data.zcrg.txt 4.611097637722987
+data.zcse.txt 2.9092786962624935
+data.zevy.txt 8.72783608878748
+data.zfaj.txt 2.9092786962624935

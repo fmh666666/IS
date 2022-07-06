@@ -1,7 +1,7 @@
 6
-data.zahd.txt 1
-data.zavx.txt 1
-data.zcdy.txt 1
-data.zcfx.txt 1
-data.zctn.txt 1
-data.zfby.txt 1
+data.zahd.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zctn.txt 3.1086847136800873
+data.zfby.txt 3.1086847136800873

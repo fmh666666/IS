@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.zccx.txt 1
-data.zdey.txt 1
-data.zdof.txt 1
-data.zevq.txt 1
-data.zexv.txt 2
+data.ga.txt 3.1086847136800873
+data.zccx.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zevq.txt 3.1086847136800873
+data.zexv.txt 4.927148697748023

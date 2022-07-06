@@ -1,4 +1,4 @@
 3
-data.kq.txt 31
-data.zcdy.txt 20
-data.zcdz.txt 15
+data.kq.txt 17.945688637991445
+data.zcdy.txt 15.764632173682532
+data.zcdz.txt 14.356550910393155

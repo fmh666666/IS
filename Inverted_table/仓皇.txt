@@ -1,12 +1,12 @@
 11
-data.ng.txt 2
-data.zacd.txt 1
-data.zall.txt 1
-data.zatz.txt 1
-data.zbua.txt 1
-data.zcbm.txt 1
-data.zcmy.txt 1
-data.zcvi.txt 1
-data.zdlw.txt 1
-data.zewn.txt 1
-data.zfai.txt 1
+data.ng.txt 4.261240455343955
+data.zacd.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zatz.txt 2.6885433903988862
+data.zbua.txt 2.6885433903988862
+data.zcbm.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zcvi.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

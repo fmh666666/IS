@@ -1,11 +1,11 @@
 10
-data.to.txt 1
-data.zazn.txt 1
-data.zcdz.txt 1
-data.zciq.txt 1
-data.zcjo.txt 1
-data.zdds.txt 1
-data.zdeb.txt 1
-data.zelt.txt 4
-data.zene.txt 1
-data.zeoo.txt 2
+data.to.txt 2.7546073728089153
+data.zazn.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zcjo.txt 2.7546073728089153
+data.zdds.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zelt.txt 6.396000249308887
+data.zene.txt 2.7546073728089153
+data.zeoo.txt 4.365949390112154

@@ -1,5 +1,5 @@
 4
-data.zasq.txt 4
-data.zawb.txt 1
-data.zdsh.txt 1
-data.zdud.txt 1
+data.zasq.txt 7.870713291999142
+data.zawb.txt 3.389731710180695
+data.zdsh.txt 3.389731710180695
+data.zdud.txt 3.389731710180695

@@ -1,5 +1,5 @@
 4
-data.zcrg.txt 1
-data.zdlm.txt 1
-data.zdpw.txt 1
-data.zefp.txt 1
+data.zcrg.txt 3.389731710180695
+data.zdlm.txt 3.389731710180695
+data.zdpw.txt 3.389731710180695
+data.zefp.txt 3.389731710180695

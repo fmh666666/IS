@@ -1,7 +1,7 @@
 6
-data.hp.txt 2
-data.zabe.txt 1
-data.zaqr.txt 1
-data.zcdg.txt 1
-data.zdnh.txt 1
-data.zekw.txt 1
+data.hp.txt 4.927148697748023
+data.zabe.txt 3.1086847136800873
+data.zaqr.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873
+data.zekw.txt 3.1086847136800873

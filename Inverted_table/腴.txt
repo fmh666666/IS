@@ -1,5 +1,5 @@
 4
-data.ok.txt 1
-data.zall.txt 2
-data.zalm.txt 6
-data.zdic.txt 1
+data.ok.txt 3.389731710180695
+data.zall.txt 5.372597648141796
+data.zalm.txt 9.516180001030515
+data.zdic.txt 3.389731710180695

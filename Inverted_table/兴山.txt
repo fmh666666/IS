@@ -1,4 +1,4 @@
 3
-data.zbht.txt 2
-data.zdro.txt 1
-data.zfae.txt 1
+data.zbht.txt 5.688648708166832
+data.zdro.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

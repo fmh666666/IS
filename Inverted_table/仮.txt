@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.kt.txt 5
-data.zall.txt 1
-data.zbdx.txt 1
-data.zbnp.txt 2
-data.zbsu.txt 29
-data.zcfn.txt 1
-data.zcve.txt 1
-data.zdrq.txt 1
-data.zdwv.txt 2
-data.zegl.txt 14
-data.zegn.txt 20
-data.zesi.txt 1
+data.hg.txt 2.5727503226135906
+data.kt.txt 6.650463107674388
+data.zall.txt 2.5727503226135906
+data.zbdx.txt 2.5727503226135906
+data.zbnp.txt 4.077712785060798
+data.zbsu.txt 12.62420436288141
+data.zcfn.txt 2.5727503226135906
+data.zcve.txt 2.5727503226135906
+data.zdrq.txt 2.5727503226135906
+data.zdwv.txt 4.077712785060798
+data.zegl.txt 10.051454040267819
+data.zegn.txt 11.30033606647535
+data.zesi.txt 2.5727503226135906

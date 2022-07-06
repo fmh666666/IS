@@ -1,7 +1,7 @@
 6
-data.cf.txt 1
-data.zbsu.txt 2
-data.zdof.txt 1
-data.zduc.txt 1
-data.zeva.txt 2
-data.zevq.txt 2
+data.cf.txt 3.1086847136800873
+data.zbsu.txt 4.927148697748023
+data.zdof.txt 3.1086847136800873
+data.zduc.txt 3.1086847136800873
+data.zeva.txt 4.927148697748023
+data.zevq.txt 4.927148697748023

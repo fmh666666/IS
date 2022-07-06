@@ -1,4 +1,4 @@
 3
-data.mu.txt 1
-data.zajo.txt 1
-data.zezy.txt 1
+data.mu.txt 3.5891377275982888
+data.zajo.txt 3.5891377275982888
+data.zezy.txt 3.5891377275982888

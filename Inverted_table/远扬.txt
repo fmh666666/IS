@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zaun.txt 1
-data.zbeb.txt 1
-data.zcee.txt 1
-data.zdlo.txt 1
+data.vm.txt 3.235060386727117
+data.zaun.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zcee.txt 3.235060386727117
+data.zdlo.txt 3.235060386727117

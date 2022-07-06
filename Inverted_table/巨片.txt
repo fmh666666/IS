@@ -1,12 +1,12 @@
 11
-data.yx.txt 2
-data.zavg.txt 1
-data.zbkv.txt 1
-data.zbor.txt 1
-data.zcdv.txt 1
-data.zcel.txt 1
-data.zcgi.txt 1
-data.zcxh.txt 1
-data.zdoq.txt 1
-data.zegz.txt 1
-data.zehb.txt 1
+data.yx.txt 4.261240455343955
+data.zavg.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcel.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zcxh.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zegz.txt 2.6885433903988862
+data.zehb.txt 2.6885433903988862

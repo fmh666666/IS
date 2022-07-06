@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.hg.txt 1
-data.zazg.txt 1
-data.zbeb.txt 1
-data.zeun.txt 1
+data.be.txt 3.235060386727117
+data.hg.txt 3.235060386727117
+data.zazg.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zeun.txt 3.235060386727117

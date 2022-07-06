@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zbmw.txt 2
-data.zcll.txt 1
-data.zcon.txt 1
-data.zdil.txt 1
-data.zdkp.txt 1
+data.bb.txt 3.1086847136800873
+data.zbmw.txt 4.927148697748023
+data.zcll.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873
+data.zdkp.txt 3.1086847136800873

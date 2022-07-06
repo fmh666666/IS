@@ -1,6 +1,6 @@
 5
-data.ev.txt 1
-data.zapf.txt 3
-data.zazo.txt 1
-data.zddm.txt 1
-data.zdgp.txt 1
+data.ev.txt 3.235060386727117
+data.zapf.txt 6.470120773454234
+data.zazo.txt 3.235060386727117
+data.zddm.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117

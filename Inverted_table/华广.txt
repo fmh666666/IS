@@ -1,5 +1,5 @@
 4
-data.zbcv.txt 1
-data.zdou.txt 44
-data.zdwv.txt 4
-data.zemb.txt 2
+data.zbcv.txt 3.389731710180695
+data.zdou.txt 18.615908588282732
+data.zdwv.txt 7.870713291999142
+data.zemb.txt 5.372597648141796

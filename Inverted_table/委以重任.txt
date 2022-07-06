@@ -1,14 +1,14 @@
 13
-data.bf.txt 1
-data.zanm.txt 1
-data.zapl.txt 1
-data.zbaf.txt 1
-data.zbhd.txt 1
-data.zbor.txt 1
-data.zbre.txt 1
-data.zcon.txt 1
-data.zcvq.txt 1
-data.zdcy.txt 1
-data.zdst.txt 1
-data.zdyv.txt 1
-data.zebn.txt 2
+data.bf.txt 2.5727503226135906
+data.zanm.txt 2.5727503226135906
+data.zapl.txt 2.5727503226135906
+data.zbaf.txt 2.5727503226135906
+data.zbhd.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zbre.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcvq.txt 2.5727503226135906
+data.zdcy.txt 2.5727503226135906
+data.zdst.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zebn.txt 4.077712785060798

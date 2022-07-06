@@ -1,7 +1,7 @@
 6
-data.ew.txt 1
-data.ga.txt 1
-data.zavg.txt 1
-data.zaxj.txt 4
-data.zaxk.txt 1
-data.zbjc.txt 2
+data.ew.txt 3.1086847136800873
+data.ga.txt 3.1086847136800873
+data.zavg.txt 3.1086847136800873
+data.zaxj.txt 7.21814237484067
+data.zaxk.txt 3.1086847136800873
+data.zbjc.txt 4.927148697748023

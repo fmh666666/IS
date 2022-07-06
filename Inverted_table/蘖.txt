@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.zajn.txt 1
-data.zbnx.txt 2
+data.gz.txt 3.5891377275982888
+data.zajn.txt 3.5891377275982888
+data.zbnx.txt 5.688648708166832

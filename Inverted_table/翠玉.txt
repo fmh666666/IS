@@ -1,10 +1,10 @@
 9
-data.to.txt 1
-data.tz.txt 1
-data.zawo.txt 1
-data.zbes.txt 1
-data.zcdv.txt 1
-data.zdji.txt 1
-data.zedd.txt 1
-data.zefd.txt 1
-data.zfas.txt 1
+data.to.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.zawo.txt 2.82763771717948
+data.zbes.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zdji.txt 2.82763771717948
+data.zedd.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

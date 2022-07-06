@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.op.txt 1
-data.zajh.txt 1
-data.zanh.txt 1
+data.ga.txt 3.389731710180695
+data.op.txt 3.389731710180695
+data.zajh.txt 3.389731710180695
+data.zanh.txt 3.389731710180695

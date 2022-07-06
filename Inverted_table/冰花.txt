@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.zaxp.txt 2
-data.zbaq.txt 1
-data.zblr.txt 1
-data.zcic.txt 1
-data.zcww.txt 1
-data.zddb.txt 1
-data.zdqz.txt 2
-data.zduc.txt 1
-data.zedk.txt 2
-data.zeeh.txt 1
+data.fp.txt 2.6885433903988862
+data.zaxp.txt 4.261240455343955
+data.zbaq.txt 2.6885433903988862
+data.zblr.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zcww.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zdqz.txt 4.261240455343955
+data.zduc.txt 2.6885433903988862
+data.zedk.txt 4.261240455343955
+data.zeeh.txt 2.6885433903988862

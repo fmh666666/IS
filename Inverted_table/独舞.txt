@@ -1,11 +1,11 @@
 10
-data.gw.txt 1
-data.zagr.txt 1
-data.zaip.txt 1
-data.zaxj.txt 2
-data.zazw.txt 1
-data.zbil.txt 1
-data.zbwq.txt 1
-data.zbzg.txt 1
-data.zddp.txt 1
-data.zedy.txt 1
+data.gw.txt 2.7546073728089153
+data.zagr.txt 2.7546073728089153
+data.zaip.txt 2.7546073728089153
+data.zaxj.txt 4.365949390112154
+data.zazw.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zbwq.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zddp.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153

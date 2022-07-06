@@ -1,4 +1,4 @@
 3
-data.zcft.txt 1
-data.zcqs.txt 1
-data.zfcj.txt 1
+data.zcft.txt 3.5891377275982888
+data.zcqs.txt 3.5891377275982888
+data.zfcj.txt 3.5891377275982888

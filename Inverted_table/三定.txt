@@ -1,12 +1,12 @@
 11
-data.tz.txt 1
-data.vi.txt 1
-data.zajo.txt 1
-data.zapl.txt 1
-data.zarc.txt 1
-data.zbcj.txt 2
-data.zbot.txt 1
-data.zcdy.txt 2
-data.zcrn.txt 1
-data.zdkc.txt 1
-data.zeec.txt 1
+data.tz.txt 2.6885433903988862
+data.vi.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zarc.txt 2.6885433903988862
+data.zbcj.txt 4.261240455343955
+data.zbot.txt 2.6885433903988862
+data.zcdy.txt 4.261240455343955
+data.zcrn.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862

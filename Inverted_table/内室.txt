@@ -1,13 +1,13 @@
 12
-data.cq.txt 1
-data.fz.txt 1
-data.zafe.txt 1
-data.zasw.txt 1
-data.zaxx.txt 1
-data.zbrj.txt 1
-data.zciy.txt 1
-data.zdme.txt 1
-data.zdpz.txt 1
-data.zeaf.txt 1
-data.zerv.txt 1
-data.zeva.txt 1
+data.cq.txt 2.628231699761886
+data.fz.txt 2.628231699761886
+data.zafe.txt 2.628231699761886
+data.zasw.txt 2.628231699761886
+data.zaxx.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zciy.txt 2.628231699761886
+data.zdme.txt 2.628231699761886
+data.zdpz.txt 2.628231699761886
+data.zeaf.txt 2.628231699761886
+data.zerv.txt 2.628231699761886
+data.zeva.txt 2.628231699761886

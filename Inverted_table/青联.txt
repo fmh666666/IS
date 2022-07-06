@@ -1,7 +1,7 @@
 6
-data.hp.txt 8
-data.zbcv.txt 1
-data.zbdb.txt 64
-data.zbhe.txt 1
-data.zbts.txt 4
-data.zdcy.txt 1
+data.hp.txt 9.854297395496046
+data.zbcv.txt 3.1086847136800873
+data.zbdb.txt 18.721642760520535
+data.zbhe.txt 3.1086847136800873
+data.zbts.txt 7.21814237484067
+data.zdcy.txt 3.1086847136800873

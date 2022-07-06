@@ -1,3 +1,3 @@
 2
-data.zfai.txt 14
-data.zfaj.txt 4
+data.zfai.txt 15.120388301849728
+data.zfaj.txt 8.986290643289122

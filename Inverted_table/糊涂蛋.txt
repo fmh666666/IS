@@ -1,5 +1,5 @@
 4
-data.zczl.txt 1
-data.zebc.txt 1
-data.zezm.txt 1
-data.zfai.txt 1
+data.zczl.txt 3.389731710180695
+data.zebc.txt 3.389731710180695
+data.zezm.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

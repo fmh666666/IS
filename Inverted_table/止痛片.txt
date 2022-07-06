@@ -1,6 +1,6 @@
 5
-data.fp.txt 2
-data.kt.txt 1
-data.zcts.txt 1
-data.zcvq.txt 1
-data.zeaf.txt 1
+data.fp.txt 5.1274494005309625
+data.kt.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zeaf.txt 3.235060386727117

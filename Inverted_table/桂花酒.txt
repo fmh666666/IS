@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.ry.txt 1
-data.zaxj.txt 1
-data.zcwn.txt 2
-data.zduk.txt 1
+data.be.txt 3.235060386727117
+data.ry.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zcwn.txt 5.1274494005309625
+data.zduk.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.nh.txt 1
-data.zadv.txt 1
-data.zalt.txt 1
-data.zawm.txt 1
-data.zcpa.txt 1
-data.zdds.txt 1
-data.zdey.txt 1
-data.zeez.txt 3
-data.zeqn.txt 1
+data.nh.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zalt.txt 2.82763771717948
+data.zawm.txt 2.82763771717948
+data.zcpa.txt 2.82763771717948
+data.zdds.txt 2.82763771717948
+data.zdey.txt 2.82763771717948
+data.zeez.txt 5.65527543435896
+data.zeqn.txt 2.82763771717948

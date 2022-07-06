@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.zaqr.txt 1
-data.zasw.txt 2
-data.zcln.txt 1
-data.zcqe.txt 1
-data.zdga.txt 1
-data.zedx.txt 1
-data.zenn.txt 1
+data.hg.txt 2.9092786962624935
+data.zaqr.txt 2.9092786962624935
+data.zasw.txt 4.611097637722987
+data.zcln.txt 2.9092786962624935
+data.zcqe.txt 2.9092786962624935
+data.zdga.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935
+data.zenn.txt 2.9092786962624935

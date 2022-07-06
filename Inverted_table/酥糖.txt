@@ -1,7 +1,7 @@
 6
-data.mt.txt 2
-data.zbqu.txt 1
-data.zdwz.txt 1
-data.zeay.txt 1
-data.zeqv.txt 1
-data.zexm.txt 1
+data.mt.txt 4.927148697748023
+data.zbqu.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zeay.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

@@ -1,14 +1,14 @@
 13
-data.ok.txt 1
-data.zafy.txt 1
-data.zayv.txt 1
-data.zbkf.txt 1
-data.zbmt.txt 1
-data.zcao.txt 1
-data.zcft.txt 1
-data.zdcy.txt 1
-data.zddx.txt 1
-data.zdji.txt 1
-data.zdoq.txt 1
-data.zdwl.txt 1
-data.zety.txt 1
+data.ok.txt 2.5727503226135906
+data.zafy.txt 2.5727503226135906
+data.zayv.txt 2.5727503226135906
+data.zbkf.txt 2.5727503226135906
+data.zbmt.txt 2.5727503226135906
+data.zcao.txt 2.5727503226135906
+data.zcft.txt 2.5727503226135906
+data.zdcy.txt 2.5727503226135906
+data.zddx.txt 2.5727503226135906
+data.zdji.txt 2.5727503226135906
+data.zdoq.txt 2.5727503226135906
+data.zdwl.txt 2.5727503226135906
+data.zety.txt 2.5727503226135906

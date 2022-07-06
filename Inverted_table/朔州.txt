@@ -1,7 +1,7 @@
 6
-data.zazg.txt 1
-data.zbhd.txt 4
-data.zbye.txt 1
-data.zdgv.txt 1
-data.zexk.txt 1
-data.zexm.txt 1
+data.zazg.txt 3.1086847136800873
+data.zbhd.txt 7.21814237484067
+data.zbye.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zexk.txt 3.1086847136800873
+data.zexm.txt 3.1086847136800873

@@ -1,11 +1,11 @@
 10
-data.by.txt 4
-data.kq.txt 1
-data.zcln.txt 1
-data.zcww.txt 1
-data.zeac.txt 1
-data.zene.txt 1
-data.zeyy.txt 1
-data.zezm.txt 1
-data.zezn.txt 1
-data.zfae.txt 20
+data.by.txt 6.396000249308887
+data.kq.txt 2.7546073728089153
+data.zcln.txt 2.7546073728089153
+data.zcww.txt 2.7546073728089153
+data.zeac.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153
+data.zezm.txt 2.7546073728089153
+data.zezn.txt 2.7546073728089153
+data.zfae.txt 12.099109956503428

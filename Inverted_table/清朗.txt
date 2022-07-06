@@ -1,9 +1,9 @@
 8
-data.ye.txt 1
-data.zaej.txt 1
-data.zaxj.txt 1
-data.zbkj.txt 1
-data.zbsu.txt 2
-data.zcao.txt 1
-data.zcdv.txt 2
-data.zdod.txt 1
+data.ye.txt 2.9092786962624935
+data.zaej.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zbsu.txt 4.611097637722987
+data.zcao.txt 2.9092786962624935
+data.zcdv.txt 4.611097637722987
+data.zdod.txt 2.9092786962624935

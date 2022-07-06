@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.pa.txt 1
-data.zaxj.txt 1
-data.zaxx.txt 1
-data.zbkj.txt 1
-data.zbla.txt 1
-data.zbye.txt 1
-data.zdpf.txt 1
+data.ga.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zbye.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935

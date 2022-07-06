@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zcdy.txt 2
-data.zdgt.txt 1
-data.zelt.txt 3
-data.zemb.txt 1
+data.op.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zdgt.txt 3.235060386727117
+data.zelt.txt 6.470120773454234
+data.zemb.txt 3.235060386727117

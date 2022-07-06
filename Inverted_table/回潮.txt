@@ -1,7 +1,7 @@
 6
-data.zbeb.txt 1
-data.zbjk.txt 1
-data.zcoy.txt 1
-data.zcpa.txt 1
-data.zdle.txt 1
-data.zfai.txt 1
+data.zbeb.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zcoy.txt 3.1086847136800873
+data.zcpa.txt 3.1086847136800873
+data.zdle.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

@@ -1,13 +1,13 @@
 12
-data.pa.txt 1
-data.zacw.txt 1
-data.zard.txt 1
-data.zawb.txt 2
-data.zcvt.txt 1
-data.zczb.txt 1
-data.zczj.txt 1
-data.zdod.txt 1
-data.zduo.txt 1
-data.zdwv.txt 1
-data.zeam.txt 1
-data.zebn.txt 1
+data.pa.txt 2.628231699761886
+data.zacw.txt 2.628231699761886
+data.zard.txt 2.628231699761886
+data.zawb.txt 4.165648687329214
+data.zcvt.txt 2.628231699761886
+data.zczb.txt 2.628231699761886
+data.zczj.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zduo.txt 2.628231699761886
+data.zdwv.txt 2.628231699761886
+data.zeam.txt 2.628231699761886
+data.zebn.txt 2.628231699761886

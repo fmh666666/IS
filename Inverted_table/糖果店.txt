@@ -1,9 +1,9 @@
 8
-data.jd.txt 3
-data.zalm.txt 1
-data.zasy.txt 2
-data.zbga.txt 1
-data.zbjk.txt 3
-data.zefw.txt 2
-data.zenn.txt 1
-data.zesq.txt 1
+data.jd.txt 5.818557392524987
+data.zalm.txt 2.9092786962624935
+data.zasy.txt 4.611097637722987
+data.zbga.txt 2.9092786962624935
+data.zbjk.txt 5.818557392524987
+data.zefw.txt 4.611097637722987
+data.zenn.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935

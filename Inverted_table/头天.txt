@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zawu.txt 1
-data.zcel.txt 1
-data.zcko.txt 1
-data.zctm.txt 1
-data.zduo.txt 1
-data.zefp.txt 1
-data.zeyg.txt 1
+data.op.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zcel.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zctm.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zefp.txt 2.9092786962624935
+data.zeyg.txt 2.9092786962624935

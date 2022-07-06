@@ -1,10 +1,10 @@
 9
-data.ng.txt 1
-data.pa.txt 1
-data.zavx.txt 1
-data.zcic.txt 1
-data.zcis.txt 1
-data.zcrg.txt 1
-data.zcsu.txt 1
-data.zctp.txt 1
-data.zenn.txt 1
+data.ng.txt 2.82763771717948
+data.pa.txt 2.82763771717948
+data.zavx.txt 2.82763771717948
+data.zcic.txt 2.82763771717948
+data.zcis.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zenn.txt 2.82763771717948

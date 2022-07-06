@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.zcts.txt 1
-data.zdsh.txt 1
-data.zejn.txt 1
-data.zeob.txt 1
+data.cq.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdsh.txt 3.235060386727117
+data.zejn.txt 3.235060386727117
+data.zeob.txt 3.235060386727117

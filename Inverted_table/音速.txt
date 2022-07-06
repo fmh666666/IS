@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.pa.txt 2
-data.zbfz.txt 1
-data.zbvf.txt 1
-data.zeva.txt 1
+data.gw.txt 3.235060386727117
+data.pa.txt 5.1274494005309625
+data.zbfz.txt 3.235060386727117
+data.zbvf.txt 3.235060386727117
+data.zeva.txt 3.235060386727117

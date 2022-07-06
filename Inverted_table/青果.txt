@@ -1,6 +1,6 @@
 5
-data.yx.txt 6
-data.zcts.txt 1
-data.zeeq.txt 6
-data.zeez.txt 2
-data.zeoh.txt 1
+data.yx.txt 9.081962699831948
+data.zcts.txt 3.235060386727117
+data.zeeq.txt 9.081962699831948
+data.zeez.txt 5.1274494005309625
+data.zeoh.txt 3.235060386727117

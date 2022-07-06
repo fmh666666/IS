@@ -1,11 +1,11 @@
 10
-data.hp.txt 1
-data.pn.txt 1
-data.ud.txt 1
-data.zaqp.txt 1
-data.zcdl.txt 1
-data.zcem.txt 1
-data.zctp.txt 1
-data.zebn.txt 1
-data.zefd.txt 1
-data.zefv.txt 1
+data.hp.txt 2.7546073728089153
+data.pn.txt 2.7546073728089153
+data.ud.txt 2.7546073728089153
+data.zaqp.txt 2.7546073728089153
+data.zcdl.txt 2.7546073728089153
+data.zcem.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zefd.txt 2.7546073728089153
+data.zefv.txt 2.7546073728089153

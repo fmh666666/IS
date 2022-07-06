@@ -1,7 +1,7 @@
 6
-data.tz.txt 1
-data.zako.txt 1
-data.zaxp.txt 2
-data.zbel.txt 1
-data.zchd.txt 1
-data.zdgt.txt 1
+data.tz.txt 3.1086847136800873
+data.zako.txt 3.1086847136800873
+data.zaxp.txt 4.927148697748023
+data.zbel.txt 3.1086847136800873
+data.zchd.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873

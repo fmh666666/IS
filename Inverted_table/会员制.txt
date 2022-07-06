@@ -1,4 +1,4 @@
 3
-data.ga.txt 1
-data.zavx.txt 4
-data.zctn.txt 1
+data.ga.txt 3.5891377275982888
+data.zavx.txt 8.333719726130651
+data.zctn.txt 3.5891377275982888

@@ -1,5 +1,5 @@
 4
-data.zail.txt 2
-data.zavx.txt 1
-data.zbcc.txt 1
-data.zdar.txt 1
+data.zail.txt 5.372597648141796
+data.zavx.txt 3.389731710180695
+data.zbcc.txt 3.389731710180695
+data.zdar.txt 3.389731710180695

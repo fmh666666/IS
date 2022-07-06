@@ -1,9 +1,9 @@
 8
-data.tv.txt 1
-data.tz.txt 1
-data.zacd.txt 1
-data.zbwq.txt 1
-data.zcwn.txt 1
-data.zdby.txt 1
-data.zdod.txt 1
-data.zeqh.txt 1
+data.tv.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zbwq.txt 2.9092786962624935
+data.zcwn.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935
+data.zeqh.txt 2.9092786962624935

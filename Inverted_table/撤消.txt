@@ -1,8 +1,8 @@
 7
-data.ff.txt 1
-data.mt.txt 1
-data.zasw.txt 1
-data.zbcj.txt 1
-data.zdaw.txt 1
-data.zeay.txt 1
-data.zexv.txt 1
+data.ff.txt 3.0018356045764243
+data.mt.txt 3.0018356045764243
+data.zasw.txt 3.0018356045764243
+data.zbcj.txt 3.0018356045764243
+data.zdaw.txt 3.0018356045764243
+data.zeay.txt 3.0018356045764243
+data.zexv.txt 3.0018356045764243

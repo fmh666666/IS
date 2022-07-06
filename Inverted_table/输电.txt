@@ -1,4 +1,4 @@
 3
-data.zcmn.txt 1
-data.zdzg.txt 1
-data.zegn.txt 1
+data.zcmn.txt 3.5891377275982888
+data.zdzg.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888

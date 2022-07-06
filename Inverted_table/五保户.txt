@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.zayd.txt 1
-data.zcdv.txt 1
+data.hp.txt 3.5891377275982888
+data.zayd.txt 3.5891377275982888
+data.zcdv.txt 3.5891377275982888

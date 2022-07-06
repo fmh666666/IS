@@ -1,6 +1,6 @@
 5
-data.zeaf.txt 1
-data.zeoo.txt 2
-data.zesq.txt 1
-data.zexu.txt 2
-data.zfcj.txt 2
+data.zeaf.txt 3.235060386727117
+data.zeoo.txt 5.1274494005309625
+data.zesq.txt 3.235060386727117
+data.zexu.txt 5.1274494005309625
+data.zfcj.txt 5.1274494005309625

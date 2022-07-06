@@ -1,2 +1,2 @@
 1
-data.zbgu.txt 2
+data.zbgu.txt 6.8955976689794145

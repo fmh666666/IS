@@ -1,13 +1,13 @@
 12
-data.kq.txt 1
-data.zail.txt 4
-data.zajo.txt 1
-data.zaqr.txt 13
-data.zarc.txt 1
-data.zasj.txt 2
-data.zawb.txt 1
-data.zbkv.txt 1
-data.zcjo.txt 1
-data.zcqe.txt 3
-data.zeeh.txt 1
-data.zfaj.txt 2
+data.kq.txt 2.628231699761886
+data.zail.txt 6.1025650235506905
+data.zajo.txt 2.628231699761886
+data.zaqr.txt 10.00661089839624
+data.zarc.txt 2.628231699761886
+data.zasj.txt 4.165648687329214
+data.zawb.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zcqe.txt 5.256463399523772
+data.zeeh.txt 2.628231699761886
+data.zfaj.txt 4.165648687329214

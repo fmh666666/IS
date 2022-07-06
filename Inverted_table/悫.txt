@@ -1,4 +1,4 @@
 3
-data.mu.txt 1
-data.zajo.txt 1
-data.zbla.txt 48
+data.mu.txt 3.5891377275982888
+data.zajo.txt 3.5891377275982888
+data.zbla.txt 20.1519669310314

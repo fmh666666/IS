@@ -1,11 +1,11 @@
 10
-data.op.txt 3
-data.pa.txt 1
-data.zabe.txt 1
-data.zasq.txt 1
-data.zauy.txt 1
-data.zbta.txt 1
-data.zdvl.txt 1
-data.zeez.txt 1
-data.zeqv.txt 1
-data.zfcg.txt 1
+data.op.txt 5.509214745617831
+data.pa.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zasq.txt 2.7546073728089153
+data.zauy.txt 2.7546073728089153
+data.zbta.txt 2.7546073728089153
+data.zdvl.txt 2.7546073728089153
+data.zeez.txt 2.7546073728089153
+data.zeqv.txt 2.7546073728089153
+data.zfcg.txt 2.7546073728089153

@@ -1,11 +1,11 @@
 10
-data.fe.txt 1
-data.wc.txt 2
-data.zatz.txt 1
-data.zayd.txt 1
-data.zbkj.txt 1
-data.zblh.txt 2
-data.zcrk.txt 1
-data.zdaa.txt 1
-data.zdqq.txt 1
-data.zdqz.txt 2
+data.fe.txt 2.7546073728089153
+data.wc.txt 4.365949390112154
+data.zatz.txt 2.7546073728089153
+data.zayd.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zblh.txt 4.365949390112154
+data.zcrk.txt 2.7546073728089153
+data.zdaa.txt 2.7546073728089153
+data.zdqq.txt 2.7546073728089153
+data.zdqz.txt 4.365949390112154

@@ -1,11 +1,11 @@
 10
-data.hg.txt 1
-data.hz.txt 1
-data.zaqr.txt 1
-data.zawo.txt 1
-data.zbts.txt 1
-data.zbxy.txt 1
-data.zcxr.txt 1
-data.zdcj.txt 1
-data.zdgt.txt 1
-data.zety.txt 1
+data.hg.txt 2.7546073728089153
+data.hz.txt 2.7546073728089153
+data.zaqr.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbts.txt 2.7546073728089153
+data.zbxy.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdcj.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zety.txt 2.7546073728089153

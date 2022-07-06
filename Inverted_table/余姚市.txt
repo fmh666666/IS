@@ -1,6 +1,6 @@
 5
-data.hp.txt 2
-data.op.txt 1
-data.zane.txt 4
-data.zcdg.txt 1
-data.zdep.txt 2
+data.hp.txt 5.1274494005309625
+data.op.txt 3.235060386727117
+data.zane.txt 7.511577600598868
+data.zcdg.txt 3.235060386727117
+data.zdep.txt 5.1274494005309625

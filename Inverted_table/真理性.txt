@@ -1,4 +1,4 @@
 3
-data.fj.txt 1
-data.zcmy.txt 1
-data.zdey.txt 1
+data.fj.txt 3.5891377275982888
+data.zcmy.txt 3.5891377275982888
+data.zdey.txt 3.5891377275982888

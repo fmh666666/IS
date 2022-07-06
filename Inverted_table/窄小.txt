@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zdaq.txt 1
-data.zfae.txt 1
+data.zabe.txt 3.5891377275982888
+data.zdaq.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888

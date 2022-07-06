@@ -1,11 +1,11 @@
 10
-data.mx.txt 1
-data.nh.txt 1
-data.zacd.txt 1
-data.zaoc.txt 2
-data.zasq.txt 1
-data.zcdz.txt 1
-data.zcjy.txt 1
-data.zedo.txt 1
-data.zelt.txt 1
-data.zeoh.txt 1
+data.mx.txt 2.7546073728089153
+data.nh.txt 2.7546073728089153
+data.zacd.txt 2.7546073728089153
+data.zaoc.txt 4.365949390112154
+data.zasq.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcjy.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153

@@ -1,4 +1,4 @@
 3
-data.zako.txt 2
-data.zcve.txt 1
-data.zehb.txt 1
+data.zako.txt 5.688648708166832
+data.zcve.txt 3.5891377275982888
+data.zehb.txt 3.5891377275982888

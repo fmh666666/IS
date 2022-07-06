@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.pa.txt 3
-data.zbvf.txt 1
-data.zcdz.txt 1
-data.zegz.txt 3
-data.zezn.txt 1
+data.op.txt 3.1086847136800873
+data.pa.txt 6.2173694273601745
+data.zbvf.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zegz.txt 6.2173694273601745
+data.zezn.txt 3.1086847136800873

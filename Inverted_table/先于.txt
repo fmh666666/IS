@@ -1,7 +1,7 @@
 6
-data.ry.txt 1
-data.zass.txt 1
-data.zcdy.txt 1
-data.zdeb.txt 1
-data.zefv.txt 1
-data.zeik.txt 1
+data.ry.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zdeb.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zeik.txt 3.1086847136800873

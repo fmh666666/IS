@@ -1,5 +1,5 @@
 4
-data.kq.txt 1
-data.zbfp.txt 1
-data.zdby.txt 2
-data.zdgt.txt 1
+data.kq.txt 3.389731710180695
+data.zbfp.txt 3.389731710180695
+data.zdby.txt 5.372597648141796
+data.zdgt.txt 3.389731710180695

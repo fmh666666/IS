@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zafe.txt 1
-data.zagr.txt 1
-data.zcon.txt 2
-data.zess.txt 1
+data.zabe.txt 3.235060386727117
+data.zafe.txt 3.235060386727117
+data.zagr.txt 3.235060386727117
+data.zcon.txt 5.1274494005309625
+data.zess.txt 3.235060386727117

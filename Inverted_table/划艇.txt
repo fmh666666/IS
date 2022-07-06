@@ -1,4 +1,4 @@
 3
-data.zafk.txt 1
-data.zako.txt 1
-data.zegn.txt 1
+data.zafk.txt 3.5891377275982888
+data.zako.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888

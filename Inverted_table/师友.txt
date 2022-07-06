@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.zadv.txt 1
-data.zbdb.txt 1
-data.zdpf.txt 1
+data.mi.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zbdb.txt 3.389731710180695
+data.zdpf.txt 3.389731710180695

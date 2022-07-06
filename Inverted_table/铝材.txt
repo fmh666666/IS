@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.vz.txt 2
-data.zbhv.txt 1
-data.zcll.txt 1
-data.zedd.txt 1
+data.gw.txt 3.235060386727117
+data.vz.txt 5.1274494005309625
+data.zbhv.txt 3.235060386727117
+data.zcll.txt 3.235060386727117
+data.zedd.txt 3.235060386727117

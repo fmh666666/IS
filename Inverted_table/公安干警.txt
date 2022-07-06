@@ -1,5 +1,5 @@
 4
-data.zajo.txt 1
-data.zaqw.txt 1
-data.zawb.txt 1
-data.zfai.txt 2
+data.zajo.txt 3.389731710180695
+data.zaqw.txt 3.389731710180695
+data.zawb.txt 3.389731710180695
+data.zfai.txt 5.372597648141796

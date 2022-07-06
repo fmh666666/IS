@@ -1,12 +1,12 @@
 11
-data.fp.txt 1
-data.gw.txt 1
-data.zapl.txt 1
-data.zarr.txt 1
-data.zawb.txt 1
-data.zbeb.txt 1
-data.zbem.txt 1
-data.zcdy.txt 1
-data.zcfn.txt 1
-data.zelt.txt 1
-data.zfaj.txt 1
+data.fp.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbem.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

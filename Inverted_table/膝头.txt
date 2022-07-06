@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.zbga.txt 1
-data.zdhv.txt 1
-data.zdwv.txt 3
-data.zedx.txt 1
+data.tv.txt 3.235060386727117
+data.zbga.txt 3.235060386727117
+data.zdhv.txt 3.235060386727117
+data.zdwv.txt 6.470120773454234
+data.zedx.txt 3.235060386727117

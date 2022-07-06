@@ -1,6 +1,6 @@
 5
-data.zcqs.txt 1
-data.zczp.txt 1
-data.zdgp.txt 1
-data.zeag.txt 1
-data.zeec.txt 5
+data.zcqs.txt 3.235060386727117
+data.zczp.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zeag.txt 3.235060386727117
+data.zeec.txt 8.362509787258078

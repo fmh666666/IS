@@ -1,8 +1,8 @@
 7
-data.zaic.txt 1
-data.zbof.txt 1
-data.zbsf.txt 2
-data.zbsl.txt 1
-data.zcdz.txt 1
-data.zcts.txt 1
-data.zezy.txt 1
+data.zaic.txt 3.0018356045764243
+data.zbof.txt 3.0018356045764243
+data.zbsf.txt 4.757796866583254
+data.zbsl.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zezy.txt 3.0018356045764243

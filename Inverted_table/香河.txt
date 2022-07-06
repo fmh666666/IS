@@ -1,6 +1,6 @@
 5
-data.co.txt 1
-data.zayd.txt 1
-data.zayv.txt 2
-data.zcmx.txt 1
-data.zfae.txt 1
+data.co.txt 3.235060386727117
+data.zayd.txt 3.235060386727117
+data.zayv.txt 5.1274494005309625
+data.zcmx.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

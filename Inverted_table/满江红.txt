@@ -1,4 +1,4 @@
 3
-data.zbdb.txt 1
-data.zbkr.txt 1
-data.zcgo.txt 1
+data.zbdb.txt 3.5891377275982888
+data.zbkr.txt 3.5891377275982888
+data.zcgo.txt 3.5891377275982888

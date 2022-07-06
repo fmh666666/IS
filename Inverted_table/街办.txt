@@ -1,4 +1,4 @@
 3
-data.zdpz.txt 1
-data.zfae.txt 1
-data.zfai.txt 1
+data.zdpz.txt 3.5891377275982888
+data.zfae.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

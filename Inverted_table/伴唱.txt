@@ -1,12 +1,12 @@
 11
-data.hu.txt 1
-data.mt.txt 1
-data.zbua.txt 2
-data.zbwq.txt 3
-data.zcdg.txt 1
-data.zcej.txt 1
-data.zcse.txt 1
-data.zdeb.txt 1
-data.zdrq.txt 1
-data.zeai.txt 1
-data.zehb.txt 2
+data.hu.txt 2.6885433903988862
+data.mt.txt 2.6885433903988862
+data.zbua.txt 4.261240455343955
+data.zbwq.txt 5.3770867807977725
+data.zcdg.txt 2.6885433903988862
+data.zcej.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zdrq.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zehb.txt 4.261240455343955

@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zadv.txt 1
-data.zapl.txt 1
-data.zdgv.txt 1
-data.zebf.txt 2
+data.vi.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zdgv.txt 3.235060386727117
+data.zebf.txt 5.1274494005309625

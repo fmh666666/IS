@@ -1,9 +1,9 @@
 8
-data.hc.txt 1
-data.tz.txt 1
-data.zadv.txt 1
-data.zaqw.txt 1
-data.zcdv.txt 1
-data.zdhv.txt 1
-data.zenn.txt 1
-data.zfaw.txt 1
+data.hc.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaqw.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zenn.txt 2.9092786962624935
+data.zfaw.txt 2.9092786962624935

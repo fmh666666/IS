@@ -1,6 +1,6 @@
 5
-data.co.txt 14
-data.mu.txt 1
-data.zcdv.txt 1
-data.zdeb.txt 1
-data.zeyy.txt 1
+data.co.txt 12.639027001129831
+data.mu.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zeyy.txt 3.235060386727117

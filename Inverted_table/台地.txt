@@ -1,3 +1,3 @@
 2
-data.zbqu.txt 2
-data.zbta.txt 1
+data.zbqu.txt 6.134097658560606
+data.zbta.txt 3.8701847240988965

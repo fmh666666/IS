@@ -1,4 +1,4 @@
 3
-data.zblq.txt 2
-data.zcuh.txt 2
-data.zdcj.txt 1
+data.zblq.txt 5.688648708166832
+data.zcuh.txt 5.688648708166832
+data.zdcj.txt 3.5891377275982888

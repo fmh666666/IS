@@ -1,7 +1,7 @@
 6
-data.bs.txt 2
-data.to.txt 1
-data.zbcv.txt 1
-data.zbwa.txt 1
-data.zdmw.txt 1
-data.zesq.txt 2
+data.bs.txt 4.927148697748023
+data.to.txt 3.1086847136800873
+data.zbcv.txt 3.1086847136800873
+data.zbwa.txt 3.1086847136800873
+data.zdmw.txt 3.1086847136800873
+data.zesq.txt 4.927148697748023

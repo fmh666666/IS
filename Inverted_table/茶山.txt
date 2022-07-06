@@ -1,14 +1,14 @@
 13
-data.zahp.txt 1
-data.zalt.txt 2
-data.zamr.txt 1
-data.zawo.txt 2
-data.zcao.txt 1
-data.zcbm.txt 1
-data.zcls.txt 1
-data.zcue.txt 1
-data.zdaw.txt 4
-data.zdpz.txt 3
-data.zekw.txt 1
-data.zfai.txt 1
-data.zfaj.txt 4
+data.zahp.txt 2.5727503226135906
+data.zalt.txt 4.077712785060798
+data.zamr.txt 2.5727503226135906
+data.zawo.txt 4.077712785060798
+data.zcao.txt 2.5727503226135906
+data.zcbm.txt 2.5727503226135906
+data.zcls.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zdaw.txt 5.97374125520702
+data.zdpz.txt 5.145500645227181
+data.zekw.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfaj.txt 5.97374125520702

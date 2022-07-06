@@ -1,12 +1,12 @@
 11
-data.co.txt 1
-data.zalj.txt 1
-data.zapr.txt 1
-data.zasw.txt 1
-data.zawb.txt 1
-data.zbhd.txt 1
-data.zbof.txt 1
-data.zcem.txt 1
-data.zcmy.txt 1
-data.zdtv.txt 1
-data.zedx.txt 1
+data.co.txt 2.6885433903988862
+data.zalj.txt 2.6885433903988862
+data.zapr.txt 2.6885433903988862
+data.zasw.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zcem.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zdtv.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862

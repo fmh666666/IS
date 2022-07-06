@@ -1,6 +1,6 @@
 5
-data.ew.txt 1
-data.zbrj.txt 1
-data.zdju.txt 1
-data.zebn.txt 3
-data.zfai.txt 1
+data.ew.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zebn.txt 6.470120773454234
+data.zfai.txt 3.235060386727117

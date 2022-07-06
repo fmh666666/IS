@@ -1,3 +1,3 @@
 2
-data.zcdy.txt 1
-data.zeyu.txt 1
+data.zcdy.txt 3.8701847240988965
+data.zeyu.txt 3.8701847240988965

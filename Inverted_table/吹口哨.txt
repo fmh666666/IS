@@ -1,10 +1,10 @@
 9
-data.tj.txt 3
-data.zako.txt 1
-data.zank.txt 4
-data.zblr.txt 2
-data.zbof.txt 1
-data.zcql.txt 1
-data.zdfl.txt 1
-data.zefu.txt 1
-data.zezn.txt 1
+data.tj.txt 5.65527543435896
+data.zako.txt 2.82763771717948
+data.zank.txt 6.565571457682201
+data.zblr.txt 4.48169974735425
+data.zbof.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zezn.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zajo.txt 1
-data.zdcw.txt 1
-data.zdeb.txt 1
-data.zene.txt 1
+data.bf.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zdcw.txt 3.235060386727117
+data.zdeb.txt 3.235060386727117
+data.zene.txt 3.235060386727117

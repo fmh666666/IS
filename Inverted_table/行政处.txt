@@ -1,11 +1,11 @@
 10
-data.gw.txt 1
-data.hz.txt 3
-data.zabe.txt 1
-data.zahd.txt 1
-data.zalm.txt 1
-data.zawu.txt 1
-data.zbeb.txt 1
-data.zbhd.txt 1
-data.zcdz.txt 1
-data.zcvq.txt 1
+data.gw.txt 2.7546073728089153
+data.hz.txt 5.509214745617831
+data.zabe.txt 2.7546073728089153
+data.zahd.txt 2.7546073728089153
+data.zalm.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbhd.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153

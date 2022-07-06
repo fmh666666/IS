@@ -1,12 +1,12 @@
 11
-data.ye.txt 3
-data.zane.txt 1
-data.zaxj.txt 1
-data.zaxk.txt 1
-data.zbup.txt 1
-data.zdkk.txt 1
-data.zdod.txt 1
-data.zdxw.txt 1
-data.zehp.txt 1
-data.zekw.txt 1
-data.zfcp.txt 1
+data.ye.txt 5.3770867807977725
+data.zane.txt 2.6885433903988862
+data.zaxj.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbup.txt 2.6885433903988862
+data.zdkk.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zekw.txt 2.6885433903988862
+data.zfcp.txt 2.6885433903988862

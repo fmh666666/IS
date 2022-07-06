@@ -1,2 +1,2 @@
 1
-data.zezy.txt 2
+data.zezy.txt 6.8955976689794145

@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zaxk.txt 1
-data.zbfz.txt 1
-data.zcdg.txt 1
-data.zcln.txt 3
-data.zduo.txt 1
+data.zadv.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcln.txt 6.2173694273601745
+data.zduo.txt 3.1086847136800873

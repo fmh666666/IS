@@ -1,7 +1,7 @@
 6
-data.zbfx.txt 3
-data.zbpx.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
-data.zeam.txt 1
-data.zebn.txt 1
+data.zbfx.txt 6.2173694273601745
+data.zbpx.txt 3.1086847136800873
+data.zeai.txt 3.1086847136800873
+data.zeaj.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zebn.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.uz.txt 1
-data.zasr.txt 1
-data.zbhd.txt 3
-data.zblr.txt 1
-data.zcak.txt 1
-data.zdud.txt 1
-data.zeec.txt 1
-data.zelt.txt 1
+data.uz.txt 2.9092786962624935
+data.zasr.txt 2.9092786962624935
+data.zbhd.txt 5.818557392524987
+data.zblr.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

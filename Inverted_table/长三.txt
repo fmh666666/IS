@@ -1,10 +1,10 @@
 9
-data.co.txt 2
-data.ft.txt 1
-data.zalm.txt 1
-data.zaop.txt 1
-data.zbkj.txt 5
-data.zblh.txt 1
-data.zclm.txt 1
-data.zeid.txt 1
-data.zexu.txt 1
+data.co.txt 4.48169974735425
+data.ft.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zaop.txt 2.82763771717948
+data.zbkj.txt 7.309337464533731
+data.zblh.txt 2.82763771717948
+data.zclm.txt 2.82763771717948
+data.zeid.txt 2.82763771717948
+data.zexu.txt 2.82763771717948

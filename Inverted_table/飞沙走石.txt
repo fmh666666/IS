@@ -1,7 +1,7 @@
 6
-data.ee.txt 2
-data.zcdg.txt 1
-data.zcdl.txt 1
-data.zeez.txt 1
-data.zelj.txt 1
-data.zeqn.txt 1
+data.ee.txt 4.927148697748023
+data.zcdg.txt 3.1086847136800873
+data.zcdl.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873
+data.zelj.txt 3.1086847136800873
+data.zeqn.txt 3.1086847136800873

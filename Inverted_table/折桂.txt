@@ -1,11 +1,11 @@
 10
-data.tv.txt 1
-data.zajh.txt 1
-data.zbcv.txt 1
-data.zcby.txt 1
-data.zcgi.txt 1
-data.zczl.txt 1
-data.zdlw.txt 2
-data.zedo.txt 1
-data.zerv.txt 1
-data.zeyy.txt 1
+data.tv.txt 2.7546073728089153
+data.zajh.txt 2.7546073728089153
+data.zbcv.txt 2.7546073728089153
+data.zcby.txt 2.7546073728089153
+data.zcgi.txt 2.7546073728089153
+data.zczl.txt 2.7546073728089153
+data.zdlw.txt 4.365949390112154
+data.zedo.txt 2.7546073728089153
+data.zerv.txt 2.7546073728089153
+data.zeyy.txt 2.7546073728089153

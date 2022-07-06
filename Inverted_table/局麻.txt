@@ -1,5 +1,5 @@
 4
-data.zdaq.txt 1
-data.zdar.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.zdaq.txt 3.389731710180695
+data.zdar.txt 3.389731710180695
+data.zfai.txt 3.389731710180695
+data.zfaj.txt 3.389731710180695

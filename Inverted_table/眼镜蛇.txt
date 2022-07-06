@@ -1,14 +1,14 @@
 13
-data.ha.txt 3
-data.hu.txt 1
-data.zaoo.txt 1
-data.zawc.txt 2
-data.zazg.txt 2
-data.zbcv.txt 4
-data.zbup.txt 1
-data.zcis.txt 4
-data.zcko.txt 3
-data.zcqp.txt 1
-data.zdgt.txt 1
-data.zeik.txt 1
-data.zezy.txt 2
+data.ha.txt 5.145500645227181
+data.hu.txt 2.5727503226135906
+data.zaoo.txt 2.5727503226135906
+data.zawc.txt 4.077712785060798
+data.zazg.txt 4.077712785060798
+data.zbcv.txt 5.97374125520702
+data.zbup.txt 2.5727503226135906
+data.zcis.txt 5.97374125520702
+data.zcko.txt 5.145500645227181
+data.zcqp.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zeik.txt 2.5727503226135906
+data.zezy.txt 4.077712785060798

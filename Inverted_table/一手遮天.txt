@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zanh.txt 1
-data.zbdb.txt 1
-data.zbor.txt 1
-data.zexm.txt 1
+data.zacw.txt 3.235060386727117
+data.zanh.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

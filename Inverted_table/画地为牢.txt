@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zaip.txt 1
-data.zbcj.txt 1
-data.zbpc.txt 1
-data.zbzf.txt 1
-data.zeai.txt 1
-data.zedk.txt 1
-data.zedx.txt 1
+data.zabe.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbpc.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zedx.txt 2.9092786962624935

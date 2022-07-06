@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.zamr.txt 1
-data.zauy.txt 1
-data.zbcv.txt 3
-data.zbkr.txt 1
-data.zcxr.txt 1
-data.zedx.txt 1
+data.kq.txt 3.0018356045764243
+data.zamr.txt 3.0018356045764243
+data.zauy.txt 3.0018356045764243
+data.zbcv.txt 6.003671209152849
+data.zbkr.txt 3.0018356045764243
+data.zcxr.txt 3.0018356045764243
+data.zedx.txt 3.0018356045764243

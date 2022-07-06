@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zane.txt 1
-data.zcfx.txt 1
-data.zdtv.txt 1
-data.zexm.txt 1
+data.op.txt 3.235060386727117
+data.zane.txt 3.235060386727117
+data.zcfx.txt 3.235060386727117
+data.zdtv.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

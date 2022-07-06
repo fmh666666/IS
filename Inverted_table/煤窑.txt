@@ -1,10 +1,10 @@
 9
-data.zcdg.txt 1
-data.zcmx.txt 1
-data.zcvi.txt 1
-data.zdro.txt 1
-data.zdtv.txt 1
-data.zeai.txt 1
-data.zekw.txt 1
-data.zelt.txt 2
-data.zezy.txt 1
+data.zcdg.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcvi.txt 2.82763771717948
+data.zdro.txt 2.82763771717948
+data.zdtv.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zekw.txt 2.82763771717948
+data.zelt.txt 4.48169974735425
+data.zezy.txt 2.82763771717948

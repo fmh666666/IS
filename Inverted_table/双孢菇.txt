@@ -1,2 +1,2 @@
 1
-data.zfaw.txt 1
+data.zfaw.txt 4.350637738017098

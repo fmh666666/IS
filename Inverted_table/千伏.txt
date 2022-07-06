@@ -1,6 +1,6 @@
 5
-data.ye.txt 1
-data.zbeb.txt 2
-data.zcue.txt 1
-data.zddm.txt 1
-data.zedd.txt 1
+data.ye.txt 3.235060386727117
+data.zbeb.txt 5.1274494005309625
+data.zcue.txt 3.235060386727117
+data.zddm.txt 3.235060386727117
+data.zedd.txt 3.235060386727117

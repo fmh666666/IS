@@ -1,7 +1,7 @@
 6
-data.pq.txt 1
-data.zaql.txt 2
-data.zbkf.txt 4
-data.zclh.txt 2
-data.zedd.txt 5
-data.zevt.txt 2
+data.pq.txt 3.1086847136800873
+data.zaql.txt 4.927148697748023
+data.zbkf.txt 7.21814237484067
+data.zclh.txt 4.927148697748023
+data.zedd.txt 8.03583341142811
+data.zevt.txt 4.927148697748023

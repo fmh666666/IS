@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.ok.txt 1
-data.zaim.txt 1
-data.zajn.txt 1
-data.zbjc.txt 1
-data.zbrj.txt 2
-data.zcve.txt 1
-data.zdqz.txt 1
+data.ka.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zajn.txt 2.9092786962624935
+data.zbjc.txt 2.9092786962624935
+data.zbrj.txt 4.611097637722987
+data.zcve.txt 2.9092786962624935
+data.zdqz.txt 2.9092786962624935

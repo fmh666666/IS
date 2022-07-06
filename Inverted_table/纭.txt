@@ -1,6 +1,6 @@
 5
-data.co.txt 2
-data.ew.txt 1
-data.tz.txt 1
-data.zawc.txt 2
-data.zeaj.txt 1
+data.co.txt 5.1274494005309625
+data.ew.txt 3.235060386727117
+data.tz.txt 3.235060386727117
+data.zawc.txt 5.1274494005309625
+data.zeaj.txt 3.235060386727117

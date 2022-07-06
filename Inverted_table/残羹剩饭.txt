@@ -1,6 +1,6 @@
 5
-data.op.txt 1
-data.zake.txt 1
-data.zcsu.txt 1
-data.zene.txt 2
-data.zewn.txt 1
+data.op.txt 3.235060386727117
+data.zake.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zene.txt 5.1274494005309625
+data.zewn.txt 3.235060386727117

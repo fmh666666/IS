@@ -1,12 +1,12 @@
 11
-data.zahd.txt 1
-data.zard.txt 2
-data.zckd.txt 1
-data.zdoq.txt 1
-data.zdpw.txt 1
-data.zduk.txt 1
-data.zdwd.txt 2
-data.zefs.txt 1
-data.zemb.txt 1
-data.zewd.txt 1
-data.zfai.txt 1
+data.zahd.txt 2.6885433903988862
+data.zard.txt 4.261240455343955
+data.zckd.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zdpw.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zdwd.txt 4.261240455343955
+data.zefs.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862
+data.zewd.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

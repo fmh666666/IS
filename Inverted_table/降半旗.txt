@@ -1,7 +1,7 @@
 6
-data.zavg.txt 1
-data.zcdy.txt 1
-data.zcmy.txt 1
-data.zeds.txt 2
-data.zenw.txt 2
-data.zerv.txt 1
+data.zavg.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zeds.txt 4.927148697748023
+data.zenw.txt 4.927148697748023
+data.zerv.txt 3.1086847136800873

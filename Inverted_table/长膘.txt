@@ -1,5 +1,5 @@
 4
-data.zane.txt 1
-data.zcku.txt 2
-data.zcqp.txt 1
-data.zeoo.txt 1
+data.zane.txt 3.389731710180695
+data.zcku.txt 5.372597648141796
+data.zcqp.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

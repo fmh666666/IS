@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.zayc.txt 1
-data.zdou.txt 1
-data.zesi.txt 1
-data.zexk.txt 1
+data.bb.txt 3.235060386727117
+data.zayc.txt 3.235060386727117
+data.zdou.txt 3.235060386727117
+data.zesi.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

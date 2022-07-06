@@ -1,12 +1,12 @@
 11
-data.hp.txt 3
-data.zazx.txt 1
-data.zbdx.txt 1
-data.zbkj.txt 3
-data.zbpx.txt 1
-data.zbtj.txt 5
-data.zcdv.txt 1
-data.zczj.txt 1
-data.zdof.txt 6
-data.zevl.txt 1
-data.zfaj.txt 3
+data.hp.txt 5.3770867807977725
+data.zazx.txt 2.6885433903988862
+data.zbdx.txt 2.6885433903988862
+data.zbkj.txt 5.3770867807977725
+data.zbpx.txt 2.6885433903988862
+data.zbtj.txt 6.949783845742841
+data.zcdv.txt 2.6885433903988862
+data.zczj.txt 2.6885433903988862
+data.zdof.txt 7.547695520201752
+data.zevl.txt 2.6885433903988862
+data.zfaj.txt 5.3770867807977725

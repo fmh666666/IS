@@ -1,13 +1,13 @@
 12
-data.mo.txt 1
-data.zbeb.txt 1
-data.zbfp.txt 3
-data.zcjy.txt 1
-data.zcln.txt 1
-data.zcmv.txt 1
-data.zcqg.txt 1
-data.zcxh.txt 1
-data.zdeq.txt 1
-data.zefw.txt 1
-data.zejk.txt 17
-data.zejn.txt 19
+data.mo.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbfp.txt 5.256463399523772
+data.zcjy.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zcmv.txt 2.628231699761886
+data.zcqg.txt 2.628231699761886
+data.zcxh.txt 2.628231699761886
+data.zdeq.txt 2.628231699761886
+data.zefw.txt 2.628231699761886
+data.zejk.txt 10.959529074420313
+data.zejn.txt 11.359028423074463

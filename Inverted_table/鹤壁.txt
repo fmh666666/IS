@@ -1,6 +1,6 @@
 5
-data.bf.txt 1
-data.zbia.txt 10
-data.zeos.txt 1
-data.zfai.txt 1
-data.zfaw.txt 1
+data.bf.txt 3.235060386727117
+data.zbia.txt 11.191470190044793
+data.zeos.txt 3.235060386727117
+data.zfai.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

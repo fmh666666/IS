@@ -1,12 +1,12 @@
 11
-data.zasy.txt 1
-data.zazg.txt 1
-data.zbor.txt 1
-data.zcjo.txt 1
-data.zclh.txt 1
-data.zcse.txt 1
-data.zctp.txt 1
-data.zcue.txt 1
-data.zeec.txt 1
-data.zerh.txt 1
-data.zezn.txt 1
+data.zasy.txt 2.6885433903988862
+data.zazg.txt 2.6885433903988862
+data.zbor.txt 2.6885433903988862
+data.zcjo.txt 2.6885433903988862
+data.zclh.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862
+data.zerh.txt 2.6885433903988862
+data.zezn.txt 2.6885433903988862

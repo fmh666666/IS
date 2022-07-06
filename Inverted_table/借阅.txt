@@ -1,7 +1,7 @@
 6
-data.ye.txt 2
-data.zacw.txt 1
-data.zazo.txt 1
-data.zbcc.txt 2
-data.zbnx.txt 2
-data.zbzf.txt 1
+data.ye.txt 4.927148697748023
+data.zacw.txt 3.1086847136800873
+data.zazo.txt 3.1086847136800873
+data.zbcc.txt 4.927148697748023
+data.zbnx.txt 4.927148697748023
+data.zbzf.txt 3.1086847136800873

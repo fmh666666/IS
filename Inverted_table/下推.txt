@@ -1,6 +1,6 @@
 5
-data.dg.txt 1
-data.zbfz.txt 1
-data.zbgu.txt 3
-data.zblh.txt 1
-data.zbuj.txt 2
+data.dg.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zbgu.txt 6.470120773454234
+data.zblh.txt 3.235060386727117
+data.zbuj.txt 5.1274494005309625

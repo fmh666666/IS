@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.zeam.txt 1
-data.zebc.txt 1
+data.gz.txt 3.5891377275982888
+data.zeam.txt 3.5891377275982888
+data.zebc.txt 3.5891377275982888

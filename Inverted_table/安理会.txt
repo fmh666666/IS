@@ -1,7 +1,7 @@
 6
-data.ft.txt 1
-data.ha.txt 1
-data.zcmy.txt 2
-data.zcqp.txt 1
-data.zdqz.txt 1
-data.zfai.txt 5
+data.ft.txt 3.1086847136800873
+data.ha.txt 3.1086847136800873
+data.zcmy.txt 4.927148697748023
+data.zcqp.txt 3.1086847136800873
+data.zdqz.txt 3.1086847136800873
+data.zfai.txt 8.03583341142811

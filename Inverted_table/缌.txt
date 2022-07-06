@@ -1,4 +1,4 @@
 3
-data.zcgi.txt 1
-data.zeos.txt 1
-data.zewp.txt 3
+data.zcgi.txt 3.5891377275982888
+data.zeos.txt 3.5891377275982888
+data.zewp.txt 7.1782754551965775

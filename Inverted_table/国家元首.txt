@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.zcue.txt 1
-data.zczj.txt 1
-data.zdeb.txt 1
-data.zdrq.txt 1
-data.zebf.txt 1
-data.zeds.txt 1
-data.zene.txt 1
-data.zexv.txt 1
+data.fe.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zebf.txt 2.82763771717948
+data.zeds.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zexv.txt 2.82763771717948

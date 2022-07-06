@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.cq.txt 1
-data.zasj.txt 1
-data.zebn.txt 4
-data.zfaj.txt 1
+data.bs.txt 3.235060386727117
+data.cq.txt 3.235060386727117
+data.zasj.txt 3.235060386727117
+data.zebn.txt 7.511577600598868
+data.zfaj.txt 3.235060386727117

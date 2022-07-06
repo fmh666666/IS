@@ -1,7 +1,7 @@
 6
-data.zauy.txt 2
-data.zbfd.txt 1
-data.zbnp.txt 1
-data.zdwz.txt 1
-data.zezy.txt 1
-data.zfas.txt 1
+data.zauy.txt 4.927148697748023
+data.zbfd.txt 3.1086847136800873
+data.zbnp.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873
+data.zfas.txt 3.1086847136800873

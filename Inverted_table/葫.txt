@@ -1,7 +1,7 @@
 6
-data.bs.txt 2
-data.wc.txt 1
-data.zazx.txt 1
-data.zcao.txt 2
-data.zezm.txt 1
-data.zfcj.txt 1
+data.bs.txt 4.927148697748023
+data.wc.txt 3.1086847136800873
+data.zazx.txt 3.1086847136800873
+data.zcao.txt 4.927148697748023
+data.zezm.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

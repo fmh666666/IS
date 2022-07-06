@@ -1,6 +1,6 @@
 5
-data.en.txt 1
-data.zadv.txt 1
-data.zbzf.txt 1
-data.zcjo.txt 1
-data.zebf.txt 1
+data.en.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zcjo.txt 3.235060386727117
+data.zebf.txt 3.235060386727117

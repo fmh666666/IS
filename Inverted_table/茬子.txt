@@ -1,6 +1,6 @@
 5
-data.hc.txt 1
-data.hp.txt 1
-data.zank.txt 1
-data.zdmw.txt 1
-data.zdsh.txt 1
+data.hc.txt 3.235060386727117
+data.hp.txt 3.235060386727117
+data.zank.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zdsh.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.zaxj.txt 1
-data.zcrk.txt 1
-data.zdkk.txt 1
-data.zess.txt 2
+data.zaxj.txt 3.389731710180695
+data.zcrk.txt 3.389731710180695
+data.zdkk.txt 3.389731710180695
+data.zess.txt 5.372597648141796

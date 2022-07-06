@@ -1,12 +1,12 @@
 11
-data.fj.txt 2
-data.zbzg.txt 1
-data.zcao.txt 1
-data.zcdz.txt 1
-data.zckd.txt 1
-data.zcnn.txt 1
-data.zcpx.txt 2
-data.zdbf.txt 1
-data.zdwz.txt 1
-data.zebf.txt 1
-data.zeel.txt 1
+data.fj.txt 4.261240455343955
+data.zbzg.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zckd.txt 2.6885433903988862
+data.zcnn.txt 2.6885433903988862
+data.zcpx.txt 4.261240455343955
+data.zdbf.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zeel.txt 2.6885433903988862

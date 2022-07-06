@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zcrn.txt 1
-data.zeeh.txt 1
-data.zeeq.txt 3
-data.zeqn.txt 1
+data.zazn.txt 3.235060386727117
+data.zcrn.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zeeq.txt 6.470120773454234
+data.zeqn.txt 3.235060386727117

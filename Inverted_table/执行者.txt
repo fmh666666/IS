@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.to.txt 1
-data.zbfz.txt 1
-data.zbuj.txt 1
-data.zcdz.txt 1
-data.zcmx.txt 1
-data.zdgv.txt 2
-data.zebn.txt 2
-data.zenw.txt 1
-data.zeoh.txt 1
-data.zezh.txt 1
-data.zezy.txt 1
+data.ga.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbuj.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zdgv.txt 4.165648687329214
+data.zebn.txt 4.165648687329214
+data.zenw.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zezh.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

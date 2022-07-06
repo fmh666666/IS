@@ -1,6 +1,6 @@
 5
-data.zarc.txt 1
-data.zaxx.txt 1
-data.zdcj.txt 4
-data.zekw.txt 1
-data.zelt.txt 2
+data.zarc.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zdcj.txt 7.511577600598868
+data.zekw.txt 3.235060386727117
+data.zelt.txt 5.1274494005309625

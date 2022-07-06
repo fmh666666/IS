@@ -1,14 +1,14 @@
 13
-data.ep.txt 1
-data.zawb.txt 1
-data.zbhe.txt 1
-data.zbre.txt 1
-data.zbvm.txt 1
-data.zbxw.txt 1
-data.zcdy.txt 1
-data.zcni.txt 2
-data.zcxq.txt 1
-data.zdeq.txt 1
-data.zdlg.txt 1
-data.zfaj.txt 1
-data.zfdk.txt 1
+data.ep.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zbre.txt 2.5727503226135906
+data.zbvm.txt 2.5727503226135906
+data.zbxw.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcni.txt 4.077712785060798
+data.zcxq.txt 2.5727503226135906
+data.zdeq.txt 2.5727503226135906
+data.zdlg.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906
+data.zfdk.txt 2.5727503226135906

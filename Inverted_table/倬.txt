@@ -1,6 +1,6 @@
 5
-data.zafi.txt 1
-data.zbot.txt 1
-data.zclh.txt 1
-data.zdmw.txt 1
-data.zfcg.txt 1
+data.zafi.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zclh.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

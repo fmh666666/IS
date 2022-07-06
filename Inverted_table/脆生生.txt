@@ -1,2 +1,2 @@
 1
-data.zcko.txt 2
+data.zcko.txt 6.8955976689794145

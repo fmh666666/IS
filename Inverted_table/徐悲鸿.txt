@@ -1,10 +1,10 @@
 9
-data.wg.txt 1
-data.zabe.txt 1
-data.zajo.txt 4
-data.zaqw.txt 1
-data.zbzf.txt 2
-data.zcse.txt 2
-data.zdeb.txt 2
-data.zdll.txt 1
-data.zeoh.txt 3
+data.wg.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zajo.txt 6.565571457682201
+data.zaqw.txt 2.82763771717948
+data.zbzf.txt 4.48169974735425
+data.zcse.txt 4.48169974735425
+data.zdeb.txt 4.48169974735425
+data.zdll.txt 2.82763771717948
+data.zeoh.txt 5.65527543435896

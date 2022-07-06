@@ -1,6 +1,6 @@
 5
-data.zdar.txt 1
-data.zdji.txt 1
-data.zeeq.txt 1
-data.zefu.txt 3
-data.zefv.txt 1
+data.zdar.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117
+data.zefu.txt 6.470120773454234
+data.zefv.txt 3.235060386727117

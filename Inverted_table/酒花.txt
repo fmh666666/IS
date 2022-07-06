@@ -1,4 +1,4 @@
 3
-data.zajo.txt 1
-data.zblr.txt 1
-data.zclh.txt 1
+data.zajo.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888
+data.zclh.txt 3.5891377275982888

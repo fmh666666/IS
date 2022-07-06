@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.ha.txt 1
-data.hc.txt 1
-data.zaqf.txt 2
-data.zawb.txt 1
-data.zbvp.txt 1
-data.zcmx.txt 1
-data.zcpx.txt 1
-data.zddp.txt 1
+data.gw.txt 2.82763771717948
+data.ha.txt 2.82763771717948
+data.hc.txt 2.82763771717948
+data.zaqf.txt 4.48169974735425
+data.zawb.txt 2.82763771717948
+data.zbvp.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcpx.txt 2.82763771717948
+data.zddp.txt 2.82763771717948

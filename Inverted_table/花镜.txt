@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zaxj.txt 1
-data.zbfp.txt 1
-data.zbkj.txt 1
-data.zcgo.txt 1
-data.zcql.txt 1
-data.zdod.txt 113
-data.zdof.txt 141
+data.ok.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbfp.txt 2.9092786962624935
+data.zbkj.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdod.txt 19.878781352114213
+data.zdof.txt 20.800606978439102

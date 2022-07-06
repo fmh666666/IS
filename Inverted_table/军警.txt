@@ -1,11 +1,11 @@
 10
-data.ha.txt 1
-data.ok.txt 5
-data.zawb.txt 1
-data.zawc.txt 7
-data.zciq.txt 1
-data.zcmx.txt 1
-data.zdkk.txt 1
-data.zeob.txt 4
-data.zezy.txt 1
-data.zfae.txt 1
+data.ha.txt 2.7546073728089153
+data.ok.txt 7.120556762921068
+data.zawb.txt 2.7546073728089153
+data.zawc.txt 8.263822118426747
+data.zciq.txt 2.7546073728089153
+data.zcmx.txt 2.7546073728089153
+data.zdkk.txt 2.7546073728089153
+data.zeob.txt 6.396000249308887
+data.zezy.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153

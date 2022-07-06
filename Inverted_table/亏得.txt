@@ -1,5 +1,5 @@
 4
-data.cf.txt 1
-data.pa.txt 1
-data.zbye.txt 1
-data.zcln.txt 1
+data.cf.txt 3.389731710180695
+data.pa.txt 3.389731710180695
+data.zbye.txt 3.389731710180695
+data.zcln.txt 3.389731710180695

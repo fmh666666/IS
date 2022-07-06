@@ -1,4 +1,4 @@
 3
-data.zcft.txt 1
-data.zdkc.txt 1
-data.zedx.txt 1
+data.zcft.txt 3.5891377275982888
+data.zdkc.txt 3.5891377275982888
+data.zedx.txt 3.5891377275982888

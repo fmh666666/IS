@@ -1,8 +1,8 @@
 7
-data.to.txt 1
-data.zarc.txt 11
-data.zayv.txt 5
-data.zbgw.txt 1
-data.zbta.txt 2
-data.zbzo.txt 8
-data.zdcw.txt 2
+data.to.txt 3.0018356045764243
+data.zarc.txt 10.761468075736103
+data.zayv.txt 7.759632471159678
+data.zbgw.txt 3.0018356045764243
+data.zbta.txt 4.757796866583254
+data.zbzo.txt 9.515593733166508
+data.zdcw.txt 4.757796866583254

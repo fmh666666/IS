@@ -1,5 +1,5 @@
 4
-data.zamp.txt 1
-data.zaub.txt 1
-data.zbmt.txt 1
-data.zbvg.txt 1
+data.zamp.txt 3.389731710180695
+data.zaub.txt 3.389731710180695
+data.zbmt.txt 3.389731710180695
+data.zbvg.txt 3.389731710180695

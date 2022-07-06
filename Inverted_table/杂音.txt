@@ -1,11 +1,11 @@
 10
-data.jj.txt 1
-data.mu.txt 1
-data.zazw.txt 1
-data.zdaq.txt 1
-data.zdlo.txt 1
-data.zebn.txt 1
-data.zecf.txt 1
-data.zeik.txt 2
-data.zexm.txt 1
-data.zezf.txt 1
+data.jj.txt 2.7546073728089153
+data.mu.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zdaq.txt 2.7546073728089153
+data.zdlo.txt 2.7546073728089153
+data.zebn.txt 2.7546073728089153
+data.zecf.txt 2.7546073728089153
+data.zeik.txt 4.365949390112154
+data.zexm.txt 2.7546073728089153
+data.zezf.txt 2.7546073728089153

@@ -1,7 +1,7 @@
 6
-data.ka.txt 1
-data.kt.txt 1
-data.xe.txt 1
-data.zbpx.txt 1
-data.zbsm.txt 1
-data.zebc.txt 1
+data.ka.txt 3.1086847136800873
+data.kt.txt 3.1086847136800873
+data.xe.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zebc.txt 3.1086847136800873

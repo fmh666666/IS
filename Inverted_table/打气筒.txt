@@ -1,4 +1,4 @@
 3
-data.vi.txt 1
-data.wg.txt 1
-data.zbsl.txt 1
+data.vi.txt 3.5891377275982888
+data.wg.txt 3.5891377275982888
+data.zbsl.txt 3.5891377275982888

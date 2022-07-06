@@ -1,5 +1,5 @@
 4
-data.aj.txt 1
-data.fp.txt 1
-data.zcdv.txt 2
-data.zevq.txt 1
+data.aj.txt 3.389731710180695
+data.fp.txt 3.389731710180695
+data.zcdv.txt 5.372597648141796
+data.zevq.txt 3.389731710180695

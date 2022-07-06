@@ -1,7 +1,7 @@
 6
-data.xe.txt 2
-data.zalm.txt 2
-data.zasr.txt 1
-data.zawu.txt 2
-data.zbdb.txt 1
-data.zety.txt 1
+data.xe.txt 4.927148697748023
+data.zalm.txt 4.927148697748023
+data.zasr.txt 3.1086847136800873
+data.zawu.txt 4.927148697748023
+data.zbdb.txt 3.1086847136800873
+data.zety.txt 3.1086847136800873

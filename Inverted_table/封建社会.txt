@@ -1,7 +1,7 @@
 6
-data.op.txt 1
-data.zabe.txt 1
-data.zafq.txt 1
-data.zbfz.txt 1
-data.zbpx.txt 1
-data.zezy.txt 1
+data.op.txt 3.1086847136800873
+data.zabe.txt 3.1086847136800873
+data.zafq.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zbpx.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

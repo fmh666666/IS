@@ -1,14 +1,14 @@
 13
-data.bf.txt 1
-data.zahd.txt 1
-data.zail.txt 1
-data.zawc.txt 1
-data.zawu.txt 1
-data.zbdx.txt 2
-data.zbeb.txt 4
-data.zbnx.txt 16
-data.zcsr.txt 1
-data.zcxr.txt 1
-data.zddv.txt 1
-data.zedo.txt 1
-data.zene.txt 1
+data.bf.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zail.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zawu.txt 2.5727503226135906
+data.zbdx.txt 4.077712785060798
+data.zbeb.txt 5.97374125520702
+data.zbnx.txt 10.516021343497874
+data.zcsr.txt 2.5727503226135906
+data.zcxr.txt 2.5727503226135906
+data.zddv.txt 2.5727503226135906
+data.zedo.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906

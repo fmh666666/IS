@@ -1,5 +1,5 @@
 4
-data.zcao.txt 2
-data.zcda.txt 1
-data.zczb.txt 1
-data.zdux.txt 1
+data.zcao.txt 5.372597648141796
+data.zcda.txt 3.389731710180695
+data.zczb.txt 3.389731710180695
+data.zdux.txt 3.389731710180695

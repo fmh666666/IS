@@ -1,4 +1,4 @@
 3
-data.zass.txt 1
-data.zduo.txt 3
-data.zeta.txt 2
+data.zass.txt 3.5891377275982888
+data.zduo.txt 7.1782754551965775
+data.zeta.txt 5.688648708166832

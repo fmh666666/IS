@@ -1,11 +1,11 @@
 10
-data.bb.txt 1
-data.ew.txt 1
-data.zasd.txt 1
-data.zbdb.txt 4
-data.zbel.txt 1
-data.zbga.txt 2
-data.zblr.txt 1
-data.zdod.txt 1
-data.zdqx.txt 1
-data.zfby.txt 1
+data.bb.txt 2.7546073728089153
+data.ew.txt 2.7546073728089153
+data.zasd.txt 2.7546073728089153
+data.zbdb.txt 6.396000249308887
+data.zbel.txt 2.7546073728089153
+data.zbga.txt 4.365949390112154
+data.zblr.txt 2.7546073728089153
+data.zdod.txt 2.7546073728089153
+data.zdqx.txt 2.7546073728089153
+data.zfby.txt 2.7546073728089153

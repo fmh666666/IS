@@ -1,9 +1,9 @@
 8
-data.zaet.txt 1
-data.zank.txt 1
-data.zbcv.txt 1
-data.zbfx.txt 1
-data.zbyv.txt 1
-data.zcqp.txt 1
-data.zdlg.txt 1
-data.zebv.txt 3
+data.zaet.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zbcv.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zbyv.txt 2.9092786962624935
+data.zcqp.txt 2.9092786962624935
+data.zdlg.txt 2.9092786962624935
+data.zebv.txt 5.818557392524987

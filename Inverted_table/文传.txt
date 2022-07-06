@@ -1,8 +1,8 @@
 7
-data.zalt.txt 25
-data.zaqf.txt 2
-data.zaxk.txt 1
-data.zbgd.txt 1
-data.zbht.txt 1
-data.zduo.txt 1
-data.zfaj.txt 1
+data.zalt.txt 14.109947303081105
+data.zaqf.txt 4.757796866583254
+data.zaxk.txt 3.0018356045764243
+data.zbgd.txt 3.0018356045764243
+data.zbht.txt 3.0018356045764243
+data.zduo.txt 3.0018356045764243
+data.zfaj.txt 3.0018356045764243

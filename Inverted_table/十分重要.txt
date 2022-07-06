@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.zajn.txt 1
-data.zapl.txt 1
-data.zaqf.txt 1
-data.zawc.txt 1
-data.zaxj.txt 2
-data.zcmx.txt 1
-data.zdaw.txt 1
-data.zedd.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.gw.txt 2.6885433903988862
+data.zajn.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zaqf.txt 2.6885433903988862
+data.zawc.txt 2.6885433903988862
+data.zaxj.txt 4.261240455343955
+data.zcmx.txt 2.6885433903988862
+data.zdaw.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

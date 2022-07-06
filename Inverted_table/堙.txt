@@ -1,5 +1,5 @@
 4
-data.mo.txt 2
-data.zbil.txt 1
-data.zdyv.txt 1
-data.zecf.txt 1
+data.mo.txt 5.372597648141796
+data.zbil.txt 3.389731710180695
+data.zdyv.txt 3.389731710180695
+data.zecf.txt 3.389731710180695

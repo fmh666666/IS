@@ -1,12 +1,12 @@
 11
-data.tv.txt 1
-data.zcee.txt 1
-data.zcwn.txt 1
-data.zdar.txt 6
-data.zdby.txt 1
-data.zdof.txt 1
-data.zdzg.txt 2
-data.zeec.txt 1
-data.zezm.txt 1
-data.zfcj.txt 2
-data.zfdk.txt 1
+data.tv.txt 2.6885433903988862
+data.zcee.txt 2.6885433903988862
+data.zcwn.txt 2.6885433903988862
+data.zdar.txt 7.547695520201752
+data.zdby.txt 2.6885433903988862
+data.zdof.txt 2.6885433903988862
+data.zdzg.txt 4.261240455343955
+data.zeec.txt 2.6885433903988862
+data.zezm.txt 2.6885433903988862
+data.zfcj.txt 4.261240455343955
+data.zfdk.txt 2.6885433903988862

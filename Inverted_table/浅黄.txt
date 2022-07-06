@@ -1,9 +1,9 @@
 8
-data.to.txt 1
-data.zahd.txt 1
-data.zbcj.txt 1
-data.zbgw.txt 1
-data.zbwa.txt 1
-data.zcdv.txt 1
-data.zdll.txt 1
-data.zdwd.txt 1
+data.to.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zbcj.txt 2.9092786962624935
+data.zbgw.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zdll.txt 2.9092786962624935
+data.zdwd.txt 2.9092786962624935

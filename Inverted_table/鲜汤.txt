@@ -1,5 +1,5 @@
 4
-data.zbhe.txt 1
-data.zbjk.txt 2
-data.zddm.txt 2
-data.zesq.txt 1
+data.zbhe.txt 3.389731710180695
+data.zbjk.txt 5.372597648141796
+data.zddm.txt 5.372597648141796
+data.zesq.txt 3.389731710180695

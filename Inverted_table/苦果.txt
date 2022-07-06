@@ -1,11 +1,11 @@
 10
-data.jf.txt 1
-data.mu.txt 1
-data.zbjh.txt 1
-data.zbls.txt 1
-data.zcdv.txt 1
-data.zdlw.txt 1
-data.zefd.txt 1
-data.zemb.txt 1
-data.zene.txt 1
-data.zezh.txt 2
+data.jf.txt 2.7546073728089153
+data.mu.txt 2.7546073728089153
+data.zbjh.txt 2.7546073728089153
+data.zbls.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zdlw.txt 2.7546073728089153
+data.zefd.txt 2.7546073728089153
+data.zemb.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zezh.txt 4.365949390112154

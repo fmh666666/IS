@@ -1,9 +1,9 @@
 8
-data.zall.txt 1
-data.zalm.txt 1
-data.zaqr.txt 2
-data.zazn.txt 1
-data.zazo.txt 1
-data.zcqg.txt 1
-data.zcww.txt 1
-data.zddp.txt 1
+data.zall.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zaqr.txt 4.611097637722987
+data.zazn.txt 2.9092786962624935
+data.zazo.txt 2.9092786962624935
+data.zcqg.txt 2.9092786962624935
+data.zcww.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935

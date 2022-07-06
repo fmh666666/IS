@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zawb.txt 1
-data.zawz.txt 1
-data.zbux.txt 1
-data.zbzg.txt 1
-data.zcpa.txt 1
-data.zdgo.txt 1
-data.zdou.txt 1
-data.zeag.txt 1
+data.fp.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zawz.txt 2.82763771717948
+data.zbux.txt 2.82763771717948
+data.zbzg.txt 2.82763771717948
+data.zcpa.txt 2.82763771717948
+data.zdgo.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zeag.txt 2.82763771717948

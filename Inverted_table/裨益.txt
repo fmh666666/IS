@@ -1,7 +1,7 @@
 6
-data.zazn.txt 1
-data.zbor.txt 1
-data.zczj.txt 1
-data.zdaw.txt 1
-data.zdgt.txt 1
-data.zdzi.txt 1
+data.zazn.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zdzi.txt 3.1086847136800873

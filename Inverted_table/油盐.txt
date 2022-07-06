@@ -1,13 +1,13 @@
 12
-data.gz.txt 1
-data.zagr.txt 1
-data.zcdg.txt 1
-data.zcqg.txt 1
-data.zczp.txt 1
-data.zdlo.txt 1
-data.zdud.txt 1
-data.zdxw.txt 2
-data.zedk.txt 1
-data.zeoo.txt 1
-data.zesi.txt 1
-data.zfai.txt 1
+data.gz.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcqg.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zdud.txt 2.628231699761886
+data.zdxw.txt 4.165648687329214
+data.zedk.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886
+data.zesi.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

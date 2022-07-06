@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.sq.txt 1
-data.zadv.txt 2
+data.hp.txt 3.5891377275982888
+data.sq.txt 3.5891377275982888
+data.zadv.txt 5.688648708166832

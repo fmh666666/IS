@@ -1,9 +1,9 @@
 8
-data.be.txt 1
-data.zbfp.txt 2
-data.zbut.txt 1
-data.zcih.txt 1
-data.zdbf.txt 1
-data.zdkc.txt 1
-data.zefd.txt 1
-data.zewv.txt 1
+data.be.txt 2.9092786962624935
+data.zbfp.txt 4.611097637722987
+data.zbut.txt 2.9092786962624935
+data.zcih.txt 2.9092786962624935
+data.zdbf.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935
+data.zewv.txt 2.9092786962624935

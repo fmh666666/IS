@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zcdl.txt 1
-data.zcfx.txt 1
-data.zddv.txt 2
-data.zfae.txt 1
+data.zawb.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117
+data.zcfx.txt 3.235060386727117
+data.zddv.txt 5.1274494005309625
+data.zfae.txt 3.235060386727117

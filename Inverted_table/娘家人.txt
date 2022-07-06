@@ -1,9 +1,9 @@
 8
-data.gk.txt 1
-data.mo.txt 1
-data.ok.txt 1
-data.zbre.txt 1
-data.zcnn.txt 1
-data.zdtr.txt 1
-data.zemf.txt 1
-data.zess.txt 3
+data.gk.txt 2.9092786962624935
+data.mo.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.zbre.txt 2.9092786962624935
+data.zcnn.txt 2.9092786962624935
+data.zdtr.txt 2.9092786962624935
+data.zemf.txt 2.9092786962624935
+data.zess.txt 5.818557392524987

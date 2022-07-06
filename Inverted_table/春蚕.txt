@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zccx.txt 1
-data.zdbf.txt 1
-data.zdju.txt 1
-data.zdzm.txt 2
+data.to.txt 3.235060386727117
+data.zccx.txt 3.235060386727117
+data.zdbf.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zdzm.txt 5.1274494005309625

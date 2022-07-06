@@ -1,7 +1,7 @@
 6
-data.ud.txt 1
-data.zbxy.txt 1
-data.zcdv.txt 1
-data.zcdy.txt 1
-data.zcpb.txt 1
-data.zdzn.txt 1
+data.ud.txt 3.1086847136800873
+data.zbxy.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcpb.txt 3.1086847136800873
+data.zdzn.txt 3.1086847136800873

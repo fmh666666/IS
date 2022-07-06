@@ -1,4 +1,4 @@
 3
-data.kt.txt 1
-data.zako.txt 2
-data.zdwv.txt 1
+data.kt.txt 3.5891377275982888
+data.zako.txt 5.688648708166832
+data.zdwv.txt 3.5891377275982888

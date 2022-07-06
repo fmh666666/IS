@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.hz.txt 1
-data.zbgu.txt 1
-data.zbtx.txt 1
-data.zbzf.txt 2
-data.zcpc.txt 1
-data.zdlm.txt 1
-data.zesq.txt 1
-data.zess.txt 1
+data.hp.txt 2.82763771717948
+data.hz.txt 2.82763771717948
+data.zbgu.txt 2.82763771717948
+data.zbtx.txt 2.82763771717948
+data.zbzf.txt 4.48169974735425
+data.zcpc.txt 2.82763771717948
+data.zdlm.txt 2.82763771717948
+data.zesq.txt 2.82763771717948
+data.zess.txt 2.82763771717948

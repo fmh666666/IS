@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.ka.txt 1
-data.zacd.txt 1
-data.zafl.txt 1
-data.zavg.txt 1
-data.zbot.txt 1
-data.zcef.txt 1
-data.zcvq.txt 1
-data.zczj.txt 1
-data.zebv.txt 1
+data.cf.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.zacd.txt 2.7546073728089153
+data.zafl.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zbot.txt 2.7546073728089153
+data.zcef.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zczj.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153

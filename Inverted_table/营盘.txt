@@ -1,8 +1,8 @@
 7
-data.zail.txt 1
-data.zasw.txt 1
-data.zcdz.txt 1
-data.zdgv.txt 46
-data.zdtv.txt 1
-data.zdux.txt 2
-data.zebn.txt 1
+data.zail.txt 3.0018356045764243
+data.zasw.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zdgv.txt 16.67396258374921
+data.zdtv.txt 3.0018356045764243
+data.zdux.txt 4.757796866583254
+data.zebn.txt 3.0018356045764243

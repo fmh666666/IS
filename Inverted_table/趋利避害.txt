@@ -1,4 +1,4 @@
 3
-data.ud.txt 1
-data.zard.txt 1
-data.zelt.txt 1
+data.ud.txt 3.5891377275982888
+data.zard.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

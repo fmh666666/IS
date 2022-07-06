@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.ng.txt 1
-data.zacp.txt 1
-data.zawc.txt 2
-data.zbkv.txt 1
-data.zbnx.txt 1
-data.zbsf.txt 2
-data.zcdz.txt 1
-data.zcxr.txt 1
-data.zdhw.txt 1
-data.zdou.txt 1
+data.bs.txt 2.6885433903988862
+data.ng.txt 2.6885433903988862
+data.zacp.txt 2.6885433903988862
+data.zawc.txt 4.261240455343955
+data.zbkv.txt 2.6885433903988862
+data.zbnx.txt 2.6885433903988862
+data.zbsf.txt 4.261240455343955
+data.zcdz.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdhw.txt 2.6885433903988862
+data.zdou.txt 2.6885433903988862

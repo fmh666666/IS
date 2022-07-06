@@ -1,12 +1,12 @@
 11
-data.vi.txt 1
-data.zacd.txt 2
-data.zard.txt 2
-data.zbgw.txt 1
-data.zbpx.txt 1
-data.zcfx.txt 2
-data.zdgp.txt 1
-data.zdkc.txt 1
-data.zdwd.txt 1
-data.zehp.txt 1
-data.zewg.txt 1
+data.vi.txt 2.6885433903988862
+data.zacd.txt 4.261240455343955
+data.zard.txt 4.261240455343955
+data.zbgw.txt 2.6885433903988862
+data.zbpx.txt 2.6885433903988862
+data.zcfx.txt 4.261240455343955
+data.zdgp.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdwd.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zewg.txt 2.6885433903988862

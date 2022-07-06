@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zawo.txt 1
-data.zbsm.txt 1
-data.zbup.txt 1
-data.zcpc.txt 1
+data.hz.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zbup.txt 3.235060386727117
+data.zcpc.txt 3.235060386727117

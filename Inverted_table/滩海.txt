@@ -1,4 +1,4 @@
 3
-data.zbgu.txt 1
-data.zbph.txt 1
-data.zcpb.txt 1
+data.zbgu.txt 3.5891377275982888
+data.zbph.txt 3.5891377275982888
+data.zcpb.txt 3.5891377275982888

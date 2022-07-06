@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zbts.txt 1
-data.zddm.txt 1
-data.zduk.txt 1
-data.zeyg.txt 1
-data.zfbr.txt 1
+data.hp.txt 3.1086847136800873
+data.zbts.txt 3.1086847136800873
+data.zddm.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zeyg.txt 3.1086847136800873
+data.zfbr.txt 3.1086847136800873

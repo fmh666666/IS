@@ -1,5 +1,5 @@
 4
-data.to.txt 1
-data.zaic.txt 1
-data.zapl.txt 1
-data.zddv.txt 2
+data.to.txt 3.389731710180695
+data.zaic.txt 3.389731710180695
+data.zapl.txt 3.389731710180695
+data.zddv.txt 5.372597648141796

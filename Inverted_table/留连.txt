@@ -1,5 +1,5 @@
 4
-data.zabe.txt 2
-data.zako.txt 1
-data.zayd.txt 1
-data.zddv.txt 1
+data.zabe.txt 5.372597648141796
+data.zako.txt 3.389731710180695
+data.zayd.txt 3.389731710180695
+data.zddv.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.zaet.txt 1
-data.zbwa.txt 1
-data.zdaq.txt 4
+data.zaet.txt 3.5891377275982888
+data.zbwa.txt 3.5891377275982888
+data.zdaq.txt 8.333719726130651

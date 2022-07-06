@@ -1,13 +1,13 @@
 12
-data.hp.txt 3
-data.kq.txt 1
-data.zahd.txt 1
-data.zbds.txt 1
-data.zbsl.txt 1
-data.zbtx.txt 1
-data.zcdy.txt 5
-data.zcdz.txt 3
-data.zciy.txt 1
-data.zcjy.txt 2
-data.zcon.txt 2
-data.zehj.txt 1
+data.hp.txt 5.256463399523772
+data.kq.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zbtx.txt 2.628231699761886
+data.zcdy.txt 6.7938803870911
+data.zcdz.txt 5.256463399523772
+data.zciy.txt 2.628231699761886
+data.zcjy.txt 4.165648687329214
+data.zcon.txt 4.165648687329214
+data.zehj.txt 2.628231699761886

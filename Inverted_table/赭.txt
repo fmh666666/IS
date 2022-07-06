@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.zdby.txt 1
-data.zdju.txt 1
-data.zdxw.txt 2
-data.zeaf.txt 1
-data.zexv.txt 3
+data.ev.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zdxw.txt 4.927148697748023
+data.zeaf.txt 3.1086847136800873
+data.zexv.txt 6.2173694273601745

@@ -1,5 +1,5 @@
 4
-data.aj.txt 2
-data.vm.txt 1
-data.zcic.txt 1
-data.zeqn.txt 1
+data.aj.txt 5.372597648141796
+data.vm.txt 3.389731710180695
+data.zcic.txt 3.389731710180695
+data.zeqn.txt 3.389731710180695

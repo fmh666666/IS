@@ -1,6 +1,6 @@
 5
-data.zafe.txt 1
-data.zclh.txt 1
-data.zddv.txt 1
-data.zdlm.txt 1
-data.zfai.txt 1
+data.zafe.txt 3.235060386727117
+data.zclh.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.qn.txt 1
-data.zcdv.txt 2
-data.zcue.txt 1
-data.zdkc.txt 1
+data.qn.txt 3.389731710180695
+data.zcdv.txt 5.372597648141796
+data.zcue.txt 3.389731710180695
+data.zdkc.txt 3.389731710180695

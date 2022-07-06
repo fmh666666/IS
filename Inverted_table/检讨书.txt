@@ -1,6 +1,6 @@
 5
-data.zaoy.txt 1
-data.zbph.txt 1
-data.zchd.txt 1
-data.zcrn.txt 1
-data.zeoh.txt 1
+data.zaoy.txt 3.235060386727117
+data.zbph.txt 3.235060386727117
+data.zchd.txt 3.235060386727117
+data.zcrn.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

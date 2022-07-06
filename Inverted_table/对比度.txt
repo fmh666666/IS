@@ -1,8 +1,8 @@
 7
-data.zafl.txt 1
-data.zahd.txt 1
-data.zaim.txt 1
-data.zbpx.txt 1
-data.zbup.txt 1
-data.zbux.txt 1
-data.zddm.txt 1
+data.zafl.txt 3.0018356045764243
+data.zahd.txt 3.0018356045764243
+data.zaim.txt 3.0018356045764243
+data.zbpx.txt 3.0018356045764243
+data.zbup.txt 3.0018356045764243
+data.zbux.txt 3.0018356045764243
+data.zddm.txt 3.0018356045764243

@@ -1,11 +1,11 @@
 10
-data.pn.txt 2
-data.zamr.txt 3
-data.zbkf.txt 3
-data.zbru.txt 1
-data.zcao.txt 3
-data.zcls.txt 2
-data.zcrg.txt 3
-data.zcue.txt 2
-data.zevl.txt 3
-data.zewv.txt 3
+data.pn.txt 4.365949390112154
+data.zamr.txt 5.509214745617831
+data.zbkf.txt 5.509214745617831
+data.zbru.txt 2.7546073728089153
+data.zcao.txt 5.509214745617831
+data.zcls.txt 4.365949390112154
+data.zcrg.txt 5.509214745617831
+data.zcue.txt 4.365949390112154
+data.zevl.txt 5.509214745617831
+data.zewv.txt 5.509214745617831

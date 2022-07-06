@@ -1,6 +1,6 @@
 5
-data.zauy.txt 2
-data.zbil.txt 1
-data.zbnx.txt 1
-data.zddp.txt 1
-data.zfdk.txt 1
+data.zauy.txt 5.1274494005309625
+data.zbil.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zddp.txt 3.235060386727117
+data.zfdk.txt 3.235060386727117

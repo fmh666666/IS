@@ -1,7 +1,7 @@
 6
-data.zajr.txt 1
-data.zbfd.txt 1
-data.zbwq.txt 1
-data.zcfn.txt 6
-data.zdtv.txt 1
-data.zene.txt 1
+data.zajr.txt 3.1086847136800873
+data.zbfd.txt 3.1086847136800873
+data.zbwq.txt 3.1086847136800873
+data.zcfn.txt 8.727181332075027
+data.zdtv.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873

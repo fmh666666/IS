@@ -1,12 +1,12 @@
 11
-data.bb.txt 8
-data.ga.txt 2
-data.zazg.txt 1
-data.zdle.txt 1
-data.zdmw.txt 1
-data.zdoc.txt 1
-data.zdst.txt 6
-data.zduk.txt 3
-data.zebv.txt 3
-data.zeqv.txt 1
-data.zewn.txt 1
+data.bb.txt 8.52248091068791
+data.ga.txt 4.261240455343955
+data.zazg.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdmw.txt 2.6885433903988862
+data.zdoc.txt 2.6885433903988862
+data.zdst.txt 7.547695520201752
+data.zduk.txt 5.3770867807977725
+data.zebv.txt 5.3770867807977725
+data.zeqv.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862

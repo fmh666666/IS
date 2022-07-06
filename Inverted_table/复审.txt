@@ -1,4 +1,4 @@
 3
-data.zcbe.txt 1
-data.zctn.txt 1
-data.zcue.txt 2
+data.zcbe.txt 3.5891377275982888
+data.zctn.txt 3.5891377275982888
+data.zcue.txt 5.688648708166832

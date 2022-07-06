@@ -1,14 +1,14 @@
 13
-data.qb.txt 8
-data.zadv.txt 1
-data.zbaq.txt 1
-data.zblr.txt 1
-data.zbmw.txt 2
-data.zbsu.txt 1
-data.zcdg.txt 1
-data.zcqs.txt 1
-data.zdhv.txt 2
-data.zdil.txt 1
-data.zegz.txt 1
-data.zeyu.txt 1
-data.zezy.txt 1
+data.qb.txt 8.155425570121595
+data.zadv.txt 2.5727503226135906
+data.zbaq.txt 2.5727503226135906
+data.zblr.txt 2.5727503226135906
+data.zbmw.txt 4.077712785060798
+data.zbsu.txt 2.5727503226135906
+data.zcdg.txt 2.5727503226135906
+data.zcqs.txt 2.5727503226135906
+data.zdhv.txt 4.077712785060798
+data.zdil.txt 2.5727503226135906
+data.zegz.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906

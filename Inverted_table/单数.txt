@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.op.txt 1
-data.zall.txt 3
-data.zalt.txt 2
-data.zaqp.txt 1
-data.zazn.txt 1
-data.zbrj.txt 1
-data.zcll.txt 1
-data.zdaa.txt 1
-data.zdhw.txt 2
-data.zdpf.txt 1
-data.zelt.txt 1
-data.zfby.txt 3
+data.bs.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.zall.txt 5.145500645227181
+data.zalt.txt 4.077712785060798
+data.zaqp.txt 2.5727503226135906
+data.zazn.txt 2.5727503226135906
+data.zbrj.txt 2.5727503226135906
+data.zcll.txt 2.5727503226135906
+data.zdaa.txt 2.5727503226135906
+data.zdhw.txt 4.077712785060798
+data.zdpf.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zfby.txt 5.145500645227181

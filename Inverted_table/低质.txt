@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.zcic.txt 1
-data.zdgp.txt 1
-data.zelt.txt 2
-data.zezn.txt 1
+data.ga.txt 3.235060386727117
+data.zcic.txt 3.235060386727117
+data.zdgp.txt 3.235060386727117
+data.zelt.txt 5.1274494005309625
+data.zezn.txt 3.235060386727117

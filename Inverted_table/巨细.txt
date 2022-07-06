@@ -1,6 +1,6 @@
 5
-data.zciy.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
-data.zdpz.txt 2
-data.zfcj.txt 2
+data.zciy.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zdpz.txt 5.1274494005309625
+data.zfcj.txt 5.1274494005309625

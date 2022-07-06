@@ -1,12 +1,12 @@
 11
-data.bb.txt 1
-data.ga.txt 1
-data.kq.txt 1
-data.zbil.txt 2
-data.zbzf.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcgi.txt 1
-data.zctp.txt 1
-data.zdzn.txt 1
-data.zemb.txt 1
+data.bb.txt 2.6885433903988862
+data.ga.txt 2.6885433903988862
+data.kq.txt 2.6885433903988862
+data.zbil.txt 4.261240455343955
+data.zbzf.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zdzn.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862

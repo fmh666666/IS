@@ -1,14 +1,14 @@
 13
-data.cz.txt 1
-data.fp.txt 1
-data.zabx.txt 1
-data.zbfr.txt 1
-data.zbyb.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcwn.txt 1
-data.zdll.txt 1
-data.zdnc.txt 1
-data.zeaf.txt 1
-data.zeds.txt 1
-data.zexm.txt 3
+data.cz.txt 2.5727503226135906
+data.fp.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zbfr.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcwn.txt 2.5727503226135906
+data.zdll.txt 2.5727503226135906
+data.zdnc.txt 2.5727503226135906
+data.zeaf.txt 2.5727503226135906
+data.zeds.txt 2.5727503226135906
+data.zexm.txt 5.145500645227181

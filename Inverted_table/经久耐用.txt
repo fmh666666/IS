@@ -1,4 +1,4 @@
 3
-data.zcgo.txt 1
-data.zcmx.txt 1
-data.zdpf.txt 1
+data.zcgo.txt 3.5891377275982888
+data.zcmx.txt 3.5891377275982888
+data.zdpf.txt 3.5891377275982888

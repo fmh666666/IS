@@ -1,10 +1,10 @@
 9
-data.zafl.txt 1
-data.zbkj.txt 1
-data.zdgt.txt 1
-data.zenw.txt 1
-data.zewd.txt 1
-data.zewn.txt 1
-data.zezn.txt 1
-data.zfaz.txt 1
-data.zfcj.txt 1
+data.zafl.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zdgt.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zewd.txt 2.82763771717948
+data.zewn.txt 2.82763771717948
+data.zezn.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948

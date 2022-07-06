@@ -1,10 +1,10 @@
 9
-data.ha.txt 1
-data.zavg.txt 2
-data.zbkv.txt 1
-data.zbor.txt 1
-data.zcdz.txt 1
-data.zcqe.txt 1
-data.zduk.txt 1
-data.zeaf.txt 1
-data.zeun.txt 1
+data.ha.txt 2.82763771717948
+data.zavg.txt 4.48169974735425
+data.zbkv.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zcdz.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zeaf.txt 2.82763771717948
+data.zeun.txt 2.82763771717948

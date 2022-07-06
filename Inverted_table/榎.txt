@@ -1,5 +1,5 @@
 4
-data.zadv.txt 2
-data.zbsu.txt 2
-data.zdhv.txt 1
-data.zdrq.txt 6
+data.zadv.txt 5.372597648141796
+data.zbsu.txt 5.372597648141796
+data.zdhv.txt 3.389731710180695
+data.zdrq.txt 9.516180001030515

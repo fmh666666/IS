@@ -1,3 +1,3 @@
 2
-data.zcqe.txt 1
-data.zdaw.txt 1
+data.zcqe.txt 3.8701847240988965
+data.zdaw.txt 3.8701847240988965

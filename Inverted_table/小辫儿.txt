@@ -1,10 +1,10 @@
 9
-data.mk.txt 1
-data.mx.txt 1
-data.tv.txt 1
-data.zbgw.txt 1
-data.zbla.txt 1
-data.zcnn.txt 1
-data.zduo.txt 1
-data.zeyu.txt 2
-data.zeyy.txt 2
+data.mk.txt 2.82763771717948
+data.mx.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zbgw.txt 2.82763771717948
+data.zbla.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zduo.txt 2.82763771717948
+data.zeyu.txt 4.48169974735425
+data.zeyy.txt 4.48169974735425

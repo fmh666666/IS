@@ -1,6 +1,6 @@
 5
-data.zajr.txt 1
-data.zbof.txt 1
-data.zbyv.txt 1
-data.zdcy.txt 1
-data.zebc.txt 1
+data.zajr.txt 3.235060386727117
+data.zbof.txt 3.235060386727117
+data.zbyv.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zebc.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.zajo.txt 1
-data.zaxk.txt 1
-data.zbgw.txt 1
-data.zbnx.txt 1
-data.zbxy.txt 1
-data.zccx.txt 1
-data.zctp.txt 1
-data.zeva.txt 1
-data.zfas.txt 1
+data.zajo.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zbgw.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbxy.txt 2.82763771717948
+data.zccx.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zeva.txt 2.82763771717948
+data.zfas.txt 2.82763771717948

@@ -1,10 +1,10 @@
 9
-data.fp.txt 3
-data.hp.txt 1
-data.op.txt 2
-data.tz.txt 1
-data.zawu.txt 1
-data.zdeb.txt 1
-data.zebn.txt 2
-data.zelt.txt 1
-data.zeos.txt 1
+data.fp.txt 5.65527543435896
+data.hp.txt 2.82763771717948
+data.op.txt 4.48169974735425
+data.tz.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zebn.txt 4.48169974735425
+data.zelt.txt 2.82763771717948
+data.zeos.txt 2.82763771717948

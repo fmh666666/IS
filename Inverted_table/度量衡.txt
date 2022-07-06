@@ -1,6 +1,6 @@
 5
-data.zawc.txt 1
-data.zchw.txt 1
-data.zcts.txt 1
-data.zeaf.txt 1
-data.zeeq.txt 1
+data.zawc.txt 3.235060386727117
+data.zchw.txt 3.235060386727117
+data.zcts.txt 3.235060386727117
+data.zeaf.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117

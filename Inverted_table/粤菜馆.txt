@@ -1,4 +1,4 @@
 3
-data.zbds.txt 3
-data.zdou.txt 1
-data.zenw.txt 1
+data.zbds.txt 7.1782754551965775
+data.zdou.txt 3.5891377275982888
+data.zenw.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.ew.txt 1
-data.tj.txt 1
-data.zafu.txt 1
-data.zbkj.txt 1
-data.zchd.txt 1
-data.zddb.txt 1
-data.zdji.txt 1
-data.zdwl.txt 1
-data.zdyv.txt 1
-data.zeac.txt 1
-data.zedy.txt 2
+data.ew.txt 2.6885433903988862
+data.tj.txt 2.6885433903988862
+data.zafu.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zchd.txt 2.6885433903988862
+data.zddb.txt 2.6885433903988862
+data.zdji.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zdyv.txt 2.6885433903988862
+data.zeac.txt 2.6885433903988862
+data.zedy.txt 4.261240455343955

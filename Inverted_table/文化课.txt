@@ -1,9 +1,9 @@
 8
-data.ep.txt 1
-data.zbse.txt 1
-data.zbzf.txt 1
-data.zchw.txt 1
-data.zcku.txt 1
-data.zcqs.txt 1
-data.zdyv.txt 1
-data.zeob.txt 2
+data.ep.txt 2.9092786962624935
+data.zbse.txt 2.9092786962624935
+data.zbzf.txt 2.9092786962624935
+data.zchw.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zcqs.txt 2.9092786962624935
+data.zdyv.txt 2.9092786962624935
+data.zeob.txt 4.611097637722987

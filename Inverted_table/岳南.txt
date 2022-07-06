@@ -1,9 +1,9 @@
 8
-data.pa.txt 1
-data.yx.txt 1
-data.zaxj.txt 2
-data.zbfz.txt 1
-data.zcem.txt 1
-data.zcqg.txt 2
-data.zcsu.txt 14
-data.zewd.txt 1
+data.pa.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zaxj.txt 4.611097637722987
+data.zbfz.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zcqg.txt 4.611097637722987
+data.zcsu.txt 11.366233578432148
+data.zewd.txt 2.9092786962624935

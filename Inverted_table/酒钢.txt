@@ -1,4 +1,4 @@
 3
-data.op.txt 2
-data.zbpx.txt 1
-data.zdxw.txt 2
+data.op.txt 5.688648708166832
+data.zbpx.txt 3.5891377275982888
+data.zdxw.txt 5.688648708166832

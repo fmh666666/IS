@@ -1,3 +1,3 @@
 2
-data.aj.txt 3
-data.zccx.txt 1
+data.aj.txt 7.740369448197793
+data.zccx.txt 3.8701847240988965

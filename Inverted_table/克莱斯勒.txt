@@ -1,10 +1,10 @@
 9
-data.by.txt 1
-data.co.txt 1
-data.zalm.txt 1
-data.zasw.txt 1
-data.zbvf.txt 1
-data.zcmx.txt 1
-data.zcnn.txt 2
-data.zcxq.txt 2
-data.zcyv.txt 1
+data.by.txt 2.82763771717948
+data.co.txt 2.82763771717948
+data.zalm.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zbvf.txt 2.82763771717948
+data.zcmx.txt 2.82763771717948
+data.zcnn.txt 4.48169974735425
+data.zcxq.txt 4.48169974735425
+data.zcyv.txt 2.82763771717948

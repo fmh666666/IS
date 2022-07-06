@@ -1,7 +1,7 @@
 6
-data.yx.txt 3
-data.zapr.txt 1
-data.zbsm.txt 1
-data.zbvm.txt 1
-data.zcdg.txt 4
-data.zehj.txt 9
+data.yx.txt 6.2173694273601745
+data.zapr.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zcdg.txt 7.21814237484067
+data.zehj.txt 10.326827088520758

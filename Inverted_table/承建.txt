@@ -1,9 +1,9 @@
 8
-data.zawc.txt 1
-data.zbhe.txt 1
-data.zbkr.txt 1
-data.zbkv.txt 1
-data.zbpx.txt 1
-data.zbvm.txt 1
-data.zeoh.txt 1
-data.zfae.txt 1
+data.zawc.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zbkr.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zbvm.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

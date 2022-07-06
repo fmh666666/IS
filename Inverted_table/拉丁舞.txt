@@ -1,8 +1,8 @@
 7
-data.vi.txt 4
-data.zafi.txt 14
-data.zail.txt 1
-data.zbux.txt 1
-data.zcjo.txt 1
-data.zeeq.txt 1
-data.zeob.txt 6
+data.vi.txt 6.970046426499191
+data.zafi.txt 11.727843293082445
+data.zail.txt 3.0018356045764243
+data.zbux.txt 3.0018356045764243
+data.zcjo.txt 3.0018356045764243
+data.zeeq.txt 3.0018356045764243
+data.zeob.txt 8.427217959715389

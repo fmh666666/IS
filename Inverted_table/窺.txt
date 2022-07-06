@@ -1,4 +1,4 @@
 3
-data.by.txt 1
-data.zcfn.txt 2
-data.zdic.txt 2
+data.by.txt 3.5891377275982888
+data.zcfn.txt 5.688648708166832
+data.zdic.txt 5.688648708166832

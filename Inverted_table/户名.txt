@@ -1,9 +1,9 @@
 8
-data.jf.txt 2
-data.zacp.txt 1
-data.zbdb.txt 1
-data.zbpx.txt 1
-data.zcsr.txt 1
-data.zdux.txt 1
-data.zeew.txt 1
-data.zeqv.txt 1
+data.jf.txt 4.611097637722987
+data.zacp.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcsr.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

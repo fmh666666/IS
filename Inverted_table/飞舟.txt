@@ -1,8 +1,8 @@
 7
-data.zbhv.txt 2
-data.zbmt.txt 3
-data.zbqu.txt 1
-data.zdeb.txt 1
-data.zdvl.txt 3
-data.zefd.txt 1
-data.zety.txt 3
+data.zbhv.txt 4.757796866583254
+data.zbmt.txt 6.003671209152849
+data.zbqu.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zdvl.txt 6.003671209152849
+data.zefd.txt 3.0018356045764243
+data.zety.txt 6.003671209152849

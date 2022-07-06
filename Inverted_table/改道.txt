@@ -1,10 +1,10 @@
 9
-data.dg.txt 1
-data.hz.txt 1
-data.zazg.txt 3
-data.zblr.txt 1
-data.zcrg.txt 1
-data.zcvq.txt 1
-data.zfai.txt 1
-data.zfaj.txt 2
-data.zfas.txt 1
+data.dg.txt 2.82763771717948
+data.hz.txt 2.82763771717948
+data.zazg.txt 5.65527543435896
+data.zblr.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zfai.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425
+data.zfas.txt 2.82763771717948

@@ -1,5 +1,5 @@
 4
-data.op.txt 1
-data.zajn.txt 1
-data.zazn.txt 1
-data.zeoh.txt 1
+data.op.txt 3.389731710180695
+data.zajn.txt 3.389731710180695
+data.zazn.txt 3.389731710180695
+data.zeoh.txt 3.389731710180695

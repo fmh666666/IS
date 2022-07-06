@@ -1,13 +1,13 @@
 12
-data.mo.txt 1
-data.op.txt 1
-data.tv.txt 1
-data.zaoc.txt 1
-data.zatz.txt 2
-data.zawo.txt 1
-data.zaxp.txt 1
-data.zbof.txt 1
-data.zcej.txt 1
-data.zcql.txt 1
-data.zdey.txt 1
-data.zdpg.txt 1
+data.mo.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zatz.txt 4.165648687329214
+data.zawo.txt 2.628231699761886
+data.zaxp.txt 2.628231699761886
+data.zbof.txt 2.628231699761886
+data.zcej.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zdey.txt 2.628231699761886
+data.zdpg.txt 2.628231699761886

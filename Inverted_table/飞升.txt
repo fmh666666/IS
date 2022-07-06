@@ -1,10 +1,10 @@
 9
-data.bs.txt 3
-data.dg.txt 1
-data.mx.txt 2
-data.tv.txt 1
-data.zadv.txt 2
-data.zafq.txt 1
-data.zaxk.txt 2
-data.zbsd.txt 1
-data.zbzo.txt 1
+data.bs.txt 5.65527543435896
+data.dg.txt 2.82763771717948
+data.mx.txt 4.48169974735425
+data.tv.txt 2.82763771717948
+data.zadv.txt 4.48169974735425
+data.zafq.txt 2.82763771717948
+data.zaxk.txt 4.48169974735425
+data.zbsd.txt 2.82763771717948
+data.zbzo.txt 2.82763771717948

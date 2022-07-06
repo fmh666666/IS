@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.vm.txt 1
-data.xk.txt 1
-data.zalj.txt 1
-data.zalt.txt 1
-data.zavg.txt 1
-data.zcgi.txt 1
-data.zciq.txt 1
-data.zcqe.txt 1
-data.zdeq.txt 1
-data.zehb.txt 2
+data.gw.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.xk.txt 2.6885433903988862
+data.zalj.txt 2.6885433903988862
+data.zalt.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zciq.txt 2.6885433903988862
+data.zcqe.txt 2.6885433903988862
+data.zdeq.txt 2.6885433903988862
+data.zehb.txt 4.261240455343955

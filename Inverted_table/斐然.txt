@@ -1,9 +1,9 @@
 8
-data.zagr.txt 1
-data.zajo.txt 1
-data.zakb.txt 1
-data.zaxj.txt 10
-data.zaxk.txt 9
-data.zbvm.txt 1
-data.zccu.txt 1
-data.zdmw.txt 1
+data.zagr.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zakb.txt 2.9092786962624935
+data.zaxj.txt 10.064450709278365
+data.zaxk.txt 9.664414636971655
+data.zbvm.txt 2.9092786962624935
+data.zccu.txt 2.9092786962624935
+data.zdmw.txt 2.9092786962624935

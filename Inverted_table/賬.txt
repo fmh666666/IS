@@ -1,5 +1,5 @@
 4
-data.fz.txt 1
-data.zawc.txt 1
-data.zbgd.txt 1
-data.zbvn.txt 2
+data.fz.txt 3.389731710180695
+data.zawc.txt 3.389731710180695
+data.zbgd.txt 3.389731710180695
+data.zbvn.txt 5.372597648141796

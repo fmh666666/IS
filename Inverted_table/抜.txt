@@ -1,5 +1,5 @@
 4
-data.zake.txt 1
-data.zbsu.txt 2
-data.zcfn.txt 11
-data.zegn.txt 1
+data.zake.txt 3.389731710180695
+data.zbsu.txt 5.372597648141796
+data.zcfn.txt 12.152061068503187
+data.zegn.txt 3.389731710180695

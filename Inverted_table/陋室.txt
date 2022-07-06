@@ -1,9 +1,9 @@
 8
-data.zafq.txt 1
-data.zcbm.txt 1
-data.zcln.txt 1
-data.zcon.txt 1
-data.zdbf.txt 2
-data.zeaf.txt 1
-data.zeoh.txt 1
-data.zewg.txt 3
+data.zafq.txt 2.9092786962624935
+data.zcbm.txt 2.9092786962624935
+data.zcln.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdbf.txt 4.611097637722987
+data.zeaf.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zewg.txt 5.818557392524987

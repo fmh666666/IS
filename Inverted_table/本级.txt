@@ -1,4 +1,4 @@
 3
-data.zbpx.txt 2
-data.zcse.txt 1
-data.zfdk.txt 2
+data.zbpx.txt 5.688648708166832
+data.zcse.txt 3.5891377275982888
+data.zfdk.txt 5.688648708166832

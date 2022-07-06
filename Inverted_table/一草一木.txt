@@ -1,6 +1,6 @@
 5
-data.zall.txt 1
-data.zaxj.txt 1
-data.zblr.txt 1
-data.zcpc.txt 1
-data.zcts.txt 1
+data.zall.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zcpc.txt 3.235060386727117
+data.zcts.txt 3.235060386727117

@@ -1,2 +1,2 @@
 1
-data.zcvt.txt 4
+data.zcvt.txt 10.101867994579104

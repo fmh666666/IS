@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.ka.txt 1
-data.zajh.txt 1
-data.zbpc.txt 1
-data.zbsd.txt 1
-data.zdhw.txt 1
-data.zebc.txt 1
-data.zevy.txt 1
-data.zezy.txt 1
+data.ga.txt 2.82763771717948
+data.ka.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zbpc.txt 2.82763771717948
+data.zbsd.txt 2.82763771717948
+data.zdhw.txt 2.82763771717948
+data.zebc.txt 2.82763771717948
+data.zevy.txt 2.82763771717948
+data.zezy.txt 2.82763771717948

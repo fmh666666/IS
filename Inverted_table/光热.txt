@@ -1,5 +1,5 @@
 4
-data.mk.txt 1
-data.zblr.txt 2
-data.zbpc.txt 3
-data.zbsd.txt 1
+data.mk.txt 3.389731710180695
+data.zblr.txt 5.372597648141796
+data.zbpc.txt 6.77946342036139
+data.zbsd.txt 3.389731710180695

@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zeaj.txt 1
-data.zete.txt 22
+data.jf.txt 3.5891377275982888
+data.zeaj.txt 3.5891377275982888
+data.zete.txt 16.235686879612537

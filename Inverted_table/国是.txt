@@ -1,13 +1,13 @@
 12
-data.ft.txt 1
-data.ga.txt 1
-data.zaim.txt 2
-data.zbpx.txt 1
-data.zbsm.txt 1
-data.zcjd.txt 1
-data.zdcj.txt 1
-data.zddm.txt 1
-data.zdep.txt 1
-data.zeoh.txt 2
-data.zfai.txt 1
-data.zfaj.txt 1
+data.ft.txt 2.628231699761886
+data.ga.txt 2.628231699761886
+data.zaim.txt 4.165648687329214
+data.zbpx.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zcjd.txt 2.628231699761886
+data.zdcj.txt 2.628231699761886
+data.zddm.txt 2.628231699761886
+data.zdep.txt 2.628231699761886
+data.zeoh.txt 4.165648687329214
+data.zfai.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

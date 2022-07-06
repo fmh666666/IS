@@ -1,13 +1,13 @@
 12
-data.be.txt 2
-data.ff.txt 1
-data.mi.txt 1
-data.xe.txt 1
-data.zapr.txt 2
-data.zarr.txt 1
-data.zazw.txt 1
-data.zcdg.txt 1
-data.zcmx.txt 1
-data.zdeb.txt 1
-data.zezy.txt 1
-data.zfas.txt 1
+data.be.txt 4.165648687329214
+data.ff.txt 2.628231699761886
+data.mi.txt 2.628231699761886
+data.xe.txt 2.628231699761886
+data.zapr.txt 4.165648687329214
+data.zarr.txt 2.628231699761886
+data.zazw.txt 2.628231699761886
+data.zcdg.txt 2.628231699761886
+data.zcmx.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zezy.txt 2.628231699761886
+data.zfas.txt 2.628231699761886

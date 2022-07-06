@@ -1,14 +1,14 @@
 13
-data.fj.txt 1
-data.pa.txt 1
-data.zafy.txt 1
-data.zahp.txt 1
-data.zbcj.txt 1
-data.zbhe.txt 1
-data.zdji.txt 1
-data.zdro.txt 1
-data.zdux.txt 1
-data.zdyv.txt 1
-data.zedd.txt 1
-data.zefv.txt 1
-data.zfaj.txt 2
+data.fj.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.zafy.txt 2.5727503226135906
+data.zahp.txt 2.5727503226135906
+data.zbcj.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zdji.txt 2.5727503226135906
+data.zdro.txt 2.5727503226135906
+data.zdux.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zedd.txt 2.5727503226135906
+data.zefv.txt 2.5727503226135906
+data.zfaj.txt 4.077712785060798

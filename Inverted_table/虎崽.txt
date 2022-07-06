@@ -1,5 +1,5 @@
 4
-data.zabx.txt 1
-data.zadv.txt 1
-data.zbjk.txt 1
-data.zfaw.txt 1
+data.zabx.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zbjk.txt 3.389731710180695
+data.zfaw.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zciq.txt 1
-data.zeaf.txt 1
-data.zefv.txt 1
-data.zexv.txt 1
+data.zabe.txt 3.235060386727117
+data.zciq.txt 3.235060386727117
+data.zeaf.txt 3.235060386727117
+data.zefv.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.to.txt 2
-data.yx.txt 1
-data.zacd.txt 1
-data.zbcc.txt 1
-data.zdaw.txt 1
-data.zdod.txt 1
-data.zdou.txt 1
-data.zebn.txt 1
-data.zevt.txt 1
+data.to.txt 4.48169974735425
+data.yx.txt 2.82763771717948
+data.zacd.txt 2.82763771717948
+data.zbcc.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zdou.txt 2.82763771717948
+data.zebn.txt 2.82763771717948
+data.zevt.txt 2.82763771717948

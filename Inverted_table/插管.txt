@@ -1,4 +1,4 @@
 3
-data.ft.txt 2
-data.zcel.txt 2
-data.zdod.txt 3
+data.ft.txt 5.688648708166832
+data.zcel.txt 5.688648708166832
+data.zdod.txt 7.1782754551965775

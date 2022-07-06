@@ -1,9 +1,9 @@
 8
-data.qn.txt 1
-data.zafv.txt 1
-data.zcdg.txt 1
-data.zcve.txt 1
-data.zdmw.txt 1
-data.zegz.txt 1
-data.zewd.txt 2
-data.zfcp.txt 1
+data.qn.txt 2.9092786962624935
+data.zafv.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zcve.txt 2.9092786962624935
+data.zdmw.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935
+data.zewd.txt 4.611097637722987
+data.zfcp.txt 2.9092786962624935

@@ -1,10 +1,10 @@
 9
-data.sq.txt 1
-data.tv.txt 1
-data.zawc.txt 1
-data.zbdb.txt 1
-data.zbhv.txt 1
-data.zcgo.txt 1
-data.zclm.txt 2
-data.zdlg.txt 2
-data.zdmw.txt 2
+data.sq.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbhv.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zclm.txt 4.48169974735425
+data.zdlg.txt 4.48169974735425
+data.zdmw.txt 4.48169974735425

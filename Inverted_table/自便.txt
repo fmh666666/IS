@@ -1,7 +1,7 @@
 6
-data.zbjk.txt 1
-data.zcdv.txt 1
-data.zctn.txt 2
-data.zdlm.txt 1
-data.zdqk.txt 2
-data.zesi.txt 1
+data.zbjk.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zctn.txt 4.927148697748023
+data.zdlm.txt 3.1086847136800873
+data.zdqk.txt 4.927148697748023
+data.zesi.txt 3.1086847136800873

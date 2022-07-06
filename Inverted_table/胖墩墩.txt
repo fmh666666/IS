@@ -1,4 +1,4 @@
 3
-data.zbbt.txt 1
-data.zbup.txt 5
-data.zdro.txt 1
+data.zbbt.txt 3.5891377275982888
+data.zbup.txt 9.27778643576512
+data.zdro.txt 3.5891377275982888

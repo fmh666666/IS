@@ -1,4 +1,4 @@
 3
-data.zbjq.txt 1
-data.zbvg.txt 1
-data.zedo.txt 1
+data.zbjq.txt 3.5891377275982888
+data.zbvg.txt 3.5891377275982888
+data.zedo.txt 3.5891377275982888

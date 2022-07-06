@@ -1,6 +1,6 @@
 5
-data.zajh.txt 1
-data.zawc.txt 1
-data.zblr.txt 1
-data.zcse.txt 3
-data.zfai.txt 2
+data.zajh.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zcse.txt 6.470120773454234
+data.zfai.txt 5.1274494005309625

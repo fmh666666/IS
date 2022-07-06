@@ -1,12 +1,12 @@
 11
-data.zabe.txt 1
-data.zbht.txt 1
-data.zbvm.txt 1
-data.zcdg.txt 1
-data.zcdy.txt 1
-data.zcni.txt 1
-data.zeeh.txt 1
-data.zegl.txt 1
-data.zerh.txt 3
-data.zesq.txt 1
-data.zfai.txt 1
+data.zabe.txt 2.6885433903988862
+data.zbht.txt 2.6885433903988862
+data.zbvm.txt 2.6885433903988862
+data.zcdg.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zegl.txt 2.6885433903988862
+data.zerh.txt 5.3770867807977725
+data.zesq.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

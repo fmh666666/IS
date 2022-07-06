@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.zbvn.txt 1
-data.zccl.txt 2
-data.zcts.txt 3
-data.zdju.txt 3
-data.zdro.txt 1
-data.zdzn.txt 1
-data.zelt.txt 2
-data.zeun.txt 1
+data.hp.txt 2.82763771717948
+data.zbvn.txt 2.82763771717948
+data.zccl.txt 4.48169974735425
+data.zcts.txt 5.65527543435896
+data.zdju.txt 5.65527543435896
+data.zdro.txt 2.82763771717948
+data.zdzn.txt 2.82763771717948
+data.zelt.txt 4.48169974735425
+data.zeun.txt 2.82763771717948

@@ -1,11 +1,11 @@
 10
-data.zair.txt 1
-data.zbhd.txt 2
-data.zblh.txt 1
-data.zcee.txt 1
-data.zcli.txt 1
-data.zcln.txt 1
-data.zctm.txt 1
-data.zdvl.txt 1
-data.zeeh.txt 4
-data.zety.txt 1
+data.zair.txt 2.7546073728089153
+data.zbhd.txt 4.365949390112154
+data.zblh.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zcli.txt 2.7546073728089153
+data.zcln.txt 2.7546073728089153
+data.zctm.txt 2.7546073728089153
+data.zdvl.txt 2.7546073728089153
+data.zeeh.txt 6.396000249308887
+data.zety.txt 2.7546073728089153

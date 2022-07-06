@@ -1,7 +1,7 @@
 6
-data.ek.txt 1
-data.zbdb.txt 1
-data.zbpm.txt 2
-data.zbwa.txt 1
-data.zdcj.txt 1
-data.zdll.txt 1
+data.ek.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbpm.txt 4.927148697748023
+data.zbwa.txt 3.1086847136800873
+data.zdcj.txt 3.1086847136800873
+data.zdll.txt 3.1086847136800873

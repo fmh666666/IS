@@ -1,6 +1,6 @@
 5
-data.ha.txt 1
-data.zcon.txt 1
-data.zczj.txt 1
-data.zexk.txt 1
-data.zfae.txt 1
+data.ha.txt 3.235060386727117
+data.zcon.txt 3.235060386727117
+data.zczj.txt 3.235060386727117
+data.zexk.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

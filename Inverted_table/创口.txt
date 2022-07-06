@@ -1,11 +1,11 @@
 10
-data.cn.txt 1
-data.zauy.txt 1
-data.zbbt.txt 1
-data.zbhe.txt 1
-data.zccu.txt 1
-data.zcgo.txt 1
-data.zczp.txt 1
-data.zdaq.txt 5
-data.zdar.txt 4
-data.zdud.txt 1
+data.cn.txt 2.7546073728089153
+data.zauy.txt 2.7546073728089153
+data.zbbt.txt 2.7546073728089153
+data.zbhe.txt 2.7546073728089153
+data.zccu.txt 2.7546073728089153
+data.zcgo.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zdaq.txt 7.120556762921068
+data.zdar.txt 6.396000249308887
+data.zdud.txt 2.7546073728089153

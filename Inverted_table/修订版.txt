@@ -1,10 +1,10 @@
 9
-data.en.txt 1
-data.yx.txt 1
-data.zadv.txt 1
-data.zarr.txt 1
-data.zbxw.txt 1
-data.zcft.txt 1
-data.zcqe.txt 1
-data.zczp.txt 1
-data.zeoh.txt 1
+data.en.txt 2.82763771717948
+data.yx.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zarr.txt 2.82763771717948
+data.zbxw.txt 2.82763771717948
+data.zcft.txt 2.82763771717948
+data.zcqe.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948

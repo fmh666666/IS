@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zbvm.txt 1
-data.zdgo.txt 1
-data.zdrq.txt 1
-data.zene.txt 1
+data.qn.txt 3.235060386727117
+data.zbvm.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117
+data.zdrq.txt 3.235060386727117
+data.zene.txt 3.235060386727117

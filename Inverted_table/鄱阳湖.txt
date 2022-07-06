@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.ka.txt 2
-data.kq.txt 2
-data.zaqw.txt 2
-data.zbsm.txt 2
-data.zcdg.txt 2
-data.zdqx.txt 1
-data.zdsh.txt 1
+data.bs.txt 2.9092786962624935
+data.ka.txt 4.611097637722987
+data.kq.txt 4.611097637722987
+data.zaqw.txt 4.611097637722987
+data.zbsm.txt 4.611097637722987
+data.zcdg.txt 4.611097637722987
+data.zdqx.txt 2.9092786962624935
+data.zdsh.txt 2.9092786962624935

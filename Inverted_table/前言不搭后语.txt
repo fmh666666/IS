@@ -1,13 +1,13 @@
 12
-data.mu.txt 1
-data.zaxp.txt 1
-data.zbfx.txt 1
-data.zcmn.txt 2
-data.zcnn.txt 2
-data.zcxh.txt 1
-data.zdcw.txt 2
-data.zdfl.txt 1
-data.zdtv.txt 1
-data.zdwn.txt 2
-data.zerh.txt 1
-data.zewd.txt 1
+data.mu.txt 2.628231699761886
+data.zaxp.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zcmn.txt 4.165648687329214
+data.zcnn.txt 4.165648687329214
+data.zcxh.txt 2.628231699761886
+data.zdcw.txt 4.165648687329214
+data.zdfl.txt 2.628231699761886
+data.zdtv.txt 2.628231699761886
+data.zdwn.txt 4.165648687329214
+data.zerh.txt 2.628231699761886
+data.zewd.txt 2.628231699761886

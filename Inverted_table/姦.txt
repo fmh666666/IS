@@ -1,13 +1,13 @@
 12
-data.yx.txt 1
-data.zalm.txt 1
-data.zawm.txt 2
-data.zbcj.txt 1
-data.zbfp.txt 2
-data.zbkv.txt 1
-data.zbtx.txt 1
-data.zbut.txt 1
-data.zcqs.txt 1
-data.zdkp.txt 1
-data.zdtv.txt 1
-data.zeam.txt 4
+data.yx.txt 2.628231699761886
+data.zalm.txt 2.628231699761886
+data.zawm.txt 4.165648687329214
+data.zbcj.txt 2.628231699761886
+data.zbfp.txt 4.165648687329214
+data.zbkv.txt 2.628231699761886
+data.zbtx.txt 2.628231699761886
+data.zbut.txt 2.628231699761886
+data.zcqs.txt 2.628231699761886
+data.zdkp.txt 2.628231699761886
+data.zdtv.txt 2.628231699761886
+data.zeam.txt 6.1025650235506905

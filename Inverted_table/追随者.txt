@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.jf.txt 1
-data.op.txt 1
-data.zajn.txt 1
-data.zawo.txt 1
-data.zbkj.txt 1
-data.zcsu.txt 1
-data.zczl.txt 1
-data.zdgv.txt 1
-data.zebn.txt 3
-data.zeds.txt 1
-data.zegl.txt 4
-data.zeil.txt 1
+data.hg.txt 2.5727503226135906
+data.jf.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.zajn.txt 2.5727503226135906
+data.zawo.txt 2.5727503226135906
+data.zbkj.txt 2.5727503226135906
+data.zcsu.txt 2.5727503226135906
+data.zczl.txt 2.5727503226135906
+data.zdgv.txt 2.5727503226135906
+data.zebn.txt 5.145500645227181
+data.zeds.txt 2.5727503226135906
+data.zegl.txt 5.97374125520702
+data.zeil.txt 2.5727503226135906

@@ -1,9 +1,9 @@
 8
-data.hg.txt 1
-data.zavx.txt 2
-data.zbkv.txt 1
-data.zbut.txt 1
-data.zdji.txt 1
-data.zdll.txt 1
-data.zdnh.txt 1
-data.zeoh.txt 1
+data.hg.txt 2.9092786962624935
+data.zavx.txt 4.611097637722987
+data.zbkv.txt 2.9092786962624935
+data.zbut.txt 2.9092786962624935
+data.zdji.txt 2.9092786962624935
+data.zdll.txt 2.9092786962624935
+data.zdnh.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

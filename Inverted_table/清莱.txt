@@ -1,3 +1,3 @@
 2
-data.zctp.txt 5
-data.zdwn.txt 1
+data.zctp.txt 10.0042823826595
+data.zdwn.txt 3.8701847240988965

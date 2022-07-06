@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.zaxx.txt 1
-data.zbgu.txt 1
-data.zcjy.txt 1
-data.zeik.txt 1
+data.jf.txt 3.235060386727117
+data.zaxx.txt 3.235060386727117
+data.zbgu.txt 3.235060386727117
+data.zcjy.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

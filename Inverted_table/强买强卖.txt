@@ -1,5 +1,5 @@
 4
-data.hg.txt 1
-data.zebn.txt 2
-data.zedo.txt 1
-data.zefw.txt 1
+data.hg.txt 3.389731710180695
+data.zebn.txt 5.372597648141796
+data.zedo.txt 3.389731710180695
+data.zefw.txt 3.389731710180695

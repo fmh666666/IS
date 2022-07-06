@@ -1,6 +1,6 @@
 5
-data.gw.txt 2
-data.zaxk.txt 1
-data.zbot.txt 2
-data.zbts.txt 1
-data.zdlo.txt 3
+data.gw.txt 5.1274494005309625
+data.zaxk.txt 3.235060386727117
+data.zbot.txt 5.1274494005309625
+data.zbts.txt 3.235060386727117
+data.zdlo.txt 6.470120773454234

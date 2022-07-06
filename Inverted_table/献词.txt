@@ -1,6 +1,6 @@
 5
-data.zbia.txt 4
-data.zcdy.txt 1
-data.zddm.txt 1
-data.zemb.txt 1
-data.zene.txt 1
+data.zbia.txt 7.511577600598868
+data.zcdy.txt 3.235060386727117
+data.zddm.txt 3.235060386727117
+data.zemb.txt 3.235060386727117
+data.zene.txt 3.235060386727117

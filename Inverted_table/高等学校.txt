@@ -1,13 +1,13 @@
 12
-data.hg.txt 1
-data.hz.txt 1
-data.tz.txt 1
-data.ud.txt 1
-data.zbcj.txt 1
-data.zbjk.txt 1
-data.zbor.txt 1
-data.zbse.txt 1
-data.zcfn.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
-data.zfaj.txt 1
+data.hg.txt 2.628231699761886
+data.hz.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.ud.txt 2.628231699761886
+data.zbcj.txt 2.628231699761886
+data.zbjk.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbse.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdof.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

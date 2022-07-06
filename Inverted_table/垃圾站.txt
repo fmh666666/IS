@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.zcem.txt 1
-data.zcue.txt 1
-data.zezm.txt 1
+data.bs.txt 3.389731710180695
+data.zcem.txt 3.389731710180695
+data.zcue.txt 3.389731710180695
+data.zezm.txt 3.389731710180695

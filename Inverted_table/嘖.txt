@@ -1,9 +1,9 @@
 8
-data.zafi.txt 1
-data.zalc.txt 2
-data.zall.txt 1
-data.zate.txt 7
-data.zchw.txt 4
-data.zdib.txt 2
-data.zdod.txt 2
-data.zdqq.txt 1
+data.zafi.txt 2.9092786962624935
+data.zalc.txt 4.611097637722987
+data.zall.txt 2.9092786962624935
+data.zate.txt 8.72783608878748
+data.zchw.txt 6.7551359407091605
+data.zdib.txt 4.611097637722987
+data.zdod.txt 4.611097637722987
+data.zdqq.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.zbem.txt 1
-data.zcjy.txt 1
-data.zdcw.txt 1
+data.zbem.txt 3.5891377275982888
+data.zcjy.txt 3.5891377275982888
+data.zdcw.txt 3.5891377275982888

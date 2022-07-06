@@ -1,6 +1,6 @@
 5
-data.zapl.txt 2
-data.zdcy.txt 1
-data.zeay.txt 1
-data.zeve.txt 1
-data.zfcj.txt 1
+data.zapl.txt 5.1274494005309625
+data.zdcy.txt 3.235060386727117
+data.zeay.txt 3.235060386727117
+data.zeve.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.zaxp.txt 1
-data.zbel.txt 1
-data.zbpx.txt 1
-data.zbua.txt 1
-data.zebv.txt 1
-data.zesi.txt 2
-data.zfai.txt 3
-data.zfaj.txt 1
+data.zaxp.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zbua.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935
+data.zesi.txt 4.611097637722987
+data.zfai.txt 5.818557392524987
+data.zfaj.txt 2.9092786962624935

@@ -1,12 +1,12 @@
 11
-data.tv.txt 1
-data.tz.txt 1
-data.zaxj.txt 1
-data.zbdx.txt 2
-data.zbeb.txt 6
-data.zbkr.txt 2
-data.zbla.txt 1
-data.zcrg.txt 2
-data.zdgt.txt 1
-data.zdil.txt 1
-data.zdlw.txt 1
+data.tv.txt 2.6885433903988862
+data.tz.txt 2.6885433903988862
+data.zaxj.txt 2.6885433903988862
+data.zbdx.txt 4.261240455343955
+data.zbeb.txt 7.547695520201752
+data.zbkr.txt 4.261240455343955
+data.zbla.txt 2.6885433903988862
+data.zcrg.txt 4.261240455343955
+data.zdgt.txt 2.6885433903988862
+data.zdil.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862

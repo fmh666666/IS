@@ -1,5 +1,5 @@
 4
-data.zabe.txt 1
-data.zcgo.txt 1
-data.zeeh.txt 3
-data.zeyu.txt 1
+data.zabe.txt 3.389731710180695
+data.zcgo.txt 3.389731710180695
+data.zeeh.txt 6.77946342036139
+data.zeyu.txt 3.389731710180695

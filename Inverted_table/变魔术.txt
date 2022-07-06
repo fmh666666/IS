@@ -1,12 +1,12 @@
 11
-data.ek.txt 1
-data.zafk.txt 1
-data.zajo.txt 1
-data.zanh.txt 1
-data.zcnn.txt 2
-data.zdaw.txt 1
-data.zdlo.txt 1
-data.zdnh.txt 1
-data.zeag.txt 1
-data.zejk.txt 2
-data.zfdk.txt 1
+data.ek.txt 2.6885433903988862
+data.zafk.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zanh.txt 2.6885433903988862
+data.zcnn.txt 4.261240455343955
+data.zdaw.txt 2.6885433903988862
+data.zdlo.txt 2.6885433903988862
+data.zdnh.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zejk.txt 4.261240455343955
+data.zfdk.txt 2.6885433903988862

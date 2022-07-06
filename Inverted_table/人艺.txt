@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zabe.txt 1
-data.zajo.txt 1
-data.zbpc.txt 9
-data.zbvm.txt 1
-data.zcxq.txt 1
-data.zebc.txt 1
-data.zefs.txt 1
+data.bs.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zbpc.txt 9.664414636971655
+data.zbvm.txt 2.9092786962624935
+data.zcxq.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zefs.txt 2.9092786962624935

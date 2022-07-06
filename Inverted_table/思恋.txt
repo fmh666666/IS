@@ -1,7 +1,7 @@
 6
-data.hg.txt 1
-data.sq.txt 1
-data.zalm.txt 2
-data.zayd.txt 1
-data.zdar.txt 1
-data.zeec.txt 1
+data.hg.txt 3.1086847136800873
+data.sq.txt 3.1086847136800873
+data.zalm.txt 4.927148697748023
+data.zayd.txt 3.1086847136800873
+data.zdar.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873

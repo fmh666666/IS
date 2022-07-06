@@ -1,6 +1,6 @@
 5
-data.zaej.txt 1
-data.zbds.txt 1
-data.zbel.txt 2
-data.zcpx.txt 1
-data.zcue.txt 1
+data.zaej.txt 3.235060386727117
+data.zbds.txt 3.235060386727117
+data.zbel.txt 5.1274494005309625
+data.zcpx.txt 3.235060386727117
+data.zcue.txt 3.235060386727117

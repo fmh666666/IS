@@ -1,4 +1,4 @@
 3
-data.zayd.txt 1
-data.zcef.txt 1
-data.zcln.txt 1
+data.zayd.txt 3.5891377275982888
+data.zcef.txt 3.5891377275982888
+data.zcln.txt 3.5891377275982888

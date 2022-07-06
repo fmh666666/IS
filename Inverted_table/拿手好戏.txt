@@ -1,6 +1,6 @@
 5
-data.zafv.txt 1
-data.zawc.txt 1
-data.zbre.txt 1
-data.zdkc.txt 1
-data.zeac.txt 1
+data.zafv.txt 3.235060386727117
+data.zawc.txt 3.235060386727117
+data.zbre.txt 3.235060386727117
+data.zdkc.txt 3.235060386727117
+data.zeac.txt 3.235060386727117

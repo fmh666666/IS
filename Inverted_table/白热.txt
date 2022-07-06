@@ -1,5 +1,5 @@
 4
-data.zazo.txt 1
-data.zcrg.txt 1
-data.zctm.txt 1
-data.zeva.txt 1
+data.zazo.txt 3.389731710180695
+data.zcrg.txt 3.389731710180695
+data.zctm.txt 3.389731710180695
+data.zeva.txt 3.389731710180695

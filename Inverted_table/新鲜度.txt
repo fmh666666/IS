@@ -1,5 +1,5 @@
 4
-data.fz.txt 1
-data.zbfz.txt 2
-data.zbmt.txt 1
-data.zdeb.txt 2
+data.fz.txt 3.389731710180695
+data.zbfz.txt 5.372597648141796
+data.zbmt.txt 3.389731710180695
+data.zdeb.txt 5.372597648141796

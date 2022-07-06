@@ -1,12 +1,12 @@
 11
-data.ep.txt 1
-data.zaqp.txt 1
-data.zbph.txt 1
-data.zbye.txt 1
-data.zcbm.txt 2
-data.zcdl.txt 1
-data.zcdv.txt 1
-data.zcse.txt 1
-data.zdwl.txt 1
-data.zegz.txt 1
-data.zezn.txt 1
+data.ep.txt 2.6885433903988862
+data.zaqp.txt 2.6885433903988862
+data.zbph.txt 2.6885433903988862
+data.zbye.txt 2.6885433903988862
+data.zcbm.txt 4.261240455343955
+data.zcdl.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zegz.txt 2.6885433903988862
+data.zezn.txt 2.6885433903988862

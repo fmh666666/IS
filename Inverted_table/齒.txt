@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.by.txt 1
-data.zahp.txt 2
-data.zail.txt 2
-data.zajn.txt 1
-data.zawz.txt 1
-data.zbes.txt 1
-data.zbsu.txt 1
-data.zebv.txt 1
-data.zerw.txt 1
-data.zeyu.txt 2
+data.bs.txt 2.6885433903988862
+data.by.txt 2.6885433903988862
+data.zahp.txt 4.261240455343955
+data.zail.txt 4.261240455343955
+data.zajn.txt 2.6885433903988862
+data.zawz.txt 2.6885433903988862
+data.zbes.txt 2.6885433903988862
+data.zbsu.txt 2.6885433903988862
+data.zebv.txt 2.6885433903988862
+data.zerw.txt 2.6885433903988862
+data.zeyu.txt 4.261240455343955

@@ -1,2 +1,2 @@
 1
-data.zdgp.txt 2
+data.zdgp.txt 6.8955976689794145

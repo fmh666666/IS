@@ -1,9 +1,9 @@
 8
-data.xe.txt 2
-data.zacw.txt 1
-data.zadv.txt 1
-data.zbsm.txt 1
-data.zeaj.txt 1
-data.zegl.txt 1
-data.zerv.txt 1
-data.zete.txt 2
+data.xe.txt 4.611097637722987
+data.zacw.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbsm.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935
+data.zegl.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935
+data.zete.txt 4.611097637722987

@@ -1,13 +1,13 @@
 12
-data.mt.txt 1
-data.to.txt 1
-data.zadv.txt 1
-data.zasr.txt 1
-data.zavg.txt 1
-data.zbjc.txt 1
-data.zbut.txt 1
-data.zcts.txt 1
-data.zdrq.txt 1
-data.zedo.txt 1
-data.zevq.txt 1
-data.zfai.txt 1
+data.mt.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zasr.txt 2.628231699761886
+data.zavg.txt 2.628231699761886
+data.zbjc.txt 2.628231699761886
+data.zbut.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zedo.txt 2.628231699761886
+data.zevq.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

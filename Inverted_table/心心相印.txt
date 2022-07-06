@@ -1,14 +1,14 @@
 13
-data.zbqu.txt 1
-data.zbse.txt 1
-data.zbsm.txt 1
-data.zbux.txt 1
-data.zdcw.txt 1
-data.zdju.txt 1
-data.zdlg.txt 1
-data.zdou.txt 1
-data.zdzi.txt 1
-data.zeeh.txt 1
-data.zete.txt 1
-data.zfaj.txt 1
-data.zfdk.txt 1
+data.zbqu.txt 2.5727503226135906
+data.zbse.txt 2.5727503226135906
+data.zbsm.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zdcw.txt 2.5727503226135906
+data.zdju.txt 2.5727503226135906
+data.zdlg.txt 2.5727503226135906
+data.zdou.txt 2.5727503226135906
+data.zdzi.txt 2.5727503226135906
+data.zeeh.txt 2.5727503226135906
+data.zete.txt 2.5727503226135906
+data.zfaj.txt 2.5727503226135906
+data.zfdk.txt 2.5727503226135906

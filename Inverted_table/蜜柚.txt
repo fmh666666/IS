@@ -1,6 +1,6 @@
 5
-data.ev.txt 1
-data.ew.txt 1
-data.zbeb.txt 3
-data.zcef.txt 4
-data.zcpb.txt 1
+data.ev.txt 3.235060386727117
+data.ew.txt 3.235060386727117
+data.zbeb.txt 6.470120773454234
+data.zcef.txt 7.511577600598868
+data.zcpb.txt 3.235060386727117

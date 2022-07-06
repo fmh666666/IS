@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zbcc.txt 1
-data.zdey.txt 1
-data.zeaf.txt 3
-data.zegn.txt 1
+data.gk.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zdey.txt 3.235060386727117
+data.zeaf.txt 6.470120773454234
+data.zegn.txt 3.235060386727117

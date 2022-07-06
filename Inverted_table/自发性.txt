@@ -1,5 +1,5 @@
 4
-data.cq.txt 1
-data.zcqe.txt 1
-data.zdtr.txt 1
-data.zeyg.txt 1
+data.cq.txt 3.389731710180695
+data.zcqe.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695
+data.zeyg.txt 3.389731710180695

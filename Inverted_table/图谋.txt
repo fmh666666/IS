@@ -1,10 +1,10 @@
 9
-data.hu.txt 1
-data.zapf.txt 1
-data.zcbm.txt 1
-data.zcft.txt 1
-data.zcfx.txt 1
-data.zcql.txt 1
-data.zdqx.txt 1
-data.zdwd.txt 1
-data.zdwz.txt 1
+data.hu.txt 2.82763771717948
+data.zapf.txt 2.82763771717948
+data.zcbm.txt 2.82763771717948
+data.zcft.txt 2.82763771717948
+data.zcfx.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zdwd.txt 2.82763771717948
+data.zdwz.txt 2.82763771717948

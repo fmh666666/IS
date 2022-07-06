@@ -1,11 +1,11 @@
 10
-data.kt.txt 1
-data.sq.txt 1
-data.zazw.txt 1
-data.zbfp.txt 1
-data.zbnx.txt 1
-data.zdeb.txt 1
-data.zdeq.txt 1
-data.zeec.txt 1
-data.zejk.txt 2
-data.zekw.txt 2
+data.kt.txt 2.7546073728089153
+data.sq.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zdeb.txt 2.7546073728089153
+data.zdeq.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153
+data.zejk.txt 4.365949390112154
+data.zekw.txt 4.365949390112154

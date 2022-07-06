@@ -1,10 +1,10 @@
 9
-data.ff.txt 1
-data.xk.txt 1
-data.zake.txt 1
-data.zbnx.txt 1
-data.zcgi.txt 1
-data.zciq.txt 1
-data.zdeb.txt 1
-data.zene.txt 2
-data.zfas.txt 1
+data.ff.txt 2.82763771717948
+data.xk.txt 2.82763771717948
+data.zake.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zcgi.txt 2.82763771717948
+data.zciq.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zene.txt 4.48169974735425
+data.zfas.txt 2.82763771717948

@@ -1,12 +1,12 @@
 11
-data.gw.txt 2
-data.zawu.txt 1
-data.zccl.txt 1
-data.zcdg.txt 1
-data.zcdy.txt 1
-data.zcfn.txt 1
-data.zciy.txt 2
-data.zczp.txt 1
-data.zdlm.txt 1
-data.zeeh.txt 1
-data.zfae.txt 1
+data.gw.txt 4.261240455343955
+data.zawu.txt 2.6885433903988862
+data.zccl.txt 2.6885433903988862
+data.zcdg.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zciy.txt 4.261240455343955
+data.zczp.txt 2.6885433903988862
+data.zdlm.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zfae.txt 2.6885433903988862

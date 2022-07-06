@@ -1,6 +1,6 @@
 5
-data.cq.txt 1
-data.zasw.txt 1
-data.zawb.txt 1
-data.zbtj.txt 1
-data.zdgt.txt 4
+data.cq.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbtj.txt 3.235060386727117
+data.zdgt.txt 7.511577600598868

@@ -1,6 +1,6 @@
 5
-data.mi.txt 1
-data.zbfr.txt 1
-data.zbsl.txt 1
-data.zdqq.txt 2
-data.zfaj.txt 1
+data.mi.txt 3.235060386727117
+data.zbfr.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zdqq.txt 5.1274494005309625
+data.zfaj.txt 3.235060386727117

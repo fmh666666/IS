@@ -1,5 +1,5 @@
 4
-data.jf.txt 1
-data.zccl.txt 1
-data.zdrq.txt 1
-data.zecf.txt 1
+data.jf.txt 3.389731710180695
+data.zccl.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695
+data.zecf.txt 3.389731710180695

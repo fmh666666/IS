@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zaxj.txt 1
-data.zbcj.txt 1
-data.zeoh.txt 1
-data.zeta.txt 1
+data.zaim.txt 3.235060386727117
+data.zaxj.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117
+data.zeta.txt 3.235060386727117

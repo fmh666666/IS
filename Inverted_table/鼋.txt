@@ -1,7 +1,7 @@
 6
-data.sq.txt 1
-data.zctm.txt 1
-data.zdga.txt 4
-data.zdkp.txt 1
-data.zebv.txt 1
-data.zeid.txt 1
+data.sq.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873
+data.zdga.txt 7.21814237484067
+data.zdkp.txt 3.1086847136800873
+data.zebv.txt 3.1086847136800873
+data.zeid.txt 3.1086847136800873

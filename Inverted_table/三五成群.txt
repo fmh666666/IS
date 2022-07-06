@@ -1,5 +1,5 @@
 4
-data.zbes.txt 1
-data.zciy.txt 1
-data.zcql.txt 1
-data.zdlo.txt 1
+data.zbes.txt 3.389731710180695
+data.zciy.txt 3.389731710180695
+data.zcql.txt 3.389731710180695
+data.zdlo.txt 3.389731710180695

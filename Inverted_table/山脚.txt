@@ -1,10 +1,10 @@
 9
-data.mx.txt 2
-data.ng.txt 1
-data.zaxj.txt 1
-data.zbla.txt 2
-data.zbor.txt 1
-data.zciq.txt 2
-data.zciy.txt 1
-data.zeai.txt 1
-data.zefv.txt 1
+data.mx.txt 4.48169974735425
+data.ng.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zbla.txt 4.48169974735425
+data.zbor.txt 2.82763771717948
+data.zciq.txt 4.48169974735425
+data.zciy.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zefv.txt 2.82763771717948

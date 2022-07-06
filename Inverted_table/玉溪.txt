@@ -1,12 +1,12 @@
 11
-data.zagr.txt 1
-data.zbkr.txt 1
-data.zbof.txt 1
-data.zcqp.txt 1
-data.zcrn.txt 1
-data.zcue.txt 1
-data.zcxh.txt 2
-data.zdju.txt 1
-data.zdwd.txt 1
-data.zeeh.txt 4
-data.zfcj.txt 1
+data.zagr.txt 2.6885433903988862
+data.zbkr.txt 2.6885433903988862
+data.zbof.txt 2.6885433903988862
+data.zcqp.txt 2.6885433903988862
+data.zcrn.txt 2.6885433903988862
+data.zcue.txt 2.6885433903988862
+data.zcxh.txt 4.261240455343955
+data.zdju.txt 2.6885433903988862
+data.zdwd.txt 2.6885433903988862
+data.zeeh.txt 6.2426044324908965
+data.zfcj.txt 2.6885433903988862

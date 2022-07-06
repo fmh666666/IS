@@ -1,4 +1,4 @@
 3
-data.gz.txt 3
-data.zaet.txt 2
-data.zfas.txt 1
+data.gz.txt 7.1782754551965775
+data.zaet.txt 5.688648708166832
+data.zfas.txt 3.5891377275982888

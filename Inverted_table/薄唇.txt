@@ -1,4 +1,4 @@
 3
-data.zajh.txt 1
-data.zbkj.txt 1
-data.zblr.txt 1
+data.zajh.txt 3.5891377275982888
+data.zbkj.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888

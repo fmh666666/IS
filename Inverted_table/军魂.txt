@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zavx.txt 1
-data.zbhd.txt 1
-data.zbla.txt 2
-data.zbpx.txt 1
+data.gk.txt 3.235060386727117
+data.zavx.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zbla.txt 5.1274494005309625
+data.zbpx.txt 3.235060386727117

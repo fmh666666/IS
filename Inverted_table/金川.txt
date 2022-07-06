@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zbjc.txt 1
-data.zedx.txt 1
-data.zewg.txt 1
+data.zaim.txt 3.389731710180695
+data.zbjc.txt 3.389731710180695
+data.zedx.txt 3.389731710180695
+data.zewg.txt 3.389731710180695

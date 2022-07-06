@@ -1,7 +1,7 @@
 6
-data.zawb.txt 2
-data.zbjh.txt 1
-data.zbkj.txt 1
-data.zcni.txt 1
-data.zdeb.txt 2
-data.zdoq.txt 1
+data.zawb.txt 4.927148697748023
+data.zbjh.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zcni.txt 3.1086847136800873
+data.zdeb.txt 4.927148697748023
+data.zdoq.txt 3.1086847136800873

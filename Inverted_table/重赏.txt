@@ -1,12 +1,12 @@
 11
-data.zako.txt 1
-data.zamr.txt 1
-data.zbhv.txt 1
-data.zbzo.txt 2
-data.zcaq.txt 1
-data.zcdz.txt 1
-data.zcls.txt 1
-data.zdwv.txt 1
-data.zdxw.txt 1
-data.zfby.txt 2
-data.zfcp.txt 1
+data.zako.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zbhv.txt 2.6885433903988862
+data.zbzo.txt 4.261240455343955
+data.zcaq.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862
+data.zfby.txt 4.261240455343955
+data.zfcp.txt 2.6885433903988862

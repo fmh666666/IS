@@ -1,6 +1,6 @@
 5
-data.hu.txt 1
-data.zcmx.txt 4
-data.zcmy.txt 1
-data.zeac.txt 1
-data.zelt.txt 1
+data.hu.txt 3.235060386727117
+data.zcmx.txt 7.511577600598868
+data.zcmy.txt 3.235060386727117
+data.zeac.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

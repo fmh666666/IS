@@ -1,6 +1,6 @@
 5
-data.hg.txt 1
-data.zanh.txt 2
-data.zcbe.txt 2
-data.zdaq.txt 1
-data.zdar.txt 1
+data.hg.txt 3.235060386727117
+data.zanh.txt 5.1274494005309625
+data.zcbe.txt 5.1274494005309625
+data.zdaq.txt 3.235060386727117
+data.zdar.txt 3.235060386727117

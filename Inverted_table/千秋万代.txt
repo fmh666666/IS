@@ -1,9 +1,9 @@
 8
-data.pq.txt 2
-data.tz.txt 1
-data.zajh.txt 1
-data.zawb.txt 1
-data.zazw.txt 2
-data.zcdv.txt 1
-data.zckd.txt 1
-data.zdzg.txt 2
+data.pq.txt 4.611097637722987
+data.tz.txt 2.9092786962624935
+data.zajh.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zazw.txt 4.611097637722987
+data.zcdv.txt 2.9092786962624935
+data.zckd.txt 2.9092786962624935
+data.zdzg.txt 4.611097637722987

@@ -1,14 +1,14 @@
 13
-data.zaic.txt 1
-data.zatz.txt 1
-data.zbjq.txt 1
-data.zbtj.txt 1
-data.zbts.txt 1
-data.zbvf.txt 1
-data.zcem.txt 1
-data.zclm.txt 1
-data.zcpc.txt 1
-data.zczp.txt 1
-data.zdby.txt 1
-data.zdic.txt 1
-data.zeoo.txt 1
+data.zaic.txt 2.5727503226135906
+data.zatz.txt 2.5727503226135906
+data.zbjq.txt 2.5727503226135906
+data.zbtj.txt 2.5727503226135906
+data.zbts.txt 2.5727503226135906
+data.zbvf.txt 2.5727503226135906
+data.zcem.txt 2.5727503226135906
+data.zclm.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zczp.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zdic.txt 2.5727503226135906
+data.zeoo.txt 2.5727503226135906

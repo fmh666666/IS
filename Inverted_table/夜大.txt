@@ -1,14 +1,14 @@
 13
-data.co.txt 1
-data.kq.txt 1
-data.mk.txt 1
-data.pa.txt 1
-data.tz.txt 3
-data.zadv.txt 1
-data.zafu.txt 1
-data.zbaq.txt 2
-data.zczl.txt 1
-data.zdep.txt 1
-data.zdpw.txt 1
-data.zeai.txt 1
-data.zene.txt 1
+data.co.txt 2.5727503226135906
+data.kq.txt 2.5727503226135906
+data.mk.txt 2.5727503226135906
+data.pa.txt 2.5727503226135906
+data.tz.txt 5.145500645227181
+data.zadv.txt 2.5727503226135906
+data.zafu.txt 2.5727503226135906
+data.zbaq.txt 4.077712785060798
+data.zczl.txt 2.5727503226135906
+data.zdep.txt 2.5727503226135906
+data.zdpw.txt 2.5727503226135906
+data.zeai.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906

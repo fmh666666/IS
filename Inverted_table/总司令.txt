@@ -1,10 +1,10 @@
 9
-data.hp.txt 1
-data.zaun.txt 1
-data.zawb.txt 1
-data.zcmy.txt 1
-data.zcts.txt 1
-data.zdlm.txt 1
-data.zdtv.txt 1
-data.zenw.txt 1
-data.zevq.txt 1
+data.hp.txt 2.82763771717948
+data.zaun.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zcts.txt 2.82763771717948
+data.zdlm.txt 2.82763771717948
+data.zdtv.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

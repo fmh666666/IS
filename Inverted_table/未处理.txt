@@ -1,8 +1,8 @@
 7
-data.fp.txt 1
-data.hz.txt 3
-data.sq.txt 1
-data.zabx.txt 2
-data.zbfz.txt 2
-data.zcpa.txt 1
-data.zedo.txt 1
+data.fp.txt 3.0018356045764243
+data.hz.txt 6.003671209152849
+data.sq.txt 3.0018356045764243
+data.zabx.txt 4.757796866583254
+data.zbfz.txt 4.757796866583254
+data.zcpa.txt 3.0018356045764243
+data.zedo.txt 3.0018356045764243

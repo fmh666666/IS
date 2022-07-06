@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.pn.txt 1
-data.tz.txt 1
-data.zair.txt 1
-data.zblh.txt 1
-data.zbup.txt 1
-data.zbzf.txt 1
-data.zcee.txt 1
-data.zctp.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zevt.txt 1
-data.zfby.txt 1
+data.hg.txt 2.5727503226135906
+data.pn.txt 2.5727503226135906
+data.tz.txt 2.5727503226135906
+data.zair.txt 2.5727503226135906
+data.zblh.txt 2.5727503226135906
+data.zbup.txt 2.5727503226135906
+data.zbzf.txt 2.5727503226135906
+data.zcee.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zevt.txt 2.5727503226135906
+data.zfby.txt 2.5727503226135906

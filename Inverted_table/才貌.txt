@@ -1,6 +1,6 @@
 5
-data.jd.txt 1
-data.xe.txt 1
-data.zbfx.txt 1
-data.zeyy.txt 1
-data.zfai.txt 2
+data.jd.txt 3.235060386727117
+data.xe.txt 3.235060386727117
+data.zbfx.txt 3.235060386727117
+data.zeyy.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

@@ -1,9 +1,9 @@
 8
-data.hp.txt 1
-data.uz.txt 1
-data.zazx.txt 1
-data.zbdb.txt 1
-data.zbha.txt 1
-data.zbkv.txt 1
-data.zewn.txt 1
-data.zezm.txt 1
+data.hp.txt 2.9092786962624935
+data.uz.txt 2.9092786962624935
+data.zazx.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbha.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zewn.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935

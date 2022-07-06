@@ -1,11 +1,11 @@
 10
-data.ha.txt 1
-data.ka.txt 1
-data.zabe.txt 1
-data.zaoy.txt 1
-data.zaxx.txt 1
-data.zbls.txt 1
-data.zefp.txt 1
-data.zenw.txt 1
-data.zewn.txt 1
-data.zfaz.txt 1
+data.ha.txt 2.7546073728089153
+data.ka.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zaoy.txt 2.7546073728089153
+data.zaxx.txt 2.7546073728089153
+data.zbls.txt 2.7546073728089153
+data.zefp.txt 2.7546073728089153
+data.zenw.txt 2.7546073728089153
+data.zewn.txt 2.7546073728089153
+data.zfaz.txt 2.7546073728089153

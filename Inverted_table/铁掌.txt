@@ -1,4 +1,4 @@
 3
-data.zasj.txt 1
-data.zbkj.txt 1
-data.zejk.txt 1
+data.zasj.txt 3.5891377275982888
+data.zbkj.txt 3.5891377275982888
+data.zejk.txt 3.5891377275982888

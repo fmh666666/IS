@@ -1,5 +1,5 @@
 4
-data.zbpm.txt 1
-data.zdro.txt 1
-data.zdrq.txt 1
-data.zeob.txt 1
+data.zbpm.txt 3.389731710180695
+data.zdro.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695
+data.zeob.txt 3.389731710180695

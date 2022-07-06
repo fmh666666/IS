@@ -1,4 +1,4 @@
 3
-data.zaqw.txt 1
-data.zdkp.txt 3
-data.zdwz.txt 2
+data.zaqw.txt 3.5891377275982888
+data.zdkp.txt 7.1782754551965775
+data.zdwz.txt 5.688648708166832

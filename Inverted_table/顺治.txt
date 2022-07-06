@@ -1,6 +1,6 @@
 5
-data.zail.txt 1
-data.zawu.txt 1
-data.zbcv.txt 1
-data.zcem.txt 1
-data.zfdk.txt 2
+data.zail.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zfdk.txt 5.1274494005309625

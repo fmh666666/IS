@@ -1,9 +1,9 @@
 8
-data.vi.txt 1
-data.zalt.txt 1
-data.zbhe.txt 1
-data.zcbm.txt 1
-data.zczl.txt 1
-data.zeaf.txt 1
-data.zefd.txt 1
-data.zeyy.txt 1
+data.vi.txt 2.9092786962624935
+data.zalt.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zcbm.txt 2.9092786962624935
+data.zczl.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935
+data.zefd.txt 2.9092786962624935
+data.zeyy.txt 2.9092786962624935

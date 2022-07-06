@@ -1,4 +1,4 @@
 3
-data.zair.txt 3
-data.zbrd.txt 1
-data.zevq.txt 1
+data.zair.txt 7.1782754551965775
+data.zbrd.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

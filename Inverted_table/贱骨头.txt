@@ -1,7 +1,7 @@
 6
-data.cq.txt 1
-data.zasy.txt 1
-data.zdju.txt 1
-data.zehp.txt 1
-data.zesi.txt 1
-data.zeyu.txt 1
+data.cq.txt 3.1086847136800873
+data.zasy.txt 3.1086847136800873
+data.zdju.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873
+data.zesi.txt 3.1086847136800873
+data.zeyu.txt 3.1086847136800873

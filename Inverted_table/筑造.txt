@@ -1,5 +1,5 @@
 4
-data.zasd.txt 1
-data.zbkr.txt 1
-data.zdji.txt 1
-data.zdwl.txt 1
+data.zasd.txt 3.389731710180695
+data.zbkr.txt 3.389731710180695
+data.zdji.txt 3.389731710180695
+data.zdwl.txt 3.389731710180695

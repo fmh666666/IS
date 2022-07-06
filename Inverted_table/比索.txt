@@ -1,8 +1,8 @@
 7
-data.zbvm.txt 1
-data.zcon.txt 1
-data.zcrk.txt 1
-data.zdlm.txt 1
-data.zesi.txt 1
-data.zexx.txt 1
-data.zfai.txt 1
+data.zbvm.txt 3.0018356045764243
+data.zcon.txt 3.0018356045764243
+data.zcrk.txt 3.0018356045764243
+data.zdlm.txt 3.0018356045764243
+data.zesi.txt 3.0018356045764243
+data.zexx.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

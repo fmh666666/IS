@@ -1,11 +1,11 @@
 10
-data.hu.txt 1
-data.zbfp.txt 1
-data.zbga.txt 1
-data.zbjq.txt 2
-data.zbwa.txt 2
-data.zcpb.txt 1
-data.zdmw.txt 1
-data.zduo.txt 1
-data.zefw.txt 1
-data.zewg.txt 1
+data.hu.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbjq.txt 4.365949390112154
+data.zbwa.txt 4.365949390112154
+data.zcpb.txt 2.7546073728089153
+data.zdmw.txt 2.7546073728089153
+data.zduo.txt 2.7546073728089153
+data.zefw.txt 2.7546073728089153
+data.zewg.txt 2.7546073728089153

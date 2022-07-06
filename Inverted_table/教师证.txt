@@ -1,4 +1,4 @@
 3
-data.zamr.txt 1
-data.zckd.txt 1
-data.zdwv.txt 1
+data.zamr.txt 3.5891377275982888
+data.zckd.txt 3.5891377275982888
+data.zdwv.txt 3.5891377275982888

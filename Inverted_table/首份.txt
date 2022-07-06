@@ -1,8 +1,8 @@
 7
-data.zarr.txt 1
-data.zbfr.txt 1
-data.zbfx.txt 1
-data.zcdg.txt 1
-data.zcgi.txt 1
-data.zdwn.txt 1
-data.zexv.txt 1
+data.zarr.txt 3.0018356045764243
+data.zbfr.txt 3.0018356045764243
+data.zbfx.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zcgi.txt 3.0018356045764243
+data.zdwn.txt 3.0018356045764243
+data.zexv.txt 3.0018356045764243

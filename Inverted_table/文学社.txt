@@ -1,6 +1,6 @@
 5
-data.jj.txt 1
-data.zbre.txt 5
-data.zbye.txt 2
-data.zcmv.txt 4
-data.zddb.txt 1
+data.jj.txt 3.235060386727117
+data.zbre.txt 8.362509787258078
+data.zbye.txt 5.1274494005309625
+data.zcmv.txt 7.511577600598868
+data.zddb.txt 3.235060386727117

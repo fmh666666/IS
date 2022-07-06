@@ -1,11 +1,11 @@
 10
-data.zaqr.txt 18
-data.zbvm.txt 2
-data.zcdy.txt 1
-data.zcmy.txt 2
-data.zcue.txt 1
-data.zczp.txt 1
-data.zdpf.txt 1
-data.zefs.txt 3
-data.zelt.txt 1
-data.zfcg.txt 1
+data.zaqr.txt 11.701372447689543
+data.zbvm.txt 4.365949390112154
+data.zcdy.txt 2.7546073728089153
+data.zcmy.txt 4.365949390112154
+data.zcue.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zdpf.txt 2.7546073728089153
+data.zefs.txt 5.509214745617831
+data.zelt.txt 2.7546073728089153
+data.zfcg.txt 2.7546073728089153

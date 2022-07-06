@@ -1,4 +1,4 @@
 3
-data.zdzi.txt 1
-data.zebn.txt 2
-data.zexv.txt 1
+data.zdzi.txt 3.5891377275982888
+data.zebn.txt 5.688648708166832
+data.zexv.txt 3.5891377275982888

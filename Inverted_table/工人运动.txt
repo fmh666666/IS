@@ -1,4 +1,4 @@
 3
-data.zcao.txt 1
-data.zctm.txt 1
-data.zdmw.txt 1
+data.zcao.txt 3.5891377275982888
+data.zctm.txt 3.5891377275982888
+data.zdmw.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.bf.txt 1
-data.zafq.txt 1
-data.zess.txt 11
+data.bf.txt 3.5891377275982888
+data.zafq.txt 3.5891377275982888
+data.zess.txt 12.866924163363409

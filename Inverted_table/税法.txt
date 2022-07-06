@@ -1,7 +1,7 @@
 6
-data.hp.txt 1
-data.zbdb.txt 2
-data.zebv.txt 2
-data.zeel.txt 1
-data.zelt.txt 5
-data.zeqv.txt 1
+data.hp.txt 3.1086847136800873
+data.zbdb.txt 4.927148697748023
+data.zebv.txt 4.927148697748023
+data.zeel.txt 3.1086847136800873
+data.zelt.txt 8.03583341142811
+data.zeqv.txt 3.1086847136800873

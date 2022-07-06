@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zbhd.txt 1
-data.zcql.txt 1
-data.zctp.txt 1
-data.zegz.txt 1
+data.tz.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zegz.txt 3.235060386727117

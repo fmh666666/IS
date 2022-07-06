@@ -1,3 +1,3 @@
 2
-data.zbux.txt 1
-data.zbvg.txt 1
+data.zbux.txt 3.8701847240988965
+data.zbvg.txt 3.8701847240988965

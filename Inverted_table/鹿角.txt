@@ -1,10 +1,10 @@
 9
-data.zadv.txt 4
-data.zavx.txt 1
-data.zbel.txt 3
-data.zcfn.txt 1
-data.zcgo.txt 1
-data.zciq.txt 1
-data.zcvi.txt 1
-data.zeai.txt 1
-data.zehp.txt 1
+data.zadv.txt 6.565571457682201
+data.zavx.txt 2.82763771717948
+data.zbel.txt 5.65527543435896
+data.zcfn.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zciq.txt 2.82763771717948
+data.zcvi.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zehp.txt 2.82763771717948

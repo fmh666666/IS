@@ -1,8 +1,8 @@
 7
-data.zako.txt 2
-data.zayc.txt 1
-data.zcaq.txt 1
-data.zcve.txt 1
-data.zeam.txt 1
-data.zehp.txt 4
-data.zeob.txt 2
+data.zako.txt 4.757796866583254
+data.zayc.txt 3.0018356045764243
+data.zcaq.txt 3.0018356045764243
+data.zcve.txt 3.0018356045764243
+data.zeam.txt 3.0018356045764243
+data.zehp.txt 6.970046426499191
+data.zeob.txt 4.757796866583254

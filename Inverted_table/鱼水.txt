@@ -1,7 +1,7 @@
 6
-data.ep.txt 2
-data.zafk.txt 1
-data.zafl.txt 1
-data.zafy.txt 1
-data.zbhd.txt 1
-data.zfaj.txt 1
+data.ep.txt 4.927148697748023
+data.zafk.txt 3.1086847136800873
+data.zafl.txt 3.1086847136800873
+data.zafy.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

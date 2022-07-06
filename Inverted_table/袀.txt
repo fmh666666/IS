@@ -1,2 +1,2 @@
 1
-data.zbph.txt 3
+data.zbph.txt 8.701275476034196

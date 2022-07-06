@@ -1,10 +1,10 @@
 9
-data.fj.txt 1
-data.zabx.txt 1
-data.zaet.txt 1
-data.zawc.txt 1
-data.zbkr.txt 1
-data.zdcj.txt 1
-data.zdlg.txt 1
-data.zduk.txt 1
-data.zevt.txt 1
+data.fj.txt 2.82763771717948
+data.zabx.txt 2.82763771717948
+data.zaet.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbkr.txt 2.82763771717948
+data.zdcj.txt 2.82763771717948
+data.zdlg.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zevt.txt 2.82763771717948

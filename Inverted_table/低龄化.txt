@@ -1,6 +1,6 @@
 5
-data.tv.txt 1
-data.xk.txt 1
-data.zbeb.txt 2
-data.zcts.txt 1
-data.zcxr.txt 1
+data.tv.txt 3.235060386727117
+data.xk.txt 3.235060386727117
+data.zbeb.txt 5.1274494005309625
+data.zcts.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117

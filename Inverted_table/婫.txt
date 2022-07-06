@@ -1,2 +1,2 @@
 1
-data.zeac.txt 8
+data.zeac.txt 13.791195337958829

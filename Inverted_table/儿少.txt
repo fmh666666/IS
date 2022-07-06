@@ -1,2 +1,2 @@
 1
-data.zedk.txt 2
+data.zedk.txt 6.8955976689794145

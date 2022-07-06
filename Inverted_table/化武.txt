@@ -1,4 +1,4 @@
 3
-data.ft.txt 3
-data.zacw.txt 1
-data.zfai.txt 2
+data.ft.txt 7.1782754551965775
+data.zacw.txt 3.5891377275982888
+data.zfai.txt 5.688648708166832

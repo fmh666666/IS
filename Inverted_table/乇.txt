@@ -1,11 +1,11 @@
 10
-data.ev.txt 1
-data.tv.txt 1
-data.zanm.txt 2
-data.zbcc.txt 2
-data.zcfn.txt 3
-data.zclh.txt 1
-data.zdby.txt 1
-data.zdof.txt 1
-data.zedy.txt 1
-data.zeos.txt 1
+data.ev.txt 2.7546073728089153
+data.tv.txt 2.7546073728089153
+data.zanm.txt 4.365949390112154
+data.zbcc.txt 4.365949390112154
+data.zcfn.txt 5.509214745617831
+data.zclh.txt 2.7546073728089153
+data.zdby.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153

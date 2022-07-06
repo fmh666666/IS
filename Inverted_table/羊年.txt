@@ -1,2 +1,2 @@
 1
-data.zbjk.txt 2
+data.zbjk.txt 6.8955976689794145

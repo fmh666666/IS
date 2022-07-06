@@ -1,6 +1,6 @@
 5
-data.zaim.txt 1
-data.zall.txt 1
-data.zank.txt 1
-data.zawo.txt 1
-data.zcdz.txt 1
+data.zaim.txt 3.235060386727117
+data.zall.txt 3.235060386727117
+data.zank.txt 3.235060386727117
+data.zawo.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117

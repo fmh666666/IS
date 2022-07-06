@@ -1,10 +1,10 @@
 9
-data.zanh.txt 1
-data.zazo.txt 1
-data.zbhe.txt 1
-data.zcdv.txt 1
-data.zcql.txt 1
-data.zcrg.txt 1
-data.zegl.txt 2
-data.zegn.txt 1
-data.zeva.txt 2
+data.zanh.txt 2.82763771717948
+data.zazo.txt 2.82763771717948
+data.zbhe.txt 2.82763771717948
+data.zcdv.txt 2.82763771717948
+data.zcql.txt 2.82763771717948
+data.zcrg.txt 2.82763771717948
+data.zegl.txt 4.48169974735425
+data.zegn.txt 2.82763771717948
+data.zeva.txt 4.48169974735425

@@ -1,11 +1,11 @@
 10
-data.zamr.txt 1
-data.zavx.txt 1
-data.zcdy.txt 1
-data.zcee.txt 1
-data.zcmv.txt 2
-data.zctp.txt 1
-data.zdgv.txt 1
-data.zdme.txt 1
-data.zdou.txt 1
-data.zeec.txt 1
+data.zamr.txt 2.7546073728089153
+data.zavx.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zcmv.txt 4.365949390112154
+data.zctp.txt 2.7546073728089153
+data.zdgv.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zdou.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153

@@ -1,7 +1,7 @@
 6
-data.ff.txt 1
-data.zane.txt 1
-data.zbsf.txt 1
-data.zcft.txt 1
-data.zeac.txt 1
-data.zexv.txt 1
+data.ff.txt 3.1086847136800873
+data.zane.txt 3.1086847136800873
+data.zbsf.txt 3.1086847136800873
+data.zcft.txt 3.1086847136800873
+data.zeac.txt 3.1086847136800873
+data.zexv.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.fe.txt 1
-data.nh.txt 1
-data.zalm.txt 1
-data.zcgo.txt 1
-data.zcoy.txt 1
-data.zcrk.txt 1
-data.zcxr.txt 1
-data.zdeq.txt 1
+data.fe.txt 2.9092786962624935
+data.nh.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zcoy.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zcxr.txt 2.9092786962624935
+data.zdeq.txt 2.9092786962624935

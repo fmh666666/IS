@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.op.txt 1
-data.zajo.txt 1
-data.zbcj.txt 1
-data.zbpx.txt 2
-data.zbta.txt 1
-data.zciq.txt 1
-data.zcwn.txt 1
-data.zdtv.txt 1
-data.zdud.txt 1
+data.cf.txt 2.7546073728089153
+data.op.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zbcj.txt 2.7546073728089153
+data.zbpx.txt 4.365949390112154
+data.zbta.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zcwn.txt 2.7546073728089153
+data.zdtv.txt 2.7546073728089153
+data.zdud.txt 2.7546073728089153

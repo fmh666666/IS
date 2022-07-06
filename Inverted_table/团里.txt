@@ -1,10 +1,10 @@
 9
-data.cf.txt 1
-data.zajh.txt 1
-data.zaxj.txt 1
-data.zckd.txt 1
-data.zcni.txt 1
-data.zdux.txt 1
-data.zefp.txt 1
-data.zefs.txt 1
-data.zefu.txt 1
+data.cf.txt 2.82763771717948
+data.zajh.txt 2.82763771717948
+data.zaxj.txt 2.82763771717948
+data.zckd.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zdux.txt 2.82763771717948
+data.zefp.txt 2.82763771717948
+data.zefs.txt 2.82763771717948
+data.zefu.txt 2.82763771717948

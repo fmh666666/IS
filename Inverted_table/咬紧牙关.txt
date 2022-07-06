@@ -1,10 +1,10 @@
 9
-data.cn.txt 1
-data.zaic.txt 1
-data.zamp.txt 1
-data.zaxp.txt 1
-data.zbdb.txt 1
-data.zbse.txt 2
-data.zcmv.txt 1
-data.zcrk.txt 1
-data.zdeb.txt 1
+data.cn.txt 2.82763771717948
+data.zaic.txt 2.82763771717948
+data.zamp.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbse.txt 4.48169974735425
+data.zcmv.txt 2.82763771717948
+data.zcrk.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948

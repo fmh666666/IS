@@ -1,6 +1,6 @@
 5
-data.zadv.txt 2
-data.zcej.txt 1
-data.zdju.txt 1
-data.zfai.txt 2
-data.zfaj.txt 4
+data.zadv.txt 5.1274494005309625
+data.zcej.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625
+data.zfaj.txt 7.511577600598868

@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.qn.txt 1
-data.zaxj.txt 1
-data.zbor.txt 1
-data.zbye.txt 1
-data.zcmv.txt 1
-data.zctp.txt 1
-data.zebn.txt 2
-data.zecf.txt 1
-data.zegl.txt 1
-data.zevq.txt 1
-data.zfai.txt 1
+data.fp.txt 2.628231699761886
+data.qn.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zbye.txt 2.628231699761886
+data.zcmv.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zebn.txt 4.165648687329214
+data.zecf.txt 2.628231699761886
+data.zegl.txt 2.628231699761886
+data.zevq.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

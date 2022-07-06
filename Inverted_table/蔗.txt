@@ -1,14 +1,14 @@
 13
-data.zbeb.txt 1
-data.zbmw.txt 1
-data.zbvg.txt 1
-data.zcaq.txt 1
-data.zcih.txt 1
-data.zcrv.txt 1
-data.zczb.txt 1
-data.zdeq.txt 1
-data.zdkp.txt 1
-data.zdnc.txt 1
-data.zdou.txt 1
-data.zdtr.txt 4
-data.zejk.txt 2
+data.zbeb.txt 2.5727503226135906
+data.zbmw.txt 2.5727503226135906
+data.zbvg.txt 2.5727503226135906
+data.zcaq.txt 2.5727503226135906
+data.zcih.txt 2.5727503226135906
+data.zcrv.txt 2.5727503226135906
+data.zczb.txt 2.5727503226135906
+data.zdeq.txt 2.5727503226135906
+data.zdkp.txt 2.5727503226135906
+data.zdnc.txt 2.5727503226135906
+data.zdou.txt 2.5727503226135906
+data.zdtr.txt 5.97374125520702
+data.zejk.txt 4.077712785060798

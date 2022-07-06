@@ -1,8 +1,8 @@
 7
-data.zawc.txt 1
-data.zbds.txt 1
-data.zbjh.txt 1
-data.zcdz.txt 1
-data.zcue.txt 1
-data.zewp.txt 1
-data.zeyu.txt 1
+data.zawc.txt 3.0018356045764243
+data.zbds.txt 3.0018356045764243
+data.zbjh.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zcue.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243
+data.zeyu.txt 3.0018356045764243

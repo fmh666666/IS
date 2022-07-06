@@ -1,6 +1,6 @@
 5
-data.zbds.txt 1
-data.zbsd.txt 1
-data.zdxw.txt 1
-data.zeec.txt 2
-data.zewp.txt 1
+data.zbds.txt 3.235060386727117
+data.zbsd.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117
+data.zeec.txt 5.1274494005309625
+data.zewp.txt 3.235060386727117

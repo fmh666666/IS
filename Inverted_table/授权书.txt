@@ -1,3 +1,3 @@
 2
-data.zczp.txt 1
-data.zdtr.txt 1
+data.zczp.txt 3.8701847240988965
+data.zdtr.txt 3.8701847240988965

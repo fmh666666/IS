@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zeoo.txt 1
-data.zeyg.txt 1
+data.tz.txt 3.5891377275982888
+data.zeoo.txt 3.5891377275982888
+data.zeyg.txt 3.5891377275982888

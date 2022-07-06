@@ -1,4 +1,4 @@
 3
-data.zadv.txt 1
-data.zalm.txt 1
-data.zaoo.txt 1
+data.zadv.txt 3.5891377275982888
+data.zalm.txt 3.5891377275982888
+data.zaoo.txt 3.5891377275982888

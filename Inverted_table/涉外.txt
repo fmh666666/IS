@@ -1,10 +1,10 @@
 9
-data.pa.txt 1
-data.ud.txt 2
-data.zafy.txt 1
-data.zaxp.txt 1
-data.zbia.txt 3
-data.zdwz.txt 1
-data.zeam.txt 2
-data.zedy.txt 1
-data.zenn.txt 1
+data.pa.txt 2.82763771717948
+data.ud.txt 4.48169974735425
+data.zafy.txt 2.82763771717948
+data.zaxp.txt 2.82763771717948
+data.zbia.txt 5.65527543435896
+data.zdwz.txt 2.82763771717948
+data.zeam.txt 4.48169974735425
+data.zedy.txt 2.82763771717948
+data.zenn.txt 2.82763771717948

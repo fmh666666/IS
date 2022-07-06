@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.op.txt 1
-data.zacd.txt 2
-data.zalm.txt 1
-data.zbdb.txt 4
-data.zblq.txt 1
-data.zcdz.txt 1
-data.zcfn.txt 1
-data.zciy.txt 2
-data.zcsu.txt 1
-data.zdds.txt 1
-data.zdxw.txt 1
+data.gk.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.zacd.txt 4.165648687329214
+data.zalm.txt 2.628231699761886
+data.zbdb.txt 6.1025650235506905
+data.zblq.txt 2.628231699761886
+data.zcdz.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zciy.txt 4.165648687329214
+data.zcsu.txt 2.628231699761886
+data.zdds.txt 2.628231699761886
+data.zdxw.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zbhd.txt 1
-data.zcpx.txt 1
-data.zcrv.txt 1
-data.zemb.txt 1
+data.zawb.txt 3.235060386727117
+data.zbhd.txt 3.235060386727117
+data.zcpx.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117
+data.zemb.txt 3.235060386727117

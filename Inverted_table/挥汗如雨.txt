@@ -1,11 +1,11 @@
 10
-data.zajo.txt 1
-data.zaoy.txt 1
-data.zavx.txt 1
-data.zazn.txt 1
-data.zazw.txt 1
-data.zcbe.txt 2
-data.zccu.txt 1
-data.zcee.txt 1
-data.zcon.txt 1
-data.zewn.txt 1
+data.zajo.txt 2.7546073728089153
+data.zaoy.txt 2.7546073728089153
+data.zavx.txt 2.7546073728089153
+data.zazn.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zcbe.txt 4.365949390112154
+data.zccu.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zcon.txt 2.7546073728089153
+data.zewn.txt 2.7546073728089153

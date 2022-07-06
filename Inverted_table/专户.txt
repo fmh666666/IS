@@ -1,6 +1,6 @@
 5
-data.zacp.txt 1
-data.zbpx.txt 1
-data.zcdy.txt 3
-data.zcdz.txt 5
-data.zcls.txt 1
+data.zacp.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zcdy.txt 6.470120773454234
+data.zcdz.txt 8.362509787258078
+data.zcls.txt 3.235060386727117

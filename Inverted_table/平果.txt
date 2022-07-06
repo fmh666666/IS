@@ -1,7 +1,7 @@
 6
-data.zafy.txt 1
-data.zbdx.txt 1
-data.zcef.txt 1
-data.zcfx.txt 1
-data.zcpx.txt 3
-data.zdkk.txt 1
+data.zafy.txt 3.1086847136800873
+data.zbdx.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zcfx.txt 3.1086847136800873
+data.zcpx.txt 6.2173694273601745
+data.zdkk.txt 3.1086847136800873

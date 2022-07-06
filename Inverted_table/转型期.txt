@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zacw.txt 1
-data.zaim.txt 1
-data.zbsf.txt 1
-data.zbts.txt 2
+data.gw.txt 3.235060386727117
+data.zacw.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zbts.txt 5.1274494005309625

@@ -1,6 +1,6 @@
 5
-data.zbhe.txt 1
-data.zbrj.txt 1
-data.zcvq.txt 1
-data.zdpf.txt 1
-data.zfas.txt 1
+data.zbhe.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117
+data.zfas.txt 3.235060386727117

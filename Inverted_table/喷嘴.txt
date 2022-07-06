@@ -1,4 +1,4 @@
 3
-data.zalt.txt 1
-data.zdeb.txt 1
-data.zdkp.txt 1
+data.zalt.txt 3.5891377275982888
+data.zdeb.txt 3.5891377275982888
+data.zdkp.txt 3.5891377275982888

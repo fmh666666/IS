@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.zalc.txt 1
-data.zalt.txt 1
-data.zaqw.txt 2
-data.zayd.txt 1
-data.zbdb.txt 1
-data.zcby.txt 1
-data.zdnc.txt 1
-data.zdqx.txt 1
-data.zdvl.txt 1
-data.zdwn.txt 5
-data.zewv.txt 1
+data.gk.txt 2.628231699761886
+data.zalc.txt 2.628231699761886
+data.zalt.txt 2.628231699761886
+data.zaqw.txt 4.165648687329214
+data.zayd.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zcby.txt 2.628231699761886
+data.zdnc.txt 2.628231699761886
+data.zdqx.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zdwn.txt 6.7938803870911
+data.zewv.txt 2.628231699761886

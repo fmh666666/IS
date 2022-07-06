@@ -1,6 +1,6 @@
 5
-data.ff.txt 1
-data.gz.txt 2
-data.pn.txt 1
-data.zcpa.txt 1
-data.zefw.txt 1
+data.ff.txt 3.235060386727117
+data.gz.txt 5.1274494005309625
+data.pn.txt 3.235060386727117
+data.zcpa.txt 3.235060386727117
+data.zefw.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.mk.txt 1
-data.zako.txt 1
-data.zciy.txt 1
-data.zeyu.txt 1
-data.zfai.txt 1
+data.mk.txt 3.235060386727117
+data.zako.txt 3.235060386727117
+data.zciy.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

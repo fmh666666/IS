@@ -1,9 +1,9 @@
 8
-data.hz.txt 2
-data.zaeh.txt 1
-data.zaip.txt 2
-data.zalt.txt 1
-data.zbux.txt 2
-data.zcmy.txt 1
-data.zcvt.txt 2
-data.zeos.txt 1
+data.hz.txt 4.611097637722987
+data.zaeh.txt 2.9092786962624935
+data.zaip.txt 4.611097637722987
+data.zalt.txt 2.9092786962624935
+data.zbux.txt 4.611097637722987
+data.zcmy.txt 2.9092786962624935
+data.zcvt.txt 4.611097637722987
+data.zeos.txt 2.9092786962624935

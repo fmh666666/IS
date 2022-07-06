@@ -1,2 +1,2 @@
 1
-data.hz.txt 2
+data.hz.txt 6.8955976689794145

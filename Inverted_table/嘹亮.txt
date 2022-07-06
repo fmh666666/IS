@@ -1,13 +1,13 @@
 12
-data.co.txt 6
-data.dg.txt 2
-data.zasr.txt 1
-data.zbaq.txt 1
-data.zbfx.txt 1
-data.zcdv.txt 1
-data.zddb.txt 1
-data.zdib.txt 1
-data.zdro.txt 1
-data.zeai.txt 1
-data.zeeh.txt 1
-data.zess.txt 1
+data.co.txt 7.378379198634354
+data.dg.txt 4.165648687329214
+data.zasr.txt 2.628231699761886
+data.zbaq.txt 2.628231699761886
+data.zbfx.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdib.txt 2.628231699761886
+data.zdro.txt 2.628231699761886
+data.zeai.txt 2.628231699761886
+data.zeeh.txt 2.628231699761886
+data.zess.txt 2.628231699761886

@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.kq.txt 1
-data.zbxy.txt 1
-data.zcdv.txt 1
-data.zcon.txt 1
-data.zdkc.txt 1
-data.zdvl.txt 1
-data.zedo.txt 1
+data.ga.txt 2.9092786962624935
+data.kq.txt 2.9092786962624935
+data.zbxy.txt 2.9092786962624935
+data.zcdv.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zdvl.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

@@ -1,11 +1,11 @@
 10
-data.vm.txt 2
-data.zall.txt 1
-data.zalm.txt 1
-data.zayv.txt 3
-data.zbcj.txt 39
-data.zbvn.txt 1
-data.zctp.txt 1
-data.zdhv.txt 1
-data.zevl.txt 3
-data.zewg.txt 1
+data.vm.txt 4.365949390112154
+data.zall.txt 2.7546073728089153
+data.zalm.txt 2.7546073728089153
+data.zayv.txt 5.509214745617831
+data.zbcj.txt 14.659822367735634
+data.zbvn.txt 2.7546073728089153
+data.zctp.txt 2.7546073728089153
+data.zdhv.txt 2.7546073728089153
+data.zevl.txt 5.509214745617831
+data.zewg.txt 2.7546073728089153

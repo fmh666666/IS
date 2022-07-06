@@ -1,4 +1,4 @@
 3
-data.op.txt 1
-data.zacp.txt 2
-data.zddv.txt 1
+data.op.txt 3.5891377275982888
+data.zacp.txt 5.688648708166832
+data.zddv.txt 3.5891377275982888

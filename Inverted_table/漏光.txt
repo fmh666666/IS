@@ -1,4 +1,4 @@
 3
-data.yx.txt 1
-data.zcqe.txt 2
-data.zdga.txt 1
+data.yx.txt 3.5891377275982888
+data.zcqe.txt 5.688648708166832
+data.zdga.txt 3.5891377275982888

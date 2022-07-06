@@ -1,4 +1,4 @@
 3
-data.zcdy.txt 1
-data.zcpa.txt 1
-data.zfai.txt 1
+data.zcdy.txt 3.5891377275982888
+data.zcpa.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

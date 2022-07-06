@@ -1,7 +1,7 @@
 6
-data.zabx.txt 1
-data.zcpx.txt 1
-data.zdgv.txt 1
-data.zdro.txt 1
-data.zdyv.txt 1
-data.zeyy.txt 1
+data.zabx.txt 3.1086847136800873
+data.zcpx.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zdro.txt 3.1086847136800873
+data.zdyv.txt 3.1086847136800873
+data.zeyy.txt 3.1086847136800873

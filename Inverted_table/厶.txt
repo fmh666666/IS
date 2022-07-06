@@ -1,8 +1,8 @@
 7
-data.zbel.txt 1
-data.zbfg.txt 38
-data.zbsf.txt 1
-data.zdby.txt 1
-data.zdle.txt 2
-data.zdof.txt 1
-data.zewd.txt 6
+data.zbel.txt 3.0018356045764243
+data.zbfg.txt 15.865908565087933
+data.zbsf.txt 3.0018356045764243
+data.zdby.txt 3.0018356045764243
+data.zdle.txt 4.757796866583254
+data.zdof.txt 3.0018356045764243
+data.zewd.txt 8.427217959715389

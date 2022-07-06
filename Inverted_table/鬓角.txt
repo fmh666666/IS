@@ -1,13 +1,13 @@
 12
-data.co.txt 1
-data.mu.txt 3
-data.zajh.txt 1
-data.zavg.txt 1
-data.zcjy.txt 1
-data.zcvi.txt 1
-data.zcxq.txt 2
-data.zczj.txt 1
-data.zdlo.txt 1
-data.zdpf.txt 1
-data.zdwz.txt 2
-data.zegl.txt 1
+data.co.txt 2.628231699761886
+data.mu.txt 5.256463399523772
+data.zajh.txt 2.628231699761886
+data.zavg.txt 2.628231699761886
+data.zcjy.txt 2.628231699761886
+data.zcvi.txt 2.628231699761886
+data.zcxq.txt 4.165648687329214
+data.zczj.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zdwz.txt 4.165648687329214
+data.zegl.txt 2.628231699761886

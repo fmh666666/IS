@@ -1,6 +1,6 @@
 5
-data.be.txt 1
-data.zabe.txt 1
-data.zail.txt 1
-data.zaqf.txt 1
-data.zcdl.txt 1
+data.be.txt 3.235060386727117
+data.zabe.txt 3.235060386727117
+data.zail.txt 3.235060386727117
+data.zaqf.txt 3.235060386727117
+data.zcdl.txt 3.235060386727117

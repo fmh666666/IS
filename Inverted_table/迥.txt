@@ -1,7 +1,7 @@
 6
-data.ep.txt 1
-data.hu.txt 1
-data.jf.txt 2
-data.zbaq.txt 1
-data.zbjh.txt 1
-data.zehp.txt 1
+data.ep.txt 3.1086847136800873
+data.hu.txt 3.1086847136800873
+data.jf.txt 4.927148697748023
+data.zbaq.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zehp.txt 3.1086847136800873

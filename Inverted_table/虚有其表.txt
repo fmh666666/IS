@@ -1,4 +1,4 @@
 3
-data.mu.txt 1
-data.zbrj.txt 1
-data.zczj.txt 1
+data.mu.txt 3.5891377275982888
+data.zbrj.txt 3.5891377275982888
+data.zczj.txt 3.5891377275982888

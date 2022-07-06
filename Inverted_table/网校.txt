@@ -1,11 +1,11 @@
 10
-data.be.txt 2
-data.cq.txt 2
-data.zaip.txt 1
-data.zank.txt 3
-data.zapl.txt 1
-data.zbqu.txt 2
-data.zbux.txt 2
-data.zcdl.txt 2
-data.zctm.txt 4
-data.zedd.txt 3
+data.be.txt 4.365949390112154
+data.cq.txt 4.365949390112154
+data.zaip.txt 2.7546073728089153
+data.zank.txt 5.509214745617831
+data.zapl.txt 2.7546073728089153
+data.zbqu.txt 4.365949390112154
+data.zbux.txt 4.365949390112154
+data.zcdl.txt 4.365949390112154
+data.zctm.txt 6.396000249308887
+data.zedd.txt 5.509214745617831

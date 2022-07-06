@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.ft.txt 3
-data.zagr.txt 2
-data.zawc.txt 2
-data.zczb.txt 1
-data.zdlo.txt 1
+data.fp.txt 3.1086847136800873
+data.ft.txt 6.2173694273601745
+data.zagr.txt 4.927148697748023
+data.zawc.txt 4.927148697748023
+data.zczb.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873

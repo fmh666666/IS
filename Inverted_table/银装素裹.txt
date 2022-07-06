@@ -1,10 +1,10 @@
 9
-data.zako.txt 1
-data.zall.txt 1
-data.zbru.txt 1
-data.zcsu.txt 1
-data.zdju.txt 1
-data.zdqx.txt 1
-data.zdrq.txt 1
-data.zdud.txt 1
-data.zefw.txt 1
+data.zako.txt 2.82763771717948
+data.zall.txt 2.82763771717948
+data.zbru.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zdju.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948
+data.zdud.txt 2.82763771717948
+data.zefw.txt 2.82763771717948

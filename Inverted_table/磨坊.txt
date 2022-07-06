@@ -1,11 +1,11 @@
 10
-data.nh.txt 1
-data.zagr.txt 1
-data.zasd.txt 2
-data.zbjc.txt 3
-data.zcic.txt 1
-data.zcpb.txt 2
-data.zcql.txt 1
-data.zdgo.txt 1
-data.zdhw.txt 3
-data.zdzg.txt 1
+data.nh.txt 2.7546073728089153
+data.zagr.txt 2.7546073728089153
+data.zasd.txt 4.365949390112154
+data.zbjc.txt 5.509214745617831
+data.zcic.txt 2.7546073728089153
+data.zcpb.txt 4.365949390112154
+data.zcql.txt 2.7546073728089153
+data.zdgo.txt 2.7546073728089153
+data.zdhw.txt 5.509214745617831
+data.zdzg.txt 2.7546073728089153

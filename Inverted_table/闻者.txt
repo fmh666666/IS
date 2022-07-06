@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.dg.txt 1
-data.zabe.txt 1
-data.zalm.txt 1
-data.zbla.txt 1
-data.zbzo.txt 1
-data.zcli.txt 1
-data.zcpc.txt 1
-data.zdil.txt 1
-data.zenw.txt 1
-data.zety.txt 1
+data.bs.txt 2.6885433903988862
+data.dg.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zalm.txt 2.6885433903988862
+data.zbla.txt 2.6885433903988862
+data.zbzo.txt 2.6885433903988862
+data.zcli.txt 2.6885433903988862
+data.zcpc.txt 2.6885433903988862
+data.zdil.txt 2.6885433903988862
+data.zenw.txt 2.6885433903988862
+data.zety.txt 2.6885433903988862

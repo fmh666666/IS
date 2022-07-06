@@ -1,4 +1,4 @@
 3
-data.zdic.txt 1
-data.zedy.txt 1
-data.zeos.txt 1
+data.zdic.txt 3.5891377275982888
+data.zedy.txt 3.5891377275982888
+data.zeos.txt 3.5891377275982888

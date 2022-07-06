@@ -1,9 +1,9 @@
 8
-data.cz.txt 1
-data.zabe.txt 1
-data.zbaf.txt 1
-data.zcbm.txt 1
-data.zdil.txt 1
-data.zemb.txt 1
-data.zewp.txt 1
-data.zezm.txt 1
+data.cz.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zbaf.txt 2.9092786962624935
+data.zcbm.txt 2.9092786962624935
+data.zdil.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zewp.txt 2.9092786962624935
+data.zezm.txt 2.9092786962624935

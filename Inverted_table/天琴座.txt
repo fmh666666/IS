@@ -1,6 +1,6 @@
 5
-data.zaet.txt 1
-data.zall.txt 1
-data.zaoc.txt 1
-data.zaqp.txt 3
-data.zddl.txt 1
+data.zaet.txt 3.235060386727117
+data.zall.txt 3.235060386727117
+data.zaoc.txt 3.235060386727117
+data.zaqp.txt 6.470120773454234
+data.zddl.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.vm.txt 1
-data.zaqf.txt 2
-data.zawb.txt 1
-data.zbel.txt 1
-data.zbia.txt 2
-data.zcef.txt 1
-data.zcgi.txt 1
-data.zcmy.txt 2
-data.zddl.txt 1
-data.zduk.txt 3
-data.zelj.txt 1
-data.zevq.txt 1
-data.zeyu.txt 1
+data.vm.txt 2.5727503226135906
+data.zaqf.txt 4.077712785060798
+data.zawb.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zbia.txt 4.077712785060798
+data.zcef.txt 2.5727503226135906
+data.zcgi.txt 2.5727503226135906
+data.zcmy.txt 4.077712785060798
+data.zddl.txt 2.5727503226135906
+data.zduk.txt 5.145500645227181
+data.zelj.txt 2.5727503226135906
+data.zevq.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906

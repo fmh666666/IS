@@ -1,14 +1,14 @@
 13
-data.kq.txt 1
-data.zabe.txt 2
-data.zaic.txt 1
-data.zank.txt 1
-data.zbbt.txt 1
-data.zbzg.txt 1
-data.zcee.txt 1
-data.zcpx.txt 1
-data.zcvq.txt 1
-data.zcxh.txt 1
-data.zehp.txt 2
-data.zeqh.txt 1
-data.zeve.txt 1
+data.kq.txt 2.5727503226135906
+data.zabe.txt 4.077712785060798
+data.zaic.txt 2.5727503226135906
+data.zank.txt 2.5727503226135906
+data.zbbt.txt 2.5727503226135906
+data.zbzg.txt 2.5727503226135906
+data.zcee.txt 2.5727503226135906
+data.zcpx.txt 2.5727503226135906
+data.zcvq.txt 2.5727503226135906
+data.zcxh.txt 2.5727503226135906
+data.zehp.txt 4.077712785060798
+data.zeqh.txt 2.5727503226135906
+data.zeve.txt 2.5727503226135906

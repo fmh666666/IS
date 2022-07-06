@@ -1,7 +1,7 @@
 6
-data.zalm.txt 1
-data.zaxp.txt 1
-data.zbaq.txt 1
-data.zbkj.txt 1
-data.zcxr.txt 1
-data.zdep.txt 1
+data.zalm.txt 3.1086847136800873
+data.zaxp.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zcxr.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873

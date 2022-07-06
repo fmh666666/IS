@@ -1,5 +1,5 @@
 4
-data.hp.txt 1
-data.hz.txt 1
-data.zagb.txt 7
-data.zdme.txt 2
+data.hp.txt 3.389731710180695
+data.hz.txt 3.389731710180695
+data.zagb.txt 10.169195130542084
+data.zdme.txt 5.372597648141796

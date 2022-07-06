@@ -1,6 +1,6 @@
 5
-data.zaxj.txt 1
-data.zbhe.txt 1
-data.zbia.txt 1
-data.zdcj.txt 1
-data.zesi.txt 1
+data.zaxj.txt 3.235060386727117
+data.zbhe.txt 3.235060386727117
+data.zbia.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117
+data.zesi.txt 3.235060386727117

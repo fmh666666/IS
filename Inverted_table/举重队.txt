@@ -1,11 +1,11 @@
 10
-data.zafk.txt 2
-data.zaoy.txt 1
-data.zavx.txt 2
-data.zbfd.txt 1
-data.zbfx.txt 1
-data.zcel.txt 1
-data.zciy.txt 1
-data.zdju.txt 1
-data.zdst.txt 1
-data.zeds.txt 1
+data.zafk.txt 4.365949390112154
+data.zaoy.txt 2.7546073728089153
+data.zavx.txt 4.365949390112154
+data.zbfd.txt 2.7546073728089153
+data.zbfx.txt 2.7546073728089153
+data.zcel.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zdju.txt 2.7546073728089153
+data.zdst.txt 2.7546073728089153
+data.zeds.txt 2.7546073728089153

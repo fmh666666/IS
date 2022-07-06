@@ -1,13 +1,13 @@
 12
-data.cq.txt 1
-data.ff.txt 1
-data.hc.txt 1
-data.zarr.txt 1
-data.zbhd.txt 4
-data.zbhe.txt 2
-data.zbjh.txt 1
-data.zccu.txt 1
-data.zcej.txt 1
-data.zcfx.txt 1
-data.zcrv.txt 1
-data.zfaz.txt 1
+data.cq.txt 2.628231699761886
+data.ff.txt 2.628231699761886
+data.hc.txt 2.628231699761886
+data.zarr.txt 2.628231699761886
+data.zbhd.txt 6.1025650235506905
+data.zbhe.txt 4.165648687329214
+data.zbjh.txt 2.628231699761886
+data.zccu.txt 2.628231699761886
+data.zcej.txt 2.628231699761886
+data.zcfx.txt 2.628231699761886
+data.zcrv.txt 2.628231699761886
+data.zfaz.txt 2.628231699761886

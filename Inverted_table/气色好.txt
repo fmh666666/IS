@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zbof.txt 2
-data.zbyv.txt 1
-data.zcvi.txt 1
-data.zdcj.txt 1
+data.tz.txt 3.235060386727117
+data.zbof.txt 5.1274494005309625
+data.zbyv.txt 3.235060386727117
+data.zcvi.txt 3.235060386727117
+data.zdcj.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zafe.txt 1
-data.zbaf.txt 1
-data.zeqn.txt 2
+data.zafe.txt 3.5891377275982888
+data.zbaf.txt 3.5891377275982888
+data.zeqn.txt 5.688648708166832

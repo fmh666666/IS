@@ -1,5 +1,5 @@
 4
-data.gw.txt 1
-data.kq.txt 1
-data.zcdy.txt 6
-data.zcdz.txt 7
+data.gw.txt 3.389731710180695
+data.kq.txt 3.389731710180695
+data.zcdy.txt 9.516180001030515
+data.zcdz.txt 10.169195130542084

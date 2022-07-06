@@ -1,6 +1,6 @@
 5
-data.by.txt 1
-data.ft.txt 1
-data.zcxr.txt 1
-data.zduc.txt 1
-data.zdvl.txt 1
+data.by.txt 3.235060386727117
+data.ft.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zduc.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.gz.txt 1
-data.zcoy.txt 1
-data.zcwq.txt 1
-data.zdzg.txt 1
-data.zeoo.txt 1
+data.gz.txt 3.235060386727117
+data.zcoy.txt 3.235060386727117
+data.zcwq.txt 3.235060386727117
+data.zdzg.txt 3.235060386727117
+data.zeoo.txt 3.235060386727117

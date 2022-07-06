@@ -1,4 +1,4 @@
 3
-data.xk.txt 1
-data.zcqg.txt 11
-data.zdwd.txt 1
+data.xk.txt 3.5891377275982888
+data.zcqg.txt 12.866924163363409
+data.zdwd.txt 3.5891377275982888

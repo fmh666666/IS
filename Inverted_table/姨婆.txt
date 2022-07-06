@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.hc.txt 1
-data.zate.txt 3
-data.zcpa.txt 2
-data.zdgp.txt 1
+data.fe.txt 3.235060386727117
+data.hc.txt 3.235060386727117
+data.zate.txt 6.470120773454234
+data.zcpa.txt 5.1274494005309625
+data.zdgp.txt 3.235060386727117

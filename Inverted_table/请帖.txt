@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.zbha.txt 1
-data.zccx.txt 3
-data.zcli.txt 1
-data.zcpa.txt 1
-data.zcpx.txt 1
-data.zdcy.txt 1
-data.zdkk.txt 1
-data.zdlg.txt 1
-data.zefp.txt 1
-data.zemb.txt 1
+data.cz.txt 2.6885433903988862
+data.zbha.txt 2.6885433903988862
+data.zccx.txt 5.3770867807977725
+data.zcli.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zcpx.txt 2.6885433903988862
+data.zdcy.txt 2.6885433903988862
+data.zdkk.txt 2.6885433903988862
+data.zdlg.txt 2.6885433903988862
+data.zefp.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862

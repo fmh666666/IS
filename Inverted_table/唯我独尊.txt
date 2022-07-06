@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.zabe.txt 1
-data.zadv.txt 1
-data.zaoy.txt 1
-data.zbhe.txt 1
-data.zcfn.txt 1
-data.zfas.txt 1
-data.zfby.txt 1
+data.cf.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zbhe.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zfas.txt 2.9092786962624935
+data.zfby.txt 2.9092786962624935

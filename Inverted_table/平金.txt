@@ -1,5 +1,5 @@
 4
-data.hc.txt 1
-data.vz.txt 1
-data.zcll.txt 1
-data.zdux.txt 1
+data.hc.txt 3.389731710180695
+data.vz.txt 3.389731710180695
+data.zcll.txt 3.389731710180695
+data.zdux.txt 3.389731710180695

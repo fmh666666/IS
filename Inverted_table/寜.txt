@@ -1,4 +1,4 @@
 3
-data.zair.txt 1
-data.zcwn.txt 1
-data.zexu.txt 2
+data.zair.txt 3.5891377275982888
+data.zcwn.txt 3.5891377275982888
+data.zexu.txt 5.688648708166832

@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.zamr.txt 1
-data.zaqw.txt 1
-data.zaxk.txt 1
-data.zbxw.txt 1
-data.zcdz.txt 1
-data.zcni.txt 1
-data.zcrg.txt 1
-data.zdeb.txt 1
-data.zeew.txt 1
-data.zfai.txt 1
+data.dg.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zaqw.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbxw.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zcrg.txt 2.6885433903988862
+data.zdeb.txt 2.6885433903988862
+data.zeew.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

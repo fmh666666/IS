@@ -1,12 +1,12 @@
 11
-data.ha.txt 1
-data.tv.txt 3
-data.zacw.txt 1
-data.zard.txt 1
-data.zaxk.txt 1
-data.zbjk.txt 2
-data.zcaq.txt 1
-data.zczl.txt 1
-data.zdpf.txt 2
-data.zdpg.txt 2
-data.zdwd.txt 1
+data.ha.txt 2.6885433903988862
+data.tv.txt 5.3770867807977725
+data.zacw.txt 2.6885433903988862
+data.zard.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbjk.txt 4.261240455343955
+data.zcaq.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zdpf.txt 4.261240455343955
+data.zdpg.txt 4.261240455343955
+data.zdwd.txt 2.6885433903988862

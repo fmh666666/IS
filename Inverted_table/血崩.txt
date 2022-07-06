@@ -1,5 +1,5 @@
 4
-data.zasw.txt 2
-data.zbsu.txt 1
-data.zcbe.txt 2
-data.zdme.txt 2
+data.zasw.txt 5.372597648141796
+data.zbsu.txt 3.389731710180695
+data.zcbe.txt 5.372597648141796
+data.zdme.txt 5.372597648141796

@@ -1,11 +1,11 @@
 10
-data.zagr.txt 1
-data.zalm.txt 1
-data.zazg.txt 1
-data.zbre.txt 1
-data.zbrj.txt 1
-data.zcvi.txt 1
-data.zeew.txt 1
-data.zelt.txt 1
-data.zeos.txt 1
-data.zfas.txt 2
+data.zagr.txt 2.7546073728089153
+data.zalm.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zbre.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zcvi.txt 2.7546073728089153
+data.zeew.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153
+data.zfas.txt 4.365949390112154

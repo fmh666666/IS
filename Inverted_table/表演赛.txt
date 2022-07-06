@@ -1,13 +1,13 @@
 12
-data.co.txt 1
-data.hz.txt 1
-data.zadv.txt 2
-data.zaop.txt 1
-data.zaql.txt 1
-data.zbnp.txt 1
-data.zcrn.txt 1
-data.zcvq.txt 1
-data.zebv.txt 3
-data.zeik.txt 1
-data.zeqv.txt 1
-data.zesq.txt 1
+data.co.txt 2.628231699761886
+data.hz.txt 2.628231699761886
+data.zadv.txt 4.165648687329214
+data.zaop.txt 2.628231699761886
+data.zaql.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zcrn.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zebv.txt 5.256463399523772
+data.zeik.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886
+data.zesq.txt 2.628231699761886

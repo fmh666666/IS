@@ -1,6 +1,6 @@
 5
-data.zalj.txt 1
-data.zawo.txt 2
-data.zdaq.txt 36
-data.zdar.txt 43
-data.zenn.txt 1
+data.zalj.txt 3.235060386727117
+data.zawo.txt 5.1274494005309625
+data.zdaq.txt 16.85289621964847
+data.zdar.txt 17.661590963499027
+data.zenn.txt 3.235060386727117

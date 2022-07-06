@@ -1,7 +1,7 @@
 6
-data.zafk.txt 1
-data.zbfx.txt 2
-data.zbre.txt 1
-data.zcdl.txt 2
-data.zcmy.txt 1
-data.zemf.txt 1
+data.zafk.txt 3.1086847136800873
+data.zbfx.txt 4.927148697748023
+data.zbre.txt 3.1086847136800873
+data.zcdl.txt 4.927148697748023
+data.zcmy.txt 3.1086847136800873
+data.zemf.txt 3.1086847136800873

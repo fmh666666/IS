@@ -1,6 +1,6 @@
 5
-data.co.txt 1
-data.ry.txt 1
-data.zapl.txt 1
-data.zblr.txt 1
-data.zcxq.txt 1
+data.co.txt 3.235060386727117
+data.ry.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zcxq.txt 3.235060386727117

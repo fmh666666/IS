@@ -1,8 +1,8 @@
 7
-data.zasy.txt 3
-data.zbel.txt 1
-data.zbvf.txt 1
-data.zbzf.txt 1
-data.zctp.txt 1
-data.zdar.txt 1
-data.zddx.txt 1
+data.zasy.txt 6.003671209152849
+data.zbel.txt 3.0018356045764243
+data.zbvf.txt 3.0018356045764243
+data.zbzf.txt 3.0018356045764243
+data.zctp.txt 3.0018356045764243
+data.zdar.txt 3.0018356045764243
+data.zddx.txt 3.0018356045764243

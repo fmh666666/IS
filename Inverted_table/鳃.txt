@@ -1,7 +1,7 @@
 6
-data.sq.txt 1
-data.zcel.txt 2
-data.zcts.txt 1
-data.zdll.txt 3
-data.zedd.txt 2
-data.zedk.txt 1
+data.sq.txt 3.1086847136800873
+data.zcel.txt 4.927148697748023
+data.zcts.txt 3.1086847136800873
+data.zdll.txt 6.2173694273601745
+data.zedd.txt 4.927148697748023
+data.zedk.txt 3.1086847136800873

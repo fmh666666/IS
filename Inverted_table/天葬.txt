@@ -1,5 +1,5 @@
 4
-data.jf.txt 3
-data.zahp.txt 1
-data.zbjk.txt 1
-data.zbre.txt 1
+data.jf.txt 6.77946342036139
+data.zahp.txt 3.389731710180695
+data.zbjk.txt 3.389731710180695
+data.zbre.txt 3.389731710180695

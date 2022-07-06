@@ -1,12 +1,12 @@
 11
-data.ng.txt 1
-data.op.txt 1
-data.zadv.txt 1
-data.zbfz.txt 1
-data.zbil.txt 4
-data.zccu.txt 1
-data.zcku.txt 1
-data.zddp.txt 1
-data.zdoq.txt 1
-data.zdou.txt 3
-data.zess.txt 1
+data.ng.txt 2.6885433903988862
+data.op.txt 2.6885433903988862
+data.zadv.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbil.txt 6.2426044324908965
+data.zccu.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zdou.txt 5.3770867807977725
+data.zess.txt 2.6885433903988862

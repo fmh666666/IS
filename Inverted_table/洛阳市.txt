@@ -1,9 +1,9 @@
 8
-data.yx.txt 2
-data.zahp.txt 12
-data.zajo.txt 2
-data.zbel.txt 1
-data.zbyb.txt 1
-data.zcue.txt 1
-data.zeac.txt 1
-data.zfae.txt 1
+data.yx.txt 4.611097637722987
+data.zahp.txt 10.765610438791466
+data.zajo.txt 4.611097637722987
+data.zbel.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zeac.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

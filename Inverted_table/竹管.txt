@@ -1,4 +1,4 @@
 3
-data.zaql.txt 2
-data.zbwq.txt 2
-data.zeam.txt 1
+data.zaql.txt 5.688648708166832
+data.zbwq.txt 5.688648708166832
+data.zeam.txt 3.5891377275982888

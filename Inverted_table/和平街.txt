@@ -1,4 +1,4 @@
 3
-data.zccl.txt 5
-data.zdod.txt 1
-data.zefw.txt 1
+data.zccl.txt 9.27778643576512
+data.zdod.txt 3.5891377275982888
+data.zefw.txt 3.5891377275982888

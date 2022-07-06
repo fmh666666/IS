@@ -1,4 +1,4 @@
 3
-data.xe.txt 1
-data.zako.txt 1
-data.zddp.txt 1
+data.xe.txt 3.5891377275982888
+data.zako.txt 3.5891377275982888
+data.zddp.txt 3.5891377275982888

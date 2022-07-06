@@ -1,6 +1,6 @@
 5
-data.fe.txt 1
-data.pa.txt 1
-data.zajo.txt 1
-data.zawb.txt 1
-data.zfaj.txt 1
+data.fe.txt 3.235060386727117
+data.pa.txt 3.235060386727117
+data.zajo.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

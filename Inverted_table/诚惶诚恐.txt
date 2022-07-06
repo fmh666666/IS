@@ -1,12 +1,12 @@
 11
-data.uz.txt 1
-data.zamp.txt 1
-data.zate.txt 1
-data.zcdy.txt 2
-data.zcni.txt 2
-data.zcpc.txt 1
-data.zdeq.txt 1
-data.zdro.txt 1
-data.zeaf.txt 1
-data.zeam.txt 1
-data.zekw.txt 1
+data.uz.txt 2.6885433903988862
+data.zamp.txt 2.6885433903988862
+data.zate.txt 2.6885433903988862
+data.zcdy.txt 4.261240455343955
+data.zcni.txt 4.261240455343955
+data.zcpc.txt 2.6885433903988862
+data.zdeq.txt 2.6885433903988862
+data.zdro.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zeam.txt 2.6885433903988862
+data.zekw.txt 2.6885433903988862

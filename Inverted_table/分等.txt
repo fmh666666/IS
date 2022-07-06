@@ -1,14 +1,14 @@
 13
-data.zajn.txt 1
-data.zajo.txt 1
-data.zard.txt 1
-data.zaxp.txt 1
-data.zbsl.txt 1
-data.zcic.txt 1
-data.zciq.txt 1
-data.zcon.txt 1
-data.zcql.txt 3
-data.zcxr.txt 1
-data.zczp.txt 1
-data.zdaq.txt 1
-data.zehj.txt 1
+data.zajn.txt 2.5727503226135906
+data.zajo.txt 2.5727503226135906
+data.zard.txt 2.5727503226135906
+data.zaxp.txt 2.5727503226135906
+data.zbsl.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zciq.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcql.txt 5.145500645227181
+data.zcxr.txt 2.5727503226135906
+data.zczp.txt 2.5727503226135906
+data.zdaq.txt 2.5727503226135906
+data.zehj.txt 2.5727503226135906

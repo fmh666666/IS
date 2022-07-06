@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.ga.txt 1
-data.zamp.txt 1
-data.zapl.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 1
-data.zcft.txt 1
-data.zcls.txt 1
-data.zcrg.txt 1
-data.zdic.txt 1
-data.zdji.txt 1
-data.zedo.txt 1
+data.cz.txt 2.628231699761886
+data.ga.txt 2.628231699761886
+data.zamp.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zbvm.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcft.txt 2.628231699761886
+data.zcls.txt 2.628231699761886
+data.zcrg.txt 2.628231699761886
+data.zdic.txt 2.628231699761886
+data.zdji.txt 2.628231699761886
+data.zedo.txt 2.628231699761886

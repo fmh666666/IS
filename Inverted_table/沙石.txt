@@ -1,11 +1,11 @@
 10
-data.ok.txt 1
-data.yx.txt 1
-data.zahd.txt 1
-data.zaqf.txt 1
-data.zbrj.txt 1
-data.zdgt.txt 1
-data.zdoc.txt 1
-data.zdqz.txt 1
-data.zdtv.txt 1
-data.zedy.txt 1
+data.ok.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zahd.txt 2.7546073728089153
+data.zaqf.txt 2.7546073728089153
+data.zbrj.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zdqz.txt 2.7546073728089153
+data.zdtv.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153

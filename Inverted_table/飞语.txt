@@ -1,4 +1,4 @@
 3
-data.zbvm.txt 1
-data.zcej.txt 2
-data.zdzn.txt 8
+data.zbvm.txt 3.5891377275982888
+data.zcej.txt 5.688648708166832
+data.zdzn.txt 11.377297416333665

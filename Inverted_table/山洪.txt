@@ -1,12 +1,12 @@
 11
-data.zafi.txt 1
-data.zawc.txt 2
-data.zayc.txt 1
-data.zbvg.txt 1
-data.zcis.txt 1
-data.zczp.txt 1
-data.zdep.txt 1
-data.zdme.txt 2
-data.zeds.txt 2
-data.zeqh.txt 1
-data.zeun.txt 1
+data.zafi.txt 2.6885433903988862
+data.zawc.txt 4.261240455343955
+data.zayc.txt 2.6885433903988862
+data.zbvg.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zdme.txt 4.261240455343955
+data.zeds.txt 4.261240455343955
+data.zeqh.txt 2.6885433903988862
+data.zeun.txt 2.6885433903988862

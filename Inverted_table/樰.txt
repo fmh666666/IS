@@ -1,4 +1,4 @@
 3
-data.zadv.txt 1
-data.zcsu.txt 1
-data.zfcg.txt 1
+data.zadv.txt 3.5891377275982888
+data.zcsu.txt 3.5891377275982888
+data.zfcg.txt 3.5891377275982888

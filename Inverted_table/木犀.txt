@@ -1,4 +1,4 @@
 3
-data.ok.txt 1
-data.zawb.txt 2
-data.zbpx.txt 1
+data.ok.txt 3.5891377275982888
+data.zawb.txt 5.688648708166832
+data.zbpx.txt 3.5891377275982888

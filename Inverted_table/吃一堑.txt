@@ -1,10 +1,10 @@
 9
-data.hg.txt 1
-data.vm.txt 1
-data.zbsu.txt 1
-data.zcby.txt 1
-data.zchw.txt 1
-data.zdfl.txt 1
-data.zdgp.txt 1
-data.zehp.txt 1
-data.zevq.txt 2
+data.hg.txt 2.82763771717948
+data.vm.txt 2.82763771717948
+data.zbsu.txt 2.82763771717948
+data.zcby.txt 2.82763771717948
+data.zchw.txt 2.82763771717948
+data.zdfl.txt 2.82763771717948
+data.zdgp.txt 2.82763771717948
+data.zehp.txt 2.82763771717948
+data.zevq.txt 4.48169974735425

@@ -1,4 +1,4 @@
 3
-data.tz.txt 2
-data.zbdx.txt 1
-data.zbel.txt 1
+data.tz.txt 5.688648708166832
+data.zbdx.txt 3.5891377275982888
+data.zbel.txt 3.5891377275982888

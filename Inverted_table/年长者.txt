@@ -1,6 +1,6 @@
 5
-data.bb.txt 1
-data.vi.txt 1
-data.zarr.txt 1
-data.zcmv.txt 1
-data.zfcj.txt 1
+data.bb.txt 3.235060386727117
+data.vi.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zcmv.txt 3.235060386727117
+data.zfcj.txt 3.235060386727117

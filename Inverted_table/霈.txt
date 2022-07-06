@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zdcy.txt 2
-data.zdib.txt 2
-data.zdic.txt 3
-data.zeay.txt 1
+data.ng.txt 3.235060386727117
+data.zdcy.txt 5.1274494005309625
+data.zdib.txt 5.1274494005309625
+data.zdic.txt 6.470120773454234
+data.zeay.txt 3.235060386727117

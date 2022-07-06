@@ -1,6 +1,6 @@
 5
-data.zaqp.txt 2
-data.zawb.txt 4
-data.zcse.txt 1
-data.zdgt.txt 2
-data.zdzn.txt 1
+data.zaqp.txt 5.1274494005309625
+data.zawb.txt 7.511577600598868
+data.zcse.txt 3.235060386727117
+data.zdgt.txt 5.1274494005309625
+data.zdzn.txt 3.235060386727117

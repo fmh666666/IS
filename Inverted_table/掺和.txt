@@ -1,14 +1,14 @@
 13
-data.ee.txt 1
-data.ha.txt 1
-data.vi.txt 1
-data.zass.txt 1
-data.zbvm.txt 2
-data.zbyb.txt 1
-data.zcbe.txt 1
-data.zcjo.txt 1
-data.zcpc.txt 1
-data.zdgp.txt 1
-data.zemb.txt 1
-data.zfai.txt 1
-data.zfaz.txt 1
+data.ee.txt 2.5727503226135906
+data.ha.txt 2.5727503226135906
+data.vi.txt 2.5727503226135906
+data.zass.txt 2.5727503226135906
+data.zbvm.txt 4.077712785060798
+data.zbyb.txt 2.5727503226135906
+data.zcbe.txt 2.5727503226135906
+data.zcjo.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zdgp.txt 2.5727503226135906
+data.zemb.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906
+data.zfaz.txt 2.5727503226135906

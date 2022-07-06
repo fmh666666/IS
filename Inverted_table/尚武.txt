@@ -1,7 +1,7 @@
 6
-data.vm.txt 1
-data.zalm.txt 3
-data.zdaw.txt 20
-data.zdgt.txt 2
-data.zenw.txt 1
-data.zfaj.txt 1
+data.vm.txt 3.1086847136800873
+data.zalm.txt 6.2173694273601745
+data.zdaw.txt 13.654330029823049
+data.zdgt.txt 4.927148697748023
+data.zenw.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

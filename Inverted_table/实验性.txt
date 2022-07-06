@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zbfz.txt 1
-data.zeai.txt 1
-data.zeeq.txt 1
-data.zeob.txt 1
+data.gw.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zeai.txt 3.235060386727117
+data.zeeq.txt 3.235060386727117
+data.zeob.txt 3.235060386727117

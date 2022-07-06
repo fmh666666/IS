@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zasw.txt 1
-data.zbvg.txt 1
-data.zbye.txt 1
-data.zdeb.txt 2
+data.ka.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zbvg.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zdeb.txt 5.1274494005309625

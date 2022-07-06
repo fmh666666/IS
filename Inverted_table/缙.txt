@@ -1,6 +1,6 @@
 5
-data.fz.txt 1
-data.wg.txt 1
-data.zdeq.txt 1
-data.zdgt.txt 1
-data.zdzn.txt 1
+data.fz.txt 3.235060386727117
+data.wg.txt 3.235060386727117
+data.zdeq.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zdzn.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.zajr.txt 2
-data.zaxk.txt 1
-data.zcbe.txt 3
-data.zcfn.txt 1
+data.zajr.txt 5.372597648141796
+data.zaxk.txt 3.389731710180695
+data.zcbe.txt 6.77946342036139
+data.zcfn.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zbdb.txt 1
-data.zdoq.txt 1
-data.zdst.txt 1
-data.zefv.txt 1
-data.zelt.txt 1
+data.zabe.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873
+data.zdst.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

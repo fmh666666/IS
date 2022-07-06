@@ -1,4 +1,4 @@
 3
-data.zbpx.txt 1
-data.zelt.txt 1
-data.zfaw.txt 1
+data.zbpx.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888
+data.zfaw.txt 3.5891377275982888

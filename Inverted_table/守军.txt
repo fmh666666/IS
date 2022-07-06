@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zbia.txt 2
-data.zbsm.txt 3
-data.zbwq.txt 1
-data.zeds.txt 1
-data.zfaj.txt 1
+data.zawc.txt 3.1086847136800873
+data.zbia.txt 4.927148697748023
+data.zbsm.txt 6.2173694273601745
+data.zbwq.txt 3.1086847136800873
+data.zeds.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

@@ -1,7 +1,7 @@
 6
-data.zafl.txt 1
-data.zaic.txt 1
-data.zbaq.txt 2
-data.zbcj.txt 1
-data.zctn.txt 2
-data.zeqv.txt 1
+data.zafl.txt 3.1086847136800873
+data.zaic.txt 3.1086847136800873
+data.zbaq.txt 4.927148697748023
+data.zbcj.txt 3.1086847136800873
+data.zctn.txt 4.927148697748023
+data.zeqv.txt 3.1086847136800873

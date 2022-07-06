@@ -1,6 +1,6 @@
 5
-data.to.txt 1
-data.zahd.txt 1
-data.zdtr.txt 1
-data.zelt.txt 1
-data.zeqn.txt 1
+data.to.txt 3.235060386727117
+data.zahd.txt 3.235060386727117
+data.zdtr.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117

@@ -1,9 +1,9 @@
 8
-data.zaip.txt 1
-data.zawb.txt 1
-data.zblr.txt 1
-data.zcql.txt 2
-data.zdnc.txt 1
-data.zecf.txt 1
-data.zejk.txt 1
-data.zelj.txt 1
+data.zaip.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zblr.txt 2.9092786962624935
+data.zcql.txt 4.611097637722987
+data.zdnc.txt 2.9092786962624935
+data.zecf.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935
+data.zelj.txt 2.9092786962624935

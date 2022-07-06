@@ -1,5 +1,5 @@
 4
-data.zasr.txt 1
-data.zbds.txt 1
-data.zdeb.txt 1
-data.zdwl.txt 1
+data.zasr.txt 3.389731710180695
+data.zbds.txt 3.389731710180695
+data.zdeb.txt 3.389731710180695
+data.zdwl.txt 3.389731710180695

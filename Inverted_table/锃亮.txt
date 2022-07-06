@@ -1,6 +1,6 @@
 5
-data.zasj.txt 1
-data.zasq.txt 1
-data.zbyv.txt 2
-data.zdzm.txt 1
-data.zemb.txt 2
+data.zasj.txt 3.235060386727117
+data.zasq.txt 3.235060386727117
+data.zbyv.txt 5.1274494005309625
+data.zdzm.txt 3.235060386727117
+data.zemb.txt 5.1274494005309625

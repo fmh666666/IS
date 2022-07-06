@@ -1,5 +1,5 @@
 4
-data.zbpc.txt 1
-data.zcqs.txt 1
-data.zcsu.txt 2
-data.zewv.txt 1
+data.zbpc.txt 3.389731710180695
+data.zcqs.txt 3.389731710180695
+data.zcsu.txt 5.372597648141796
+data.zewv.txt 3.389731710180695

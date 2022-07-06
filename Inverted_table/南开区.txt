@@ -1,7 +1,7 @@
 6
-data.bs.txt 2
-data.zard.txt 1
-data.zbha.txt 1
-data.zcli.txt 1
-data.zdaq.txt 4
-data.zdgt.txt 1
+data.bs.txt 4.927148697748023
+data.zard.txt 3.1086847136800873
+data.zbha.txt 3.1086847136800873
+data.zcli.txt 3.1086847136800873
+data.zdaq.txt 7.21814237484067
+data.zdgt.txt 3.1086847136800873

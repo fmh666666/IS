@@ -1,14 +1,14 @@
 13
-data.aj.txt 2
-data.by.txt 4
-data.ff.txt 2
-data.op.txt 4
-data.tv.txt 1
-data.zbcc.txt 4
-data.zcak.txt 1
-data.zccu.txt 1
-data.zcee.txt 1
-data.zcgo.txt 14
-data.zcku.txt 1
-data.zexm.txt 1
-data.zfcj.txt 1
+data.aj.txt 4.077712785060798
+data.by.txt 5.97374125520702
+data.ff.txt 4.077712785060798
+data.op.txt 5.97374125520702
+data.tv.txt 2.5727503226135906
+data.zbcc.txt 5.97374125520702
+data.zcak.txt 2.5727503226135906
+data.zccu.txt 2.5727503226135906
+data.zcee.txt 2.5727503226135906
+data.zcgo.txt 10.051454040267819
+data.zcku.txt 2.5727503226135906
+data.zexm.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

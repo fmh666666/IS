@@ -1,2 +1,2 @@
 1
-data.zduc.txt 1
+data.zduc.txt 4.350637738017098

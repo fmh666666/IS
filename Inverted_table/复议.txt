@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zako.txt 6
-data.zbdb.txt 3
+data.mo.txt 3.5891377275982888
+data.zako.txt 10.0759834655157
+data.zbdb.txt 7.1782754551965775

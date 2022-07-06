@@ -1,12 +1,12 @@
 11
-data.ek.txt 1
-data.gw.txt 1
-data.wc.txt 1
-data.zafu.txt 1
-data.zazn.txt 1
-data.zbxy.txt 1
-data.zdst.txt 1
-data.zdwz.txt 2
-data.zebf.txt 1
-data.zedo.txt 1
-data.zeob.txt 4
+data.ek.txt 2.6885433903988862
+data.gw.txt 2.6885433903988862
+data.wc.txt 2.6885433903988862
+data.zafu.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zbxy.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zdwz.txt 4.261240455343955
+data.zebf.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zeob.txt 6.2426044324908965

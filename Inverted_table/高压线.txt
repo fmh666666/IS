@@ -1,13 +1,13 @@
 12
-data.gw.txt 1
-data.zakb.txt 1
-data.zako.txt 6
-data.zawc.txt 1
-data.zbeb.txt 1
-data.zbfz.txt 1
-data.zbta.txt 4
-data.zbvf.txt 1
-data.zcdv.txt 1
-data.zcue.txt 1
-data.zddm.txt 1
-data.zebf.txt 1
+data.gw.txt 2.628231699761886
+data.zakb.txt 2.628231699761886
+data.zako.txt 7.378379198634354
+data.zawc.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbta.txt 6.1025650235506905
+data.zbvf.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zddm.txt 2.628231699761886
+data.zebf.txt 2.628231699761886

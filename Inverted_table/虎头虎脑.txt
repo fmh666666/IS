@@ -1,7 +1,7 @@
 6
-data.zbor.txt 2
-data.zdby.txt 1
-data.zedk.txt 1
-data.zeoh.txt 1
-data.zevy.txt 1
-data.zezm.txt 1
+data.zbor.txt 4.927148697748023
+data.zdby.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zevy.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873

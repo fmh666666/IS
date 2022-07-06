@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.zbdb.txt 1
-data.zbkv.txt 1
-data.zbrj.txt 1
-data.zelt.txt 1
+data.mo.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zelt.txt 3.235060386727117

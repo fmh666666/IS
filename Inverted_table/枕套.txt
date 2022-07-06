@@ -1,9 +1,9 @@
 8
-data.tz.txt 1
-data.zajn.txt 3
-data.zaql.txt 1
-data.zbcj.txt 2
-data.zbjc.txt 4
-data.zcfn.txt 4
-data.zdby.txt 2
-data.zdrq.txt 1
+data.tz.txt 2.9092786962624935
+data.zajn.txt 5.818557392524987
+data.zaql.txt 2.9092786962624935
+data.zbcj.txt 4.611097637722987
+data.zbjc.txt 6.7551359407091605
+data.zcfn.txt 6.7551359407091605
+data.zdby.txt 4.611097637722987
+data.zdrq.txt 2.9092786962624935

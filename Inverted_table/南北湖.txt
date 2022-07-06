@@ -1,6 +1,6 @@
 5
-data.zcby.txt 3
-data.zcwn.txt 1
-data.zdji.txt 3
-data.zezm.txt 4
-data.zezn.txt 1
+data.zcby.txt 6.470120773454234
+data.zcwn.txt 3.235060386727117
+data.zdji.txt 6.470120773454234
+data.zezm.txt 7.511577600598868
+data.zezn.txt 3.235060386727117

@@ -1,6 +1,6 @@
 5
-data.gk.txt 2
-data.zcbm.txt 1
-data.zcgo.txt 1
-data.zeez.txt 1
-data.zfaj.txt 2
+data.gk.txt 5.1274494005309625
+data.zcbm.txt 3.235060386727117
+data.zcgo.txt 3.235060386727117
+data.zeez.txt 3.235060386727117
+data.zfaj.txt 5.1274494005309625

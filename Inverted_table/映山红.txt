@@ -1,6 +1,6 @@
 5
-data.zcdv.txt 2
-data.zcef.txt 1
-data.zdoq.txt 2
-data.zeeh.txt 4
-data.zeyg.txt 1
+data.zcdv.txt 5.1274494005309625
+data.zcef.txt 3.235060386727117
+data.zdoq.txt 5.1274494005309625
+data.zeeh.txt 7.511577600598868
+data.zeyg.txt 3.235060386727117

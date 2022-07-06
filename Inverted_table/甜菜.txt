@@ -1,14 +1,14 @@
 13
-data.hu.txt 1
-data.jj.txt 1
-data.ok.txt 1
-data.zacd.txt 1
-data.zamp.txt 1
-data.zaqr.txt 1
-data.zcdv.txt 1
-data.zcln.txt 1
-data.zcon.txt 1
-data.zcpc.txt 1
-data.zdmw.txt 1
-data.zdpg.txt 1
-data.zeob.txt 1
+data.hu.txt 2.5727503226135906
+data.jj.txt 2.5727503226135906
+data.ok.txt 2.5727503226135906
+data.zacd.txt 2.5727503226135906
+data.zamp.txt 2.5727503226135906
+data.zaqr.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zdmw.txt 2.5727503226135906
+data.zdpg.txt 2.5727503226135906
+data.zeob.txt 2.5727503226135906

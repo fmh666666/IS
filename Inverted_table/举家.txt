@@ -1,11 +1,11 @@
 10
-data.op.txt 1
-data.zawb.txt 1
-data.zcby.txt 1
-data.zcfn.txt 1
-data.zdaq.txt 1
-data.zddl.txt 1
-data.zdwl.txt 1
-data.zedd.txt 1
-data.zeoh.txt 1
-data.zfai.txt 1
+data.op.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zcby.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zdaq.txt 2.7546073728089153
+data.zddl.txt 2.7546073728089153
+data.zdwl.txt 2.7546073728089153
+data.zedd.txt 2.7546073728089153
+data.zeoh.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

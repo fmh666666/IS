@@ -1,7 +1,7 @@
 6
-data.zabx.txt 1
-data.zawc.txt 1
-data.zbtj.txt 1
-data.zczp.txt 1
-data.zdpg.txt 1
-data.zedk.txt 1
+data.zabx.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zbtj.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873
+data.zdpg.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873

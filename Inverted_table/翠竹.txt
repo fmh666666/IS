@@ -1,11 +1,11 @@
 10
-data.ft.txt 1
-data.ga.txt 1
-data.mk.txt 1
-data.wg.txt 3
-data.zabe.txt 1
-data.zcxr.txt 1
-data.zdoq.txt 1
-data.zeec.txt 2
-data.zejn.txt 1
-data.zelt.txt 1
+data.ft.txt 2.7546073728089153
+data.ga.txt 2.7546073728089153
+data.mk.txt 2.7546073728089153
+data.wg.txt 5.509214745617831
+data.zabe.txt 2.7546073728089153
+data.zcxr.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zeec.txt 4.365949390112154
+data.zejn.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153

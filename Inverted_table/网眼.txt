@@ -1,9 +1,9 @@
 8
-data.co.txt 6
-data.fp.txt 1
-data.ng.txt 1
-data.zasq.txt 2
-data.zbfd.txt 1
-data.zbgw.txt 3
-data.zcsu.txt 1
-data.zdeb.txt 1
+data.co.txt 8.16737786758984
+data.fp.txt 2.9092786962624935
+data.ng.txt 2.9092786962624935
+data.zasq.txt 4.611097637722987
+data.zbfd.txt 2.9092786962624935
+data.zbgw.txt 5.818557392524987
+data.zcsu.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935

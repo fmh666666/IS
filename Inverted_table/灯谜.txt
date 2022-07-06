@@ -1,14 +1,14 @@
 13
-data.hg.txt 1
-data.vz.txt 2
-data.zaop.txt 1
-data.zavx.txt 3
-data.zayv.txt 3
-data.zbil.txt 2
-data.zbkf.txt 2
-data.zcll.txt 1
-data.zduc.txt 2
-data.zedx.txt 2
-data.zewv.txt 1
-data.zfae.txt 2
-data.zfas.txt 1
+data.hg.txt 2.5727503226135906
+data.vz.txt 4.077712785060798
+data.zaop.txt 2.5727503226135906
+data.zavx.txt 5.145500645227181
+data.zayv.txt 5.145500645227181
+data.zbil.txt 4.077712785060798
+data.zbkf.txt 4.077712785060798
+data.zcll.txt 2.5727503226135906
+data.zduc.txt 4.077712785060798
+data.zedx.txt 4.077712785060798
+data.zewv.txt 2.5727503226135906
+data.zfae.txt 4.077712785060798
+data.zfas.txt 2.5727503226135906

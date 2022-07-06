@@ -1,14 +1,14 @@
 13
-data.zamr.txt 3
-data.zayv.txt 5
-data.zbkj.txt 4
-data.zbye.txt 1
-data.zbzo.txt 1
-data.zcao.txt 3
-data.zcaq.txt 6
-data.zcgi.txt 4
-data.zcll.txt 2
-data.zcmy.txt 1
-data.zebv.txt 1
-data.zejk.txt 1
-data.zeqv.txt 4
+data.zamr.txt 5.145500645227181
+data.zayv.txt 6.650463107674388
+data.zbkj.txt 5.97374125520702
+data.zbye.txt 2.5727503226135906
+data.zbzo.txt 2.5727503226135906
+data.zcao.txt 5.145500645227181
+data.zcaq.txt 7.222623281414552
+data.zcgi.txt 5.97374125520702
+data.zcll.txt 4.077712785060798
+data.zcmy.txt 2.5727503226135906
+data.zebv.txt 2.5727503226135906
+data.zejk.txt 2.5727503226135906
+data.zeqv.txt 5.97374125520702

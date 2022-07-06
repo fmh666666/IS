@@ -1,6 +1,6 @@
 5
-data.zabe.txt 2
-data.zbdx.txt 5
-data.zcqs.txt 1
-data.zefp.txt 1
-data.zerv.txt 2
+data.zabe.txt 5.1274494005309625
+data.zbdx.txt 8.362509787258078
+data.zcqs.txt 3.235060386727117
+data.zefp.txt 3.235060386727117
+data.zerv.txt 5.1274494005309625

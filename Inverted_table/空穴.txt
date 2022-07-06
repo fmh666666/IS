@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zaeh.txt 1
-data.zate.txt 1
-data.zazn.txt 1
-data.zcxr.txt 1
+data.qn.txt 3.235060386727117
+data.zaeh.txt 3.235060386727117
+data.zate.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117

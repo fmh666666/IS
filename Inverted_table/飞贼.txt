@@ -1,5 +1,5 @@
 4
-data.zbem.txt 1
-data.zciy.txt 1
-data.zdoq.txt 2
-data.zesi.txt 2
+data.zbem.txt 3.389731710180695
+data.zciy.txt 3.389731710180695
+data.zdoq.txt 5.372597648141796
+data.zesi.txt 5.372597648141796

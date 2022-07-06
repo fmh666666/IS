@@ -1,10 +1,10 @@
 9
-data.gk.txt 1
-data.ha.txt 1
-data.hg.txt 1
-data.zafu.txt 1
-data.zbkr.txt 1
-data.zbor.txt 1
-data.zcue.txt 1
-data.zeik.txt 1
-data.zfaj.txt 1
+data.gk.txt 2.82763771717948
+data.ha.txt 2.82763771717948
+data.hg.txt 2.82763771717948
+data.zafu.txt 2.82763771717948
+data.zbkr.txt 2.82763771717948
+data.zbor.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zeik.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

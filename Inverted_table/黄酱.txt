@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zcku.txt 1
-data.zcuh.txt 2
-data.zcve.txt 1
-data.zedk.txt 1
+data.tz.txt 3.235060386727117
+data.zcku.txt 3.235060386727117
+data.zcuh.txt 5.1274494005309625
+data.zcve.txt 3.235060386727117
+data.zedk.txt 3.235060386727117

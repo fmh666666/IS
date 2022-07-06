@@ -1,6 +1,6 @@
 5
-data.zbor.txt 1
-data.zcem.txt 1
-data.zdxw.txt 2
-data.zefp.txt 1
-data.zelj.txt 1
+data.zbor.txt 3.235060386727117
+data.zcem.txt 3.235060386727117
+data.zdxw.txt 5.1274494005309625
+data.zefp.txt 3.235060386727117
+data.zelj.txt 3.235060386727117

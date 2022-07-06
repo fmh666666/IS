@@ -1,7 +1,7 @@
 6
-data.ng.txt 3
-data.xe.txt 1
-data.zcef.txt 1
-data.zcts.txt 1
-data.zdzi.txt 1
-data.zegk.txt 1
+data.ng.txt 6.2173694273601745
+data.xe.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zdzi.txt 3.1086847136800873
+data.zegk.txt 3.1086847136800873

@@ -1,6 +1,6 @@
 5
-data.uz.txt 1
-data.zawu.txt 1
-data.zcsu.txt 1
-data.zegn.txt 1
-data.zezy.txt 1
+data.uz.txt 3.235060386727117
+data.zawu.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zegn.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

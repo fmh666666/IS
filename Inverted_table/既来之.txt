@@ -1,6 +1,6 @@
 5
-data.ek.txt 1
-data.zasy.txt 2
-data.zbjq.txt 1
-data.zbse.txt 1
-data.zehp.txt 1
+data.ek.txt 3.235060386727117
+data.zasy.txt 5.1274494005309625
+data.zbjq.txt 3.235060386727117
+data.zbse.txt 3.235060386727117
+data.zehp.txt 3.235060386727117

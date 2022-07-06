@@ -1,13 +1,13 @@
 12
-data.jf.txt 2
-data.mo.txt 1
-data.zabe.txt 1
-data.zail.txt 3
-data.zard.txt 2
-data.zbht.txt 1
-data.zbpc.txt 3
-data.zcdv.txt 1
-data.zcll.txt 1
-data.zddp.txt 1
-data.zdlg.txt 2
-data.zfaw.txt 1
+data.jf.txt 4.165648687329214
+data.mo.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zail.txt 5.256463399523772
+data.zard.txt 4.165648687329214
+data.zbht.txt 2.628231699761886
+data.zbpc.txt 5.256463399523772
+data.zcdv.txt 2.628231699761886
+data.zcll.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdlg.txt 4.165648687329214
+data.zfaw.txt 2.628231699761886

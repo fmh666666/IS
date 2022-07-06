@@ -1,13 +1,13 @@
 12
-data.fe.txt 1
-data.kq.txt 1
-data.zacp.txt 1
-data.zafy.txt 1
-data.zapf.txt 1
-data.zbkv.txt 1
-data.zbut.txt 1
-data.zbvp.txt 1
-data.zctp.txt 1
-data.zddl.txt 1
-data.zelt.txt 1
-data.zeve.txt 1
+data.fe.txt 2.628231699761886
+data.kq.txt 2.628231699761886
+data.zacp.txt 2.628231699761886
+data.zafy.txt 2.628231699761886
+data.zapf.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zbut.txt 2.628231699761886
+data.zbvp.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zddl.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zeve.txt 2.628231699761886

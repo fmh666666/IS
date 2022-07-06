@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zane.txt 1
-data.zbgd.txt 1
-data.zcef.txt 1
-data.zdqk.txt 1
+data.zadv.txt 3.235060386727117
+data.zane.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zdqk.txt 3.235060386727117

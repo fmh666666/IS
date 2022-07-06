@@ -1,7 +1,7 @@
 6
-data.zcfn.txt 1
-data.zdby.txt 1
-data.zdrq.txt 2
-data.zegk.txt 1
-data.zegl.txt 4
-data.zegn.txt 2
+data.zcfn.txt 3.1086847136800873
+data.zdby.txt 3.1086847136800873
+data.zdrq.txt 4.927148697748023
+data.zegk.txt 3.1086847136800873
+data.zegl.txt 7.21814237484067
+data.zegn.txt 4.927148697748023

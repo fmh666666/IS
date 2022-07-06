@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.zbhe.txt 1
-data.zbnp.txt 1
-data.zbxw.txt 1
-data.zchw.txt 1
-data.zcon.txt 1
-data.zczl.txt 1
-data.zdkv.txt 1
-data.zefu.txt 1
-data.zeik.txt 1
-data.zelt.txt 1
-data.zeve.txt 1
+data.fp.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zbxw.txt 2.628231699761886
+data.zchw.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zdkv.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zeik.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zeve.txt 2.628231699761886

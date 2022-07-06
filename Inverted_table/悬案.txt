@@ -1,13 +1,13 @@
 12
-data.gk.txt 1
-data.zagr.txt 1
-data.zazn.txt 1
-data.zbcc.txt 2
-data.zbcv.txt 1
-data.zcbe.txt 1
-data.zcgi.txt 1
-data.zcll.txt 1
-data.zcts.txt 1
-data.zcxh.txt 1
-data.zdpz.txt 1
-data.zfas.txt 1
+data.gk.txt 2.628231699761886
+data.zagr.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zbcc.txt 4.165648687329214
+data.zbcv.txt 2.628231699761886
+data.zcbe.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcll.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zcxh.txt 2.628231699761886
+data.zdpz.txt 2.628231699761886
+data.zfas.txt 2.628231699761886

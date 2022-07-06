@@ -1,4 +1,4 @@
 3
-data.zarr.txt 1
-data.zaxp.txt 2
-data.zewg.txt 1
+data.zarr.txt 3.5891377275982888
+data.zaxp.txt 5.688648708166832
+data.zewg.txt 3.5891377275982888

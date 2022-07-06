@@ -1,9 +1,9 @@
 8
-data.co.txt 6
-data.kq.txt 2
-data.zbia.txt 1
-data.zbuj.txt 1
-data.zdxw.txt 1
-data.zejk.txt 1
-data.zfaj.txt 1
-data.zfcg.txt 1
+data.co.txt 8.16737786758984
+data.kq.txt 4.611097637722987
+data.zbia.txt 2.9092786962624935
+data.zbuj.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935
+data.zejk.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935
+data.zfcg.txt 2.9092786962624935

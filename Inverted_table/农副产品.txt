@@ -1,5 +1,5 @@
 4
-data.kt.txt 1
-data.zasr.txt 1
-data.zctp.txt 1
-data.zelt.txt 4
+data.kt.txt 3.389731710180695
+data.zasr.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zelt.txt 7.870713291999142

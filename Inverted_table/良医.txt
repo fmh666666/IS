@@ -1,7 +1,7 @@
 6
-data.be.txt 1
-data.ka.txt 1
-data.mx.txt 1
-data.zakb.txt 1
-data.zbjc.txt 1
-data.zeyg.txt 1
+data.be.txt 3.1086847136800873
+data.ka.txt 3.1086847136800873
+data.mx.txt 3.1086847136800873
+data.zakb.txt 3.1086847136800873
+data.zbjc.txt 3.1086847136800873
+data.zeyg.txt 3.1086847136800873

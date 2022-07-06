@@ -1,14 +1,14 @@
 13
-data.ff.txt 2
-data.mt.txt 1
-data.zakb.txt 2
-data.zalj.txt 2
-data.zarr.txt 3
-data.zaxp.txt 2
-data.zbhd.txt 2
-data.zbnx.txt 2
-data.zcfx.txt 1
-data.zcku.txt 2
-data.zcpa.txt 1
-data.zcrn.txt 2
-data.zeez.txt 1
+data.ff.txt 4.077712785060798
+data.mt.txt 2.5727503226135906
+data.zakb.txt 4.077712785060798
+data.zalj.txt 4.077712785060798
+data.zarr.txt 5.145500645227181
+data.zaxp.txt 4.077712785060798
+data.zbhd.txt 4.077712785060798
+data.zbnx.txt 4.077712785060798
+data.zcfx.txt 2.5727503226135906
+data.zcku.txt 4.077712785060798
+data.zcpa.txt 2.5727503226135906
+data.zcrn.txt 4.077712785060798
+data.zeez.txt 2.5727503226135906

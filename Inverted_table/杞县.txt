@@ -1,4 +1,4 @@
 3
-data.zbwq.txt 1
-data.zdtr.txt 2
-data.zfcg.txt 1
+data.zbwq.txt 3.5891377275982888
+data.zdtr.txt 5.688648708166832
+data.zfcg.txt 3.5891377275982888

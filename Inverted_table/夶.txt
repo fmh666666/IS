@@ -1,9 +1,9 @@
 8
-data.aj.txt 2
-data.pq.txt 1
-data.zaoo.txt 1
-data.zbfz.txt 1
-data.zbla.txt 1
-data.zdme.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
+data.aj.txt 4.611097637722987
+data.pq.txt 2.9092786962624935
+data.zaoo.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zdod.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935

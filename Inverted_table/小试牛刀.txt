@@ -1,5 +1,5 @@
 4
-data.zabj.txt 1
-data.zaic.txt 1
-data.zcln.txt 1
-data.zeoo.txt 1
+data.zabj.txt 3.389731710180695
+data.zaic.txt 3.389731710180695
+data.zcln.txt 3.389731710180695
+data.zeoo.txt 3.389731710180695

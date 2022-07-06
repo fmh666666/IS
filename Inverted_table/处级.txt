@@ -1,10 +1,10 @@
 9
-data.be.txt 1
-data.ga.txt 1
-data.op.txt 4
-data.zajo.txt 1
-data.zcdy.txt 2
-data.zeay.txt 1
-data.zemf.txt 1
-data.zeyg.txt 2
-data.zfbr.txt 2
+data.be.txt 2.82763771717948
+data.ga.txt 2.82763771717948
+data.op.txt 6.565571457682201
+data.zajo.txt 2.82763771717948
+data.zcdy.txt 4.48169974735425
+data.zeay.txt 2.82763771717948
+data.zemf.txt 2.82763771717948
+data.zeyg.txt 4.48169974735425
+data.zfbr.txt 4.48169974735425

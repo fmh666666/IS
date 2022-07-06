@@ -1,4 +1,4 @@
 3
-data.zamp.txt 1
-data.zcpc.txt 1
-data.zdnh.txt 1
+data.zamp.txt 3.5891377275982888
+data.zcpc.txt 3.5891377275982888
+data.zdnh.txt 3.5891377275982888

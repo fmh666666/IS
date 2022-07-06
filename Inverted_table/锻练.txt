@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zamp.txt 1
-data.zcpb.txt 1
-data.zcrv.txt 1
-data.zdou.txt 1
+data.zabe.txt 3.235060386727117
+data.zamp.txt 3.235060386727117
+data.zcpb.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117
+data.zdou.txt 3.235060386727117

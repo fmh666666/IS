@@ -1,5 +1,5 @@
 4
-data.zacd.txt 2
-data.zaic.txt 1
-data.zbux.txt 1
-data.zchw.txt 3
+data.zacd.txt 5.372597648141796
+data.zaic.txt 3.389731710180695
+data.zbux.txt 3.389731710180695
+data.zchw.txt 6.77946342036139

@@ -1,10 +1,10 @@
 9
-data.zasj.txt 1
-data.zbeb.txt 1
-data.zbts.txt 1
-data.zcef.txt 1
-data.zddb.txt 1
-data.zdil.txt 1
-data.zdof.txt 1
-data.zefp.txt 1
-data.zehp.txt 1
+data.zasj.txt 2.82763771717948
+data.zbeb.txt 2.82763771717948
+data.zbts.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zdil.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zefp.txt 2.82763771717948
+data.zehp.txt 2.82763771717948

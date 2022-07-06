@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.mo.txt 1
-data.zbfr.txt 1
-data.zdbf.txt 1
-data.zdxw.txt 6
+data.fp.txt 3.235060386727117
+data.mo.txt 3.235060386727117
+data.zbfr.txt 3.235060386727117
+data.zdbf.txt 3.235060386727117
+data.zdxw.txt 9.081962699831948

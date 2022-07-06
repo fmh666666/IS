@@ -1,6 +1,6 @@
 5
-data.hg.txt 1
-data.zbpp.txt 1
-data.zcjo.txt 2
-data.zcts.txt 1
-data.zeez.txt 1
+data.hg.txt 3.235060386727117
+data.zbpp.txt 3.235060386727117
+data.zcjo.txt 5.1274494005309625
+data.zcts.txt 3.235060386727117
+data.zeez.txt 3.235060386727117

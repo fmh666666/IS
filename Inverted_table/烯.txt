@@ -1,14 +1,14 @@
 13
-data.mo.txt 1
-data.zabx.txt 1
-data.zahd.txt 1
-data.zako.txt 1
-data.zbkv.txt 1
-data.zbnx.txt 1
-data.zbzf.txt 1
-data.zcrg.txt 2
-data.zdof.txt 1
-data.zdpg.txt 2
-data.zdro.txt 1
-data.zekw.txt 9
-data.zewd.txt 2
+data.mo.txt 2.5727503226135906
+data.zabx.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbnx.txt 2.5727503226135906
+data.zbzf.txt 2.5727503226135906
+data.zcrg.txt 4.077712785060798
+data.zdof.txt 2.5727503226135906
+data.zdpg.txt 4.077712785060798
+data.zdro.txt 2.5727503226135906
+data.zekw.txt 8.546491577820612
+data.zewd.txt 4.077712785060798

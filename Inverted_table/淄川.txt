@@ -1,4 +1,4 @@
 3
-data.zcaq.txt 3
-data.zcls.txt 4
-data.zewv.txt 4
+data.zcaq.txt 7.1782754551965775
+data.zcls.txt 8.333719726130651
+data.zewv.txt 8.333719726130651

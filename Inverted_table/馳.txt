@@ -1,7 +1,7 @@
 6
-data.kt.txt 1
-data.tz.txt 1
-data.zagr.txt 1
-data.zate.txt 1
-data.zdvl.txt 1
-data.zexk.txt 1
+data.kt.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zagr.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zdvl.txt 3.1086847136800873
+data.zexk.txt 3.1086847136800873

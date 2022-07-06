@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.ye.txt 3
-data.zadv.txt 2
-data.zbaf.txt 2
-data.zbjk.txt 1
-data.zcem.txt 1
-data.zdeb.txt 3
+data.gw.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.tz.txt 2.82763771717948
+data.ye.txt 5.65527543435896
+data.zadv.txt 4.48169974735425
+data.zbaf.txt 4.48169974735425
+data.zbjk.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zdeb.txt 5.65527543435896

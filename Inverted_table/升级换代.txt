@@ -1,4 +1,4 @@
 3
-data.dg.txt 1
-data.op.txt 2
-data.zbnx.txt 1
+data.dg.txt 3.5891377275982888
+data.op.txt 5.688648708166832
+data.zbnx.txt 3.5891377275982888

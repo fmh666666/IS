@@ -1,11 +1,11 @@
 10
-data.zajh.txt 5
-data.zazx.txt 1
-data.zbkj.txt 1
-data.zbwq.txt 1
-data.zcfn.txt 3
-data.zcsu.txt 1
-data.zdll.txt 1
-data.zdoc.txt 1
-data.zdqk.txt 1
-data.zefd.txt 1
+data.zajh.txt 7.120556762921068
+data.zazx.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zbwq.txt 2.7546073728089153
+data.zcfn.txt 5.509214745617831
+data.zcsu.txt 2.7546073728089153
+data.zdll.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zdqk.txt 2.7546073728089153
+data.zefd.txt 2.7546073728089153

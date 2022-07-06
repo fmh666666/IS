@@ -1,11 +1,11 @@
 10
-data.zank.txt 1
-data.zawo.txt 1
-data.zbil.txt 1
-data.zbor.txt 2
-data.zcdz.txt 1
-data.zcql.txt 1
-data.zczp.txt 1
-data.zdsh.txt 1
-data.zeec.txt 1
-data.zezm.txt 1
+data.zank.txt 2.7546073728089153
+data.zawo.txt 2.7546073728089153
+data.zbil.txt 2.7546073728089153
+data.zbor.txt 4.365949390112154
+data.zcdz.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zczp.txt 2.7546073728089153
+data.zdsh.txt 2.7546073728089153
+data.zeec.txt 2.7546073728089153
+data.zezm.txt 2.7546073728089153

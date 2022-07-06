@@ -1,5 +1,5 @@
 4
-data.zbfx.txt 2
-data.zbtx.txt 14
-data.zeag.txt 1
-data.zedo.txt 1
+data.zbfx.txt 5.372597648141796
+data.zbtx.txt 13.243310940140939
+data.zeag.txt 3.389731710180695
+data.zedo.txt 3.389731710180695

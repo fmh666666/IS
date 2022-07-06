@@ -1,7 +1,7 @@
 6
-data.zbor.txt 1
-data.zbts.txt 1
-data.zbzf.txt 1
-data.zcdz.txt 1
-data.zczb.txt 1
-data.zdst.txt 1
+data.zbor.txt 3.1086847136800873
+data.zbts.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zdst.txt 3.1086847136800873

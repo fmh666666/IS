@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.qb.txt 3
-data.zbfz.txt 2
-data.zcak.txt 3
+data.ga.txt 3.389731710180695
+data.qb.txt 6.77946342036139
+data.zbfz.txt 5.372597648141796
+data.zcak.txt 6.77946342036139

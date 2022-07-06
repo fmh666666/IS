@@ -1,8 +1,8 @@
 7
-data.nh.txt 1
-data.zafe.txt 1
-data.zarr.txt 1
-data.zcdl.txt 1
-data.zcdy.txt 1
-data.zdtr.txt 1
-data.zfae.txt 1
+data.nh.txt 3.0018356045764243
+data.zafe.txt 3.0018356045764243
+data.zarr.txt 3.0018356045764243
+data.zcdl.txt 3.0018356045764243
+data.zcdy.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zfae.txt 3.0018356045764243

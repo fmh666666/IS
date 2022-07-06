@@ -1,5 +1,5 @@
 4
-data.zatz.txt 1
-data.zbcc.txt 3
-data.zbsu.txt 1
-data.zcfn.txt 2
+data.zatz.txt 3.389731710180695
+data.zbcc.txt 6.77946342036139
+data.zbsu.txt 3.389731710180695
+data.zcfn.txt 5.372597648141796

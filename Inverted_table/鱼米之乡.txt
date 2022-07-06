@@ -1,4 +1,4 @@
 3
-data.zcrv.txt 1
-data.zddv.txt 1
-data.zewd.txt 4
+data.zcrv.txt 3.5891377275982888
+data.zddv.txt 3.5891377275982888
+data.zewd.txt 8.333719726130651

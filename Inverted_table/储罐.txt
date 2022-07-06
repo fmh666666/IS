@@ -1,4 +1,4 @@
 3
-data.zcem.txt 1
-data.zdqx.txt 2
-data.zewv.txt 2
+data.zcem.txt 3.5891377275982888
+data.zdqx.txt 5.688648708166832
+data.zewv.txt 5.688648708166832

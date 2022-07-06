@@ -1,6 +1,6 @@
 5
-data.sq.txt 1
-data.tv.txt 1
-data.zblr.txt 1
-data.zefu.txt 1
-data.zegz.txt 1
+data.sq.txt 3.235060386727117
+data.tv.txt 3.235060386727117
+data.zblr.txt 3.235060386727117
+data.zefu.txt 3.235060386727117
+data.zegz.txt 3.235060386727117

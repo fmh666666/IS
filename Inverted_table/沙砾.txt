@@ -1,10 +1,10 @@
 9
-data.ud.txt 1
-data.zafy.txt 1
-data.zamp.txt 1
-data.zapl.txt 1
-data.zcmn.txt 1
-data.zcni.txt 1
-data.zczp.txt 1
-data.zexu.txt 1
-data.zfaz.txt 1
+data.ud.txt 2.82763771717948
+data.zafy.txt 2.82763771717948
+data.zamp.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zcmn.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zczp.txt 2.82763771717948
+data.zexu.txt 2.82763771717948
+data.zfaz.txt 2.82763771717948

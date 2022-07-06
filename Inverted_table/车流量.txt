@@ -1,14 +1,14 @@
 13
-data.ev.txt 1
-data.hz.txt 18
-data.zahd.txt 1
-data.zake.txt 1
-data.zbeb.txt 1
-data.zbjq.txt 1
-data.zbwq.txt 1
-data.zcda.txt 1
-data.zcdz.txt 1
-data.zcjy.txt 1
-data.zcmy.txt 1
-data.zcts.txt 1
-data.zedk.txt 1
+data.ev.txt 2.5727503226135906
+data.hz.txt 10.92885688065113
+data.zahd.txt 2.5727503226135906
+data.zake.txt 2.5727503226135906
+data.zbeb.txt 2.5727503226135906
+data.zbjq.txt 2.5727503226135906
+data.zbwq.txt 2.5727503226135906
+data.zcda.txt 2.5727503226135906
+data.zcdz.txt 2.5727503226135906
+data.zcjy.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zcts.txt 2.5727503226135906
+data.zedk.txt 2.5727503226135906

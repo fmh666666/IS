@@ -1,7 +1,7 @@
 6
-data.zawb.txt 1
-data.zbdb.txt 1
-data.zbhd.txt 2
-data.zcdy.txt 1
-data.zebn.txt 1
-data.zezy.txt 1
+data.zawb.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbhd.txt 4.927148697748023
+data.zcdy.txt 3.1086847136800873
+data.zebn.txt 3.1086847136800873
+data.zezy.txt 3.1086847136800873

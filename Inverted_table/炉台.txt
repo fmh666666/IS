@@ -1,10 +1,10 @@
 9
-data.ff.txt 1
-data.ha.txt 1
-data.ka.txt 1
-data.zabe.txt 1
-data.zaeh.txt 1
-data.zcoy.txt 2
-data.zdqx.txt 1
-data.zduk.txt 1
-data.zdyv.txt 1
+data.ff.txt 2.82763771717948
+data.ha.txt 2.82763771717948
+data.ka.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zaeh.txt 2.82763771717948
+data.zcoy.txt 4.48169974735425
+data.zdqx.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zdyv.txt 2.82763771717948

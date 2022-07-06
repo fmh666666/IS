@@ -1,5 +1,5 @@
 4
-data.zazn.txt 1
-data.zbhd.txt 2
-data.zcvq.txt 1
-data.zezn.txt 1
+data.zazn.txt 3.389731710180695
+data.zbhd.txt 5.372597648141796
+data.zcvq.txt 3.389731710180695
+data.zezn.txt 3.389731710180695

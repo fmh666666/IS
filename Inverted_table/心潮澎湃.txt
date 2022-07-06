@@ -1,12 +1,12 @@
 11
-data.zabe.txt 1
-data.zacd.txt 1
-data.zako.txt 2
-data.zard.txt 1
-data.zbel.txt 1
-data.zbia.txt 1
-data.zcee.txt 1
-data.zcxr.txt 1
-data.zdaa.txt 1
-data.zdlw.txt 1
-data.zebc.txt 1
+data.zabe.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zako.txt 4.261240455343955
+data.zard.txt 2.6885433903988862
+data.zbel.txt 2.6885433903988862
+data.zbia.txt 2.6885433903988862
+data.zcee.txt 2.6885433903988862
+data.zcxr.txt 2.6885433903988862
+data.zdaa.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862

@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zcni.txt 2
-data.zcue.txt 1
-data.zdic.txt 1
-data.zeve.txt 1
+data.zagr.txt 3.235060386727117
+data.zcni.txt 5.1274494005309625
+data.zcue.txt 3.235060386727117
+data.zdic.txt 3.235060386727117
+data.zeve.txt 3.235060386727117

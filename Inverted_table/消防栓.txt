@@ -1,5 +1,5 @@
 4
-data.ft.txt 2
-data.zapf.txt 1
-data.zbof.txt 1
-data.zbre.txt 1
+data.ft.txt 5.372597648141796
+data.zapf.txt 3.389731710180695
+data.zbof.txt 3.389731710180695
+data.zbre.txt 3.389731710180695

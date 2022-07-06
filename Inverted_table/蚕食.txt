@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.fj.txt 1
-data.fz.txt 1
-data.zasd.txt 1
-data.zawc.txt 2
-data.zbor.txt 1
-data.zbup.txt 1
-data.zcby.txt 1
-data.zcdy.txt 1
-data.zcts.txt 1
-data.zczj.txt 1
+data.cq.txt 2.6885433903988862
+data.fj.txt 2.6885433903988862
+data.fz.txt 2.6885433903988862
+data.zasd.txt 2.6885433903988862
+data.zawc.txt 4.261240455343955
+data.zbor.txt 2.6885433903988862
+data.zbup.txt 2.6885433903988862
+data.zcby.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcts.txt 2.6885433903988862
+data.zczj.txt 2.6885433903988862

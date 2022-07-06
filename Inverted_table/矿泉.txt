@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.zdoq.txt 1
-data.zdou.txt 1
-data.zefw.txt 1
+data.mi.txt 3.389731710180695
+data.zdoq.txt 3.389731710180695
+data.zdou.txt 3.389731710180695
+data.zefw.txt 3.389731710180695

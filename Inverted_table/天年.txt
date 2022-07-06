@@ -1,9 +1,9 @@
 8
-data.gk.txt 1
-data.zbnp.txt 1
-data.zbux.txt 1
-data.zddp.txt 1
-data.zdlg.txt 1
-data.zdme.txt 1
-data.zelt.txt 1
-data.zewg.txt 1
+data.gk.txt 2.9092786962624935
+data.zbnp.txt 2.9092786962624935
+data.zbux.txt 2.9092786962624935
+data.zddp.txt 2.9092786962624935
+data.zdlg.txt 2.9092786962624935
+data.zdme.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zewg.txt 2.9092786962624935

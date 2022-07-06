@@ -1,6 +1,6 @@
 5
-data.zamp.txt 1
-data.zaoc.txt 1
-data.zarr.txt 1
-data.zbjh.txt 2
-data.zbre.txt 1
+data.zamp.txt 3.235060386727117
+data.zaoc.txt 3.235060386727117
+data.zarr.txt 3.235060386727117
+data.zbjh.txt 5.1274494005309625
+data.zbre.txt 3.235060386727117

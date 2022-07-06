@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.zawo.txt 1
-data.zbcj.txt 1
-data.zbgd.txt 1
-data.zbqu.txt 12
-data.zdkk.txt 1
-data.zdle.txt 1
-data.zdux.txt 1
-data.zenn.txt 1
-data.zevl.txt 2
-data.zevy.txt 2
+data.gw.txt 2.6885433903988862
+data.zawo.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbgd.txt 2.6885433903988862
+data.zbqu.txt 9.948792745777752
+data.zdkk.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zdux.txt 2.6885433903988862
+data.zenn.txt 2.6885433903988862
+data.zevl.txt 4.261240455343955
+data.zevy.txt 4.261240455343955

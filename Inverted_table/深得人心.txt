@@ -1,4 +1,4 @@
 3
-data.zcfn.txt 1
-data.zcsu.txt 1
-data.zddv.txt 1
+data.zcfn.txt 3.5891377275982888
+data.zcsu.txt 3.5891377275982888
+data.zddv.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.cz.txt 1
-data.ng.txt 1
-data.zapr.txt 1
-data.zblr.txt 1
-data.zdgt.txt 1
-data.zfcj.txt 1
+data.cz.txt 3.1086847136800873
+data.ng.txt 3.1086847136800873
+data.zapr.txt 3.1086847136800873
+data.zblr.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

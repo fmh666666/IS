@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zbre.txt 2
-data.zcts.txt 1
-data.zerh.txt 2
-data.zexk.txt 1
+data.kt.txt 3.235060386727117
+data.zbre.txt 5.1274494005309625
+data.zcts.txt 3.235060386727117
+data.zerh.txt 5.1274494005309625
+data.zexk.txt 3.235060386727117

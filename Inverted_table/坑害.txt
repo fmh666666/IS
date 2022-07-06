@@ -1,6 +1,6 @@
 5
-data.zazo.txt 1
-data.zcdg.txt 1
-data.zdkv.txt 1
-data.zeun.txt 1
-data.zfai.txt 1
+data.zazo.txt 3.235060386727117
+data.zcdg.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117
+data.zeun.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

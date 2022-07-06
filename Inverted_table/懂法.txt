@@ -1,13 +1,13 @@
 12
-data.bs.txt 1
-data.zahp.txt 1
-data.zbaf.txt 1
-data.zbdb.txt 1
-data.zbeb.txt 2
-data.zbel.txt 1
-data.zcfx.txt 1
-data.zcuh.txt 1
-data.zdhv.txt 1
-data.zeay.txt 1
-data.zejk.txt 1
-data.zemf.txt 1
+data.bs.txt 2.628231699761886
+data.zahp.txt 2.628231699761886
+data.zbaf.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbeb.txt 4.165648687329214
+data.zbel.txt 2.628231699761886
+data.zcfx.txt 2.628231699761886
+data.zcuh.txt 2.628231699761886
+data.zdhv.txt 2.628231699761886
+data.zeay.txt 2.628231699761886
+data.zejk.txt 2.628231699761886
+data.zemf.txt 2.628231699761886

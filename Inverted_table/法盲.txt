@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.ga.txt 1
-data.zadv.txt 1
-data.zctm.txt 2
+data.bs.txt 3.389731710180695
+data.ga.txt 3.389731710180695
+data.zadv.txt 3.389731710180695
+data.zctm.txt 5.372597648141796

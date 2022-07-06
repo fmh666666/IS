@@ -1,11 +1,11 @@
 10
-data.gw.txt 2
-data.xe.txt 1
-data.zawb.txt 1
-data.zbhd.txt 1
-data.zcqp.txt 1
-data.zcse.txt 4
-data.zdep.txt 1
-data.zelt.txt 4
-data.zeoh.txt 1
-data.zeos.txt 1
+data.gw.txt 4.365949390112154
+data.xe.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbhd.txt 2.7546073728089153
+data.zcqp.txt 2.7546073728089153
+data.zcse.txt 6.396000249308887
+data.zdep.txt 2.7546073728089153
+data.zelt.txt 6.396000249308887
+data.zeoh.txt 2.7546073728089153
+data.zeos.txt 2.7546073728089153

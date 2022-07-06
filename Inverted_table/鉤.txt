@@ -1,6 +1,6 @@
 5
-data.jf.txt 1
-data.yx.txt 1
-data.zbfd.txt 2
-data.zdux.txt 2
-data.zeaf.txt 2
+data.jf.txt 3.235060386727117
+data.yx.txt 3.235060386727117
+data.zbfd.txt 5.1274494005309625
+data.zdux.txt 5.1274494005309625
+data.zeaf.txt 5.1274494005309625

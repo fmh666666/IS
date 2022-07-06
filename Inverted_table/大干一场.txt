@@ -1,6 +1,6 @@
 5
-data.zanm.txt 1
-data.zaub.txt 1
-data.zbse.txt 1
-data.zeqn.txt 1
-data.zeyg.txt 1
+data.zanm.txt 3.235060386727117
+data.zaub.txt 3.235060386727117
+data.zbse.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117

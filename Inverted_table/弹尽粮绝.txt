@@ -1,10 +1,10 @@
 9
-data.fp.txt 1
-data.zahd.txt 1
-data.zaim.txt 1
-data.zbua.txt 2
-data.zcee.txt 1
-data.zcfn.txt 1
-data.zcjd.txt 1
-data.zeaj.txt 1
-data.zeay.txt 1
+data.fp.txt 2.82763771717948
+data.zahd.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zbua.txt 4.48169974735425
+data.zcee.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zcjd.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948
+data.zeay.txt 2.82763771717948

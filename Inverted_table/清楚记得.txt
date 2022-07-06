@@ -1,4 +1,4 @@
 3
-data.cn.txt 4
-data.zbzg.txt 1
-data.zemb.txt 1
+data.cn.txt 8.333719726130651
+data.zbzg.txt 3.5891377275982888
+data.zemb.txt 3.5891377275982888

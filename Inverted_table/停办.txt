@@ -1,13 +1,13 @@
 12
-data.hz.txt 1
-data.mk.txt 1
-data.xk.txt 1
-data.zako.txt 1
-data.zasj.txt 1
-data.zawb.txt 1
-data.zbcc.txt 1
-data.zbdx.txt 2
-data.zcmn.txt 1
-data.zcsu.txt 1
-data.zdud.txt 1
-data.zfas.txt 2
+data.hz.txt 2.628231699761886
+data.mk.txt 2.628231699761886
+data.xk.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zasj.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zbcc.txt 2.628231699761886
+data.zbdx.txt 4.165648687329214
+data.zcmn.txt 2.628231699761886
+data.zcsu.txt 2.628231699761886
+data.zdud.txt 2.628231699761886
+data.zfas.txt 4.165648687329214

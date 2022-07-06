@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.yx.txt 1
-data.zail.txt 2
-data.zawu.txt 1
-data.zazw.txt 1
-data.zbhv.txt 2
-data.zcel.txt 1
-data.zcgi.txt 1
-data.zcni.txt 1
-data.zedd.txt 2
-data.zene.txt 1
+data.fj.txt 2.6885433903988862
+data.yx.txt 2.6885433903988862
+data.zail.txt 4.261240455343955
+data.zawu.txt 2.6885433903988862
+data.zazw.txt 2.6885433903988862
+data.zbhv.txt 4.261240455343955
+data.zcel.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zedd.txt 4.261240455343955
+data.zene.txt 2.6885433903988862

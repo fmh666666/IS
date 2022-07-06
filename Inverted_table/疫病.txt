@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zacp.txt 1
-data.zctp.txt 1
+data.mo.txt 3.5891377275982888
+data.zacp.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.ew.txt 1
-data.zamr.txt 1
-data.zard.txt 1
-data.zavg.txt 1
-data.zazx.txt 1
-data.zbfx.txt 1
-data.zcdv.txt 1
-data.zcku.txt 1
-data.zdod.txt 1
-data.zdqz.txt 2
-data.zeec.txt 1
+data.ew.txt 2.6885433903988862
+data.zamr.txt 2.6885433903988862
+data.zard.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zazx.txt 2.6885433903988862
+data.zbfx.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zdqz.txt 4.261240455343955
+data.zeec.txt 2.6885433903988862

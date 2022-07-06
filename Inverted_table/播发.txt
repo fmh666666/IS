@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zawc.txt 1
-data.zbpx.txt 1
+data.mo.txt 3.5891377275982888
+data.zawc.txt 3.5891377275982888
+data.zbpx.txt 3.5891377275982888

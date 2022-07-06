@@ -1,6 +1,6 @@
 5
-data.zamp.txt 1
-data.zbph.txt 1
-data.zbvm.txt 1
-data.zcdy.txt 4
-data.zclm.txt 1
+data.zamp.txt 3.235060386727117
+data.zbph.txt 3.235060386727117
+data.zbvm.txt 3.235060386727117
+data.zcdy.txt 7.511577600598868
+data.zclm.txt 3.235060386727117

@@ -1,5 +1,5 @@
 4
-data.zacw.txt 1
-data.zalj.txt 1
-data.zess.txt 2
-data.zfai.txt 1
+data.zacw.txt 3.389731710180695
+data.zalj.txt 3.389731710180695
+data.zess.txt 5.372597648141796
+data.zfai.txt 3.389731710180695

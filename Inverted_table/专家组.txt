@@ -1,14 +1,14 @@
 13
-data.bf.txt 1
-data.zaim.txt 1
-data.zaql.txt 1
-data.zavx.txt 2
-data.zawu.txt 2
-data.zbhd.txt 1
-data.zbnp.txt 1
-data.zbsl.txt 1
-data.zcue.txt 1
-data.zdpf.txt 2
-data.zdwn.txt 1
-data.zene.txt 2
-data.zfaj.txt 1
+data.bf.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zaql.txt 2.5727503226135906
+data.zavx.txt 4.077712785060798
+data.zawu.txt 4.077712785060798
+data.zbhd.txt 2.5727503226135906
+data.zbnp.txt 2.5727503226135906
+data.zbsl.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zdpf.txt 4.077712785060798
+data.zdwn.txt 2.5727503226135906
+data.zene.txt 4.077712785060798
+data.zfaj.txt 2.5727503226135906

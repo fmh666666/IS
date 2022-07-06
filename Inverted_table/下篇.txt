@@ -1,10 +1,10 @@
 9
-data.co.txt 4
-data.pa.txt 1
-data.zbdx.txt 2
-data.zbxy.txt 1
-data.zcby.txt 1
-data.zcfn.txt 2
-data.zeoo.txt 1
-data.zerh.txt 1
-data.zezf.txt 1
+data.co.txt 6.565571457682201
+data.pa.txt 2.82763771717948
+data.zbdx.txt 4.48169974735425
+data.zbxy.txt 2.82763771717948
+data.zcby.txt 2.82763771717948
+data.zcfn.txt 4.48169974735425
+data.zeoo.txt 2.82763771717948
+data.zerh.txt 2.82763771717948
+data.zezf.txt 2.82763771717948

@@ -1,4 +1,4 @@
 3
-data.zail.txt 1
-data.zbts.txt 2
-data.zcln.txt 1
+data.zail.txt 3.5891377275982888
+data.zbts.txt 5.688648708166832
+data.zcln.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.zbhd.txt 1
-data.zblq.txt 1
-data.zctm.txt 1
-data.zdcj.txt 1
-data.zdqx.txt 1
-data.zdux.txt 1
-data.zdxw.txt 1
-data.zebv.txt 1
+data.zbhd.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zctm.txt 2.9092786962624935
+data.zdcj.txt 2.9092786962624935
+data.zdqx.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935

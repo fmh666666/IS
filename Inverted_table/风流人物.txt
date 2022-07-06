@@ -1,5 +1,5 @@
 4
-data.zasq.txt 1
-data.zbla.txt 1
-data.zbrj.txt 1
-data.zeid.txt 1
+data.zasq.txt 3.389731710180695
+data.zbla.txt 3.389731710180695
+data.zbrj.txt 3.389731710180695
+data.zeid.txt 3.389731710180695

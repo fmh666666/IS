@@ -1,14 +1,14 @@
 13
-data.ud.txt 1
-data.zabe.txt 1
-data.zblq.txt 1
-data.zdby.txt 1
-data.zddv.txt 2
-data.zdkp.txt 1
-data.zdpf.txt 5
-data.zdpg.txt 20
-data.zeam.txt 1
-data.zedo.txt 4
-data.zefp.txt 1
-data.zehp.txt 1
-data.zezh.txt 1
+data.ud.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zblq.txt 2.5727503226135906
+data.zdby.txt 2.5727503226135906
+data.zddv.txt 4.077712785060798
+data.zdkp.txt 2.5727503226135906
+data.zdpf.txt 6.650463107674388
+data.zdpg.txt 11.30033606647535
+data.zeam.txt 2.5727503226135906
+data.zedo.txt 5.97374125520702
+data.zefp.txt 2.5727503226135906
+data.zehp.txt 2.5727503226135906
+data.zezh.txt 2.5727503226135906

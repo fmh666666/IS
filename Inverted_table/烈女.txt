@@ -1,7 +1,7 @@
 6
-data.zagr.txt 1
-data.zbyb.txt 1
-data.zdeq.txt 1
-data.zedx.txt 1
-data.zefp.txt 1
-data.zefv.txt 2
+data.zagr.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zdeq.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873
+data.zefv.txt 4.927148697748023

@@ -1,13 +1,13 @@
 12
-data.mt.txt 1
-data.to.txt 1
-data.zbia.txt 1
-data.zbqu.txt 1
-data.zbzg.txt 1
-data.zcjy.txt 1
-data.zcoy.txt 1
-data.zcrv.txt 1
-data.zczp.txt 1
-data.zdzi.txt 1
-data.zewn.txt 1
-data.zezm.txt 2
+data.mt.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zbia.txt 2.628231699761886
+data.zbqu.txt 2.628231699761886
+data.zbzg.txt 2.628231699761886
+data.zcjy.txt 2.628231699761886
+data.zcoy.txt 2.628231699761886
+data.zcrv.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886
+data.zewn.txt 2.628231699761886
+data.zezm.txt 4.165648687329214

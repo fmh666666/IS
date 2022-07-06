@@ -1,4 +1,4 @@
 3
-data.zaej.txt 4
-data.zbkr.txt 1
-data.zdwv.txt 1
+data.zaej.txt 8.333719726130651
+data.zbkr.txt 3.5891377275982888
+data.zdwv.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zdpw.txt 1
-data.zefs.txt 2
-data.zete.txt 1
-data.zezm.txt 1
-data.zfby.txt 1
+data.zdpw.txt 3.235060386727117
+data.zefs.txt 5.1274494005309625
+data.zete.txt 3.235060386727117
+data.zezm.txt 3.235060386727117
+data.zfby.txt 3.235060386727117

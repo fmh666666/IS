@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.jd.txt 1
-data.zacd.txt 1
-data.zaop.txt 1
-data.zapl.txt 1
-data.zdhv.txt 1
-data.zeoo.txt 1
-data.zexm.txt 3
+data.bb.txt 2.9092786962624935
+data.jd.txt 2.9092786962624935
+data.zacd.txt 2.9092786962624935
+data.zaop.txt 2.9092786962624935
+data.zapl.txt 2.9092786962624935
+data.zdhv.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zexm.txt 5.818557392524987

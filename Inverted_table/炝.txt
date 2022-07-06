@@ -1,13 +1,13 @@
 12
-data.xe.txt 2
-data.zaim.txt 1
-data.zamp.txt 2
-data.zasw.txt 1
-data.zblh.txt 1
-data.zbts.txt 1
-data.zclm.txt 2
-data.zeai.txt 1
-data.zedk.txt 2
-data.zedo.txt 2
-data.zeew.txt 1
-data.zezn.txt 1
+data.xe.txt 4.165648687329214
+data.zaim.txt 2.628231699761886
+data.zamp.txt 4.165648687329214
+data.zasw.txt 2.628231699761886
+data.zblh.txt 2.628231699761886
+data.zbts.txt 2.628231699761886
+data.zclm.txt 4.165648687329214
+data.zeai.txt 2.628231699761886
+data.zedk.txt 4.165648687329214
+data.zedo.txt 4.165648687329214
+data.zeew.txt 2.628231699761886
+data.zezn.txt 2.628231699761886

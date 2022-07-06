@@ -1,6 +1,6 @@
 5
-data.zall.txt 1
-data.zbkj.txt 1
-data.zbla.txt 1
-data.zcln.txt 1
-data.zdkp.txt 1
+data.zall.txt 3.235060386727117
+data.zbkj.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zdkp.txt 3.235060386727117

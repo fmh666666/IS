@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.kt.txt 2
-data.zajo.txt 1
-data.zbfg.txt 1
-data.zcon.txt 1
-data.zcue.txt 1
-data.zczl.txt 2
-data.zegz.txt 1
+data.gw.txt 2.9092786962624935
+data.kt.txt 4.611097637722987
+data.zajo.txt 2.9092786962624935
+data.zbfg.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zczl.txt 4.611097637722987
+data.zegz.txt 2.9092786962624935

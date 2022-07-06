@@ -1,7 +1,7 @@
 6
-data.zane.txt 2
-data.zasd.txt 2
-data.zbes.txt 1
-data.zeeh.txt 1
-data.zezn.txt 1
-data.zfaj.txt 1
+data.zane.txt 4.927148697748023
+data.zasd.txt 4.927148697748023
+data.zbes.txt 3.1086847136800873
+data.zeeh.txt 3.1086847136800873
+data.zezn.txt 3.1086847136800873
+data.zfaj.txt 3.1086847136800873

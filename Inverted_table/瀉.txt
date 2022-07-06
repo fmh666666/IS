@@ -1,6 +1,6 @@
 5
-data.qb.txt 1
-data.zbgd.txt 1
-data.zdey.txt 1
-data.zeam.txt 1
-data.zeid.txt 1
+data.qb.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zdey.txt 3.235060386727117
+data.zeam.txt 3.235060386727117
+data.zeid.txt 3.235060386727117

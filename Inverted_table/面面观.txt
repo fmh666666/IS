@@ -1,4 +1,4 @@
 3
-data.hz.txt 2
-data.zcoy.txt 1
-data.zeac.txt 1
+data.hz.txt 5.688648708166832
+data.zcoy.txt 3.5891377275982888
+data.zeac.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zall.txt 1
-data.zank.txt 1
-data.zate.txt 3
-data.zazx.txt 1
-data.zbvf.txt 1
-data.zbwa.txt 2
-data.zddv.txt 1
+data.gw.txt 2.9092786962624935
+data.zall.txt 2.9092786962624935
+data.zank.txt 2.9092786962624935
+data.zate.txt 5.818557392524987
+data.zazx.txt 2.9092786962624935
+data.zbvf.txt 2.9092786962624935
+data.zbwa.txt 4.611097637722987
+data.zddv.txt 2.9092786962624935

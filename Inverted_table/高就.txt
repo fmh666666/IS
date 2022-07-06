@@ -1,12 +1,12 @@
 11
-data.bf.txt 1
-data.ee.txt 1
-data.zbcv.txt 1
-data.zbds.txt 1
-data.zcdy.txt 1
-data.zctp.txt 1
-data.zdcw.txt 1
-data.zdwn.txt 1
-data.zdwv.txt 1
-data.zehp.txt 1
-data.zfdk.txt 1
+data.bf.txt 2.6885433903988862
+data.ee.txt 2.6885433903988862
+data.zbcv.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862
+data.zdcw.txt 2.6885433903988862
+data.zdwn.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zehp.txt 2.6885433903988862
+data.zfdk.txt 2.6885433903988862

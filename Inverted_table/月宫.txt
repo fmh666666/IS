@@ -1,6 +1,6 @@
 5
-data.zcmx.txt 1
-data.zdaq.txt 1
-data.zdby.txt 1
-data.zdga.txt 1
-data.zdnc.txt 1
+data.zcmx.txt 3.235060386727117
+data.zdaq.txt 3.235060386727117
+data.zdby.txt 3.235060386727117
+data.zdga.txt 3.235060386727117
+data.zdnc.txt 3.235060386727117

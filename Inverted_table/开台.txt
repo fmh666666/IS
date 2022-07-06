@@ -1,9 +1,9 @@
 8
-data.zaic.txt 1
-data.zajo.txt 1
-data.zaql.txt 2
-data.zasw.txt 1
-data.zcxh.txt 1
-data.zdqk.txt 2
-data.zdqq.txt 1
-data.zenw.txt 1
+data.zaic.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zaql.txt 4.611097637722987
+data.zasw.txt 2.9092786962624935
+data.zcxh.txt 2.9092786962624935
+data.zdqk.txt 4.611097637722987
+data.zdqq.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935

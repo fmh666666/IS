@@ -1,14 +1,14 @@
 13
-data.mt.txt 1
-data.zall.txt 1
-data.zawu.txt 1
-data.zbfd.txt 1
-data.zbfz.txt 1
-data.zbkr.txt 1
-data.zbkv.txt 1
-data.zbpx.txt 1
-data.zbsd.txt 1
-data.zcpc.txt 1
-data.zdar.txt 1
-data.zdhv.txt 1
-data.zeyy.txt 1
+data.mt.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zawu.txt 2.5727503226135906
+data.zbfd.txt 2.5727503226135906
+data.zbfz.txt 2.5727503226135906
+data.zbkr.txt 2.5727503226135906
+data.zbkv.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zbsd.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zdar.txt 2.5727503226135906
+data.zdhv.txt 2.5727503226135906
+data.zeyy.txt 2.5727503226135906

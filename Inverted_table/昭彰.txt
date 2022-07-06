@@ -1,4 +1,4 @@
 3
-data.zalt.txt 1
-data.zaxk.txt 1
-data.zcku.txt 1
+data.zalt.txt 3.5891377275982888
+data.zaxk.txt 3.5891377275982888
+data.zcku.txt 3.5891377275982888

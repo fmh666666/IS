@@ -1,9 +1,9 @@
 8
-data.fz.txt 1
-data.zbem.txt 1
-data.zbpp.txt 1
-data.zccl.txt 2
-data.zcmn.txt 1
-data.zdhw.txt 1
-data.zebv.txt 1
-data.zeel.txt 1
+data.fz.txt 2.9092786962624935
+data.zbem.txt 2.9092786962624935
+data.zbpp.txt 2.9092786962624935
+data.zccl.txt 4.611097637722987
+data.zcmn.txt 2.9092786962624935
+data.zdhw.txt 2.9092786962624935
+data.zebv.txt 2.9092786962624935
+data.zeel.txt 2.9092786962624935

@@ -1,11 +1,11 @@
 10
-data.dg.txt 6
-data.pn.txt 7
-data.zamr.txt 5
-data.zayv.txt 2
-data.zbor.txt 2
-data.zcaq.txt 2
-data.zcda.txt 2
-data.zcdl.txt 1
-data.zcls.txt 2
-data.zehj.txt 1
+data.dg.txt 7.733160566391275
+data.pn.txt 8.263822118426747
+data.zamr.txt 7.120556762921068
+data.zayv.txt 4.365949390112154
+data.zbor.txt 4.365949390112154
+data.zcaq.txt 4.365949390112154
+data.zcda.txt 4.365949390112154
+data.zcdl.txt 2.7546073728089153
+data.zcls.txt 4.365949390112154
+data.zehj.txt 2.7546073728089153

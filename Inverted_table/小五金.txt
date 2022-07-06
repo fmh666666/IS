@@ -1,2 +1,2 @@
 1
-data.zdbf.txt 3
+data.zdbf.txt 8.701275476034196

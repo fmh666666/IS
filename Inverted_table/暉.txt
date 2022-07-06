@@ -1,14 +1,14 @@
 13
-data.mu.txt 1
-data.zabe.txt 1
-data.zard.txt 1
-data.zbjq.txt 2
-data.zbkj.txt 1
-data.zbvg.txt 1
-data.zcic.txt 1
-data.zcjy.txt 1
-data.zcln.txt 1
-data.zeaj.txt 1
-data.zelj.txt 1
-data.zeqv.txt 2
-data.zfas.txt 1
+data.mu.txt 2.5727503226135906
+data.zabe.txt 2.5727503226135906
+data.zard.txt 2.5727503226135906
+data.zbjq.txt 4.077712785060798
+data.zbkj.txt 2.5727503226135906
+data.zbvg.txt 2.5727503226135906
+data.zcic.txt 2.5727503226135906
+data.zcjy.txt 2.5727503226135906
+data.zcln.txt 2.5727503226135906
+data.zeaj.txt 2.5727503226135906
+data.zelj.txt 2.5727503226135906
+data.zeqv.txt 4.077712785060798
+data.zfas.txt 2.5727503226135906

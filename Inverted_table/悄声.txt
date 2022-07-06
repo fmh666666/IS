@@ -1,4 +1,4 @@
 3
-data.zcoy.txt 1
-data.zdkp.txt 1
-data.zeqh.txt 1
+data.zcoy.txt 3.5891377275982888
+data.zdkp.txt 3.5891377275982888
+data.zeqh.txt 3.5891377275982888

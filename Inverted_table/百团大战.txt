@@ -1,9 +1,9 @@
 8
-data.dg.txt 2
-data.zajo.txt 1
-data.zass.txt 1
-data.zbia.txt 1
-data.zcao.txt 1
-data.zckd.txt 1
-data.zdux.txt 1
-data.zeds.txt 1
+data.dg.txt 4.611097637722987
+data.zajo.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zcao.txt 2.9092786962624935
+data.zckd.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zeds.txt 2.9092786962624935

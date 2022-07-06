@@ -1,14 +1,14 @@
 13
-data.cq.txt 1
-data.ev.txt 1
-data.zacw.txt 1
-data.zadv.txt 1
-data.zblr.txt 1
-data.zcjd.txt 1
-data.zcqp.txt 1
-data.zcxq.txt 1
-data.zdlo.txt 2
-data.zdnc.txt 1
-data.zehp.txt 1
-data.zfby.txt 1
-data.zfcg.txt 1
+data.cq.txt 2.5727503226135906
+data.ev.txt 2.5727503226135906
+data.zacw.txt 2.5727503226135906
+data.zadv.txt 2.5727503226135906
+data.zblr.txt 2.5727503226135906
+data.zcjd.txt 2.5727503226135906
+data.zcqp.txt 2.5727503226135906
+data.zcxq.txt 2.5727503226135906
+data.zdlo.txt 4.077712785060798
+data.zdnc.txt 2.5727503226135906
+data.zehp.txt 2.5727503226135906
+data.zfby.txt 2.5727503226135906
+data.zfcg.txt 2.5727503226135906

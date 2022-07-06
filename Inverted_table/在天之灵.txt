@@ -1,9 +1,9 @@
 8
-data.zajn.txt 1
-data.zcjd.txt 1
-data.zcjy.txt 1
-data.zcku.txt 1
-data.zdzn.txt 1
-data.zeec.txt 1
-data.zefw.txt 2
-data.zerv.txt 1
+data.zajn.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zcjy.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zdzn.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zefw.txt 4.611097637722987
+data.zerv.txt 2.9092786962624935

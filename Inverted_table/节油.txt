@@ -1,7 +1,7 @@
 6
-data.zbts.txt 15
-data.zbvm.txt 3
-data.zczl.txt 1
-data.zdeb.txt 3
-data.zeqn.txt 1
-data.zevy.txt 3
+data.zbts.txt 12.434738854720349
+data.zbvm.txt 6.2173694273601745
+data.zczl.txt 3.1086847136800873
+data.zdeb.txt 6.2173694273601745
+data.zeqn.txt 3.1086847136800873
+data.zevy.txt 6.2173694273601745

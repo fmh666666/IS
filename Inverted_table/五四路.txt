@@ -1,4 +1,4 @@
 3
-data.zasj.txt 1
-data.zbla.txt 7
-data.zccu.txt 4
+data.zasj.txt 3.5891377275982888
+data.zbla.txt 10.767413182794865
+data.zccu.txt 8.333719726130651

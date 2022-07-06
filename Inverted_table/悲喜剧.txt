@@ -1,5 +1,5 @@
 4
-data.co.txt 2
-data.hp.txt 2
-data.zbfz.txt 1
-data.zbvg.txt 1
+data.co.txt 5.372597648141796
+data.hp.txt 5.372597648141796
+data.zbfz.txt 3.389731710180695
+data.zbvg.txt 3.389731710180695

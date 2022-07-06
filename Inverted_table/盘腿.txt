@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.zabj.txt 1
-data.zass.txt 1
-data.zawz.txt 1
-data.zbil.txt 2
-data.zcdg.txt 1
-data.zelj.txt 2
-data.zelt.txt 1
+data.kt.txt 2.9092786962624935
+data.zabj.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zawz.txt 2.9092786962624935
+data.zbil.txt 4.611097637722987
+data.zcdg.txt 2.9092786962624935
+data.zelj.txt 4.611097637722987
+data.zelt.txt 2.9092786962624935

@@ -1,9 +1,9 @@
 8
-data.ev.txt 6
-data.ew.txt 1
-data.zbaq.txt 6
-data.zbxw.txt 1
-data.zctn.txt 10
-data.zedo.txt 7
-data.zefd.txt 1
-data.zexv.txt 1
+data.ev.txt 8.16737786758984
+data.ew.txt 2.9092786962624935
+data.zbaq.txt 8.16737786758984
+data.zbxw.txt 2.9092786962624935
+data.zctn.txt 10.064450709278365
+data.zedo.txt 8.72783608878748
+data.zefd.txt 2.9092786962624935
+data.zexv.txt 2.9092786962624935

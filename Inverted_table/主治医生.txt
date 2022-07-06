@@ -1,8 +1,8 @@
 7
-data.zair.txt 1
-data.zalm.txt 1
-data.zcfn.txt 1
-data.zcqs.txt 1
-data.zedo.txt 1
-data.zeqh.txt 2
-data.zete.txt 2
+data.zair.txt 3.0018356045764243
+data.zalm.txt 3.0018356045764243
+data.zcfn.txt 3.0018356045764243
+data.zcqs.txt 3.0018356045764243
+data.zedo.txt 3.0018356045764243
+data.zeqh.txt 4.757796866583254
+data.zete.txt 4.757796866583254

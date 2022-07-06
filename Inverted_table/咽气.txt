@@ -1,6 +1,6 @@
 5
-data.zcse.txt 1
-data.zduo.txt 1
-data.zelt.txt 1
-data.zenn.txt 1
-data.zeoh.txt 1
+data.zcse.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zelt.txt 3.235060386727117
+data.zenn.txt 3.235060386727117
+data.zeoh.txt 3.235060386727117

@@ -1,7 +1,7 @@
 6
-data.ry.txt 1
-data.zake.txt 1
-data.zbdb.txt 1
-data.zbkv.txt 2
-data.zcxq.txt 1
-data.zczp.txt 2
+data.ry.txt 3.1086847136800873
+data.zake.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbkv.txt 4.927148697748023
+data.zcxq.txt 3.1086847136800873
+data.zczp.txt 4.927148697748023

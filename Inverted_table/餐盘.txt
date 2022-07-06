@@ -1,9 +1,9 @@
 8
-data.zahd.txt 1
-data.zbgu.txt 1
-data.zbrj.txt 2
-data.zbzf.txt 1
-data.zctp.txt 3
-data.zdgt.txt 1
-data.zesq.txt 1
-data.zeta.txt 1
+data.zahd.txt 2.9092786962624935
+data.zbgu.txt 2.9092786962624935
+data.zbrj.txt 4.611097637722987
+data.zbzf.txt 2.9092786962624935
+data.zctp.txt 5.818557392524987
+data.zdgt.txt 2.9092786962624935
+data.zesq.txt 2.9092786962624935
+data.zeta.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.zbph.txt 1
-data.zbvf.txt 1
-data.zdpw.txt 3
+data.zbph.txt 3.5891377275982888
+data.zbvf.txt 3.5891377275982888
+data.zdpw.txt 7.1782754551965775

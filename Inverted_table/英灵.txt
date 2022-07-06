@@ -1,9 +1,9 @@
 8
-data.cf.txt 1
-data.nh.txt 1
-data.zarc.txt 3
-data.zddb.txt 1
-data.zdud.txt 1
-data.zdwv.txt 3
-data.zeoh.txt 1
-data.zfaj.txt 1
+data.cf.txt 2.9092786962624935
+data.nh.txt 2.9092786962624935
+data.zarc.txt 5.818557392524987
+data.zddb.txt 2.9092786962624935
+data.zdud.txt 2.9092786962624935
+data.zdwv.txt 5.818557392524987
+data.zeoh.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

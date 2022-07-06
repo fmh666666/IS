@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.op.txt 3
-data.zauy.txt 2
-data.zbvm.txt 1
-data.zcdy.txt 4
-data.zegk.txt 2
+data.fp.txt 3.1086847136800873
+data.op.txt 6.2173694273601745
+data.zauy.txt 4.927148697748023
+data.zbvm.txt 3.1086847136800873
+data.zcdy.txt 7.21814237484067
+data.zegk.txt 4.927148697748023

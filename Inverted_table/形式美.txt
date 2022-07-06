@@ -1,5 +1,5 @@
 4
-data.zabe.txt 1
-data.zapr.txt 1
-data.zcsu.txt 1
-data.zebn.txt 1
+data.zabe.txt 3.389731710180695
+data.zapr.txt 3.389731710180695
+data.zcsu.txt 3.389731710180695
+data.zebn.txt 3.389731710180695

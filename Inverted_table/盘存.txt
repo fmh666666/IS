@@ -1,4 +1,4 @@
 3
-data.hp.txt 6
-data.zchw.txt 1
-data.zcjy.txt 2
+data.hp.txt 10.0759834655157
+data.zchw.txt 3.5891377275982888
+data.zcjy.txt 5.688648708166832

@@ -1,9 +1,9 @@
 8
-data.zabx.txt 1
-data.zasj.txt 2
-data.zaxx.txt 1
-data.zbaf.txt 2
-data.zblr.txt 1
-data.zcku.txt 1
-data.zeai.txt 1
-data.zevt.txt 1
+data.zabx.txt 2.9092786962624935
+data.zasj.txt 4.611097637722987
+data.zaxx.txt 2.9092786962624935
+data.zbaf.txt 4.611097637722987
+data.zblr.txt 2.9092786962624935
+data.zcku.txt 2.9092786962624935
+data.zeai.txt 2.9092786962624935
+data.zevt.txt 2.9092786962624935

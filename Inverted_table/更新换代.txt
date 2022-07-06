@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.zauy.txt 1
-data.zbmt.txt 1
-data.zbwq.txt 1
-data.zcli.txt 1
-data.zcqg.txt 1
-data.zeag.txt 1
-data.zedo.txt 1
+data.ft.txt 2.9092786962624935
+data.zauy.txt 2.9092786962624935
+data.zbmt.txt 2.9092786962624935
+data.zbwq.txt 2.9092786962624935
+data.zcli.txt 2.9092786962624935
+data.zcqg.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

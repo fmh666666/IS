@@ -1,13 +1,13 @@
 12
-data.mx.txt 7
-data.tv.txt 1
-data.zadv.txt 1
-data.zasq.txt 1
-data.zbcv.txt 4
-data.zbsm.txt 1
-data.zbts.txt 1
-data.zbyb.txt 1
-data.zcln.txt 1
-data.zctn.txt 4
-data.zdoq.txt 1
-data.zeds.txt 1
+data.mx.txt 7.884695099285658
+data.tv.txt 2.628231699761886
+data.zadv.txt 2.628231699761886
+data.zasq.txt 2.628231699761886
+data.zbcv.txt 6.1025650235506905
+data.zbsm.txt 2.628231699761886
+data.zbts.txt 2.628231699761886
+data.zbyb.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zctn.txt 6.1025650235506905
+data.zdoq.txt 2.628231699761886
+data.zeds.txt 2.628231699761886

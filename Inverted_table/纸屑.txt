@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.zajh.txt 1
-data.zamp.txt 1
-data.zbfr.txt 3
-data.zbkv.txt 1
-data.zcak.txt 1
-data.zdtv.txt 1
-data.zebc.txt 1
+data.cq.txt 2.9092786962624935
+data.zajh.txt 2.9092786962624935
+data.zamp.txt 2.9092786962624935
+data.zbfr.txt 5.818557392524987
+data.zbkv.txt 2.9092786962624935
+data.zcak.txt 2.9092786962624935
+data.zdtv.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935

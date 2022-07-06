@@ -1,4 +1,4 @@
 3
-data.zalm.txt 1
-data.zdlm.txt 1
-data.zeyy.txt 1
+data.zalm.txt 3.5891377275982888
+data.zdlm.txt 3.5891377275982888
+data.zeyy.txt 3.5891377275982888

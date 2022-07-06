@@ -1,10 +1,10 @@
 9
-data.ng.txt 1
-data.op.txt 3
-data.pq.txt 1
-data.zawb.txt 1
-data.zbcc.txt 6
-data.zcfn.txt 2
-data.zcxq.txt 1
-data.zdby.txt 1
-data.zdrq.txt 1
+data.ng.txt 2.82763771717948
+data.op.txt 5.65527543435896
+data.pq.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbcc.txt 7.938182663119541
+data.zcfn.txt 4.48169974735425
+data.zcxq.txt 2.82763771717948
+data.zdby.txt 2.82763771717948
+data.zdrq.txt 2.82763771717948

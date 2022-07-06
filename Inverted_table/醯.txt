@@ -1,5 +1,5 @@
 4
-data.jf.txt 2
-data.zbmt.txt 4
-data.zctm.txt 2
-data.zewv.txt 2
+data.jf.txt 5.372597648141796
+data.zbmt.txt 7.870713291999142
+data.zctm.txt 5.372597648141796
+data.zewv.txt 5.372597648141796

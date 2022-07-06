@@ -1,13 +1,13 @@
 12
-data.tv.txt 1
-data.zafy.txt 1
-data.zair.txt 2
-data.zaqp.txt 1
-data.zbds.txt 1
-data.zbga.txt 1
-data.zbla.txt 1
-data.zbsm.txt 1
-data.zbux.txt 1
-data.zbyb.txt 1
-data.zcqp.txt 2
-data.zdzn.txt 1
+data.tv.txt 2.628231699761886
+data.zafy.txt 2.628231699761886
+data.zair.txt 4.165648687329214
+data.zaqp.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbga.txt 2.628231699761886
+data.zbla.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zbyb.txt 2.628231699761886
+data.zcqp.txt 4.165648687329214
+data.zdzn.txt 2.628231699761886

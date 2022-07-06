@@ -1,4 +1,4 @@
 3
-data.zcgi.txt 2
-data.zdhw.txt 4
-data.zdmw.txt 1
+data.zcgi.txt 5.688648708166832
+data.zdhw.txt 8.333719726130651
+data.zdmw.txt 3.5891377275982888

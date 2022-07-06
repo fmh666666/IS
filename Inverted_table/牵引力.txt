@@ -1,4 +1,4 @@
 3
-data.jf.txt 1
-data.zbjh.txt 1
-data.zbpm.txt 1
+data.jf.txt 3.5891377275982888
+data.zbjh.txt 3.5891377275982888
+data.zbpm.txt 3.5891377275982888

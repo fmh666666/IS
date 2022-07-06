@@ -1,7 +1,7 @@
 6
-data.ok.txt 1
-data.zbnx.txt 1
-data.zbut.txt 1
-data.zcdv.txt 1
-data.zdji.txt 1
-data.zedy.txt 1
+data.ok.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zbut.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zdji.txt 3.1086847136800873
+data.zedy.txt 3.1086847136800873

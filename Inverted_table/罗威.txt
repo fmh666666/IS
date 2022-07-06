@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.zbdb.txt 1
-data.zbdx.txt 1
-data.zchd.txt 1
-data.zcue.txt 1
-data.zdgo.txt 1
-data.zdod.txt 1
-data.zezm.txt 1
-data.zfdk.txt 1
+data.bs.txt 2.82763771717948
+data.zbdb.txt 2.82763771717948
+data.zbdx.txt 2.82763771717948
+data.zchd.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdgo.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zezm.txt 2.82763771717948
+data.zfdk.txt 2.82763771717948

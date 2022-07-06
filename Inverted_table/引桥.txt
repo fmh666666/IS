@@ -1,6 +1,6 @@
 5
-data.fp.txt 2
-data.zajo.txt 1
-data.zawc.txt 2
-data.zaxx.txt 1
-data.zcni.txt 1
+data.fp.txt 5.1274494005309625
+data.zajo.txt 3.235060386727117
+data.zawc.txt 5.1274494005309625
+data.zaxx.txt 3.235060386727117
+data.zcni.txt 3.235060386727117

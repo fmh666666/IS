@@ -1,4 +1,4 @@
 3
-data.zdkp.txt 1
-data.zdud.txt 1
-data.zdwk.txt 1
+data.zdkp.txt 3.5891377275982888
+data.zdud.txt 3.5891377275982888
+data.zdwk.txt 3.5891377275982888

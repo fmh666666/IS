@@ -1,4 +1,4 @@
 3
-data.zajo.txt 4
-data.zene.txt 4
-data.zenn.txt 1
+data.zajo.txt 8.333719726130651
+data.zene.txt 8.333719726130651
+data.zenn.txt 3.5891377275982888

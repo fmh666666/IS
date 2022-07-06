@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zegn.txt 1
-data.zfby.txt 1
+data.zabe.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888
+data.zfby.txt 3.5891377275982888

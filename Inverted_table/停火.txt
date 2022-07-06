@@ -1,6 +1,6 @@
 5
-data.zafu.txt 1
-data.zahd.txt 2
-data.zblr.txt 1
-data.zcqp.txt 1
-data.zfaj.txt 1
+data.zafu.txt 3.235060386727117
+data.zahd.txt 5.1274494005309625
+data.zblr.txt 3.235060386727117
+data.zcqp.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

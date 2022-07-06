@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.vi.txt 1
-data.zbvm.txt 1
-data.zcmy.txt 1
-data.zcue.txt 1
-data.zelt.txt 1
+data.ga.txt 3.1086847136800873
+data.vi.txt 3.1086847136800873
+data.zbvm.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

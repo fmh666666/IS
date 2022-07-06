@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.zajn.txt 1
-data.zbux.txt 1
-data.zcej.txt 2
-data.zcni.txt 2
-data.zctn.txt 3
-data.zdme.txt 2
-data.zeid.txt 1
-data.zess.txt 1
+data.op.txt 2.82763771717948
+data.zajn.txt 2.82763771717948
+data.zbux.txt 2.82763771717948
+data.zcej.txt 4.48169974735425
+data.zcni.txt 4.48169974735425
+data.zctn.txt 5.65527543435896
+data.zdme.txt 4.48169974735425
+data.zeid.txt 2.82763771717948
+data.zess.txt 2.82763771717948

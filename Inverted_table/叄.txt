@@ -1,4 +1,4 @@
 3
-data.ek.txt 1
-data.zail.txt 5
-data.zdxw.txt 1
+data.ek.txt 3.5891377275982888
+data.zail.txt 9.27778643576512
+data.zdxw.txt 3.5891377275982888

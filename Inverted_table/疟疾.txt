@@ -1,5 +1,5 @@
 4
-data.cq.txt 2
-data.zcqs.txt 1
-data.zdep.txt 1
-data.zfae.txt 2
+data.cq.txt 5.372597648141796
+data.zcqs.txt 3.389731710180695
+data.zdep.txt 3.389731710180695
+data.zfae.txt 5.372597648141796

@@ -1,5 +1,5 @@
 4
-data.mo.txt 1
-data.vi.txt 1
-data.zajo.txt 1
-data.zbga.txt 1
+data.mo.txt 3.389731710180695
+data.vi.txt 3.389731710180695
+data.zajo.txt 3.389731710180695
+data.zbga.txt 3.389731710180695

@@ -1,7 +1,7 @@
 6
-data.zbcj.txt 1
-data.zcon.txt 1
-data.zdlo.txt 1
-data.zduo.txt 1
-data.zdzm.txt 1
-data.zfcj.txt 1
+data.zbcj.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zdlo.txt 3.1086847136800873
+data.zduo.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

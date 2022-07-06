@@ -1,5 +1,5 @@
 4
-data.fe.txt 1
-data.zajo.txt 1
-data.zbla.txt 29
-data.zblq.txt 1
+data.fe.txt 3.389731710180695
+data.zajo.txt 3.389731710180695
+data.zbla.txt 16.633042650321634
+data.zblq.txt 3.389731710180695

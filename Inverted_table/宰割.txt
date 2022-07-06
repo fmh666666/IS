@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.hp.txt 1
-data.zaoo.txt 1
-data.zasr.txt 1
-data.zbkv.txt 1
-data.zbor.txt 2
-data.zbvm.txt 1
-data.zcon.txt 1
-data.zddb.txt 1
-data.zdgp.txt 1
-data.zeik.txt 1
-data.zerh.txt 1
+data.fp.txt 2.628231699761886
+data.hp.txt 2.628231699761886
+data.zaoo.txt 2.628231699761886
+data.zasr.txt 2.628231699761886
+data.zbkv.txt 2.628231699761886
+data.zbor.txt 4.165648687329214
+data.zbvm.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdgp.txt 2.628231699761886
+data.zeik.txt 2.628231699761886
+data.zerh.txt 2.628231699761886

@@ -1,6 +1,6 @@
 5
-data.zaqf.txt 3
-data.zdqz.txt 1
-data.zemf.txt 2
-data.zeyg.txt 1
-data.zfbr.txt 1
+data.zaqf.txt 6.470120773454234
+data.zdqz.txt 3.235060386727117
+data.zemf.txt 5.1274494005309625
+data.zeyg.txt 3.235060386727117
+data.zfbr.txt 3.235060386727117

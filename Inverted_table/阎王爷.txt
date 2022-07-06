@@ -1,4 +1,4 @@
 3
-data.zayc.txt 1
-data.zbot.txt 1
-data.zdyv.txt 1
+data.zayc.txt 3.5891377275982888
+data.zbot.txt 3.5891377275982888
+data.zdyv.txt 3.5891377275982888

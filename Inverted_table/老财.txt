@@ -1,7 +1,7 @@
 6
-data.zbkr.txt 1
-data.zcdy.txt 1
-data.zcvq.txt 1
-data.zdwz.txt 1
-data.zedy.txt 2
-data.zene.txt 1
+data.zbkr.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcvq.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873
+data.zedy.txt 4.927148697748023
+data.zene.txt 3.1086847136800873

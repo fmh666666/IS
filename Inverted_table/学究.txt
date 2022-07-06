@@ -1,4 +1,4 @@
 3
-data.cz.txt 1
-data.zafl.txt 1
-data.zatz.txt 1
+data.cz.txt 3.5891377275982888
+data.zafl.txt 3.5891377275982888
+data.zatz.txt 3.5891377275982888

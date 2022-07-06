@@ -1,10 +1,10 @@
 9
-data.gk.txt 2
-data.hc.txt 1
-data.xe.txt 1
-data.zbaf.txt 1
-data.zbuj.txt 1
-data.zcem.txt 1
-data.zcxp.txt 1
-data.zefv.txt 6
-data.zeik.txt 17
+data.gk.txt 4.48169974735425
+data.hc.txt 2.82763771717948
+data.xe.txt 2.82763771717948
+data.zbaf.txt 2.82763771717948
+data.zbuj.txt 2.82763771717948
+data.zcem.txt 2.82763771717948
+data.zcxp.txt 2.82763771717948
+data.zefv.txt 7.938182663119541
+data.zeik.txt 11.79103721188798

@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zalt.txt 1
-data.zcql.txt 2
-data.zdyv.txt 1
-data.zdzi.txt 1
+data.zadv.txt 3.235060386727117
+data.zalt.txt 3.235060386727117
+data.zcql.txt 5.1274494005309625
+data.zdyv.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117

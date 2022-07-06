@@ -1,5 +1,5 @@
 4
-data.zaub.txt 3
-data.zawb.txt 1
-data.zcvt.txt 1
-data.zdmw.txt 3
+data.zaub.txt 6.77946342036139
+data.zawb.txt 3.389731710180695
+data.zcvt.txt 3.389731710180695
+data.zdmw.txt 6.77946342036139

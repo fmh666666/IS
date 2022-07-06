@@ -1,10 +1,10 @@
 9
-data.en.txt 1
-data.kt.txt 1
-data.zake.txt 1
-data.zako.txt 1
-data.zbhd.txt 1
-data.zcue.txt 1
-data.zdst.txt 1
-data.zdwn.txt 2
-data.zeec.txt 1
+data.en.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zake.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbhd.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zdst.txt 2.82763771717948
+data.zdwn.txt 4.48169974735425
+data.zeec.txt 2.82763771717948

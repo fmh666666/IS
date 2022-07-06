@@ -1,7 +1,7 @@
 6
-data.zbfx.txt 1
-data.zbfz.txt 1
-data.zdji.txt 1
-data.zerh.txt 2
-data.zevl.txt 1
-data.zezf.txt 1
+data.zbfx.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zdji.txt 3.1086847136800873
+data.zerh.txt 4.927148697748023
+data.zevl.txt 3.1086847136800873
+data.zezf.txt 3.1086847136800873

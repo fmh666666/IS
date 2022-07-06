@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.zawu.txt 1
-data.zbkv.txt 1
-data.zbsm.txt 1
-data.zcdy.txt 2
-data.zcts.txt 1
-data.zdlg.txt 1
-data.zezy.txt 1
-data.zfcg.txt 1
+data.gw.txt 2.82763771717948
+data.zawu.txt 2.82763771717948
+data.zbkv.txt 2.82763771717948
+data.zbsm.txt 2.82763771717948
+data.zcdy.txt 4.48169974735425
+data.zcts.txt 2.82763771717948
+data.zdlg.txt 2.82763771717948
+data.zezy.txt 2.82763771717948
+data.zfcg.txt 2.82763771717948

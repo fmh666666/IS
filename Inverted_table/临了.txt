@@ -1,9 +1,9 @@
 8
-data.ye.txt 1
-data.zabe.txt 3
-data.zacw.txt 2
-data.zcgi.txt 1
-data.zcql.txt 1
-data.zdfl.txt 1
-data.zdlg.txt 2
-data.zeyg.txt 1
+data.ye.txt 2.9092786962624935
+data.zabe.txt 5.818557392524987
+data.zacw.txt 4.611097637722987
+data.zcgi.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdfl.txt 2.9092786962624935
+data.zdlg.txt 4.611097637722987
+data.zeyg.txt 2.9092786962624935

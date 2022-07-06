@@ -1,9 +1,9 @@
 8
-data.zalj.txt 1
-data.zaun.txt 2
-data.zbwq.txt 1
-data.zcpa.txt 1
-data.zdkk.txt 1
-data.zdxw.txt 1
-data.zenw.txt 1
-data.zfcj.txt 1
+data.zalj.txt 2.9092786962624935
+data.zaun.txt 4.611097637722987
+data.zbwq.txt 2.9092786962624935
+data.zcpa.txt 2.9092786962624935
+data.zdkk.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935
+data.zfcj.txt 2.9092786962624935

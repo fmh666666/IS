@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.zbmw.txt 1
-data.zcpb.txt 1
-data.zdpw.txt 1
-data.zeac.txt 1
-data.zeel.txt 1
-data.zegn.txt 1
-data.zeik.txt 1
-data.zerw.txt 1
+data.cq.txt 2.82763771717948
+data.zbmw.txt 2.82763771717948
+data.zcpb.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zeac.txt 2.82763771717948
+data.zeel.txt 2.82763771717948
+data.zegn.txt 2.82763771717948
+data.zeik.txt 2.82763771717948
+data.zerw.txt 2.82763771717948

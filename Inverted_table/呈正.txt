@@ -1,5 +1,5 @@
 4
-data.zarr.txt 1
-data.zcse.txt 1
-data.zdaq.txt 1
-data.zdou.txt 1
+data.zarr.txt 3.389731710180695
+data.zcse.txt 3.389731710180695
+data.zdaq.txt 3.389731710180695
+data.zdou.txt 3.389731710180695

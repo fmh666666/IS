@@ -1,4 +1,4 @@
 3
-data.fp.txt 4
-data.zawb.txt 3
-data.zawc.txt 5
+data.fp.txt 8.333719726130651
+data.zawb.txt 7.1782754551965775
+data.zawc.txt 9.27778643576512

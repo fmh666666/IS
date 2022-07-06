@@ -1,11 +1,11 @@
 10
-data.tv.txt 1
-data.vm.txt 1
-data.zafy.txt 1
-data.zcee.txt 1
-data.zcfx.txt 1
-data.zcmv.txt 1
-data.zddv.txt 2
-data.zdib.txt 1
-data.zeag.txt 1
-data.zeai.txt 1
+data.tv.txt 2.7546073728089153
+data.vm.txt 2.7546073728089153
+data.zafy.txt 2.7546073728089153
+data.zcee.txt 2.7546073728089153
+data.zcfx.txt 2.7546073728089153
+data.zcmv.txt 2.7546073728089153
+data.zddv.txt 4.365949390112154
+data.zdib.txt 2.7546073728089153
+data.zeag.txt 2.7546073728089153
+data.zeai.txt 2.7546073728089153

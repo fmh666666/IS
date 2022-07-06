@@ -1,6 +1,6 @@
 5
-data.zard.txt 1
-data.zbor.txt 1
-data.zbpp.txt 1
-data.zcsu.txt 3
-data.zfaj.txt 1
+data.zard.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zbpp.txt 3.235060386727117
+data.zcsu.txt 6.470120773454234
+data.zfaj.txt 3.235060386727117

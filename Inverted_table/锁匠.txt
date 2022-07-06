@@ -1,4 +1,4 @@
 3
-data.zbsu.txt 1
-data.zbzf.txt 1
-data.zegn.txt 1
+data.zbsu.txt 3.5891377275982888
+data.zbzf.txt 3.5891377275982888
+data.zegn.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.mo.txt 1
-data.qb.txt 2
-data.zbfz.txt 1
-data.zcjo.txt 1
-data.zdpw.txt 1
-data.zeaf.txt 1
+data.mo.txt 3.1086847136800873
+data.qb.txt 4.927148697748023
+data.zbfz.txt 3.1086847136800873
+data.zcjo.txt 3.1086847136800873
+data.zdpw.txt 3.1086847136800873
+data.zeaf.txt 3.1086847136800873

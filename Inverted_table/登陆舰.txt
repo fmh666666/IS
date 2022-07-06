@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zbel.txt 2
-data.zbsm.txt 1
-data.zbwq.txt 1
-data.zfai.txt 1
+data.zawb.txt 3.235060386727117
+data.zbel.txt 5.1274494005309625
+data.zbsm.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

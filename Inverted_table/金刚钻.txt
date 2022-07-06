@@ -1,6 +1,6 @@
 5
-data.zank.txt 1
-data.zbor.txt 1
-data.zcjo.txt 1
-data.zdmw.txt 1
-data.zezy.txt 1
+data.zank.txt 3.235060386727117
+data.zbor.txt 3.235060386727117
+data.zcjo.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zezy.txt 3.235060386727117

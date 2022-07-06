@@ -1,9 +1,9 @@
 8
-data.mt.txt 1
-data.ud.txt 1
-data.yx.txt 2
-data.zaej.txt 1
-data.zayd.txt 1
-data.zbor.txt 1
-data.zcrv.txt 1
-data.zdaq.txt 1
+data.mt.txt 2.9092786962624935
+data.ud.txt 2.9092786962624935
+data.yx.txt 4.611097637722987
+data.zaej.txt 2.9092786962624935
+data.zayd.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zcrv.txt 2.9092786962624935
+data.zdaq.txt 2.9092786962624935

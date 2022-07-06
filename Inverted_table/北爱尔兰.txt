@@ -1,9 +1,9 @@
 8
-data.zbha.txt 1
-data.zbia.txt 1
-data.zbkf.txt 1
-data.zbwa.txt 1
-data.zdgo.txt 1
-data.zeik.txt 1
-data.zeoh.txt 1
-data.zeqv.txt 1
+data.zbha.txt 2.9092786962624935
+data.zbia.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zbwa.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zeik.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

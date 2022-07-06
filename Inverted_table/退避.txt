@@ -1,6 +1,6 @@
 5
-data.zbla.txt 1
-data.zbpm.txt 1
-data.zcdv.txt 1
-data.zdcy.txt 1
-data.zegn.txt 1
+data.zbla.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zcdv.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zegn.txt 3.235060386727117

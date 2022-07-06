@@ -1,5 +1,5 @@
 4
-data.zajh.txt 1
-data.zcrk.txt 1
-data.zdud.txt 1
-data.zdwk.txt 1
+data.zajh.txt 3.389731710180695
+data.zcrk.txt 3.389731710180695
+data.zdud.txt 3.389731710180695
+data.zdwk.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.zalm.txt 1
-data.zapl.txt 1
-data.zcnn.txt 1
-data.zdaq.txt 1
-data.zerh.txt 1
+data.zalm.txt 3.235060386727117
+data.zapl.txt 3.235060386727117
+data.zcnn.txt 3.235060386727117
+data.zdaq.txt 3.235060386727117
+data.zerh.txt 3.235060386727117

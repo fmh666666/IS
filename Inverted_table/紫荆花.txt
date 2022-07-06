@@ -1,10 +1,10 @@
 9
-data.bb.txt 1
-data.zabe.txt 1
-data.zail.txt 1
-data.zbgd.txt 1
-data.zcgo.txt 1
-data.zdgo.txt 3
-data.zdlo.txt 2
-data.zeec.txt 1
-data.zewg.txt 1
+data.bb.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zail.txt 2.82763771717948
+data.zbgd.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zdgo.txt 5.65527543435896
+data.zdlo.txt 4.48169974735425
+data.zeec.txt 2.82763771717948
+data.zewg.txt 2.82763771717948

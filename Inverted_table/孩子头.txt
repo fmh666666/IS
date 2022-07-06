@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zawb.txt 1
-data.zbfz.txt 1
-data.zbot.txt 1
-data.zbta.txt 1
+data.pa.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zbot.txt 3.235060386727117
+data.zbta.txt 3.235060386727117

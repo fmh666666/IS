@@ -1,4 +1,4 @@
 3
-data.zddm.txt 1
-data.zdud.txt 1
-data.zewg.txt 4
+data.zddm.txt 3.5891377275982888
+data.zdud.txt 3.5891377275982888
+data.zewg.txt 8.333719726130651

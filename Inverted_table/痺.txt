@@ -1,10 +1,10 @@
 9
-data.fj.txt 1
-data.zalc.txt 1
-data.zall.txt 2
-data.zbcj.txt 1
-data.zbeb.txt 2
-data.zcqe.txt 1
-data.zdkv.txt 3
-data.zdxw.txt 1
-data.zeag.txt 1
+data.fj.txt 2.82763771717948
+data.zalc.txt 2.82763771717948
+data.zall.txt 4.48169974735425
+data.zbcj.txt 2.82763771717948
+data.zbeb.txt 4.48169974735425
+data.zcqe.txt 2.82763771717948
+data.zdkv.txt 5.65527543435896
+data.zdxw.txt 2.82763771717948
+data.zeag.txt 2.82763771717948

@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zcue.txt 1
-data.zehb.txt 1
-data.zeta.txt 1
-data.zfby.txt 1
+data.zawb.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zehb.txt 3.235060386727117
+data.zeta.txt 3.235060386727117
+data.zfby.txt 3.235060386727117

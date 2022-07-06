@@ -1,8 +1,8 @@
 7
-data.ee.txt 1
-data.mi.txt 1
-data.zacp.txt 1
-data.zasy.txt 1
-data.zdgv.txt 3
-data.zdkp.txt 1
-data.zdzm.txt 1
+data.ee.txt 3.0018356045764243
+data.mi.txt 3.0018356045764243
+data.zacp.txt 3.0018356045764243
+data.zasy.txt 3.0018356045764243
+data.zdgv.txt 6.003671209152849
+data.zdkp.txt 3.0018356045764243
+data.zdzm.txt 3.0018356045764243

@@ -1,4 +1,4 @@
 3
-data.zafi.txt 1
-data.zagr.txt 1
-data.zegl.txt 1
+data.zafi.txt 3.5891377275982888
+data.zagr.txt 3.5891377275982888
+data.zegl.txt 3.5891377275982888

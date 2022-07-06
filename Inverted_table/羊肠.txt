@@ -1,4 +1,4 @@
 3
-data.zccu.txt 1
-data.zcgo.txt 1
-data.zczl.txt 1
+data.zccu.txt 3.5891377275982888
+data.zcgo.txt 3.5891377275982888
+data.zczl.txt 3.5891377275982888

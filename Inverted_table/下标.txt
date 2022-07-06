@@ -1,4 +1,4 @@
 3
-data.zbia.txt 1
-data.zcdz.txt 1
-data.zdey.txt 1
+data.zbia.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zdey.txt 3.5891377275982888

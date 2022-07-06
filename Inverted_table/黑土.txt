@@ -1,8 +1,8 @@
 7
-data.zauy.txt 1
-data.zazx.txt 1
-data.zbfp.txt 1
-data.zdhv.txt 1
-data.zeta.txt 1
-data.zeve.txt 1
-data.zevq.txt 1
+data.zauy.txt 3.0018356045764243
+data.zazx.txt 3.0018356045764243
+data.zbfp.txt 3.0018356045764243
+data.zdhv.txt 3.0018356045764243
+data.zeta.txt 3.0018356045764243
+data.zeve.txt 3.0018356045764243
+data.zevq.txt 3.0018356045764243

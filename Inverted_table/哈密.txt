@@ -1,12 +1,12 @@
 11
-data.xe.txt 1
-data.zagr.txt 1
-data.zbel.txt 1
-data.zbia.txt 3
-data.zcda.txt 1
-data.zcee.txt 2
-data.zdqq.txt 1
-data.zdwk.txt 1
-data.zeid.txt 1
-data.zenn.txt 1
-data.zewn.txt 1
+data.xe.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zbel.txt 2.6885433903988862
+data.zbia.txt 5.3770867807977725
+data.zcda.txt 2.6885433903988862
+data.zcee.txt 4.261240455343955
+data.zdqq.txt 2.6885433903988862
+data.zdwk.txt 2.6885433903988862
+data.zeid.txt 2.6885433903988862
+data.zenn.txt 2.6885433903988862
+data.zewn.txt 2.6885433903988862

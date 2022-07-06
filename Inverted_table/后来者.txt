@@ -1,10 +1,10 @@
 9
-data.hc.txt 1
-data.pa.txt 1
-data.ud.txt 1
-data.zazw.txt 1
-data.zcon.txt 1
-data.zcsu.txt 1
-data.zdle.txt 1
-data.zdzi.txt 1
-data.zeik.txt 1
+data.hc.txt 2.82763771717948
+data.pa.txt 2.82763771717948
+data.ud.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zcon.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zdle.txt 2.82763771717948
+data.zdzi.txt 2.82763771717948
+data.zeik.txt 2.82763771717948

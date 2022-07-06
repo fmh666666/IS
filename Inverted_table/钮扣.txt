@@ -1,9 +1,9 @@
 8
-data.mt.txt 1
-data.tj.txt 2
-data.zbel.txt 2
-data.zctm.txt 1
-data.zcxp.txt 2
-data.zczl.txt 1
-data.zdnc.txt 1
-data.zedo.txt 1
+data.mt.txt 2.9092786962624935
+data.tj.txt 4.611097637722987
+data.zbel.txt 4.611097637722987
+data.zctm.txt 2.9092786962624935
+data.zcxp.txt 4.611097637722987
+data.zczl.txt 2.9092786962624935
+data.zdnc.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935

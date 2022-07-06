@@ -1,7 +1,7 @@
 6
-data.zacd.txt 4
-data.zasr.txt 1
-data.zcln.txt 1
-data.zcnn.txt 2
-data.zdud.txt 6
-data.zebc.txt 1
+data.zacd.txt 7.21814237484067
+data.zasr.txt 3.1086847136800873
+data.zcln.txt 3.1086847136800873
+data.zcnn.txt 4.927148697748023
+data.zdud.txt 8.727181332075027
+data.zebc.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.zawc.txt 2
-data.zbrj.txt 1
-data.zbxw.txt 1
-data.zdgv.txt 1
+data.zawc.txt 5.372597648141796
+data.zbrj.txt 3.389731710180695
+data.zbxw.txt 3.389731710180695
+data.zdgv.txt 3.389731710180695

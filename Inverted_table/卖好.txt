@@ -1,9 +1,9 @@
 8
-data.ga.txt 1
-data.op.txt 1
-data.zblq.txt 1
-data.zbvf.txt 1
-data.zcon.txt 1
-data.zdkc.txt 1
-data.zdof.txt 1
-data.zeaj.txt 1
+data.ga.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zblq.txt 2.9092786962624935
+data.zbvf.txt 2.9092786962624935
+data.zcon.txt 2.9092786962624935
+data.zdkc.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zeaj.txt 2.9092786962624935

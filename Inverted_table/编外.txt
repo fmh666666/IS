@@ -1,6 +1,6 @@
 5
-data.yx.txt 1
-data.zbbt.txt 1
-data.zcue.txt 1
-data.zenn.txt 1
-data.zezm.txt 1
+data.yx.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zcue.txt 3.235060386727117
+data.zenn.txt 3.235060386727117
+data.zezm.txt 3.235060386727117

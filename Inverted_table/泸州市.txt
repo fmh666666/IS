@@ -1,4 +1,4 @@
 3
-data.hp.txt 2
-data.zefd.txt 1
-data.zeyg.txt 2
+data.hp.txt 5.688648708166832
+data.zefd.txt 3.5891377275982888
+data.zeyg.txt 5.688648708166832

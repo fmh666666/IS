@@ -1,12 +1,12 @@
 11
-data.bs.txt 1
-data.dg.txt 1
-data.jf.txt 4
-data.zalm.txt 1
-data.zaoo.txt 2
-data.zblr.txt 1
-data.zbsd.txt 1
-data.zcko.txt 4
-data.zcpx.txt 1
-data.zcvt.txt 1
-data.zczp.txt 1
+data.bs.txt 2.6885433903988862
+data.dg.txt 2.6885433903988862
+data.jf.txt 6.2426044324908965
+data.zalm.txt 2.6885433903988862
+data.zaoo.txt 4.261240455343955
+data.zblr.txt 2.6885433903988862
+data.zbsd.txt 2.6885433903988862
+data.zcko.txt 6.2426044324908965
+data.zcpx.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862

@@ -1,4 +1,4 @@
 3
-data.zdyv.txt 2
-data.zeos.txt 1
-data.zfdk.txt 1
+data.zdyv.txt 5.688648708166832
+data.zeos.txt 3.5891377275982888
+data.zfdk.txt 3.5891377275982888

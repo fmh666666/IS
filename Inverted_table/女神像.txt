@@ -1,7 +1,7 @@
 6
-data.zbfz.txt 1
-data.zbzo.txt 1
-data.zcsu.txt 2
-data.zdlo.txt 1
-data.zedo.txt 1
-data.zefd.txt 1
+data.zbfz.txt 3.1086847136800873
+data.zbzo.txt 3.1086847136800873
+data.zcsu.txt 4.927148697748023
+data.zdlo.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zefd.txt 3.1086847136800873

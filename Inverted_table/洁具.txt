@@ -1,2 +1,2 @@
 1
-data.zdji.txt 4
+data.zdji.txt 10.101867994579104

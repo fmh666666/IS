@@ -1,2 +1,2 @@
 1
-data.zcgi.txt 1
+data.zcgi.txt 4.350637738017098

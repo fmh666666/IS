@@ -1,12 +1,12 @@
 11
-data.kt.txt 1
-data.mx.txt 1
-data.zajo.txt 1
-data.zaqr.txt 1
-data.zblq.txt 1
-data.zbvf.txt 1
-data.zckd.txt 2
-data.zcmy.txt 1
-data.zcon.txt 1
-data.zcpb.txt 1
-data.zddp.txt 1
+data.kt.txt 2.6885433903988862
+data.mx.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zaqr.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zbvf.txt 2.6885433903988862
+data.zckd.txt 4.261240455343955
+data.zcmy.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcpb.txt 2.6885433903988862
+data.zddp.txt 2.6885433903988862

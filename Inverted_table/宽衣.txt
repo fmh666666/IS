@@ -1,12 +1,12 @@
 11
-data.ha.txt 1
-data.zbbt.txt 1
-data.zbga.txt 1
-data.zbgd.txt 1
-data.zbsm.txt 1
-data.zcjd.txt 2
-data.zdll.txt 1
-data.zeai.txt 1
-data.zeam.txt 1
-data.zebf.txt 1
-data.zevy.txt 1
+data.ha.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbga.txt 2.6885433903988862
+data.zbgd.txt 2.6885433903988862
+data.zbsm.txt 2.6885433903988862
+data.zcjd.txt 4.261240455343955
+data.zdll.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zeam.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zevy.txt 2.6885433903988862

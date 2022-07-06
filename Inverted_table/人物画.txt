@@ -1,7 +1,7 @@
 6
-data.zajo.txt 4
-data.zamr.txt 1
-data.zbcc.txt 1
-data.zblq.txt 1
-data.zcem.txt 1
-data.zcrg.txt 1
+data.zajo.txt 7.21814237484067
+data.zamr.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873
+data.zblq.txt 3.1086847136800873
+data.zcem.txt 3.1086847136800873
+data.zcrg.txt 3.1086847136800873

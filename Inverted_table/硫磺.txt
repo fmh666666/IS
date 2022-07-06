@@ -1,13 +1,13 @@
 12
-data.nh.txt 1
-data.zaet.txt 1
-data.zcqs.txt 2
-data.zcse.txt 5
-data.zcue.txt 3
-data.zczj.txt 1
-data.zczl.txt 1
-data.zddb.txt 2
-data.zdil.txt 1
-data.zeeq.txt 1
-data.zejn.txt 1
-data.zeoo.txt 1
+data.nh.txt 2.628231699761886
+data.zaet.txt 2.628231699761886
+data.zcqs.txt 4.165648687329214
+data.zcse.txt 6.7938803870911
+data.zcue.txt 5.256463399523772
+data.zczj.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zddb.txt 4.165648687329214
+data.zdil.txt 2.628231699761886
+data.zeeq.txt 2.628231699761886
+data.zejn.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886

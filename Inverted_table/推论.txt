@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zbel.txt 1
-data.zbjq.txt 1
-data.zcgo.txt 1
-data.zcrk.txt 1
-data.zebn.txt 2
-data.zfaj.txt 2
-data.zfdk.txt 1
+data.gw.txt 2.9092786962624935
+data.zbel.txt 2.9092786962624935
+data.zbjq.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zcrk.txt 2.9092786962624935
+data.zebn.txt 4.611097637722987
+data.zfaj.txt 4.611097637722987
+data.zfdk.txt 2.9092786962624935

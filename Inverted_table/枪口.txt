@@ -1,13 +1,13 @@
 12
-data.fp.txt 1
-data.ha.txt 2
-data.zagb.txt 1
-data.zaoc.txt 1
-data.zbjk.txt 1
-data.zbpx.txt 1
-data.zbrd.txt 1
-data.zdar.txt 1
-data.zdcj.txt 1
-data.zdhv.txt 1
-data.zdkc.txt 3
-data.zfas.txt 1
+data.fp.txt 2.628231699761886
+data.ha.txt 4.165648687329214
+data.zagb.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zbjk.txt 2.628231699761886
+data.zbpx.txt 2.628231699761886
+data.zbrd.txt 2.628231699761886
+data.zdar.txt 2.628231699761886
+data.zdcj.txt 2.628231699761886
+data.zdhv.txt 2.628231699761886
+data.zdkc.txt 5.256463399523772
+data.zfas.txt 2.628231699761886

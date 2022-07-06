@@ -1,7 +1,7 @@
 6
-data.zabe.txt 2
-data.zbdx.txt 1
-data.zczb.txt 1
-data.zdou.txt 1
-data.zejk.txt 1
-data.zfaj.txt 2
+data.zabe.txt 4.927148697748023
+data.zbdx.txt 3.1086847136800873
+data.zczb.txt 3.1086847136800873
+data.zdou.txt 3.1086847136800873
+data.zejk.txt 3.1086847136800873
+data.zfaj.txt 4.927148697748023

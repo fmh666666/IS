@@ -1,6 +1,6 @@
 5
-data.zalc.txt 1
-data.zaop.txt 1
-data.zegl.txt 1
-data.zegn.txt 1
-data.zesi.txt 2
+data.zalc.txt 3.235060386727117
+data.zaop.txt 3.235060386727117
+data.zegl.txt 3.235060386727117
+data.zegn.txt 3.235060386727117
+data.zesi.txt 5.1274494005309625

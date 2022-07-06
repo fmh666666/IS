@@ -1,7 +1,7 @@
 6
-data.zasd.txt 1
-data.zcdy.txt 1
-data.zcef.txt 1
-data.zcqs.txt 1
-data.zduk.txt 1
-data.zess.txt 1
+data.zasd.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcef.txt 3.1086847136800873
+data.zcqs.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873

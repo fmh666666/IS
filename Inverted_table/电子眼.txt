@@ -1,10 +1,10 @@
 9
-data.by.txt 1
-data.fz.txt 3
-data.hz.txt 1
-data.pa.txt 3
-data.zbtj.txt 1
-data.zeun.txt 1
-data.zevl.txt 1
-data.zexv.txt 1
-data.zfaj.txt 2
+data.by.txt 2.82763771717948
+data.fz.txt 5.65527543435896
+data.hz.txt 2.82763771717948
+data.pa.txt 5.65527543435896
+data.zbtj.txt 2.82763771717948
+data.zeun.txt 2.82763771717948
+data.zevl.txt 2.82763771717948
+data.zexv.txt 2.82763771717948
+data.zfaj.txt 4.48169974735425

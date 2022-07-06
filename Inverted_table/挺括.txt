@@ -1,4 +1,4 @@
 3
-data.zaim.txt 1
-data.zblr.txt 2
-data.zcem.txt 1
+data.zaim.txt 3.5891377275982888
+data.zblr.txt 5.688648708166832
+data.zcem.txt 3.5891377275982888

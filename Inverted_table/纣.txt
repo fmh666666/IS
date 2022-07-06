@@ -1,5 +1,5 @@
 4
-data.bs.txt 1
-data.zadv.txt 3
-data.zevt.txt 2
-data.zexk.txt 1
+data.bs.txt 3.389731710180695
+data.zadv.txt 6.77946342036139
+data.zevt.txt 5.372597648141796
+data.zexk.txt 3.389731710180695

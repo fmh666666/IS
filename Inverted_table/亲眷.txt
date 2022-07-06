@@ -1,4 +1,4 @@
 3
-data.zaxj.txt 1
-data.zcdv.txt 4
-data.zdlo.txt 1
+data.zaxj.txt 3.5891377275982888
+data.zcdv.txt 8.333719726130651
+data.zdlo.txt 3.5891377275982888

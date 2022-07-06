@@ -1,6 +1,6 @@
 5
-data.mx.txt 1
-data.zbwq.txt 1
-data.zdwn.txt 1
-data.zedk.txt 4
-data.zeob.txt 1
+data.mx.txt 3.235060386727117
+data.zbwq.txt 3.235060386727117
+data.zdwn.txt 3.235060386727117
+data.zedk.txt 7.511577600598868
+data.zeob.txt 3.235060386727117

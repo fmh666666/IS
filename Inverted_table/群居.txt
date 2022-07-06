@@ -1,12 +1,12 @@
 11
-data.cq.txt 1
-data.ew.txt 1
-data.pa.txt 1
-data.zabe.txt 1
-data.zabx.txt 1
-data.zacw.txt 1
-data.zapl.txt 1
-data.zbpc.txt 1
-data.zbup.txt 1
-data.zccl.txt 1
-data.zctp.txt 1
+data.cq.txt 2.6885433903988862
+data.ew.txt 2.6885433903988862
+data.pa.txt 2.6885433903988862
+data.zabe.txt 2.6885433903988862
+data.zabx.txt 2.6885433903988862
+data.zacw.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zbpc.txt 2.6885433903988862
+data.zbup.txt 2.6885433903988862
+data.zccl.txt 2.6885433903988862
+data.zctp.txt 2.6885433903988862

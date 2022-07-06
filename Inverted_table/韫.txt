@@ -1,13 +1,13 @@
 12
-data.aj.txt 1
-data.zawb.txt 1
-data.zawc.txt 2
-data.zaxj.txt 1
-data.zazn.txt 1
-data.zazo.txt 1
-data.zbpc.txt 1
-data.zcdy.txt 1
-data.zdgt.txt 1
-data.zdlm.txt 1
-data.zeqh.txt 6
-data.zexm.txt 1
+data.aj.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zawc.txt 4.165648687329214
+data.zaxj.txt 2.628231699761886
+data.zazn.txt 2.628231699761886
+data.zazo.txt 2.628231699761886
+data.zbpc.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zdlm.txt 2.628231699761886
+data.zeqh.txt 7.378379198634354
+data.zexm.txt 2.628231699761886

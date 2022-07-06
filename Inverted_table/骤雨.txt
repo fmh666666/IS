@@ -1,12 +1,12 @@
 11
-data.zake.txt 1
-data.zawz.txt 1
-data.zaxk.txt 1
-data.zbkf.txt 1
-data.zbkv.txt 1
-data.zdkc.txt 1
-data.zdoq.txt 1
-data.zdqq.txt 1
-data.zdro.txt 1
-data.zebf.txt 1
-data.zeoh.txt 2
+data.zake.txt 2.6885433903988862
+data.zawz.txt 2.6885433903988862
+data.zaxk.txt 2.6885433903988862
+data.zbkf.txt 2.6885433903988862
+data.zbkv.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zdqq.txt 2.6885433903988862
+data.zdro.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zeoh.txt 4.261240455343955

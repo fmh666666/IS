@@ -1,7 +1,7 @@
 6
-data.zcgo.txt 1
-data.zdib.txt 1
-data.zdlm.txt 1
-data.zdzm.txt 1
-data.zeam.txt 1
-data.zefp.txt 1
+data.zcgo.txt 3.1086847136800873
+data.zdib.txt 3.1086847136800873
+data.zdlm.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zeam.txt 3.1086847136800873
+data.zefp.txt 3.1086847136800873

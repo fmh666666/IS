@@ -1,4 +1,4 @@
 3
-data.zaxx.txt 1
-data.zbsl.txt 1
-data.zclm.txt 1
+data.zaxx.txt 3.5891377275982888
+data.zbsl.txt 3.5891377275982888
+data.zclm.txt 3.5891377275982888

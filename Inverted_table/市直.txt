@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.op.txt 1
-data.zctp.txt 1
-data.zcxr.txt 1
-data.zfaw.txt 1
+data.hp.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zcxr.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

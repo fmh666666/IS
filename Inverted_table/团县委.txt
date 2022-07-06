@@ -1,4 +1,4 @@
 3
-data.dg.txt 1
-data.zdvl.txt 1
-data.zfdk.txt 1
+data.dg.txt 3.5891377275982888
+data.zdvl.txt 3.5891377275982888
+data.zfdk.txt 3.5891377275982888

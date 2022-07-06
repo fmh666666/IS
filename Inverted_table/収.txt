@@ -1,10 +1,10 @@
 9
-data.zanh.txt 1
-data.zasw.txt 1
-data.zbsu.txt 1
-data.zcih.txt 78
-data.zdrq.txt 1
-data.zeam.txt 1
-data.zegl.txt 2
-data.zegn.txt 2
-data.zeik.txt 1
+data.zanh.txt 2.82763771717948
+data.zasw.txt 2.82763771717948
+data.zbsu.txt 2.82763771717948
+data.zcih.txt 17.824808204375458
+data.zdrq.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zegl.txt 4.48169974735425
+data.zegn.txt 4.48169974735425
+data.zeik.txt 2.82763771717948

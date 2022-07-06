@@ -1,6 +1,6 @@
 5
-data.kq.txt 1
-data.tv.txt 1
-data.zaxk.txt 1
-data.zcsu.txt 1
-data.zcyv.txt 3
+data.kq.txt 3.235060386727117
+data.tv.txt 3.235060386727117
+data.zaxk.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zcyv.txt 6.470120773454234

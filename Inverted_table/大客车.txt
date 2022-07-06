@@ -1,9 +1,9 @@
 8
-data.hz.txt 5
-data.pq.txt 1
-data.zbjh.txt 1
-data.zbkf.txt 1
-data.zcue.txt 1
-data.zczj.txt 1
-data.zdeb.txt 4
-data.zduk.txt 1
+data.hz.txt 7.52037633398548
+data.pq.txt 2.9092786962624935
+data.zbjh.txt 2.9092786962624935
+data.zbkf.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zczj.txt 2.9092786962624935
+data.zdeb.txt 6.7551359407091605
+data.zduk.txt 2.9092786962624935

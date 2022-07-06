@@ -1,4 +1,4 @@
 3
-data.zbvm.txt 1
-data.zcjo.txt 2
-data.zdrq.txt 1
+data.zbvm.txt 3.5891377275982888
+data.zcjo.txt 5.688648708166832
+data.zdrq.txt 3.5891377275982888

@@ -1,4 +1,4 @@
 3
-data.xe.txt 1
-data.zaqw.txt 1
-data.zddb.txt 1
+data.xe.txt 3.5891377275982888
+data.zaqw.txt 3.5891377275982888
+data.zddb.txt 3.5891377275982888

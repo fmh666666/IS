@@ -1,14 +1,14 @@
 13
-data.bb.txt 1
-data.zamr.txt 1
-data.zazo.txt 1
-data.zbts.txt 1
-data.zbyb.txt 1
-data.zbzo.txt 1
-data.zcdv.txt 1
-data.zckd.txt 1
-data.zdst.txt 1
-data.zdux.txt 2
-data.zedd.txt 1
-data.zefv.txt 1
-data.zene.txt 2
+data.bb.txt 2.5727503226135906
+data.zamr.txt 2.5727503226135906
+data.zazo.txt 2.5727503226135906
+data.zbts.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zbzo.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zckd.txt 2.5727503226135906
+data.zdst.txt 2.5727503226135906
+data.zdux.txt 4.077712785060798
+data.zedd.txt 2.5727503226135906
+data.zefv.txt 2.5727503226135906
+data.zene.txt 4.077712785060798

@@ -1,2 +1,2 @@
 1
-data.zexu.txt 1
+data.zexu.txt 4.350637738017098

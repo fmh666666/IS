@@ -1,3 +1,3 @@
 2
-data.zcxr.txt 3
-data.zeag.txt 4
+data.zcxr.txt 7.740369448197793
+data.zeag.txt 8.986290643289122

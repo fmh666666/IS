@@ -1,6 +1,6 @@
 5
-data.zagr.txt 1
-data.zasy.txt 1
-data.zcfn.txt 1
-data.zcwq.txt 1
-data.zexu.txt 1
+data.zagr.txt 3.235060386727117
+data.zasy.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zcwq.txt 3.235060386727117
+data.zexu.txt 3.235060386727117

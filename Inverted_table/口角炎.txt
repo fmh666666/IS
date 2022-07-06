@@ -1,5 +1,5 @@
 4
-data.ud.txt 1
-data.zbor.txt 1
-data.zduc.txt 2
-data.zedo.txt 1
+data.ud.txt 3.389731710180695
+data.zbor.txt 3.389731710180695
+data.zduc.txt 5.372597648141796
+data.zedo.txt 3.389731710180695

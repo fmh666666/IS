@@ -1,12 +1,12 @@
 11
-data.gk.txt 1
-data.nh.txt 2
-data.pn.txt 2
-data.uz.txt 1
-data.zako.txt 1
-data.zbre.txt 1
-data.zcse.txt 1
-data.zdgt.txt 1
-data.zdsh.txt 1
-data.zduk.txt 1
-data.zfas.txt 1
+data.gk.txt 2.6885433903988862
+data.nh.txt 4.261240455343955
+data.pn.txt 4.261240455343955
+data.uz.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zbre.txt 2.6885433903988862
+data.zcse.txt 2.6885433903988862
+data.zdgt.txt 2.6885433903988862
+data.zdsh.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zfas.txt 2.6885433903988862

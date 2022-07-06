@@ -1,10 +1,10 @@
 9
-data.op.txt 1
-data.ry.txt 1
-data.tj.txt 2
-data.zaxp.txt 1
-data.zbfz.txt 1
-data.zcak.txt 1
-data.zdod.txt 1
-data.zelj.txt 1
-data.zfai.txt 1
+data.op.txt 2.82763771717948
+data.ry.txt 2.82763771717948
+data.tj.txt 4.48169974735425
+data.zaxp.txt 2.82763771717948
+data.zbfz.txt 2.82763771717948
+data.zcak.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zelj.txt 2.82763771717948
+data.zfai.txt 2.82763771717948

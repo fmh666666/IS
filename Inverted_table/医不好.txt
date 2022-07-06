@@ -1,6 +1,6 @@
 5
-data.cf.txt 1
-data.jf.txt 1
-data.zbua.txt 1
-data.zdgo.txt 1
-data.zebf.txt 1
+data.cf.txt 3.235060386727117
+data.jf.txt 3.235060386727117
+data.zbua.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117
+data.zebf.txt 3.235060386727117

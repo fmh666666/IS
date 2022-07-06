@@ -1,8 +1,8 @@
 7
-data.zafv.txt 2
-data.zbjh.txt 1
-data.zblh.txt 1
-data.zcdg.txt 1
-data.zcli.txt 1
-data.zcww.txt 1
-data.zewp.txt 1
+data.zafv.txt 4.757796866583254
+data.zbjh.txt 3.0018356045764243
+data.zblh.txt 3.0018356045764243
+data.zcdg.txt 3.0018356045764243
+data.zcli.txt 3.0018356045764243
+data.zcww.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

@@ -1,4 +1,4 @@
 3
-data.zail.txt 1
-data.zbls.txt 1
-data.zbut.txt 1
+data.zail.txt 3.5891377275982888
+data.zbls.txt 3.5891377275982888
+data.zbut.txt 3.5891377275982888

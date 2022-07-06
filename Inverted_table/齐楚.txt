@@ -1,2 +1,2 @@
 1
-data.zavg.txt 4
+data.zavg.txt 10.101867994579104

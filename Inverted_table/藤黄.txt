@@ -1,5 +1,5 @@
 4
-data.zbds.txt 1
-data.zbzf.txt 1
-data.zerh.txt 1
-data.zeyg.txt 1
+data.zbds.txt 3.389731710180695
+data.zbzf.txt 3.389731710180695
+data.zerh.txt 3.389731710180695
+data.zeyg.txt 3.389731710180695

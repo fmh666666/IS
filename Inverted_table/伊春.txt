@@ -1,9 +1,9 @@
 8
-data.pn.txt 1
-data.zahd.txt 2
-data.zawc.txt 1
-data.zblh.txt 1
-data.zcaq.txt 1
-data.zcfx.txt 1
-data.zdou.txt 3
-data.zduk.txt 4
+data.pn.txt 2.9092786962624935
+data.zahd.txt 4.611097637722987
+data.zawc.txt 2.9092786962624935
+data.zblh.txt 2.9092786962624935
+data.zcaq.txt 2.9092786962624935
+data.zcfx.txt 2.9092786962624935
+data.zdou.txt 5.818557392524987
+data.zduk.txt 6.7551359407091605

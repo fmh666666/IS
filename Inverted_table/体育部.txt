@@ -1,11 +1,11 @@
 10
-data.zafi.txt 1
-data.zbfp.txt 1
-data.zbia.txt 2
-data.zbil.txt 2
-data.zcfn.txt 1
-data.zcqp.txt 2
-data.zcue.txt 1
-data.zddb.txt 5
-data.zehb.txt 1
-data.zexx.txt 3
+data.zafi.txt 2.7546073728089153
+data.zbfp.txt 2.7546073728089153
+data.zbia.txt 4.365949390112154
+data.zbil.txt 4.365949390112154
+data.zcfn.txt 2.7546073728089153
+data.zcqp.txt 4.365949390112154
+data.zcue.txt 2.7546073728089153
+data.zddb.txt 7.120556762921068
+data.zehb.txt 2.7546073728089153
+data.zexx.txt 5.509214745617831

@@ -1,2 +1,2 @@
 1
-data.zane.txt 4
+data.zane.txt 10.101867994579104

@@ -1,4 +1,4 @@
 3
-data.gz.txt 1
-data.zawz.txt 2
-data.zezm.txt 1
+data.gz.txt 3.5891377275982888
+data.zawz.txt 5.688648708166832
+data.zezm.txt 3.5891377275982888

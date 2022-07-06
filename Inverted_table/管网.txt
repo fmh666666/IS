@@ -1,6 +1,6 @@
 5
-data.op.txt 2
-data.zbvm.txt 1
-data.zcqg.txt 1
-data.zctp.txt 1
-data.zfcg.txt 1
+data.op.txt 5.1274494005309625
+data.zbvm.txt 3.235060386727117
+data.zcqg.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

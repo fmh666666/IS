@@ -1,11 +1,11 @@
 10
-data.hc.txt 1
-data.hz.txt 1
-data.zabe.txt 1
-data.zcdv.txt 1
-data.zcdy.txt 1
-data.zdep.txt 1
-data.zdwl.txt 1
-data.zelt.txt 1
-data.zevy.txt 1
-data.zezn.txt 1
+data.hc.txt 2.7546073728089153
+data.hz.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zdep.txt 2.7546073728089153
+data.zdwl.txt 2.7546073728089153
+data.zelt.txt 2.7546073728089153
+data.zevy.txt 2.7546073728089153
+data.zezn.txt 2.7546073728089153

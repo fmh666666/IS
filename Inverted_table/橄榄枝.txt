@@ -1,10 +1,10 @@
 9
-data.zane.txt 1
-data.zawc.txt 1
-data.zbhd.txt 6
-data.zcvt.txt 1
-data.zdar.txt 2
-data.zeds.txt 1
-data.zeun.txt 1
-data.zexm.txt 1
-data.zfdk.txt 1
+data.zane.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zbhd.txt 7.938182663119541
+data.zcvt.txt 2.82763771717948
+data.zdar.txt 4.48169974735425
+data.zeds.txt 2.82763771717948
+data.zeun.txt 2.82763771717948
+data.zexm.txt 2.82763771717948
+data.zfdk.txt 2.82763771717948

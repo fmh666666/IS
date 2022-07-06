@@ -1,4 +1,4 @@
 3
-data.zabe.txt 1
-data.zcjo.txt 1
-data.zeos.txt 1
+data.zabe.txt 3.5891377275982888
+data.zcjo.txt 3.5891377275982888
+data.zeos.txt 3.5891377275982888

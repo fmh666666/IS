@@ -1,7 +1,7 @@
 6
-data.zank.txt 1
-data.zard.txt 1
-data.zaxx.txt 1
-data.zcls.txt 1
-data.zdnh.txt 1
-data.zfaz.txt 1
+data.zank.txt 3.1086847136800873
+data.zard.txt 3.1086847136800873
+data.zaxx.txt 3.1086847136800873
+data.zcls.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873
+data.zfaz.txt 3.1086847136800873

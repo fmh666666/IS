@@ -1,6 +1,6 @@
 5
-data.uz.txt 4
-data.zacd.txt 1
-data.zbts.txt 1
-data.zdqx.txt 1
-data.zewv.txt 1
+data.uz.txt 7.511577600598868
+data.zacd.txt 3.235060386727117
+data.zbts.txt 3.235060386727117
+data.zdqx.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

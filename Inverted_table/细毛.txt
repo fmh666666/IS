@@ -1,11 +1,11 @@
 10
-data.be.txt 1
-data.zabe.txt 3
-data.zcft.txt 1
-data.zcic.txt 1
-data.zcln.txt 1
-data.zcpa.txt 1
-data.zdcw.txt 1
-data.zddx.txt 1
-data.zdga.txt 1
-data.zebc.txt 3
+data.be.txt 2.7546073728089153
+data.zabe.txt 5.509214745617831
+data.zcft.txt 2.7546073728089153
+data.zcic.txt 2.7546073728089153
+data.zcln.txt 2.7546073728089153
+data.zcpa.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zddx.txt 2.7546073728089153
+data.zdga.txt 2.7546073728089153
+data.zebc.txt 5.509214745617831

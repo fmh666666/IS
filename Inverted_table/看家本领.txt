@@ -1,9 +1,9 @@
 8
-data.mu.txt 2
-data.zalt.txt 1
-data.zazn.txt 1
-data.zbfx.txt 1
-data.zbyb.txt 1
-data.zcdy.txt 1
-data.zfby.txt 1
-data.zfcj.txt 2
+data.mu.txt 4.611097637722987
+data.zalt.txt 2.9092786962624935
+data.zazn.txt 2.9092786962624935
+data.zbfx.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zfby.txt 2.9092786962624935
+data.zfcj.txt 4.611097637722987

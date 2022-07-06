@@ -1,4 +1,4 @@
 3
-data.gw.txt 2
-data.zaqf.txt 2
-data.zcfx.txt 1
+data.gw.txt 5.688648708166832
+data.zaqf.txt 5.688648708166832
+data.zcfx.txt 3.5891377275982888

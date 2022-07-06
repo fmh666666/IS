@@ -1,3 +1,3 @@
 2
-data.zdds.txt 9
-data.zddv.txt 2
+data.zdds.txt 12.85647536738802
+data.zddv.txt 6.134097658560606

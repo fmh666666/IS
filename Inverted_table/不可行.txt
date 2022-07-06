@@ -1,5 +1,5 @@
 4
-data.zaic.txt 1
-data.zbsf.txt 1
-data.zcdy.txt 2
-data.zeqn.txt 1
+data.zaic.txt 3.389731710180695
+data.zbsf.txt 3.389731710180695
+data.zcdy.txt 5.372597648141796
+data.zeqn.txt 3.389731710180695

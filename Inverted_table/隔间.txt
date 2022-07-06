@@ -1,13 +1,13 @@
 12
-data.cz.txt 2
-data.ft.txt 2
-data.zasw.txt 2
-data.zbfg.txt 1
-data.zcgo.txt 1
-data.zcql.txt 1
-data.zctm.txt 1
-data.zddp.txt 1
-data.zdod.txt 2
-data.zdof.txt 1
-data.zduc.txt 1
-data.zedo.txt 1
+data.cz.txt 4.165648687329214
+data.ft.txt 4.165648687329214
+data.zasw.txt 4.165648687329214
+data.zbfg.txt 2.628231699761886
+data.zcgo.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zctm.txt 2.628231699761886
+data.zddp.txt 2.628231699761886
+data.zdod.txt 4.165648687329214
+data.zdof.txt 2.628231699761886
+data.zduc.txt 2.628231699761886
+data.zedo.txt 2.628231699761886

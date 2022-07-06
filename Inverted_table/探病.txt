@@ -1,7 +1,7 @@
 6
-data.zaet.txt 1
-data.zawc.txt 1
-data.zazw.txt 1
-data.zcue.txt 1
-data.zdby.txt 2
-data.zegl.txt 1
+data.zaet.txt 3.1086847136800873
+data.zawc.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zcue.txt 3.1086847136800873
+data.zdby.txt 4.927148697748023
+data.zegl.txt 3.1086847136800873

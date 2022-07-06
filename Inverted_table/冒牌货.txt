@@ -1,6 +1,6 @@
 5
-data.fz.txt 4
-data.zafu.txt 1
-data.zawb.txt 1
-data.zbeb.txt 1
-data.zdwk.txt 1
+data.fz.txt 7.511577600598868
+data.zafu.txt 3.235060386727117
+data.zawb.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zdwk.txt 3.235060386727117

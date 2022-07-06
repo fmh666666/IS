@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zabe.txt 1
-data.zako.txt 1
-data.zcmx.txt 1
-data.zdlw.txt 1
-data.zelt.txt 1
-data.zenn.txt 1
-data.zfae.txt 1
+data.op.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zcmx.txt 2.9092786962624935
+data.zdlw.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zenn.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

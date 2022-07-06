@@ -1,12 +1,12 @@
 11
-data.kq.txt 1
-data.tv.txt 1
-data.zahd.txt 1
-data.zbgd.txt 1
-data.zbts.txt 2
-data.zcdv.txt 2
-data.zclh.txt 2
-data.zcvi.txt 2
-data.zebv.txt 1
-data.zefs.txt 1
-data.zevt.txt 1
+data.kq.txt 2.6885433903988862
+data.tv.txt 2.6885433903988862
+data.zahd.txt 2.6885433903988862
+data.zbgd.txt 2.6885433903988862
+data.zbts.txt 4.261240455343955
+data.zcdv.txt 4.261240455343955
+data.zclh.txt 4.261240455343955
+data.zcvi.txt 4.261240455343955
+data.zebv.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zevt.txt 2.6885433903988862

@@ -1,8 +1,8 @@
 7
-data.pn.txt 1
-data.zbla.txt 1
-data.zcdl.txt 1
-data.zcef.txt 1
-data.zdgv.txt 1
-data.zdqk.txt 1
-data.zevt.txt 1
+data.pn.txt 3.0018356045764243
+data.zbla.txt 3.0018356045764243
+data.zcdl.txt 3.0018356045764243
+data.zcef.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zdqk.txt 3.0018356045764243
+data.zevt.txt 3.0018356045764243

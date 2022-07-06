@@ -1,7 +1,7 @@
 6
-data.hp.txt 2
-data.hu.txt 1
-data.zbhd.txt 1
-data.zcoy.txt 1
-data.zeew.txt 1
-data.zelt.txt 1
+data.hp.txt 4.927148697748023
+data.hu.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zcoy.txt 3.1086847136800873
+data.zeew.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

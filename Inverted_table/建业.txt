@@ -1,8 +1,8 @@
 7
-data.co.txt 6
-data.zaet.txt 1
-data.zbsf.txt 1
-data.zbxy.txt 2
-data.zddv.txt 1
-data.zduk.txt 2
-data.zeay.txt 1
+data.co.txt 8.427217959715389
+data.zaet.txt 3.0018356045764243
+data.zbsf.txt 3.0018356045764243
+data.zbxy.txt 4.757796866583254
+data.zddv.txt 3.0018356045764243
+data.zduk.txt 4.757796866583254
+data.zeay.txt 3.0018356045764243

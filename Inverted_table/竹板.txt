@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.zadv.txt 1
-data.zall.txt 1
-data.zavg.txt 2
-data.zdod.txt 1
+data.gw.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zall.txt 3.235060386727117
+data.zavg.txt 5.1274494005309625
+data.zdod.txt 3.235060386727117

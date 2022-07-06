@@ -1,10 +1,10 @@
 9
-data.hc.txt 1
-data.zbkf.txt 1
-data.zbkr.txt 5
-data.zcku.txt 4
-data.zcls.txt 2
-data.zctm.txt 1
-data.zctp.txt 1
-data.zdji.txt 2
-data.zewv.txt 2
+data.hc.txt 2.82763771717948
+data.zbkf.txt 2.82763771717948
+data.zbkr.txt 7.309337464533731
+data.zcku.txt 6.565571457682201
+data.zcls.txt 4.48169974735425
+data.zctm.txt 2.82763771717948
+data.zctp.txt 2.82763771717948
+data.zdji.txt 4.48169974735425
+data.zewv.txt 4.48169974735425

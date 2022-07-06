@@ -1,12 +1,12 @@
 11
-data.fz.txt 4
-data.ga.txt 21
-data.yx.txt 1
-data.zafy.txt 1
-data.zagr.txt 1
-data.zaqr.txt 15
-data.zass.txt 1
-data.zbse.txt 1
-data.zcvq.txt 2
-data.zexm.txt 1
-data.zfai.txt 1
+data.fz.txt 6.2426044324908965
+data.ga.txt 11.989375403223114
+data.yx.txt 2.6885433903988862
+data.zafy.txt 2.6885433903988862
+data.zagr.txt 2.6885433903988862
+data.zaqr.txt 10.754173561595545
+data.zass.txt 2.6885433903988862
+data.zbse.txt 2.6885433903988862
+data.zcvq.txt 4.261240455343955
+data.zexm.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

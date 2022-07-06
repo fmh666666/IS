@@ -1,7 +1,7 @@
 6
-data.ud.txt 1
-data.zafe.txt 1
-data.zaub.txt 1
-data.zegz.txt 1
-data.zenw.txt 3
-data.zeyy.txt 1
+data.ud.txt 3.1086847136800873
+data.zafe.txt 3.1086847136800873
+data.zaub.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873
+data.zenw.txt 6.2173694273601745
+data.zeyy.txt 3.1086847136800873

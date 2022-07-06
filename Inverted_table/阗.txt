@@ -1,3 +1,3 @@
 2
-data.mt.txt 3
-data.zewn.txt 2
+data.mt.txt 7.740369448197793
+data.zewn.txt 6.134097658560606

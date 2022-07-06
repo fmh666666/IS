@@ -1,7 +1,7 @@
 6
-data.pa.txt 1
-data.tj.txt 1
-data.zcmy.txt 1
-data.zcoy.txt 1
-data.zctp.txt 4
-data.zdme.txt 1
+data.pa.txt 3.1086847136800873
+data.tj.txt 3.1086847136800873
+data.zcmy.txt 3.1086847136800873
+data.zcoy.txt 3.1086847136800873
+data.zctp.txt 7.21814237484067
+data.zdme.txt 3.1086847136800873

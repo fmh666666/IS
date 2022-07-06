@@ -1,7 +1,7 @@
 6
-data.mo.txt 2
-data.zaej.txt 1
-data.zbaq.txt 1
-data.zbdx.txt 2
-data.zbmw.txt 30
-data.zcse.txt 1
+data.mo.txt 4.927148697748023
+data.zaej.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zbdx.txt 4.927148697748023
+data.zbmw.txt 15.401034338669968
+data.zcse.txt 3.1086847136800873

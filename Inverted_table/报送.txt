@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zayv.txt 2
-data.zbgu.txt 1
-data.zddv.txt 1
-data.zfcg.txt 1
+data.ng.txt 3.235060386727117
+data.zayv.txt 5.1274494005309625
+data.zbgu.txt 3.235060386727117
+data.zddv.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

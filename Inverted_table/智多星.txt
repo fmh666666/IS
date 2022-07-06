@@ -1,8 +1,8 @@
 7
-data.vm.txt 1
-data.zafi.txt 1
-data.zalc.txt 1
-data.zaqw.txt 1
-data.zcbe.txt 1
-data.zcdz.txt 1
-data.zedx.txt 1
+data.vm.txt 3.0018356045764243
+data.zafi.txt 3.0018356045764243
+data.zalc.txt 3.0018356045764243
+data.zaqw.txt 3.0018356045764243
+data.zcbe.txt 3.0018356045764243
+data.zcdz.txt 3.0018356045764243
+data.zedx.txt 3.0018356045764243

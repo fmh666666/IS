@@ -1,2 +1,2 @@
 1
-data.zair.txt 4
+data.zair.txt 10.101867994579104

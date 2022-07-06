@@ -1,7 +1,7 @@
 6
-data.tv.txt 1
-data.tz.txt 1
-data.zasw.txt 1
-data.zbkf.txt 1
-data.zcdl.txt 1
-data.zfcj.txt 1
+data.tv.txt 3.1086847136800873
+data.tz.txt 3.1086847136800873
+data.zasw.txt 3.1086847136800873
+data.zbkf.txt 3.1086847136800873
+data.zcdl.txt 3.1086847136800873
+data.zfcj.txt 3.1086847136800873

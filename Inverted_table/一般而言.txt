@@ -1,7 +1,7 @@
 6
-data.zako.txt 1
-data.zbzf.txt 1
-data.zcrn.txt 1
-data.zczj.txt 1
-data.zdwl.txt 1
-data.zelt.txt 1
+data.zako.txt 3.1086847136800873
+data.zbzf.txt 3.1086847136800873
+data.zcrn.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zdwl.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

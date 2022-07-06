@@ -1,9 +1,9 @@
 8
-data.zabe.txt 1
-data.zane.txt 1
-data.zapr.txt 1
-data.zcql.txt 5
-data.zczl.txt 1
-data.zdcw.txt 1
-data.zdcy.txt 1
-data.zdoq.txt 1
+data.zabe.txt 2.9092786962624935
+data.zane.txt 2.9092786962624935
+data.zapr.txt 2.9092786962624935
+data.zcql.txt 7.52037633398548
+data.zczl.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zdcy.txt 2.9092786962624935
+data.zdoq.txt 2.9092786962624935

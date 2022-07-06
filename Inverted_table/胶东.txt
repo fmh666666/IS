@@ -1,6 +1,6 @@
 5
-data.zbzo.txt 1
-data.zchd.txt 1
-data.zdgo.txt 1
-data.zehp.txt 1
-data.zenw.txt 1
+data.zbzo.txt 3.235060386727117
+data.zchd.txt 3.235060386727117
+data.zdgo.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
+data.zenw.txt 3.235060386727117

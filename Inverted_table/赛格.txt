@@ -1,14 +1,14 @@
 13
-data.vz.txt 5
-data.zamr.txt 5
-data.zaql.txt 1
-data.zasr.txt 3
-data.zbga.txt 1
-data.zbhv.txt 2
-data.zbts.txt 3
-data.zcao.txt 5
-data.zcaq.txt 2
-data.zckd.txt 2
-data.zcll.txt 2
-data.zdeq.txt 1
-data.zedk.txt 1
+data.vz.txt 6.650463107674388
+data.zamr.txt 6.650463107674388
+data.zaql.txt 2.5727503226135906
+data.zasr.txt 5.145500645227181
+data.zbga.txt 2.5727503226135906
+data.zbhv.txt 4.077712785060798
+data.zbts.txt 5.145500645227181
+data.zcao.txt 6.650463107674388
+data.zcaq.txt 4.077712785060798
+data.zckd.txt 4.077712785060798
+data.zcll.txt 4.077712785060798
+data.zdeq.txt 2.5727503226135906
+data.zedk.txt 2.5727503226135906

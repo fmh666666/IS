@@ -1,7 +1,7 @@
 6
-data.aj.txt 1
-data.jf.txt 1
-data.zapf.txt 1
-data.zavx.txt 1
-data.zbfz.txt 1
-data.zdwz.txt 1
+data.aj.txt 3.1086847136800873
+data.jf.txt 3.1086847136800873
+data.zapf.txt 3.1086847136800873
+data.zavx.txt 3.1086847136800873
+data.zbfz.txt 3.1086847136800873
+data.zdwz.txt 3.1086847136800873

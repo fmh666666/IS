@@ -1,4 +1,4 @@
 3
-data.zabx.txt 1
-data.zagr.txt 2
-data.zcef.txt 1
+data.zabx.txt 3.5891377275982888
+data.zagr.txt 5.688648708166832
+data.zcef.txt 3.5891377275982888

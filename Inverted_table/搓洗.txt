@@ -1,7 +1,7 @@
 6
-data.zbcj.txt 1
-data.zbpc.txt 1
-data.zbvg.txt 1
-data.zdoq.txt 1
-data.zeeq.txt 1
-data.zegz.txt 1
+data.zbcj.txt 3.1086847136800873
+data.zbpc.txt 3.1086847136800873
+data.zbvg.txt 3.1086847136800873
+data.zdoq.txt 3.1086847136800873
+data.zeeq.txt 3.1086847136800873
+data.zegz.txt 3.1086847136800873

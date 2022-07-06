@@ -1,4 +1,4 @@
 3
-data.ok.txt 1
-data.zcdz.txt 1
-data.zcoy.txt 1
+data.ok.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zcoy.txt 3.5891377275982888

@@ -1,11 +1,11 @@
 10
-data.kq.txt 1
-data.zajn.txt 11
-data.zalt.txt 1
-data.zcda.txt 1
-data.zcts.txt 1
-data.zcxq.txt 1
-data.zdhv.txt 1
-data.zduc.txt 1
-data.zeaj.txt 1
-data.zerh.txt 1
+data.kq.txt 2.7546073728089153
+data.zajn.txt 9.875164135729985
+data.zalt.txt 2.7546073728089153
+data.zcda.txt 2.7546073728089153
+data.zcts.txt 2.7546073728089153
+data.zcxq.txt 2.7546073728089153
+data.zdhv.txt 2.7546073728089153
+data.zduc.txt 2.7546073728089153
+data.zeaj.txt 2.7546073728089153
+data.zerh.txt 2.7546073728089153

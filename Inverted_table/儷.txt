@@ -1,5 +1,5 @@
 4
-data.zbux.txt 1
-data.zcmx.txt 1
-data.zdey.txt 1
-data.zdoc.txt 1
+data.zbux.txt 3.389731710180695
+data.zcmx.txt 3.389731710180695
+data.zdey.txt 3.389731710180695
+data.zdoc.txt 3.389731710180695

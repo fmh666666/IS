@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zbha.txt 1
-data.zdaa.txt 1
-data.zebc.txt 1
-data.zevq.txt 1
+data.ka.txt 3.235060386727117
+data.zbha.txt 3.235060386727117
+data.zdaa.txt 3.235060386727117
+data.zebc.txt 3.235060386727117
+data.zevq.txt 3.235060386727117

@@ -1,8 +1,8 @@
 7
-data.zbht.txt 1
-data.zblr.txt 1
-data.zcrv.txt 1
-data.zdkv.txt 1
-data.zejk.txt 2
-data.zejn.txt 3
-data.zeqh.txt 1
+data.zbht.txt 3.0018356045764243
+data.zblr.txt 3.0018356045764243
+data.zcrv.txt 3.0018356045764243
+data.zdkv.txt 3.0018356045764243
+data.zejk.txt 4.757796866583254
+data.zejn.txt 6.003671209152849
+data.zeqh.txt 3.0018356045764243

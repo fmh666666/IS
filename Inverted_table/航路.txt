@@ -1,11 +1,11 @@
 10
-data.wc.txt 1
-data.zamr.txt 1
-data.zbbt.txt 1
-data.zbga.txt 1
-data.zbor.txt 1
-data.zbzg.txt 1
-data.zcdg.txt 1
-data.zdou.txt 1
-data.zexm.txt 1
-data.zfaj.txt 5
+data.wc.txt 2.7546073728089153
+data.zamr.txt 2.7546073728089153
+data.zbbt.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zbzg.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zdou.txt 2.7546073728089153
+data.zexm.txt 2.7546073728089153
+data.zfaj.txt 7.120556762921068

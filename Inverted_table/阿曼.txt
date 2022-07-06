@@ -1,13 +1,13 @@
 12
-data.ek.txt 1
-data.zbdb.txt 1
-data.zbfr.txt 2
-data.zbga.txt 2
-data.zcnn.txt 1
-data.zcpb.txt 1
-data.zcts.txt 1
-data.zczp.txt 1
-data.zdeb.txt 1
-data.zdoc.txt 1
-data.zduc.txt 10
-data.zerv.txt 1
+data.ek.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbfr.txt 4.165648687329214
+data.zbga.txt 4.165648687329214
+data.zcnn.txt 2.628231699761886
+data.zcpb.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zczp.txt 2.628231699761886
+data.zdeb.txt 2.628231699761886
+data.zdoc.txt 2.628231699761886
+data.zduc.txt 9.092187843261117
+data.zerv.txt 2.628231699761886

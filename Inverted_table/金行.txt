@@ -1,5 +1,5 @@
 4
-data.jj.txt 1
-data.mi.txt 1
-data.zasj.txt 1
-data.zedk.txt 1
+data.jj.txt 3.389731710180695
+data.mi.txt 3.389731710180695
+data.zasj.txt 3.389731710180695
+data.zedk.txt 3.389731710180695

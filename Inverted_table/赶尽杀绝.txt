@@ -1,7 +1,7 @@
 6
-data.zabe.txt 1
-data.zbeb.txt 1
-data.zbvp.txt 1
-data.zcdg.txt 1
-data.zcej.txt 1
-data.zcic.txt 1
+data.zabe.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbvp.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcej.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873

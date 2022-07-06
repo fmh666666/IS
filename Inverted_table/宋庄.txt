@@ -1,6 +1,6 @@
 5
-data.ng.txt 7
-data.zajo.txt 4
-data.zamp.txt 2
-data.zeew.txt 2
-data.zezn.txt 1
+data.ng.txt 9.70518116018135
+data.zajo.txt 7.511577600598868
+data.zamp.txt 5.1274494005309625
+data.zeew.txt 5.1274494005309625
+data.zezn.txt 3.235060386727117

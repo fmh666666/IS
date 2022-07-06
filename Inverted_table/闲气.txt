@@ -1,4 +1,4 @@
 3
-data.zbwa.txt 1
-data.zduo.txt 1
-data.zelt.txt 1
+data.zbwa.txt 3.5891377275982888
+data.zduo.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

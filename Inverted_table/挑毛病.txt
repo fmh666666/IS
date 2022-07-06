@@ -1,13 +1,13 @@
 12
-data.fz.txt 1
-data.op.txt 1
-data.to.txt 1
-data.zafy.txt 1
-data.zbph.txt 1
-data.zbxy.txt 1
-data.zcwn.txt 1
-data.zdfl.txt 1
-data.zdil.txt 1
-data.zdpf.txt 1
-data.zeai.txt 1
-data.zeik.txt 2
+data.fz.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.to.txt 2.628231699761886
+data.zafy.txt 2.628231699761886
+data.zbph.txt 2.628231699761886
+data.zbxy.txt 2.628231699761886
+data.zcwn.txt 2.628231699761886
+data.zdfl.txt 2.628231699761886
+data.zdil.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zeai.txt 2.628231699761886
+data.zeik.txt 4.165648687329214

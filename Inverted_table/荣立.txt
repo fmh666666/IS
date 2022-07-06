@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zelt.txt 1
-data.zeyu.txt 1
+data.fp.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888
+data.zeyu.txt 3.5891377275982888

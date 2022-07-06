@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.ud.txt 1
-data.zalt.txt 1
-data.zbsm.txt 1
-data.zcqe.txt 2
-data.zcsu.txt 1
-data.zenw.txt 1
+data.kq.txt 3.0018356045764243
+data.ud.txt 3.0018356045764243
+data.zalt.txt 3.0018356045764243
+data.zbsm.txt 3.0018356045764243
+data.zcqe.txt 4.757796866583254
+data.zcsu.txt 3.0018356045764243
+data.zenw.txt 3.0018356045764243

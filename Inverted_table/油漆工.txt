@@ -1,4 +1,4 @@
 3
-data.zbph.txt 1
-data.zbua.txt 2
-data.zewp.txt 1
+data.zbph.txt 3.5891377275982888
+data.zbua.txt 5.688648708166832
+data.zewp.txt 3.5891377275982888

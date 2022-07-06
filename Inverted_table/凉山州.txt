@@ -1,6 +1,6 @@
 5
-data.mo.txt 1
-data.vi.txt 2
-data.ye.txt 1
-data.zduo.txt 1
-data.zeta.txt 1
+data.mo.txt 3.235060386727117
+data.vi.txt 5.1274494005309625
+data.ye.txt 3.235060386727117
+data.zduo.txt 3.235060386727117
+data.zeta.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zasy.txt 2
-data.zddb.txt 2
-data.zdqz.txt 4
+data.zasy.txt 5.688648708166832
+data.zddb.txt 5.688648708166832
+data.zdqz.txt 8.333719726130651

@@ -1,4 +1,4 @@
 3
-data.zbht.txt 2
-data.zduc.txt 1
-data.zevt.txt 1
+data.zbht.txt 5.688648708166832
+data.zduc.txt 3.5891377275982888
+data.zevt.txt 3.5891377275982888

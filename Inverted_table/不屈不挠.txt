@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zbaq.txt 1
-data.zbye.txt 1
-data.zdju.txt 1
-data.zdzm.txt 1
+data.zabe.txt 3.235060386727117
+data.zbaq.txt 3.235060386727117
+data.zbye.txt 3.235060386727117
+data.zdju.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117

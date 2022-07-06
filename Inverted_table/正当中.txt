@@ -1,4 +1,4 @@
 3
-data.zasd.txt 3
-data.zbgu.txt 1
-data.zcql.txt 1
+data.zasd.txt 7.1782754551965775
+data.zbgu.txt 3.5891377275982888
+data.zcql.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.ee.txt 1
-data.zajo.txt 1
-data.zazn.txt 1
-data.zbgd.txt 5
-data.zbvg.txt 1
-data.zcef.txt 2
+data.ee.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zbgd.txt 8.03583341142811
+data.zbvg.txt 3.1086847136800873
+data.zcef.txt 4.927148697748023

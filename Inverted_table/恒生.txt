@@ -1,8 +1,8 @@
 7
-data.ud.txt 1
-data.zcdy.txt 2
-data.zcfx.txt 1
-data.zdgo.txt 1
-data.zeai.txt 1
-data.zedk.txt 2
-data.zerh.txt 1
+data.ud.txt 3.0018356045764243
+data.zcdy.txt 4.757796866583254
+data.zcfx.txt 3.0018356045764243
+data.zdgo.txt 3.0018356045764243
+data.zeai.txt 3.0018356045764243
+data.zedk.txt 4.757796866583254
+data.zerh.txt 3.0018356045764243

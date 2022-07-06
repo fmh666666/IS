@@ -1,4 +1,4 @@
 3
-data.zajn.txt 1
-data.zdwd.txt 1
-data.zedy.txt 2
+data.zajn.txt 3.5891377275982888
+data.zdwd.txt 3.5891377275982888
+data.zedy.txt 5.688648708166832

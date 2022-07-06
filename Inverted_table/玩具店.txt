@@ -1,13 +1,13 @@
 12
-data.ng.txt 1
-data.vm.txt 1
-data.vz.txt 2
-data.zacp.txt 1
-data.zake.txt 1
-data.zbhe.txt 1
-data.zbrj.txt 1
-data.zcww.txt 1
-data.zdkp.txt 1
-data.zduk.txt 1
-data.zejn.txt 1
-data.zexu.txt 1
+data.ng.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.vz.txt 4.165648687329214
+data.zacp.txt 2.628231699761886
+data.zake.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbrj.txt 2.628231699761886
+data.zcww.txt 2.628231699761886
+data.zdkp.txt 2.628231699761886
+data.zduk.txt 2.628231699761886
+data.zejn.txt 2.628231699761886
+data.zexu.txt 2.628231699761886

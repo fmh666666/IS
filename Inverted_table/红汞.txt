@@ -1,2 +1,2 @@
 1
-data.zcts.txt 3
+data.zcts.txt 8.701275476034196

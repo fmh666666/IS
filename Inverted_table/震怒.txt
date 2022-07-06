@@ -1,6 +1,6 @@
 5
-data.ok.txt 1
-data.zbcc.txt 1
-data.zbdb.txt 1
-data.zeqh.txt 1
-data.zfai.txt 2
+data.ok.txt 3.235060386727117
+data.zbcc.txt 3.235060386727117
+data.zbdb.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117
+data.zfai.txt 5.1274494005309625

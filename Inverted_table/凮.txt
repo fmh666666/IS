@@ -1,3 +1,3 @@
 2
-data.uz.txt 1
-data.zfcj.txt 1
+data.uz.txt 3.8701847240988965
+data.zfcj.txt 3.8701847240988965

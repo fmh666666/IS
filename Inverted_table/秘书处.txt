@@ -1,4 +1,4 @@
 3
-data.zblq.txt 1
-data.zczl.txt 3
-data.zdux.txt 1
+data.zblq.txt 3.5891377275982888
+data.zczl.txt 7.1782754551965775
+data.zdux.txt 3.5891377275982888

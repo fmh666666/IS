@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zasj.txt 2
-data.zbeb.txt 2
-data.zcdy.txt 2
-data.zcwq.txt 1
-data.zduk.txt 1
-data.zdzi.txt 1
-data.zfaj.txt 1
+data.ok.txt 2.9092786962624935
+data.zasj.txt 4.611097637722987
+data.zbeb.txt 4.611097637722987
+data.zcdy.txt 4.611097637722987
+data.zcwq.txt 2.9092786962624935
+data.zduk.txt 2.9092786962624935
+data.zdzi.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.en.txt 10
-data.zafv.txt 8
-data.zbrj.txt 1
-data.zeec.txt 1
+data.en.txt 11.726545056896576
+data.zafv.txt 10.745195296283592
+data.zbrj.txt 3.389731710180695
+data.zeec.txt 3.389731710180695

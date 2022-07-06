@@ -1,14 +1,14 @@
 13
-data.vi.txt 2
-data.zabx.txt 1
-data.zajh.txt 1
-data.zako.txt 1
-data.zalt.txt 1
-data.zavx.txt 1
-data.zaxj.txt 1
-data.zbaf.txt 1
-data.zccu.txt 1
-data.zcdv.txt 7
-data.zcoy.txt 1
-data.zdeb.txt 1
-data.zerw.txt 1
+data.vi.txt 4.077712785060798
+data.zabx.txt 2.5727503226135906
+data.zajh.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zalt.txt 2.5727503226135906
+data.zavx.txt 2.5727503226135906
+data.zaxj.txt 2.5727503226135906
+data.zbaf.txt 2.5727503226135906
+data.zccu.txt 2.5727503226135906
+data.zcdv.txt 7.7182509678407705
+data.zcoy.txt 2.5727503226135906
+data.zdeb.txt 2.5727503226135906
+data.zerw.txt 2.5727503226135906

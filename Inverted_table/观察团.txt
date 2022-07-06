@@ -1,4 +1,4 @@
 3
-data.zawo.txt 1
-data.zbrj.txt 3
-data.zduo.txt 1
+data.zawo.txt 3.5891377275982888
+data.zbrj.txt 7.1782754551965775
+data.zduo.txt 3.5891377275982888

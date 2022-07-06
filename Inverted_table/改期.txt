@@ -1,12 +1,12 @@
 11
-data.ek.txt 1
-data.ye.txt 1
-data.zaic.txt 2
-data.zbls.txt 1
-data.zbot.txt 2
-data.zdpw.txt 1
-data.zdqq.txt 1
-data.zdzn.txt 2
-data.zeil.txt 1
-data.zemb.txt 1
-data.zevt.txt 1
+data.ek.txt 2.6885433903988862
+data.ye.txt 2.6885433903988862
+data.zaic.txt 4.261240455343955
+data.zbls.txt 2.6885433903988862
+data.zbot.txt 4.261240455343955
+data.zdpw.txt 2.6885433903988862
+data.zdqq.txt 2.6885433903988862
+data.zdzn.txt 4.261240455343955
+data.zeil.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862
+data.zevt.txt 2.6885433903988862

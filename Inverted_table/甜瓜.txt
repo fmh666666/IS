@@ -1,11 +1,11 @@
 10
-data.ee.txt 1
-data.vi.txt 1
-data.zafu.txt 1
-data.zasd.txt 1
-data.zazw.txt 1
-data.zcko.txt 1
-data.zehb.txt 3
-data.zekw.txt 1
-data.zesq.txt 1
-data.zeun.txt 1
+data.ee.txt 2.7546073728089153
+data.vi.txt 2.7546073728089153
+data.zafu.txt 2.7546073728089153
+data.zasd.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zehb.txt 5.509214745617831
+data.zekw.txt 2.7546073728089153
+data.zesq.txt 2.7546073728089153
+data.zeun.txt 2.7546073728089153

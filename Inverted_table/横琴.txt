@@ -1,7 +1,7 @@
 6
-data.zaqf.txt 1
-data.zbfp.txt 1
-data.zbux.txt 1
-data.zcrn.txt 3
-data.zeil.txt 2
-data.zexx.txt 1
+data.zaqf.txt 3.1086847136800873
+data.zbfp.txt 3.1086847136800873
+data.zbux.txt 3.1086847136800873
+data.zcrn.txt 6.2173694273601745
+data.zeil.txt 4.927148697748023
+data.zexx.txt 3.1086847136800873

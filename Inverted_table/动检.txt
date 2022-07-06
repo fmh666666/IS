@@ -1,6 +1,6 @@
 5
-data.bs.txt 7
-data.ew.txt 1
-data.zcse.txt 1
-data.zdsh.txt 1
-data.zeqh.txt 1
+data.bs.txt 9.70518116018135
+data.ew.txt 3.235060386727117
+data.zcse.txt 3.235060386727117
+data.zdsh.txt 3.235060386727117
+data.zeqh.txt 3.235060386727117

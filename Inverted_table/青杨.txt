@@ -1,4 +1,4 @@
 3
-data.zbcv.txt 1
-data.zeoo.txt 2
-data.zezh.txt 1
+data.zbcv.txt 3.5891377275982888
+data.zeoo.txt 5.688648708166832
+data.zezh.txt 3.5891377275982888

@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.qn.txt 1
-data.tv.txt 4
-data.zaxk.txt 1
-data.zblr.txt 1
-data.zcdv.txt 6
-data.zcxr.txt 1
-data.zdod.txt 1
-data.zdrq.txt 1
-data.zduo.txt 1
-data.zedx.txt 1
-data.zesi.txt 1
+data.ev.txt 2.628231699761886
+data.qn.txt 2.628231699761886
+data.tv.txt 6.1025650235506905
+data.zaxk.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zcdv.txt 7.378379198634354
+data.zcxr.txt 2.628231699761886
+data.zdod.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zduo.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zesi.txt 2.628231699761886

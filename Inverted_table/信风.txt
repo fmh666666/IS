@@ -1,8 +1,8 @@
 7
-data.zbga.txt 1
-data.zbhe.txt 5
-data.zbxw.txt 1
-data.zbye.txt 1
-data.zcmy.txt 1
-data.zedo.txt 1
-data.zewp.txt 1
+data.zbga.txt 3.0018356045764243
+data.zbhe.txt 7.759632471159678
+data.zbxw.txt 3.0018356045764243
+data.zbye.txt 3.0018356045764243
+data.zcmy.txt 3.0018356045764243
+data.zedo.txt 3.0018356045764243
+data.zewp.txt 3.0018356045764243

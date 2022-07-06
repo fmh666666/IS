@@ -1,10 +1,10 @@
 9
-data.zafv.txt 1
-data.zagr.txt 2
-data.zazw.txt 1
-data.zbfr.txt 1
-data.zbvm.txt 1
-data.zclh.txt 1
-data.zdbf.txt 1
-data.zelt.txt 1
-data.zfaw.txt 1
+data.zafv.txt 2.82763771717948
+data.zagr.txt 4.48169974735425
+data.zazw.txt 2.82763771717948
+data.zbfr.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zclh.txt 2.82763771717948
+data.zdbf.txt 2.82763771717948
+data.zelt.txt 2.82763771717948
+data.zfaw.txt 2.82763771717948

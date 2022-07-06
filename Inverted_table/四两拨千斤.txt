@@ -1,4 +1,4 @@
 3
-data.ry.txt 1
-data.zbfp.txt 1
-data.zdst.txt 1
+data.ry.txt 3.5891377275982888
+data.zbfp.txt 3.5891377275982888
+data.zdst.txt 3.5891377275982888

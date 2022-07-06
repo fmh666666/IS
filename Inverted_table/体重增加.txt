@@ -1,10 +1,10 @@
 9
-data.fe.txt 1
-data.zaim.txt 1
-data.zate.txt 1
-data.zbes.txt 1
-data.zcql.txt 2
-data.zdnh.txt 1
-data.zeaj.txt 1
-data.zexm.txt 2
-data.zfcp.txt 1
+data.fe.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zate.txt 2.82763771717948
+data.zbes.txt 2.82763771717948
+data.zcql.txt 4.48169974735425
+data.zdnh.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948
+data.zexm.txt 4.48169974735425
+data.zfcp.txt 2.82763771717948

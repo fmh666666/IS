@@ -1,11 +1,11 @@
 10
-data.be.txt 2
-data.ha.txt 1
-data.zaoy.txt 1
-data.zbor.txt 1
-data.zcdy.txt 1
-data.zcon.txt 3
-data.zcpx.txt 1
-data.zdme.txt 1
-data.zexx.txt 1
-data.zezh.txt 1
+data.be.txt 4.365949390112154
+data.ha.txt 2.7546073728089153
+data.zaoy.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zcdy.txt 2.7546073728089153
+data.zcon.txt 5.509214745617831
+data.zcpx.txt 2.7546073728089153
+data.zdme.txt 2.7546073728089153
+data.zexx.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153

@@ -1,11 +1,11 @@
 10
-data.cf.txt 1
-data.zazw.txt 1
-data.zbdb.txt 1
-data.zbfz.txt 1
-data.zbor.txt 2
-data.zcdy.txt 1
-data.zcvt.txt 2
-data.zdme.txt 1
-data.zebv.txt 1
-data.zehj.txt 1
+data.cf.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zbfz.txt 2.7546073728089153
+data.zbor.txt 4.365949390112154
+data.zcdy.txt 2.7546073728089153
+data.zcvt.txt 4.365949390112154
+data.zdme.txt 2.7546073728089153
+data.zebv.txt 2.7546073728089153
+data.zehj.txt 2.7546073728089153

@@ -1,14 +1,14 @@
 13
-data.aj.txt 2
-data.bs.txt 1
-data.zafy.txt 1
-data.zako.txt 1
-data.zavg.txt 1
-data.zbnx.txt 1
-data.zbsu.txt 1
-data.zdof.txt 1
-data.zdqx.txt 2
-data.zeaj.txt 1
-data.zecf.txt 2
-data.zezy.txt 1
-data.zfas.txt 1
+data.aj.txt 4.077712785060798
+data.bs.txt 2.5727503226135906
+data.zafy.txt 2.5727503226135906
+data.zako.txt 2.5727503226135906
+data.zavg.txt 2.5727503226135906
+data.zbnx.txt 2.5727503226135906
+data.zbsu.txt 2.5727503226135906
+data.zdof.txt 2.5727503226135906
+data.zdqx.txt 4.077712785060798
+data.zeaj.txt 2.5727503226135906
+data.zecf.txt 4.077712785060798
+data.zezy.txt 2.5727503226135906
+data.zfas.txt 2.5727503226135906

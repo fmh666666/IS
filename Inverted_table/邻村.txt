@@ -1,5 +1,5 @@
 4
-data.zank.txt 1
-data.zbhd.txt 1
-data.zdrq.txt 1
-data.zegk.txt 1
+data.zank.txt 3.389731710180695
+data.zbhd.txt 3.389731710180695
+data.zdrq.txt 3.389731710180695
+data.zegk.txt 3.389731710180695

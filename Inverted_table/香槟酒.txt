@@ -1,4 +1,4 @@
 3
-data.cz.txt 2
-data.zeew.txt 1
-data.zexk.txt 1
+data.cz.txt 5.688648708166832
+data.zeew.txt 3.5891377275982888
+data.zexk.txt 3.5891377275982888

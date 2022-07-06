@@ -1,11 +1,11 @@
 10
-data.zane.txt 17
-data.zaub.txt 1
-data.zavg.txt 1
-data.zbkj.txt 1
-data.zcdg.txt 1
-data.zcdv.txt 1
-data.zchw.txt 1
-data.zcmy.txt 1
-data.zdof.txt 1
-data.zeob.txt 1
+data.zane.txt 11.486506153033222
+data.zaub.txt 2.7546073728089153
+data.zavg.txt 2.7546073728089153
+data.zbkj.txt 2.7546073728089153
+data.zcdg.txt 2.7546073728089153
+data.zcdv.txt 2.7546073728089153
+data.zchw.txt 2.7546073728089153
+data.zcmy.txt 2.7546073728089153
+data.zdof.txt 2.7546073728089153
+data.zeob.txt 2.7546073728089153

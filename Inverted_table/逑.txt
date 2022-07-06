@@ -1,12 +1,12 @@
 11
-data.tz.txt 2
-data.zalt.txt 1
-data.zarr.txt 1
-data.zblq.txt 1
-data.zbpc.txt 1
-data.zcef.txt 1
-data.zdwl.txt 1
-data.zeai.txt 1
-data.zegn.txt 1
-data.zeqv.txt 2
-data.zfai.txt 1
+data.tz.txt 4.261240455343955
+data.zalt.txt 2.6885433903988862
+data.zarr.txt 2.6885433903988862
+data.zblq.txt 2.6885433903988862
+data.zbpc.txt 2.6885433903988862
+data.zcef.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zeai.txt 2.6885433903988862
+data.zegn.txt 2.6885433903988862
+data.zeqv.txt 4.261240455343955
+data.zfai.txt 2.6885433903988862

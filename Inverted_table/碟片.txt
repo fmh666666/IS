@@ -1,10 +1,10 @@
 9
-data.bs.txt 1
-data.kq.txt 1
-data.pa.txt 1
-data.zacp.txt 1
-data.zatz.txt 1
-data.zbjh.txt 1
-data.zbmt.txt 1
-data.zeez.txt 1
-data.zejk.txt 1
+data.bs.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.pa.txt 2.82763771717948
+data.zacp.txt 2.82763771717948
+data.zatz.txt 2.82763771717948
+data.zbjh.txt 2.82763771717948
+data.zbmt.txt 2.82763771717948
+data.zeez.txt 2.82763771717948
+data.zejk.txt 2.82763771717948

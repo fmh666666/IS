@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.zasq.txt 2
-data.zaxj.txt 1
+data.mx.txt 3.5891377275982888
+data.zasq.txt 5.688648708166832
+data.zaxj.txt 3.5891377275982888

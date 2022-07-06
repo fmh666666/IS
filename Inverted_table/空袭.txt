@@ -1,10 +1,10 @@
 9
-data.gw.txt 1
-data.zawo.txt 1
-data.zbds.txt 1
-data.zcln.txt 1
-data.zeai.txt 1
-data.zene.txt 1
-data.zeos.txt 1
-data.zexk.txt 2
-data.zfai.txt 2
+data.gw.txt 2.82763771717948
+data.zawo.txt 2.82763771717948
+data.zbds.txt 2.82763771717948
+data.zcln.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zene.txt 2.82763771717948
+data.zeos.txt 2.82763771717948
+data.zexk.txt 4.48169974735425
+data.zfai.txt 4.48169974735425

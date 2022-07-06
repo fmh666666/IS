@@ -1,7 +1,7 @@
 6
-data.zazn.txt 1
-data.zcgo.txt 1
-data.zcxq.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zewd.txt 2
+data.zazn.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zcxq.txt 3.1086847136800873
+data.zene.txt 3.1086847136800873
+data.zeoh.txt 3.1086847136800873
+data.zewd.txt 4.927148697748023

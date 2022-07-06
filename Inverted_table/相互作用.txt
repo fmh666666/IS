@@ -1,6 +1,6 @@
 5
-data.gw.txt 1
-data.kq.txt 1
-data.zaeh.txt 1
-data.zcql.txt 1
-data.zebn.txt 2
+data.gw.txt 3.235060386727117
+data.kq.txt 3.235060386727117
+data.zaeh.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zebn.txt 5.1274494005309625

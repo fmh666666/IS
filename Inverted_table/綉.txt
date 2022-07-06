@@ -1,5 +1,5 @@
 4
-data.by.txt 1
-data.mo.txt 1
-data.zbaq.txt 1
-data.zbmw.txt 1
+data.by.txt 3.389731710180695
+data.mo.txt 3.389731710180695
+data.zbaq.txt 3.389731710180695
+data.zbmw.txt 3.389731710180695

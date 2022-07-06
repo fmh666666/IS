@@ -1,4 +1,4 @@
 3
-data.zbla.txt 2
-data.zbpc.txt 1
-data.zcaq.txt 1
+data.zbla.txt 5.688648708166832
+data.zbpc.txt 3.5891377275982888
+data.zcaq.txt 3.5891377275982888

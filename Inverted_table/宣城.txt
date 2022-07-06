@@ -1,11 +1,11 @@
 10
-data.to.txt 1
-data.zblq.txt 1
-data.zbwa.txt 2
-data.zctm.txt 1
-data.zcve.txt 1
-data.zdaw.txt 1
-data.zeam.txt 1
-data.zevy.txt 1
-data.zexv.txt 2
-data.zfae.txt 2
+data.to.txt 2.7546073728089153
+data.zblq.txt 2.7546073728089153
+data.zbwa.txt 4.365949390112154
+data.zctm.txt 2.7546073728089153
+data.zcve.txt 2.7546073728089153
+data.zdaw.txt 2.7546073728089153
+data.zeam.txt 2.7546073728089153
+data.zevy.txt 2.7546073728089153
+data.zexv.txt 4.365949390112154
+data.zfae.txt 4.365949390112154

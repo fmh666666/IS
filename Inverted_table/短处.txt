@@ -1,13 +1,13 @@
 12
-data.qn.txt 1
-data.zabe.txt 2
-data.zakb.txt 1
-data.zaoc.txt 2
-data.zbdb.txt 1
-data.zbjh.txt 1
-data.zcvq.txt 1
-data.zdeb.txt 3
-data.zdgv.txt 1
-data.zebn.txt 9
-data.zelt.txt 1
-data.zeyg.txt 1
+data.qn.txt 2.628231699761886
+data.zabe.txt 4.165648687329214
+data.zakb.txt 2.628231699761886
+data.zaoc.txt 4.165648687329214
+data.zbdb.txt 2.628231699761886
+data.zbjh.txt 2.628231699761886
+data.zcvq.txt 2.628231699761886
+data.zdeb.txt 5.256463399523772
+data.zdgv.txt 2.628231699761886
+data.zebn.txt 8.730796723312578
+data.zelt.txt 2.628231699761886
+data.zeyg.txt 2.628231699761886

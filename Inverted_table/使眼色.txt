@@ -1,4 +1,4 @@
 3
-data.zaql.txt 1
-data.zbpm.txt 1
-data.zcrg.txt 1
+data.zaql.txt 3.5891377275982888
+data.zbpm.txt 3.5891377275982888
+data.zcrg.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.ew.txt 1
-data.zaeh.txt 2
-data.zafy.txt 2
-data.zarr.txt 2
-data.zcaq.txt 3
-data.zcsu.txt 1
-data.zctm.txt 4
-data.zdgt.txt 1
-data.zdqx.txt 3
-data.zeeq.txt 1
-data.zety.txt 3
+data.ew.txt 2.6885433903988862
+data.zaeh.txt 4.261240455343955
+data.zafy.txt 4.261240455343955
+data.zarr.txt 4.261240455343955
+data.zcaq.txt 5.3770867807977725
+data.zcsu.txt 2.6885433903988862
+data.zctm.txt 6.2426044324908965
+data.zdgt.txt 2.6885433903988862
+data.zdqx.txt 5.3770867807977725
+data.zeeq.txt 2.6885433903988862
+data.zety.txt 5.3770867807977725

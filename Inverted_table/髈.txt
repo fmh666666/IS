@@ -1,5 +1,5 @@
 4
-data.zakb.txt 4
-data.zdwz.txt 2
-data.zedx.txt 2
-data.zezm.txt 1
+data.zakb.txt 7.870713291999142
+data.zdwz.txt 5.372597648141796
+data.zedx.txt 5.372597648141796
+data.zezm.txt 3.389731710180695

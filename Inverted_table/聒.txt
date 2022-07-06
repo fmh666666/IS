@@ -1,4 +1,4 @@
 3
-data.zczp.txt 1
-data.zdgt.txt 3
-data.zfas.txt 2
+data.zczp.txt 3.5891377275982888
+data.zdgt.txt 7.1782754551965775
+data.zfas.txt 5.688648708166832

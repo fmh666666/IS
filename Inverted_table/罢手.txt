@@ -1,8 +1,8 @@
 7
-data.zaqw.txt 1
-data.zawc.txt 2
-data.zczp.txt 1
-data.zdil.txt 2
-data.zdpf.txt 1
-data.zdsh.txt 1
-data.zerw.txt 1
+data.zaqw.txt 3.0018356045764243
+data.zawc.txt 4.757796866583254
+data.zczp.txt 3.0018356045764243
+data.zdil.txt 4.757796866583254
+data.zdpf.txt 3.0018356045764243
+data.zdsh.txt 3.0018356045764243
+data.zerw.txt 3.0018356045764243

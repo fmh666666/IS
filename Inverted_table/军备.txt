@@ -1,4 +1,4 @@
 3
-data.zacp.txt 1
-data.zbpx.txt 2
-data.zfaj.txt 2
+data.zacp.txt 3.5891377275982888
+data.zbpx.txt 5.688648708166832
+data.zfaj.txt 5.688648708166832

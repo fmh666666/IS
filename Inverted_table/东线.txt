@@ -1,6 +1,6 @@
 5
-data.hz.txt 113
-data.zair.txt 2
-data.zbkv.txt 1
-data.zbsl.txt 1
-data.zfaj.txt 1
+data.hz.txt 22.104811811687647
+data.zair.txt 5.1274494005309625
+data.zbkv.txt 3.235060386727117
+data.zbsl.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

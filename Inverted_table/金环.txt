@@ -1,4 +1,4 @@
 3
-data.zbph.txt 1
-data.zcon.txt 1
-data.zdux.txt 1
+data.zbph.txt 3.5891377275982888
+data.zcon.txt 3.5891377275982888
+data.zdux.txt 3.5891377275982888

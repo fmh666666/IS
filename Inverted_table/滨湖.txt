@@ -1,9 +1,9 @@
 8
-data.qn.txt 5
-data.xe.txt 1
-data.zasq.txt 4
-data.zcls.txt 4
-data.zdga.txt 4
-data.zdof.txt 1
-data.zeva.txt 2
-data.zfaj.txt 2
+data.qn.txt 7.52037633398548
+data.xe.txt 2.9092786962624935
+data.zasq.txt 6.7551359407091605
+data.zcls.txt 6.7551359407091605
+data.zdga.txt 6.7551359407091605
+data.zdof.txt 2.9092786962624935
+data.zeva.txt 4.611097637722987
+data.zfaj.txt 4.611097637722987

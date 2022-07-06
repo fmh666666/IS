@@ -1,7 +1,7 @@
 6
-data.en.txt 1
-data.kt.txt 1
-data.zalj.txt 1
-data.zblq.txt 2
-data.zcej.txt 3
-data.zfai.txt 1
+data.en.txt 3.1086847136800873
+data.kt.txt 3.1086847136800873
+data.zalj.txt 3.1086847136800873
+data.zblq.txt 4.927148697748023
+data.zcej.txt 6.2173694273601745
+data.zfai.txt 3.1086847136800873

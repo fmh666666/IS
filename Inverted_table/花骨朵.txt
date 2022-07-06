@@ -1,10 +1,10 @@
 9
-data.wg.txt 1
-data.zbla.txt 2
-data.zcdv.txt 1
-data.zcjo.txt 5
-data.zdaa.txt 1
-data.zdlm.txt 2
-data.zdzm.txt 1
-data.zeoo.txt 1
-data.zfby.txt 1
+data.wg.txt 2.82763771717948
+data.zbla.txt 4.48169974735425
+data.zcdv.txt 2.82763771717948
+data.zcjo.txt 7.309337464533731
+data.zdaa.txt 2.82763771717948
+data.zdlm.txt 4.48169974735425
+data.zdzm.txt 2.82763771717948
+data.zeoo.txt 2.82763771717948
+data.zfby.txt 2.82763771717948

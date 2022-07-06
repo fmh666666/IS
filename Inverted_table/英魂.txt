@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zawc.txt 1
-data.zaxj.txt 1
+data.tz.txt 3.5891377275982888
+data.zawc.txt 3.5891377275982888
+data.zaxj.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zacd.txt 1
-data.zamr.txt 1
-data.zbzf.txt 1
-data.zefs.txt 1
-data.zewd.txt 1
+data.zacd.txt 3.235060386727117
+data.zamr.txt 3.235060386727117
+data.zbzf.txt 3.235060386727117
+data.zefs.txt 3.235060386727117
+data.zewd.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.zbsd.txt 1
-data.zdaa.txt 3
-data.zexm.txt 2
+data.zbsd.txt 3.5891377275982888
+data.zdaa.txt 7.1782754551965775
+data.zexm.txt 5.688648708166832

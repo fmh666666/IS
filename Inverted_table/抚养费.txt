@@ -1,13 +1,13 @@
 12
-data.hp.txt 1
-data.ok.txt 1
-data.op.txt 1
-data.yx.txt 1
-data.zako.txt 1
-data.zbfz.txt 4
-data.zcdy.txt 2
-data.zcxr.txt 2
-data.zeaf.txt 1
-data.zefu.txt 1
-data.zemb.txt 2
-data.zfai.txt 1
+data.hp.txt 2.628231699761886
+data.ok.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.yx.txt 2.628231699761886
+data.zako.txt 2.628231699761886
+data.zbfz.txt 6.1025650235506905
+data.zcdy.txt 4.165648687329214
+data.zcxr.txt 4.165648687329214
+data.zeaf.txt 2.628231699761886
+data.zefu.txt 2.628231699761886
+data.zemb.txt 4.165648687329214
+data.zfai.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.cf.txt 2
-data.zarc.txt 1
-data.zbnx.txt 1
-data.zbsu.txt 1
-data.zccu.txt 1
-data.zcfn.txt 1
-data.zdby.txt 1
-data.zdod.txt 1
-data.zdof.txt 1
+data.cf.txt 4.48169974735425
+data.zarc.txt 2.82763771717948
+data.zbnx.txt 2.82763771717948
+data.zbsu.txt 2.82763771717948
+data.zccu.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zdby.txt 2.82763771717948
+data.zdod.txt 2.82763771717948
+data.zdof.txt 2.82763771717948

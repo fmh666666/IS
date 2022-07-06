@@ -1,11 +1,11 @@
 10
-data.vi.txt 1
-data.zbaq.txt 1
-data.zbdb.txt 1
-data.zblr.txt 1
-data.zciq.txt 1
-data.zcse.txt 1
-data.zdgt.txt 1
-data.zduc.txt 1
-data.zedx.txt 1
-data.zeqn.txt 1
+data.vi.txt 2.7546073728089153
+data.zbaq.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zblr.txt 2.7546073728089153
+data.zciq.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zdgt.txt 2.7546073728089153
+data.zduc.txt 2.7546073728089153
+data.zedx.txt 2.7546073728089153
+data.zeqn.txt 2.7546073728089153

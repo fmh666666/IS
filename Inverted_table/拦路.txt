@@ -1,9 +1,9 @@
 8
-data.zall.txt 1
-data.zawb.txt 1
-data.zbdb.txt 4
-data.zbfr.txt 1
-data.zcue.txt 1
-data.zcxp.txt 1
-data.zdpw.txt 1
-data.zdst.txt 1
+data.zall.txt 2.9092786962624935
+data.zawb.txt 2.9092786962624935
+data.zbdb.txt 6.7551359407091605
+data.zbfr.txt 2.9092786962624935
+data.zcue.txt 2.9092786962624935
+data.zcxp.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zdst.txt 2.9092786962624935

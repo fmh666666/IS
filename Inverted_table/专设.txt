@@ -1,6 +1,6 @@
 5
-data.zasw.txt 1
-data.zchw.txt 1
-data.zcue.txt 2
-data.zdji.txt 1
-data.zfai.txt 1
+data.zasw.txt 3.235060386727117
+data.zchw.txt 3.235060386727117
+data.zcue.txt 5.1274494005309625
+data.zdji.txt 3.235060386727117
+data.zfai.txt 3.235060386727117

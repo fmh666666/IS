@@ -1,7 +1,7 @@
 6
-data.bf.txt 1
-data.zacd.txt 2
-data.zadv.txt 1
-data.zbkj.txt 1
-data.zdod.txt 1
-data.zess.txt 1
+data.bf.txt 3.1086847136800873
+data.zacd.txt 4.927148697748023
+data.zadv.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873

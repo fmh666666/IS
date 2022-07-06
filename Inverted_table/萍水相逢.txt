@@ -1,11 +1,11 @@
 10
-data.zajn.txt 1
-data.zaxk.txt 1
-data.zcby.txt 1
-data.zciy.txt 1
-data.zdji.txt 1
-data.zdnh.txt 1
-data.zdoc.txt 1
-data.zebc.txt 1
-data.zedk.txt 1
-data.zefd.txt 1
+data.zajn.txt 2.7546073728089153
+data.zaxk.txt 2.7546073728089153
+data.zcby.txt 2.7546073728089153
+data.zciy.txt 2.7546073728089153
+data.zdji.txt 2.7546073728089153
+data.zdnh.txt 2.7546073728089153
+data.zdoc.txt 2.7546073728089153
+data.zebc.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zefd.txt 2.7546073728089153

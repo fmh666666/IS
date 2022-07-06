@@ -1,4 +1,4 @@
 3
-data.ev.txt 1
-data.zdpg.txt 10
-data.zenn.txt 1
+data.ev.txt 3.5891377275982888
+data.zdpg.txt 12.41637653849754
+data.zenn.txt 3.5891377275982888

@@ -1,11 +1,11 @@
 10
-data.zasd.txt 2
-data.zaxj.txt 1
-data.zcdz.txt 1
-data.zcfn.txt 1
-data.zcse.txt 2
-data.zcue.txt 1
-data.zedy.txt 2
-data.zene.txt 1
-data.zeyu.txt 1
-data.zfae.txt 1
+data.zasd.txt 4.365949390112154
+data.zaxj.txt 2.7546073728089153
+data.zcdz.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zcse.txt 4.365949390112154
+data.zcue.txt 2.7546073728089153
+data.zedy.txt 4.365949390112154
+data.zene.txt 2.7546073728089153
+data.zeyu.txt 2.7546073728089153
+data.zfae.txt 2.7546073728089153

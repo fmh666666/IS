@@ -1,12 +1,12 @@
 11
-data.kt.txt 1
-data.nh.txt 1
-data.zajo.txt 1
-data.zbht.txt 1
-data.zbuj.txt 1
-data.zcda.txt 1
-data.zcgi.txt 1
-data.zdil.txt 1
-data.zdpg.txt 1
-data.zeag.txt 1
-data.zebc.txt 1
+data.kt.txt 2.6885433903988862
+data.nh.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zbht.txt 2.6885433903988862
+data.zbuj.txt 2.6885433903988862
+data.zcda.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zdil.txt 2.6885433903988862
+data.zdpg.txt 2.6885433903988862
+data.zeag.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862

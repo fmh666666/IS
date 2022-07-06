@@ -1,4 +1,4 @@
 3
-data.zdof.txt 1
-data.zeob.txt 1
-data.zfaj.txt 1
+data.zdof.txt 3.5891377275982888
+data.zeob.txt 3.5891377275982888
+data.zfaj.txt 3.5891377275982888

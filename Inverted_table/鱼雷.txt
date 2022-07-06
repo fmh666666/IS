@@ -1,5 +1,5 @@
 4
-data.zbkv.txt 1
-data.zbnp.txt 1
-data.zcko.txt 1
-data.zdqq.txt 1
+data.zbkv.txt 3.389731710180695
+data.zbnp.txt 3.389731710180695
+data.zcko.txt 3.389731710180695
+data.zdqq.txt 3.389731710180695

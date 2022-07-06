@@ -1,9 +1,9 @@
 8
-data.zafk.txt 1
-data.zbjc.txt 1
-data.zcgo.txt 1
-data.zcve.txt 1
-data.zdqz.txt 1
-data.zedk.txt 1
-data.zedo.txt 1
-data.zene.txt 1
+data.zafk.txt 2.9092786962624935
+data.zbjc.txt 2.9092786962624935
+data.zcgo.txt 2.9092786962624935
+data.zcve.txt 2.9092786962624935
+data.zdqz.txt 2.9092786962624935
+data.zedk.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935

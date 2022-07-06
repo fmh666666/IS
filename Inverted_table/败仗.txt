@@ -1,4 +1,4 @@
 3
-data.zccx.txt 1
-data.zdof.txt 1
-data.zevq.txt 1
+data.zccx.txt 3.5891377275982888
+data.zdof.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

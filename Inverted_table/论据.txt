@@ -1,7 +1,7 @@
 6
-data.zawu.txt 1
-data.zbjk.txt 1
-data.zbnx.txt 2
-data.zcrg.txt 1
-data.zdzg.txt 1
-data.zfai.txt 1
+data.zawu.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbnx.txt 4.927148697748023
+data.zcrg.txt 3.1086847136800873
+data.zdzg.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

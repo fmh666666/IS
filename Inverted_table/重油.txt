@@ -1,4 +1,4 @@
 3
-data.zcem.txt 1
-data.zcln.txt 1
-data.zebc.txt 1
+data.zcem.txt 3.5891377275982888
+data.zcln.txt 3.5891377275982888
+data.zebc.txt 3.5891377275982888

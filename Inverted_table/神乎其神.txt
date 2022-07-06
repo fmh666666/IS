@@ -1,4 +1,4 @@
 3
-data.ka.txt 1
-data.zaim.txt 1
-data.zccx.txt 1
+data.ka.txt 3.5891377275982888
+data.zaim.txt 3.5891377275982888
+data.zccx.txt 3.5891377275982888

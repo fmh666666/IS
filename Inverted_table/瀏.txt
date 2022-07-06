@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.mu.txt 2
-data.tv.txt 1
-data.vm.txt 1
-data.zbes.txt 4
-data.zbxw.txt 1
-data.zcis.txt 1
-data.zcqs.txt 2
-data.zdqk.txt 2
-data.zemf.txt 1
-data.zeyy.txt 1
+data.fj.txt 2.6885433903988862
+data.mu.txt 4.261240455343955
+data.tv.txt 2.6885433903988862
+data.vm.txt 2.6885433903988862
+data.zbes.txt 6.2426044324908965
+data.zbxw.txt 2.6885433903988862
+data.zcis.txt 2.6885433903988862
+data.zcqs.txt 4.261240455343955
+data.zdqk.txt 4.261240455343955
+data.zemf.txt 2.6885433903988862
+data.zeyy.txt 2.6885433903988862

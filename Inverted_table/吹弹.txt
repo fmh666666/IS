@@ -1,6 +1,6 @@
 5
-data.zayv.txt 1
-data.zbup.txt 1
-data.zdxw.txt 1
-data.zdzm.txt 1
-data.zety.txt 1
+data.zayv.txt 3.235060386727117
+data.zbup.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117
+data.zety.txt 3.235060386727117

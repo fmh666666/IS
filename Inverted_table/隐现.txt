@@ -1,9 +1,9 @@
 8
-data.co.txt 1
-data.zbdb.txt 1
-data.zbla.txt 1
-data.zbye.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zcem.txt 1
-data.zdpz.txt 1
+data.co.txt 2.9092786962624935
+data.zbdb.txt 2.9092786962624935
+data.zbla.txt 2.9092786962624935
+data.zbye.txt 2.9092786962624935
+data.zcdy.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zdpz.txt 2.9092786962624935

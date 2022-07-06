@@ -1,5 +1,5 @@
 4
-data.zako.txt 1
-data.zalm.txt 1
-data.zbvg.txt 1
-data.zcue.txt 1
+data.zako.txt 3.389731710180695
+data.zalm.txt 3.389731710180695
+data.zbvg.txt 3.389731710180695
+data.zcue.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zbjk.txt 1
-data.zcqp.txt 1
-data.zcvt.txt 1
-data.zeoh.txt 2
+data.zadv.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zcqp.txt 3.235060386727117
+data.zcvt.txt 3.235060386727117
+data.zeoh.txt 5.1274494005309625

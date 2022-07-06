@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.zazw.txt 1
-data.zdcy.txt 1
-data.zeel.txt 1
-data.zefu.txt 1
-data.zejn.txt 1
+data.ga.txt 3.1086847136800873
+data.zazw.txt 3.1086847136800873
+data.zdcy.txt 3.1086847136800873
+data.zeel.txt 3.1086847136800873
+data.zefu.txt 3.1086847136800873
+data.zejn.txt 3.1086847136800873

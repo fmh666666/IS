@@ -1,12 +1,12 @@
 11
-data.ka.txt 1
-data.zaet.txt 1
-data.zapl.txt 1
-data.zaqw.txt 1
-data.zbds.txt 1
-data.zbem.txt 2
-data.zblr.txt 1
-data.zbsd.txt 1
-data.zcmy.txt 1
-data.zdlw.txt 1
-data.zezh.txt 1
+data.ka.txt 2.6885433903988862
+data.zaet.txt 2.6885433903988862
+data.zapl.txt 2.6885433903988862
+data.zaqw.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbem.txt 4.261240455343955
+data.zblr.txt 2.6885433903988862
+data.zbsd.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zdlw.txt 2.6885433903988862
+data.zezh.txt 2.6885433903988862

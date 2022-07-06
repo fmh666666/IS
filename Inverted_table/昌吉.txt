@@ -1,4 +1,4 @@
 3
-data.mo.txt 1
-data.zbrj.txt 1
-data.zelt.txt 2
+data.mo.txt 3.5891377275982888
+data.zbrj.txt 3.5891377275982888
+data.zelt.txt 5.688648708166832

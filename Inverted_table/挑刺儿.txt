@@ -1,11 +1,11 @@
 10
-data.xe.txt 1
-data.zblh.txt 1
-data.zccl.txt 1
-data.zchd.txt 1
-data.zcpc.txt 1
-data.zcrv.txt 1
-data.zdaw.txt 1
-data.zduk.txt 1
-data.zezh.txt 1
-data.zfdk.txt 1
+data.xe.txt 2.7546073728089153
+data.zblh.txt 2.7546073728089153
+data.zccl.txt 2.7546073728089153
+data.zchd.txt 2.7546073728089153
+data.zcpc.txt 2.7546073728089153
+data.zcrv.txt 2.7546073728089153
+data.zdaw.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153
+data.zfdk.txt 2.7546073728089153

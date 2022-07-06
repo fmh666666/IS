@@ -1,7 +1,7 @@
 6
-data.zbhv.txt 1
-data.zbmt.txt 1
-data.zcao.txt 1
-data.zctm.txt 2
-data.zess.txt 2
-data.zewv.txt 2
+data.zbhv.txt 3.1086847136800873
+data.zbmt.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zctm.txt 4.927148697748023
+data.zess.txt 4.927148697748023
+data.zewv.txt 4.927148697748023

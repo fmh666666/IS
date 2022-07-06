@@ -1,11 +1,11 @@
 10
-data.hz.txt 1
-data.zagr.txt 1
-data.zajo.txt 1
-data.zapl.txt 1
-data.zawb.txt 1
-data.zbnx.txt 1
-data.zcdy.txt 2
-data.zcsu.txt 2
-data.zdgt.txt 1
-data.zexv.txt 1
+data.hz.txt 2.7546073728089153
+data.zagr.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zapl.txt 2.7546073728089153
+data.zawb.txt 2.7546073728089153
+data.zbnx.txt 2.7546073728089153
+data.zcdy.txt 4.365949390112154
+data.zcsu.txt 4.365949390112154
+data.zdgt.txt 2.7546073728089153
+data.zexv.txt 2.7546073728089153

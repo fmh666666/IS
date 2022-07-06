@@ -1,9 +1,9 @@
 8
-data.ft.txt 1
-data.gw.txt 1
-data.pa.txt 1
-data.zawu.txt 1
-data.zcql.txt 1
-data.zdgp.txt 1
-data.zeoo.txt 1
-data.zfai.txt 1
+data.ft.txt 2.9092786962624935
+data.gw.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.zawu.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdgp.txt 2.9092786962624935
+data.zeoo.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

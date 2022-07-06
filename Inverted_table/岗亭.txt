@@ -1,5 +1,5 @@
 4
-data.hz.txt 2
-data.zabx.txt 4
-data.zaqr.txt 2
-data.zcxq.txt 1
+data.hz.txt 5.372597648141796
+data.zabx.txt 7.870713291999142
+data.zaqr.txt 5.372597648141796
+data.zcxq.txt 3.389731710180695

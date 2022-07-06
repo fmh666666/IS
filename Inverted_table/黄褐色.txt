@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zbcj.txt 1
-data.zbhe.txt 2
-data.zcqs.txt 1
-data.zczp.txt 1
+data.zabe.txt 3.235060386727117
+data.zbcj.txt 3.235060386727117
+data.zbhe.txt 5.1274494005309625
+data.zcqs.txt 3.235060386727117
+data.zczp.txt 3.235060386727117

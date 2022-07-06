@@ -1,7 +1,7 @@
 6
-data.zahd.txt 4
-data.zbeb.txt 2
-data.zcse.txt 4
-data.zctp.txt 1
-data.zcvq.txt 1
-data.zfdk.txt 2
+data.zahd.txt 7.21814237484067
+data.zbeb.txt 4.927148697748023
+data.zcse.txt 7.21814237484067
+data.zctp.txt 3.1086847136800873
+data.zcvq.txt 3.1086847136800873
+data.zfdk.txt 4.927148697748023

@@ -1,6 +1,6 @@
 5
-data.zaqw.txt 1
-data.zbta.txt 1
-data.zcve.txt 1
-data.zdgt.txt 1
-data.zeqn.txt 1
+data.zaqw.txt 3.235060386727117
+data.zbta.txt 3.235060386727117
+data.zcve.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117

@@ -1,13 +1,13 @@
 12
-data.by.txt 1
-data.mu.txt 1
-data.zaip.txt 1
-data.zaoc.txt 1
-data.zbzf.txt 1
-data.zcfn.txt 1
-data.zcuh.txt 1
-data.zdof.txt 3
-data.zeaj.txt 5
-data.zejk.txt 2
-data.zelj.txt 1
-data.zfae.txt 2
+data.by.txt 2.628231699761886
+data.mu.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zaoc.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcfn.txt 2.628231699761886
+data.zcuh.txt 2.628231699761886
+data.zdof.txt 5.256463399523772
+data.zeaj.txt 6.7938803870911
+data.zejk.txt 4.165648687329214
+data.zelj.txt 2.628231699761886
+data.zfae.txt 4.165648687329214

@@ -1,3 +1,3 @@
 2
-data.zeac.txt 1
-data.zezn.txt 2
+data.zeac.txt 3.8701847240988965
+data.zezn.txt 6.134097658560606

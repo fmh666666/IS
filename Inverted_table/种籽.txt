@@ -1,4 +1,4 @@
 3
-data.zbua.txt 1
-data.zcjd.txt 1
-data.zeay.txt 1
+data.zbua.txt 3.5891377275982888
+data.zcjd.txt 3.5891377275982888
+data.zeay.txt 3.5891377275982888

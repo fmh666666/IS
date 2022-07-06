@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.fz.txt 1
-data.zavx.txt 1
-data.zbhv.txt 3
-data.zckd.txt 3
-data.zcxq.txt 1
-data.zduc.txt 1
-data.zduk.txt 1
-data.zeeq.txt 2
-data.zewg.txt 1
-data.zewv.txt 4
+data.be.txt 2.6885433903988862
+data.fz.txt 2.6885433903988862
+data.zavx.txt 2.6885433903988862
+data.zbhv.txt 5.3770867807977725
+data.zckd.txt 5.3770867807977725
+data.zcxq.txt 2.6885433903988862
+data.zduc.txt 2.6885433903988862
+data.zduk.txt 2.6885433903988862
+data.zeeq.txt 4.261240455343955
+data.zewg.txt 2.6885433903988862
+data.zewv.txt 6.2426044324908965

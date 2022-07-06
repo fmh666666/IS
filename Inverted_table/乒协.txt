@@ -1,5 +1,5 @@
 4
-data.zawu.txt 1
-data.zbts.txt 8
-data.zdey.txt 3
-data.zexv.txt 2
+data.zawu.txt 3.389731710180695
+data.zbts.txt 10.745195296283592
+data.zdey.txt 6.77946342036139
+data.zexv.txt 5.372597648141796

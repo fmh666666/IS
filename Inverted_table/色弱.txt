@@ -1,4 +1,4 @@
 3
-data.hp.txt 1
-data.mk.txt 7
-data.zbre.txt 1
+data.hp.txt 3.5891377275982888
+data.mk.txt 10.767413182794865
+data.zbre.txt 3.5891377275982888

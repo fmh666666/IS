@@ -1,10 +1,10 @@
 9
-data.kt.txt 1
-data.vz.txt 1
-data.zayv.txt 1
-data.zbmt.txt 1
-data.zcak.txt 2
-data.zcli.txt 1
-data.zcll.txt 1
-data.zddb.txt 1
-data.zewv.txt 1
+data.kt.txt 2.82763771717948
+data.vz.txt 2.82763771717948
+data.zayv.txt 2.82763771717948
+data.zbmt.txt 2.82763771717948
+data.zcak.txt 4.48169974735425
+data.zcli.txt 2.82763771717948
+data.zcll.txt 2.82763771717948
+data.zddb.txt 2.82763771717948
+data.zewv.txt 2.82763771717948

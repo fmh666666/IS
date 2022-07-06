@@ -1,9 +1,9 @@
 8
-data.bb.txt 1
-data.fp.txt 1
-data.op.txt 1
-data.zadv.txt 1
-data.zaim.txt 1
-data.zcej.txt 4
-data.zdzn.txt 1
-data.zfai.txt 1
+data.bb.txt 2.9092786962624935
+data.fp.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zaim.txt 2.9092786962624935
+data.zcej.txt 6.7551359407091605
+data.zdzn.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zebf.txt 1
-data.zeoo.txt 1
+data.ye.txt 3.5891377275982888
+data.zebf.txt 3.5891377275982888
+data.zeoo.txt 3.5891377275982888

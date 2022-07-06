@@ -1,4 +1,4 @@
 3
-data.zbdb.txt 2
-data.zdpf.txt 1
-data.zeqv.txt 1
+data.zbdb.txt 5.688648708166832
+data.zdpf.txt 3.5891377275982888
+data.zeqv.txt 3.5891377275982888

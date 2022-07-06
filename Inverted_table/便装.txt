@@ -1,11 +1,11 @@
 10
-data.ff.txt 1
-data.fj.txt 1
-data.jf.txt 1
-data.op.txt 3
-data.tv.txt 1
-data.zbcc.txt 1
-data.zbua.txt 1
-data.zdoq.txt 1
-data.zdpw.txt 1
-data.zexx.txt 1
+data.ff.txt 2.7546073728089153
+data.fj.txt 2.7546073728089153
+data.jf.txt 2.7546073728089153
+data.op.txt 5.509214745617831
+data.tv.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbua.txt 2.7546073728089153
+data.zdoq.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153
+data.zexx.txt 2.7546073728089153

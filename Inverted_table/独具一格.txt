@@ -1,9 +1,9 @@
 8
-data.zafy.txt 1
-data.zaoc.txt 1
-data.zatz.txt 1
-data.zbjc.txt 2
-data.zcbm.txt 1
-data.zdaw.txt 1
-data.zeob.txt 2
-data.zeoh.txt 1
+data.zafy.txt 2.9092786962624935
+data.zaoc.txt 2.9092786962624935
+data.zatz.txt 2.9092786962624935
+data.zbjc.txt 4.611097637722987
+data.zcbm.txt 2.9092786962624935
+data.zdaw.txt 2.9092786962624935
+data.zeob.txt 4.611097637722987
+data.zeoh.txt 2.9092786962624935

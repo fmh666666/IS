@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.op.txt 1
-data.yx.txt 1
+data.bs.txt 3.5891377275982888
+data.op.txt 3.5891377275982888
+data.yx.txt 3.5891377275982888

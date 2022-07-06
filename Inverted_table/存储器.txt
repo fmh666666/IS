@@ -1,4 +1,4 @@
 3
-data.zazg.txt 2
-data.zbnx.txt 2
-data.zddv.txt 1
+data.zazg.txt 5.688648708166832
+data.zbnx.txt 5.688648708166832
+data.zddv.txt 3.5891377275982888

@@ -1,9 +1,9 @@
 8
-data.vi.txt 1
-data.zabe.txt 1
-data.zafq.txt 1
-data.zakb.txt 2
-data.zcgi.txt 1
-data.zcli.txt 1
-data.zcrg.txt 2
-data.zdro.txt 1
+data.vi.txt 2.9092786962624935
+data.zabe.txt 2.9092786962624935
+data.zafq.txt 2.9092786962624935
+data.zakb.txt 4.611097637722987
+data.zcgi.txt 2.9092786962624935
+data.zcli.txt 2.9092786962624935
+data.zcrg.txt 4.611097637722987
+data.zdro.txt 2.9092786962624935

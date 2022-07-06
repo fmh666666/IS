@@ -1,4 +1,4 @@
 3
-data.zbvp.txt 1
-data.zdtr.txt 1
-data.zenw.txt 1
+data.zbvp.txt 3.5891377275982888
+data.zdtr.txt 3.5891377275982888
+data.zenw.txt 3.5891377275982888

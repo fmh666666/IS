@@ -1,10 +1,10 @@
 9
-data.ee.txt 1
-data.en.txt 2
-data.kt.txt 4
-data.zbdx.txt 1
-data.zbot.txt 1
-data.zcbe.txt 1
-data.zcjo.txt 2
-data.zcve.txt 1
-data.zeai.txt 1
+data.ee.txt 2.82763771717948
+data.en.txt 4.48169974735425
+data.kt.txt 6.565571457682201
+data.zbdx.txt 2.82763771717948
+data.zbot.txt 2.82763771717948
+data.zcbe.txt 2.82763771717948
+data.zcjo.txt 4.48169974735425
+data.zcve.txt 2.82763771717948
+data.zeai.txt 2.82763771717948

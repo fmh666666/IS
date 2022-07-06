@@ -1,11 +1,11 @@
 10
-data.zair.txt 1
-data.zbfx.txt 2
-data.zbkf.txt 2
-data.zblr.txt 3
-data.zcaq.txt 2
-data.zcrg.txt 1
-data.zcse.txt 1
-data.zddl.txt 2
-data.zenn.txt 22
-data.zeqh.txt 1
+data.zair.txt 2.7546073728089153
+data.zbfx.txt 4.365949390112154
+data.zbkf.txt 4.365949390112154
+data.zblr.txt 5.509214745617831
+data.zcaq.txt 4.365949390112154
+data.zcrg.txt 2.7546073728089153
+data.zcse.txt 2.7546073728089153
+data.zddl.txt 4.365949390112154
+data.zenn.txt 12.460637115512567
+data.zeqh.txt 2.7546073728089153

@@ -1,7 +1,7 @@
 6
-data.zamr.txt 1
-data.zard.txt 1
-data.zbhv.txt 1
-data.zcao.txt 1
-data.zcdv.txt 1
-data.zcse.txt 1
+data.zamr.txt 3.1086847136800873
+data.zard.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zcdv.txt 3.1086847136800873
+data.zcse.txt 3.1086847136800873

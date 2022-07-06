@@ -1,12 +1,12 @@
 11
-data.cz.txt 1
-data.zbgd.txt 6
-data.zcnn.txt 1
-data.zcvi.txt 1
-data.zdoq.txt 1
-data.zdpz.txt 1
-data.zdwk.txt 1
-data.zdwl.txt 1
-data.zdwv.txt 2
-data.zemf.txt 1
-data.zezn.txt 2
+data.cz.txt 2.6885433903988862
+data.zbgd.txt 7.547695520201752
+data.zcnn.txt 2.6885433903988862
+data.zcvi.txt 2.6885433903988862
+data.zdoq.txt 2.6885433903988862
+data.zdpz.txt 2.6885433903988862
+data.zdwk.txt 2.6885433903988862
+data.zdwl.txt 2.6885433903988862
+data.zdwv.txt 4.261240455343955
+data.zemf.txt 2.6885433903988862
+data.zezn.txt 4.261240455343955

@@ -1,12 +1,12 @@
 11
-data.mk.txt 3
-data.mo.txt 2
-data.mu.txt 1
-data.zajr.txt 1
-data.zall.txt 1
-data.zate.txt 1
-data.zavg.txt 1
-data.zbdb.txt 1
-data.zccx.txt 1
-data.zcic.txt 1
-data.zeva.txt 1
+data.mk.txt 5.3770867807977725
+data.mo.txt 4.261240455343955
+data.mu.txt 2.6885433903988862
+data.zajr.txt 2.6885433903988862
+data.zall.txt 2.6885433903988862
+data.zate.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zccx.txt 2.6885433903988862
+data.zcic.txt 2.6885433903988862
+data.zeva.txt 2.6885433903988862

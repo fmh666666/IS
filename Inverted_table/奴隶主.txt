@@ -1,4 +1,4 @@
 3
-data.zako.txt 5
-data.zedx.txt 3
-data.zezy.txt 1
+data.zako.txt 9.27778643576512
+data.zedx.txt 7.1782754551965775
+data.zezy.txt 3.5891377275982888

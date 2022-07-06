@@ -1,10 +1,10 @@
 9
-data.zafu.txt 2
-data.zavg.txt 1
-data.zbia.txt 1
-data.zcgi.txt 1
-data.zdji.txt 1
-data.zedo.txt 1
-data.zehb.txt 1
-data.zemb.txt 1
-data.zexx.txt 2
+data.zafu.txt 4.48169974735425
+data.zavg.txt 2.82763771717948
+data.zbia.txt 2.82763771717948
+data.zcgi.txt 2.82763771717948
+data.zdji.txt 2.82763771717948
+data.zedo.txt 2.82763771717948
+data.zehb.txt 2.82763771717948
+data.zemb.txt 2.82763771717948
+data.zexx.txt 4.48169974735425

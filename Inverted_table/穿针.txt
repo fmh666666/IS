@@ -1,4 +1,4 @@
 3
-data.zaoy.txt 1
-data.zdkv.txt 1
-data.zeta.txt 1
+data.zaoy.txt 3.5891377275982888
+data.zdkv.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

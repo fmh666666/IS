@@ -1,7 +1,7 @@
 6
-data.mk.txt 1
-data.zass.txt 1
-data.zcic.txt 1
-data.zdaw.txt 1
-data.zegl.txt 4
-data.zegn.txt 4
+data.mk.txt 3.1086847136800873
+data.zass.txt 3.1086847136800873
+data.zcic.txt 3.1086847136800873
+data.zdaw.txt 3.1086847136800873
+data.zegl.txt 7.21814237484067
+data.zegn.txt 7.21814237484067

@@ -1,6 +1,6 @@
 5
-data.zalc.txt 1
-data.zass.txt 1
-data.zbgd.txt 1
-data.zbse.txt 1
-data.zebc.txt 1
+data.zalc.txt 3.235060386727117
+data.zass.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zbse.txt 3.235060386727117
+data.zebc.txt 3.235060386727117

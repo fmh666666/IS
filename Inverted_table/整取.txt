@@ -1,4 +1,4 @@
 3
-data.bf.txt 1
-data.zcdz.txt 1
-data.zcon.txt 2
+data.bf.txt 3.5891377275982888
+data.zcdz.txt 3.5891377275982888
+data.zcon.txt 5.688648708166832

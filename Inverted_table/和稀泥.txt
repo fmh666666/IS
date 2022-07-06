@@ -1,3 +1,3 @@
 2
-data.zawu.txt 1
-data.zbfx.txt 3
+data.zawu.txt 3.8701847240988965
+data.zbfx.txt 7.740369448197793

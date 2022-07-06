@@ -1,12 +1,12 @@
 11
-data.vz.txt 1
-data.zafy.txt 2
-data.zawz.txt 1
-data.zbds.txt 1
-data.zbxy.txt 1
-data.zcko.txt 1
-data.zcrg.txt 1
-data.zczl.txt 1
-data.zczp.txt 1
-data.zdep.txt 1
-data.zevl.txt 1
+data.vz.txt 2.6885433903988862
+data.zafy.txt 4.261240455343955
+data.zawz.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbxy.txt 2.6885433903988862
+data.zcko.txt 2.6885433903988862
+data.zcrg.txt 2.6885433903988862
+data.zczl.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zevl.txt 2.6885433903988862

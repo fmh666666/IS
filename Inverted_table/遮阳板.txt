@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zbcj.txt 1
-data.zbha.txt 1
+data.hz.txt 3.5891377275982888
+data.zbcj.txt 3.5891377275982888
+data.zbha.txt 3.5891377275982888

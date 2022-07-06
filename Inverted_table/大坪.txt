@@ -1,9 +1,9 @@
 8
-data.zagr.txt 1
-data.zasj.txt 3
-data.zawo.txt 1
-data.zbkv.txt 1
-data.zbtj.txt 1
-data.zdqz.txt 1
-data.zfae.txt 1
-data.zfdk.txt 1
+data.zagr.txt 2.9092786962624935
+data.zasj.txt 5.818557392524987
+data.zawo.txt 2.9092786962624935
+data.zbkv.txt 2.9092786962624935
+data.zbtj.txt 2.9092786962624935
+data.zdqz.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935
+data.zfdk.txt 2.9092786962624935

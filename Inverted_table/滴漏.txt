@@ -1,4 +1,4 @@
 3
-data.zddp.txt 1
-data.zdnh.txt 1
-data.zegl.txt 1
+data.zddp.txt 3.5891377275982888
+data.zdnh.txt 3.5891377275982888
+data.zegl.txt 3.5891377275982888

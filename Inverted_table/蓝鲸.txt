@@ -1,14 +1,14 @@
 13
-data.cq.txt 1
-data.zagr.txt 1
-data.zall.txt 1
-data.zane.txt 1
-data.zbfd.txt 1
-data.zbkj.txt 4
-data.zbux.txt 1
-data.zdji.txt 1
-data.zdkk.txt 1
-data.zdqx.txt 1
-data.zejk.txt 2
-data.zfai.txt 8
-data.zfaj.txt 7
+data.cq.txt 2.5727503226135906
+data.zagr.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zane.txt 2.5727503226135906
+data.zbfd.txt 2.5727503226135906
+data.zbkj.txt 5.97374125520702
+data.zbux.txt 2.5727503226135906
+data.zdji.txt 2.5727503226135906
+data.zdkk.txt 2.5727503226135906
+data.zdqx.txt 2.5727503226135906
+data.zejk.txt 4.077712785060798
+data.zfai.txt 8.155425570121595
+data.zfaj.txt 7.7182509678407705

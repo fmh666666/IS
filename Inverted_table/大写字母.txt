@@ -1,6 +1,6 @@
 5
-data.zaxk.txt 1
-data.zbbt.txt 1
-data.zctp.txt 1
-data.zdbf.txt 1
-data.zdoq.txt 1
+data.zaxk.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zdbf.txt 3.235060386727117
+data.zdoq.txt 3.235060386727117

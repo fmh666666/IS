@@ -1,14 +1,14 @@
 13
-data.ff.txt 2
-data.kt.txt 1
-data.op.txt 1
-data.qb.txt 1
-data.zafi.txt 1
-data.zaoy.txt 1
-data.zavx.txt 2
-data.zazx.txt 1
-data.zcgi.txt 1
-data.zctm.txt 1
-data.zene.txt 1
-data.zerw.txt 1
-data.zeyu.txt 1
+data.ff.txt 4.077712785060798
+data.kt.txt 2.5727503226135906
+data.op.txt 2.5727503226135906
+data.qb.txt 2.5727503226135906
+data.zafi.txt 2.5727503226135906
+data.zaoy.txt 2.5727503226135906
+data.zavx.txt 4.077712785060798
+data.zazx.txt 2.5727503226135906
+data.zcgi.txt 2.5727503226135906
+data.zctm.txt 2.5727503226135906
+data.zene.txt 2.5727503226135906
+data.zerw.txt 2.5727503226135906
+data.zeyu.txt 2.5727503226135906

@@ -1,13 +1,13 @@
 12
-data.zasy.txt 2
-data.zbcv.txt 1
-data.zbdx.txt 1
-data.zbnp.txt 1
-data.zcjy.txt 1
-data.zcmy.txt 1
-data.zcrn.txt 1
-data.zcxh.txt 1
-data.zddb.txt 1
-data.zdil.txt 1
-data.zdwd.txt 1
-data.zenw.txt 1
+data.zasy.txt 4.165648687329214
+data.zbcv.txt 2.628231699761886
+data.zbdx.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zcjy.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zcrn.txt 2.628231699761886
+data.zcxh.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zdil.txt 2.628231699761886
+data.zdwd.txt 2.628231699761886
+data.zenw.txt 2.628231699761886

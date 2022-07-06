@@ -1,13 +1,13 @@
 12
-data.bf.txt 1
-data.zabe.txt 1
-data.zasr.txt 1
-data.zbeb.txt 1
-data.zblr.txt 1
-data.zbre.txt 1
-data.zcdv.txt 1
-data.zcih.txt 1
-data.zdqz.txt 1
-data.zevt.txt 1
-data.zfby.txt 3
-data.zfcg.txt 1
+data.bf.txt 2.628231699761886
+data.zabe.txt 2.628231699761886
+data.zasr.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbre.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zcih.txt 2.628231699761886
+data.zdqz.txt 2.628231699761886
+data.zevt.txt 2.628231699761886
+data.zfby.txt 5.256463399523772
+data.zfcg.txt 2.628231699761886

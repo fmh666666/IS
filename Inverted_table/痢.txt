@@ -1,8 +1,8 @@
 7
-data.to.txt 1
-data.zbem.txt 1
-data.zbor.txt 1
-data.zbua.txt 1
-data.zdgv.txt 1
-data.zejk.txt 1
-data.zeyg.txt 1
+data.to.txt 3.0018356045764243
+data.zbem.txt 3.0018356045764243
+data.zbor.txt 3.0018356045764243
+data.zbua.txt 3.0018356045764243
+data.zdgv.txt 3.0018356045764243
+data.zejk.txt 3.0018356045764243
+data.zeyg.txt 3.0018356045764243

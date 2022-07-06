@@ -1,4 +1,4 @@
 3
-data.zbcv.txt 1
-data.zddp.txt 2
-data.zebv.txt 1
+data.zbcv.txt 3.5891377275982888
+data.zddp.txt 5.688648708166832
+data.zebv.txt 3.5891377275982888

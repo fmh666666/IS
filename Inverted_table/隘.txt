@@ -1,2 +1,2 @@
 1
-data.zeds.txt 4
+data.zeds.txt 10.101867994579104

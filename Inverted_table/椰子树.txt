@@ -1,11 +1,11 @@
 10
-data.aj.txt 1
-data.ff.txt 1
-data.zabe.txt 1
-data.zazw.txt 1
-data.zbeb.txt 1
-data.zbhd.txt 1
-data.zbvf.txt 1
-data.zcyv.txt 1
-data.zdnc.txt 1
-data.zduk.txt 1
+data.aj.txt 2.7546073728089153
+data.ff.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zazw.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zbhd.txt 2.7546073728089153
+data.zbvf.txt 2.7546073728089153
+data.zcyv.txt 2.7546073728089153
+data.zdnc.txt 2.7546073728089153
+data.zduk.txt 2.7546073728089153

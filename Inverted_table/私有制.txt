@@ -1,4 +1,4 @@
 3
-data.ep.txt 1
-data.zasd.txt 1
-data.zelt.txt 1
+data.ep.txt 3.5891377275982888
+data.zasd.txt 3.5891377275982888
+data.zelt.txt 3.5891377275982888

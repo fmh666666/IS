@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.kq.txt 1
-data.zbzf.txt 3
-data.zcls.txt 1
-data.zdlw.txt 1
-data.zdwl.txt 1
-data.zeag.txt 3
+data.bs.txt 3.0018356045764243
+data.kq.txt 3.0018356045764243
+data.zbzf.txt 6.003671209152849
+data.zcls.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zdwl.txt 3.0018356045764243
+data.zeag.txt 6.003671209152849

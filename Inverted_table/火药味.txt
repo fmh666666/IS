@@ -1,7 +1,7 @@
 6
-data.cn.txt 1
-data.zaic.txt 1
-data.zazn.txt 1
-data.zcgo.txt 1
-data.zczj.txt 2
-data.zdeb.txt 1
+data.cn.txt 3.1086847136800873
+data.zaic.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zcgo.txt 3.1086847136800873
+data.zczj.txt 4.927148697748023
+data.zdeb.txt 3.1086847136800873

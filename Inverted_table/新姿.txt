@@ -1,7 +1,7 @@
 6
-data.ev.txt 1
-data.mo.txt 1
-data.tv.txt 1
-data.ud.txt 1
-data.zaop.txt 1
-data.zbcc.txt 1
+data.ev.txt 3.1086847136800873
+data.mo.txt 3.1086847136800873
+data.tv.txt 3.1086847136800873
+data.ud.txt 3.1086847136800873
+data.zaop.txt 3.1086847136800873
+data.zbcc.txt 3.1086847136800873

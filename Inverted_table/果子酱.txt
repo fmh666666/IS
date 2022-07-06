@@ -1,2 +1,2 @@
 1
-data.zdnh.txt 19
+data.zdnh.txt 18.8031434706133

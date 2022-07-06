@@ -1,10 +1,10 @@
 9
-data.mk.txt 1
-data.zabe.txt 1
-data.zacd.txt 1
-data.zawb.txt 1
-data.zbwa.txt 1
-data.zcxr.txt 1
-data.zdsh.txt 1
-data.zexv.txt 1
-data.zfae.txt 1
+data.mk.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zacd.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbwa.txt 2.82763771717948
+data.zcxr.txt 2.82763771717948
+data.zdsh.txt 2.82763771717948
+data.zexv.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

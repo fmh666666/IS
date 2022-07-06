@@ -1,4 +1,4 @@
 3
-data.zbyv.txt 1
-data.zefv.txt 1
-data.zfdk.txt 1
+data.zbyv.txt 3.5891377275982888
+data.zefv.txt 3.5891377275982888
+data.zfdk.txt 3.5891377275982888

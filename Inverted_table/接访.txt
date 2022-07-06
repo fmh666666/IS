@@ -1,5 +1,5 @@
 4
-data.zadv.txt 1
-data.zcni.txt 1
-data.zctp.txt 1
-data.zdaq.txt 3
+data.zadv.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zctp.txt 3.389731710180695
+data.zdaq.txt 6.77946342036139

@@ -1,6 +1,6 @@
 5
-data.zcmx.txt 1
-data.zeeh.txt 1
-data.zeqn.txt 1
-data.zeyg.txt 1
-data.zezh.txt 1
+data.zcmx.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117
+data.zeqn.txt 3.235060386727117
+data.zeyg.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

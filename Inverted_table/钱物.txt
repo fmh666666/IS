@@ -1,7 +1,7 @@
 6
-data.zaim.txt 1
-data.zasj.txt 1
-data.zbjk.txt 1
-data.zbor.txt 1
-data.zcrv.txt 1
-data.zczp.txt 1
+data.zaim.txt 3.1086847136800873
+data.zasj.txt 3.1086847136800873
+data.zbjk.txt 3.1086847136800873
+data.zbor.txt 3.1086847136800873
+data.zcrv.txt 3.1086847136800873
+data.zczp.txt 3.1086847136800873

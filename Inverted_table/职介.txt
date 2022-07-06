@@ -1,4 +1,4 @@
 3
-data.zbot.txt 1
-data.zddb.txt 1
-data.zevy.txt 3
+data.zbot.txt 3.5891377275982888
+data.zddb.txt 3.5891377275982888
+data.zevy.txt 7.1782754551965775

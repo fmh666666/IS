@@ -1,13 +1,13 @@
 12
-data.nh.txt 1
-data.zasw.txt 1
-data.zbds.txt 1
-data.zbnp.txt 1
-data.zbpp.txt 1
-data.zbzf.txt 1
-data.zcqe.txt 1
-data.zcqp.txt 1
-data.zdxw.txt 1
-data.zefw.txt 2
-data.zenn.txt 1
-data.zess.txt 1
+data.nh.txt 2.628231699761886
+data.zasw.txt 2.628231699761886
+data.zbds.txt 2.628231699761886
+data.zbnp.txt 2.628231699761886
+data.zbpp.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcqe.txt 2.628231699761886
+data.zcqp.txt 2.628231699761886
+data.zdxw.txt 2.628231699761886
+data.zefw.txt 4.165648687329214
+data.zenn.txt 2.628231699761886
+data.zess.txt 2.628231699761886

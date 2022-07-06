@@ -1,7 +1,7 @@
 6
-data.uz.txt 1
-data.zdep.txt 1
-data.zdud.txt 1
-data.zduk.txt 2
-data.zduo.txt 1
-data.zelt.txt 1
+data.uz.txt 3.1086847136800873
+data.zdep.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zduk.txt 4.927148697748023
+data.zduo.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

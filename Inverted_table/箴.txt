@@ -1,7 +1,7 @@
 6
-data.zbdb.txt 2
-data.zcdl.txt 1
-data.zdgt.txt 1
-data.zdrq.txt 1
-data.zeec.txt 1
-data.zelt.txt 1
+data.zbdb.txt 4.927148697748023
+data.zcdl.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zdrq.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zelt.txt 3.1086847136800873

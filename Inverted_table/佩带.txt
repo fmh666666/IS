@@ -1,11 +1,11 @@
 10
-data.en.txt 1
-data.ft.txt 1
-data.hz.txt 1
-data.zadv.txt 1
-data.zasw.txt 1
-data.zbaf.txt 1
-data.zbhe.txt 2
-data.zcxr.txt 1
-data.zdvl.txt 1
-data.zeew.txt 1
+data.en.txt 2.7546073728089153
+data.ft.txt 2.7546073728089153
+data.hz.txt 2.7546073728089153
+data.zadv.txt 2.7546073728089153
+data.zasw.txt 2.7546073728089153
+data.zbaf.txt 2.7546073728089153
+data.zbhe.txt 4.365949390112154
+data.zcxr.txt 2.7546073728089153
+data.zdvl.txt 2.7546073728089153
+data.zeew.txt 2.7546073728089153

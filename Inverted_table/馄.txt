@@ -1,7 +1,7 @@
 6
-data.zbia.txt 1
-data.zbnx.txt 1
-data.zdme.txt 1
-data.zdpw.txt 1
-data.zezm.txt 2
-data.zezn.txt 7
+data.zbia.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zdme.txt 3.1086847136800873
+data.zdpw.txt 3.1086847136800873
+data.zezm.txt 4.927148697748023
+data.zezn.txt 9.326054141040261

@@ -1,14 +1,14 @@
 13
-data.cz.txt 1
-data.ga.txt 1
-data.ok.txt 1
-data.xk.txt 1
-data.zaim.txt 1
-data.zawc.txt 1
-data.zaxx.txt 1
-data.zcse.txt 1
-data.zcvq.txt 2
-data.zdgt.txt 1
-data.zezy.txt 1
-data.zfae.txt 1
-data.zfai.txt 3
+data.cz.txt 2.5727503226135906
+data.ga.txt 2.5727503226135906
+data.ok.txt 2.5727503226135906
+data.xk.txt 2.5727503226135906
+data.zaim.txt 2.5727503226135906
+data.zawc.txt 2.5727503226135906
+data.zaxx.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zcvq.txt 4.077712785060798
+data.zdgt.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906
+data.zfai.txt 5.145500645227181

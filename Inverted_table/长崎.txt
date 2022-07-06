@@ -1,8 +1,8 @@
 7
-data.bs.txt 1
-data.fp.txt 1
-data.zbbt.txt 1
-data.zbcj.txt 4
-data.zbhd.txt 1
-data.zcjo.txt 1
-data.zdzg.txt 1
+data.bs.txt 3.0018356045764243
+data.fp.txt 3.0018356045764243
+data.zbbt.txt 3.0018356045764243
+data.zbcj.txt 6.970046426499191
+data.zbhd.txt 3.0018356045764243
+data.zcjo.txt 3.0018356045764243
+data.zdzg.txt 3.0018356045764243

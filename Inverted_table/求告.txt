@@ -1,11 +1,11 @@
 10
-data.jj.txt 1
-data.pq.txt 1
-data.zafi.txt 1
-data.zanm.txt 1
-data.zaqw.txt 1
-data.zatz.txt 1
-data.zdhv.txt 1
-data.zdlm.txt 1
-data.zegk.txt 1
-data.zewn.txt 1
+data.jj.txt 2.7546073728089153
+data.pq.txt 2.7546073728089153
+data.zafi.txt 2.7546073728089153
+data.zanm.txt 2.7546073728089153
+data.zaqw.txt 2.7546073728089153
+data.zatz.txt 2.7546073728089153
+data.zdhv.txt 2.7546073728089153
+data.zdlm.txt 2.7546073728089153
+data.zegk.txt 2.7546073728089153
+data.zewn.txt 2.7546073728089153

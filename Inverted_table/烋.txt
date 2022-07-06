@@ -1,6 +1,6 @@
 5
-data.zaej.txt 1
-data.zaip.txt 1
-data.zbeb.txt 1
-data.zdll.txt 4
-data.zdwv.txt 1
+data.zaej.txt 3.235060386727117
+data.zaip.txt 3.235060386727117
+data.zbeb.txt 3.235060386727117
+data.zdll.txt 7.511577600598868
+data.zdwv.txt 3.235060386727117

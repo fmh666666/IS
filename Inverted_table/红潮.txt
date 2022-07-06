@@ -1,4 +1,4 @@
 3
-data.by.txt 1
-data.hc.txt 1
-data.zbht.txt 1
+data.by.txt 3.5891377275982888
+data.hc.txt 3.5891377275982888
+data.zbht.txt 3.5891377275982888

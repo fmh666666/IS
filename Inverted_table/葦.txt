@@ -1,8 +1,8 @@
 7
-data.zaql.txt 4
-data.zasr.txt 1
-data.zbgd.txt 14
-data.zbgw.txt 3
-data.zbvp.txt 1
-data.zclh.txt 1
-data.zdic.txt 1
+data.zaql.txt 6.970046426499191
+data.zasr.txt 3.0018356045764243
+data.zbgd.txt 11.727843293082445
+data.zbgw.txt 6.003671209152849
+data.zbvp.txt 3.0018356045764243
+data.zclh.txt 3.0018356045764243
+data.zdic.txt 3.0018356045764243

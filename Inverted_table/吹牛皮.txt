@@ -1,11 +1,11 @@
 10
-data.ok.txt 1
-data.zajo.txt 3
-data.zbdx.txt 1
-data.zcvq.txt 1
-data.zdcw.txt 1
-data.zdyv.txt 1
-data.zeew.txt 1
-data.zerh.txt 1
-data.zexu.txt 1
-data.zfaj.txt 2
+data.ok.txt 2.7546073728089153
+data.zajo.txt 5.509214745617831
+data.zbdx.txt 2.7546073728089153
+data.zcvq.txt 2.7546073728089153
+data.zdcw.txt 2.7546073728089153
+data.zdyv.txt 2.7546073728089153
+data.zeew.txt 2.7546073728089153
+data.zerh.txt 2.7546073728089153
+data.zexu.txt 2.7546073728089153
+data.zfaj.txt 4.365949390112154

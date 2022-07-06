@@ -1,9 +1,9 @@
 8
-data.nh.txt 3
-data.op.txt 1
-data.to.txt 1
-data.zako.txt 1
-data.zcwq.txt 1
-data.zddb.txt 1
-data.zeec.txt 1
-data.zfae.txt 1
+data.nh.txt 5.818557392524987
+data.op.txt 2.9092786962624935
+data.to.txt 2.9092786962624935
+data.zako.txt 2.9092786962624935
+data.zcwq.txt 2.9092786962624935
+data.zddb.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zfae.txt 2.9092786962624935

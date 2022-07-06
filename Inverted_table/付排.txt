@@ -1,3 +1,3 @@
 2
-data.zefd.txt 1
-data.zety.txt 1
+data.zefd.txt 3.8701847240988965
+data.zety.txt 3.8701847240988965

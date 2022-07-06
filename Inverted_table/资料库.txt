@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.ew.txt 1
-data.zacd.txt 1
-data.zbrj.txt 1
-data.zcao.txt 1
-data.zcku.txt 1
-data.zcls.txt 1
-data.zdkk.txt 1
-data.zdrq.txt 2
-data.zeaf.txt 1
-data.zefv.txt 1
+data.dg.txt 2.6885433903988862
+data.ew.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zcao.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zcls.txt 2.6885433903988862
+data.zdkk.txt 2.6885433903988862
+data.zdrq.txt 4.261240455343955
+data.zeaf.txt 2.6885433903988862
+data.zefv.txt 2.6885433903988862

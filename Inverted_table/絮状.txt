@@ -1,3 +1,3 @@
 2
-data.zbtj.txt 1
-data.zcxr.txt 2
+data.zbtj.txt 3.8701847240988965
+data.zcxr.txt 6.134097658560606

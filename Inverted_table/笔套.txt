@@ -1,4 +1,4 @@
 3
-data.zagr.txt 1
-data.zbpx.txt 1
-data.zdoc.txt 1
+data.zagr.txt 3.5891377275982888
+data.zbpx.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888

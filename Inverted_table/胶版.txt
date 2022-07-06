@@ -1,6 +1,6 @@
 5
-data.zasd.txt 1
-data.zbfz.txt 2
-data.zcve.txt 2
-data.zdep.txt 2
-data.zelt.txt 2
+data.zasd.txt 3.235060386727117
+data.zbfz.txt 5.1274494005309625
+data.zcve.txt 5.1274494005309625
+data.zdep.txt 5.1274494005309625
+data.zelt.txt 5.1274494005309625

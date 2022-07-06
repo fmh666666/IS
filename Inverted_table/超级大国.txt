@@ -1,13 +1,13 @@
 12
-data.hu.txt 1
-data.xe.txt 1
-data.zakb.txt 1
-data.zbel.txt 1
-data.zbgu.txt 1
-data.zbsm.txt 1
-data.zclm.txt 1
-data.zcmy.txt 1
-data.zcue.txt 1
-data.zczl.txt 1
-data.zdfl.txt 2
-data.zfdk.txt 1
+data.hu.txt 2.628231699761886
+data.xe.txt 2.628231699761886
+data.zakb.txt 2.628231699761886
+data.zbel.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zclm.txt 2.628231699761886
+data.zcmy.txt 2.628231699761886
+data.zcue.txt 2.628231699761886
+data.zczl.txt 2.628231699761886
+data.zdfl.txt 4.165648687329214
+data.zfdk.txt 2.628231699761886

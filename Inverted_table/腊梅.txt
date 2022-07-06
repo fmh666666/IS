@@ -1,8 +1,8 @@
 7
-data.zabe.txt 3
-data.zahd.txt 1
-data.zbht.txt 1
-data.zclm.txt 68
-data.zcln.txt 90
-data.zeoh.txt 1
-data.zexm.txt 1
+data.zabe.txt 6.003671209152849
+data.zahd.txt 3.0018356045764243
+data.zbht.txt 3.0018356045764243
+data.zclm.txt 18.336786205782573
+data.zcln.txt 19.535329658220068
+data.zeoh.txt 3.0018356045764243
+data.zexm.txt 3.0018356045764243

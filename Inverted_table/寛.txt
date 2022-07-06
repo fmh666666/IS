@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zbbt.txt 1
-data.zebv.txt 2
-data.zegn.txt 2
-data.zesi.txt 1
+data.tz.txt 3.235060386727117
+data.zbbt.txt 3.235060386727117
+data.zebv.txt 5.1274494005309625
+data.zegn.txt 5.1274494005309625
+data.zesi.txt 3.235060386727117

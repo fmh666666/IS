@@ -1,10 +1,10 @@
 9
-data.by.txt 1
-data.kt.txt 1
-data.zank.txt 1
-data.zbhd.txt 2
-data.zblr.txt 1
-data.zcue.txt 1
-data.zeeh.txt 2
-data.zehj.txt 1
-data.zelt.txt 2
+data.by.txt 2.82763771717948
+data.kt.txt 2.82763771717948
+data.zank.txt 2.82763771717948
+data.zbhd.txt 4.48169974735425
+data.zblr.txt 2.82763771717948
+data.zcue.txt 2.82763771717948
+data.zeeh.txt 4.48169974735425
+data.zehj.txt 2.82763771717948
+data.zelt.txt 4.48169974735425

@@ -1,6 +1,6 @@
 5
-data.zbre.txt 1
-data.zcfn.txt 1
-data.zciy.txt 1
-data.zdvl.txt 1
-data.zeam.txt 1
+data.zbre.txt 3.235060386727117
+data.zcfn.txt 3.235060386727117
+data.zciy.txt 3.235060386727117
+data.zdvl.txt 3.235060386727117
+data.zeam.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.zaet.txt 1
-data.zaic.txt 1
-data.zbcc.txt 1
-data.zbut.txt 1
-data.zchd.txt 1
-data.zcqp.txt 1
-data.zdod.txt 1
-data.zeaj.txt 1
-data.zezm.txt 3
-data.zfaz.txt 1
+data.gw.txt 2.6885433903988862
+data.zaet.txt 2.6885433903988862
+data.zaic.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbut.txt 2.6885433903988862
+data.zchd.txt 2.6885433903988862
+data.zcqp.txt 2.6885433903988862
+data.zdod.txt 2.6885433903988862
+data.zeaj.txt 2.6885433903988862
+data.zezm.txt 5.3770867807977725
+data.zfaz.txt 2.6885433903988862

@@ -1,4 +1,4 @@
 3
-data.zbkj.txt 1
-data.zehp.txt 1
-data.zeoh.txt 1
+data.zbkj.txt 3.5891377275982888
+data.zehp.txt 3.5891377275982888
+data.zeoh.txt 3.5891377275982888

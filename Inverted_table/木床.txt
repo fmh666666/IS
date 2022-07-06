@@ -1,4 +1,4 @@
 3
-data.zamr.txt 2
-data.zbhv.txt 2
-data.zfai.txt 1
+data.zamr.txt 5.688648708166832
+data.zbhv.txt 5.688648708166832
+data.zfai.txt 3.5891377275982888

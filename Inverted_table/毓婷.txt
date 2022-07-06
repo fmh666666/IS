@@ -1,4 +1,4 @@
 3
-data.zbmw.txt 1
-data.zcxh.txt 1
-data.zefv.txt 2
+data.zbmw.txt 3.5891377275982888
+data.zcxh.txt 3.5891377275982888
+data.zefv.txt 5.688648708166832

@@ -1,3 +1,3 @@
 2
-data.zbfr.txt 1
-data.zeaf.txt 1
+data.zbfr.txt 3.8701847240988965
+data.zeaf.txt 3.8701847240988965

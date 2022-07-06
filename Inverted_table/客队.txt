@@ -1,4 +1,4 @@
 3
-data.zbaq.txt 1
-data.zbxw.txt 1
-data.zcni.txt 2
+data.zbaq.txt 3.5891377275982888
+data.zbxw.txt 3.5891377275982888
+data.zcni.txt 5.688648708166832

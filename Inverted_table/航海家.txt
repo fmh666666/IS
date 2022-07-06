@@ -1,6 +1,6 @@
 5
-data.ep.txt 1
-data.hg.txt 1
-data.kq.txt 1
-data.zbrj.txt 1
-data.zexm.txt 1
+data.ep.txt 3.235060386727117
+data.hg.txt 3.235060386727117
+data.kq.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

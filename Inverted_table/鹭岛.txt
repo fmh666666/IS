@@ -1,10 +1,10 @@
 9
-data.jf.txt 1
-data.kq.txt 1
-data.mo.txt 1
-data.zbta.txt 1
-data.zdji.txt 1
-data.zdqx.txt 1
-data.zdzi.txt 1
-data.zefd.txt 1
-data.zfcj.txt 1
+data.jf.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.mo.txt 2.82763771717948
+data.zbta.txt 2.82763771717948
+data.zdji.txt 2.82763771717948
+data.zdqx.txt 2.82763771717948
+data.zdzi.txt 2.82763771717948
+data.zefd.txt 2.82763771717948
+data.zfcj.txt 2.82763771717948

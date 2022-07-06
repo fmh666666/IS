@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zafi.txt 1
-data.zaxj.txt 1
-data.zbzf.txt 3
-data.zddl.txt 1
-data.zdmw.txt 3
-data.zdoq.txt 1
-data.zdxw.txt 1
+data.bs.txt 2.9092786962624935
+data.zafi.txt 2.9092786962624935
+data.zaxj.txt 2.9092786962624935
+data.zbzf.txt 5.818557392524987
+data.zddl.txt 2.9092786962624935
+data.zdmw.txt 5.818557392524987
+data.zdoq.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935

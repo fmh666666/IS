@@ -1,13 +1,13 @@
 12
-data.ng.txt 1
-data.zaim.txt 2
-data.zbdx.txt 1
-data.zbfz.txt 1
-data.zbht.txt 1
-data.zbsl.txt 1
-data.zbup.txt 1
-data.zbwq.txt 1
-data.zcxr.txt 1
-data.zdud.txt 2
-data.zdzg.txt 2
-data.zeaj.txt 1
+data.ng.txt 2.628231699761886
+data.zaim.txt 4.165648687329214
+data.zbdx.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbht.txt 2.628231699761886
+data.zbsl.txt 2.628231699761886
+data.zbup.txt 2.628231699761886
+data.zbwq.txt 2.628231699761886
+data.zcxr.txt 2.628231699761886
+data.zdud.txt 4.165648687329214
+data.zdzg.txt 4.165648687329214
+data.zeaj.txt 2.628231699761886

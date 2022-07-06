@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zbkj.txt 1
-data.zbpm.txt 1
-data.zczj.txt 1
-data.zdlm.txt 1
+data.tz.txt 3.235060386727117
+data.zbkj.txt 3.235060386727117
+data.zbpm.txt 3.235060386727117
+data.zczj.txt 3.235060386727117
+data.zdlm.txt 3.235060386727117

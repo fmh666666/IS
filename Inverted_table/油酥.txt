@@ -1,6 +1,6 @@
 5
-data.zazw.txt 4
-data.zazx.txt 3
-data.zbjk.txt 2
-data.zcic.txt 1
-data.zdwl.txt 1
+data.zazw.txt 7.511577600598868
+data.zazx.txt 6.470120773454234
+data.zbjk.txt 5.1274494005309625
+data.zcic.txt 3.235060386727117
+data.zdwl.txt 3.235060386727117

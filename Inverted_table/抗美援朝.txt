@@ -1,7 +1,7 @@
 6
-data.ga.txt 2
-data.zawc.txt 2
-data.zbdb.txt 1
-data.zdzm.txt 1
-data.zebf.txt 1
-data.zeoh.txt 2
+data.ga.txt 4.927148697748023
+data.zawc.txt 4.927148697748023
+data.zbdb.txt 3.1086847136800873
+data.zdzm.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zeoh.txt 4.927148697748023

@@ -1,6 +1,6 @@
 5
-data.sq.txt 2
-data.zafq.txt 1
-data.zbla.txt 1
-data.zcdy.txt 1
-data.zexv.txt 1
+data.sq.txt 5.1274494005309625
+data.zafq.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zexv.txt 3.235060386727117

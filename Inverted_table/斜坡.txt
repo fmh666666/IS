@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.hz.txt 1
-data.zafq.txt 1
-data.zazg.txt 1
-data.zbcj.txt 2
-data.zbdx.txt 1
-data.zbux.txt 1
-data.zchw.txt 2
-data.zcoy.txt 1
-data.zcts.txt 1
-data.zefs.txt 1
-data.zeyy.txt 1
+data.ga.txt 2.628231699761886
+data.hz.txt 2.628231699761886
+data.zafq.txt 2.628231699761886
+data.zazg.txt 2.628231699761886
+data.zbcj.txt 4.165648687329214
+data.zbdx.txt 2.628231699761886
+data.zbux.txt 2.628231699761886
+data.zchw.txt 4.165648687329214
+data.zcoy.txt 2.628231699761886
+data.zcts.txt 2.628231699761886
+data.zefs.txt 2.628231699761886
+data.zeyy.txt 2.628231699761886

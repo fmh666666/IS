@@ -1,14 +1,14 @@
 13
-data.zagr.txt 1
-data.zbkf.txt 1
-data.zbuj.txt 1
-data.zcrg.txt 1
-data.zcxr.txt 1
-data.zdgt.txt 1
-data.zdji.txt 1
-data.zdux.txt 1
-data.zedd.txt 5
-data.zeeh.txt 1
-data.zevy.txt 1
-data.zexk.txt 1
-data.zfai.txt 1
+data.zagr.txt 2.5727503226135906
+data.zbkf.txt 2.5727503226135906
+data.zbuj.txt 2.5727503226135906
+data.zcrg.txt 2.5727503226135906
+data.zcxr.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zdji.txt 2.5727503226135906
+data.zdux.txt 2.5727503226135906
+data.zedd.txt 6.650463107674388
+data.zeeh.txt 2.5727503226135906
+data.zevy.txt 2.5727503226135906
+data.zexk.txt 2.5727503226135906
+data.zfai.txt 2.5727503226135906

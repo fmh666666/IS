@@ -1,12 +1,12 @@
 11
-data.op.txt 1
-data.vz.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zckd.txt 1
-data.zcls.txt 2
-data.zdux.txt 1
-data.zedd.txt 1
-data.zety.txt 1
-data.zevl.txt 1
-data.zewv.txt 2
+data.op.txt 2.6885433903988862
+data.vz.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zckd.txt 2.6885433903988862
+data.zcls.txt 4.261240455343955
+data.zdux.txt 2.6885433903988862
+data.zedd.txt 2.6885433903988862
+data.zety.txt 2.6885433903988862
+data.zevl.txt 2.6885433903988862
+data.zewv.txt 4.261240455343955

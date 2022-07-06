@@ -1,13 +1,13 @@
 12
-data.zaet.txt 1
-data.zamr.txt 1
-data.zapl.txt 1
-data.zblq.txt 1
-data.zcpc.txt 1
-data.zcrk.txt 1
-data.zcww.txt 1
-data.zdby.txt 1
-data.zdnh.txt 1
-data.zduk.txt 1
-data.zejk.txt 1
-data.zezn.txt 1
+data.zaet.txt 2.628231699761886
+data.zamr.txt 2.628231699761886
+data.zapl.txt 2.628231699761886
+data.zblq.txt 2.628231699761886
+data.zcpc.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zcww.txt 2.628231699761886
+data.zdby.txt 2.628231699761886
+data.zdnh.txt 2.628231699761886
+data.zduk.txt 2.628231699761886
+data.zejk.txt 2.628231699761886
+data.zezn.txt 2.628231699761886

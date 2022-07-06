@@ -1,10 +1,10 @@
 9
-data.gz.txt 1
-data.mo.txt 1
-data.zasd.txt 1
-data.zcfx.txt 1
-data.zczj.txt 1
-data.zdmw.txt 1
-data.zdwv.txt 3
-data.zeos.txt 1
-data.zexu.txt 1
+data.gz.txt 2.82763771717948
+data.mo.txt 2.82763771717948
+data.zasd.txt 2.82763771717948
+data.zcfx.txt 2.82763771717948
+data.zczj.txt 2.82763771717948
+data.zdmw.txt 2.82763771717948
+data.zdwv.txt 5.65527543435896
+data.zeos.txt 2.82763771717948
+data.zexu.txt 2.82763771717948

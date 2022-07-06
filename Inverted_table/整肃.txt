@@ -1,6 +1,6 @@
 5
-data.ga.txt 1
-data.jf.txt 1
-data.zasj.txt 1
-data.zdzi.txt 1
-data.zfaz.txt 1
+data.ga.txt 3.235060386727117
+data.jf.txt 3.235060386727117
+data.zasj.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

@@ -1,12 +1,12 @@
 11
-data.ha.txt 4
-data.ye.txt 1
-data.zako.txt 1
-data.zbgu.txt 1
-data.zcdz.txt 1
-data.zcpx.txt 1
-data.zcrv.txt 1
-data.zcvi.txt 1
-data.zdpf.txt 1
-data.zdxw.txt 1
-data.zefw.txt 1
+data.ha.txt 6.2426044324908965
+data.ye.txt 2.6885433903988862
+data.zako.txt 2.6885433903988862
+data.zbgu.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zcpx.txt 2.6885433903988862
+data.zcrv.txt 2.6885433903988862
+data.zcvi.txt 2.6885433903988862
+data.zdpf.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862
+data.zefw.txt 2.6885433903988862

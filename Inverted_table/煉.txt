@@ -1,10 +1,10 @@
 9
-data.zake.txt 2
-data.zbse.txt 1
-data.zbsf.txt 1
-data.zduk.txt 1
-data.zeam.txt 1
-data.zeew.txt 1
-data.zefu.txt 1
-data.zeqn.txt 2
-data.zerv.txt 1
+data.zake.txt 4.48169974735425
+data.zbse.txt 2.82763771717948
+data.zbsf.txt 2.82763771717948
+data.zduk.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zeew.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zeqn.txt 4.48169974735425
+data.zerv.txt 2.82763771717948

@@ -1,2 +1,2 @@
 1
-data.tz.txt 5
+data.tz.txt 11.246235406996512

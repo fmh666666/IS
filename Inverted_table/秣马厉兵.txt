@@ -1,5 +1,5 @@
 4
-data.vz.txt 3
-data.zcls.txt 21
-data.zcue.txt 1
-data.zeyg.txt 1
+data.vz.txt 6.77946342036139
+data.zcls.txt 15.116276767077272
+data.zcue.txt 3.389731710180695
+data.zeyg.txt 3.389731710180695

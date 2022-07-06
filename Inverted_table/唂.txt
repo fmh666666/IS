@@ -1,4 +1,4 @@
 3
-data.fp.txt 1
-data.zawc.txt 1
-data.zbnp.txt 2
+data.fp.txt 3.5891377275982888
+data.zawc.txt 3.5891377275982888
+data.zbnp.txt 5.688648708166832

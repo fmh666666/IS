@@ -1,4 +1,4 @@
 3
-data.zaip.txt 1
-data.zawu.txt 1
-data.zeik.txt 3
+data.zaip.txt 3.5891377275982888
+data.zawu.txt 3.5891377275982888
+data.zeik.txt 7.1782754551965775

@@ -1,6 +1,6 @@
 5
-data.bs.txt 1
-data.zazn.txt 1
-data.zbes.txt 1
-data.zbkv.txt 1
-data.zdic.txt 1
+data.bs.txt 3.235060386727117
+data.zazn.txt 3.235060386727117
+data.zbes.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zdic.txt 3.235060386727117

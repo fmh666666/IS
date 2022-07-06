@@ -1,13 +1,13 @@
 12
-data.fe.txt 1
-data.zaej.txt 1
-data.zafl.txt 1
-data.zaip.txt 1
-data.zawc.txt 1
-data.zaxp.txt 1
-data.zbwa.txt 1
-data.zdil.txt 1
-data.zdtr.txt 1
-data.zedx.txt 2
-data.zeqv.txt 1
-data.zfae.txt 1
+data.fe.txt 2.628231699761886
+data.zaej.txt 2.628231699761886
+data.zafl.txt 2.628231699761886
+data.zaip.txt 2.628231699761886
+data.zawc.txt 2.628231699761886
+data.zaxp.txt 2.628231699761886
+data.zbwa.txt 2.628231699761886
+data.zdil.txt 2.628231699761886
+data.zdtr.txt 2.628231699761886
+data.zedx.txt 4.165648687329214
+data.zeqv.txt 2.628231699761886
+data.zfae.txt 2.628231699761886

@@ -1,3 +1,3 @@
 2
-data.zbpc.txt 3
-data.zbpx.txt 8
+data.zbpc.txt 7.740369448197793
+data.zbpx.txt 12.268195317121211

@@ -1,12 +1,12 @@
 11
-data.zall.txt 1
-data.zayc.txt 1
-data.zcbm.txt 1
-data.zccu.txt 1
-data.zclm.txt 1
-data.zcon.txt 1
-data.zdyv.txt 1
-data.zeeh.txt 1
-data.zeik.txt 1
-data.zeyg.txt 1
-data.zfaj.txt 1
+data.zall.txt 2.6885433903988862
+data.zayc.txt 2.6885433903988862
+data.zcbm.txt 2.6885433903988862
+data.zccu.txt 2.6885433903988862
+data.zclm.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zdyv.txt 2.6885433903988862
+data.zeeh.txt 2.6885433903988862
+data.zeik.txt 2.6885433903988862
+data.zeyg.txt 2.6885433903988862
+data.zfaj.txt 2.6885433903988862

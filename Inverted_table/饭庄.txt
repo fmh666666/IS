@@ -1,7 +1,7 @@
 6
-data.zaqw.txt 1
-data.zbup.txt 2
-data.zccl.txt 2
-data.zdpf.txt 1
-data.zewg.txt 5
-data.zezm.txt 1
+data.zaqw.txt 3.1086847136800873
+data.zbup.txt 4.927148697748023
+data.zccl.txt 4.927148697748023
+data.zdpf.txt 3.1086847136800873
+data.zewg.txt 8.03583341142811
+data.zezm.txt 3.1086847136800873

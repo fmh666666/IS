@@ -1,6 +1,6 @@
 5
-data.tz.txt 1
-data.zcel.txt 1
-data.zdil.txt 1
-data.zeaj.txt 1
-data.zfaw.txt 1
+data.tz.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zdil.txt 3.235060386727117
+data.zeaj.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

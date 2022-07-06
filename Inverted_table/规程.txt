@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.hp.txt 2
-data.zdmw.txt 1
-data.zdou.txt 1
-data.zelt.txt 1
-data.zemb.txt 1
-data.zfai.txt 1
-data.zfaj.txt 1
+data.bs.txt 2.9092786962624935
+data.hp.txt 4.611097637722987
+data.zdmw.txt 2.9092786962624935
+data.zdou.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

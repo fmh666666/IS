@@ -1,2 +1,2 @@
 1
-data.zajh.txt 1
+data.zajh.txt 4.350637738017098

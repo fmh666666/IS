@@ -1,4 +1,4 @@
 3
-data.zbsl.txt 1
-data.zdoc.txt 1
-data.zefs.txt 1
+data.zbsl.txt 3.5891377275982888
+data.zdoc.txt 3.5891377275982888
+data.zefs.txt 3.5891377275982888

@@ -1,12 +1,12 @@
 11
-data.aj.txt 1
-data.kq.txt 1
-data.qn.txt 1
-data.zalm.txt 2
-data.zaop.txt 1
-data.zbjq.txt 2
-data.zbvf.txt 1
-data.zcjd.txt 1
-data.zcpa.txt 1
-data.zdle.txt 1
-data.zeve.txt 2
+data.aj.txt 2.6885433903988862
+data.kq.txt 2.6885433903988862
+data.qn.txt 2.6885433903988862
+data.zalm.txt 4.261240455343955
+data.zaop.txt 2.6885433903988862
+data.zbjq.txt 4.261240455343955
+data.zbvf.txt 2.6885433903988862
+data.zcjd.txt 2.6885433903988862
+data.zcpa.txt 2.6885433903988862
+data.zdle.txt 2.6885433903988862
+data.zeve.txt 4.261240455343955

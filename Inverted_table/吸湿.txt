@@ -1,10 +1,10 @@
 9
-data.ga.txt 1
-data.zamr.txt 1
-data.zbcj.txt 2
-data.zbgu.txt 1
-data.zbkf.txt 1
-data.zckd.txt 1
-data.zcuh.txt 1
-data.zdkk.txt 1
-data.zedd.txt 1
+data.ga.txt 2.82763771717948
+data.zamr.txt 2.82763771717948
+data.zbcj.txt 4.48169974735425
+data.zbgu.txt 2.82763771717948
+data.zbkf.txt 2.82763771717948
+data.zckd.txt 2.82763771717948
+data.zcuh.txt 2.82763771717948
+data.zdkk.txt 2.82763771717948
+data.zedd.txt 2.82763771717948

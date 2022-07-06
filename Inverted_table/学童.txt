@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.yx.txt 1
-data.zalj.txt 1
-data.zawc.txt 1
-data.zcft.txt 1
-data.zdeq.txt 1
-data.zeec.txt 1
-data.zeoh.txt 1
+data.bs.txt 2.9092786962624935
+data.yx.txt 2.9092786962624935
+data.zalj.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zcft.txt 2.9092786962624935
+data.zdeq.txt 2.9092786962624935
+data.zeec.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.fz.txt 1
-data.op.txt 1
-data.yx.txt 2
-data.zawc.txt 1
+data.fz.txt 3.389731710180695
+data.op.txt 3.389731710180695
+data.yx.txt 5.372597648141796
+data.zawc.txt 3.389731710180695

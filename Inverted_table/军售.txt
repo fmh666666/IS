@@ -1,5 +1,5 @@
 4
-data.ok.txt 1
-data.zawu.txt 1
-data.zbsm.txt 1
-data.zfai.txt 1
+data.ok.txt 3.389731710180695
+data.zawu.txt 3.389731710180695
+data.zbsm.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

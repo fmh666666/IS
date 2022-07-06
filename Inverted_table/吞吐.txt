@@ -1,7 +1,7 @@
 6
-data.zafy.txt 1
-data.zaim.txt 1
-data.zazn.txt 1
-data.zcqe.txt 1
-data.zefv.txt 1
-data.zess.txt 1
+data.zafy.txt 3.1086847136800873
+data.zaim.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zcqe.txt 3.1086847136800873
+data.zefv.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873

@@ -1,13 +1,13 @@
 12
-data.ga.txt 1
-data.zakb.txt 1
-data.zapl.txt 2
-data.zcdy.txt 1
-data.zcmx.txt 2
-data.zcon.txt 2
-data.zcse.txt 1
-data.zctp.txt 1
-data.zcts.txt 2
-data.zedo.txt 1
-data.zelt.txt 1
-data.zfcg.txt 3
+data.ga.txt 2.628231699761886
+data.zakb.txt 2.628231699761886
+data.zapl.txt 4.165648687329214
+data.zcdy.txt 2.628231699761886
+data.zcmx.txt 4.165648687329214
+data.zcon.txt 4.165648687329214
+data.zcse.txt 2.628231699761886
+data.zctp.txt 2.628231699761886
+data.zcts.txt 4.165648687329214
+data.zedo.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zfcg.txt 5.256463399523772

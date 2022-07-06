@@ -1,7 +1,7 @@
 6
-data.zacw.txt 1
-data.zazx.txt 1
-data.zcdg.txt 1
-data.zdud.txt 1
-data.zeob.txt 3
-data.zfaj.txt 1
+data.zacw.txt 3.1086847136800873
+data.zazx.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zdud.txt 3.1086847136800873
+data.zeob.txt 6.2173694273601745
+data.zfaj.txt 3.1086847136800873

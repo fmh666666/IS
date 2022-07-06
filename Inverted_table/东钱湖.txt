@@ -1,6 +1,6 @@
 5
-data.zane.txt 2
-data.zbaq.txt 1
-data.zbzo.txt 1
-data.zctn.txt 10
-data.zeqv.txt 6
+data.zane.txt 5.1274494005309625
+data.zbaq.txt 3.235060386727117
+data.zbzo.txt 3.235060386727117
+data.zctn.txt 11.191470190044793
+data.zeqv.txt 9.081962699831948

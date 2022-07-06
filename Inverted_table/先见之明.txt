@@ -1,13 +1,13 @@
 12
-data.op.txt 1
-data.pa.txt 1
-data.wc.txt 1
-data.zall.txt 1
-data.zbeb.txt 1
-data.zcql.txt 1
-data.zcsr.txt 8
-data.zczl.txt 1
-data.zdaw.txt 1
-data.zdll.txt 1
-data.zeec.txt 1
-data.zeqv.txt 1
+data.op.txt 2.628231699761886
+data.pa.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.zall.txt 2.628231699761886
+data.zbeb.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zcsr.txt 8.331297374658428
+data.zczl.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zdll.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zeqv.txt 2.628231699761886

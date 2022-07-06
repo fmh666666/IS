@@ -1,6 +1,6 @@
 5
-data.zafq.txt 1
-data.zbaq.txt 3
-data.zbxw.txt 3
-data.zedo.txt 1
-data.zexk.txt 1
+data.zafq.txt 3.235060386727117
+data.zbaq.txt 6.470120773454234
+data.zbxw.txt 6.470120773454234
+data.zedo.txt 3.235060386727117
+data.zexk.txt 3.235060386727117

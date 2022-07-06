@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.xe.txt 1
-data.zaip.txt 1
-data.zaop.txt 1
-data.zate.txt 1
-data.zcku.txt 1
-data.zclh.txt 2
-data.zcpb.txt 1
-data.zedk.txt 1
-data.zelt.txt 1
-data.zfai.txt 1
+data.be.txt 2.6885433903988862
+data.xe.txt 2.6885433903988862
+data.zaip.txt 2.6885433903988862
+data.zaop.txt 2.6885433903988862
+data.zate.txt 2.6885433903988862
+data.zcku.txt 2.6885433903988862
+data.zclh.txt 4.261240455343955
+data.zcpb.txt 2.6885433903988862
+data.zedk.txt 2.6885433903988862
+data.zelt.txt 2.6885433903988862
+data.zfai.txt 2.6885433903988862

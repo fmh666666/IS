@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zaim.txt 1
-data.zbeb.txt 2
-data.zdgp.txt 1
-data.zexu.txt 1
+data.vm.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zbeb.txt 5.1274494005309625
+data.zdgp.txt 3.235060386727117
+data.zexu.txt 3.235060386727117

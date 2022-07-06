@@ -1,11 +1,11 @@
 10
-data.ff.txt 1
-data.mx.txt 8
-data.zafv.txt 2
-data.zahd.txt 1
-data.zbeb.txt 1
-data.zcjy.txt 1
-data.zcko.txt 1
-data.zcqp.txt 1
-data.zcwq.txt 1
-data.zeag.txt 3
+data.ff.txt 2.7546073728089153
+data.mx.txt 8.731898780224308
+data.zafv.txt 4.365949390112154
+data.zahd.txt 2.7546073728089153
+data.zbeb.txt 2.7546073728089153
+data.zcjy.txt 2.7546073728089153
+data.zcko.txt 2.7546073728089153
+data.zcqp.txt 2.7546073728089153
+data.zcwq.txt 2.7546073728089153
+data.zeag.txt 5.509214745617831

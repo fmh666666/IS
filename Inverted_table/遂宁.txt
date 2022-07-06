@@ -1,10 +1,10 @@
 9
-data.ev.txt 1
-data.jf.txt 1
-data.zbnp.txt 1
-data.zcdg.txt 1
-data.zcdz.txt 2
-data.zdic.txt 1
-data.zdof.txt 1
-data.zdvl.txt 1
-data.zdwn.txt 1
+data.ev.txt 2.82763771717948
+data.jf.txt 2.82763771717948
+data.zbnp.txt 2.82763771717948
+data.zcdg.txt 2.82763771717948
+data.zcdz.txt 4.48169974735425
+data.zdic.txt 2.82763771717948
+data.zdof.txt 2.82763771717948
+data.zdvl.txt 2.82763771717948
+data.zdwn.txt 2.82763771717948

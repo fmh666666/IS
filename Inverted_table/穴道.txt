@@ -1,10 +1,10 @@
 9
-data.by.txt 2
-data.ha.txt 2
-data.zbjq.txt 2
-data.zbnx.txt 2
-data.zcmx.txt 2
-data.zcmy.txt 5
-data.zdlw.txt 1
-data.zduk.txt 2
-data.zfai.txt 1
+data.by.txt 4.48169974735425
+data.ha.txt 4.48169974735425
+data.zbjq.txt 4.48169974735425
+data.zbnx.txt 4.48169974735425
+data.zcmx.txt 4.48169974735425
+data.zcmy.txt 7.309337464533731
+data.zdlw.txt 2.82763771717948
+data.zduk.txt 4.48169974735425
+data.zfai.txt 2.82763771717948

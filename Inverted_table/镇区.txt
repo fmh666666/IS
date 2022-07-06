@@ -1,6 +1,6 @@
 5
-data.mi.txt 1
-data.ng.txt 1
-data.zaqf.txt 1
-data.zcpc.txt 4
-data.zeos.txt 1
+data.mi.txt 3.235060386727117
+data.ng.txt 3.235060386727117
+data.zaqf.txt 3.235060386727117
+data.zcpc.txt 7.511577600598868
+data.zeos.txt 3.235060386727117

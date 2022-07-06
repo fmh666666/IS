@@ -1,6 +1,6 @@
 5
-data.zbgu.txt 3
-data.zbzo.txt 1
-data.zcao.txt 1
-data.zdux.txt 1
-data.zezh.txt 1
+data.zbgu.txt 6.470120773454234
+data.zbzo.txt 3.235060386727117
+data.zcao.txt 3.235060386727117
+data.zdux.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

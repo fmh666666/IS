@@ -1,13 +1,13 @@
 12
-data.cz.txt 1
-data.ha.txt 2
-data.zaim.txt 1
-data.zamr.txt 1
-data.zawb.txt 1
-data.zawu.txt 1
-data.zcll.txt 1
-data.zcls.txt 2
-data.zcon.txt 1
-data.zdgt.txt 1
-data.zewv.txt 2
-data.zexv.txt 2
+data.cz.txt 2.628231699761886
+data.ha.txt 4.165648687329214
+data.zaim.txt 2.628231699761886
+data.zamr.txt 2.628231699761886
+data.zawb.txt 2.628231699761886
+data.zawu.txt 2.628231699761886
+data.zcll.txt 2.628231699761886
+data.zcls.txt 4.165648687329214
+data.zcon.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zewv.txt 4.165648687329214
+data.zexv.txt 4.165648687329214

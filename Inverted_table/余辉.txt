@@ -1,13 +1,13 @@
 12
-data.bf.txt 2
-data.mk.txt 2
-data.ry.txt 1
-data.zajo.txt 1
-data.zasr.txt 1
-data.zazn.txt 2
-data.zcpx.txt 1
-data.zcrk.txt 1
-data.zcsu.txt 3
-data.zdlo.txt 1
-data.zdpw.txt 1
-data.zeam.txt 1
+data.bf.txt 4.165648687329214
+data.mk.txt 4.165648687329214
+data.ry.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zasr.txt 2.628231699761886
+data.zazn.txt 4.165648687329214
+data.zcpx.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zcsu.txt 5.256463399523772
+data.zdlo.txt 2.628231699761886
+data.zdpw.txt 2.628231699761886
+data.zeam.txt 2.628231699761886

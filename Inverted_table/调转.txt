@@ -1,9 +1,9 @@
 8
-data.zbot.txt 1
-data.zbua.txt 1
-data.zbux.txt 1
-data.zcgi.txt 1
-data.zcoy.txt 2
-data.zcpa.txt 1
-data.zelt.txt 1
-data.zeva.txt 1
+data.zbot.txt 2.9092786962624935
+data.zbua.txt 2.9092786962624935
+data.zbux.txt 2.9092786962624935
+data.zcgi.txt 2.9092786962624935
+data.zcoy.txt 4.611097637722987
+data.zcpa.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zeva.txt 2.9092786962624935

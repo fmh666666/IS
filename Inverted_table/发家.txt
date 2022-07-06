@@ -1,11 +1,11 @@
 10
-data.mk.txt 1
-data.qb.txt 1
-data.xk.txt 1
-data.zajo.txt 1
-data.zawu.txt 1
-data.zcgo.txt 1
-data.zeay.txt 1
-data.zevl.txt 1
-data.zezn.txt 1
-data.zfai.txt 3
+data.mk.txt 2.7546073728089153
+data.qb.txt 2.7546073728089153
+data.xk.txt 2.7546073728089153
+data.zajo.txt 2.7546073728089153
+data.zawu.txt 2.7546073728089153
+data.zcgo.txt 2.7546073728089153
+data.zeay.txt 2.7546073728089153
+data.zevl.txt 2.7546073728089153
+data.zezn.txt 2.7546073728089153
+data.zfai.txt 5.509214745617831

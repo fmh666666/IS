@@ -1,9 +1,9 @@
 8
-data.zbjh.txt 2
-data.zcpb.txt 2
-data.zcts.txt 1
-data.zdwn.txt 2
-data.zdwz.txt 1
-data.zeeq.txt 2
-data.zeqv.txt 2
-data.zesi.txt 1
+data.zbjh.txt 4.611097637722987
+data.zcpb.txt 4.611097637722987
+data.zcts.txt 2.9092786962624935
+data.zdwn.txt 4.611097637722987
+data.zdwz.txt 2.9092786962624935
+data.zeeq.txt 4.611097637722987
+data.zeqv.txt 4.611097637722987
+data.zesi.txt 2.9092786962624935

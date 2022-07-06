@@ -1,9 +1,9 @@
 8
-data.wc.txt 1
-data.zadv.txt 1
-data.zbcv.txt 3
-data.zcdy.txt 1
-data.zcku.txt 2
-data.zdar.txt 3
-data.zdme.txt 1
-data.zewd.txt 1
+data.wc.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbcv.txt 5.818557392524987
+data.zcdy.txt 2.9092786962624935
+data.zcku.txt 4.611097637722987
+data.zdar.txt 5.818557392524987
+data.zdme.txt 2.9092786962624935
+data.zewd.txt 2.9092786962624935

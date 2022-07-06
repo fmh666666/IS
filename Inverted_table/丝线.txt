@@ -1,7 +1,7 @@
 6
-data.wc.txt 2
-data.zbhd.txt 1
-data.zbkf.txt 1
-data.zcyv.txt 1
-data.zdxw.txt 1
-data.zevl.txt 1
+data.wc.txt 4.927148697748023
+data.zbhd.txt 3.1086847136800873
+data.zbkf.txt 3.1086847136800873
+data.zcyv.txt 3.1086847136800873
+data.zdxw.txt 3.1086847136800873
+data.zevl.txt 3.1086847136800873

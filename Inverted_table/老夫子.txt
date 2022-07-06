@@ -1,12 +1,12 @@
 11
-data.qb.txt 3
-data.zalt.txt 4
-data.zaxk.txt 1
-data.zbcc.txt 1
-data.zbeb.txt 1
-data.zbut.txt 6
-data.zdkp.txt 1
-data.zdlg.txt 1
-data.zdwv.txt 1
-data.zeez.txt 1
-data.zeoo.txt 1
+data.qb.txt 5.3770867807977725
+data.zalt.txt 6.2426044324908965
+data.zaxk.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbut.txt 7.547695520201752
+data.zdkp.txt 2.6885433903988862
+data.zdlg.txt 2.6885433903988862
+data.zdwv.txt 2.6885433903988862
+data.zeez.txt 2.6885433903988862
+data.zeoo.txt 2.6885433903988862

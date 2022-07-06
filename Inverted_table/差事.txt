@@ -1,9 +1,9 @@
 8
-data.nh.txt 1
-data.op.txt 1
-data.zaeh.txt 1
-data.zbfz.txt 1
-data.zcni.txt 1
-data.zdga.txt 1
-data.zeoh.txt 1
-data.zerv.txt 1
+data.nh.txt 2.9092786962624935
+data.op.txt 2.9092786962624935
+data.zaeh.txt 2.9092786962624935
+data.zbfz.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdga.txt 2.9092786962624935
+data.zeoh.txt 2.9092786962624935
+data.zerv.txt 2.9092786962624935

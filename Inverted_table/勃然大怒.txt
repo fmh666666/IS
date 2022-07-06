@@ -1,13 +1,13 @@
 12
-data.mx.txt 1
-data.wc.txt 1
-data.zalj.txt 1
-data.zbbt.txt 1
-data.zbha.txt 1
-data.zbsm.txt 1
-data.zbuj.txt 1
-data.zbyb.txt 1
-data.zebn.txt 1
-data.zelt.txt 1
-data.zene.txt 2
-data.zeqv.txt 1
+data.mx.txt 2.628231699761886
+data.wc.txt 2.628231699761886
+data.zalj.txt 2.628231699761886
+data.zbbt.txt 2.628231699761886
+data.zbha.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zbuj.txt 2.628231699761886
+data.zbyb.txt 2.628231699761886
+data.zebn.txt 2.628231699761886
+data.zelt.txt 2.628231699761886
+data.zene.txt 4.165648687329214
+data.zeqv.txt 2.628231699761886

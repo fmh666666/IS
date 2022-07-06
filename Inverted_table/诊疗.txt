@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zawo.txt 1
-data.zayv.txt 2
-data.zbzo.txt 4
-data.zdqk.txt 1
-data.zduc.txt 1
-data.zeam.txt 2
-data.zfdk.txt 1
+data.bs.txt 2.9092786962624935
+data.zawo.txt 2.9092786962624935
+data.zayv.txt 4.611097637722987
+data.zbzo.txt 6.7551359407091605
+data.zdqk.txt 2.9092786962624935
+data.zduc.txt 2.9092786962624935
+data.zeam.txt 4.611097637722987
+data.zfdk.txt 2.9092786962624935

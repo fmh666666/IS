@@ -1,6 +1,6 @@
 5
-data.zbcc.txt 1
-data.zblq.txt 5
-data.zblr.txt 2
-data.zddb.txt 3
-data.zdju.txt 1
+data.zbcc.txt 3.235060386727117
+data.zblq.txt 8.362509787258078
+data.zblr.txt 5.1274494005309625
+data.zddb.txt 6.470120773454234
+data.zdju.txt 3.235060386727117

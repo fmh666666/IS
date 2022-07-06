@@ -1,5 +1,5 @@
 4
-data.pa.txt 1
-data.zapf.txt 1
-data.zasj.txt 1
-data.zbgw.txt 1
+data.pa.txt 3.389731710180695
+data.zapf.txt 3.389731710180695
+data.zasj.txt 3.389731710180695
+data.zbgw.txt 3.389731710180695

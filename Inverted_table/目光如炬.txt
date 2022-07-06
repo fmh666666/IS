@@ -1,3 +1,3 @@
 2
-data.zcmn.txt 2
-data.zfcp.txt 1
+data.zcmn.txt 6.134097658560606
+data.zfcp.txt 3.8701847240988965

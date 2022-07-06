@@ -1,2 +1,2 @@
 1
-data.hp.txt 3
+data.hp.txt 8.701275476034196

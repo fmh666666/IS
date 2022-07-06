@@ -1,4 +1,4 @@
 3
-data.zajo.txt 3
-data.zcda.txt 2
-data.zeun.txt 1
+data.zajo.txt 7.1782754551965775
+data.zcda.txt 5.688648708166832
+data.zeun.txt 3.5891377275982888

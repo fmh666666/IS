@@ -1,12 +1,12 @@
 11
-data.dg.txt 1
-data.op.txt 4
-data.zall.txt 1
-data.zawb.txt 1
-data.zbdb.txt 1
-data.zbsm.txt 4
-data.zcdy.txt 1
-data.zczp.txt 1
-data.zedo.txt 1
-data.zevl.txt 1
-data.zfdk.txt 1
+data.dg.txt 2.6885433903988862
+data.op.txt 6.2426044324908965
+data.zall.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zbdb.txt 2.6885433903988862
+data.zbsm.txt 6.2426044324908965
+data.zcdy.txt 2.6885433903988862
+data.zczp.txt 2.6885433903988862
+data.zedo.txt 2.6885433903988862
+data.zevl.txt 2.6885433903988862
+data.zfdk.txt 2.6885433903988862

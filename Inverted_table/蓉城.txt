@@ -1,10 +1,10 @@
 9
-data.pn.txt 1
-data.zabe.txt 1
-data.zawb.txt 3
-data.zccu.txt 1
-data.zcef.txt 1
-data.zcls.txt 1
-data.zdaw.txt 1
-data.zeac.txt 1
-data.zeos.txt 1
+data.pn.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zawb.txt 5.65527543435896
+data.zccu.txt 2.82763771717948
+data.zcef.txt 2.82763771717948
+data.zcls.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zeac.txt 2.82763771717948
+data.zeos.txt 2.82763771717948

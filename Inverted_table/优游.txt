@@ -1,4 +1,4 @@
 3
-data.zazn.txt 1
-data.zbkv.txt 1
-data.zbye.txt 1
+data.zazn.txt 3.5891377275982888
+data.zbkv.txt 3.5891377275982888
+data.zbye.txt 3.5891377275982888

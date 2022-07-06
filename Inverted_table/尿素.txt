@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.op.txt 2
-data.zbdb.txt 1
-data.zbuj.txt 1
-data.zcni.txt 1
-data.zdey.txt 4
-data.zdgt.txt 1
-data.zeeq.txt 1
+data.ka.txt 2.9092786962624935
+data.op.txt 4.611097637722987
+data.zbdb.txt 2.9092786962624935
+data.zbuj.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdey.txt 6.7551359407091605
+data.zdgt.txt 2.9092786962624935
+data.zeeq.txt 2.9092786962624935

@@ -1,7 +1,7 @@
 6
-data.ye.txt 1
-data.zcdg.txt 1
-data.zcqp.txt 1
-data.zdey.txt 1
-data.zdgv.txt 1
-data.zdil.txt 1
+data.ye.txt 3.1086847136800873
+data.zcdg.txt 3.1086847136800873
+data.zcqp.txt 3.1086847136800873
+data.zdey.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zdil.txt 3.1086847136800873

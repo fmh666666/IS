@@ -1,9 +1,9 @@
 8
-data.tz.txt 1
-data.zake.txt 1
-data.zass.txt 1
-data.zbcc.txt 1
-data.zbsu.txt 1
-data.zbzg.txt 1
-data.zdrq.txt 2
-data.zegn.txt 4
+data.tz.txt 2.9092786962624935
+data.zake.txt 2.9092786962624935
+data.zass.txt 2.9092786962624935
+data.zbcc.txt 2.9092786962624935
+data.zbsu.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zdrq.txt 4.611097637722987
+data.zegn.txt 6.7551359407091605

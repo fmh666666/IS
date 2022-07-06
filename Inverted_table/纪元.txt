@@ -1,12 +1,12 @@
 11
-data.gk.txt 3
-data.kq.txt 1
-data.zadv.txt 3
-data.zagr.txt 1
-data.zasj.txt 1
-data.zbcc.txt 1
-data.zcli.txt 2
-data.zcqs.txt 1
-data.zdaw.txt 1
-data.zdep.txt 1
-data.zeve.txt 2
+data.gk.txt 5.3770867807977725
+data.kq.txt 2.6885433903988862
+data.zadv.txt 5.3770867807977725
+data.zagr.txt 2.6885433903988862
+data.zasj.txt 2.6885433903988862
+data.zbcc.txt 2.6885433903988862
+data.zcli.txt 4.261240455343955
+data.zcqs.txt 2.6885433903988862
+data.zdaw.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zeve.txt 4.261240455343955

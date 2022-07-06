@@ -1,4 +1,4 @@
 3
-data.zaeh.txt 1
-data.zcqs.txt 1
-data.zdro.txt 1
+data.zaeh.txt 3.5891377275982888
+data.zcqs.txt 3.5891377275982888
+data.zdro.txt 3.5891377275982888

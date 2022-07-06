@@ -1,9 +1,9 @@
 8
-data.kq.txt 1
-data.zamp.txt 1
-data.zblh.txt 1
-data.zcni.txt 1
-data.zdou.txt 2
-data.zdwl.txt 1
-data.zeun.txt 1
-data.zewv.txt 1
+data.kq.txt 2.9092786962624935
+data.zamp.txt 2.9092786962624935
+data.zblh.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdou.txt 4.611097637722987
+data.zdwl.txt 2.9092786962624935
+data.zeun.txt 2.9092786962624935
+data.zewv.txt 2.9092786962624935

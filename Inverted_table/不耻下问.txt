@@ -1,5 +1,5 @@
 4
-data.vi.txt 1
-data.zbux.txt 1
-data.zcku.txt 1
-data.zdcj.txt 1
+data.vi.txt 3.389731710180695
+data.zbux.txt 3.389731710180695
+data.zcku.txt 3.389731710180695
+data.zdcj.txt 3.389731710180695

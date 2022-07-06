@@ -1,7 +1,7 @@
 6
-data.zbkj.txt 1
-data.zbpx.txt 5
-data.zcdz.txt 1
-data.zcft.txt 1
-data.zcjo.txt 165
-data.zebf.txt 1
+data.zbkj.txt 3.1086847136800873
+data.zbpx.txt 8.03583341142811
+data.zcdz.txt 3.1086847136800873
+data.zcft.txt 3.1086847136800873
+data.zcjo.txt 22.926672343016072
+data.zebf.txt 3.1086847136800873

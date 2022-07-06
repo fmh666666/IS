@@ -1,12 +1,12 @@
 11
-data.mk.txt 1
-data.zafy.txt 1
-data.zasq.txt 1
-data.zawb.txt 1
-data.zaxx.txt 1
-data.zcon.txt 1
-data.zcql.txt 1
-data.zdud.txt 1
-data.zefd.txt 1
-data.zexv.txt 1
-data.zfby.txt 1
+data.mk.txt 2.6885433903988862
+data.zafy.txt 2.6885433903988862
+data.zasq.txt 2.6885433903988862
+data.zawb.txt 2.6885433903988862
+data.zaxx.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zcql.txt 2.6885433903988862
+data.zdud.txt 2.6885433903988862
+data.zefd.txt 2.6885433903988862
+data.zexv.txt 2.6885433903988862
+data.zfby.txt 2.6885433903988862

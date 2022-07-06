@@ -1,6 +1,6 @@
 5
-data.zbre.txt 1
-data.zcjo.txt 2
-data.zcln.txt 1
-data.zcve.txt 2
-data.zewn.txt 6
+data.zbre.txt 3.235060386727117
+data.zcjo.txt 5.1274494005309625
+data.zcln.txt 3.235060386727117
+data.zcve.txt 5.1274494005309625
+data.zewn.txt 9.081962699831948

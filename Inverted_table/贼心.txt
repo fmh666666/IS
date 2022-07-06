@@ -1,6 +1,6 @@
 5
-data.ng.txt 1
-data.zadv.txt 1
-data.zcdy.txt 2
-data.zcpx.txt 1
-data.zdud.txt 1
+data.ng.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zcdy.txt 5.1274494005309625
+data.zcpx.txt 3.235060386727117
+data.zdud.txt 3.235060386727117

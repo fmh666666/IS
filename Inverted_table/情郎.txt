@@ -1,4 +1,4 @@
 3
-data.jd.txt 1
-data.zbdb.txt 2
-data.zeun.txt 1
+data.jd.txt 3.5891377275982888
+data.zbdb.txt 5.688648708166832
+data.zeun.txt 3.5891377275982888

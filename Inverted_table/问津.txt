@@ -1,6 +1,6 @@
 5
-data.zbpc.txt 2
-data.zbwa.txt 1
-data.zcdz.txt 1
-data.zctp.txt 1
-data.zduc.txt 1
+data.zbpc.txt 5.1274494005309625
+data.zbwa.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zctp.txt 3.235060386727117
+data.zduc.txt 3.235060386727117

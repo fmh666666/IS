@@ -1,5 +1,5 @@
 4
-data.zbpp.txt 1
-data.zcdv.txt 1
-data.zcni.txt 1
-data.zddv.txt 2
+data.zbpp.txt 3.389731710180695
+data.zcdv.txt 3.389731710180695
+data.zcni.txt 3.389731710180695
+data.zddv.txt 5.372597648141796

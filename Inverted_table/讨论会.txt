@@ -1,10 +1,10 @@
 9
-data.zaoy.txt 1
-data.zawb.txt 1
-data.zbjk.txt 1
-data.zbvp.txt 1
-data.zdeb.txt 1
-data.zeag.txt 1
-data.zebn.txt 2
-data.zevt.txt 1
-data.zfae.txt 1
+data.zaoy.txt 2.82763771717948
+data.zawb.txt 2.82763771717948
+data.zbjk.txt 2.82763771717948
+data.zbvp.txt 2.82763771717948
+data.zdeb.txt 2.82763771717948
+data.zeag.txt 2.82763771717948
+data.zebn.txt 4.48169974735425
+data.zevt.txt 2.82763771717948
+data.zfae.txt 2.82763771717948

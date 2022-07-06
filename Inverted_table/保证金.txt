@@ -1,12 +1,12 @@
 11
-data.kq.txt 7
-data.zair.txt 3
-data.zawu.txt 1
-data.zbeb.txt 1
-data.zbgu.txt 1
-data.zcdy.txt 4
-data.zcdz.txt 3
-data.zcon.txt 2
-data.zemf.txt 1
-data.zeqn.txt 1
-data.zexk.txt 1
+data.kq.txt 8.06563017119666
+data.zair.txt 5.3770867807977725
+data.zawu.txt 2.6885433903988862
+data.zbeb.txt 2.6885433903988862
+data.zbgu.txt 2.6885433903988862
+data.zcdy.txt 6.2426044324908965
+data.zcdz.txt 5.3770867807977725
+data.zcon.txt 4.261240455343955
+data.zemf.txt 2.6885433903988862
+data.zeqn.txt 2.6885433903988862
+data.zexk.txt 2.6885433903988862

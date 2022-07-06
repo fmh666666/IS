@@ -1,5 +1,5 @@
 4
-data.zaun.txt 1
-data.zbjh.txt 1
-data.zdtr.txt 1
-data.zehb.txt 1
+data.zaun.txt 3.389731710180695
+data.zbjh.txt 3.389731710180695
+data.zdtr.txt 3.389731710180695
+data.zehb.txt 3.389731710180695

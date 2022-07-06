@@ -1,11 +1,11 @@
 10
-data.kq.txt 1
-data.zaoy.txt 1
-data.zbdb.txt 1
-data.zbor.txt 1
-data.zcdy.txt 4
-data.zcdz.txt 3
-data.zczl.txt 1
-data.zddx.txt 1
-data.zdfl.txt 1
-data.zdpw.txt 1
+data.kq.txt 2.7546073728089153
+data.zaoy.txt 2.7546073728089153
+data.zbdb.txt 2.7546073728089153
+data.zbor.txt 2.7546073728089153
+data.zcdy.txt 6.396000249308887
+data.zcdz.txt 5.509214745617831
+data.zczl.txt 2.7546073728089153
+data.zddx.txt 2.7546073728089153
+data.zdfl.txt 2.7546073728089153
+data.zdpw.txt 2.7546073728089153

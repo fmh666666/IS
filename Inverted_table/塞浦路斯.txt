@@ -1,6 +1,6 @@
 5
-data.zako.txt 1
-data.zard.txt 1
-data.zbxy.txt 2
-data.zedo.txt 2
-data.zess.txt 1
+data.zako.txt 3.235060386727117
+data.zard.txt 3.235060386727117
+data.zbxy.txt 5.1274494005309625
+data.zedo.txt 5.1274494005309625
+data.zess.txt 3.235060386727117

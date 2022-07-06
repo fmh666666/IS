@@ -1,5 +1,5 @@
 4
-data.pa.txt 1
-data.zbel.txt 1
-data.zcdz.txt 1
-data.zddb.txt 1
+data.pa.txt 3.389731710180695
+data.zbel.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695
+data.zddb.txt 3.389731710180695

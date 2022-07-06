@@ -1,4 +1,4 @@
 3
-data.ye.txt 1
-data.zdfl.txt 2
-data.zeoh.txt 1
+data.ye.txt 3.5891377275982888
+data.zdfl.txt 5.688648708166832
+data.zeoh.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.gz.txt 2
-data.mt.txt 1
-data.zbeb.txt 1
-data.zbnx.txt 2
-data.zbpx.txt 1
-data.zfaj.txt 2
+data.gz.txt 4.927148697748023
+data.mt.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zbnx.txt 4.927148697748023
+data.zbpx.txt 3.1086847136800873
+data.zfaj.txt 4.927148697748023

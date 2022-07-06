@@ -1,2 +1,2 @@
 1
-data.zegl.txt 1
+data.zegl.txt 4.350637738017098

@@ -1,4 +1,4 @@
 3
-data.zawc.txt 1
-data.zbil.txt 1
-data.zeay.txt 1
+data.zawc.txt 3.5891377275982888
+data.zbil.txt 3.5891377275982888
+data.zeay.txt 3.5891377275982888

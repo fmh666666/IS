@@ -1,4 +1,4 @@
 3
-data.zcue.txt 1
-data.zdkk.txt 1
-data.zexm.txt 1
+data.zcue.txt 3.5891377275982888
+data.zdkk.txt 3.5891377275982888
+data.zexm.txt 3.5891377275982888

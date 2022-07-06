@@ -1,6 +1,6 @@
 5
-data.zadv.txt 13
-data.zbsl.txt 1
-data.zdmw.txt 1
-data.zdpf.txt 1
-data.zeqv.txt 1
+data.zadv.txt 12.317023086559065
+data.zbsl.txt 3.235060386727117
+data.zdmw.txt 3.235060386727117
+data.zdpf.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117

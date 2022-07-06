@@ -1,6 +1,6 @@
 5
-data.hz.txt 1
-data.zabx.txt 1
-data.zcdy.txt 1
-data.zdxw.txt 1
-data.zefw.txt 1
+data.hz.txt 3.235060386727117
+data.zabx.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117
+data.zefw.txt 3.235060386727117

@@ -1,10 +1,10 @@
 9
-data.to.txt 1
-data.zabe.txt 1
-data.zaoc.txt 1
-data.zaxk.txt 1
-data.zbhe.txt 2
-data.zdeb.txt 1
-data.zdpw.txt 1
-data.zduc.txt 1
-data.zeag.txt 1
+data.to.txt 2.82763771717948
+data.zabe.txt 2.82763771717948
+data.zaoc.txt 2.82763771717948
+data.zaxk.txt 2.82763771717948
+data.zbhe.txt 4.48169974735425
+data.zdeb.txt 2.82763771717948
+data.zdpw.txt 2.82763771717948
+data.zduc.txt 2.82763771717948
+data.zeag.txt 2.82763771717948

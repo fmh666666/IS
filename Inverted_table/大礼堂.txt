@@ -1,13 +1,13 @@
 12
-data.co.txt 2
-data.ev.txt 1
-data.zacd.txt 1
-data.zbia.txt 1
-data.zbzf.txt 1
-data.zcby.txt 2
-data.zccu.txt 1
-data.zcef.txt 1
-data.zcql.txt 1
-data.zcsr.txt 1
-data.zddb.txt 1
-data.zezy.txt 1
+data.co.txt 4.165648687329214
+data.ev.txt 2.628231699761886
+data.zacd.txt 2.628231699761886
+data.zbia.txt 2.628231699761886
+data.zbzf.txt 2.628231699761886
+data.zcby.txt 4.165648687329214
+data.zccu.txt 2.628231699761886
+data.zcef.txt 2.628231699761886
+data.zcql.txt 2.628231699761886
+data.zcsr.txt 2.628231699761886
+data.zddb.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

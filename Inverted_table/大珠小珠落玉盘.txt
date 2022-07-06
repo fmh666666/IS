@@ -1,4 +1,4 @@
 3
-data.zarc.txt 1
-data.zarr.txt 1
-data.zeta.txt 1
+data.zarc.txt 3.5891377275982888
+data.zarr.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

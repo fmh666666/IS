@@ -1,12 +1,12 @@
 11
-data.ka.txt 1
-data.kq.txt 1
-data.pq.txt 1
-data.zafu.txt 1
-data.zamp.txt 1
-data.zasy.txt 1
-data.zcfn.txt 1
-data.zcqs.txt 1
-data.zeos.txt 1
-data.zeve.txt 1
-data.zevt.txt 1
+data.ka.txt 2.6885433903988862
+data.kq.txt 2.6885433903988862
+data.pq.txt 2.6885433903988862
+data.zafu.txt 2.6885433903988862
+data.zamp.txt 2.6885433903988862
+data.zasy.txt 2.6885433903988862
+data.zcfn.txt 2.6885433903988862
+data.zcqs.txt 2.6885433903988862
+data.zeos.txt 2.6885433903988862
+data.zeve.txt 2.6885433903988862
+data.zevt.txt 2.6885433903988862

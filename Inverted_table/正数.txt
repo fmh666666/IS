@@ -1,2 +1,2 @@
 1
-data.zblr.txt 4
+data.zblr.txt 10.101867994579104

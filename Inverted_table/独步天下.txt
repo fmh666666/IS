@@ -1,12 +1,12 @@
 11
-data.mx.txt 1
-data.zajo.txt 1
-data.zbjc.txt 1
-data.zbkj.txt 1
-data.zbsm.txt 1
-data.zcgi.txt 1
-data.zcrk.txt 1
-data.zdkc.txt 1
-data.zdlg.txt 1
-data.zebc.txt 1
-data.zedx.txt 1
+data.mx.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zbjc.txt 2.6885433903988862
+data.zbkj.txt 2.6885433903988862
+data.zbsm.txt 2.6885433903988862
+data.zcgi.txt 2.6885433903988862
+data.zcrk.txt 2.6885433903988862
+data.zdkc.txt 2.6885433903988862
+data.zdlg.txt 2.6885433903988862
+data.zebc.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862

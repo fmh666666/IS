@@ -1,9 +1,9 @@
 8
-data.zbpm.txt 1
-data.zciy.txt 1
-data.zcjo.txt 1
-data.zcmy.txt 1
-data.zcsu.txt 1
-data.zddv.txt 1
-data.zdoc.txt 2
-data.zdpz.txt 1
+data.zbpm.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zcjo.txt 2.9092786962624935
+data.zcmy.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zdoc.txt 4.611097637722987
+data.zdpz.txt 2.9092786962624935

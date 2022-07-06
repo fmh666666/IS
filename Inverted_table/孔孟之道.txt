@@ -1,6 +1,6 @@
 5
-data.vm.txt 1
-data.zbla.txt 1
-data.zebc.txt 1
-data.zevl.txt 1
-data.zfcg.txt 1
+data.vm.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zebc.txt 3.235060386727117
+data.zevl.txt 3.235060386727117
+data.zfcg.txt 3.235060386727117

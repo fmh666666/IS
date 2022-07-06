@@ -1,10 +1,10 @@
 9
-data.jd.txt 3
-data.zavx.txt 1
-data.zbkj.txt 1
-data.zbph.txt 1
-data.zbtj.txt 2
-data.zcsu.txt 1
-data.zdro.txt 2
-data.zebc.txt 1
-data.zelt.txt 1
+data.jd.txt 5.65527543435896
+data.zavx.txt 2.82763771717948
+data.zbkj.txt 2.82763771717948
+data.zbph.txt 2.82763771717948
+data.zbtj.txt 4.48169974735425
+data.zcsu.txt 2.82763771717948
+data.zdro.txt 4.48169974735425
+data.zebc.txt 2.82763771717948
+data.zelt.txt 2.82763771717948

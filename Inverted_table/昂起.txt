@@ -1,11 +1,11 @@
 10
-data.sq.txt 1
-data.zaic.txt 1
-data.zbem.txt 2
-data.zbwq.txt 1
-data.zcmv.txt 1
-data.zcpx.txt 1
-data.zdpg.txt 1
-data.zedo.txt 1
-data.zedy.txt 1
-data.zeqn.txt 1
+data.sq.txt 2.7546073728089153
+data.zaic.txt 2.7546073728089153
+data.zbem.txt 4.365949390112154
+data.zbwq.txt 2.7546073728089153
+data.zcmv.txt 2.7546073728089153
+data.zcpx.txt 2.7546073728089153
+data.zdpg.txt 2.7546073728089153
+data.zedo.txt 2.7546073728089153
+data.zedy.txt 2.7546073728089153
+data.zeqn.txt 2.7546073728089153

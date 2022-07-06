@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zazn.txt 2
-data.zciy.txt 1
-data.zcjo.txt 2
-data.zcxr.txt 1
-data.zeez.txt 1
-data.zegl.txt 1
-data.zerw.txt 1
+data.ok.txt 2.9092786962624935
+data.zazn.txt 4.611097637722987
+data.zciy.txt 2.9092786962624935
+data.zcjo.txt 4.611097637722987
+data.zcxr.txt 2.9092786962624935
+data.zeez.txt 2.9092786962624935
+data.zegl.txt 2.9092786962624935
+data.zerw.txt 2.9092786962624935

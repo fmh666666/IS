@@ -1,9 +1,9 @@
 8
-data.zaic.txt 1
-data.zasq.txt 1
-data.zazo.txt 1
-data.zbpx.txt 1
-data.zbzo.txt 1
-data.zcdg.txt 1
-data.zdpf.txt 1
-data.zdzm.txt 1
+data.zaic.txt 2.9092786962624935
+data.zasq.txt 2.9092786962624935
+data.zazo.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zbzo.txt 2.9092786962624935
+data.zcdg.txt 2.9092786962624935
+data.zdpf.txt 2.9092786962624935
+data.zdzm.txt 2.9092786962624935

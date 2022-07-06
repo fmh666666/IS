@@ -1,5 +1,5 @@
 4
-data.vi.txt 3
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zdwz.txt 1
+data.vi.txt 6.77946342036139
+data.zcdy.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695
+data.zdwz.txt 3.389731710180695

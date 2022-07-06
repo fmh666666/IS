@@ -1,6 +1,6 @@
 5
-data.zaxp.txt 1
-data.zbel.txt 1
-data.zcuh.txt 1
-data.zdoq.txt 2
-data.zefd.txt 1
+data.zaxp.txt 3.235060386727117
+data.zbel.txt 3.235060386727117
+data.zcuh.txt 3.235060386727117
+data.zdoq.txt 5.1274494005309625
+data.zefd.txt 3.235060386727117

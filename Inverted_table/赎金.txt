@@ -1,11 +1,11 @@
 10
-data.tv.txt 1
-data.yx.txt 1
-data.zajn.txt 1
-data.zbkv.txt 1
-data.zblq.txt 1
-data.zcku.txt 1
-data.zdsh.txt 1
-data.zedk.txt 1
-data.zene.txt 1
-data.zfai.txt 6
+data.tv.txt 2.7546073728089153
+data.yx.txt 2.7546073728089153
+data.zajn.txt 2.7546073728089153
+data.zbkv.txt 2.7546073728089153
+data.zblq.txt 2.7546073728089153
+data.zcku.txt 2.7546073728089153
+data.zdsh.txt 2.7546073728089153
+data.zedk.txt 2.7546073728089153
+data.zene.txt 2.7546073728089153
+data.zfai.txt 7.733160566391275

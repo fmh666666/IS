@@ -1,6 +1,6 @@
 5
-data.hz.txt 3
-data.zaeh.txt 2
-data.zaim.txt 1
-data.zdzm.txt 1
-data.zfby.txt 1
+data.hz.txt 6.470120773454234
+data.zaeh.txt 5.1274494005309625
+data.zaim.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117
+data.zfby.txt 3.235060386727117

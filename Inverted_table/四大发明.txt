@@ -1,12 +1,12 @@
 11
-data.gw.txt 1
-data.zasq.txt 1
-data.zawu.txt 1
-data.zbvn.txt 1
-data.zbvp.txt 1
-data.zctn.txt 1
-data.zdwz.txt 1
-data.zdxw.txt 1
-data.zeew.txt 2
-data.zejn.txt 1
-data.zeqh.txt 1
+data.gw.txt 2.6885433903988862
+data.zasq.txt 2.6885433903988862
+data.zawu.txt 2.6885433903988862
+data.zbvn.txt 2.6885433903988862
+data.zbvp.txt 2.6885433903988862
+data.zctn.txt 2.6885433903988862
+data.zdwz.txt 2.6885433903988862
+data.zdxw.txt 2.6885433903988862
+data.zeew.txt 4.261240455343955
+data.zejn.txt 2.6885433903988862
+data.zeqh.txt 2.6885433903988862

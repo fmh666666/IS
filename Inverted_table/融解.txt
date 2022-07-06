@@ -1,5 +1,5 @@
 4
-data.ee.txt 1
-data.zchd.txt 1
-data.zcrk.txt 1
-data.zcsu.txt 1
+data.ee.txt 3.389731710180695
+data.zchd.txt 3.389731710180695
+data.zcrk.txt 3.389731710180695
+data.zcsu.txt 3.389731710180695

@@ -1,6 +1,6 @@
 5
-data.ee.txt 2
-data.zaic.txt 1
-data.zbof.txt 1
-data.zbvg.txt 1
-data.zdwv.txt 1
+data.ee.txt 5.1274494005309625
+data.zaic.txt 3.235060386727117
+data.zbof.txt 3.235060386727117
+data.zbvg.txt 3.235060386727117
+data.zdwv.txt 3.235060386727117

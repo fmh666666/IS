@@ -1,5 +1,5 @@
 4
-data.wg.txt 1
-data.zawb.txt 1
-data.zbpx.txt 2
-data.zdst.txt 1
+data.wg.txt 3.389731710180695
+data.zawb.txt 3.389731710180695
+data.zbpx.txt 5.372597648141796
+data.zdst.txt 3.389731710180695

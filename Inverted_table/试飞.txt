@@ -1,6 +1,6 @@
 5
-data.dg.txt 3
-data.zass.txt 2
-data.zazn.txt 1
-data.zcdv.txt 2
-data.zesq.txt 4
+data.dg.txt 6.470120773454234
+data.zass.txt 5.1274494005309625
+data.zazn.txt 3.235060386727117
+data.zcdv.txt 5.1274494005309625
+data.zesq.txt 7.511577600598868

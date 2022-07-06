@@ -1,3 +1,3 @@
 2
-data.hz.txt 4
-data.zeob.txt 1
+data.hz.txt 8.986290643289122
+data.zeob.txt 3.8701847240988965

@@ -1,4 +1,4 @@
 3
-data.zane.txt 19
-data.zbha.txt 1
-data.zcmn.txt 1
+data.zane.txt 15.51199518132723
+data.zbha.txt 3.5891377275982888
+data.zcmn.txt 3.5891377275982888

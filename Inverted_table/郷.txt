@@ -1,8 +1,8 @@
 7
-data.zate.txt 1
-data.zbcc.txt 2
-data.zdof.txt 1
-data.zeag.txt 1
-data.zeeh.txt 1
-data.zegn.txt 1
-data.zesq.txt 1
+data.zate.txt 3.0018356045764243
+data.zbcc.txt 4.757796866583254
+data.zdof.txt 3.0018356045764243
+data.zeag.txt 3.0018356045764243
+data.zeeh.txt 3.0018356045764243
+data.zegn.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243

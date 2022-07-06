@@ -1,8 +1,8 @@
 7
-data.zalt.txt 1
-data.zbpc.txt 2
-data.zctp.txt 1
-data.zcts.txt 1
-data.zdaa.txt 2
-data.zerv.txt 1
-data.zfaj.txt 1
+data.zalt.txt 3.0018356045764243
+data.zbpc.txt 4.757796866583254
+data.zctp.txt 3.0018356045764243
+data.zcts.txt 3.0018356045764243
+data.zdaa.txt 4.757796866583254
+data.zerv.txt 3.0018356045764243
+data.zfaj.txt 3.0018356045764243

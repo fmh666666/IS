@@ -1,14 +1,14 @@
 13
-data.zaet.txt 1
-data.zagr.txt 1
-data.zbhe.txt 1
-data.zbor.txt 1
-data.zbpp.txt 1
-data.zcgo.txt 1
-data.zcih.txt 1
-data.zcmy.txt 1
-data.zcpc.txt 1
-data.zcse.txt 1
-data.zdgv.txt 1
-data.zdpg.txt 1
-data.zefp.txt 1
+data.zaet.txt 2.5727503226135906
+data.zagr.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zbor.txt 2.5727503226135906
+data.zbpp.txt 2.5727503226135906
+data.zcgo.txt 2.5727503226135906
+data.zcih.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zcpc.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zdgv.txt 2.5727503226135906
+data.zdpg.txt 2.5727503226135906
+data.zefp.txt 2.5727503226135906

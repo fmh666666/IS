@@ -1,4 +1,4 @@
 3
-data.vi.txt 1
-data.zefv.txt 1
-data.zevt.txt 1
+data.vi.txt 3.5891377275982888
+data.zefv.txt 3.5891377275982888
+data.zevt.txt 3.5891377275982888

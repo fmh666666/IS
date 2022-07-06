@@ -1,13 +1,13 @@
 12
-data.hc.txt 1
-data.tv.txt 1
-data.tz.txt 1
-data.zalt.txt 1
-data.zaxk.txt 2
-data.zbts.txt 1
-data.zcjo.txt 1
-data.zcrk.txt 1
-data.zdkk.txt 1
-data.zdzi.txt 1
-data.zeqn.txt 2
-data.zezn.txt 8
+data.hc.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.tz.txt 2.628231699761886
+data.zalt.txt 2.628231699761886
+data.zaxk.txt 4.165648687329214
+data.zbts.txt 2.628231699761886
+data.zcjo.txt 2.628231699761886
+data.zcrk.txt 2.628231699761886
+data.zdkk.txt 2.628231699761886
+data.zdzi.txt 2.628231699761886
+data.zeqn.txt 4.165648687329214
+data.zezn.txt 8.331297374658428

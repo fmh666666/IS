@@ -1,13 +1,13 @@
 12
-data.ev.txt 1
-data.op.txt 1
-data.zahd.txt 1
-data.zblr.txt 1
-data.zbsm.txt 1
-data.zcdy.txt 1
-data.zczb.txt 1
-data.zefv.txt 1
-data.zene.txt 1
-data.zeoh.txt 1
-data.zeqh.txt 2
-data.zfai.txt 1
+data.ev.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.zahd.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbsm.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zczb.txt 2.628231699761886
+data.zefv.txt 2.628231699761886
+data.zene.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886
+data.zeqh.txt 4.165648687329214
+data.zfai.txt 2.628231699761886

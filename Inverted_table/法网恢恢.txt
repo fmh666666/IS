@@ -1,4 +1,4 @@
 3
-data.zdmw.txt 1
-data.zdtr.txt 1
-data.zfai.txt 1
+data.zdmw.txt 3.5891377275982888
+data.zdtr.txt 3.5891377275982888
+data.zfai.txt 3.5891377275982888

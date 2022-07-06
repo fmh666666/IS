@@ -1,6 +1,6 @@
 5
-data.zbdx.txt 1
-data.zcel.txt 1
-data.zcko.txt 1
-data.zebn.txt 2
-data.zefp.txt 1
+data.zbdx.txt 3.235060386727117
+data.zcel.txt 3.235060386727117
+data.zcko.txt 3.235060386727117
+data.zebn.txt 5.1274494005309625
+data.zefp.txt 3.235060386727117

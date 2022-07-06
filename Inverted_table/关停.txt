@@ -1,14 +1,14 @@
 13
-data.nh.txt 3
-data.op.txt 1
-data.qb.txt 1
-data.zahd.txt 1
-data.zaip.txt 3
-data.zawo.txt 1
-data.zbjh.txt 1
-data.zbpx.txt 1
-data.zcmy.txt 1
-data.zdgt.txt 1
-data.zdic.txt 1
-data.zduo.txt 1
-data.zeqv.txt 1
+data.nh.txt 5.145500645227181
+data.op.txt 2.5727503226135906
+data.qb.txt 2.5727503226135906
+data.zahd.txt 2.5727503226135906
+data.zaip.txt 5.145500645227181
+data.zawo.txt 2.5727503226135906
+data.zbjh.txt 2.5727503226135906
+data.zbpx.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zdic.txt 2.5727503226135906
+data.zduo.txt 2.5727503226135906
+data.zeqv.txt 2.5727503226135906

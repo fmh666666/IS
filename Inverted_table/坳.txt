@@ -1,4 +1,4 @@
 3
-data.zacd.txt 2
-data.zbes.txt 1
-data.zcwn.txt 1
+data.zacd.txt 5.688648708166832
+data.zbes.txt 3.5891377275982888
+data.zcwn.txt 3.5891377275982888

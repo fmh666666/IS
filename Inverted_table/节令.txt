@@ -1,4 +1,4 @@
 3
-data.mx.txt 1
-data.zbcj.txt 1
-data.zefw.txt 1
+data.mx.txt 3.5891377275982888
+data.zbcj.txt 3.5891377275982888
+data.zefw.txt 3.5891377275982888

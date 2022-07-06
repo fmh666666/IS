@@ -1,13 +1,13 @@
 12
-data.zbxy.txt 1
-data.zbyb.txt 1
-data.zcdy.txt 1
-data.zclm.txt 1
-data.zcon.txt 1
-data.zdlo.txt 1
-data.zdzi.txt 2
-data.zeid.txt 1
-data.zejk.txt 1
-data.zeoo.txt 1
-data.zevq.txt 1
-data.zeyy.txt 1
+data.zbxy.txt 2.628231699761886
+data.zbyb.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zclm.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdlo.txt 2.628231699761886
+data.zdzi.txt 4.165648687329214
+data.zeid.txt 2.628231699761886
+data.zejk.txt 2.628231699761886
+data.zeoo.txt 2.628231699761886
+data.zevq.txt 2.628231699761886
+data.zeyy.txt 2.628231699761886

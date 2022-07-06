@@ -1,10 +1,10 @@
 9
-data.ok.txt 1
-data.tv.txt 2
-data.tz.txt 2
-data.zabj.txt 1
-data.zail.txt 15
-data.zawu.txt 1
-data.zctm.txt 1
-data.zdqz.txt 1
-data.zfaj.txt 1
+data.ok.txt 2.82763771717948
+data.tv.txt 4.48169974735425
+data.tz.txt 4.48169974735425
+data.zabj.txt 2.82763771717948
+data.zail.txt 11.31055086871792
+data.zawu.txt 2.82763771717948
+data.zctm.txt 2.82763771717948
+data.zdqz.txt 2.82763771717948
+data.zfaj.txt 2.82763771717948

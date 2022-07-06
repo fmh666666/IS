@@ -1,5 +1,5 @@
 4
-data.zbrd.txt 1
-data.zdkk.txt 1
-data.zdou.txt 1
-data.zexx.txt 1
+data.zbrd.txt 3.389731710180695
+data.zdkk.txt 3.389731710180695
+data.zdou.txt 3.389731710180695
+data.zexx.txt 3.389731710180695

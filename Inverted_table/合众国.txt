@@ -1,4 +1,4 @@
 3
-data.zbha.txt 1
-data.zcby.txt 1
-data.zfai.txt 2
+data.zbha.txt 3.5891377275982888
+data.zcby.txt 3.5891377275982888
+data.zfai.txt 5.688648708166832

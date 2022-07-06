@@ -1,6 +1,6 @@
 5
-data.zazx.txt 2
-data.zbil.txt 1
-data.zdhv.txt 2
-data.zdoq.txt 1
-data.zfaz.txt 1
+data.zazx.txt 5.1274494005309625
+data.zbil.txt 3.235060386727117
+data.zdhv.txt 5.1274494005309625
+data.zdoq.txt 3.235060386727117
+data.zfaz.txt 3.235060386727117

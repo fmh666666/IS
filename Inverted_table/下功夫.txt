@@ -1,10 +1,10 @@
 9
-data.bf.txt 1
-data.jf.txt 2
-data.wc.txt 1
-data.zacw.txt 1
-data.zasq.txt 1
-data.zbeb.txt 2
-data.zcdy.txt 1
-data.zdic.txt 1
-data.zesq.txt 1
+data.bf.txt 2.82763771717948
+data.jf.txt 4.48169974735425
+data.wc.txt 2.82763771717948
+data.zacw.txt 2.82763771717948
+data.zasq.txt 2.82763771717948
+data.zbeb.txt 4.48169974735425
+data.zcdy.txt 2.82763771717948
+data.zdic.txt 2.82763771717948
+data.zesq.txt 2.82763771717948

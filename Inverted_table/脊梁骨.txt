@@ -1,6 +1,6 @@
 5
-data.vi.txt 1
-data.zazx.txt 1
-data.zbia.txt 1
-data.zddb.txt 1
-data.zedx.txt 1
+data.vi.txt 3.235060386727117
+data.zazx.txt 3.235060386727117
+data.zbia.txt 3.235060386727117
+data.zddb.txt 3.235060386727117
+data.zedx.txt 3.235060386727117

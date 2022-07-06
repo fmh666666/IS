@@ -1,6 +1,6 @@
 5
-data.ka.txt 1
-data.zadv.txt 1
-data.zamr.txt 1
-data.zasw.txt 1
-data.zehp.txt 1
+data.ka.txt 3.235060386727117
+data.zadv.txt 3.235060386727117
+data.zamr.txt 3.235060386727117
+data.zasw.txt 3.235060386727117
+data.zehp.txt 3.235060386727117

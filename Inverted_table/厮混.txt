@@ -1,9 +1,9 @@
 8
-data.ry.txt 1
-data.tv.txt 1
-data.zawu.txt 4
-data.zbts.txt 1
-data.zcsu.txt 1
-data.zdwn.txt 1
-data.zegz.txt 1
-data.zezy.txt 1
+data.ry.txt 2.9092786962624935
+data.tv.txt 2.9092786962624935
+data.zawu.txt 6.7551359407091605
+data.zbts.txt 2.9092786962624935
+data.zcsu.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zegz.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

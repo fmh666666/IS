@@ -1,12 +1,12 @@
 11
-data.fz.txt 1
-data.uz.txt 1
-data.zbds.txt 1
-data.zbfz.txt 1
-data.zbvf.txt 1
-data.zcdz.txt 1
-data.zdep.txt 1
-data.zdju.txt 1
-data.zedk.txt 1
-data.zedx.txt 1
-data.zefv.txt 1
+data.fz.txt 2.6885433903988862
+data.uz.txt 2.6885433903988862
+data.zbds.txt 2.6885433903988862
+data.zbfz.txt 2.6885433903988862
+data.zbvf.txt 2.6885433903988862
+data.zcdz.txt 2.6885433903988862
+data.zdep.txt 2.6885433903988862
+data.zdju.txt 2.6885433903988862
+data.zedk.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862
+data.zefv.txt 2.6885433903988862

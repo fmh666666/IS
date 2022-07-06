@@ -1,14 +1,14 @@
 13
-data.ry.txt 15
-data.sq.txt 1
-data.wc.txt 1
-data.zacd.txt 1
-data.zbla.txt 2
-data.zbpx.txt 1
-data.zcdv.txt 1
-data.zcgo.txt 1
-data.zcni.txt 1
-data.zcwn.txt 1
-data.zdkc.txt 1
-data.zefs.txt 1
-data.zeob.txt 4
+data.ry.txt 10.291001290454362
+data.sq.txt 2.5727503226135906
+data.wc.txt 2.5727503226135906
+data.zacd.txt 2.5727503226135906
+data.zbla.txt 4.077712785060798
+data.zbpx.txt 2.5727503226135906
+data.zcdv.txt 2.5727503226135906
+data.zcgo.txt 2.5727503226135906
+data.zcni.txt 2.5727503226135906
+data.zcwn.txt 2.5727503226135906
+data.zdkc.txt 2.5727503226135906
+data.zefs.txt 2.5727503226135906
+data.zeob.txt 5.97374125520702

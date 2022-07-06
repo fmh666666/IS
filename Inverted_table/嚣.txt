@@ -1,9 +1,9 @@
 8
-data.ok.txt 1
-data.zadv.txt 1
-data.zafu.txt 1
-data.zard.txt 1
-data.zddv.txt 1
-data.zdgo.txt 1
-data.zdof.txt 1
-data.zdxw.txt 2
+data.ok.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zafu.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zddv.txt 2.9092786962624935
+data.zdgo.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zdxw.txt 4.611097637722987

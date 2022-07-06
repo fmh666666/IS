@@ -1,7 +1,7 @@
 6
-data.vi.txt 1
-data.zbhd.txt 1
-data.zcdy.txt 1
-data.zcww.txt 1
-data.zeez.txt 1
-data.zeve.txt 1
+data.vi.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcww.txt 3.1086847136800873
+data.zeez.txt 3.1086847136800873
+data.zeve.txt 3.1086847136800873

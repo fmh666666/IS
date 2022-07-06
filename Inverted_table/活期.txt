@@ -1,10 +1,10 @@
 9
-data.zamr.txt 1
-data.zauy.txt 1
-data.zbcj.txt 4
-data.zcdg.txt 1
-data.zcdy.txt 3
-data.zcue.txt 1
-data.zdwz.txt 2
-data.zexv.txt 3
-data.zfas.txt 1
+data.zamr.txt 2.82763771717948
+data.zauy.txt 2.82763771717948
+data.zbcj.txt 6.565571457682201
+data.zcdg.txt 2.82763771717948
+data.zcdy.txt 5.65527543435896
+data.zcue.txt 2.82763771717948
+data.zdwz.txt 4.48169974735425
+data.zexv.txt 5.65527543435896
+data.zfas.txt 2.82763771717948

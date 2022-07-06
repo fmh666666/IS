@@ -1,6 +1,6 @@
 5
-data.hp.txt 1
-data.zbnx.txt 1
-data.zctm.txt 2
-data.zdqx.txt 2
-data.zefp.txt 2
+data.hp.txt 3.235060386727117
+data.zbnx.txt 3.235060386727117
+data.zctm.txt 5.1274494005309625
+data.zdqx.txt 5.1274494005309625
+data.zefp.txt 5.1274494005309625

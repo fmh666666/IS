@@ -1,6 +1,6 @@
 5
-data.zank.txt 1
-data.zbqu.txt 1
-data.zcqp.txt 1
-data.zdcy.txt 1
-data.zfaw.txt 1
+data.zank.txt 3.235060386727117
+data.zbqu.txt 3.235060386727117
+data.zcqp.txt 3.235060386727117
+data.zdcy.txt 3.235060386727117
+data.zfaw.txt 3.235060386727117

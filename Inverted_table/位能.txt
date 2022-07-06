@@ -1,9 +1,9 @@
 8
-data.en.txt 1
-data.ok.txt 1
-data.zajo.txt 1
-data.zcem.txt 1
-data.zdxw.txt 1
-data.zedo.txt 1
-data.zeeh.txt 1
-data.zeew.txt 1
+data.en.txt 2.9092786962624935
+data.ok.txt 2.9092786962624935
+data.zajo.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zdxw.txt 2.9092786962624935
+data.zedo.txt 2.9092786962624935
+data.zeeh.txt 2.9092786962624935
+data.zeew.txt 2.9092786962624935

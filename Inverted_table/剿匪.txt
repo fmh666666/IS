@@ -1,5 +1,5 @@
 4
-data.op.txt 2
-data.zdwk.txt 1
-data.zenw.txt 1
-data.zesq.txt 1
+data.op.txt 5.372597648141796
+data.zdwk.txt 3.389731710180695
+data.zenw.txt 3.389731710180695
+data.zesq.txt 3.389731710180695

@@ -1,9 +1,9 @@
 8
-data.bs.txt 1
-data.zacp.txt 1
-data.zaxp.txt 1
-data.zbht.txt 1
-data.zdyv.txt 1
-data.zehb.txt 1
-data.zexu.txt 1
-data.zfaz.txt 1
+data.bs.txt 2.9092786962624935
+data.zacp.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zbht.txt 2.9092786962624935
+data.zdyv.txt 2.9092786962624935
+data.zehb.txt 2.9092786962624935
+data.zexu.txt 2.9092786962624935
+data.zfaz.txt 2.9092786962624935

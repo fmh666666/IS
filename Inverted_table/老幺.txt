@@ -1,5 +1,5 @@
 4
-data.pa.txt 3
-data.zalt.txt 2
-data.zbup.txt 3
-data.zexk.txt 1
+data.pa.txt 6.77946342036139
+data.zalt.txt 5.372597648141796
+data.zbup.txt 6.77946342036139
+data.zexk.txt 3.389731710180695

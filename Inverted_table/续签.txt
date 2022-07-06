@@ -1,9 +1,9 @@
 8
-data.vi.txt 4
-data.zadv.txt 1
-data.zahd.txt 1
-data.zbuj.txt 2
-data.zczl.txt 1
-data.zddv.txt 2
-data.zdgp.txt 1
-data.zeta.txt 1
+data.vi.txt 6.7551359407091605
+data.zadv.txt 2.9092786962624935
+data.zahd.txt 2.9092786962624935
+data.zbuj.txt 4.611097637722987
+data.zczl.txt 2.9092786962624935
+data.zddv.txt 4.611097637722987
+data.zdgp.txt 2.9092786962624935
+data.zeta.txt 2.9092786962624935

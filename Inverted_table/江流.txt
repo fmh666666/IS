@@ -1,4 +1,4 @@
 3
-data.zbcc.txt 1
-data.zddb.txt 1
-data.zdhv.txt 1
+data.zbcc.txt 3.5891377275982888
+data.zddb.txt 3.5891377275982888
+data.zdhv.txt 3.5891377275982888

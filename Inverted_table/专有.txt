@@ -1,7 +1,7 @@
 6
-data.zacw.txt 1
-data.zawz.txt 1
-data.zaxk.txt 1
-data.zbdb.txt 1
-data.zbjh.txt 1
-data.zdqk.txt 2
+data.zacw.txt 3.1086847136800873
+data.zawz.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zbdb.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zdqk.txt 4.927148697748023

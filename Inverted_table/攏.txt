@@ -1,4 +1,4 @@
 3
-data.tz.txt 1
-data.zbvn.txt 1
-data.zeam.txt 1
+data.tz.txt 3.5891377275982888
+data.zbvn.txt 3.5891377275982888
+data.zeam.txt 3.5891377275982888

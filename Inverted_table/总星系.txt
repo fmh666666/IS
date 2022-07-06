@@ -1,4 +1,4 @@
 3
-data.zawz.txt 3
-data.zedk.txt 1
-data.zeta.txt 1
+data.zawz.txt 7.1782754551965775
+data.zedk.txt 3.5891377275982888
+data.zeta.txt 3.5891377275982888

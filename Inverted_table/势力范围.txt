@@ -1,7 +1,7 @@
 6
-data.op.txt 2
-data.yx.txt 1
-data.zbsm.txt 1
-data.zcdz.txt 1
-data.zcih.txt 7
-data.zfcp.txt 1
+data.op.txt 4.927148697748023
+data.yx.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zcih.txt 9.326054141040261
+data.zfcp.txt 3.1086847136800873

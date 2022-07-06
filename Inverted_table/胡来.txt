@@ -1,13 +1,13 @@
 12
-data.tv.txt 1
-data.ud.txt 1
-data.vm.txt 1
-data.zajo.txt 1
-data.zcdv.txt 1
-data.zdgo.txt 2
-data.zdgv.txt 1
-data.zdhv.txt 1
-data.zdrq.txt 1
-data.zduo.txt 1
-data.zevy.txt 3
-data.zfai.txt 1
+data.tv.txt 2.628231699761886
+data.ud.txt 2.628231699761886
+data.vm.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zcdv.txt 2.628231699761886
+data.zdgo.txt 4.165648687329214
+data.zdgv.txt 2.628231699761886
+data.zdhv.txt 2.628231699761886
+data.zdrq.txt 2.628231699761886
+data.zduo.txt 2.628231699761886
+data.zevy.txt 5.256463399523772
+data.zfai.txt 2.628231699761886

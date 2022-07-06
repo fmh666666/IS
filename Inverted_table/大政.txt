@@ -1,7 +1,7 @@
 6
-data.hz.txt 2
-data.zbdb.txt 1
-data.zbnx.txt 1
-data.zbsl.txt 1
-data.zenw.txt 1
-data.zewn.txt 1
+data.hz.txt 4.927148697748023
+data.zbdb.txt 3.1086847136800873
+data.zbnx.txt 3.1086847136800873
+data.zbsl.txt 3.1086847136800873
+data.zenw.txt 3.1086847136800873
+data.zewn.txt 3.1086847136800873

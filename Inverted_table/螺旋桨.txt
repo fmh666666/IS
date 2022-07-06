@@ -1,5 +1,5 @@
 4
-data.nh.txt 1
-data.zaqw.txt 2
-data.zdgp.txt 1
-data.zfcp.txt 1
+data.nh.txt 3.389731710180695
+data.zaqw.txt 5.372597648141796
+data.zdgp.txt 3.389731710180695
+data.zfcp.txt 3.389731710180695

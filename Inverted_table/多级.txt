@@ -1,9 +1,9 @@
 8
-data.mo.txt 1
-data.zaoy.txt 1
-data.zard.txt 1
-data.zbua.txt 1
-data.zcdz.txt 1
-data.zcko.txt 2
-data.zcvt.txt 1
-data.zdwn.txt 1
+data.mo.txt 2.9092786962624935
+data.zaoy.txt 2.9092786962624935
+data.zard.txt 2.9092786962624935
+data.zbua.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zcko.txt 4.611097637722987
+data.zcvt.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935

@@ -1,10 +1,10 @@
 9
-data.zbfz.txt 1
-data.zcko.txt 1
-data.zdaw.txt 1
-data.zdll.txt 1
-data.zeam.txt 1
-data.zedk.txt 1
-data.zefu.txt 1
-data.zevq.txt 1
-data.zeyu.txt 1
+data.zbfz.txt 2.82763771717948
+data.zcko.txt 2.82763771717948
+data.zdaw.txt 2.82763771717948
+data.zdll.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zedk.txt 2.82763771717948
+data.zefu.txt 2.82763771717948
+data.zevq.txt 2.82763771717948
+data.zeyu.txt 2.82763771717948

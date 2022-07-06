@@ -1,8 +1,8 @@
 7
-data.jj.txt 1
-data.ud.txt 1
-data.zawc.txt 1
-data.zazn.txt 2
-data.zbjh.txt 11
-data.zbvm.txt 1
-data.zesq.txt 1
+data.jj.txt 3.0018356045764243
+data.ud.txt 3.0018356045764243
+data.zawc.txt 3.0018356045764243
+data.zazn.txt 4.757796866583254
+data.zbjh.txt 10.761468075736103
+data.zbvm.txt 3.0018356045764243
+data.zesq.txt 3.0018356045764243

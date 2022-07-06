@@ -1,6 +1,6 @@
 5
-data.jf.txt 3
-data.zbjh.txt 1
-data.zcwq.txt 2
-data.zdgo.txt 1
-data.zeva.txt 5
+data.jf.txt 6.470120773454234
+data.zbjh.txt 3.235060386727117
+data.zcwq.txt 5.1274494005309625
+data.zdgo.txt 3.235060386727117
+data.zeva.txt 8.362509787258078

@@ -1,9 +1,9 @@
 8
-data.op.txt 1
-data.zbua.txt 1
-data.zdcw.txt 1
-data.zeam.txt 1
-data.zenw.txt 2
-data.zete.txt 1
-data.zexk.txt 1
-data.zezf.txt 2
+data.op.txt 2.9092786962624935
+data.zbua.txt 2.9092786962624935
+data.zdcw.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zenw.txt 4.611097637722987
+data.zete.txt 2.9092786962624935
+data.zexk.txt 2.9092786962624935
+data.zezf.txt 4.611097637722987

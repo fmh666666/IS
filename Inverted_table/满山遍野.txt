@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zbpx.txt 1
-data.zdzm.txt 1
-data.zeec.txt 1
-data.zezh.txt 1
+data.qn.txt 3.235060386727117
+data.zbpx.txt 3.235060386727117
+data.zdzm.txt 3.235060386727117
+data.zeec.txt 3.235060386727117
+data.zezh.txt 3.235060386727117

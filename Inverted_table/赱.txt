@@ -1,4 +1,4 @@
 3
-data.bs.txt 1
-data.zdpz.txt 1
-data.zesq.txt 1
+data.bs.txt 3.5891377275982888
+data.zdpz.txt 3.5891377275982888
+data.zesq.txt 3.5891377275982888

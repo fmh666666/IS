@@ -1,6 +1,6 @@
 5
-data.cz.txt 3
-data.zabe.txt 1
-data.zcef.txt 1
-data.zcrg.txt 1
-data.zdme.txt 1
+data.cz.txt 6.470120773454234
+data.zabe.txt 3.235060386727117
+data.zcef.txt 3.235060386727117
+data.zcrg.txt 3.235060386727117
+data.zdme.txt 3.235060386727117

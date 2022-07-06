@@ -1,6 +1,6 @@
 5
-data.zafk.txt 1
-data.zehb.txt 1
-data.zeqn.txt 2
-data.zexk.txt 1
-data.zfaj.txt 1
+data.zafk.txt 3.235060386727117
+data.zehb.txt 3.235060386727117
+data.zeqn.txt 5.1274494005309625
+data.zexk.txt 3.235060386727117
+data.zfaj.txt 3.235060386727117

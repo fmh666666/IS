@@ -1,5 +1,5 @@
 4
-data.zbtj.txt 2
-data.zcve.txt 1
-data.zcvi.txt 1
-data.zdaa.txt 1
+data.zbtj.txt 5.372597648141796
+data.zcve.txt 3.389731710180695
+data.zcvi.txt 3.389731710180695
+data.zdaa.txt 3.389731710180695

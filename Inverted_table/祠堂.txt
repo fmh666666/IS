@@ -1,13 +1,13 @@
 12
-data.ep.txt 1
-data.jd.txt 6
-data.zarc.txt 1
-data.zasd.txt 1
-data.zbdb.txt 1
-data.zbjc.txt 1
-data.zblr.txt 1
-data.zbut.txt 1
-data.zcfx.txt 2
-data.zcon.txt 1
-data.zdaw.txt 1
-data.zdpw.txt 1
+data.ep.txt 2.628231699761886
+data.jd.txt 7.378379198634354
+data.zarc.txt 2.628231699761886
+data.zasd.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbjc.txt 2.628231699761886
+data.zblr.txt 2.628231699761886
+data.zbut.txt 2.628231699761886
+data.zcfx.txt 4.165648687329214
+data.zcon.txt 2.628231699761886
+data.zdaw.txt 2.628231699761886
+data.zdpw.txt 2.628231699761886

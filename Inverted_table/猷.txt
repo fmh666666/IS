@@ -1,9 +1,9 @@
 8
-data.cz.txt 1
-data.zadv.txt 1
-data.zawu.txt 2
-data.zbel.txt 2
-data.zbfz.txt 2
-data.zdud.txt 1
-data.zduo.txt 1
-data.zeoh.txt 4
+data.cz.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zawu.txt 4.611097637722987
+data.zbel.txt 4.611097637722987
+data.zbfz.txt 4.611097637722987
+data.zdud.txt 2.9092786962624935
+data.zduo.txt 2.9092786962624935
+data.zeoh.txt 6.7551359407091605

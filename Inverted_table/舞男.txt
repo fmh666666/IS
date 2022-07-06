@@ -1,4 +1,4 @@
 3
-data.zcgo.txt 1
-data.zcpx.txt 1
-data.zewp.txt 1
+data.zcgo.txt 3.5891377275982888
+data.zcpx.txt 3.5891377275982888
+data.zewp.txt 3.5891377275982888

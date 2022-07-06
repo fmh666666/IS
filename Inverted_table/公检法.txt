@@ -1,13 +1,13 @@
 12
-data.to.txt 1
-data.tv.txt 1
-data.yx.txt 1
-data.zajr.txt 1
-data.zaoy.txt 1
-data.zawb.txt 2
-data.zawu.txt 1
-data.zcxr.txt 1
-data.zddl.txt 1
-data.zdgt.txt 1
-data.zevy.txt 1
-data.zezy.txt 1
+data.to.txt 2.628231699761886
+data.tv.txt 2.628231699761886
+data.yx.txt 2.628231699761886
+data.zajr.txt 2.628231699761886
+data.zaoy.txt 2.628231699761886
+data.zawb.txt 4.165648687329214
+data.zawu.txt 2.628231699761886
+data.zcxr.txt 2.628231699761886
+data.zddl.txt 2.628231699761886
+data.zdgt.txt 2.628231699761886
+data.zevy.txt 2.628231699761886
+data.zezy.txt 2.628231699761886

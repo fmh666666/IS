@@ -1,5 +1,5 @@
 4
-data.zbgu.txt 1
-data.zccx.txt 1
-data.zcdz.txt 1
-data.zdgv.txt 1
+data.zbgu.txt 3.389731710180695
+data.zccx.txt 3.389731710180695
+data.zcdz.txt 3.389731710180695
+data.zdgv.txt 3.389731710180695

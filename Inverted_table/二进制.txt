@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zayc.txt 1
-data.zddl.txt 1
-data.zdgv.txt 1
+data.zaim.txt 3.389731710180695
+data.zayc.txt 3.389731710180695
+data.zddl.txt 3.389731710180695
+data.zdgv.txt 3.389731710180695

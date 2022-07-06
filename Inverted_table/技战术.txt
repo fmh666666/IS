@@ -1,6 +1,6 @@
 5
-data.zbkv.txt 1
-data.zdpz.txt 2
-data.zedo.txt 1
-data.zeqv.txt 1
-data.zewn.txt 1
+data.zbkv.txt 3.235060386727117
+data.zdpz.txt 5.1274494005309625
+data.zedo.txt 3.235060386727117
+data.zeqv.txt 3.235060386727117
+data.zewn.txt 3.235060386727117

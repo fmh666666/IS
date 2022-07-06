@@ -1,10 +1,10 @@
 9
-data.zajr.txt 2
-data.zall.txt 1
-data.zazx.txt 1
-data.zbil.txt 1
-data.zbse.txt 1
-data.zbvn.txt 1
-data.zcfn.txt 1
-data.zegn.txt 1
-data.zeyy.txt 1
+data.zajr.txt 4.48169974735425
+data.zall.txt 2.82763771717948
+data.zazx.txt 2.82763771717948
+data.zbil.txt 2.82763771717948
+data.zbse.txt 2.82763771717948
+data.zbvn.txt 2.82763771717948
+data.zcfn.txt 2.82763771717948
+data.zegn.txt 2.82763771717948
+data.zeyy.txt 2.82763771717948

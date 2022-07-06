@@ -1,4 +1,4 @@
 3
-data.bb.txt 1
-data.zaxj.txt 3
-data.zaxk.txt 6
+data.bb.txt 3.5891377275982888
+data.zaxj.txt 7.1782754551965775
+data.zaxk.txt 10.0759834655157

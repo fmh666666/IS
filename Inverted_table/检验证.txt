@@ -1,4 +1,4 @@
 3
-data.vm.txt 1
-data.zdmw.txt 1
-data.zerh.txt 1
+data.vm.txt 3.5891377275982888
+data.zdmw.txt 3.5891377275982888
+data.zerh.txt 3.5891377275982888

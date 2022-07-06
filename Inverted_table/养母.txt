@@ -1,6 +1,6 @@
 5
-data.zasw.txt 4
-data.zbof.txt 1
-data.zbsm.txt 1
-data.zdkv.txt 1
-data.zfae.txt 1
+data.zasw.txt 7.511577600598868
+data.zbof.txt 3.235060386727117
+data.zbsm.txt 3.235060386727117
+data.zdkv.txt 3.235060386727117
+data.zfae.txt 3.235060386727117

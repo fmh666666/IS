@@ -1,5 +1,5 @@
 4
-data.zall.txt 1
-data.zchw.txt 1
-data.zdaw.txt 1
-data.zelt.txt 1
+data.zall.txt 3.389731710180695
+data.zchw.txt 3.389731710180695
+data.zdaw.txt 3.389731710180695
+data.zelt.txt 3.389731710180695

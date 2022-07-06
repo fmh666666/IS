@@ -1,2 +1,2 @@
 1
-data.zebn.txt 4
+data.zebn.txt 10.101867994579104

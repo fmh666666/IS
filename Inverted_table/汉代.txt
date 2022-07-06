@@ -1,10 +1,10 @@
 9
-data.by.txt 1
-data.zadv.txt 2
-data.zaxk.txt 2
-data.zbla.txt 1
-data.zcsu.txt 3
-data.zcuh.txt 1
-data.zdkc.txt 1
-data.zdpz.txt 1
-data.zfai.txt 2
+data.by.txt 2.82763771717948
+data.zadv.txt 4.48169974735425
+data.zaxk.txt 4.48169974735425
+data.zbla.txt 2.82763771717948
+data.zcsu.txt 5.65527543435896
+data.zcuh.txt 2.82763771717948
+data.zdkc.txt 2.82763771717948
+data.zdpz.txt 2.82763771717948
+data.zfai.txt 4.48169974735425

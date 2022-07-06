@@ -1,14 +1,14 @@
 13
-data.bs.txt 1
-data.ud.txt 1
-data.zavx.txt 3
-data.zbeb.txt 3
-data.zbpx.txt 2
-data.zcgo.txt 1
-data.zdib.txt 2
-data.zdlm.txt 1
-data.zeam.txt 1
-data.zefp.txt 1
-data.zehb.txt 1
-data.zeoh.txt 2
-data.zexv.txt 3
+data.bs.txt 2.5727503226135906
+data.ud.txt 2.5727503226135906
+data.zavx.txt 5.145500645227181
+data.zbeb.txt 5.145500645227181
+data.zbpx.txt 4.077712785060798
+data.zcgo.txt 2.5727503226135906
+data.zdib.txt 4.077712785060798
+data.zdlm.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zefp.txt 2.5727503226135906
+data.zehb.txt 2.5727503226135906
+data.zeoh.txt 4.077712785060798
+data.zexv.txt 5.145500645227181

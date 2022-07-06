@@ -1,4 +1,4 @@
 3
-data.tv.txt 1
-data.zedo.txt 1
-data.zevq.txt 1
+data.tv.txt 3.5891377275982888
+data.zedo.txt 3.5891377275982888
+data.zevq.txt 3.5891377275982888

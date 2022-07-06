@@ -1,6 +1,6 @@
 5
-data.zarc.txt 1
-data.zbga.txt 2
-data.zbor.txt 1
-data.zbsf.txt 1
-data.zcxh.txt 1
+data.zarc.txt 3.235060386727117
+data.zbga.txt 5.1274494005309625
+data.zbor.txt 3.235060386727117
+data.zbsf.txt 3.235060386727117
+data.zcxh.txt 3.235060386727117

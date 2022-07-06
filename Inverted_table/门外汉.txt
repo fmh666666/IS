@@ -1,6 +1,6 @@
 5
-data.en.txt 1
-data.op.txt 1
-data.zacw.txt 1
-data.zaqr.txt 1
-data.zcve.txt 1
+data.en.txt 3.235060386727117
+data.op.txt 3.235060386727117
+data.zacw.txt 3.235060386727117
+data.zaqr.txt 3.235060386727117
+data.zcve.txt 3.235060386727117

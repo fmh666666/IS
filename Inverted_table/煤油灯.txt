@@ -1,5 +1,5 @@
 4
-data.zamp.txt 1
-data.zapr.txt 1
-data.zbqu.txt 1
-data.zcak.txt 1
+data.zamp.txt 3.389731710180695
+data.zapr.txt 3.389731710180695
+data.zbqu.txt 3.389731710180695
+data.zcak.txt 3.389731710180695

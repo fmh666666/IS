@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.mo.txt 1
-data.zbbt.txt 10
-data.zbcv.txt 6
-data.zeez.txt 1
+data.gk.txt 3.235060386727117
+data.mo.txt 3.235060386727117
+data.zbbt.txt 11.191470190044793
+data.zbcv.txt 9.081962699831948
+data.zeez.txt 3.235060386727117

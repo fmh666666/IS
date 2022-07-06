@@ -1,6 +1,6 @@
 5
-data.zabe.txt 1
-data.zccl.txt 2
-data.zcdv.txt 4
-data.zcmy.txt 2
-data.zczp.txt 1
+data.zabe.txt 3.235060386727117
+data.zccl.txt 5.1274494005309625
+data.zcdv.txt 7.511577600598868
+data.zcmy.txt 5.1274494005309625
+data.zczp.txt 3.235060386727117

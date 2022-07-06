@@ -1,4 +1,4 @@
 3
-data.zcpx.txt 1
-data.zdlw.txt 1
-data.zeeq.txt 1
+data.zcpx.txt 3.5891377275982888
+data.zdlw.txt 3.5891377275982888
+data.zeeq.txt 3.5891377275982888

@@ -1,7 +1,7 @@
 6
-data.zasy.txt 1
-data.zbrj.txt 1
-data.zbup.txt 1
-data.zcts.txt 1
-data.zddb.txt 1
-data.zeqv.txt 1
+data.zasy.txt 3.1086847136800873
+data.zbrj.txt 3.1086847136800873
+data.zbup.txt 3.1086847136800873
+data.zcts.txt 3.1086847136800873
+data.zddb.txt 3.1086847136800873
+data.zeqv.txt 3.1086847136800873

@@ -1,4 +1,4 @@
 3
-data.zabe.txt 2
-data.zbdb.txt 4
-data.zcmv.txt 1
+data.zabe.txt 5.688648708166832
+data.zbdb.txt 8.333719726130651
+data.zcmv.txt 3.5891377275982888

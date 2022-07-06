@@ -1,9 +1,9 @@
 8
-data.ka.txt 1
-data.zaip.txt 1
-data.zaxx.txt 1
-data.zciy.txt 1
-data.zcql.txt 1
-data.zdeb.txt 1
-data.zeaf.txt 3
-data.zewn.txt 1
+data.ka.txt 2.9092786962624935
+data.zaip.txt 2.9092786962624935
+data.zaxx.txt 2.9092786962624935
+data.zciy.txt 2.9092786962624935
+data.zcql.txt 2.9092786962624935
+data.zdeb.txt 2.9092786962624935
+data.zeaf.txt 5.818557392524987
+data.zewn.txt 2.9092786962624935

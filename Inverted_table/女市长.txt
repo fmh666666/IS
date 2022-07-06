@@ -1,9 +1,9 @@
 8
-data.zajo.txt 2
-data.zawb.txt 2
-data.zayd.txt 2
-data.zbyv.txt 1
-data.zbzg.txt 1
-data.zcdz.txt 1
-data.zeay.txt 5
-data.zeds.txt 1
+data.zajo.txt 4.611097637722987
+data.zawb.txt 4.611097637722987
+data.zayd.txt 4.611097637722987
+data.zbyv.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zcdz.txt 2.9092786962624935
+data.zeay.txt 7.52037633398548
+data.zeds.txt 2.9092786962624935

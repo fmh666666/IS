@@ -1,6 +1,6 @@
 5
-data.zbua.txt 1
-data.zcdy.txt 10
-data.zcdz.txt 5
-data.zefp.txt 10
-data.zene.txt 2
+data.zbua.txt 3.235060386727117
+data.zcdy.txt 11.191470190044793
+data.zcdz.txt 8.362509787258078
+data.zefp.txt 11.191470190044793
+data.zene.txt 5.1274494005309625

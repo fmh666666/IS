@@ -1,4 +1,4 @@
 3
-data.vm.txt 1
-data.zbds.txt 1
-data.zdpw.txt 1
+data.vm.txt 3.5891377275982888
+data.zbds.txt 3.5891377275982888
+data.zdpw.txt 3.5891377275982888

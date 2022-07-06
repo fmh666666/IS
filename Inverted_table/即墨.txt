@@ -1,12 +1,12 @@
 11
-data.tz.txt 1
-data.wg.txt 1
-data.zafy.txt 1
-data.zalt.txt 2
-data.zaxj.txt 1
-data.zbsm.txt 1
-data.zcvt.txt 1
-data.zdaw.txt 1
-data.zdgo.txt 1
-data.zess.txt 1
-data.zevy.txt 1
+data.tz.txt 2.6885433903988862
+data.wg.txt 2.6885433903988862
+data.zafy.txt 2.6885433903988862
+data.zalt.txt 4.261240455343955
+data.zaxj.txt 2.6885433903988862
+data.zbsm.txt 2.6885433903988862
+data.zcvt.txt 2.6885433903988862
+data.zdaw.txt 2.6885433903988862
+data.zdgo.txt 2.6885433903988862
+data.zess.txt 2.6885433903988862
+data.zevy.txt 2.6885433903988862

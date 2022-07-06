@@ -1,6 +1,6 @@
 5
-data.zbua.txt 1
-data.zbux.txt 1
-data.zcsu.txt 1
-data.zcvq.txt 1
-data.zdxw.txt 1
+data.zbua.txt 3.235060386727117
+data.zbux.txt 3.235060386727117
+data.zcsu.txt 3.235060386727117
+data.zcvq.txt 3.235060386727117
+data.zdxw.txt 3.235060386727117

@@ -1,14 +1,14 @@
 13
-data.zajo.txt 1
-data.zalm.txt 1
-data.zank.txt 1
-data.zawb.txt 1
-data.zawu.txt 3
-data.zblr.txt 1
-data.zbpc.txt 1
-data.zbyv.txt 1
-data.zcyv.txt 1
-data.zczp.txt 3
-data.zdhw.txt 1
-data.zeec.txt 1
-data.zeun.txt 1
+data.zajo.txt 2.5727503226135906
+data.zalm.txt 2.5727503226135906
+data.zank.txt 2.5727503226135906
+data.zawb.txt 2.5727503226135906
+data.zawu.txt 5.145500645227181
+data.zblr.txt 2.5727503226135906
+data.zbpc.txt 2.5727503226135906
+data.zbyv.txt 2.5727503226135906
+data.zcyv.txt 2.5727503226135906
+data.zczp.txt 5.145500645227181
+data.zdhw.txt 2.5727503226135906
+data.zeec.txt 2.5727503226135906
+data.zeun.txt 2.5727503226135906

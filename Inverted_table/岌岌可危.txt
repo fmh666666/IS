@@ -1,7 +1,7 @@
 6
-data.gk.txt 1
-data.kq.txt 1
-data.zbel.txt 1
-data.zbkj.txt 1
-data.zcej.txt 1
-data.zdwl.txt 1
+data.gk.txt 3.1086847136800873
+data.kq.txt 3.1086847136800873
+data.zbel.txt 3.1086847136800873
+data.zbkj.txt 3.1086847136800873
+data.zcej.txt 3.1086847136800873
+data.zdwl.txt 3.1086847136800873

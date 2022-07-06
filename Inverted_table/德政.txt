@@ -1,7 +1,7 @@
 6
-data.ek.txt 1
-data.zbeb.txt 1
-data.zcdz.txt 1
-data.zdud.txt 2
-data.zebf.txt 1
-data.zeva.txt 1
+data.ek.txt 3.1086847136800873
+data.zbeb.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zdud.txt 4.927148697748023
+data.zebf.txt 3.1086847136800873
+data.zeva.txt 3.1086847136800873

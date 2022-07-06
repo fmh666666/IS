@@ -1,6 +1,6 @@
 5
-data.pa.txt 1
-data.zaqw.txt 1
-data.zasq.txt 1
-data.zbtx.txt 1
-data.zdzi.txt 1
+data.pa.txt 3.235060386727117
+data.zaqw.txt 3.235060386727117
+data.zasq.txt 3.235060386727117
+data.zbtx.txt 3.235060386727117
+data.zdzi.txt 3.235060386727117

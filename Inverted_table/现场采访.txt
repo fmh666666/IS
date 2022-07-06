@@ -1,8 +1,8 @@
 7
-data.hz.txt 2
-data.zaic.txt 1
-data.zank.txt 1
-data.zcse.txt 1
-data.zduo.txt 1
-data.zehp.txt 1
-data.zfai.txt 1
+data.hz.txt 4.757796866583254
+data.zaic.txt 3.0018356045764243
+data.zank.txt 3.0018356045764243
+data.zcse.txt 3.0018356045764243
+data.zduo.txt 3.0018356045764243
+data.zehp.txt 3.0018356045764243
+data.zfai.txt 3.0018356045764243

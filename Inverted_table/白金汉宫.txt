@@ -1,11 +1,11 @@
 10
-data.kq.txt 1
-data.zaim.txt 1
-data.zazg.txt 1
-data.zazn.txt 2
-data.zazo.txt 2
-data.zbds.txt 1
-data.zbkj.txt 4
-data.zcem.txt 2
-data.zdgp.txt 1
-data.zfai.txt 1
+data.kq.txt 2.7546073728089153
+data.zaim.txt 2.7546073728089153
+data.zazg.txt 2.7546073728089153
+data.zazn.txt 4.365949390112154
+data.zazo.txt 4.365949390112154
+data.zbds.txt 2.7546073728089153
+data.zbkj.txt 6.396000249308887
+data.zcem.txt 4.365949390112154
+data.zdgp.txt 2.7546073728089153
+data.zfai.txt 2.7546073728089153

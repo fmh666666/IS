@@ -1,14 +1,14 @@
 13
-data.bf.txt 1
-data.zall.txt 1
-data.zalt.txt 1
-data.zbfd.txt 1
-data.zbkj.txt 1
-data.zcdl.txt 2
-data.zcfn.txt 1
-data.zcqs.txt 1
-data.zcue.txt 1
-data.zddx.txt 1
-data.zdoq.txt 1
-data.zdzn.txt 1
-data.zesq.txt 1
+data.bf.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zalt.txt 2.5727503226135906
+data.zbfd.txt 2.5727503226135906
+data.zbkj.txt 2.5727503226135906
+data.zcdl.txt 4.077712785060798
+data.zcfn.txt 2.5727503226135906
+data.zcqs.txt 2.5727503226135906
+data.zcue.txt 2.5727503226135906
+data.zddx.txt 2.5727503226135906
+data.zdoq.txt 2.5727503226135906
+data.zdzn.txt 2.5727503226135906
+data.zesq.txt 2.5727503226135906

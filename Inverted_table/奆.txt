@@ -1,5 +1,5 @@
 4
-data.zavg.txt 1
-data.zbkj.txt 1
-data.zbmw.txt 1
-data.zdrq.txt 2
+data.zavg.txt 3.389731710180695
+data.zbkj.txt 3.389731710180695
+data.zbmw.txt 3.389731710180695
+data.zdrq.txt 5.372597648141796

@@ -1,4 +1,4 @@
 3
-data.zbvg.txt 1
-data.zcdg.txt 3
-data.zdme.txt 1
+data.zbvg.txt 3.5891377275982888
+data.zcdg.txt 7.1782754551965775
+data.zdme.txt 3.5891377275982888

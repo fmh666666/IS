@@ -1,7 +1,7 @@
 6
-data.zbhv.txt 1
-data.zcao.txt 1
-data.zcdy.txt 1
-data.zcls.txt 1
-data.zene.txt 3
-data.zevl.txt 1
+data.zbhv.txt 3.1086847136800873
+data.zcao.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcls.txt 3.1086847136800873
+data.zene.txt 6.2173694273601745
+data.zevl.txt 3.1086847136800873

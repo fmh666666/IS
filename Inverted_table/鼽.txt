@@ -1,2 +1,2 @@
 1
-data.mo.txt 2
+data.mo.txt 6.8955976689794145

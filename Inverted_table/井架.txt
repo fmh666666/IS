@@ -1,6 +1,6 @@
 5
-data.zadv.txt 1
-data.zako.txt 1
-data.zawu.txt 2
-data.zaxk.txt 1
-data.zdme.txt 1
+data.zadv.txt 3.235060386727117
+data.zako.txt 3.235060386727117
+data.zawu.txt 5.1274494005309625
+data.zaxk.txt 3.235060386727117
+data.zdme.txt 3.235060386727117

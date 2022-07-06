@@ -1,8 +1,8 @@
 7
-data.hc.txt 1
-data.zcej.txt 1
-data.zcql.txt 1
-data.zcse.txt 1
-data.zdcy.txt 1
-data.zdlw.txt 1
-data.zdzi.txt 1
+data.hc.txt 3.0018356045764243
+data.zcej.txt 3.0018356045764243
+data.zcql.txt 3.0018356045764243
+data.zcse.txt 3.0018356045764243
+data.zdcy.txt 3.0018356045764243
+data.zdlw.txt 3.0018356045764243
+data.zdzi.txt 3.0018356045764243

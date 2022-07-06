@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zcjd.txt 1
-data.zcmv.txt 1
-data.zctn.txt 1
-data.zehp.txt 2
-data.zenw.txt 1
-data.zeta.txt 1
-data.zezy.txt 1
+data.gw.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zcmv.txt 2.9092786962624935
+data.zctn.txt 2.9092786962624935
+data.zehp.txt 4.611097637722987
+data.zenw.txt 2.9092786962624935
+data.zeta.txt 2.9092786962624935
+data.zezy.txt 2.9092786962624935

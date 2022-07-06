@@ -1,12 +1,12 @@
 11
-data.tz.txt 1
-data.uz.txt 6
-data.zadv.txt 1
-data.zafv.txt 1
-data.zajo.txt 1
-data.zaoo.txt 1
-data.zbua.txt 1
-data.zbyb.txt 1
-data.zcef.txt 1
-data.zcni.txt 1
-data.zfcp.txt 1
+data.tz.txt 2.6885433903988862
+data.uz.txt 7.547695520201752
+data.zadv.txt 2.6885433903988862
+data.zafv.txt 2.6885433903988862
+data.zajo.txt 2.6885433903988862
+data.zaoo.txt 2.6885433903988862
+data.zbua.txt 2.6885433903988862
+data.zbyb.txt 2.6885433903988862
+data.zcef.txt 2.6885433903988862
+data.zcni.txt 2.6885433903988862
+data.zfcp.txt 2.6885433903988862

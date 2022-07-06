@@ -1,12 +1,12 @@
 11
-data.ee.txt 1
-data.to.txt 1
-data.zahp.txt 1
-data.zbcj.txt 1
-data.zbkr.txt 1
-data.zciy.txt 1
-data.zdaa.txt 1
-data.zdme.txt 1
-data.zdst.txt 1
-data.zeds.txt 1
-data.zewp.txt 1
+data.ee.txt 2.6885433903988862
+data.to.txt 2.6885433903988862
+data.zahp.txt 2.6885433903988862
+data.zbcj.txt 2.6885433903988862
+data.zbkr.txt 2.6885433903988862
+data.zciy.txt 2.6885433903988862
+data.zdaa.txt 2.6885433903988862
+data.zdme.txt 2.6885433903988862
+data.zdst.txt 2.6885433903988862
+data.zeds.txt 2.6885433903988862
+data.zewp.txt 2.6885433903988862

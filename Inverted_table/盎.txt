@@ -1,6 +1,6 @@
 5
-data.tv.txt 18
-data.tz.txt 10
-data.zcem.txt 1
-data.zcko.txt 79
-data.zdby.txt 1
+data.tv.txt 13.742302024429566
+data.tz.txt 11.191470190044793
+data.zcem.txt 3.235060386727117
+data.zcko.txt 20.451819147507337
+data.zdby.txt 3.235060386727117

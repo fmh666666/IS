@@ -1,7 +1,7 @@
 6
-data.wc.txt 2
-data.zake.txt 8
-data.zbsu.txt 3
-data.zbta.txt 1
-data.zdgv.txt 1
-data.zdqq.txt 1
+data.wc.txt 4.927148697748023
+data.zake.txt 9.854297395496046
+data.zbsu.txt 6.2173694273601745
+data.zbta.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zdqq.txt 3.1086847136800873

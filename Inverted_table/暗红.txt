@@ -1,12 +1,12 @@
 11
-data.cf.txt 1
-data.mu.txt 1
-data.zacd.txt 1
-data.zane.txt 1
-data.zazn.txt 1
-data.zcbe.txt 1
-data.zcej.txt 1
-data.zecf.txt 1
-data.zefs.txt 1
-data.zemb.txt 1
-data.zemf.txt 1
+data.cf.txt 2.6885433903988862
+data.mu.txt 2.6885433903988862
+data.zacd.txt 2.6885433903988862
+data.zane.txt 2.6885433903988862
+data.zazn.txt 2.6885433903988862
+data.zcbe.txt 2.6885433903988862
+data.zcej.txt 2.6885433903988862
+data.zecf.txt 2.6885433903988862
+data.zefs.txt 2.6885433903988862
+data.zemb.txt 2.6885433903988862
+data.zemf.txt 2.6885433903988862

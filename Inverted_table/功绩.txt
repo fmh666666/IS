@@ -1,5 +1,5 @@
 4
-data.zaim.txt 1
-data.zdju.txt 1
-data.zehb.txt 2
-data.zfai.txt 1
+data.zaim.txt 3.389731710180695
+data.zdju.txt 3.389731710180695
+data.zehb.txt 5.372597648141796
+data.zfai.txt 3.389731710180695

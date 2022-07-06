@@ -1,8 +1,8 @@
 7
-data.fj.txt 2
-data.gk.txt 1
-data.zafv.txt 2
-data.zazo.txt 1
-data.zbes.txt 1
-data.zdgt.txt 1
-data.zdtr.txt 1
+data.fj.txt 4.757796866583254
+data.gk.txt 3.0018356045764243
+data.zafv.txt 4.757796866583254
+data.zazo.txt 3.0018356045764243
+data.zbes.txt 3.0018356045764243
+data.zdgt.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243

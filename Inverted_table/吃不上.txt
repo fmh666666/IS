@@ -1,14 +1,14 @@
 13
-data.cz.txt 1
-data.zaim.txt 2
-data.zasy.txt 1
-data.zawb.txt 2
-data.zawu.txt 1
-data.zbjk.txt 1
-data.zbrj.txt 1
-data.zbsl.txt 1
-data.zbua.txt 1
-data.zcse.txt 1
-data.zcvq.txt 1
-data.zdvl.txt 1
-data.zfae.txt 1
+data.cz.txt 2.5727503226135906
+data.zaim.txt 4.077712785060798
+data.zasy.txt 2.5727503226135906
+data.zawb.txt 4.077712785060798
+data.zawu.txt 2.5727503226135906
+data.zbjk.txt 2.5727503226135906
+data.zbrj.txt 2.5727503226135906
+data.zbsl.txt 2.5727503226135906
+data.zbua.txt 2.5727503226135906
+data.zcse.txt 2.5727503226135906
+data.zcvq.txt 2.5727503226135906
+data.zdvl.txt 2.5727503226135906
+data.zfae.txt 2.5727503226135906

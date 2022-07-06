@@ -1,9 +1,9 @@
 8
-data.kt.txt 1
-data.ry.txt 1
-data.zalm.txt 1
-data.zamp.txt 1
-data.zasw.txt 1
-data.zctp.txt 1
-data.zdzg.txt 1
-data.zeaf.txt 1
+data.kt.txt 2.9092786962624935
+data.ry.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zamp.txt 2.9092786962624935
+data.zasw.txt 2.9092786962624935
+data.zctp.txt 2.9092786962624935
+data.zdzg.txt 2.9092786962624935
+data.zeaf.txt 2.9092786962624935

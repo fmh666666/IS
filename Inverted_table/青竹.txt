@@ -1,12 +1,12 @@
 11
-data.be.txt 1
-data.ee.txt 4
-data.zakb.txt 1
-data.zamp.txt 2
-data.zaxj.txt 2
-data.zaxk.txt 1
-data.zbbt.txt 1
-data.zbrj.txt 1
-data.zcdv.txt 1
-data.zcon.txt 1
-data.zedx.txt 1
+data.be.txt 2.6885433903988862
+data.ee.txt 6.2426044324908965
+data.zakb.txt 2.6885433903988862
+data.zamp.txt 4.261240455343955
+data.zaxj.txt 4.261240455343955
+data.zaxk.txt 2.6885433903988862
+data.zbbt.txt 2.6885433903988862
+data.zbrj.txt 2.6885433903988862
+data.zcdv.txt 2.6885433903988862
+data.zcon.txt 2.6885433903988862
+data.zedx.txt 2.6885433903988862

@@ -1,11 +1,11 @@
 10
-data.ee.txt 1
-data.mk.txt 1
-data.ng.txt 1
-data.zaej.txt 1
-data.zane.txt 1
-data.zbds.txt 1
-data.zbhd.txt 1
-data.zbsl.txt 1
-data.zcww.txt 1
-data.zesi.txt 2
+data.ee.txt 2.7546073728089153
+data.mk.txt 2.7546073728089153
+data.ng.txt 2.7546073728089153
+data.zaej.txt 2.7546073728089153
+data.zane.txt 2.7546073728089153
+data.zbds.txt 2.7546073728089153
+data.zbhd.txt 2.7546073728089153
+data.zbsl.txt 2.7546073728089153
+data.zcww.txt 2.7546073728089153
+data.zesi.txt 4.365949390112154

@@ -1,7 +1,7 @@
 6
-data.zawc.txt 1
-data.zbhv.txt 1
-data.zcon.txt 1
-data.zctm.txt 3
-data.zcxq.txt 1
-data.zdle.txt 1
+data.zawc.txt 3.1086847136800873
+data.zbhv.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zctm.txt 6.2173694273601745
+data.zcxq.txt 3.1086847136800873
+data.zdle.txt 3.1086847136800873

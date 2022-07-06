@@ -1,4 +1,4 @@
 3
-data.zbfr.txt 1
-data.zbvp.txt 2
-data.zevl.txt 1
+data.zbfr.txt 3.5891377275982888
+data.zbvp.txt 5.688648708166832
+data.zevl.txt 3.5891377275982888

@@ -1,8 +1,8 @@
 7
-data.cf.txt 1
-data.zbcc.txt 1
-data.zbtj.txt 1
-data.zdeb.txt 1
-data.zdou.txt 1
-data.zdsh.txt 1
-data.zewn.txt 1
+data.cf.txt 3.0018356045764243
+data.zbcc.txt 3.0018356045764243
+data.zbtj.txt 3.0018356045764243
+data.zdeb.txt 3.0018356045764243
+data.zdou.txt 3.0018356045764243
+data.zdsh.txt 3.0018356045764243
+data.zewn.txt 3.0018356045764243

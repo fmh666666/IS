@@ -1,7 +1,7 @@
 6
-data.zasd.txt 2
-data.zbqu.txt 2
-data.zcln.txt 1
-data.zdnh.txt 1
-data.zefs.txt 1
-data.zfae.txt 1
+data.zasd.txt 4.927148697748023
+data.zbqu.txt 4.927148697748023
+data.zcln.txt 3.1086847136800873
+data.zdnh.txt 3.1086847136800873
+data.zefs.txt 3.1086847136800873
+data.zfae.txt 3.1086847136800873

@@ -1,5 +1,5 @@
 4
-data.gk.txt 1
-data.zajh.txt 1
-data.zbcc.txt 3
-data.zbsu.txt 2
+data.gk.txt 3.389731710180695
+data.zajh.txt 3.389731710180695
+data.zbcc.txt 6.77946342036139
+data.zbsu.txt 5.372597648141796

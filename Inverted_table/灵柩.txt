@@ -1,4 +1,4 @@
 3
-data.zbsu.txt 1
-data.zcdg.txt 1
-data.zdme.txt 1
+data.zbsu.txt 3.5891377275982888
+data.zcdg.txt 3.5891377275982888
+data.zdme.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zacw.txt 1
-data.zafv.txt 1
-data.zasr.txt 1
-data.zbcv.txt 1
-data.zexm.txt 1
+data.zacw.txt 3.235060386727117
+data.zafv.txt 3.235060386727117
+data.zasr.txt 3.235060386727117
+data.zbcv.txt 3.235060386727117
+data.zexm.txt 3.235060386727117

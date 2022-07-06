@@ -1,6 +1,6 @@
 5
-data.zbvm.txt 1
-data.zbyb.txt 1
-data.zcaq.txt 1
-data.zdwl.txt 1
-data.zeac.txt 1
+data.zbvm.txt 3.235060386727117
+data.zbyb.txt 3.235060386727117
+data.zcaq.txt 3.235060386727117
+data.zdwl.txt 3.235060386727117
+data.zeac.txt 3.235060386727117

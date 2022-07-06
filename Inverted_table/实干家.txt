@@ -1,5 +1,5 @@
 4
-data.zbts.txt 1
-data.zcdv.txt 1
-data.zciq.txt 1
-data.zene.txt 1
+data.zbts.txt 3.389731710180695
+data.zcdv.txt 3.389731710180695
+data.zciq.txt 3.389731710180695
+data.zene.txt 3.389731710180695

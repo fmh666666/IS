@@ -1,7 +1,7 @@
 6
-data.co.txt 3
-data.zahd.txt 1
-data.zazn.txt 1
-data.zbsm.txt 1
-data.zbyb.txt 1
-data.zefs.txt 1
+data.co.txt 6.2173694273601745
+data.zahd.txt 3.1086847136800873
+data.zazn.txt 3.1086847136800873
+data.zbsm.txt 3.1086847136800873
+data.zbyb.txt 3.1086847136800873
+data.zefs.txt 3.1086847136800873

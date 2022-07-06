@@ -1,5 +1,5 @@
 4
-data.jd.txt 1
-data.yx.txt 1
-data.zebf.txt 1
-data.zexv.txt 2
+data.jd.txt 3.389731710180695
+data.yx.txt 3.389731710180695
+data.zebf.txt 3.389731710180695
+data.zexv.txt 5.372597648141796

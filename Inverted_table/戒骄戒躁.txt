@@ -1,6 +1,6 @@
 5
-data.qn.txt 1
-data.zajh.txt 1
-data.zall.txt 23
-data.zalm.txt 20
-data.zcpb.txt 1
+data.qn.txt 3.235060386727117
+data.zajh.txt 3.235060386727117
+data.zall.txt 14.832630560712314
+data.zalm.txt 14.209412100362911
+data.zcpb.txt 3.235060386727117

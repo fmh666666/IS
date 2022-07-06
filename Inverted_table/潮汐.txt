@@ -1,9 +1,9 @@
 8
-data.gw.txt 1
-data.zafl.txt 1
-data.zbnx.txt 1
-data.zbyb.txt 1
-data.zckd.txt 2
-data.zdgo.txt 1
-data.zeam.txt 1
-data.zfaj.txt 1
+data.gw.txt 2.9092786962624935
+data.zafl.txt 2.9092786962624935
+data.zbnx.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zckd.txt 4.611097637722987
+data.zdgo.txt 2.9092786962624935
+data.zeam.txt 2.9092786962624935
+data.zfaj.txt 2.9092786962624935

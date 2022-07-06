@@ -1,10 +1,10 @@
 9
-data.zalt.txt 2
-data.zbaq.txt 1
-data.zcko.txt 2
-data.zdou.txt 1
-data.zdst.txt 1
-data.zeai.txt 3
-data.zeam.txt 1
-data.zefw.txt 1
-data.zevq.txt 1
+data.zalt.txt 4.48169974735425
+data.zbaq.txt 2.82763771717948
+data.zcko.txt 4.48169974735425
+data.zdou.txt 2.82763771717948
+data.zdst.txt 2.82763771717948
+data.zeai.txt 5.65527543435896
+data.zeam.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zevq.txt 2.82763771717948

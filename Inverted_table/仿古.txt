@@ -1,13 +1,13 @@
 12
-data.hg.txt 1
-data.zadv.txt 2
-data.zamp.txt 1
-data.zcee.txt 1
-data.zcgi.txt 1
-data.zcpc.txt 1
-data.zdpw.txt 1
-data.zdvl.txt 1
-data.zdwl.txt 1
-data.zedx.txt 1
-data.zeec.txt 1
-data.zene.txt 1
+data.hg.txt 2.628231699761886
+data.zadv.txt 4.165648687329214
+data.zamp.txt 2.628231699761886
+data.zcee.txt 2.628231699761886
+data.zcgi.txt 2.628231699761886
+data.zcpc.txt 2.628231699761886
+data.zdpw.txt 2.628231699761886
+data.zdvl.txt 2.628231699761886
+data.zdwl.txt 2.628231699761886
+data.zedx.txt 2.628231699761886
+data.zeec.txt 2.628231699761886
+data.zene.txt 2.628231699761886

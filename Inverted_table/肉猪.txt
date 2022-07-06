@@ -1,6 +1,6 @@
 5
-data.zavx.txt 1
-data.zbgd.txt 1
-data.zbht.txt 1
-data.zcql.txt 1
-data.zdoc.txt 1
+data.zavx.txt 3.235060386727117
+data.zbgd.txt 3.235060386727117
+data.zbht.txt 3.235060386727117
+data.zcql.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117

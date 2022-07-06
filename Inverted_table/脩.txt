@@ -1,6 +1,6 @@
 5
-data.gk.txt 1
-data.zalc.txt 3
-data.zbsu.txt 1
-data.zdnh.txt 7
-data.zeva.txt 1
+data.gk.txt 3.235060386727117
+data.zalc.txt 6.470120773454234
+data.zbsu.txt 3.235060386727117
+data.zdnh.txt 9.70518116018135
+data.zeva.txt 3.235060386727117

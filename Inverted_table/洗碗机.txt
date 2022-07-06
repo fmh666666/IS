@@ -1,6 +1,6 @@
 5
-data.zazn.txt 1
-data.zbqu.txt 1
-data.zcbe.txt 1
-data.zdeb.txt 6
-data.zeqn.txt 1
+data.zazn.txt 3.235060386727117
+data.zbqu.txt 3.235060386727117
+data.zcbe.txt 3.235060386727117
+data.zdeb.txt 9.081962699831948
+data.zeqn.txt 3.235060386727117

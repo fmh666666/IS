@@ -1,5 +1,5 @@
 4
-data.vm.txt 2
-data.zasw.txt 3
-data.zdle.txt 1
-data.zdud.txt 1
+data.vm.txt 5.372597648141796
+data.zasw.txt 6.77946342036139
+data.zdle.txt 3.389731710180695
+data.zdud.txt 3.389731710180695

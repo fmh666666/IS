@@ -1,11 +1,11 @@
 10
-data.ga.txt 1
-data.hu.txt 1
-data.zabe.txt 1
-data.zapf.txt 1
-data.zard.txt 1
-data.zasj.txt 1
-data.zcft.txt 1
-data.zcfx.txt 1
-data.zcql.txt 1
-data.zezh.txt 1
+data.ga.txt 2.7546073728089153
+data.hu.txt 2.7546073728089153
+data.zabe.txt 2.7546073728089153
+data.zapf.txt 2.7546073728089153
+data.zard.txt 2.7546073728089153
+data.zasj.txt 2.7546073728089153
+data.zcft.txt 2.7546073728089153
+data.zcfx.txt 2.7546073728089153
+data.zcql.txt 2.7546073728089153
+data.zezh.txt 2.7546073728089153

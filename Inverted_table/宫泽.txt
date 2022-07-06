@@ -1,5 +1,5 @@
 4
-data.mi.txt 1
-data.wg.txt 1
-data.zapf.txt 1
-data.zcic.txt 5
+data.mi.txt 3.389731710180695
+data.wg.txt 3.389731710180695
+data.zapf.txt 3.389731710180695
+data.zcic.txt 8.762329358322491

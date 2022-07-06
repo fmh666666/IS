@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.pa.txt 1
-data.zaet.txt 1
-data.zasq.txt 1
-data.zbha.txt 7
-data.zctp.txt 2
+data.ga.txt 3.1086847136800873
+data.pa.txt 3.1086847136800873
+data.zaet.txt 3.1086847136800873
+data.zasq.txt 3.1086847136800873
+data.zbha.txt 9.326054141040261
+data.zctp.txt 4.927148697748023

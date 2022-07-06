@@ -1,7 +1,7 @@
 6
-data.pn.txt 1
-data.zbhd.txt 1
-data.zdkc.txt 1
-data.zduk.txt 1
-data.zeec.txt 1
-data.zess.txt 1
+data.pn.txt 3.1086847136800873
+data.zbhd.txt 3.1086847136800873
+data.zdkc.txt 3.1086847136800873
+data.zduk.txt 3.1086847136800873
+data.zeec.txt 3.1086847136800873
+data.zess.txt 3.1086847136800873

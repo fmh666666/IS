@@ -1,2 +1,2 @@
 1
-data.zdkc.txt 1
+data.zdkc.txt 4.350637738017098

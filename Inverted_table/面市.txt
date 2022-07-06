@@ -1,11 +1,11 @@
 10
-data.zafk.txt 1
-data.zayv.txt 3
-data.zazn.txt 1
-data.zbga.txt 1
-data.zbmt.txt 4
-data.zbzo.txt 2
-data.zckd.txt 2
-data.zdar.txt 1
-data.zdme.txt 3
-data.zedd.txt 4
+data.zafk.txt 2.7546073728089153
+data.zayv.txt 5.509214745617831
+data.zazn.txt 2.7546073728089153
+data.zbga.txt 2.7546073728089153
+data.zbmt.txt 6.396000249308887
+data.zbzo.txt 4.365949390112154
+data.zckd.txt 4.365949390112154
+data.zdar.txt 2.7546073728089153
+data.zdme.txt 5.509214745617831
+data.zedd.txt 6.396000249308887

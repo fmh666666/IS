@@ -1,4 +1,4 @@
 3
-data.zbuj.txt 1
-data.zcdy.txt 1
-data.zdme.txt 1
+data.zbuj.txt 3.5891377275982888
+data.zcdy.txt 3.5891377275982888
+data.zdme.txt 3.5891377275982888

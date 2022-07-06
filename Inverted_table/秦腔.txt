@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.nh.txt 1
-data.zalm.txt 1
-data.zaxp.txt 1
-data.zdga.txt 2
-data.zdof.txt 1
-data.zeqn.txt 1
-data.zfai.txt 1
+data.fp.txt 2.9092786962624935
+data.nh.txt 2.9092786962624935
+data.zalm.txt 2.9092786962624935
+data.zaxp.txt 2.9092786962624935
+data.zdga.txt 4.611097637722987
+data.zdof.txt 2.9092786962624935
+data.zeqn.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

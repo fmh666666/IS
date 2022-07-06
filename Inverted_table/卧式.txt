@@ -1,6 +1,6 @@
 5
-data.zbgu.txt 1
-data.zcln.txt 1
-data.zdji.txt 1
-data.zdqx.txt 1
-data.zewv.txt 1
+data.zbgu.txt 3.235060386727117
+data.zcln.txt 3.235060386727117
+data.zdji.txt 3.235060386727117
+data.zdqx.txt 3.235060386727117
+data.zewv.txt 3.235060386727117

@@ -1,4 +1,4 @@
 3
-data.hz.txt 1
-data.zbgw.txt 2
-data.zbqu.txt 3
+data.hz.txt 3.5891377275982888
+data.zbgw.txt 5.688648708166832
+data.zbqu.txt 7.1782754551965775

@@ -1,8 +1,8 @@
 7
-data.fj.txt 1
-data.zahd.txt 1
-data.zanh.txt 1
-data.zbht.txt 1
-data.zcmx.txt 1
-data.zdtr.txt 1
-data.zeyu.txt 1
+data.fj.txt 3.0018356045764243
+data.zahd.txt 3.0018356045764243
+data.zanh.txt 3.0018356045764243
+data.zbht.txt 3.0018356045764243
+data.zcmx.txt 3.0018356045764243
+data.zdtr.txt 3.0018356045764243
+data.zeyu.txt 3.0018356045764243

@@ -1,9 +1,9 @@
 8
-data.ek.txt 1
-data.ka.txt 1
-data.zawc.txt 1
-data.zbyb.txt 1
-data.zcko.txt 1
-data.zcse.txt 1
-data.zcts.txt 1
-data.zemb.txt 1
+data.ek.txt 2.9092786962624935
+data.ka.txt 2.9092786962624935
+data.zawc.txt 2.9092786962624935
+data.zbyb.txt 2.9092786962624935
+data.zcko.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zcts.txt 2.9092786962624935
+data.zemb.txt 2.9092786962624935

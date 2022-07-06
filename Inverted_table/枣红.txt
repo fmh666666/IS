@@ -1,8 +1,8 @@
 7
-data.zaeh.txt 1
-data.zail.txt 1
-data.zazx.txt 1
-data.zcxp.txt 1
-data.zedd.txt 1
-data.zeez.txt 1
-data.zete.txt 6
+data.zaeh.txt 3.0018356045764243
+data.zail.txt 3.0018356045764243
+data.zazx.txt 3.0018356045764243
+data.zcxp.txt 3.0018356045764243
+data.zedd.txt 3.0018356045764243
+data.zeez.txt 3.0018356045764243
+data.zete.txt 8.427217959715389

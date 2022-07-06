@@ -1,10 +1,10 @@
 9
-data.zbeb.txt 1
-data.zclh.txt 1
-data.zcmy.txt 1
-data.zcsu.txt 1
-data.zczl.txt 2
-data.zelt.txt 1
-data.zexk.txt 1
-data.zezf.txt 1
-data.zfaw.txt 1
+data.zbeb.txt 2.82763771717948
+data.zclh.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zczl.txt 4.48169974735425
+data.zelt.txt 2.82763771717948
+data.zexk.txt 2.82763771717948
+data.zezf.txt 2.82763771717948
+data.zfaw.txt 2.82763771717948

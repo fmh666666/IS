@@ -1,7 +1,7 @@
 6
-data.ga.txt 1
-data.kq.txt 1
-data.zcih.txt 1
-data.zciq.txt 1
-data.zedx.txt 1
-data.zfdk.txt 1
+data.ga.txt 3.1086847136800873
+data.kq.txt 3.1086847136800873
+data.zcih.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873
+data.zfdk.txt 3.1086847136800873

@@ -1,9 +1,9 @@
 8
-data.mu.txt 1
-data.zbrj.txt 1
-data.zcjd.txt 1
-data.zcni.txt 1
-data.zdgt.txt 1
-data.zdkp.txt 1
-data.zdst.txt 1
-data.zeve.txt 2
+data.mu.txt 2.9092786962624935
+data.zbrj.txt 2.9092786962624935
+data.zcjd.txt 2.9092786962624935
+data.zcni.txt 2.9092786962624935
+data.zdgt.txt 2.9092786962624935
+data.zdkp.txt 2.9092786962624935
+data.zdst.txt 2.9092786962624935
+data.zeve.txt 4.611097637722987

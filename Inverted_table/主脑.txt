@@ -1,9 +1,9 @@
 8
-data.fp.txt 1
-data.zadv.txt 1
-data.zafl.txt 1
-data.zawm.txt 1
-data.zcoy.txt 2
-data.zdby.txt 2
-data.zdof.txt 1
-data.zefv.txt 2
+data.fp.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zafl.txt 2.9092786962624935
+data.zawm.txt 2.9092786962624935
+data.zcoy.txt 4.611097637722987
+data.zdby.txt 4.611097637722987
+data.zdof.txt 2.9092786962624935
+data.zefv.txt 4.611097637722987

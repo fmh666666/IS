@@ -1,4 +1,4 @@
 3
-data.zcoy.txt 2
-data.zdxw.txt 2
-data.zene.txt 2
+data.zcoy.txt 5.688648708166832
+data.zdxw.txt 5.688648708166832
+data.zene.txt 5.688648708166832

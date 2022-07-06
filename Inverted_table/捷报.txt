@@ -1,13 +1,13 @@
 12
-data.ry.txt 3
-data.zaoy.txt 3
-data.zbgu.txt 1
-data.zbhe.txt 13
-data.zbzo.txt 2
-data.zcby.txt 1
-data.zcrv.txt 1
-data.zddx.txt 1
-data.zdga.txt 3
-data.zduo.txt 1
-data.zeik.txt 1
-data.zesq.txt 1
+data.ry.txt 5.256463399523772
+data.zaoy.txt 5.256463399523772
+data.zbgu.txt 2.628231699761886
+data.zbhe.txt 10.00661089839624
+data.zbzo.txt 4.165648687329214
+data.zcby.txt 2.628231699761886
+data.zcrv.txt 2.628231699761886
+data.zddx.txt 2.628231699761886
+data.zdga.txt 5.256463399523772
+data.zduo.txt 2.628231699761886
+data.zeik.txt 2.628231699761886
+data.zesq.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.ev.txt 1
-data.fp.txt 1
-data.tv.txt 1
-data.zake.txt 1
-data.zbwq.txt 1
-data.zcda.txt 1
-data.zcmy.txt 1
-data.zeay.txt 1
-data.zeqv.txt 1
+data.ev.txt 2.82763771717948
+data.fp.txt 2.82763771717948
+data.tv.txt 2.82763771717948
+data.zake.txt 2.82763771717948
+data.zbwq.txt 2.82763771717948
+data.zcda.txt 2.82763771717948
+data.zcmy.txt 2.82763771717948
+data.zeay.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

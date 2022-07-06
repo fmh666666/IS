@@ -1,9 +1,9 @@
 8
-data.hz.txt 1
-data.pq.txt 1
-data.zcbe.txt 1
-data.zcse.txt 1
-data.zdoc.txt 1
-data.zdst.txt 1
-data.zdwd.txt 1
-data.zesi.txt 1
+data.hz.txt 2.9092786962624935
+data.pq.txt 2.9092786962624935
+data.zcbe.txt 2.9092786962624935
+data.zcse.txt 2.9092786962624935
+data.zdoc.txt 2.9092786962624935
+data.zdst.txt 2.9092786962624935
+data.zdwd.txt 2.9092786962624935
+data.zesi.txt 2.9092786962624935

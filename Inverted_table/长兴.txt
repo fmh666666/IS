@@ -1,9 +1,9 @@
 8
-data.zane.txt 1
-data.zcdy.txt 3
-data.zcgo.txt 1
-data.zcjy.txt 4
-data.zcse.txt 2
-data.zczj.txt 1
-data.zene.txt 1
-data.zevy.txt 1
+data.zane.txt 2.9092786962624935
+data.zcdy.txt 5.818557392524987
+data.zcgo.txt 2.9092786962624935
+data.zcjy.txt 6.7551359407091605
+data.zcse.txt 4.611097637722987
+data.zczj.txt 2.9092786962624935
+data.zene.txt 2.9092786962624935
+data.zevy.txt 2.9092786962624935

@@ -1,5 +1,5 @@
 4
-data.zaqr.txt 1
-data.zbsl.txt 1
-data.zdic.txt 1
-data.zfcg.txt 1
+data.zaqr.txt 3.389731710180695
+data.zbsl.txt 3.389731710180695
+data.zdic.txt 3.389731710180695
+data.zfcg.txt 3.389731710180695

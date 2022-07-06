@@ -1,7 +1,7 @@
 6
-data.ha.txt 1
-data.hp.txt 1
-data.zapf.txt 1
-data.zcdz.txt 1
-data.zebf.txt 1
-data.zeeh.txt 2
+data.ha.txt 3.1086847136800873
+data.hp.txt 3.1086847136800873
+data.zapf.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zebf.txt 3.1086847136800873
+data.zeeh.txt 4.927148697748023

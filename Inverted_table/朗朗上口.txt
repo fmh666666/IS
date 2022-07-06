@@ -1,13 +1,13 @@
 12
-data.cf.txt 1
-data.dg.txt 1
-data.ha.txt 1
-data.mi.txt 1
-data.zbgu.txt 1
-data.zbkj.txt 1
-data.zbnp.txt 2
-data.zcjo.txt 1
-data.zcli.txt 1
-data.zdod.txt 2
-data.zdof.txt 1
-data.zeta.txt 1
+data.cf.txt 2.628231699761886
+data.dg.txt 2.628231699761886
+data.ha.txt 2.628231699761886
+data.mi.txt 2.628231699761886
+data.zbgu.txt 2.628231699761886
+data.zbkj.txt 2.628231699761886
+data.zbnp.txt 4.165648687329214
+data.zcjo.txt 2.628231699761886
+data.zcli.txt 2.628231699761886
+data.zdod.txt 4.165648687329214
+data.zdof.txt 2.628231699761886
+data.zeta.txt 2.628231699761886

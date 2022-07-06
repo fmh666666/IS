@@ -1,4 +1,4 @@
 3
-data.zalm.txt 1
-data.zbut.txt 1
-data.zccx.txt 1
+data.zalm.txt 3.5891377275982888
+data.zbut.txt 3.5891377275982888
+data.zccx.txt 3.5891377275982888

@@ -1,6 +1,6 @@
 5
-data.zazx.txt 1
-data.zclm.txt 1
-data.zcue.txt 2
-data.zezm.txt 1
-data.zezn.txt 1
+data.zazx.txt 3.235060386727117
+data.zclm.txt 3.235060386727117
+data.zcue.txt 5.1274494005309625
+data.zezm.txt 3.235060386727117
+data.zezn.txt 3.235060386727117

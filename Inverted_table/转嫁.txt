@@ -1,14 +1,14 @@
 13
-data.ew.txt 1
-data.hp.txt 1
-data.ka.txt 1
-data.kq.txt 1
-data.nh.txt 2
-data.zapf.txt 1
-data.zbpm.txt 1
-data.zcdz.txt 2
-data.zcve.txt 1
-data.zdbf.txt 1
-data.zdgt.txt 1
-data.zezy.txt 1
-data.zfaj.txt 3
+data.ew.txt 2.5727503226135906
+data.hp.txt 2.5727503226135906
+data.ka.txt 2.5727503226135906
+data.kq.txt 2.5727503226135906
+data.nh.txt 4.077712785060798
+data.zapf.txt 2.5727503226135906
+data.zbpm.txt 2.5727503226135906
+data.zcdz.txt 4.077712785060798
+data.zcve.txt 2.5727503226135906
+data.zdbf.txt 2.5727503226135906
+data.zdgt.txt 2.5727503226135906
+data.zezy.txt 2.5727503226135906
+data.zfaj.txt 5.145500645227181

@@ -1,7 +1,7 @@
 6
-data.bb.txt 1
-data.zaxj.txt 1
-data.zciq.txt 1
-data.zdgt.txt 1
-data.zdhw.txt 1
-data.zedo.txt 1
+data.bb.txt 3.1086847136800873
+data.zaxj.txt 3.1086847136800873
+data.zciq.txt 3.1086847136800873
+data.zdgt.txt 3.1086847136800873
+data.zdhw.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873

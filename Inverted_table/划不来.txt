@@ -1,7 +1,7 @@
 6
-data.hc.txt 2
-data.zall.txt 2
-data.zclh.txt 1
-data.zcll.txt 1
-data.zdgv.txt 1
-data.zewg.txt 1
+data.hc.txt 4.927148697748023
+data.zall.txt 4.927148697748023
+data.zclh.txt 3.1086847136800873
+data.zcll.txt 3.1086847136800873
+data.zdgv.txt 3.1086847136800873
+data.zewg.txt 3.1086847136800873

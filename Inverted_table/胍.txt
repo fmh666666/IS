@@ -1,4 +1,4 @@
 3
-data.zail.txt 1
-data.zccu.txt 3
-data.zdme.txt 1
+data.zail.txt 3.5891377275982888
+data.zccu.txt 7.1782754551965775
+data.zdme.txt 3.5891377275982888

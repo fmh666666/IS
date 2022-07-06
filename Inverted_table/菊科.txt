@@ -1,4 +1,4 @@
 3
-data.zavx.txt 1
-data.zctp.txt 1
-data.zcts.txt 1
+data.zavx.txt 3.5891377275982888
+data.zctp.txt 3.5891377275982888
+data.zcts.txt 3.5891377275982888

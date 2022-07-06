@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.zbrj.txt 4
-data.zctp.txt 1
-data.zedo.txt 1
+data.fp.txt 3.389731710180695
+data.zbrj.txt 7.870713291999142
+data.zctp.txt 3.389731710180695
+data.zedo.txt 3.389731710180695

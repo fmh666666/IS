@@ -1,4 +1,4 @@
 3
-data.mx.txt 7
-data.zbjq.txt 1
-data.zcon.txt 1
+data.mx.txt 10.767413182794865
+data.zbjq.txt 3.5891377275982888
+data.zcon.txt 3.5891377275982888

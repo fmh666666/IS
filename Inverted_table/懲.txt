@@ -1,8 +1,8 @@
 7
-data.op.txt 1
-data.zaqw.txt 2
-data.zass.txt 1
-data.zate.txt 1
-data.zbgd.txt 2
-data.zdib.txt 1
-data.zewn.txt 1
+data.op.txt 3.0018356045764243
+data.zaqw.txt 4.757796866583254
+data.zass.txt 3.0018356045764243
+data.zate.txt 3.0018356045764243
+data.zbgd.txt 4.757796866583254
+data.zdib.txt 3.0018356045764243
+data.zewn.txt 3.0018356045764243

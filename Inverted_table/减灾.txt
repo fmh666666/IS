@@ -1,13 +1,13 @@
 12
-data.gw.txt 1
-data.hz.txt 1
-data.op.txt 1
-data.zawb.txt 3
-data.zbkf.txt 2
-data.zbqu.txt 1
-data.zcon.txt 1
-data.zdcw.txt 1
-data.zeeq.txt 1
-data.zene.txt 2
-data.zfai.txt 1
-data.zfaj.txt 1
+data.gw.txt 2.628231699761886
+data.hz.txt 2.628231699761886
+data.op.txt 2.628231699761886
+data.zawb.txt 5.256463399523772
+data.zbkf.txt 4.165648687329214
+data.zbqu.txt 2.628231699761886
+data.zcon.txt 2.628231699761886
+data.zdcw.txt 2.628231699761886
+data.zeeq.txt 2.628231699761886
+data.zene.txt 4.165648687329214
+data.zfai.txt 2.628231699761886
+data.zfaj.txt 2.628231699761886

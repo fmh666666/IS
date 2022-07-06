@@ -1,10 +1,10 @@
 9
-data.kq.txt 1
-data.zacw.txt 1
-data.zazg.txt 1
-data.zbyv.txt 1
-data.zcni.txt 1
-data.zcnn.txt 1
-data.zcvq.txt 1
-data.zegz.txt 1
-data.zene.txt 1
+data.kq.txt 2.82763771717948
+data.zacw.txt 2.82763771717948
+data.zazg.txt 2.82763771717948
+data.zbyv.txt 2.82763771717948
+data.zcni.txt 2.82763771717948
+data.zcnn.txt 2.82763771717948
+data.zcvq.txt 2.82763771717948
+data.zegz.txt 2.82763771717948
+data.zene.txt 2.82763771717948

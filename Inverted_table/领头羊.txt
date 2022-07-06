@@ -1,12 +1,12 @@
 11
-data.fj.txt 1
-data.zafi.txt 1
-data.zavg.txt 1
-data.zbhd.txt 1
-data.zcdy.txt 1
-data.zclh.txt 1
-data.zcls.txt 2
-data.zdil.txt 1
-data.zdzm.txt 1
-data.zebv.txt 1
-data.zexx.txt 1
+data.fj.txt 2.6885433903988862
+data.zafi.txt 2.6885433903988862
+data.zavg.txt 2.6885433903988862
+data.zbhd.txt 2.6885433903988862
+data.zcdy.txt 2.6885433903988862
+data.zclh.txt 2.6885433903988862
+data.zcls.txt 4.261240455343955
+data.zdil.txt 2.6885433903988862
+data.zdzm.txt 2.6885433903988862
+data.zebv.txt 2.6885433903988862
+data.zexx.txt 2.6885433903988862

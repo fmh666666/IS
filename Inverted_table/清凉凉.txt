@@ -1,5 +1,5 @@
 4
-data.zabj.txt 2
-data.zcln.txt 1
-data.zdji.txt 1
-data.zewv.txt 1
+data.zabj.txt 5.372597648141796
+data.zcln.txt 3.389731710180695
+data.zdji.txt 3.389731710180695
+data.zewv.txt 3.389731710180695

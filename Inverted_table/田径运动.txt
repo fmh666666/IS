@@ -1,6 +1,6 @@
 5
-data.zarr.txt 1
-data.zavx.txt 1
-data.zduk.txt 1
-data.zebf.txt 1
-data.zeyu.txt 1
+data.zarr.txt 3.235060386727117
+data.zavx.txt 3.235060386727117
+data.zduk.txt 3.235060386727117
+data.zebf.txt 3.235060386727117
+data.zeyu.txt 3.235060386727117

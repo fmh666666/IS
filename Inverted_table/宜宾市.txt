@@ -1,10 +1,10 @@
 9
-data.zajh.txt 1
-data.zbel.txt 1
-data.zckd.txt 1
-data.zcko.txt 2
-data.zcrg.txt 1
-data.zcsu.txt 2
-data.zebc.txt 1
-data.zeoh.txt 1
-data.zeyg.txt 1
+data.zajh.txt 2.82763771717948
+data.zbel.txt 2.82763771717948
+data.zckd.txt 2.82763771717948
+data.zcko.txt 4.48169974735425
+data.zcrg.txt 2.82763771717948
+data.zcsu.txt 4.48169974735425
+data.zebc.txt 2.82763771717948
+data.zeoh.txt 2.82763771717948
+data.zeyg.txt 2.82763771717948

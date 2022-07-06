@@ -1,8 +1,8 @@
 7
-data.pa.txt 1
-data.zahp.txt 1
-data.zbjh.txt 1
-data.zchd.txt 1
-data.zciy.txt 1
-data.zcrg.txt 1
-data.zeeh.txt 1
+data.pa.txt 3.0018356045764243
+data.zahp.txt 3.0018356045764243
+data.zbjh.txt 3.0018356045764243
+data.zchd.txt 3.0018356045764243
+data.zciy.txt 3.0018356045764243
+data.zcrg.txt 3.0018356045764243
+data.zeeh.txt 3.0018356045764243

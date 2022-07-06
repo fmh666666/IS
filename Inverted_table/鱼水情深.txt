@@ -1,2 +1,2 @@
 1
-data.op.txt 1
+data.op.txt 4.350637738017098

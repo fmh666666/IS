@@ -1,4 +1,4 @@
 3
-data.hg.txt 1
-data.zarc.txt 1
-data.zdpf.txt 1
+data.hg.txt 3.5891377275982888
+data.zarc.txt 3.5891377275982888
+data.zdpf.txt 3.5891377275982888

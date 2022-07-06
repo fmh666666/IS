@@ -1,5 +1,5 @@
 4
-data.ga.txt 1
-data.zbhd.txt 2
-data.zegk.txt 1
-data.zevq.txt 1
+data.ga.txt 3.389731710180695
+data.zbhd.txt 5.372597648141796
+data.zegk.txt 3.389731710180695
+data.zevq.txt 3.389731710180695

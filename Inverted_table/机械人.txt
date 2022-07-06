@@ -1,5 +1,5 @@
 4
-data.zbot.txt 1
-data.zbuj.txt 1
-data.zczb.txt 1
-data.zdlw.txt 1
+data.zbot.txt 3.389731710180695
+data.zbuj.txt 3.389731710180695
+data.zczb.txt 3.389731710180695
+data.zdlw.txt 3.389731710180695

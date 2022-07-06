@@ -1,4 +1,4 @@
 3
-data.zbjh.txt 1
-data.zblr.txt 1
-data.zene.txt 1
+data.zbjh.txt 3.5891377275982888
+data.zblr.txt 3.5891377275982888
+data.zene.txt 3.5891377275982888

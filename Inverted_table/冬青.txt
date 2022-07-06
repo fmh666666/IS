@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zass.txt 3
-data.zcts.txt 1
-data.zdqx.txt 2
-data.zfaj.txt 2
+data.kt.txt 3.235060386727117
+data.zass.txt 6.470120773454234
+data.zcts.txt 3.235060386727117
+data.zdqx.txt 5.1274494005309625
+data.zfaj.txt 5.1274494005309625

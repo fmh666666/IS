@@ -1,9 +1,9 @@
 8
-data.cq.txt 1
-data.tz.txt 1
-data.zbpx.txt 1
-data.zcfn.txt 1
-data.zctp.txt 2
-data.zcve.txt 3
-data.zcvq.txt 2
-data.zdme.txt 2
+data.cq.txt 2.9092786962624935
+data.tz.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zcfn.txt 2.9092786962624935
+data.zctp.txt 4.611097637722987
+data.zcve.txt 5.818557392524987
+data.zcvq.txt 4.611097637722987
+data.zdme.txt 4.611097637722987

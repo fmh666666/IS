@@ -1,10 +1,10 @@
 9
-data.ok.txt 1
-data.zaqw.txt 1
-data.zbel.txt 1
-data.zbes.txt 1
-data.zbvm.txt 1
-data.zeam.txt 1
-data.zene.txt 2
-data.zeva.txt 2
-data.zfbr.txt 1
+data.ok.txt 2.82763771717948
+data.zaqw.txt 2.82763771717948
+data.zbel.txt 2.82763771717948
+data.zbes.txt 2.82763771717948
+data.zbvm.txt 2.82763771717948
+data.zeam.txt 2.82763771717948
+data.zene.txt 4.48169974735425
+data.zeva.txt 4.48169974735425
+data.zfbr.txt 2.82763771717948

@@ -1,14 +1,14 @@
 13
-data.to.txt 1
-data.zall.txt 1
-data.zasd.txt 1
-data.zawc.txt 2
-data.zbdb.txt 1
-data.zbfz.txt 2
-data.zbvn.txt 1
-data.zbyb.txt 1
-data.zcef.txt 2
-data.zdpw.txt 1
-data.zdzi.txt 1
-data.zeeh.txt 1
-data.zegz.txt 1
+data.to.txt 2.5727503226135906
+data.zall.txt 2.5727503226135906
+data.zasd.txt 2.5727503226135906
+data.zawc.txt 4.077712785060798
+data.zbdb.txt 2.5727503226135906
+data.zbfz.txt 4.077712785060798
+data.zbvn.txt 2.5727503226135906
+data.zbyb.txt 2.5727503226135906
+data.zcef.txt 4.077712785060798
+data.zdpw.txt 2.5727503226135906
+data.zdzi.txt 2.5727503226135906
+data.zeeh.txt 2.5727503226135906
+data.zegz.txt 2.5727503226135906

@@ -1,7 +1,7 @@
 6
-data.zaoy.txt 1
-data.zapl.txt 1
-data.zcdy.txt 2
-data.zcdz.txt 1
-data.zcxr.txt 2
-data.zduo.txt 1
+data.zaoy.txt 3.1086847136800873
+data.zapl.txt 3.1086847136800873
+data.zcdy.txt 4.927148697748023
+data.zcdz.txt 3.1086847136800873
+data.zcxr.txt 4.927148697748023
+data.zduo.txt 3.1086847136800873

@@ -1,10 +1,10 @@
 9
-data.zafk.txt 2
-data.zaip.txt 1
-data.zako.txt 1
-data.zbpx.txt 1
-data.zbrj.txt 1
-data.zcmy.txt 2
-data.zdqz.txt 1
-data.zfai.txt 1
-data.zfdk.txt 1
+data.zafk.txt 4.48169974735425
+data.zaip.txt 2.82763771717948
+data.zako.txt 2.82763771717948
+data.zbpx.txt 2.82763771717948
+data.zbrj.txt 2.82763771717948
+data.zcmy.txt 4.48169974735425
+data.zdqz.txt 2.82763771717948
+data.zfai.txt 2.82763771717948
+data.zfdk.txt 2.82763771717948

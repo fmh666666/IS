@@ -1,13 +1,13 @@
 12
-data.ev.txt 2
-data.ew.txt 3
-data.zafu.txt 1
-data.zajo.txt 1
-data.zaqw.txt 1
-data.zaxj.txt 1
-data.zaxp.txt 1
-data.zcrv.txt 1
-data.zdoq.txt 1
-data.zdqz.txt 2
-data.zeos.txt 1
-data.zfai.txt 1
+data.ev.txt 4.165648687329214
+data.ew.txt 5.256463399523772
+data.zafu.txt 2.628231699761886
+data.zajo.txt 2.628231699761886
+data.zaqw.txt 2.628231699761886
+data.zaxj.txt 2.628231699761886
+data.zaxp.txt 2.628231699761886
+data.zcrv.txt 2.628231699761886
+data.zdoq.txt 2.628231699761886
+data.zdqz.txt 4.165648687329214
+data.zeos.txt 2.628231699761886
+data.zfai.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.cq.txt 1
-data.gk.txt 1
-data.zadv.txt 1
-data.zawc.txt 1
-data.zazw.txt 1
-data.zcej.txt 2
-data.zdtr.txt 1
-data.zdtv.txt 1
-data.zevt.txt 1
+data.cq.txt 2.82763771717948
+data.gk.txt 2.82763771717948
+data.zadv.txt 2.82763771717948
+data.zawc.txt 2.82763771717948
+data.zazw.txt 2.82763771717948
+data.zcej.txt 4.48169974735425
+data.zdtr.txt 2.82763771717948
+data.zdtv.txt 2.82763771717948
+data.zevt.txt 2.82763771717948

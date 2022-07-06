@@ -1,11 +1,11 @@
 10
-data.mk.txt 1
-data.zbcc.txt 1
-data.zbmw.txt 1
-data.zcfn.txt 1
-data.zchw.txt 1
-data.zctp.txt 3
-data.zeaj.txt 1
-data.zeeh.txt 1
-data.zezy.txt 1
-data.zfcj.txt 1
+data.mk.txt 2.7546073728089153
+data.zbcc.txt 2.7546073728089153
+data.zbmw.txt 2.7546073728089153
+data.zcfn.txt 2.7546073728089153
+data.zchw.txt 2.7546073728089153
+data.zctp.txt 5.509214745617831
+data.zeaj.txt 2.7546073728089153
+data.zeeh.txt 2.7546073728089153
+data.zezy.txt 2.7546073728089153
+data.zfcj.txt 2.7546073728089153

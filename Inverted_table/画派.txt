@@ -1,7 +1,7 @@
 6
-data.by.txt 1
-data.ud.txt 1
-data.zbrj.txt 1
-data.zbzf.txt 2
-data.zcao.txt 1
-data.zctm.txt 1
+data.by.txt 3.1086847136800873
+data.ud.txt 3.1086847136800873
+data.zbrj.txt 3.1086847136800873
+data.zbzf.txt 4.927148697748023
+data.zcao.txt 3.1086847136800873
+data.zctm.txt 3.1086847136800873

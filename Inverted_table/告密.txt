@@ -1,8 +1,8 @@
 7
-data.kq.txt 1
-data.zawb.txt 1
-data.zbhd.txt 1
-data.zdju.txt 1
-data.zeai.txt 1
-data.zejk.txt 1
-data.zeoh.txt 1
+data.kq.txt 3.0018356045764243
+data.zawb.txt 3.0018356045764243
+data.zbhd.txt 3.0018356045764243
+data.zdju.txt 3.0018356045764243
+data.zeai.txt 3.0018356045764243
+data.zejk.txt 3.0018356045764243
+data.zeoh.txt 3.0018356045764243

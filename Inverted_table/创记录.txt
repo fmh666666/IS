@@ -1,5 +1,5 @@
 4
-data.fp.txt 1
-data.zawo.txt 1
-data.zcvi.txt 1
-data.zehb.txt 1
+data.fp.txt 3.389731710180695
+data.zawo.txt 3.389731710180695
+data.zcvi.txt 3.389731710180695
+data.zehb.txt 3.389731710180695

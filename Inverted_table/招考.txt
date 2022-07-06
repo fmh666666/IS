@@ -1,14 +1,14 @@
 13
-data.hp.txt 1
-data.jj.txt 1
-data.to.txt 1
-data.zbeb.txt 1
-data.zbel.txt 1
-data.zbil.txt 1
-data.zbux.txt 1
-data.zcmy.txt 1
-data.zctp.txt 1
-data.zdyv.txt 1
-data.zeam.txt 1
-data.zelt.txt 1
-data.zewn.txt 1
+data.hp.txt 2.5727503226135906
+data.jj.txt 2.5727503226135906
+data.to.txt 2.5727503226135906
+data.zbeb.txt 2.5727503226135906
+data.zbel.txt 2.5727503226135906
+data.zbil.txt 2.5727503226135906
+data.zbux.txt 2.5727503226135906
+data.zcmy.txt 2.5727503226135906
+data.zctp.txt 2.5727503226135906
+data.zdyv.txt 2.5727503226135906
+data.zeam.txt 2.5727503226135906
+data.zelt.txt 2.5727503226135906
+data.zewn.txt 2.5727503226135906

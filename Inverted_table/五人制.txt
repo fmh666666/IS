@@ -1,7 +1,7 @@
 6
-data.zarc.txt 1
-data.zbaq.txt 4
-data.zctn.txt 20
-data.zeqn.txt 1
-data.zevy.txt 2
-data.zexm.txt 2
+data.zarc.txt 3.1086847136800873
+data.zbaq.txt 7.21814237484067
+data.zctn.txt 13.654330029823049
+data.zeqn.txt 3.1086847136800873
+data.zevy.txt 4.927148697748023
+data.zexm.txt 4.927148697748023

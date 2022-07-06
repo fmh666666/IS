@@ -1,6 +1,6 @@
 5
-data.zawb.txt 1
-data.zawz.txt 1
-data.zbrj.txt 1
-data.zeds.txt 1
-data.zeeh.txt 1
+data.zawb.txt 3.235060386727117
+data.zawz.txt 3.235060386727117
+data.zbrj.txt 3.235060386727117
+data.zeds.txt 3.235060386727117
+data.zeeh.txt 3.235060386727117

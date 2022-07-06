@@ -1,8 +1,8 @@
 7
-data.mi.txt 1
-data.zauy.txt 1
-data.zawu.txt 1
-data.zbhd.txt 1
-data.zcko.txt 1
-data.zcyv.txt 1
-data.zdoc.txt 1
+data.mi.txt 3.0018356045764243
+data.zauy.txt 3.0018356045764243
+data.zawu.txt 3.0018356045764243
+data.zbhd.txt 3.0018356045764243
+data.zcko.txt 3.0018356045764243
+data.zcyv.txt 3.0018356045764243
+data.zdoc.txt 3.0018356045764243

@@ -1,5 +1,5 @@
 4
-data.zbaf.txt 1
-data.zbwq.txt 1
-data.zebf.txt 1
-data.zfbr.txt 1
+data.zbaf.txt 3.389731710180695
+data.zbwq.txt 3.389731710180695
+data.zebf.txt 3.389731710180695
+data.zfbr.txt 3.389731710180695

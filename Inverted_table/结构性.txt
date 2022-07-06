@@ -1,12 +1,12 @@
 11
-data.ga.txt 1
-data.zcdy.txt 2
-data.zcdz.txt 1
-data.zcmy.txt 1
-data.zdro.txt 1
-data.zeaf.txt 1
-data.zebf.txt 1
-data.zebn.txt 1
-data.zeec.txt 1
-data.zelt.txt 3
-data.zexv.txt 4
+data.ga.txt 2.6885433903988862
+data.zcdy.txt 4.261240455343955
+data.zcdz.txt 2.6885433903988862
+data.zcmy.txt 2.6885433903988862
+data.zdro.txt 2.6885433903988862
+data.zeaf.txt 2.6885433903988862
+data.zebf.txt 2.6885433903988862
+data.zebn.txt 2.6885433903988862
+data.zeec.txt 2.6885433903988862
+data.zelt.txt 5.3770867807977725
+data.zexv.txt 6.2426044324908965

@@ -1,6 +1,6 @@
 5
-data.zbha.txt 1
-data.zctp.txt 2
-data.zcts.txt 3
-data.zdaq.txt 1
-data.zezm.txt 1
+data.zbha.txt 3.235060386727117
+data.zctp.txt 5.1274494005309625
+data.zcts.txt 6.470120773454234
+data.zdaq.txt 3.235060386727117
+data.zezm.txt 3.235060386727117

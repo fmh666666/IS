@@ -1,2 +1,2 @@
 1
-data.tj.txt 3
+data.tj.txt 8.701275476034196

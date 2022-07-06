@@ -1,7 +1,7 @@
 6
-data.fp.txt 1
-data.zajo.txt 1
-data.zbjh.txt 1
-data.zcdz.txt 1
-data.zedo.txt 1
-data.zfai.txt 1
+data.fp.txt 3.1086847136800873
+data.zajo.txt 3.1086847136800873
+data.zbjh.txt 3.1086847136800873
+data.zcdz.txt 3.1086847136800873
+data.zedo.txt 3.1086847136800873
+data.zfai.txt 3.1086847136800873

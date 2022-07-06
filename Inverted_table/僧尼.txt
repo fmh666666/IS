@@ -1,6 +1,6 @@
 5
-data.ep.txt 2
-data.zabe.txt 2
-data.zawb.txt 4
-data.zbjh.txt 3
-data.zeoh.txt 1
+data.ep.txt 5.1274494005309625
+data.zabe.txt 5.1274494005309625
+data.zawb.txt 7.511577600598868
+data.zbjh.txt 6.470120773454234
+data.zeoh.txt 3.235060386727117

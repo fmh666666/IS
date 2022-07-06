@@ -1,5 +1,5 @@
 4
-data.zasw.txt 1
-data.zazg.txt 1
-data.zazx.txt 1
-data.zbnx.txt 1
+data.zasw.txt 3.389731710180695
+data.zazg.txt 3.389731710180695
+data.zazx.txt 3.389731710180695
+data.zbnx.txt 3.389731710180695

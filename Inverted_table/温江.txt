@@ -1,6 +1,6 @@
 5
-data.ep.txt 2
-data.zbel.txt 1
-data.zcrv.txt 1
-data.zduc.txt 3
-data.zefw.txt 1
+data.ep.txt 5.1274494005309625
+data.zbel.txt 3.235060386727117
+data.zcrv.txt 3.235060386727117
+data.zduc.txt 6.470120773454234
+data.zefw.txt 3.235060386727117

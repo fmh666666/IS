@@ -1,4 +1,4 @@
 3
-data.pn.txt 1
-data.zdro.txt 1
-data.zeyg.txt 2
+data.pn.txt 3.5891377275982888
+data.zdro.txt 3.5891377275982888
+data.zeyg.txt 5.688648708166832

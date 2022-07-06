@@ -1,6 +1,6 @@
 5
-data.hg.txt 1
-data.zaim.txt 1
-data.zbfz.txt 1
-data.zbga.txt 1
-data.zdgt.txt 1
+data.hg.txt 3.235060386727117
+data.zaim.txt 3.235060386727117
+data.zbfz.txt 3.235060386727117
+data.zbga.txt 3.235060386727117
+data.zdgt.txt 3.235060386727117

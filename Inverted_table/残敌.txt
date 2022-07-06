@@ -1,4 +1,4 @@
 3
-data.zbia.txt 1
-data.zbor.txt 1
-data.zdnc.txt 1
+data.zbia.txt 3.5891377275982888
+data.zbor.txt 3.5891377275982888
+data.zdnc.txt 3.5891377275982888

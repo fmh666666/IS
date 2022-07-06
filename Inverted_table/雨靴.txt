@@ -1,12 +1,12 @@
 11
-data.zate.txt 2
-data.zbgw.txt 1
-data.zbkf.txt 1
-data.zbvp.txt 1
-data.zccu.txt 1
-data.zdeb.txt 2
-data.zdzn.txt 1
-data.zeam.txt 1
-data.zegz.txt 1
-data.zeik.txt 1
-data.zezm.txt 2
+data.zate.txt 4.261240455343955
+data.zbgw.txt 2.6885433903988862
+data.zbkf.txt 2.6885433903988862
+data.zbvp.txt 2.6885433903988862
+data.zccu.txt 2.6885433903988862
+data.zdeb.txt 4.261240455343955
+data.zdzn.txt 2.6885433903988862
+data.zeam.txt 2.6885433903988862
+data.zegz.txt 2.6885433903988862
+data.zeik.txt 2.6885433903988862
+data.zezm.txt 4.261240455343955

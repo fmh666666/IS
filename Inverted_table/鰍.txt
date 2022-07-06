@@ -1,2 +1,2 @@
 1
-data.zbsu.txt 1
+data.zbsu.txt 4.350637738017098

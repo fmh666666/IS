@@ -1,9 +1,9 @@
 8
-data.zamr.txt 2
-data.zarr.txt 2
-data.zdeb.txt 1
-data.zdof.txt 1
-data.zdpw.txt 1
-data.zdux.txt 1
-data.zenw.txt 1
-data.zeqv.txt 1
+data.zamr.txt 4.611097637722987
+data.zarr.txt 4.611097637722987
+data.zdeb.txt 2.9092786962624935
+data.zdof.txt 2.9092786962624935
+data.zdpw.txt 2.9092786962624935
+data.zdux.txt 2.9092786962624935
+data.zenw.txt 2.9092786962624935
+data.zeqv.txt 2.9092786962624935

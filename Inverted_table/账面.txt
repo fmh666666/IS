@@ -1,6 +1,6 @@
 5
-data.kt.txt 1
-data.zbhe.txt 1
-data.zcdy.txt 1
-data.zcdz.txt 1
-data.zdgt.txt 3
+data.kt.txt 3.235060386727117
+data.zbhe.txt 3.235060386727117
+data.zcdy.txt 3.235060386727117
+data.zcdz.txt 3.235060386727117
+data.zdgt.txt 6.470120773454234

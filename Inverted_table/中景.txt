@@ -1,5 +1,5 @@
 4
-data.zacd.txt 1
-data.zafl.txt 3
-data.zaxj.txt 1
-data.zazn.txt 1
+data.zacd.txt 3.389731710180695
+data.zafl.txt 6.77946342036139
+data.zaxj.txt 3.389731710180695
+data.zazn.txt 3.389731710180695

@@ -1,9 +1,9 @@
 8
-data.hz.txt 2
-data.ng.txt 1
-data.pa.txt 1
-data.xe.txt 1
-data.zasq.txt 1
-data.zbzg.txt 1
-data.zcem.txt 1
-data.zcmn.txt 1
+data.hz.txt 4.611097637722987
+data.ng.txt 2.9092786962624935
+data.pa.txt 2.9092786962624935
+data.xe.txt 2.9092786962624935
+data.zasq.txt 2.9092786962624935
+data.zbzg.txt 2.9092786962624935
+data.zcem.txt 2.9092786962624935
+data.zcmn.txt 2.9092786962624935

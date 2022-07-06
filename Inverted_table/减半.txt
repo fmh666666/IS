@@ -1,14 +1,14 @@
 13
-data.zauy.txt 2
-data.zbfz.txt 1
-data.zbhe.txt 1
-data.zcdy.txt 1
-data.zcmv.txt 1
-data.zcon.txt 1
-data.zdgv.txt 2
-data.zeel.txt 1
-data.zeeq.txt 1
-data.zemf.txt 1
-data.zexv.txt 2
-data.zeyg.txt 1
-data.zezn.txt 1
+data.zauy.txt 4.077712785060798
+data.zbfz.txt 2.5727503226135906
+data.zbhe.txt 2.5727503226135906
+data.zcdy.txt 2.5727503226135906
+data.zcmv.txt 2.5727503226135906
+data.zcon.txt 2.5727503226135906
+data.zdgv.txt 4.077712785060798
+data.zeel.txt 2.5727503226135906
+data.zeeq.txt 2.5727503226135906
+data.zemf.txt 2.5727503226135906
+data.zexv.txt 4.077712785060798
+data.zeyg.txt 2.5727503226135906
+data.zezn.txt 2.5727503226135906

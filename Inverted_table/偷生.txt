@@ -1,7 +1,7 @@
 6
-data.bs.txt 1
-data.ev.txt 1
-data.zczj.txt 1
-data.zedk.txt 1
-data.zedx.txt 1
-data.zezm.txt 1
+data.bs.txt 3.1086847136800873
+data.ev.txt 3.1086847136800873
+data.zczj.txt 3.1086847136800873
+data.zedk.txt 3.1086847136800873
+data.zedx.txt 3.1086847136800873
+data.zezm.txt 3.1086847136800873

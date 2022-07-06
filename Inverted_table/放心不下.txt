@@ -1,7 +1,7 @@
 6
-data.zaxk.txt 1
-data.zbaq.txt 1
-data.zcdy.txt 1
-data.zcon.txt 1
-data.zdcw.txt 2
-data.zdeb.txt 1
+data.zaxk.txt 3.1086847136800873
+data.zbaq.txt 3.1086847136800873
+data.zcdy.txt 3.1086847136800873
+data.zcon.txt 3.1086847136800873
+data.zdcw.txt 4.927148697748023
+data.zdeb.txt 3.1086847136800873

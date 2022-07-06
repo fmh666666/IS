@@ -1,9 +1,9 @@
 8
-data.kq.txt 8
-data.zbhd.txt 1
-data.zbor.txt 1
-data.zbpx.txt 1
-data.zbvp.txt 2
-data.zcjd.txt 1
-data.zdep.txt 1
-data.zelt.txt 1
+data.kq.txt 9.222195275445975
+data.zbhd.txt 2.9092786962624935
+data.zbor.txt 2.9092786962624935
+data.zbpx.txt 2.9092786962624935
+data.zbvp.txt 4.611097637722987
+data.zcjd.txt 2.9092786962624935
+data.zdep.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935

@@ -1,10 +1,10 @@
 9
-data.aj.txt 1
-data.bf.txt 1
-data.kq.txt 1
-data.zadv.txt 2
-data.zahd.txt 1
-data.zaim.txt 1
-data.zaoo.txt 1
-data.zcak.txt 1
-data.zdic.txt 1
+data.aj.txt 2.82763771717948
+data.bf.txt 2.82763771717948
+data.kq.txt 2.82763771717948
+data.zadv.txt 4.48169974735425
+data.zahd.txt 2.82763771717948
+data.zaim.txt 2.82763771717948
+data.zaoo.txt 2.82763771717948
+data.zcak.txt 2.82763771717948
+data.zdic.txt 2.82763771717948

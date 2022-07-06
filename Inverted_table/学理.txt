@@ -1,8 +1,8 @@
 7
-data.zaxk.txt 2
-data.zbds.txt 1
-data.zcmv.txt 1
-data.zcqg.txt 1
-data.zcrv.txt 1
-data.zehp.txt 1
-data.zexv.txt 1
+data.zaxk.txt 4.757796866583254
+data.zbds.txt 3.0018356045764243
+data.zcmv.txt 3.0018356045764243
+data.zcqg.txt 3.0018356045764243
+data.zcrv.txt 3.0018356045764243
+data.zehp.txt 3.0018356045764243
+data.zexv.txt 3.0018356045764243

@@ -1,14 +1,14 @@
 13
-data.ga.txt 1
-data.to.txt 1
-data.zafv.txt 1
-data.zaoy.txt 1
-data.zbfg.txt 1
-data.zbpc.txt 1
-data.zbvm.txt 85
-data.zcqg.txt 1
-data.zdud.txt 1
-data.zdvl.txt 1
-data.zeoh.txt 1
-data.zevl.txt 1
-data.zfcj.txt 1
+data.ga.txt 2.5727503226135906
+data.to.txt 2.5727503226135906
+data.zafv.txt 2.5727503226135906
+data.zaoy.txt 2.5727503226135906
+data.zbfg.txt 2.5727503226135906
+data.zbpc.txt 2.5727503226135906
+data.zbvm.txt 16.533174720860167
+data.zcqg.txt 2.5727503226135906
+data.zdud.txt 2.5727503226135906
+data.zdvl.txt 2.5727503226135906
+data.zeoh.txt 2.5727503226135906
+data.zevl.txt 2.5727503226135906
+data.zfcj.txt 2.5727503226135906

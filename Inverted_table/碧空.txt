@@ -1,9 +1,9 @@
 8
-data.bf.txt 1
-data.hc.txt 1
-data.mx.txt 1
-data.zavg.txt 1
-data.zcic.txt 1
-data.zdwn.txt 1
-data.zexk.txt 1
-data.zfai.txt 1
+data.bf.txt 2.9092786962624935
+data.hc.txt 2.9092786962624935
+data.mx.txt 2.9092786962624935
+data.zavg.txt 2.9092786962624935
+data.zcic.txt 2.9092786962624935
+data.zdwn.txt 2.9092786962624935
+data.zexk.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

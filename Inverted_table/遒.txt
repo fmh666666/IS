@@ -1,5 +1,5 @@
 4
-data.zaxj.txt 1
-data.zbhd.txt 1
-data.zczl.txt 1
-data.zczp.txt 1
+data.zaxj.txt 3.389731710180695
+data.zbhd.txt 3.389731710180695
+data.zczl.txt 3.389731710180695
+data.zczp.txt 3.389731710180695

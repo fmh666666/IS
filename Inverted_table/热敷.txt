@@ -1,13 +1,13 @@
 12
-data.mt.txt 1
-data.sq.txt 2
-data.zalt.txt 1
-data.zbil.txt 1
-data.zbyv.txt 1
-data.zcoy.txt 3
-data.zctp.txt 2
-data.zcts.txt 5
-data.zcvt.txt 2
-data.zdcj.txt 1
-data.zdpf.txt 1
-data.zezm.txt 2
+data.mt.txt 2.628231699761886
+data.sq.txt 4.165648687329214
+data.zalt.txt 2.628231699761886
+data.zbil.txt 2.628231699761886
+data.zbyv.txt 2.628231699761886
+data.zcoy.txt 5.256463399523772
+data.zctp.txt 4.165648687329214
+data.zcts.txt 6.7938803870911
+data.zcvt.txt 4.165648687329214
+data.zdcj.txt 2.628231699761886
+data.zdpf.txt 2.628231699761886
+data.zezm.txt 4.165648687329214

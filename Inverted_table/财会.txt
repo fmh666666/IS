@@ -1,10 +1,10 @@
 9
-data.zank.txt 1
-data.zapl.txt 1
-data.zbfd.txt 1
-data.zbfx.txt 1
-data.zcxh.txt 1
-data.zdep.txt 1
-data.zeec.txt 1
-data.zenw.txt 1
-data.zeve.txt 3
+data.zank.txt 2.82763771717948
+data.zapl.txt 2.82763771717948
+data.zbfd.txt 2.82763771717948
+data.zbfx.txt 2.82763771717948
+data.zcxh.txt 2.82763771717948
+data.zdep.txt 2.82763771717948
+data.zeec.txt 2.82763771717948
+data.zenw.txt 2.82763771717948
+data.zeve.txt 5.65527543435896

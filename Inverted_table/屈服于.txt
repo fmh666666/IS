@@ -1,9 +1,9 @@
 8
-data.sq.txt 1
-data.zacw.txt 1
-data.zadv.txt 1
-data.zbxw.txt 1
-data.zcvq.txt 1
-data.zebc.txt 1
-data.zelt.txt 1
-data.zfai.txt 1
+data.sq.txt 2.9092786962624935
+data.zacw.txt 2.9092786962624935
+data.zadv.txt 2.9092786962624935
+data.zbxw.txt 2.9092786962624935
+data.zcvq.txt 2.9092786962624935
+data.zebc.txt 2.9092786962624935
+data.zelt.txt 2.9092786962624935
+data.zfai.txt 2.9092786962624935

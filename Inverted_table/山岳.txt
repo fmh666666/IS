@@ -1,6 +1,6 @@
 5
-data.by.txt 1
-data.zbkv.txt 1
-data.zcao.txt 1
-data.zctm.txt 1
-data.zeik.txt 1
+data.by.txt 3.235060386727117
+data.zbkv.txt 3.235060386727117
+data.zcao.txt 3.235060386727117
+data.zctm.txt 3.235060386727117
+data.zeik.txt 3.235060386727117

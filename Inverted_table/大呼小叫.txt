@@ -1,7 +1,7 @@
 6
-data.zako.txt 1
-data.zard.txt 1
-data.zdkc.txt 1
-data.zdof.txt 1
-data.zeqn.txt 1
-data.zesi.txt 2
+data.zako.txt 3.1086847136800873
+data.zard.txt 3.1086847136800873
+data.zdkc.txt 3.1086847136800873
+data.zdof.txt 3.1086847136800873
+data.zeqn.txt 3.1086847136800873
+data.zesi.txt 4.927148697748023

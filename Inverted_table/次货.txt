@@ -1,10 +1,10 @@
 9
-data.ye.txt 1
-data.zacp.txt 1
-data.zalt.txt 7
-data.zbua.txt 1
-data.zcgo.txt 1
-data.zcsu.txt 1
-data.zeai.txt 1
-data.zeaj.txt 1
-data.zehp.txt 2
+data.ye.txt 2.82763771717948
+data.zacp.txt 2.82763771717948
+data.zalt.txt 8.48291315153844
+data.zbua.txt 2.82763771717948
+data.zcgo.txt 2.82763771717948
+data.zcsu.txt 2.82763771717948
+data.zeai.txt 2.82763771717948
+data.zeaj.txt 2.82763771717948
+data.zehp.txt 4.48169974735425

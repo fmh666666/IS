@@ -1,9 +1,9 @@
 8
-data.zate.txt 1
-data.zawz.txt 1
-data.zbwq.txt 1
-data.zdby.txt 1
-data.zdwd.txt 1
-data.zeag.txt 1
-data.zeay.txt 1
-data.zefw.txt 1
+data.zate.txt 2.9092786962624935
+data.zawz.txt 2.9092786962624935
+data.zbwq.txt 2.9092786962624935
+data.zdby.txt 2.9092786962624935
+data.zdwd.txt 2.9092786962624935
+data.zeag.txt 2.9092786962624935
+data.zeay.txt 2.9092786962624935
+data.zefw.txt 2.9092786962624935

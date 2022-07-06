@@ -1,5 +1,5 @@
 4
-data.ye.txt 2
-data.zbvg.txt 2
-data.zcll.txt 1
-data.zcpa.txt 1
+data.ye.txt 5.372597648141796
+data.zbvg.txt 5.372597648141796
+data.zcll.txt 3.389731710180695
+data.zcpa.txt 3.389731710180695

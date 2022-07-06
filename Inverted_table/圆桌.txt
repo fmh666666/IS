@@ -1,13 +1,13 @@
 12
-data.ka.txt 1
-data.mx.txt 1
-data.zass.txt 1
-data.zbdb.txt 1
-data.zbfz.txt 1
-data.zbhd.txt 1
-data.zbhe.txt 1
-data.zbor.txt 1
-data.zcdy.txt 1
-data.zcln.txt 1
-data.zcrv.txt 1
-data.zeoh.txt 1
+data.ka.txt 2.628231699761886
+data.mx.txt 2.628231699761886
+data.zass.txt 2.628231699761886
+data.zbdb.txt 2.628231699761886
+data.zbfz.txt 2.628231699761886
+data.zbhd.txt 2.628231699761886
+data.zbhe.txt 2.628231699761886
+data.zbor.txt 2.628231699761886
+data.zcdy.txt 2.628231699761886
+data.zcln.txt 2.628231699761886
+data.zcrv.txt 2.628231699761886
+data.zeoh.txt 2.628231699761886

@@ -1,10 +1,10 @@
 9
-data.zawo.txt 1
-data.zbcv.txt 1
-data.zcrn.txt 1
-data.zcts.txt 2
-data.zdpf.txt 1
-data.zefw.txt 1
-data.zehb.txt 1
-data.zejn.txt 1
-data.zeqv.txt 1
+data.zawo.txt 2.82763771717948
+data.zbcv.txt 2.82763771717948
+data.zcrn.txt 2.82763771717948
+data.zcts.txt 4.48169974735425
+data.zdpf.txt 2.82763771717948
+data.zefw.txt 2.82763771717948
+data.zehb.txt 2.82763771717948
+data.zejn.txt 2.82763771717948
+data.zeqv.txt 2.82763771717948

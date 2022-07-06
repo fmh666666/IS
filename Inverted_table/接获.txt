@@ -1,5 +1,5 @@
 4
-data.co.txt 9
-data.zclm.txt 1
-data.zczp.txt 1
-data.zfai.txt 1
+data.co.txt 11.260445002179837
+data.zclm.txt 3.389731710180695
+data.zczp.txt 3.389731710180695
+data.zfai.txt 3.389731710180695

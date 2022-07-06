@@ -1,7 +1,7 @@
 6
-data.jf.txt 2
-data.ry.txt 1
-data.zabj.txt 1
-data.zaxk.txt 1
-data.zdds.txt 4
-data.zenn.txt 1
+data.jf.txt 4.927148697748023
+data.ry.txt 3.1086847136800873
+data.zabj.txt 3.1086847136800873
+data.zaxk.txt 3.1086847136800873
+data.zdds.txt 7.21814237484067
+data.zenn.txt 3.1086847136800873

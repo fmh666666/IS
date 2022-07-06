@@ -1,7 +1,7 @@
 6
-data.zadv.txt 1
-data.zate.txt 1
-data.zawb.txt 1
-data.zctp.txt 1
-data.zdod.txt 1
-data.zeoo.txt 1
+data.zadv.txt 3.1086847136800873
+data.zate.txt 3.1086847136800873
+data.zawb.txt 3.1086847136800873
+data.zctp.txt 3.1086847136800873
+data.zdod.txt 3.1086847136800873
+data.zeoo.txt 3.1086847136800873

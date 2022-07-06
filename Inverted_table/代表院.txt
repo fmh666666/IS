@@ -1,2 +1,2 @@
 1
-data.ew.txt 1
+data.ew.txt 4.350637738017098

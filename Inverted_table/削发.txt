@@ -1,5 +1,5 @@
 4
-data.zasq.txt 4
-data.zauy.txt 1
-data.zbcj.txt 1
-data.zclm.txt 1
+data.zasq.txt 7.870713291999142
+data.zauy.txt 3.389731710180695
+data.zbcj.txt 3.389731710180695
+data.zclm.txt 3.389731710180695

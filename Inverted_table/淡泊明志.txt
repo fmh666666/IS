@@ -1,4 +1,4 @@
 3
-data.zafe.txt 1
-data.zahd.txt 1
-data.zfas.txt 1
+data.zafe.txt 3.5891377275982888
+data.zahd.txt 3.5891377275982888
+data.zfas.txt 3.5891377275982888

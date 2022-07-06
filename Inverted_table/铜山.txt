@@ -1,3 +1,3 @@
 2
-data.zdoc.txt 1
-data.zdou.txt 1
+data.zdoc.txt 3.8701847240988965
+data.zdou.txt 3.8701847240988965

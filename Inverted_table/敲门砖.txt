@@ -1,5 +1,5 @@
 4
-data.zaxj.txt 1
-data.zdep.txt 2
-data.zedo.txt 1
-data.zeqv.txt 1
+data.zaxj.txt 3.389731710180695
+data.zdep.txt 5.372597648141796
+data.zedo.txt 3.389731710180695
+data.zeqv.txt 3.389731710180695

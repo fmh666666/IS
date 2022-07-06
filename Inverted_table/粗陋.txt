@@ -1,6 +1,6 @@
 5
-data.fp.txt 1
-data.zbjk.txt 1
-data.zbla.txt 1
-data.zdoc.txt 1
-data.zehp.txt 1
+data.fp.txt 3.235060386727117
+data.zbjk.txt 3.235060386727117
+data.zbla.txt 3.235060386727117
+data.zdoc.txt 3.235060386727117
+data.zehp.txt 3.235060386727117
